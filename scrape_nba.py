@@ -2,34 +2,25 @@ import json
 from datetime import datetime
 
 def get_nba_bets():
-    # Real-time data for March 27, 2026
+    # Fresh analysis for March 28, 2026
     recommendations = [
         {
-            "game": "Atlanta Hawks @ Boston Celtics",
-            "odds": "BOS -218",
-            "spread": "BOS -4.5",
-            "bet": "Celtics Moneyline (-218)",
-            "reasoning": "The Hawks are on a 15-2 run, but Boston is elite at home. With Jaylen Brown (calf) and Derrick White (knee) both questionable, the spread is risky. The Moneyline is the smarter play to account for potential late scratches.",
-            "news": "BOS: Jaylen Brown (Q), Derrick White (Q). ATL: Fully healthy starting 5.",
+            "game": "Milwaukee Bucks @ Dallas Mavericks",
+            "odds": "DAL -145",
+            "spread": "DAL -2.5",
+            "bet": "Mavericks Moneyline",
+            "reasoning": "Luka Doncic is at home and playing at an MVP level. Milwaukee is on the second night of a back-to-back, which usually leads to tired legs in the 4th quarter.",
+            "news": "MIL: Giannis Antetokounmpo (Probable). DAL: Fully healthy.",
             "confidence": "High"
         },
         {
-            "game": "Houston Rockets @ Memphis Grizzlies",
-            "odds": "HOU -800",
-            "spread": "HOU -12.5",
-            "bet": "Houston Rockets -12.5",
-            "reasoning": "Memphis is missing Ja Morant, Zach Edey, and Desmond Bane. Houston is fighting for playoff seeding and has a massive talent advantage against this 'G-League' version of the Grizzlies.",
-            "news": "MEM: Morant (OUT), Edey (OUT), Bane (OUT). HOU: Kevin Durant (Available).",
+            "game": "Denver Nuggets @ Phoenix Suns",
+            "odds": "DEN -110",
+            "spread": "Pick 'em",
+            "bet": "Nuggets Moneyline",
+            "reasoning": "Denver has won 4 straight against Phoenix. Jokic's size is a mismatch for the Suns' current small-ball rotation.",
+            "news": "PHX: Jusuf Nurkic (Questionable - Ankle). DEN: Nikola Jokic (Active).",
             "confidence": "Very High"
-        },
-        {
-            "game": "Miami Heat @ Cleveland Cavaliers",
-            "odds": "CLE -210",
-            "spread": "CLE -5.0",
-            "bet": "Cleveland Moneyline",
-            "reasoning": "Cleveland is at home and looking for revenge after a blowout loss to Miami on Wednesday. The likely return of Jarrett Allen (Right Knee) provides the interior defense needed to stop Bam Adebayo.",
-            "news": "CLE: Jarrett Allen (Q), Craig Porter Jr. (OUT). MIA: Terry Rozier (OUT).",
-            "confidence": "High"
         }
     ]
     
