@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup
 from datetime import datetime
 
 # REPLACE WITH YOUR KEY from NewsAPI.org
-NEWS_API_KEY = "YOUR_API_KEY_HERE"
+NEWS_API_KEY = "e6dd36d64d2d46b6962685025f0f236f "
 
 def get_game_specific_news(team1, team2):
     """Fetches news specifically for the two teams in a matchup."""
