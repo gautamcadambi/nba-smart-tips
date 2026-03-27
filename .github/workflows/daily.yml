@@ -1,7 +1,7 @@
-name: NBA Real-Time Update
+name: Live NBA Dashboard Sync
 on:
   schedule:
-    - cron: '0 * * * *' # Every hour
+    - cron: '*/30 * * * *' # Updates every 30 minutes
   workflow_dispatch:
 jobs:
   build:
@@ -14,14 +14,14 @@ jobs:
         uses: actions/setup-python@v4
         with:
           python-version: '3.9'
-      - name: Install Tools
+      - name: Install Dependencies
         run: pip install requests beautifulsoup4
-      - name: Run Scraper
+      - name: Run Real-Time Scraper
         run: python scrape_nba.py
-      - name: Update Site
+      - name: Deploy Update
         run: |
           git config --global user.name "NBA-Bot"
-          git config --global user.email "bot@smart-tips.com"
+          git config --global user.email "bot@nba-smart-tips.com"
           git add data.json
-          git commit -m "Live ESPN Update [$(date)]" || exit 0
+          git commit -m "Real-time sync: $(date)" || exit 0
           git push
