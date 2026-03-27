@@ -1,33 +1,27 @@
-name: Daily NBA Odds Update
+name: NBA Real-Time Update
 on:
   schedule:
-    # 12:30 UTC is 6:00 PM IST
-    - cron: '30 12 * * *' 
-  workflow_dispatch: # This allows you to run it manually anytime
-
+    - cron: '0 * * * *' # Every hour
+  workflow_dispatch:
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v3
-      
-      - name: Set up Python
+      - name: Setup Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.9'
-          
-      - name: Install dependencies
-        run: |
-          python -m pip install --upgrade pip
-          pip install requests beautifulsoup4
-          
+      - name: Install Tools
+        run: pip install requests beautifulsoup4
       - name: Run Scraper
         run: python scrape_nba.py
-        
-      - name: Commit and Push changes
+      - name: Update Site
         run: |
-          git config --global user.name "GitHub Action"
-          git config --global user.email "action@github.com"
+          git config --global user.name "NBA-Bot"
+          git config --global user.email "bot@smart-tips.com"
           git add data.json
-          git commit -m "Automated Daily Odds Update - $(date)" || exit 0
+          git commit -m "Live ESPN Update [$(date)]" || exit 0
           git push
