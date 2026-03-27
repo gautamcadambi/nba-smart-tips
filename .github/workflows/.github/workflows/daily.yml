@@ -1,0 +1,33 @@
+name: Daily NBA Odds Update
+on:
+  schedule:
+    # 12:30 UTC is 6:00 PM IST
+    - cron: '30 12 * * *' 
+  workflow_dispatch: # This allows you to run it manually anytime
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+          
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests beautifulsoup4
+          
+      - name: Run Scraper
+        run: python scrape_nba.py
+        
+      - name: Commit and Push changes
+        run: |
+          git config --global user.name "GitHub Action"
+          git config --global user.email "action@github.com"
+          git add data.json
+          git commit -m "Automated Daily Odds Update - $(date)" || exit 0
+          git push
