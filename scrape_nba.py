@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup
 from datetime import datetime
 
 # PASTE YOUR NEWSAPI.ORG KEY HERE
-NEWS_API_KEY = "YOUR_ACTUAL_API_KEY_HERE"
+NEWS_API_KEY = "e6dd36d64d2d46b6962685025f0f236f"
 
 def get_real_news():
     url = f"https://newsapi.org/v2/everything?q=NBA+injury+OR+NBA+lineup&sortBy=publishedAt&language=en&apiKey={NEWS_API_KEY}"
