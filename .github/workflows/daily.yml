@@ -1,27 +1,67 @@
-name: Live NBA Dashboard Sync
+name: NBA Smart Tips — Live Sync
+
 on:
   schedule:
-    - cron: '*/30 * * * *' # Updates every 30 minutes
-  workflow_dispatch:
+    # Runs every 20 minutes during NBA game windows (UTC):
+    #   11:00–13:00 UTC = 4:30–6:30 PM IST (early tip-offs)
+    #   22:00–05:00 UTC = 3:30 AM–10:30 AM IST (prime window)
+    - cron: '*/20 11-13 * * *'
+    - cron: '*/20 22-23 * * *'
+    - cron: '*/20 0-5 * * *'
+  workflow_dispatch:   # Manual trigger from GitHub Actions tab
+
 jobs:
-  build:
+  scrape-and-deploy:
     runs-on: ubuntu-latest
     permissions:
-      contents: write
+      contents: write   # Needed to git push data.json
+
     steps:
-      - uses: actions/checkout@v3
-      - name: Setup Python
-        uses: actions/setup-python@v4
+      # ── 1. Check out repo ──────────────────────────────────────────────────
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # ── 2. Python setup with pip caching ──────────────────────────────────
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
         with:
-          python-version: '3.9'
-      - name: Install Dependencies
-        run: pip install requests beautifulsoup4
-      - name: Run Real-Time Scraper
-        run: python scrape_nba.py
-      - name: Deploy Update
+          python-version: '3.11'
+          cache: 'pip'
+
+      # ── 3. Install dependencies ────────────────────────────────────────────
+      - name: Install dependencies
         run: |
-          git config --global user.name "NBA-Bot"
-          git config --global user.email "bot@nba-smart-tips.com"
+          pip install --upgrade pip
+          pip install requests beautifulsoup4 feedparser
+
+      # ── 4. Run scraper (secrets injected as env vars) ─────────────────────
+      - name: Run NBA scraper
+        env:
+          ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}   # Free key: the-odds-api.com
+          NEWS_API_KEY: ${{ secrets.NEWS_API_KEY }}   # Free key: newsapi.org
+        run: python scrape_nba.py
+
+      # ── 5. Validate output ─────────────────────────────────────────────────
+      - name: Validate data.json
+        run: |
+          python -c "
+          import json, sys
+          with open('data.json') as f:
+              d = json.load(f)
+          print(f'data.json OK — {d[\"total_games\"]} games, updated {d[\"last_updated\"]}')
+          if d['total_games'] == 0:
+              print('WARNING: No games found. Keeping previous data.json.')
+              sys.exit(0)
+          "
+
+      # ── 6. Commit and push only if data.json changed ──────────────────────
+      - name: Commit and push updates
+        run: |
+          git config --global user.name "NBA-Smart-Tips-Bot"
+          git config --global user.email "bot@nba-smart-tips.github.io"
           git add data.json
-          git commit -m "Real-time sync: $(date)" || exit 0
-          git push
+          # Only commit if there's a real diff
+          git diff --staged --quiet && echo "No changes — skip commit." || (
+            git commit -m "🏀 Live sync: $(date -u '+%Y-%m-%d %H:%M UTC')"
+            git push
+          )
