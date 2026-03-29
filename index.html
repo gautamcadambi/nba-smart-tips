@@ -1,116 +1,709 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>NBA Smart Tips | Daily Betting Intelligence</title>
-    <script src="https://cdn.tailwindcss.com"></script>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&display=swap" rel="stylesheet">
-    <style>
-        body { font-family: 'Inter', sans-serif; background-color: #0f172a; }
-        .bet-card { transition: transform 0.2s; }
-        .bet-card:hover { transform: translateY(-4px); }
-    </style>
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width,initial-scale=1"/>
+<title>NBA Smart Tips — Live AI Picks</title>
+<link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@400;600;700;900&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet"/>
+<style>
+  :root {
+    --bg: #0a0c10;
+    --surface: #111318;
+    --card: #161b22;
+    --border: #21262d;
+    --accent: #f97316;
+    --accent2: #3b82f6;
+    --green: #22c55e;
+    --yellow: #eab308;
+    --red: #ef4444;
+    --text: #e6edf3;
+    --muted: #8b949e;
+    --high: #22c55e;
+    --medium: #eab308;
+    --low: #ef4444;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    background: var(--bg);
+    color: var(--text);
+    font-family: 'Inter', sans-serif;
+    font-size: 14px;
+    min-height: 100vh;
+  }
+
+  /* ── Header ── */
+  header {
+    background: linear-gradient(135deg, #0d1117 0%, #161b22 100%);
+    border-bottom: 1px solid var(--border);
+    padding: 0 24px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 64px;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    backdrop-filter: blur(12px);
+  }
+  .logo {
+    font-family: 'Barlow Condensed', sans-serif;
+    font-weight: 900;
+    font-size: 26px;
+    letter-spacing: 0.5px;
+    color: var(--text);
+  }
+  .logo span { color: var(--accent); }
+  .header-meta {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+  }
+  #live-badge {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    background: rgba(34,197,94,0.12);
+    border: 1px solid rgba(34,197,94,0.3);
+    border-radius: 20px;
+    padding: 4px 12px;
+    font-size: 12px;
+    font-weight: 600;
+    color: var(--green);
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+  }
+  #live-badge .dot {
+    width: 6px; height: 6px;
+    border-radius: 50%;
+    background: var(--green);
+    animation: pulse 1.5s infinite;
+  }
+  @keyframes pulse {
+    0%,100%{opacity:1;transform:scale(1);}
+    50%{opacity:0.5;transform:scale(1.3);}
+  }
+  #last-updated {
+    color: var(--muted);
+    font-size: 12px;
+  }
+  #refresh-btn {
+    background: var(--accent);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 6px 14px;
+    font-size: 12px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: opacity 0.2s;
+  }
+  #refresh-btn:hover { opacity: 0.85; }
+  #refresh-btn:disabled { opacity: 0.5; cursor: not-allowed; }
+
+  /* ── Main layout ── */
+  main {
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 24px 16px;
+  }
+
+  /* ── Date nav ── */
+  .date-nav {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    margin-bottom: 24px;
+  }
+  .date-label {
+    font-family: 'Barlow Condensed', sans-serif;
+    font-size: 22px;
+    font-weight: 700;
+    letter-spacing: 0.3px;
+  }
+  .game-count {
+    background: var(--accent);
+    color: #fff;
+    font-size: 11px;
+    font-weight: 700;
+    border-radius: 4px;
+    padding: 2px 8px;
+  }
+
+  /* ── Filters ── */
+  .filters {
+    display: flex;
+    gap: 8px;
+    margin-bottom: 20px;
+    flex-wrap: wrap;
+  }
+  .filter-btn {
+    background: var(--card);
+    border: 1px solid var(--border);
+    color: var(--muted);
+    border-radius: 20px;
+    padding: 5px 14px;
+    font-size: 12px;
+    font-weight: 500;
+    cursor: pointer;
+    transition: all 0.15s;
+  }
+  .filter-btn:hover, .filter-btn.active {
+    background: var(--accent);
+    border-color: var(--accent);
+    color: #fff;
+  }
+
+  /* ── Game cards grid ── */
+  .games-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(360px, 1fr));
+    gap: 16px;
+  }
+
+  /* ── Individual game card ── */
+  .game-card {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    overflow: hidden;
+    transition: transform 0.15s, box-shadow 0.15s;
+    display: flex;
+    flex-direction: column;
+  }
+  .game-card:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 8px 32px rgba(0,0,0,0.4);
+  }
+
+  /* Card top stripe by confidence */
+  .game-card[data-conf="HIGH"] { border-top: 3px solid var(--high); }
+  .game-card[data-conf="MEDIUM"] { border-top: 3px solid var(--medium); }
+  .game-card[data-conf="LOW"] { border-top: 3px solid var(--low); }
+
+  .card-header {
+    padding: 14px 16px 10px;
+    border-bottom: 1px solid var(--border);
+  }
+  .matchup {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 8px;
+  }
+  .team-block {
+    text-align: center;
+    flex: 1;
+  }
+  .team-abbr {
+    font-family: 'Barlow Condensed', sans-serif;
+    font-size: 32px;
+    font-weight: 900;
+    line-height: 1;
+    letter-spacing: 1px;
+  }
+  .team-full {
+    font-size: 10px;
+    color: var(--muted);
+    margin-top: 2px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    max-width: 100px;
+  }
+  .vs-block {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 2px;
+    color: var(--muted);
+    font-size: 11px;
+    font-weight: 600;
+  }
+  .vs-text { font-size: 14px; }
+  .game-time { font-size: 10px; opacity: 0.7; }
+
+  /* Odds row */
+  .odds-row {
+    display: flex;
+    gap: 8px;
+    margin-top: 10px;
+    flex-wrap: wrap;
+  }
+  .odds-pill {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    padding: 4px 8px;
+    font-size: 11px;
+    color: var(--muted);
+  }
+  .odds-pill strong { color: var(--text); }
+
+  /* Pick badge */
+  .pick-section {
+    padding: 10px 16px;
+    background: rgba(249,115,22,0.06);
+    border-bottom: 1px solid var(--border);
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+  .pick-label {
+    font-size: 10px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: var(--accent);
+    white-space: nowrap;
+  }
+  .pick-team {
+    font-family: 'Barlow Condensed', sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    color: var(--text);
+  }
+  .pick-ml { color: var(--accent); font-weight: 600; }
+  .conf-badge {
+    margin-left: auto;
+    font-size: 10px;
+    font-weight: 700;
+    border-radius: 4px;
+    padding: 3px 8px;
+    text-transform: uppercase;
+    white-space: nowrap;
+  }
+  .conf-badge.HIGH { background: rgba(34,197,94,0.15); color: var(--high); }
+  .conf-badge.MEDIUM { background: rgba(234,179,8,0.15); color: var(--yellow); }
+  .conf-badge.LOW { background: rgba(239,68,68,0.15); color: var(--red); }
+
+  /* Win probability bar */
+  .prob-bar-wrap { padding: 8px 16px 4px; }
+  .prob-labels {
+    display: flex;
+    justify-content: space-between;
+    font-size: 10px;
+    color: var(--muted);
+    margin-bottom: 4px;
+  }
+  .prob-bar {
+    height: 6px;
+    background: var(--border);
+    border-radius: 3px;
+    overflow: hidden;
+    position: relative;
+  }
+  .prob-fill {
+    height: 100%;
+    border-radius: 3px;
+    background: linear-gradient(90deg, var(--accent2) 0%, var(--accent) 100%);
+    transition: width 0.8s ease;
+  }
+
+  /* AI Reasoning */
+  .reasoning-section { padding: 12px 16px; flex: 1; }
+  .section-title {
+    font-size: 10px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: var(--muted);
+    margin-bottom: 6px;
+    display: flex;
+    align-items: center;
+    gap: 6px;
+  }
+  .ai-icon {
+    width: 14px; height: 14px;
+    background: linear-gradient(135deg, var(--accent2), var(--accent));
+    border-radius: 3px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 8px;
+    color: #fff;
+    font-weight: 900;
+  }
+  .reasoning-text {
+    font-size: 12.5px;
+    line-height: 1.65;
+    color: #c9d1d9;
+  }
+  .reasoning-text strong { color: var(--accent); font-weight: 600; }
+  .reasoning-skeleton {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+  }
+  .skel-line {
+    height: 10px;
+    background: linear-gradient(90deg, var(--border) 25%, var(--surface) 50%, var(--border) 75%);
+    background-size: 200% 100%;
+    animation: shimmer 1.4s infinite;
+    border-radius: 3px;
+  }
+  .skel-line.short { width: 60%; }
+  @keyframes shimmer {
+    0% { background-position: 200% 0; }
+    100% { background-position: -200% 0; }
+  }
+
+  /* Injury notes */
+  .injury-section { padding: 0 16px 10px; }
+  .injury-chip {
+    display: inline-flex;
+    align-items: center;
+    gap: 4px;
+    background: rgba(239,68,68,0.1);
+    border: 1px solid rgba(239,68,68,0.25);
+    border-radius: 4px;
+    padding: 3px 8px;
+    font-size: 11px;
+    color: #fca5a5;
+    margin: 2px 2px 0 0;
+  }
+  .injury-chip svg { flex-shrink: 0; }
+
+  /* News section */
+  .news-section { padding: 0 16px 14px; }
+  .news-item {
+    display: flex;
+    align-items: flex-start;
+    gap: 6px;
+    padding: 5px 0;
+    border-bottom: 1px solid rgba(33,38,45,0.8);
+  }
+  .news-item:last-child { border-bottom: none; }
+  .news-dot { color: var(--accent); font-size: 14px; line-height: 1.3; flex-shrink: 0; }
+  .news-text { font-size: 11px; color: var(--muted); line-height: 1.4; }
+  .news-text a { color: var(--accent2); text-decoration: none; }
+  .news-text a:hover { text-decoration: underline; }
+  .news-source { font-size: 10px; color: rgba(139,148,158,0.6); margin-left: 4px; }
+
+  /* Empty / loading states */
+  .loading-state, .empty-state {
+    text-align: center;
+    padding: 80px 20px;
+    color: var(--muted);
+  }
+  .loading-spinner {
+    width: 40px; height: 40px;
+    border: 3px solid var(--border);
+    border-top-color: var(--accent);
+    border-radius: 50%;
+    animation: spin 0.8s linear infinite;
+    margin: 0 auto 16px;
+  }
+  @keyframes spin { to { transform: rotate(360deg); } }
+
+  /* Footer */
+  footer {
+    text-align: center;
+    padding: 24px;
+    color: var(--muted);
+    font-size: 11px;
+    border-top: 1px solid var(--border);
+    margin-top: 48px;
+  }
+  footer a { color: var(--accent2); }
+
+  /* Responsive */
+  @media (max-width: 600px) {
+    header { padding: 0 12px; }
+    .logo { font-size: 20px; }
+    #last-updated { display: none; }
+    .games-grid { grid-template-columns: 1fr; }
+  }
+</style>
 </head>
-<body class="text-slate-200">
+<body>
 
-    <header class="bg-slate-900 border-b border-slate-800 py-8 px-4 shadow-2xl">
-        <div class="max-w-5xl mx-auto flex flex-col md:flex-row justify-between items-center">
-            <div>
-                <h1 class="text-3xl font-extrabold text-transparent bg-clip-text bg-gradient-to-r from-orange-400 to-red-500">
-                    🏀 NBA SMART TIPS
-                </h1>
-                <p class="text-slate-400 text-sm mt-1">Daily Intelligence & Odds Analysis</p>
-            </div>
-            <div class="mt-4 md:mt-0 text-right">
-                <p id="update-time" class="text-xs font-mono text-slate-500 uppercase tracking-widest">Syncing Data...</p>
-                <div class="mt-1 flex items-center justify-end">
-                    <span class="flex h-2 w-2 rounded-full bg-green-500 mr-2 animate-pulse"></span>
-                    <span class="text-xs font-bold text-green-500 uppercase">Live Systems</span>
-                </div>
-            </div>
+<header>
+  <div class="logo">NBA <span>SMART</span> TIPS</div>
+  <div class="header-meta">
+    <div id="live-badge"><span class="dot"></span>Live</div>
+    <span id="last-updated">Loading...</span>
+    <button id="refresh-btn" onclick="loadData()">↻ Refresh</button>
+  </div>
+</header>
+
+<main>
+  <div class="date-nav">
+    <span class="date-label" id="date-label">Today's Games</span>
+    <span class="game-count" id="game-count">—</span>
+  </div>
+
+  <div class="filters">
+    <button class="filter-btn active" onclick="setFilter('all',this)">All Games</button>
+    <button class="filter-btn" onclick="setFilter('HIGH',this)">🔥 High Confidence</button>
+    <button class="filter-btn" onclick="setFilter('MEDIUM',this)">Medium</button>
+    <button class="filter-btn" onclick="setFilter('LOW',this)">Low</button>
+  </div>
+
+  <div id="games-container" class="games-grid">
+    <div class="loading-state" style="grid-column:1/-1;">
+      <div class="loading-spinner"></div>
+      <p>Fetching live odds &amp; AI analysis...</p>
+    </div>
+  </div>
+</main>
+
+<footer>
+  <p>For entertainment purposes only. Always gamble responsibly. | 
+    Sources: <a href="https://the-odds-api.com" target="_blank">The Odds API</a> · 
+    <a href="https://espn.com/nba" target="_blank">ESPN</a> · 
+    <a href="https://bleacherreport.com/nba" target="_blank">Bleacher Report</a> · 
+    <a href="https://sportskeeda.com/basketball" target="_blank">SportsKeeda</a>
+  </p>
+</footer>
+
+<script>
+// ── Config ────────────────────────────────────────────────────────────────────
+const DATA_URL      = './data.json';
+const REFRESH_MS    = 5 * 60 * 1000; // Auto-refresh every 5 minutes
+const CACHE_BUST    = () => `${DATA_URL}?t=${Date.now()}`;
+
+// ── State ─────────────────────────────────────────────────────────────────────
+let allGames  = [];
+let activeFilter = 'all';
+let aiCache   = {};        // game_id → reasoning string
+
+// ── Main load ─────────────────────────────────────────────────────────────────
+async function loadData() {
+  const btn = document.getElementById('refresh-btn');
+  btn.disabled = true;
+  btn.textContent = '↻ Syncing...';
+
+  try {
+    const res  = await fetch(CACHE_BUST());
+    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+    const data = await res.json();
+
+    allGames = data.games || [];
+
+    // Update header
+    document.getElementById('last-updated').textContent =
+      `Updated: ${data.last_updated || '—'}`;
+    document.getElementById('date-label').textContent =
+      `Today's Games`;
+    document.getElementById('game-count').textContent =
+      `${allGames.length} game${allGames.length !== 1 ? 's' : ''}`;
+
+    renderGames();
+
+    // Kick off AI reasoning for each card asynchronously
+    allGames.forEach(g => generateAIReasoning(g));
+
+  } catch (err) {
+    console.error('Load error:', err);
+    document.getElementById('games-container').innerHTML =
+      `<div class="empty-state" style="grid-column:1/-1;">
+        <p>⚠️ Could not load data.json. Run the scraper first.</p>
+        <p style="font-size:11px;margin-top:8px;color:#6e7681;">
+          ${err.message}</p>
+      </div>`;
+  } finally {
+    btn.disabled = false;
+    btn.textContent = '↻ Refresh';
+  }
+}
+
+// ── Render cards ─────────────────────────────────────────────────────────────
+function renderGames() {
+  const container = document.getElementById('games-container');
+  const filtered  = activeFilter === 'all'
+    ? allGames
+    : allGames.filter(g => g.confidence === activeFilter);
+
+  if (!filtered.length) {
+    container.innerHTML =
+      `<div class="empty-state" style="grid-column:1/-1;">No games match this filter.</div>`;
+    return;
+  }
+
+  container.innerHTML = filtered.map(g => gameCard(g)).join('');
+}
+
+function gameCard(g) {
+  const homeProb = g.win_probability
+    ? (g.pick === g.home_team ? g.win_probability : 100 - g.win_probability)
+    : 50;
+  const awayProb = 100 - homeProb;
+
+  const newsHtml = (g.news || []).map(n =>
+    `<div class="news-item">
+      <span class="news-dot">›</span>
+      <div class="news-text">
+        <a href="${n.link}" target="_blank" rel="noopener">${escHtml(n.title)}</a>
+        <span class="news-source">— ${escHtml(n.source)}</span>
+      </div>
+    </div>`
+  ).join('') || `<div class="news-item"><span class="news-dot">›</span>
+    <div class="news-text" style="color:#6e7681;">No recent news found for this matchup.</div></div>`;
+
+  const injuryHtml = g.injury_notes && g.injury_notes !== 'No significant injuries reported.'
+    ? `<div class="injury-section">
+        <div class="section-title">⚕ Injury Report</div>
+        ${g.injury_notes.split(';').map(s => s.trim()).filter(Boolean).map(s =>
+          `<span class="injury-chip">⚑ ${escHtml(s)}</span>`
+        ).join('')}
+      </div>`
+    : '';
+
+  const gameTime = g.commence_time
+    ? new Date(g.commence_time).toLocaleTimeString('en-IN', {hour:'2-digit',minute:'2-digit',timeZone:'Asia/Kolkata'})
+    : '—';
+
+  const cachedReasoning = aiCache[g.game] || null;
+  const reasoningHtml = cachedReasoning
+    ? `<div class="reasoning-text">${markdownBold(escHtml(cachedReasoning))}</div>`
+    : `<div class="reasoning-skeleton" id="skel-${safeId(g.game)}">
+        <div class="skel-line"></div>
+        <div class="skel-line"></div>
+        <div class="skel-line short"></div>
+      </div>`;
+
+  return `<div class="game-card" data-conf="${g.confidence}" data-game="${escHtml(g.game)}">
+    <div class="card-header">
+      <div class="matchup">
+        <div class="team-block">
+          <div class="team-abbr">${g.away_abbr}</div>
+          <div class="team-full">${g.away_team}</div>
         </div>
-    </header>
-
-    <main class="max-w-5xl mx-auto p-6 mt-6">
-        <div id="bet-container" class="grid gap-6 md:grid-cols-1">
-            <div id="loading" class="py-20 text-center">
-                <p class="text-slate-500 animate-pulse">Fetching latest NBA lines and injury reports...</p>
-            </div>
+        <div class="vs-block">
+          <span class="vs-text">@</span>
+          <span class="game-time">${gameTime} IST</span>
         </div>
-    </main>
+        <div class="team-block">
+          <div class="team-abbr">${g.home_abbr}</div>
+          <div class="team-full">${g.home_team}</div>
+        </div>
+      </div>
+      <div class="odds-row">
+        <div class="odds-pill"><strong>ML</strong> ${g.away_abbr} ${g.away_ml} / ${g.home_abbr} ${g.home_ml}</div>
+        <div class="odds-pill"><strong>Spread</strong> ${g.spread}</div>
+      </div>
+    </div>
 
-    <footer class="mt-20 border-t border-slate-800 py-10 px-4 text-center">
-        <p class="text-slate-500 text-xs">
-            Data sourced from ESPN Odds. Analysis is for educational purposes only. 
-            <br>Gamble responsibly. 18+.
-        </p>
-    </footer>
+    <div class="pick-section">
+      <span class="pick-label">AI Pick</span>
+      <span class="pick-team">${g.pick} <span class="pick-ml">${g.moneyline}</span></span>
+      <span class="conf-badge ${g.confidence}">${g.confidence_stars} ${g.confidence}</span>
+    </div>
 
-    <script>
-        async function loadBets() {
-            try {
-                // Fetch the data from your data.json file
-                const response = await fetch('data.json');
-                const data = await response.json();
-                
-                document.getElementById('update-time').innerText = "Updated: " + data.last_updated;
-                
-                const container = document.getElementById('bet-container');
-                container.innerHTML = ''; // Clear loading state
-                
-                data.bets.forEach(bet => {
-                    const confidenceColor = bet.confidence.includes("Very High") ? "bg-green-600" : "bg-blue-600";
-                    
-                    const card = `
-                        <div class="bet-card bg-slate-800 border border-slate-700 rounded-2xl overflow-hidden shadow-lg">
-                            <div class="p-6">
-                                <div class="flex justify-between items-start mb-6">
-                                    <div>
-                                        <h2 class="text-2xl font-bold text-white tracking-tight">${bet.game}</h2>
-                                        <div class="flex gap-3 mt-2">
-                                            <span class="text-xs font-bold bg-slate-700 px-2 py-1 rounded text-slate-300">SPREAD: ${bet.spread}</span>
-                                            <span class="text-xs font-bold bg-slate-700 px-2 py-1 rounded text-slate-300 font-mono uppercase">ML: ${bet.odds}</span>
-                                        </div>
-                                    </div>
-                                    <span class="${confidenceColor} text-[10px] px-3 py-1 rounded-full text-white font-black uppercase tracking-tighter">
-                                        ${bet.confidence}
-                                    </span>
-                                </div>
+    <div class="prob-bar-wrap">
+      <div class="prob-labels">
+        <span>${g.away_abbr} ${awayProb.toFixed(0)}%</span>
+        <span>${g.home_abbr} ${homeProb.toFixed(0)}%</span>
+      </div>
+      <div class="prob-bar">
+        <div class="prob-fill" style="width:${homeProb}%"></div>
+      </div>
+    </div>
 
-                                <div class="grid md:grid-cols-2 gap-8">
-                                    <div class="space-y-4">
-                                        <div class="bg-slate-900/50 p-4 rounded-xl border border-slate-700/50">
-                                            <p class="text-[10px] text-orange-400 font-black uppercase mb-1 tracking-widest">Recommended Bet</p>
-                                            <p class="text-xl font-bold text-white">${bet.bet}</p>
-                                        </div>
-                                        <div>
-                                            <p class="text-[10px] text-slate-500 font-black uppercase mb-2 tracking-widest text-center md:text-left">The Reasoning</p>
-                                            <p class="text-slate-400 text-sm leading-relaxed">${bet.reasoning}</p>
-                                        </div>
-                                    </div>
+    ${injuryHtml}
 
-                                    <div class="bg-red-950/20 border border-red-500/20 p-5 rounded-xl">
-                                        <div class="flex items-center mb-3">
-                                            <span class="text-red-500 mr-2 italic">⚠️</span>
-                                            <p class="text-[10px] text-red-400 font-black uppercase tracking-widest">Real-Time Intel & Injuries</p>
-                                        </div>
-                                        <p class="text-slate-300 text-sm italic font-medium">"${bet.news}"</p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    `;
-                    container.innerHTML += card;
-                });
-            } catch (error) {
-                document.getElementById('loading').innerHTML = `
-                    <p class="text-red-400 font-bold">Failed to load betting data.</p>
-                    <p class="text-slate-500 text-xs">The scraper might be running. Please refresh in 60 seconds.</p>
-                `;
-            }
-        }
-        loadBets();
-    </script>
+    <div class="reasoning-section">
+      <div class="section-title">
+        <span class="ai-icon">AI</span> AI Reasoning
+      </div>
+      <div id="reasoning-${safeId(g.game)}">${reasoningHtml}</div>
+    </div>
+
+    <div class="news-section">
+      <div class="section-title">📰 Latest News</div>
+      ${newsHtml}
+    </div>
+  </div>`;
+}
+
+// ── AI Reasoning via Anthropic API ────────────────────────────────────────────
+async function generateAIReasoning(game) {
+  const cacheKey = game.game;
+  if (aiCache[cacheKey]) return; // already done
+
+  const prompt = buildPrompt(game);
+
+  try {
+    const response = await fetch('https://api.anthropic.com/v1/messages', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({
+        model: 'claude-sonnet-4-20250514',
+        max_tokens: 1000,
+        system: `You are a sharp NBA betting analyst. Given a game matchup, odds, injury report, and win probabilities, 
+write a concise 3-4 sentence betting analysis. Be specific, data-driven, and direct. 
+Format: start with the recommended bet bolded, then explain the edge using the provided data. 
+Mention injuries if they materially shift value. Reference the spread/ML numbers. 
+End with a clear confidence rationale. Avoid generic filler.`,
+        messages: [{ role: 'user', content: prompt }]
+      })
+    });
+
+    const data = await response.json();
+    const text = data.content?.find(b => b.type === 'text')?.text || '';
+
+    if (text) {
+      aiCache[cacheKey] = text;
+      // Inject into DOM if the card is visible
+      const el = document.getElementById(`reasoning-${safeId(cacheKey)}`);
+      if (el) {
+        el.innerHTML = `<div class="reasoning-text">${markdownBold(escHtml(text))}</div>`;
+      }
+    }
+  } catch (err) {
+    // Fall back to scraper reasoning if API call fails
+    const el = document.getElementById(`reasoning-${safeId(cacheKey)}`);
+    if (el && game.reasoning) {
+      el.innerHTML = `<div class="reasoning-text">${markdownBold(escHtml(game.reasoning))}</div>`;
+    }
+  }
+}
+
+function buildPrompt(g) {
+  const news = (g.news || []).map(n => `- ${n.title} (${n.source})`).join('\n') || 'None';
+  return `GAME: ${g.game}
+HOME ML: ${g.home_ml} | AWAY ML: ${g.away_ml}
+SPREAD: ${g.spread}
+WIN PROBABILITY (model): ${g.pick} ${g.win_probability}%
+INJURIES: ${g.injury_notes}
+RECENT NEWS:
+${news}
+
+Provide a sharp, specific 3-4 sentence betting analysis.`;
+}
+
+// ── Filter ────────────────────────────────────────────────────────────────────
+function setFilter(filter, btn) {
+  activeFilter = filter;
+  document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+  btn.classList.add('active');
+  renderGames();
+  // Re-trigger AI for newly visible cards
+  allGames.forEach(g => generateAIReasoning(g));
+}
+
+// ── Helpers ───────────────────────────────────────────────────────────────────
+function escHtml(str) {
+  return String(str || '')
+    .replace(/&/g,'&amp;').replace(/</g,'&lt;')
+    .replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+}
+function markdownBold(str) {
+  // Convert **text** to <strong>text</strong> after HTML escaping
+  return str.replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>');
+}
+function safeId(str) {
+  return str.replace(/[^a-z0-9]/gi, '_').toLowerCase();
+}
+
+// ── Auto-refresh ──────────────────────────────────────────────────────────────
+loadData();
+setInterval(loadData, REFRESH_MS);
+
+// Refresh when tab becomes visible again
+document.addEventListener('visibilitychange', () => {
+  if (document.visibilityState === 'visible') loadData();
+});
+</script>
 </body>
 </html>
