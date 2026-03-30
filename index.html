@@ -7,30 +7,20 @@
 <link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@400;600;700;900&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet"/>
 <style>
   :root {
-    --bg: #0a0c10;
-    --surface: #111318;
-    --card: #161b22;
-    --border: #21262d;
-    --accent: #f97316;
-    --accent2: #3b82f6;
-    --green: #22c55e;
-    --yellow: #eab308;
-    --red: #ef4444;
-    --text: #e6edf3;
-    --muted: #8b949e;
+    --bg: #0a0c10; --surface: #111318; --card: #161b22; --border: #21262d;
+    --accent: #f97316; --accent2: #3b82f6; --green: #22c55e;
+    --yellow: #eab308; --red: #ef4444; --text: #e6edf3; --muted: #8b949e;
   }
   * { box-sizing: border-box; margin: 0; padding: 0; }
   body { background: var(--bg); color: var(--text); font-family: 'Inter', sans-serif; font-size: 14px; min-height: 100vh; }
 
-  /* Header */
   header {
     background: linear-gradient(135deg, #0d1117 0%, #161b22 100%);
-    border-bottom: 1px solid var(--border);
-    padding: 0 24px;
+    border-bottom: 1px solid var(--border); padding: 0 24px;
     display: flex; align-items: center; justify-content: space-between;
     height: 64px; position: sticky; top: 0; z-index: 100;
   }
-  .logo { font-family: 'Barlow Condensed', sans-serif; font-weight: 900; font-size: 28px; letter-spacing: 1px; color: var(--text); }
+  .logo { font-family: 'Barlow Condensed', sans-serif; font-weight: 900; font-size: 28px; letter-spacing: 1px; }
   .logo span { color: var(--accent); }
   .header-meta { display: flex; align-items: center; gap: 16px; }
   #live-badge {
@@ -49,13 +39,11 @@
   #refresh-btn:hover { opacity: 0.85; }
   #refresh-btn:disabled { opacity: 0.5; cursor: not-allowed; }
 
-  /* Main */
   main { max-width: 1280px; margin: 0 auto; padding: 24px 16px; }
   .date-nav { display: flex; align-items: center; gap: 8px; margin-bottom: 24px; }
   .date-label { font-family: 'Barlow Condensed', sans-serif; font-size: 22px; font-weight: 700; }
   .game-count { background: var(--accent); color: #fff; font-size: 11px; font-weight: 700; border-radius: 4px; padding: 2px 8px; }
 
-  /* Filters */
   .filters { display: flex; gap: 8px; margin-bottom: 20px; flex-wrap: wrap; }
   .filter-btn {
     background: var(--card); border: 1px solid var(--border); color: var(--muted);
@@ -63,10 +51,8 @@
   }
   .filter-btn:hover, .filter-btn.active { background: var(--accent); border-color: var(--accent); color: #fff; }
 
-  /* Grid */
-  .games-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(360px, 1fr)); gap: 16px; }
+  .games-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(380px, 1fr)); gap: 16px; }
 
-  /* Card */
   .game-card {
     background: var(--card); border: 1px solid var(--border); border-radius: 12px;
     overflow: hidden; transition: transform 0.15s, box-shadow 0.15s; display: flex; flex-direction: column;
@@ -76,7 +62,6 @@
   .game-card[data-conf="MEDIUM"] { border-top: 3px solid var(--yellow); }
   .game-card[data-conf="LOW"]    { border-top: 3px solid var(--red); }
 
-  /* Card header */
   .card-header { padding: 14px 16px 10px; border-bottom: 1px solid var(--border); }
   .matchup { display: flex; align-items: center; justify-content: space-between; gap: 8px; }
   .team-block { text-align: center; flex: 1; }
@@ -88,7 +73,6 @@
   .odds-pill { background: var(--surface); border: 1px solid var(--border); border-radius: 6px; padding: 4px 8px; font-size: 11px; color: var(--muted); }
   .odds-pill strong { color: var(--text); }
 
-  /* Pick */
   .pick-section {
     padding: 10px 16px; background: rgba(249,115,22,0.06); border-bottom: 1px solid var(--border);
     display: flex; align-items: center; gap: 10px;
@@ -101,29 +85,73 @@
   .conf-badge.MEDIUM { background: rgba(234,179,8,0.15);  color: var(--yellow); }
   .conf-badge.LOW    { background: rgba(239,68,68,0.15);  color: var(--red); }
 
-  /* Probability bar — now uses real home_prob / away_prob */
   .prob-bar-wrap { padding: 8px 16px 4px; }
   .prob-labels { display: flex; justify-content: space-between; font-size: 10px; color: var(--muted); margin-bottom: 4px; }
   .prob-bar { height: 6px; background: var(--border); border-radius: 3px; overflow: hidden; }
   .prob-fill { height: 100%; border-radius: 3px; background: linear-gradient(90deg, var(--accent2) 0%, var(--accent) 100%); transition: width 0.8s ease; }
 
-  /* Injury */
   .injury-section { padding: 0 16px 10px; }
-  .section-title { font-size: 10px; font-weight: 700; text-transform: uppercase; letter-spacing: 1px; color: var(--muted); margin-bottom: 6px; display: flex; align-items: center; gap: 6px; }
-  .injury-chip { display: inline-flex; align-items: center; gap: 4px; background: rgba(239,68,68,0.1); border: 1px solid rgba(239,68,68,0.25); border-radius: 4px; padding: 3px 8px; font-size: 11px; color: #fca5a5; margin: 2px 2px 0 0; }
+  .section-title {
+    font-size: 10px; font-weight: 700; text-transform: uppercase; letter-spacing: 1px;
+    color: var(--muted); margin-bottom: 6px; display: flex; align-items: center; gap: 6px;
+  }
+  .injury-chip {
+    display: inline-flex; align-items: center; gap: 4px;
+    background: rgba(239,68,68,0.1); border: 1px solid rgba(239,68,68,0.25);
+    border-radius: 4px; padding: 3px 8px; font-size: 11px; color: #fca5a5; margin: 2px 2px 0 0;
+  }
 
-  /* AI Reasoning */
-  .reasoning-section { padding: 12px 16px; flex: 1; }
-  .ai-icon { width: 14px; height: 14px; background: linear-gradient(135deg, var(--accent2), var(--accent)); border-radius: 3px; display: inline-flex; align-items: center; justify-content: center; font-size: 8px; color: #fff; font-weight: 900; }
-  .reasoning-text { font-size: 12.5px; line-height: 1.65; color: #c9d1d9; }
+  /* ── AI Reasoning — richer layout ── */
+  .reasoning-section { padding: 12px 16px; flex: 1; border-bottom: 1px solid var(--border); }
+  .ai-icon {
+    width: 14px; height: 14px;
+    background: linear-gradient(135deg, var(--accent2), var(--accent));
+    border-radius: 3px; display: inline-flex; align-items: center; justify-content: center;
+    font-size: 8px; color: #fff; font-weight: 900;
+  }
+  .reasoning-text { font-size: 12.5px; line-height: 1.75; color: #c9d1d9; }
   .reasoning-text strong { color: var(--accent); font-weight: 600; }
+  .reasoning-text .tag {
+    display: inline-block; font-size: 10px; font-weight: 700; text-transform: uppercase;
+    letter-spacing: 0.5px; border-radius: 3px; padding: 1px 6px; margin-right: 4px; vertical-align: middle;
+  }
+  .tag-form   { background: rgba(59,130,246,0.15); color: #93c5fd; }
+  .tag-player { background: rgba(168,85,247,0.15); color: #c4b5fd; }
+  .tag-injury { background: rgba(239,68,68,0.15);  color: #fca5a5; }
+  .tag-edge   { background: rgba(34,197,94,0.15);  color: #86efac; }
+  .tag-h2h    { background: rgba(234,179,8,0.15);  color: #fde047; }
+
+  /* Loading states */
+  .reasoning-loading {
+    display: flex; align-items: center; gap: 8px;
+    font-size: 11px; color: var(--muted); padding: 4px 0;
+  }
+  .mini-spinner {
+    width: 12px; height: 12px; border: 2px solid var(--border);
+    border-top-color: var(--accent); border-radius: 50%;
+    animation: spin 0.7s linear infinite; flex-shrink: 0;
+  }
   .reasoning-skeleton { display: flex; flex-direction: column; gap: 6px; }
-  .skel-line { height: 10px; background: linear-gradient(90deg, var(--border) 25%, var(--surface) 50%, var(--border) 75%); background-size: 200% 100%; animation: shimmer 1.4s infinite; border-radius: 3px; }
+  .skel-line {
+    height: 10px;
+    background: linear-gradient(90deg, var(--border) 25%, var(--surface) 50%, var(--border) 75%);
+    background-size: 200% 100%; animation: shimmer 1.4s infinite; border-radius: 3px;
+  }
   .skel-line.short { width: 60%; }
-  @keyframes shimmer { 0% { background-position: 200% 0; } 100% { background-position: -200% 0; } }
+  @keyframes shimmer { 0%{background-position:200% 0;} 100%{background-position:-200% 0;} }
+  @keyframes spin { to{transform:rotate(360deg);} }
+
+  /* Source chips */
+  .source-chips { display: flex; gap: 6px; flex-wrap: wrap; margin-top: 10px; }
+  .source-chip {
+    font-size: 10px; color: var(--muted); border: 1px solid var(--border);
+    border-radius: 4px; padding: 2px 7px; display: flex; align-items: center; gap: 4px;
+  }
+  .source-chip a { color: var(--accent2); text-decoration: none; }
+  .source-chip a:hover { text-decoration: underline; }
 
   /* News */
-  .news-section { padding: 0 16px 14px; }
+  .news-section { padding: 10px 16px 14px; }
   .news-item { display: flex; align-items: flex-start; gap: 6px; padding: 5px 0; border-bottom: 1px solid rgba(33,38,45,0.8); }
   .news-item:last-child { border-bottom: none; }
   .news-dot { color: var(--accent); font-size: 14px; line-height: 1.3; flex-shrink: 0; }
@@ -132,10 +160,8 @@
   .news-text a:hover { text-decoration: underline; }
   .news-source { font-size: 10px; color: rgba(139,148,158,0.6); margin-left: 4px; }
 
-  /* States */
   .loading-state, .empty-state { text-align: center; padding: 80px 20px; color: var(--muted); }
   .loading-spinner { width: 40px; height: 40px; border: 3px solid var(--border); border-top-color: var(--accent); border-radius: 50%; animation: spin 0.8s linear infinite; margin: 0 auto 16px; }
-  @keyframes spin { to { transform: rotate(360deg); } }
 
   footer { text-align: center; padding: 24px; color: var(--muted); font-size: 11px; border-top: 1px solid var(--border); margin-top: 48px; }
   footer a { color: var(--accent2); }
@@ -193,44 +219,38 @@ const REFRESH_MS = 5 * 60 * 1000;
 
 let allGames     = [];
 let activeFilter = 'all';
-let aiCache      = {};
+let aiCache      = {};       // game → { text, sources }
+let pendingAI    = new Set();
 
-// ── Load data.json ────────────────────────────────────────────────────────────
+// ── Load ──────────────────────────────────────────────────────────────────────
 async function loadData() {
   const btn = document.getElementById('refresh-btn');
-  btn.disabled = true;
-  btn.textContent = '↻ Syncing...';
-
+  btn.disabled = true; btn.textContent = '↻ Syncing...';
   try {
     const res  = await fetch(`${DATA_URL}?t=${Date.now()}`);
     if (!res.ok) throw new Error(`HTTP ${res.status}`);
     const data = await res.json();
-
-    allGames = data.games || [];
+    allGames   = data.games || [];
     document.getElementById('last-updated').textContent = `Updated: ${data.last_updated || '—'}`;
     document.getElementById('game-count').textContent   = `${allGames.length} game${allGames.length !== 1 ? 's' : ''}`;
-
     renderGames();
-    allGames.forEach(g => generateAIReasoning(g));
-
+    // Stagger AI calls so we don't hammer the API simultaneously
+    allGames.forEach((g, i) => setTimeout(() => generateAIReasoning(g), i * 800));
   } catch (err) {
-    console.error(err);
     document.getElementById('games-container').innerHTML =
       `<div class="empty-state" style="grid-column:1/-1;">
         <p>⚠️ Could not load data.json — run the scraper first.</p>
         <p style="font-size:11px;margin-top:8px;color:#6e7681;">${err.message}</p>
       </div>`;
   } finally {
-    btn.disabled = false;
-    btn.textContent = '↻ Refresh';
+    btn.disabled = false; btn.textContent = '↻ Refresh';
   }
 }
 
 // ── Render ────────────────────────────────────────────────────────────────────
 function renderGames() {
   const container = document.getElementById('games-container');
-  const list      = activeFilter === 'all' ? allGames : allGames.filter(g => g.confidence === activeFilter);
-
+  const list = activeFilter === 'all' ? allGames : allGames.filter(g => g.confidence === activeFilter);
   if (!list.length) {
     container.innerHTML = `<div class="empty-state" style="grid-column:1/-1;">No games match this filter.</div>`;
     return;
@@ -239,10 +259,8 @@ function renderGames() {
 }
 
 function gameCard(g) {
-  // Use real per-team probabilities from data.json (NOT 50/50)
   const homeProb = g.home_prob ?? 50;
   const awayProb = g.away_prob ?? 50;
-
   const gameTime = g.commence_time
     ? new Date(g.commence_time).toLocaleTimeString('en-IN', {hour:'2-digit', minute:'2-digit', timeZone:'Asia/Kolkata'})
     : '—';
@@ -265,11 +283,12 @@ function gameCard(g) {
           `<span class="injury-chip">⚑ ${esc(s)}</span>`).join('')}
       </div>` : '';
 
-  const cached = aiCache[g.game];
+  const cached   = aiCache[g.game];
   const reasoningHtml = cached
-    ? `<div class="reasoning-text">${boldify(esc(cached))}</div>`
-    : `<div class="reasoning-skeleton" id="skel-${sid(g.game)}">
-        <div class="skel-line"></div><div class="skel-line"></div><div class="skel-line short"></div>
+    ? renderReasoning(cached)
+    : `<div class="reasoning-loading" id="skel-${sid(g.game)}">
+        <div class="mini-spinner"></div>
+        <span>Researching ${esc(g.away_abbr)} vs ${esc(g.home_abbr)} form, injuries &amp; trends…</span>
       </div>`;
 
   return `<div class="game-card" data-conf="${g.confidence}">
@@ -324,16 +343,50 @@ function gameCard(g) {
   </div>`;
 }
 
-// ── Anthropic AI reasoning ────────────────────────────────────────────────────
+function renderReasoning(cached) {
+  const html = boldify(esc(cached.text));
+  const sourcesHtml = (cached.sources || []).length
+    ? `<div class="source-chips">
+        ${cached.sources.map(s =>
+          `<span class="source-chip">🔗 <a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.label)}</a></span>`
+        ).join('')}
+      </div>` : '';
+  return `<div class="reasoning-text">${html}</div>${sourcesHtml}`;
+}
+
+// ── AI Reasoning with web_search tool ────────────────────────────────────────
 async function generateAIReasoning(game) {
-  if (aiCache[game.game]) return;
+  if (aiCache[game.game] || pendingAI.has(game.game)) return;
+  pendingAI.add(game.game);
 
-  const news = (game.news || []).map(n => `- ${n.title} (${n.source})`).join('\n') || 'None';
+  const today = new Date().toLocaleDateString('en-US', {month:'long', day:'numeric', year:'numeric'});
+  const news  = (game.news || []).map(n => `- ${n.title} (${n.source})`).join('\n') || 'None';
 
-  const prompt =
+  const systemPrompt = `You are ParlAID, a sharp NBA betting analyst with access to live web search.
+Your job is to write a detailed, well-researched betting analysis for tonight's NBA games.
+
+For EVERY game analysis you MUST research and include:
+1. RECENT FORM — Last 5–10 games record and scoring trends for both teams
+2. KEY PLAYERS — Who is hot right now (scoring streaks, efficiency), who is cold
+3. HEAD-TO-HEAD — Recent H2H record between these two teams this season
+4. HOME/AWAY SPLITS — How each team performs at home vs away this season
+5. INJURY IMPACT — How listed injuries specifically affect the line/total
+6. WHY THE EDGE EXISTS — The specific statistical reason the pick has value
+
+Use the web_search tool to look up:
+- "[Team1] vs [Team2] NBA ${today} preview"
+- "[Team1] last 5 games NBA 2026"
+- "[Team2] recent form injury report 2026"
+
+Format your response with clear sections. Start with the pick bolded.
+Write 5–7 sentences minimum. Be specific — use actual player names, actual stats, actual records.
+Do NOT use vague language like "the team has been performing well". Use numbers.`;
+
+  const userPrompt =
 `GAME: ${game.game}
-HOME ML: ${game.home_ml} (implied ${game.home_prob}% win probability)
-AWAY ML: ${game.away_ml} (implied ${game.away_prob}% win probability)
+DATE: ${today}
+HOME ML: ${game.home_ml} (${game.home_prob}% implied win probability)
+AWAY ML: ${game.away_ml} (${game.away_prob}% implied win probability)
 SPREAD: ${game.spread}
 RECOMMENDED PICK: ${game.pick} ${game.moneyline} — ${game.win_probability}% win probability
 CONFIDENCE: ${game.confidence}
@@ -341,7 +394,8 @@ INJURIES: ${game.injury_notes}
 RECENT NEWS:
 ${news}
 
-Write a sharp 3-4 sentence NBA betting analysis. Lead with the pick bolded. Use the exact probabilities and moneyline numbers provided. Be specific and direct — explain why the edge exists, reference injuries if relevant, and close with a confidence rationale.`;
+Research this game using web search, then write a detailed analysis covering:
+recent form, key players, head-to-head, home/away splits, injury impact, and the specific edge.`;
 
   try {
     const res = await fetch('https://api.anthropic.com/v1/messages', {
@@ -350,21 +404,57 @@ Write a sharp 3-4 sentence NBA betting analysis. Lead with the pick bolded. Use 
       body: JSON.stringify({
         model: 'claude-sonnet-4-20250514',
         max_tokens: 1000,
-        system: 'You are a sharp, concise NBA betting analyst. Use exact numbers given. Never say "based on available data". Be direct.',
-        messages: [{ role: 'user', content: prompt }]
+        system: systemPrompt,
+        tools: [{
+          type: "web_search_20250305",
+          name: "web_search"
+        }],
+        messages: [{ role: 'user', content: userPrompt }]
       })
     });
+
     const data = await res.json();
-    const text = data.content?.find(b => b.type === 'text')?.text || '';
-    if (text) {
-      aiCache[game.game] = text;
-      const el = document.getElementById(`reasoning-${sid(game.game)}`);
-      if (el) el.innerHTML = `<div class="reasoning-text">${boldify(esc(text))}</div>`;
+
+    // Extract text blocks and any web search source URLs
+    let text    = '';
+    let sources = [];
+
+    if (data.content) {
+      for (const block of data.content) {
+        if (block.type === 'text') {
+          text += block.text;
+        }
+        // Capture search result URLs to display as source chips
+        if (block.type === 'tool_result' || block.type === 'web_search_result') {
+          const results = block.content || block.results || [];
+          for (const r of results) {
+            if (r.url && r.title) {
+              // Only surface ESPN and Bleacher Report links
+              if (r.url.includes('espn.com') || r.url.includes('bleacherreport.com') || r.url.includes('sportskeeda.com')) {
+                sources.push({ url: r.url, label: r.title.slice(0, 50) });
+              }
+            }
+          }
+        }
+      }
     }
-  } catch {
+
+    if (text) {
+      aiCache[game.game] = { text, sources };
+      const el = document.getElementById(`reasoning-${sid(game.game)}`);
+      if (el) el.innerHTML = renderReasoning({ text, sources });
+    }
+
+  } catch (err) {
+    console.warn('AI reasoning failed for', game.game, err);
     // Fall back to scraper reasoning
     const el = document.getElementById(`reasoning-${sid(game.game)}`);
-    if (el && game.reasoning) el.innerHTML = `<div class="reasoning-text">${boldify(esc(game.reasoning))}</div>`;
+    if (el && game.reasoning) {
+      aiCache[game.game] = { text: game.reasoning, sources: [] };
+      el.innerHTML = renderReasoning({ text: game.reasoning, sources: [] });
+    }
+  } finally {
+    pendingAI.delete(game.game);
   }
 }
 
@@ -374,12 +464,12 @@ function setFilter(f, btn) {
   document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
   btn.classList.add('active');
   renderGames();
-  allGames.forEach(g => generateAIReasoning(g));
+  allGames.forEach((g, i) => setTimeout(() => generateAIReasoning(g), i * 800));
 }
 
 // ── Utils ─────────────────────────────────────────────────────────────────────
 const esc     = s => String(s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
-const boldify = s => s.replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>');
+const boldify = s => s.replace(/\*\*(.+?)\*\*/g,'<strong>$1</strong>');
 const sid     = s => s.replace(/[^a-z0-9]/gi,'_').toLowerCase();
 
 // ── Boot ──────────────────────────────────────────────────────────────────────
