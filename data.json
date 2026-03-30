@@ -1,6 +1,6 @@
 {
-  "last_updated": "March 30, 2026 at 02:55 PM UTC",
-  "total_games": 8,
+  "last_updated": "March 30, 2026 at 11:54 PM UTC",
+  "total_games": 12,
   "games": [
     {
       "game": "Philadelphia 76ers @ Miami Heat",
@@ -8,50 +8,50 @@
       "away_team": "Philadelphia 76ers",
       "home_abbr": "MIA",
       "away_abbr": "PHI",
-      "home_ml": "+110",
-      "away_ml": "-130",
-      "home_ml_raw": 110,
-      "away_ml_raw": -130,
-      "home_prob": 45.7,
-      "away_prob": 54.3,
-      "spread": "MIA +2.5",
+      "home_ml": "-110",
+      "away_ml": "-120",
+      "home_ml_raw": -110,
+      "away_ml_raw": -120,
+      "home_prob": 49.0,
+      "away_prob": 51.0,
+      "spread": "MIA +1.5",
       "favorite": "Philadelphia 76ers",
       "pick": "Philadelphia 76ers",
       "pick_abbr": "PHI",
-      "moneyline": "-130",
-      "win_probability": 54.3,
+      "moneyline": "-120",
+      "win_probability": 51.0,
       "confidence": "LOW",
       "confidence_stars": "\u2605\u2606\u2606",
-      "commence_time": "2026-03-30T23:10:00Z",
+      "commence_time": "2026-03-30T23:12:00Z",
       "line_movement": {
         "home": {
           "direction": "shorter",
-          "points_moved": 4,
-          "steam": false,
+          "points_moved": 220,
+          "steam": true,
           "rlm": false,
-          "label": "\ud83d\udd34 +110 \u2190 +114",
-          "old_ml": "+114",
-          "new_ml": "+110"
+          "label": "\ud83d\udd34 -110 \u2190 +110 \ud83d\udd25 STEAM",
+          "old_ml": "+110",
+          "new_ml": "-110"
         },
         "away": {
           "direction": "longer",
-          "points_moved": 5,
-          "steam": false,
+          "points_moved": 10,
+          "steam": true,
           "rlm": false,
-          "label": "\ud83d\udd34 -130 \u2190 -135",
-          "old_ml": "-135",
-          "new_ml": "-130"
+          "label": "\ud83d\udd34 -120 \u2190 -130 \ud83d\udd25 STEAM",
+          "old_ml": "-130",
+          "new_ml": "-120"
         },
         "pick": {
           "direction": "longer",
-          "points_moved": 5,
-          "steam": false,
+          "points_moved": 10,
+          "steam": true,
           "rlm": false,
-          "label": "\ud83d\udd34 -130 \u2190 -135",
-          "old_ml": "-135",
-          "new_ml": "-130"
+          "label": "\ud83d\udd34 -120 \u2190 -130 \ud83d\udd25 STEAM",
+          "old_ml": "-130",
+          "new_ml": "-120"
         },
-        "snapshot_time": "March 30, 2026 at 10:21 AM UTC"
+        "snapshot_time": "March 30, 2026 at 02:55 PM UTC"
       },
       "fatigue": {
         "home": {
@@ -74,16 +74,28 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udcca 8.6pt probability edge"
+        "\ud83d\udd25 Sharp steam on pick"
       ],
-      "reasoning": "**Philadelphia 76ers ML (-130)** \u2014 54.3% vs Miami Heat's 45.7%, a 8.6pt edge. Spread: MIA +2.5. Line movement: \ud83d\udd34 -130 \u2190 -135. Injuries: Norman Powell (G); Terry Rozier (G); Johni Broome (F)",
+      "reasoning": "**Philadelphia 76ers ML (-120)** \u2014 51.0% vs Miami Heat's 49.0%, a 2.0pt edge. Spread: MIA +1.5. \ud83d\udd25 Sharp steam detected: line moved 10 pts. Injuries: Norman Powell (G); Terry Rozier (G); Johni Broome (F)",
       "injury_notes": "Norman Powell (G); Terry Rozier (G); Johni Broome (F)",
       "news": [
         {
-          "title": "Maxey returns as healthy 76ers rally past Hornets",
-          "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/nba/story/_/id/48336679/fully-healthy-76ers-score-comeback-win-vs-red-hot-hornets",
-          "published": "Mon, 30 Mar 2026 10:08:51 EST"
+          "title": "Ranking Duke's worst NCAA tournament losses since its last title, including that collapse vs. UConn",
+          "source": "Yahoo Entertainment",
+          "link": "https://sports.yahoo.com/college-basketball/article/copy-final-four-ranking-dukes-worst-ncaa-tournament-losses-since-its-last-title-including-that-collapse-vs-houston-234951142.html",
+          "published": "2026-03-29T23:49:51Z"
+        },
+        {
+          "title": "Nike Kobe 8 Protro EXT \u201cYear of the Horse\u201d Releases April 2026",
+          "source": "Sneakerfiles.com",
+          "link": "https://www.sneakerfiles.com/nike-kobe-8-protro-ext-year-of-the-horse-2026/",
+          "published": "2026-03-29T23:40:50Z"
+        },
+        {
+          "title": "Pacers snap franchise record 11-game home losing streak by beating Heat",
+          "source": "The Indianapolis Star",
+          "link": "https://www.indystar.com/story/sports/nba/pacers/2026/03/29/pacers-vs-heat-indiana-hold-miami-to-11-fourth-quarter-points-in-135-118-victory/89250183007/",
+          "published": "2026-03-29T23:39:16Z"
         }
       ]
     },
@@ -93,50 +105,50 @@
       "away_team": "Boston Celtics",
       "home_abbr": "ATL",
       "away_abbr": "BOS",
-      "home_ml": "-122",
-      "away_ml": "+102",
-      "home_ml_raw": -122,
-      "away_ml_raw": 102,
-      "home_prob": 52.6,
-      "away_prob": 47.4,
-      "spread": "ATL -1.5",
+      "home_ml": "-125",
+      "away_ml": "-105",
+      "home_ml_raw": -125,
+      "away_ml_raw": -105,
+      "home_prob": 52.0,
+      "away_prob": 48.0,
+      "spread": "ATL -2.5",
       "favorite": "Atlanta Hawks",
       "pick": "Atlanta Hawks",
       "pick_abbr": "ATL",
-      "moneyline": "-122",
-      "win_probability": 52.6,
+      "moneyline": "-125",
+      "win_probability": 52.0,
       "confidence": "LOW",
       "confidence_stars": "\u2605\u2606\u2606",
       "commence_time": "2026-03-30T23:40:00Z",
       "line_movement": {
         "home": {
           "direction": "shorter",
-          "points_moved": 4,
+          "points_moved": 3,
           "steam": false,
           "rlm": false,
-          "label": "\ud83d\udfe2 -122 \u2190 -118",
-          "old_ml": "-118",
-          "new_ml": "-122"
+          "label": "\ud83d\udfe2 -125 \u2190 -122",
+          "old_ml": "-122",
+          "new_ml": "-125"
         },
         "away": {
-          "direction": "longer",
-          "points_moved": 204,
+          "direction": "shorter",
+          "points_moved": 207,
           "steam": true,
           "rlm": false,
-          "label": "\ud83d\udfe2 +102 \u2190 -102 \ud83d\udd25 STEAM",
-          "old_ml": "-102",
-          "new_ml": "+102"
+          "label": "\ud83d\udd34 -105 \u2190 +102 \ud83d\udd25 STEAM",
+          "old_ml": "+102",
+          "new_ml": "-105"
         },
         "pick": {
           "direction": "shorter",
-          "points_moved": 4,
+          "points_moved": 3,
           "steam": false,
           "rlm": false,
-          "label": "\ud83d\udfe2 -122 \u2190 -118",
-          "old_ml": "-118",
-          "new_ml": "-122"
+          "label": "\ud83d\udfe2 -125 \u2190 -122",
+          "old_ml": "-122",
+          "new_ml": "-125"
         },
-        "snapshot_time": "March 30, 2026 at 10:21 AM UTC"
+        "snapshot_time": "March 30, 2026 at 02:55 PM UTC"
       },
       "fatigue": {
         "home": {
@@ -159,16 +171,16 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udcca 5.2pt probability edge"
+        "\ud83d\udcca 4.0pt probability edge"
       ],
-      "reasoning": "**Atlanta Hawks ML (-122)** \u2014 52.6% vs Boston Celtics's 47.4%, a 5.2pt edge. Spread: ATL -1.5. Line movement: \ud83d\udfe2 -122 \u2190 -118. Injuries: Jayson Tatum (F); Derrick White (G); Jaylen Brown (G); Nikola Vucevic (C)",
-      "injury_notes": "Jayson Tatum (F); Derrick White (G); Jaylen Brown (G); Nikola Vucevic (C)",
+      "reasoning": "**Atlanta Hawks ML (-125)** \u2014 52.0% vs Boston Celtics's 48.0%, a 4.0pt edge. Spread: ATL -2.5. Line movement: \ud83d\udfe2 -125 \u2190 -122. Injuries: Jock Landale (C); Neemias Queta (C); Ron Harper Jr. (G); Jayson Tatum (F)",
+      "injury_notes": "Jock Landale (C); Neemias Queta (C); Ron Harper Jr. (G); Jayson Tatum (F)",
       "news": [
         {
           "title": "'Gap' year? Celts win 50th as Brown jabs doubters",
           "source": "www.espn.com - NBA",
           "link": "https://www.espn.com/nba/story/_/id/48344348/jaylen-brown-pokes-fun-doubters-celtics-reach-50-wins",
-          "published": "Mon, 30 Mar 2026 10:08:51 EST"
+          "published": "Mon, 30 Mar 2026 18:47:14 EST"
         }
       ]
     },
@@ -178,44 +190,50 @@
       "away_team": "Chicago Bulls",
       "home_abbr": "SAS",
       "away_abbr": "CHI",
-      "home_ml": "-1800",
-      "away_ml": "+1000",
-      "home_ml_raw": -1800,
-      "away_ml_raw": 1000,
-      "home_prob": 91.2,
-      "away_prob": 8.8,
-      "spread": "SAS -18.5",
+      "home_ml": "-2100",
+      "away_ml": "+1100",
+      "home_ml_raw": -2100,
+      "away_ml_raw": 1100,
+      "home_prob": 92.0,
+      "away_prob": 8.0,
+      "spread": "SAS -17.5",
       "favorite": "San Antonio Spurs",
       "pick": "San Antonio Spurs",
       "pick_abbr": "SAS",
-      "moneyline": "-1800",
-      "win_probability": 91.2,
+      "moneyline": "-2100",
+      "win_probability": 92.0,
       "confidence": "HIGH",
       "confidence_stars": "\u2605\u2605\u2605",
       "commence_time": "2026-03-31T00:10:00Z",
       "line_movement": {
         "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
+          "direction": "shorter",
+          "points_moved": 300,
+          "steam": true,
           "rlm": false,
-          "label": "No movement"
+          "label": "\ud83d\udfe2 -2100 \u2190 -1800 \ud83d\udd25 STEAM",
+          "old_ml": "-1800",
+          "new_ml": "-2100"
         },
         "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
+          "direction": "longer",
+          "points_moved": 100,
+          "steam": true,
           "rlm": false,
-          "label": "No movement"
+          "label": "\ud83d\udfe2 +1100 \u2190 +1000 \ud83d\udd25 STEAM",
+          "old_ml": "+1000",
+          "new_ml": "+1100"
         },
         "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
+          "direction": "shorter",
+          "points_moved": 300,
+          "steam": true,
           "rlm": false,
-          "label": "No movement"
+          "label": "\ud83d\udfe2 -2100 \u2190 -1800 \ud83d\udd25 STEAM",
+          "old_ml": "-1800",
+          "new_ml": "-2100"
         },
-        "snapshot_time": "March 30, 2026 at 10:21 AM UTC"
+        "snapshot_time": "March 30, 2026 at 02:55 PM UTC"
       },
       "fatigue": {
         "home": {
@@ -238,16 +256,16 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udcca 82.4pt probability edge"
+        "\ud83d\udd25 Sharp steam on pick"
       ],
-      "reasoning": "**San Antonio Spurs ML (-1800)** \u2014 91.2% vs Chicago Bulls's 8.8%, a 82.4pt edge. Spread: SAS -18.5. Injuries: David Jones Garcia (F); Mac McClung (G); Anfernee Simons (G); Guerschon Yabusele (F)",
-      "injury_notes": "David Jones Garcia (F); Mac McClung (G); Anfernee Simons (G); Guerschon Yabusele (F)",
+      "reasoning": "**San Antonio Spurs ML (-2100)** \u2014 92.0% vs Chicago Bulls's 8.0%, a 84.0pt edge. Spread: SAS -17.5. \ud83d\udd25 Sharp steam detected: line moved 300 pts. Injuries: David Jones Garcia (F); Nick Richards (C); Mac McClung (G); Anfernee Simons (G)",
+      "injury_notes": "David Jones Garcia (F); Nick Richards (C); Mac McClung (G); Anfernee Simons (G)",
       "news": [
         {
-          "title": "Bucks eliminated from playoffs with blowout loss",
+          "title": "Bulls waive guard Ivey after anti-gay comments",
           "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/nba/story/_/id/48333041/bucks-eliminated-playoff-contention-blowout-loss",
-          "published": "Mon, 30 Mar 2026 10:08:51 EST"
+          "link": "https://www.espn.com/nba/story/_/id/48350464/sources-bulls-waive-jaden-ivey-anti-gay-comments",
+          "published": "Mon, 30 Mar 2026 18:47:14 EST"
         }
       ]
     },
@@ -274,33 +292,27 @@
       "commence_time": "2026-03-31T00:10:00Z",
       "line_movement": {
         "home": {
-          "direction": "shorter",
-          "points_moved": 50,
-          "steam": true,
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
           "rlm": false,
-          "label": "\ud83d\udd34 +500 \u2190 +550 \ud83d\udd25 STEAM",
-          "old_ml": "+550",
-          "new_ml": "+500"
+          "label": "No movement"
         },
         "away": {
-          "direction": "longer",
-          "points_moved": 100,
-          "steam": true,
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
           "rlm": false,
-          "label": "\ud83d\udd34 -700 \u2190 -800 \ud83d\udd25 STEAM",
-          "old_ml": "-800",
-          "new_ml": "-700"
+          "label": "No movement"
         },
         "pick": {
-          "direction": "longer",
-          "points_moved": 100,
-          "steam": true,
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
           "rlm": false,
-          "label": "\ud83d\udd34 -700 \u2190 -800 \ud83d\udd25 STEAM",
-          "old_ml": "-800",
-          "new_ml": "-700"
+          "label": "No movement"
         },
-        "snapshot_time": "March 30, 2026 at 10:21 AM UTC"
+        "snapshot_time": "March 30, 2026 at 02:55 PM UTC"
       },
       "fatigue": {
         "home": {
@@ -323,28 +335,28 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udd25 Sharp steam on pick"
+        "\ud83d\udcca 68.0pt probability edge"
       ],
-      "reasoning": "**Phoenix Suns ML (-700)** \u2014 84.0% vs Memphis Grizzlies's 16.0%, a 68.0pt edge. Spread: MEM +12.5. \ud83d\udd25 Sharp steam detected: line moved 100 pts. Injuries: Jaylen Wells (F); Javon Small (G); Ty Jerome (G); DeJon Jarreau (G)",
-      "injury_notes": "Jaylen Wells (F); Javon Small (G); Ty Jerome (G); DeJon Jarreau (G)",
+      "reasoning": "**Phoenix Suns ML (-700)** \u2014 84.0% vs Memphis Grizzlies's 16.0%, a 68.0pt edge. Spread: MEM +12.5. Injuries: Taj Gibson (F); Olivier-Maxence Prosper (F); Javon Small (G); Jaylen Wells (F)",
+      "injury_notes": "Taj Gibson (F); Olivier-Maxence Prosper (F); Javon Small (G); Jaylen Wells (F)",
       "news": [
         {
-          "title": "Michael Jordan's Competitive Fire Ignites NASCAR: Fighting for Big Change & Winning Big",
-          "source": "Ibtimes.com.au",
-          "link": "https://www.ibtimes.com.au/michael-jordans-competitive-fire-ignites-nascar-fighting-big-change-winning-big-1864919",
-          "published": "2026-03-29T14:51:42Z"
+          "title": "Ranking Duke's worst NCAA tournament losses since its last title, including that collapse vs. UConn",
+          "source": "Yahoo Entertainment",
+          "link": "https://sports.yahoo.com/college-basketball/article/copy-final-four-ranking-dukes-worst-ncaa-tournament-losses-since-its-last-title-including-that-collapse-vs-houston-234951142.html",
+          "published": "2026-03-29T23:49:51Z"
         },
         {
-          "title": "The Hornets surge has the Celtics fingerprints all over it",
-          "source": "Celtics Blog",
-          "link": "https://www.celticsblog.com/boston-celtics-news/136828/the-hornets-surge-has-the-celtics-fingerprints-all-over-it",
-          "published": "2026-03-29T14:48:11Z"
+          "title": "Nike Kobe 8 Protro EXT \u201cYear of the Horse\u201d Releases April 2026",
+          "source": "Sneakerfiles.com",
+          "link": "https://www.sneakerfiles.com/nike-kobe-8-protro-ext-year-of-the-horse-2026/",
+          "published": "2026-03-29T23:40:50Z"
         },
         {
-          "title": "Some Things I Think I Think: ABS challenges have made the game better \u2014\u00a0and more entertaining",
-          "source": "MassLive.com",
-          "link": "https://www.masslive.com/redsox/2026/03/some-things-i-think-i-think-abs-challenges-have-made-the-game-better-and-more-entertaining.html",
-          "published": "2026-03-29T14:47:10Z"
+          "title": "Pacers snap franchise record 11-game home losing streak by beating Heat",
+          "source": "The Indianapolis Star",
+          "link": "https://www.indystar.com/story/sports/nba/pacers/2026/03/29/pacers-vs-heat-indiana-hold-miami-to-11-fourth-quarter-points-in-135-118-victory/89250183007/",
+          "published": "2026-03-29T23:39:16Z"
         }
       ]
     },
@@ -354,50 +366,50 @@
       "away_team": "Minnesota Timberwolves",
       "home_abbr": "DAL",
       "away_abbr": "MIN",
-      "home_ml": "+220",
-      "away_ml": "-270",
-      "home_ml_raw": 220,
-      "away_ml_raw": -270,
-      "home_prob": 30.0,
-      "away_prob": 70.0,
-      "spread": "DAL +7.5",
+      "home_ml": "+280",
+      "away_ml": "-355",
+      "home_ml_raw": 280,
+      "away_ml_raw": -355,
+      "home_prob": 25.2,
+      "away_prob": 74.8,
+      "spread": "DAL +8.5",
       "favorite": "Minnesota Timberwolves",
       "pick": "Minnesota Timberwolves",
       "pick_abbr": "MIN",
-      "moneyline": "-270",
-      "win_probability": 70.0,
-      "confidence": "MEDIUM",
-      "confidence_stars": "\u2605\u2605\u2606",
+      "moneyline": "-355",
+      "win_probability": 74.8,
+      "confidence": "HIGH",
+      "confidence_stars": "\u2605\u2605\u2605",
       "commence_time": "2026-03-31T00:40:00Z",
       "line_movement": {
         "home": {
-          "direction": "shorter",
-          "points_moved": 10,
+          "direction": "longer",
+          "points_moved": 60,
           "steam": true,
           "rlm": false,
-          "label": "\ud83d\udd34 +220 \u2190 +230 \ud83d\udd25 STEAM",
-          "old_ml": "+230",
-          "new_ml": "+220"
+          "label": "\ud83d\udfe2 +280 \u2190 +220 \ud83d\udd25 STEAM",
+          "old_ml": "+220",
+          "new_ml": "+280"
         },
         "away": {
-          "direction": "longer",
-          "points_moved": 15,
+          "direction": "shorter",
+          "points_moved": 85,
           "steam": true,
           "rlm": false,
-          "label": "\ud83d\udd34 -270 \u2190 -285 \ud83d\udd25 STEAM",
-          "old_ml": "-285",
-          "new_ml": "-270"
+          "label": "\ud83d\udfe2 -355 \u2190 -270 \ud83d\udd25 STEAM",
+          "old_ml": "-270",
+          "new_ml": "-355"
         },
         "pick": {
-          "direction": "longer",
-          "points_moved": 15,
+          "direction": "shorter",
+          "points_moved": 85,
           "steam": true,
           "rlm": false,
-          "label": "\ud83d\udd34 -270 \u2190 -285 \ud83d\udd25 STEAM",
-          "old_ml": "-285",
-          "new_ml": "-270"
+          "label": "\ud83d\udfe2 -355 \u2190 -270 \ud83d\udd25 STEAM",
+          "old_ml": "-270",
+          "new_ml": "-355"
         },
-        "snapshot_time": "March 30, 2026 at 10:21 AM UTC"
+        "snapshot_time": "March 30, 2026 at 02:55 PM UTC"
       },
       "fatigue": {
         "home": {
@@ -422,26 +434,14 @@
       "edge_factors": [
         "\ud83d\udd25 Sharp steam on pick"
       ],
-      "reasoning": "**Minnesota Timberwolves ML (-270)** \u2014 70.0% vs Dallas Mavericks's 30.0%, a 40.0pt edge. Spread: DAL +7.5. \ud83d\udd25 Sharp steam detected: line moved 15 pts. Injuries: Caleb Martin (F); Daniel Gafford (F); Naji Marshall (F); Marvin Bagley III (F)",
-      "injury_notes": "Caleb Martin (F); Daniel Gafford (F); Naji Marshall (F); Marvin Bagley III (F)",
+      "reasoning": "**Minnesota Timberwolves ML (-355)** \u2014 74.8% vs Dallas Mavericks's 25.2%, a 49.6pt edge. Spread: DAL +8.5. \ud83d\udd25 Sharp steam detected: line moved 85 pts. Injuries: Naji Marshall (F); Marvin Bagley III (F); Caleb Martin (F); P.J. Washington (F)",
+      "injury_notes": "Naji Marshall (F); Marvin Bagley III (F); Caleb Martin (F); P.J. Washington (F)",
       "news": [
         {
-          "title": "Michael Jordan's Competitive Fire Ignites NASCAR: Fighting for Big Change & Winning Big",
-          "source": "Ibtimes.com.au",
-          "link": "https://www.ibtimes.com.au/michael-jordans-competitive-fire-ignites-nascar-fighting-big-change-winning-big-1864919",
-          "published": "2026-03-29T14:51:42Z"
-        },
-        {
-          "title": "The Hornets surge has the Celtics fingerprints all over it",
-          "source": "Celtics Blog",
-          "link": "https://www.celticsblog.com/boston-celtics-news/136828/the-hornets-surge-has-the-celtics-fingerprints-all-over-it",
-          "published": "2026-03-29T14:48:11Z"
-        },
-        {
-          "title": "Some Things I Think I Think: ABS challenges have made the game better \u2014\u00a0and more entertaining",
-          "source": "MassLive.com",
-          "link": "https://www.masslive.com/redsox/2026/03/some-things-i-think-i-think-abs-challenges-have-made-the-game-better-and-more-entertaining.html",
-          "published": "2026-03-29T14:47:10Z"
+          "title": "Wolves lose McDaniels but get Edwards back",
+          "source": "www.espn.com - NBA",
+          "link": "https://www.espn.com/nba/story/_/id/48348943/timberwolves-jaden-mcdaniels-week-week-knee-injury",
+          "published": "Mon, 30 Mar 2026 18:47:14 EST"
         }
       ]
     },
@@ -451,141 +451,50 @@
       "away_team": "Cleveland Cavaliers",
       "home_abbr": "UTA",
       "away_abbr": "CLE",
-      "home_ml": "+950",
-      "away_ml": "-1650",
-      "home_ml_raw": 950,
-      "away_ml_raw": -1650,
-      "home_prob": 9.2,
-      "away_prob": 90.8,
-      "spread": "UTA +17.5",
+      "home_ml": "+900",
+      "away_ml": "-1600",
+      "home_ml_raw": 900,
+      "away_ml_raw": -1600,
+      "home_prob": 9.6,
+      "away_prob": 90.4,
+      "spread": "UTA +16.5",
       "favorite": "Cleveland Cavaliers",
       "pick": "Cleveland Cavaliers",
       "pick_abbr": "CLE",
-      "moneyline": "-1650",
-      "win_probability": 90.8,
+      "moneyline": "-1600",
+      "win_probability": 90.4,
       "confidence": "HIGH",
       "confidence_stars": "\u2605\u2605\u2605",
       "commence_time": "2026-03-31T01:10:00Z",
       "line_movement": {
         "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "rlm": false,
-          "label": "No movement"
-        },
-        "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "rlm": false,
-          "label": "No movement"
-        },
-        "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "rlm": false,
-          "label": "No movement"
-        },
-        "snapshot_time": "March 30, 2026 at 10:21 AM UTC"
-      },
-      "fatigue": {
-        "home": {
-          "status": "FRESH",
-          "label": "Well rested \u2705",
-          "battery": 100,
-          "last_game_date": "\u2014",
-          "games_last_4d": 0,
-          "road_streak": 0,
-          "cross_trip": false
-        },
-        "away": {
-          "status": "FRESH",
-          "label": "Well rested \u2705",
-          "battery": 100,
-          "last_game_date": "\u2014",
-          "games_last_4d": 0,
-          "road_streak": 0,
-          "cross_trip": false
-        }
-      },
-      "edge_factors": [
-        "\ud83d\udcca 81.6pt probability edge"
-      ],
-      "reasoning": "**Cleveland Cavaliers ML (-1650)** \u2014 90.8% vs Utah Jazz's 9.2%, a 81.6pt edge. Spread: UTA +17.5. Injuries: Isaiah Collier (G); Keyonte George (G); Lauri Markkanen (F); Jusuf Nurkic (C)",
-      "injury_notes": "Isaiah Collier (G); Keyonte George (G); Lauri Markkanen (F); Jusuf Nurkic (C)",
-      "news": [
-        {
-          "title": "Michael Jordan's Competitive Fire Ignites NASCAR: Fighting for Big Change & Winning Big",
-          "source": "Ibtimes.com.au",
-          "link": "https://www.ibtimes.com.au/michael-jordans-competitive-fire-ignites-nascar-fighting-big-change-winning-big-1864919",
-          "published": "2026-03-29T14:51:42Z"
-        },
-        {
-          "title": "The Hornets surge has the Celtics fingerprints all over it",
-          "source": "Celtics Blog",
-          "link": "https://www.celticsblog.com/boston-celtics-news/136828/the-hornets-surge-has-the-celtics-fingerprints-all-over-it",
-          "published": "2026-03-29T14:48:11Z"
-        },
-        {
-          "title": "Some Things I Think I Think: ABS challenges have made the game better \u2014\u00a0and more entertaining",
-          "source": "MassLive.com",
-          "link": "https://www.masslive.com/redsox/2026/03/some-things-i-think-i-think-abs-challenges-have-made-the-game-better-and-more-entertaining.html",
-          "published": "2026-03-29T14:47:10Z"
-        }
-      ]
-    },
-    {
-      "game": "Detroit Pistons @ Oklahoma City Thunder",
-      "home_team": "Oklahoma City Thunder",
-      "away_team": "Detroit Pistons",
-      "home_abbr": "OKC",
-      "away_abbr": "DET",
-      "home_ml": "-700",
-      "away_ml": "+500",
-      "home_ml_raw": -700,
-      "away_ml_raw": 500,
-      "home_prob": 84.0,
-      "away_prob": 16.0,
-      "spread": "OKC -11.5",
-      "favorite": "Oklahoma City Thunder",
-      "pick": "Oklahoma City Thunder",
-      "pick_abbr": "OKC",
-      "moneyline": "-700",
-      "win_probability": 84.0,
-      "confidence": "HIGH",
-      "confidence_stars": "\u2605\u2605\u2605",
-      "commence_time": "2026-03-31T01:40:00Z",
-      "line_movement": {
-        "home": {
-          "direction": "longer",
-          "points_moved": 100,
-          "steam": true,
-          "rlm": false,
-          "label": "\ud83d\udd34 -700 \u2190 -800 \ud83d\udd25 STEAM",
-          "old_ml": "-800",
-          "new_ml": "-700"
-        },
-        "away": {
           "direction": "shorter",
           "points_moved": 50,
           "steam": true,
           "rlm": false,
-          "label": "\ud83d\udd34 +500 \u2190 +550 \ud83d\udd25 STEAM",
-          "old_ml": "+550",
-          "new_ml": "+500"
+          "label": "\ud83d\udd34 +900 \u2190 +950 \ud83d\udd25 STEAM",
+          "old_ml": "+950",
+          "new_ml": "+900"
+        },
+        "away": {
+          "direction": "longer",
+          "points_moved": 50,
+          "steam": true,
+          "rlm": false,
+          "label": "\ud83d\udd34 -1600 \u2190 -1650 \ud83d\udd25 STEAM",
+          "old_ml": "-1650",
+          "new_ml": "-1600"
         },
         "pick": {
           "direction": "longer",
-          "points_moved": 100,
+          "points_moved": 50,
           "steam": true,
           "rlm": false,
-          "label": "\ud83d\udd34 -700 \u2190 -800 \ud83d\udd25 STEAM",
-          "old_ml": "-800",
-          "new_ml": "-700"
+          "label": "\ud83d\udd34 -1600 \u2190 -1650 \ud83d\udd25 STEAM",
+          "old_ml": "-1650",
+          "new_ml": "-1600"
         },
-        "snapshot_time": "March 30, 2026 at 10:21 AM UTC"
+        "snapshot_time": "March 30, 2026 at 02:55 PM UTC"
       },
       "fatigue": {
         "home": {
@@ -610,14 +519,123 @@
       "edge_factors": [
         "\ud83d\udd25 Sharp steam on pick"
       ],
-      "reasoning": "**Oklahoma City Thunder ML (-700)** \u2014 84.0% vs Detroit Pistons's 16.0%, a 68.0pt edge. Spread: OKC -11.5. \ud83d\udd25 Sharp steam detected: line moved 100 pts. Injuries: Thomas Sorber (C); Ausar Thompson (G); Duncan Robinson (F); Tobias Harris (F)",
-      "injury_notes": "Thomas Sorber (C); Ausar Thompson (G); Duncan Robinson (F); Tobias Harris (F)",
+      "reasoning": "**Cleveland Cavaliers ML (-1600)** \u2014 90.4% vs Utah Jazz's 9.6%, a 80.8pt edge. Spread: UTA +16.5. \ud83d\udd25 Sharp steam detected: line moved 50 pts. Injuries: Isaiah Collier (G); Keyonte George (G); Lauri Markkanen (F); Jusuf Nurkic (C)",
+      "injury_notes": "Isaiah Collier (G); Keyonte George (G); Lauri Markkanen (F); Jusuf Nurkic (C)",
       "news": [
         {
-          "title": "\ud83d\udc40 Playoff watch: Projections, draft lottery, more",
-          "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/nba/story/_/id/48287649/nba-playoff-watch-2026-standings-schedules-projections-clinchings",
-          "published": "Mon, 30 Mar 2026 10:08:51 EST"
+          "title": "Ranking Duke's worst NCAA tournament losses since its last title, including that collapse vs. UConn",
+          "source": "Yahoo Entertainment",
+          "link": "https://sports.yahoo.com/college-basketball/article/copy-final-four-ranking-dukes-worst-ncaa-tournament-losses-since-its-last-title-including-that-collapse-vs-houston-234951142.html",
+          "published": "2026-03-29T23:49:51Z"
+        },
+        {
+          "title": "Nike Kobe 8 Protro EXT \u201cYear of the Horse\u201d Releases April 2026",
+          "source": "Sneakerfiles.com",
+          "link": "https://www.sneakerfiles.com/nike-kobe-8-protro-ext-year-of-the-horse-2026/",
+          "published": "2026-03-29T23:40:50Z"
+        },
+        {
+          "title": "Pacers snap franchise record 11-game home losing streak by beating Heat",
+          "source": "The Indianapolis Star",
+          "link": "https://www.indystar.com/story/sports/nba/pacers/2026/03/29/pacers-vs-heat-indiana-hold-miami-to-11-fourth-quarter-points-in-135-118-victory/89250183007/",
+          "published": "2026-03-29T23:39:16Z"
+        }
+      ]
+    },
+    {
+      "game": "Detroit Pistons @ Oklahoma City Thunder",
+      "home_team": "Oklahoma City Thunder",
+      "away_team": "Detroit Pistons",
+      "home_abbr": "OKC",
+      "away_abbr": "DET",
+      "home_ml": "-650",
+      "away_ml": "+470",
+      "home_ml_raw": -650,
+      "away_ml_raw": 470,
+      "home_prob": 83.2,
+      "away_prob": 16.8,
+      "spread": "OKC -11.5",
+      "favorite": "Oklahoma City Thunder",
+      "pick": "Oklahoma City Thunder",
+      "pick_abbr": "OKC",
+      "moneyline": "-650",
+      "win_probability": 83.2,
+      "confidence": "HIGH",
+      "confidence_stars": "\u2605\u2605\u2605",
+      "commence_time": "2026-03-31T01:40:00Z",
+      "line_movement": {
+        "home": {
+          "direction": "longer",
+          "points_moved": 50,
+          "steam": true,
+          "rlm": false,
+          "label": "\ud83d\udd34 -650 \u2190 -700 \ud83d\udd25 STEAM",
+          "old_ml": "-700",
+          "new_ml": "-650"
+        },
+        "away": {
+          "direction": "shorter",
+          "points_moved": 30,
+          "steam": true,
+          "rlm": false,
+          "label": "\ud83d\udd34 +470 \u2190 +500 \ud83d\udd25 STEAM",
+          "old_ml": "+500",
+          "new_ml": "+470"
+        },
+        "pick": {
+          "direction": "longer",
+          "points_moved": 50,
+          "steam": true,
+          "rlm": false,
+          "label": "\ud83d\udd34 -650 \u2190 -700 \ud83d\udd25 STEAM",
+          "old_ml": "-700",
+          "new_ml": "-650"
+        },
+        "snapshot_time": "March 30, 2026 at 02:55 PM UTC"
+      },
+      "fatigue": {
+        "home": {
+          "status": "FRESH",
+          "label": "Well rested \u2705",
+          "battery": 100,
+          "last_game_date": "\u2014",
+          "games_last_4d": 0,
+          "road_streak": 0,
+          "cross_trip": false
+        },
+        "away": {
+          "status": "FRESH",
+          "label": "Well rested \u2705",
+          "battery": 100,
+          "last_game_date": "\u2014",
+          "games_last_4d": 0,
+          "road_streak": 0,
+          "cross_trip": false
+        }
+      },
+      "edge_factors": [
+        "\ud83d\udd25 Sharp steam on pick"
+      ],
+      "reasoning": "**Oklahoma City Thunder ML (-650)** \u2014 83.2% vs Detroit Pistons's 16.8%, a 66.4pt edge. Spread: OKC -11.5. \ud83d\udd25 Sharp steam detected: line moved 50 pts. Injuries: Jalen Williams (G); Isaiah Hartenstein (C); Thomas Sorber (C); Duncan Robinson (F)",
+      "injury_notes": "Jalen Williams (G); Isaiah Hartenstein (C); Thomas Sorber (C); Duncan Robinson (F)",
+      "news": [
+        {
+          "title": "Ranking Duke's worst NCAA tournament losses since its last title, including that collapse vs. UConn",
+          "source": "Yahoo Entertainment",
+          "link": "https://sports.yahoo.com/college-basketball/article/copy-final-four-ranking-dukes-worst-ncaa-tournament-losses-since-its-last-title-including-that-collapse-vs-houston-234951142.html",
+          "published": "2026-03-29T23:49:51Z"
+        },
+        {
+          "title": "Nike Kobe 8 Protro EXT \u201cYear of the Horse\u201d Releases April 2026",
+          "source": "Sneakerfiles.com",
+          "link": "https://www.sneakerfiles.com/nike-kobe-8-protro-ext-year-of-the-horse-2026/",
+          "published": "2026-03-29T23:40:50Z"
+        },
+        {
+          "title": "Pacers snap franchise record 11-game home losing streak by beating Heat",
+          "source": "The Indianapolis Star",
+          "link": "https://www.indystar.com/story/sports/nba/pacers/2026/03/29/pacers-vs-heat-indiana-hold-miami-to-11-fourth-quarter-points-in-135-118-victory/89250183007/",
+          "published": "2026-03-29T23:39:16Z"
         }
       ]
     },
@@ -627,44 +645,220 @@
       "away_team": "Washington Wizards",
       "home_abbr": "LAL",
       "away_abbr": "WAS",
-      "home_ml": "-1350",
-      "away_ml": "+800",
-      "home_ml_raw": -1350,
-      "away_ml_raw": 800,
-      "home_prob": 89.3,
-      "away_prob": 10.7,
-      "spread": "LAL -16.5",
+      "home_ml": "-1450",
+      "away_ml": "+850",
+      "home_ml_raw": -1450,
+      "away_ml_raw": 850,
+      "home_prob": 89.9,
+      "away_prob": 10.1,
+      "spread": "LAL -15.5",
       "favorite": "Los Angeles Lakers",
       "pick": "Los Angeles Lakers",
       "pick_abbr": "LAL",
-      "moneyline": "-1350",
-      "win_probability": 89.3,
+      "moneyline": "-1450",
+      "win_probability": 89.9,
       "confidence": "HIGH",
       "confidence_stars": "\u2605\u2605\u2605",
       "commence_time": "2026-03-31T02:10:00Z",
+      "line_movement": {
+        "home": {
+          "direction": "shorter",
+          "points_moved": 100,
+          "steam": true,
+          "rlm": false,
+          "label": "\ud83d\udfe2 -1450 \u2190 -1350 \ud83d\udd25 STEAM",
+          "old_ml": "-1350",
+          "new_ml": "-1450"
+        },
+        "away": {
+          "direction": "longer",
+          "points_moved": 50,
+          "steam": true,
+          "rlm": false,
+          "label": "\ud83d\udfe2 +850 \u2190 +800 \ud83d\udd25 STEAM",
+          "old_ml": "+800",
+          "new_ml": "+850"
+        },
+        "pick": {
+          "direction": "shorter",
+          "points_moved": 100,
+          "steam": true,
+          "rlm": false,
+          "label": "\ud83d\udfe2 -1450 \u2190 -1350 \ud83d\udd25 STEAM",
+          "old_ml": "-1350",
+          "new_ml": "-1450"
+        },
+        "snapshot_time": "March 30, 2026 at 02:55 PM UTC"
+      },
+      "fatigue": {
+        "home": {
+          "status": "FRESH",
+          "label": "Well rested \u2705",
+          "battery": 100,
+          "last_game_date": "\u2014",
+          "games_last_4d": 0,
+          "road_streak": 0,
+          "cross_trip": false
+        },
+        "away": {
+          "status": "FRESH",
+          "label": "Well rested \u2705",
+          "battery": 100,
+          "last_game_date": "\u2014",
+          "games_last_4d": 0,
+          "road_streak": 0,
+          "cross_trip": false
+        }
+      },
+      "edge_factors": [
+        "\ud83d\udd25 Sharp steam on pick"
+      ],
+      "reasoning": "**Los Angeles Lakers ML (-1450)** \u2014 89.9% vs Washington Wizards's 10.1%, a 79.8pt edge. Spread: LAL -15.5. \ud83d\udd25 Sharp steam detected: line moved 100 pts. Injuries: Adou Thiero (F); Marcus Smart (G); Alex Sarr (C); Trae Young (G)",
+      "injury_notes": "Adou Thiero (F); Marcus Smart (G); Alex Sarr (C); Trae Young (G)",
+      "news": [
+        {
+          "title": "Ranking Duke's worst NCAA tournament losses since its last title, including that collapse vs. UConn",
+          "source": "Yahoo Entertainment",
+          "link": "https://sports.yahoo.com/college-basketball/article/copy-final-four-ranking-dukes-worst-ncaa-tournament-losses-since-its-last-title-including-that-collapse-vs-houston-234951142.html",
+          "published": "2026-03-29T23:49:51Z"
+        },
+        {
+          "title": "Nike Kobe 8 Protro EXT \u201cYear of the Horse\u201d Releases April 2026",
+          "source": "Sneakerfiles.com",
+          "link": "https://www.sneakerfiles.com/nike-kobe-8-protro-ext-year-of-the-horse-2026/",
+          "published": "2026-03-29T23:40:50Z"
+        },
+        {
+          "title": "Pacers snap franchise record 11-game home losing streak by beating Heat",
+          "source": "The Indianapolis Star",
+          "link": "https://www.indystar.com/story/sports/nba/pacers/2026/03/29/pacers-vs-heat-indiana-hold-miami-to-11-fourth-quarter-points-in-135-118-victory/89250183007/",
+          "published": "2026-03-29T23:39:16Z"
+        }
+      ]
+    },
+    {
+      "game": "Phoenix Suns @ Orlando Magic",
+      "home_team": "Orlando Magic",
+      "away_team": "Phoenix Suns",
+      "home_abbr": "ORL",
+      "away_abbr": "PHX",
+      "home_ml": "-142",
+      "away_ml": "+120",
+      "home_ml_raw": -142,
+      "away_ml_raw": 120,
+      "home_prob": 56.3,
+      "away_prob": 43.7,
+      "spread": "ORL -2.5",
+      "favorite": "Orlando Magic",
+      "pick": "Orlando Magic",
+      "pick_abbr": "ORL",
+      "moneyline": "-142",
+      "win_probability": 56.3,
+      "confidence": "LOW",
+      "confidence_stars": "\u2605\u2606\u2606",
+      "commence_time": "2026-03-31T23:10:00Z",
       "line_movement": {
         "home": {
           "direction": "none",
           "points_moved": 0,
           "steam": false,
           "rlm": false,
-          "label": "No movement"
+          "label": "\u2014"
         },
         "away": {
           "direction": "none",
           "points_moved": 0,
           "steam": false,
           "rlm": false,
-          "label": "No movement"
+          "label": "\u2014"
         },
         "pick": {
           "direction": "none",
           "points_moved": 0,
           "steam": false,
           "rlm": false,
-          "label": "No movement"
+          "label": "\u2014"
         },
-        "snapshot_time": "March 30, 2026 at 10:21 AM UTC"
+        "snapshot_time": "\u2014"
+      },
+      "fatigue": {
+        "home": {
+          "status": "FRESH",
+          "label": "Well rested \u2705",
+          "battery": 100,
+          "last_game_date": "\u2014",
+          "games_last_4d": 0,
+          "road_streak": 0,
+          "cross_trip": false
+        },
+        "away": {
+          "status": "FRESH",
+          "label": "Well rested \u2705",
+          "battery": 100,
+          "last_game_date": "\u2014",
+          "games_last_4d": 0,
+          "road_streak": 0,
+          "cross_trip": false
+        }
+      },
+      "edge_factors": [
+        "\ud83d\udcca 12.6pt probability edge"
+      ],
+      "reasoning": "**Orlando Magic ML (-142)** \u2014 56.3% vs Phoenix Suns's 43.7%, a 12.6pt edge. Spread: ORL -2.5. Injuries: Anthony Black (G); Jonathan Isaac (F); Franz Wagner (F); Grayson Allen (G)",
+      "injury_notes": "Anthony Black (G); Jonathan Isaac (F); Franz Wagner (F); Grayson Allen (G)",
+      "news": [
+        {
+          "title": "Raps use 31-0 run to pummel sputtering Magic",
+          "source": "www.espn.com - NBA",
+          "link": "https://www.espn.com/nba/story/_/id/48344508/raptors-use-31-0-run-pummel-sputtering-magic",
+          "published": "Mon, 30 Mar 2026 18:47:14 EST"
+        }
+      ]
+    },
+    {
+      "game": "Charlotte Hornets @ Brooklyn Nets",
+      "home_team": "Brooklyn Nets",
+      "away_team": "Charlotte Hornets",
+      "home_abbr": "BKN",
+      "away_abbr": "CHA",
+      "home_ml": "+800",
+      "away_ml": "-1350",
+      "home_ml_raw": 800,
+      "away_ml_raw": -1350,
+      "home_prob": 10.7,
+      "away_prob": 89.3,
+      "spread": "BKN +15.5",
+      "favorite": "Charlotte Hornets",
+      "pick": "Charlotte Hornets",
+      "pick_abbr": "CHA",
+      "moneyline": "-1350",
+      "win_probability": 89.3,
+      "confidence": "HIGH",
+      "confidence_stars": "\u2605\u2605\u2605",
+      "commence_time": "2026-03-31T23:40:00Z",
+      "line_movement": {
+        "home": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "rlm": false,
+          "label": "\u2014"
+        },
+        "away": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "rlm": false,
+          "label": "\u2014"
+        },
+        "pick": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "rlm": false,
+          "label": "\u2014"
+        },
+        "snapshot_time": "\u2014"
       },
       "fatigue": {
         "home": {
@@ -689,14 +883,184 @@
       "edge_factors": [
         "\ud83d\udcca 78.6pt probability edge"
       ],
-      "reasoning": "**Los Angeles Lakers ML (-1350)** \u2014 89.3% vs Washington Wizards's 10.7%, a 78.6pt edge. Spread: LAL -16.5. Injuries: Adou Thiero (F); Marcus Smart (G); Alex Sarr (C); Tre Johnson (G)",
-      "injury_notes": "Adou Thiero (F); Marcus Smart (G); Alex Sarr (C); Tre Johnson (G)",
+      "reasoning": "**Charlotte Hornets ML (-1350)** \u2014 89.3% vs Brooklyn Nets's 10.7%, a 78.6pt edge. Spread: BKN +15.5. Injuries: Jalen Wilson (F); Danny Wolf (F); Terance Mann (G); Michael Porter Jr. (F)",
+      "injury_notes": "Jalen Wilson (F); Danny Wolf (F); Terance Mann (G); Michael Porter Jr. (F)",
       "news": [
         {
-          "title": "Doncic hit with 1-game suspension for 16th tech",
+          "title": "Ranking Duke's worst NCAA tournament losses since its last title, including that collapse vs. UConn",
+          "source": "Yahoo Entertainment",
+          "link": "https://sports.yahoo.com/college-basketball/article/copy-final-four-ranking-dukes-worst-ncaa-tournament-losses-since-its-last-title-including-that-collapse-vs-houston-234951142.html",
+          "published": "2026-03-29T23:49:51Z"
+        },
+        {
+          "title": "Nike Kobe 8 Protro EXT \u201cYear of the Horse\u201d Releases April 2026",
+          "source": "Sneakerfiles.com",
+          "link": "https://www.sneakerfiles.com/nike-kobe-8-protro-ext-year-of-the-horse-2026/",
+          "published": "2026-03-29T23:40:50Z"
+        },
+        {
+          "title": "Pacers snap franchise record 11-game home losing streak by beating Heat",
+          "source": "The Indianapolis Star",
+          "link": "https://www.indystar.com/story/sports/nba/pacers/2026/03/29/pacers-vs-heat-indiana-hold-miami-to-11-fourth-quarter-points-in-135-118-victory/89250183007/",
+          "published": "2026-03-29T23:39:16Z"
+        }
+      ]
+    },
+    {
+      "game": "New York Knicks @ Houston Rockets",
+      "home_team": "Houston Rockets",
+      "away_team": "New York Knicks",
+      "home_abbr": "HOU",
+      "away_abbr": "NYK",
+      "home_ml": "-105",
+      "away_ml": "-115",
+      "home_ml_raw": -105,
+      "away_ml_raw": -115,
+      "home_prob": 48.9,
+      "away_prob": 51.1,
+      "spread": "HOU +1.5",
+      "favorite": "New York Knicks",
+      "pick": "New York Knicks",
+      "pick_abbr": "NYK",
+      "moneyline": "-115",
+      "win_probability": 51.1,
+      "confidence": "LOW",
+      "confidence_stars": "\u2605\u2606\u2606",
+      "commence_time": "2026-04-01T00:10:00Z",
+      "line_movement": {
+        "home": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "rlm": false,
+          "label": "\u2014"
+        },
+        "away": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "rlm": false,
+          "label": "\u2014"
+        },
+        "pick": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "rlm": false,
+          "label": "\u2014"
+        },
+        "snapshot_time": "\u2014"
+      },
+      "fatigue": {
+        "home": {
+          "status": "FRESH",
+          "label": "Well rested \u2705",
+          "battery": 100,
+          "last_game_date": "\u2014",
+          "games_last_4d": 0,
+          "road_streak": 0,
+          "cross_trip": false
+        },
+        "away": {
+          "status": "FRESH",
+          "label": "Well rested \u2705",
+          "battery": 100,
+          "last_game_date": "\u2014",
+          "games_last_4d": 0,
+          "road_streak": 0,
+          "cross_trip": false
+        }
+      },
+      "edge_factors": [
+        "\ud83d\udcca 2.2pt probability edge"
+      ],
+      "reasoning": "**New York Knicks ML (-115)** \u2014 51.1% vs Houston Rockets's 48.9%, a 2.2pt edge. Spread: HOU +1.5. Injuries: Steven Adams (C); Fred VanVleet (G); Landry Shamet (G); Miles McBride (G)",
+      "injury_notes": "Steven Adams (C); Fred VanVleet (G); Landry Shamet (G); Miles McBride (G)",
+      "news": [
+        {
+          "title": "Knicks' McBride, back from core injury, exits loss",
           "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/nba/story/_/id/48333457/lakers-luka-doncic-hit-1-game-suspension-16th-tech",
-          "published": "Mon, 30 Mar 2026 10:08:51 EST"
+          "link": "https://www.espn.com/nba/story/_/id/48342781/knick-guard-miles-mcbride-returns-core-injury-vs-okc",
+          "published": "Mon, 30 Mar 2026 18:47:14 EST"
+        }
+      ]
+    },
+    {
+      "game": "Portland Trail Blazers @ Los Angeles Clippers",
+      "home_team": "Los Angeles Clippers",
+      "away_team": "Portland Trail Blazers",
+      "home_abbr": "LAC",
+      "away_abbr": "POR",
+      "home_ml": "N/A",
+      "away_ml": "N/A",
+      "home_ml_raw": null,
+      "away_ml_raw": null,
+      "home_prob": 50.0,
+      "away_prob": 50.0,
+      "spread": "N/A",
+      "favorite": "Los Angeles Clippers",
+      "pick": "Los Angeles Clippers",
+      "pick_abbr": "LAC",
+      "moneyline": "N/A",
+      "win_probability": 50.0,
+      "confidence": "LOW",
+      "confidence_stars": "\u2605\u2606\u2606",
+      "commence_time": "2026-04-01T03:10:00Z",
+      "line_movement": {
+        "home": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "rlm": false,
+          "label": "\u2014"
+        },
+        "away": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "rlm": false,
+          "label": "\u2014"
+        },
+        "pick": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "rlm": false,
+          "label": "\u2014"
+        },
+        "snapshot_time": "\u2014"
+      },
+      "fatigue": {
+        "home": {
+          "status": "FRESH",
+          "label": "Well rested \u2705",
+          "battery": 100,
+          "last_game_date": "\u2014",
+          "games_last_4d": 0,
+          "road_streak": 0,
+          "cross_trip": false
+        },
+        "away": {
+          "status": "FRESH",
+          "label": "Well rested \u2705",
+          "battery": 100,
+          "last_game_date": "\u2014",
+          "games_last_4d": 0,
+          "road_streak": 0,
+          "cross_trip": false
+        }
+      },
+      "edge_factors": [
+        "\ud83d\udcca 0.0pt probability edge"
+      ],
+      "reasoning": "**Los Angeles Clippers ML (N/A)** \u2014 50.0% vs Portland Trail Blazers's 50.0%, a 0.0pt edge. Spread: N/A. Injuries: Isaiah Jackson (F); Yanic Konan Niederhauser (C); Bradley Beal (G); Jerami Grant (F)",
+      "injury_notes": "Isaiah Jackson (F); Yanic Konan Niederhauser (C); Bradley Beal (G); Jerami Grant (F)",
+      "news": [
+        {
+          "title": "NBA approves Trail Blazers' sale to Dundon group",
+          "source": "www.espn.com - NBA",
+          "link": "https://www.espn.com/nba/story/_/id/48350814/nba-board-governors-approves-portland-trail-blazers-sale-group-led-tom-dundon",
+          "published": "Mon, 30 Mar 2026 18:47:14 EST"
         }
       ]
     }
