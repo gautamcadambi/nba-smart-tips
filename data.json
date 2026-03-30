@@ -1,5 +1,5 @@
 {
-  "last_updated": "March 30, 2026 at 08:09 AM UTC",
+  "last_updated": "March 30, 2026 at 10:21 AM UTC",
   "total_games": 8,
   "games": [
     {
@@ -10,6 +10,8 @@
       "away_abbr": "PHI",
       "home_ml": "+114",
       "away_ml": "-135",
+      "home_ml_raw": 114,
+      "away_ml_raw": -135,
       "home_prob": 44.9,
       "away_prob": 55.1,
       "spread": "MIA +2.5",
@@ -21,7 +23,54 @@
       "confidence": "LOW",
       "confidence_stars": "\u2605\u2606\u2606",
       "commence_time": "2026-03-30T23:10:00Z",
-      "reasoning": "**Philadelphia 76ers ML (-135)** \u2014 Model gives Philadelphia 76ers a 55.1% win probability vs Miami Heat's 44.9%, a 10.2pt edge. Spread: MIA +2.5. Minor injury watch: Norman Powell (G); Terry Rozier (G); Johni Broome (F)",
+      "line_movement": {
+        "home": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "rlm": false,
+          "label": "No movement"
+        },
+        "away": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "rlm": false,
+          "label": "No movement"
+        },
+        "pick": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "rlm": false,
+          "label": "No movement"
+        },
+        "snapshot_time": "March 30, 2026 at 08:09 AM UTC"
+      },
+      "fatigue": {
+        "home": {
+          "status": "FRESH",
+          "label": "Well rested \u2705",
+          "battery": 100,
+          "last_game_date": "\u2014",
+          "games_last_4d": 0,
+          "road_streak": 0,
+          "cross_trip": false
+        },
+        "away": {
+          "status": "FRESH",
+          "label": "Well rested \u2705",
+          "battery": 100,
+          "last_game_date": "\u2014",
+          "games_last_4d": 0,
+          "road_streak": 0,
+          "cross_trip": false
+        }
+      },
+      "edge_factors": [
+        "\ud83d\udcca 10.2pt probability edge"
+      ],
+      "reasoning": "**Philadelphia 76ers ML (-135)** \u2014 55.1% vs Miami Heat's 44.9%, a 10.2pt edge. Spread: MIA +2.5. Injuries: Norman Powell (G); Terry Rozier (G); Johni Broome (F)",
       "injury_notes": "Norman Powell (G); Terry Rozier (G); Johni Broome (F)",
       "news": [
         {
@@ -40,6 +89,8 @@
       "away_abbr": "BOS",
       "home_ml": "-118",
       "away_ml": "-102",
+      "home_ml_raw": -118,
+      "away_ml_raw": -102,
       "home_prob": 51.7,
       "away_prob": 48.3,
       "spread": "ATL -1.5",
@@ -51,7 +102,54 @@
       "confidence": "LOW",
       "confidence_stars": "\u2605\u2606\u2606",
       "commence_time": "2026-03-30T23:40:00Z",
-      "reasoning": "**Atlanta Hawks ML (-118)** \u2014 Model gives Atlanta Hawks a 51.7% win probability vs Boston Celtics's 48.3%, a 3.4pt edge. Spread: ATL -1.5. Minor injury watch: Derrick White (G); Jaylen Brown (G); Nikola Vucevic (C)",
+      "line_movement": {
+        "home": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "rlm": false,
+          "label": "No movement"
+        },
+        "away": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "rlm": false,
+          "label": "No movement"
+        },
+        "pick": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "rlm": false,
+          "label": "No movement"
+        },
+        "snapshot_time": "March 30, 2026 at 08:09 AM UTC"
+      },
+      "fatigue": {
+        "home": {
+          "status": "FRESH",
+          "label": "Well rested \u2705",
+          "battery": 100,
+          "last_game_date": "\u2014",
+          "games_last_4d": 0,
+          "road_streak": 0,
+          "cross_trip": false
+        },
+        "away": {
+          "status": "FRESH",
+          "label": "Well rested \u2705",
+          "battery": 100,
+          "last_game_date": "\u2014",
+          "games_last_4d": 0,
+          "road_streak": 0,
+          "cross_trip": false
+        }
+      },
+      "edge_factors": [
+        "\ud83d\udcca 3.4pt probability edge"
+      ],
+      "reasoning": "**Atlanta Hawks ML (-118)** \u2014 51.7% vs Boston Celtics's 48.3%, a 3.4pt edge. Spread: ATL -1.5. Injuries: Derrick White (G); Jaylen Brown (G); Nikola Vucevic (C)",
       "injury_notes": "Derrick White (G); Jaylen Brown (G); Nikola Vucevic (C)",
       "news": [
         {
@@ -76,6 +174,8 @@
       "away_abbr": "CHI",
       "home_ml": "-1800",
       "away_ml": "+1000",
+      "home_ml_raw": -1800,
+      "away_ml_raw": 1000,
       "home_prob": 91.2,
       "away_prob": 8.8,
       "spread": "SAS -17.5",
@@ -87,7 +187,54 @@
       "confidence": "HIGH",
       "confidence_stars": "\u2605\u2605\u2605",
       "commence_time": "2026-03-31T00:10:00Z",
-      "reasoning": "**San Antonio Spurs ML (-1800)** \u2014 Model gives San Antonio Spurs a 91.2% win probability vs Chicago Bulls's 8.8%, a 82.4pt edge. Spread: SAS -17.5. Minor injury watch: David Jones Garcia (F); Mac McClung (G); Anfernee Simons (G); Guerschon Yabusele (F)",
+      "line_movement": {
+        "home": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "rlm": false,
+          "label": "No movement"
+        },
+        "away": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "rlm": false,
+          "label": "No movement"
+        },
+        "pick": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "rlm": false,
+          "label": "No movement"
+        },
+        "snapshot_time": "March 30, 2026 at 08:09 AM UTC"
+      },
+      "fatigue": {
+        "home": {
+          "status": "FRESH",
+          "label": "Well rested \u2705",
+          "battery": 100,
+          "last_game_date": "\u2014",
+          "games_last_4d": 0,
+          "road_streak": 0,
+          "cross_trip": false
+        },
+        "away": {
+          "status": "FRESH",
+          "label": "Well rested \u2705",
+          "battery": 100,
+          "last_game_date": "\u2014",
+          "games_last_4d": 0,
+          "road_streak": 0,
+          "cross_trip": false
+        }
+      },
+      "edge_factors": [
+        "\ud83d\udcca 82.4pt probability edge"
+      ],
+      "reasoning": "**San Antonio Spurs ML (-1800)** \u2014 91.2% vs Chicago Bulls's 8.8%, a 82.4pt edge. Spread: SAS -17.5. Injuries: David Jones Garcia (F); Mac McClung (G); Anfernee Simons (G); Guerschon Yabusele (F)",
       "injury_notes": "David Jones Garcia (F); Mac McClung (G); Anfernee Simons (G); Guerschon Yabusele (F)",
       "news": [
         {
@@ -112,6 +259,8 @@
       "away_abbr": "PHX",
       "home_ml": "+550",
       "away_ml": "-800",
+      "home_ml_raw": 550,
+      "away_ml_raw": -800,
       "home_prob": 14.8,
       "away_prob": 85.2,
       "spread": "MEM +13.5",
@@ -123,26 +272,73 @@
       "confidence": "HIGH",
       "confidence_stars": "\u2605\u2605\u2605",
       "commence_time": "2026-03-31T00:10:00Z",
-      "reasoning": "**Phoenix Suns ML (-800)** \u2014 Model gives Phoenix Suns a 85.2% win probability vs Memphis Grizzlies's 14.8%, a 70.4pt edge. Spread: MEM +13.5. Minor injury watch: Jaylen Wells (F); Javon Small (G); Ty Jerome (G); DeJon Jarreau (G)",
+      "line_movement": {
+        "home": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "rlm": false,
+          "label": "No movement"
+        },
+        "away": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "rlm": false,
+          "label": "No movement"
+        },
+        "pick": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "rlm": false,
+          "label": "No movement"
+        },
+        "snapshot_time": "March 30, 2026 at 08:09 AM UTC"
+      },
+      "fatigue": {
+        "home": {
+          "status": "FRESH",
+          "label": "Well rested \u2705",
+          "battery": 100,
+          "last_game_date": "\u2014",
+          "games_last_4d": 0,
+          "road_streak": 0,
+          "cross_trip": false
+        },
+        "away": {
+          "status": "FRESH",
+          "label": "Well rested \u2705",
+          "battery": 100,
+          "last_game_date": "\u2014",
+          "games_last_4d": 0,
+          "road_streak": 0,
+          "cross_trip": false
+        }
+      },
+      "edge_factors": [
+        "\ud83d\udcca 70.4pt probability edge"
+      ],
+      "reasoning": "**Phoenix Suns ML (-800)** \u2014 85.2% vs Memphis Grizzlies's 14.8%, a 70.4pt edge. Spread: MEM +13.5. Injuries: Jaylen Wells (F); Javon Small (G); Ty Jerome (G); DeJon Jarreau (G)",
       "injury_notes": "Jaylen Wells (F); Javon Small (G); Ty Jerome (G); DeJon Jarreau (G)",
       "news": [
         {
-          "title": "Clippers clinch NBA G League playoff spot in season finale",
-          "source": "Thesportingtribune.com",
-          "link": "https://www.thesportingtribune.com/2026/03/28/san-diego-clippers-make-g-league-playoffs-lakers",
-          "published": "2026-03-29T06:03:59Z"
+          "title": "YouTube Gold: Bill Walton\u2019s Greatest Game At UCLA",
+          "source": "Duke Basketball Report",
+          "link": "https://www.dukebasketballreport.com/main/88642/youtube-gold-bill-waltons-greatest-game-at-ucla",
+          "published": "2026-03-29T10:05:00Z"
         },
         {
-          "title": "What channel is Duke vs. UConn on today? Time, TV schedule, live stream to watch March Madness Elite Eight",
-          "source": "Sporting News",
-          "link": "https://www.sportingnews.com/us/ncaa-basketball/news/duke-uconn-channel-time-schedule-stream-watch-elite-eight/399586384185fdaad0301472",
-          "published": "2026-03-29T06:00:02Z"
-        },
-        {
-          "title": "LeBron James sends message on Wildcats, son Bryce going to Final Four",
+          "title": "Today in Boston Celtics history: Russell gets NBA Finals-record 40 rebs; Glover draft",
           "source": "USA Today",
-          "link": "https://lebronwire.usatoday.com/story/sports/nba/lebron/2026/03/28/lebron-james-sends-message-on-wildcats-son-bryce-going-to-final-four/89375000007/",
-          "published": "2026-03-29T05:48:43Z"
+          "link": "https://celticswire.usatoday.com/story/sports/nba/celtics/2026/03/29/celtics-history-russell-gets-nba-finals-record-40-rebs-glover-draft/89271022007/",
+          "published": "2026-03-29T10:01:20Z"
+        },
+        {
+          "title": "The NBA's Proposed Anti-Tanking Reforms Could Backfire Spectacularly",
+          "source": "Forbes",
+          "link": "https://www.forbes.com/sites/bryantoporek/2026/03/29/the-nbas-proposed-anti-tanking-reforms-could-backfire-spectacularly/",
+          "published": "2026-03-29T10:00:00Z"
         }
       ]
     },
@@ -154,6 +350,8 @@
       "away_abbr": "MIN",
       "home_ml": "+230",
       "away_ml": "-285",
+      "home_ml_raw": 230,
+      "away_ml_raw": -285,
       "home_prob": 29.0,
       "away_prob": 71.0,
       "spread": "DAL +6.5",
@@ -165,26 +363,73 @@
       "confidence": "MEDIUM",
       "confidence_stars": "\u2605\u2605\u2606",
       "commence_time": "2026-03-31T00:40:00Z",
-      "reasoning": "**Minnesota Timberwolves ML (-285)** \u2014 Model gives Minnesota Timberwolves a 71.0% win probability vs Dallas Mavericks's 29.0%, a 42.0pt edge. Spread: DAL +6.5. Minor injury watch: Caleb Martin (F); Daniel Gafford (F); Naji Marshall (F); Marvin Bagley III (F)",
+      "line_movement": {
+        "home": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "rlm": false,
+          "label": "No movement"
+        },
+        "away": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "rlm": false,
+          "label": "No movement"
+        },
+        "pick": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "rlm": false,
+          "label": "No movement"
+        },
+        "snapshot_time": "March 30, 2026 at 08:09 AM UTC"
+      },
+      "fatigue": {
+        "home": {
+          "status": "FRESH",
+          "label": "Well rested \u2705",
+          "battery": 100,
+          "last_game_date": "\u2014",
+          "games_last_4d": 0,
+          "road_streak": 0,
+          "cross_trip": false
+        },
+        "away": {
+          "status": "FRESH",
+          "label": "Well rested \u2705",
+          "battery": 100,
+          "last_game_date": "\u2014",
+          "games_last_4d": 0,
+          "road_streak": 0,
+          "cross_trip": false
+        }
+      },
+      "edge_factors": [
+        "\ud83d\udcca 42.0pt probability edge"
+      ],
+      "reasoning": "**Minnesota Timberwolves ML (-285)** \u2014 71.0% vs Dallas Mavericks's 29.0%, a 42.0pt edge. Spread: DAL +6.5. Injuries: Caleb Martin (F); Daniel Gafford (F); Naji Marshall (F); Marvin Bagley III (F)",
       "injury_notes": "Caleb Martin (F); Daniel Gafford (F); Naji Marshall (F); Marvin Bagley III (F)",
       "news": [
         {
-          "title": "Clippers clinch NBA G League playoff spot in season finale",
-          "source": "Thesportingtribune.com",
-          "link": "https://www.thesportingtribune.com/2026/03/28/san-diego-clippers-make-g-league-playoffs-lakers",
-          "published": "2026-03-29T06:03:59Z"
+          "title": "YouTube Gold: Bill Walton\u2019s Greatest Game At UCLA",
+          "source": "Duke Basketball Report",
+          "link": "https://www.dukebasketballreport.com/main/88642/youtube-gold-bill-waltons-greatest-game-at-ucla",
+          "published": "2026-03-29T10:05:00Z"
         },
         {
-          "title": "What channel is Duke vs. UConn on today? Time, TV schedule, live stream to watch March Madness Elite Eight",
-          "source": "Sporting News",
-          "link": "https://www.sportingnews.com/us/ncaa-basketball/news/duke-uconn-channel-time-schedule-stream-watch-elite-eight/399586384185fdaad0301472",
-          "published": "2026-03-29T06:00:02Z"
-        },
-        {
-          "title": "LeBron James sends message on Wildcats, son Bryce going to Final Four",
+          "title": "Today in Boston Celtics history: Russell gets NBA Finals-record 40 rebs; Glover draft",
           "source": "USA Today",
-          "link": "https://lebronwire.usatoday.com/story/sports/nba/lebron/2026/03/28/lebron-james-sends-message-on-wildcats-son-bryce-going-to-final-four/89375000007/",
-          "published": "2026-03-29T05:48:43Z"
+          "link": "https://celticswire.usatoday.com/story/sports/nba/celtics/2026/03/29/celtics-history-russell-gets-nba-finals-record-40-rebs-glover-draft/89271022007/",
+          "published": "2026-03-29T10:01:20Z"
+        },
+        {
+          "title": "The NBA's Proposed Anti-Tanking Reforms Could Backfire Spectacularly",
+          "source": "Forbes",
+          "link": "https://www.forbes.com/sites/bryantoporek/2026/03/29/the-nbas-proposed-anti-tanking-reforms-could-backfire-spectacularly/",
+          "published": "2026-03-29T10:00:00Z"
         }
       ]
     },
@@ -196,6 +441,8 @@
       "away_abbr": "CLE",
       "home_ml": "+950",
       "away_ml": "-1650",
+      "home_ml_raw": 950,
+      "away_ml_raw": -1650,
       "home_prob": 9.2,
       "away_prob": 90.8,
       "spread": "UTA +17.5",
@@ -207,26 +454,73 @@
       "confidence": "HIGH",
       "confidence_stars": "\u2605\u2605\u2605",
       "commence_time": "2026-03-31T01:10:00Z",
-      "reasoning": "**Cleveland Cavaliers ML (-1650)** \u2014 Model gives Cleveland Cavaliers a 90.8% win probability vs Utah Jazz's 9.2%, a 81.6pt edge. Spread: UTA +17.5. Minor injury watch: Isaiah Collier (G); Keyonte George (G); Lauri Markkanen (F); Jusuf Nurkic (C)",
+      "line_movement": {
+        "home": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "rlm": false,
+          "label": "No movement"
+        },
+        "away": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "rlm": false,
+          "label": "No movement"
+        },
+        "pick": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "rlm": false,
+          "label": "No movement"
+        },
+        "snapshot_time": "March 30, 2026 at 08:09 AM UTC"
+      },
+      "fatigue": {
+        "home": {
+          "status": "FRESH",
+          "label": "Well rested \u2705",
+          "battery": 100,
+          "last_game_date": "\u2014",
+          "games_last_4d": 0,
+          "road_streak": 0,
+          "cross_trip": false
+        },
+        "away": {
+          "status": "FRESH",
+          "label": "Well rested \u2705",
+          "battery": 100,
+          "last_game_date": "\u2014",
+          "games_last_4d": 0,
+          "road_streak": 0,
+          "cross_trip": false
+        }
+      },
+      "edge_factors": [
+        "\ud83d\udcca 81.6pt probability edge"
+      ],
+      "reasoning": "**Cleveland Cavaliers ML (-1650)** \u2014 90.8% vs Utah Jazz's 9.2%, a 81.6pt edge. Spread: UTA +17.5. Injuries: Isaiah Collier (G); Keyonte George (G); Lauri Markkanen (F); Jusuf Nurkic (C)",
       "injury_notes": "Isaiah Collier (G); Keyonte George (G); Lauri Markkanen (F); Jusuf Nurkic (C)",
       "news": [
         {
-          "title": "Clippers clinch NBA G League playoff spot in season finale",
-          "source": "Thesportingtribune.com",
-          "link": "https://www.thesportingtribune.com/2026/03/28/san-diego-clippers-make-g-league-playoffs-lakers",
-          "published": "2026-03-29T06:03:59Z"
+          "title": "YouTube Gold: Bill Walton\u2019s Greatest Game At UCLA",
+          "source": "Duke Basketball Report",
+          "link": "https://www.dukebasketballreport.com/main/88642/youtube-gold-bill-waltons-greatest-game-at-ucla",
+          "published": "2026-03-29T10:05:00Z"
         },
         {
-          "title": "What channel is Duke vs. UConn on today? Time, TV schedule, live stream to watch March Madness Elite Eight",
-          "source": "Sporting News",
-          "link": "https://www.sportingnews.com/us/ncaa-basketball/news/duke-uconn-channel-time-schedule-stream-watch-elite-eight/399586384185fdaad0301472",
-          "published": "2026-03-29T06:00:02Z"
-        },
-        {
-          "title": "LeBron James sends message on Wildcats, son Bryce going to Final Four",
+          "title": "Today in Boston Celtics history: Russell gets NBA Finals-record 40 rebs; Glover draft",
           "source": "USA Today",
-          "link": "https://lebronwire.usatoday.com/story/sports/nba/lebron/2026/03/28/lebron-james-sends-message-on-wildcats-son-bryce-going-to-final-four/89375000007/",
-          "published": "2026-03-29T05:48:43Z"
+          "link": "https://celticswire.usatoday.com/story/sports/nba/celtics/2026/03/29/celtics-history-russell-gets-nba-finals-record-40-rebs-glover-draft/89271022007/",
+          "published": "2026-03-29T10:01:20Z"
+        },
+        {
+          "title": "The NBA's Proposed Anti-Tanking Reforms Could Backfire Spectacularly",
+          "source": "Forbes",
+          "link": "https://www.forbes.com/sites/bryantoporek/2026/03/29/the-nbas-proposed-anti-tanking-reforms-could-backfire-spectacularly/",
+          "published": "2026-03-29T10:00:00Z"
         }
       ]
     },
@@ -238,9 +532,11 @@
       "away_abbr": "DET",
       "home_ml": "-800",
       "away_ml": "+550",
+      "home_ml_raw": -800,
+      "away_ml_raw": 550,
       "home_prob": 85.2,
       "away_prob": 14.8,
-      "spread": "OKC -12.5",
+      "spread": "OKC -13.5",
       "favorite": "Oklahoma City Thunder",
       "pick": "Oklahoma City Thunder",
       "pick_abbr": "OKC",
@@ -249,7 +545,54 @@
       "confidence": "HIGH",
       "confidence_stars": "\u2605\u2605\u2605",
       "commence_time": "2026-03-31T01:40:00Z",
-      "reasoning": "**Oklahoma City Thunder ML (-800)** \u2014 Model gives Oklahoma City Thunder a 85.2% win probability vs Detroit Pistons's 14.8%, a 70.4pt edge. Spread: OKC -12.5. Minor injury watch: Thomas Sorber (C); Ausar Thompson (G); Duncan Robinson (F); Tobias Harris (F)",
+      "line_movement": {
+        "home": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "rlm": false,
+          "label": "No movement"
+        },
+        "away": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "rlm": false,
+          "label": "No movement"
+        },
+        "pick": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "rlm": false,
+          "label": "No movement"
+        },
+        "snapshot_time": "March 30, 2026 at 08:09 AM UTC"
+      },
+      "fatigue": {
+        "home": {
+          "status": "FRESH",
+          "label": "Well rested \u2705",
+          "battery": 100,
+          "last_game_date": "\u2014",
+          "games_last_4d": 0,
+          "road_streak": 0,
+          "cross_trip": false
+        },
+        "away": {
+          "status": "FRESH",
+          "label": "Well rested \u2705",
+          "battery": 100,
+          "last_game_date": "\u2014",
+          "games_last_4d": 0,
+          "road_streak": 0,
+          "cross_trip": false
+        }
+      },
+      "edge_factors": [
+        "\ud83d\udcca 70.4pt probability edge"
+      ],
+      "reasoning": "**Oklahoma City Thunder ML (-800)** \u2014 85.2% vs Detroit Pistons's 14.8%, a 70.4pt edge. Spread: OKC -13.5. Injuries: Thomas Sorber (C); Ausar Thompson (G); Duncan Robinson (F); Tobias Harris (F)",
       "injury_notes": "Thomas Sorber (C); Ausar Thompson (G); Duncan Robinson (F); Tobias Harris (F)",
       "news": [
         {
@@ -274,6 +617,8 @@
       "away_abbr": "WAS",
       "home_ml": "-1350",
       "away_ml": "+800",
+      "home_ml_raw": -1350,
+      "away_ml_raw": 800,
       "home_prob": 89.3,
       "away_prob": 10.7,
       "spread": "LAL -15.5",
@@ -285,7 +630,54 @@
       "confidence": "HIGH",
       "confidence_stars": "\u2605\u2605\u2605",
       "commence_time": "2026-03-31T02:10:00Z",
-      "reasoning": "**Los Angeles Lakers ML (-1350)** \u2014 Model gives Los Angeles Lakers a 89.3% win probability vs Washington Wizards's 10.7%, a 78.6pt edge. Spread: LAL -15.5. Minor injury watch: Adou Thiero (F); Marcus Smart (G); Alex Sarr (C); Tre Johnson (G)",
+      "line_movement": {
+        "home": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "rlm": false,
+          "label": "No movement"
+        },
+        "away": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "rlm": false,
+          "label": "No movement"
+        },
+        "pick": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "rlm": false,
+          "label": "No movement"
+        },
+        "snapshot_time": "March 30, 2026 at 08:09 AM UTC"
+      },
+      "fatigue": {
+        "home": {
+          "status": "FRESH",
+          "label": "Well rested \u2705",
+          "battery": 100,
+          "last_game_date": "\u2014",
+          "games_last_4d": 0,
+          "road_streak": 0,
+          "cross_trip": false
+        },
+        "away": {
+          "status": "FRESH",
+          "label": "Well rested \u2705",
+          "battery": 100,
+          "last_game_date": "\u2014",
+          "games_last_4d": 0,
+          "road_streak": 0,
+          "cross_trip": false
+        }
+      },
+      "edge_factors": [
+        "\ud83d\udcca 78.6pt probability edge"
+      ],
+      "reasoning": "**Los Angeles Lakers ML (-1350)** \u2014 89.3% vs Washington Wizards's 10.7%, a 78.6pt edge. Spread: LAL -15.5. Injuries: Adou Thiero (F); Marcus Smart (G); Alex Sarr (C); Tre Johnson (G)",
       "injury_notes": "Adou Thiero (F); Marcus Smart (G); Alex Sarr (C); Tre Johnson (G)",
       "news": [
         {
@@ -296,5 +688,6 @@
         }
       ]
     }
-  ]
+  ],
+  "track_record": {}
 }
