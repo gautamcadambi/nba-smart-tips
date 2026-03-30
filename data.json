@@ -1,5 +1,5 @@
 {
-  "last_updated": "March 30, 2026 at 10:21 AM UTC",
+  "last_updated": "March 30, 2026 at 02:55 PM UTC",
   "total_games": 8,
   "games": [
     {
@@ -8,44 +8,50 @@
       "away_team": "Philadelphia 76ers",
       "home_abbr": "MIA",
       "away_abbr": "PHI",
-      "home_ml": "+114",
-      "away_ml": "-135",
-      "home_ml_raw": 114,
-      "away_ml_raw": -135,
-      "home_prob": 44.9,
-      "away_prob": 55.1,
+      "home_ml": "+110",
+      "away_ml": "-130",
+      "home_ml_raw": 110,
+      "away_ml_raw": -130,
+      "home_prob": 45.7,
+      "away_prob": 54.3,
       "spread": "MIA +2.5",
       "favorite": "Philadelphia 76ers",
       "pick": "Philadelphia 76ers",
       "pick_abbr": "PHI",
-      "moneyline": "-135",
-      "win_probability": 55.1,
+      "moneyline": "-130",
+      "win_probability": 54.3,
       "confidence": "LOW",
       "confidence_stars": "\u2605\u2606\u2606",
       "commence_time": "2026-03-30T23:10:00Z",
       "line_movement": {
         "home": {
-          "direction": "none",
-          "points_moved": 0,
+          "direction": "shorter",
+          "points_moved": 4,
           "steam": false,
           "rlm": false,
-          "label": "No movement"
+          "label": "\ud83d\udd34 +110 \u2190 +114",
+          "old_ml": "+114",
+          "new_ml": "+110"
         },
         "away": {
-          "direction": "none",
-          "points_moved": 0,
+          "direction": "longer",
+          "points_moved": 5,
           "steam": false,
           "rlm": false,
-          "label": "No movement"
+          "label": "\ud83d\udd34 -130 \u2190 -135",
+          "old_ml": "-135",
+          "new_ml": "-130"
         },
         "pick": {
-          "direction": "none",
-          "points_moved": 0,
+          "direction": "longer",
+          "points_moved": 5,
           "steam": false,
           "rlm": false,
-          "label": "No movement"
+          "label": "\ud83d\udd34 -130 \u2190 -135",
+          "old_ml": "-135",
+          "new_ml": "-130"
         },
-        "snapshot_time": "March 30, 2026 at 08:09 AM UTC"
+        "snapshot_time": "March 30, 2026 at 10:21 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -68,16 +74,16 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udcca 10.2pt probability edge"
+        "\ud83d\udcca 8.6pt probability edge"
       ],
-      "reasoning": "**Philadelphia 76ers ML (-135)** \u2014 55.1% vs Miami Heat's 44.9%, a 10.2pt edge. Spread: MIA +2.5. Injuries: Norman Powell (G); Terry Rozier (G); Johni Broome (F)",
+      "reasoning": "**Philadelphia 76ers ML (-130)** \u2014 54.3% vs Miami Heat's 45.7%, a 8.6pt edge. Spread: MIA +2.5. Line movement: \ud83d\udd34 -130 \u2190 -135. Injuries: Norman Powell (G); Terry Rozier (G); Johni Broome (F)",
       "injury_notes": "Norman Powell (G); Terry Rozier (G); Johni Broome (F)",
       "news": [
         {
           "title": "Maxey returns as healthy 76ers rally past Hornets",
           "source": "www.espn.com - NBA",
           "link": "https://www.espn.com/nba/story/_/id/48336679/fully-healthy-76ers-score-comeback-win-vs-red-hot-hornets",
-          "published": "Sun, 29 Mar 2026 23:38:23 EST"
+          "published": "Mon, 30 Mar 2026 10:08:51 EST"
         }
       ]
     },
@@ -87,44 +93,50 @@
       "away_team": "Boston Celtics",
       "home_abbr": "ATL",
       "away_abbr": "BOS",
-      "home_ml": "-118",
-      "away_ml": "-102",
-      "home_ml_raw": -118,
-      "away_ml_raw": -102,
-      "home_prob": 51.7,
-      "away_prob": 48.3,
+      "home_ml": "-122",
+      "away_ml": "+102",
+      "home_ml_raw": -122,
+      "away_ml_raw": 102,
+      "home_prob": 52.6,
+      "away_prob": 47.4,
       "spread": "ATL -1.5",
       "favorite": "Atlanta Hawks",
       "pick": "Atlanta Hawks",
       "pick_abbr": "ATL",
-      "moneyline": "-118",
-      "win_probability": 51.7,
+      "moneyline": "-122",
+      "win_probability": 52.6,
       "confidence": "LOW",
       "confidence_stars": "\u2605\u2606\u2606",
       "commence_time": "2026-03-30T23:40:00Z",
       "line_movement": {
         "home": {
-          "direction": "none",
-          "points_moved": 0,
+          "direction": "shorter",
+          "points_moved": 4,
           "steam": false,
           "rlm": false,
-          "label": "No movement"
+          "label": "\ud83d\udfe2 -122 \u2190 -118",
+          "old_ml": "-118",
+          "new_ml": "-122"
         },
         "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
+          "direction": "longer",
+          "points_moved": 204,
+          "steam": true,
           "rlm": false,
-          "label": "No movement"
+          "label": "\ud83d\udfe2 +102 \u2190 -102 \ud83d\udd25 STEAM",
+          "old_ml": "-102",
+          "new_ml": "+102"
         },
         "pick": {
-          "direction": "none",
-          "points_moved": 0,
+          "direction": "shorter",
+          "points_moved": 4,
           "steam": false,
           "rlm": false,
-          "label": "No movement"
+          "label": "\ud83d\udfe2 -122 \u2190 -118",
+          "old_ml": "-118",
+          "new_ml": "-122"
         },
-        "snapshot_time": "March 30, 2026 at 08:09 AM UTC"
+        "snapshot_time": "March 30, 2026 at 10:21 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -147,22 +159,16 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udcca 3.4pt probability edge"
+        "\ud83d\udcca 5.2pt probability edge"
       ],
-      "reasoning": "**Atlanta Hawks ML (-118)** \u2014 51.7% vs Boston Celtics's 48.3%, a 3.4pt edge. Spread: ATL -1.5. Injuries: Derrick White (G); Jaylen Brown (G); Nikola Vucevic (C)",
-      "injury_notes": "Derrick White (G); Jaylen Brown (G); Nikola Vucevic (C)",
+      "reasoning": "**Atlanta Hawks ML (-122)** \u2014 52.6% vs Boston Celtics's 47.4%, a 5.2pt edge. Spread: ATL -1.5. Line movement: \ud83d\udfe2 -122 \u2190 -118. Injuries: Jayson Tatum (F); Derrick White (G); Jaylen Brown (G); Nikola Vucevic (C)",
+      "injury_notes": "Jayson Tatum (F); Derrick White (G); Jaylen Brown (G); Nikola Vucevic (C)",
       "news": [
         {
           "title": "'Gap' year? Celts win 50th as Brown jabs doubters",
           "source": "www.espn.com - NBA",
           "link": "https://www.espn.com/nba/story/_/id/48344348/jaylen-brown-pokes-fun-doubters-celtics-reach-50-wins",
-          "published": "Sun, 29 Mar 2026 23:38:23 EST"
-        },
-        {
-          "title": "The balancing act facing Jayson Tatum and the Celtics",
-          "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/nba/story/_/id/48241965/jayson-tatum-achilles-return-coaches-scouts-saying-celtics-playoff-chances",
-          "published": "Sun, 29 Mar 2026 09:50:32 EST"
+          "published": "Mon, 30 Mar 2026 10:08:51 EST"
         }
       ]
     },
@@ -178,7 +184,7 @@
       "away_ml_raw": 1000,
       "home_prob": 91.2,
       "away_prob": 8.8,
-      "spread": "SAS -17.5",
+      "spread": "SAS -18.5",
       "favorite": "San Antonio Spurs",
       "pick": "San Antonio Spurs",
       "pick_abbr": "SAS",
@@ -209,7 +215,7 @@
           "rlm": false,
           "label": "No movement"
         },
-        "snapshot_time": "March 30, 2026 at 08:09 AM UTC"
+        "snapshot_time": "March 30, 2026 at 10:21 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -234,20 +240,14 @@
       "edge_factors": [
         "\ud83d\udcca 82.4pt probability edge"
       ],
-      "reasoning": "**San Antonio Spurs ML (-1800)** \u2014 91.2% vs Chicago Bulls's 8.8%, a 82.4pt edge. Spread: SAS -17.5. Injuries: David Jones Garcia (F); Mac McClung (G); Anfernee Simons (G); Guerschon Yabusele (F)",
+      "reasoning": "**San Antonio Spurs ML (-1800)** \u2014 91.2% vs Chicago Bulls's 8.8%, a 82.4pt edge. Spread: SAS -18.5. Injuries: David Jones Garcia (F); Mac McClung (G); Anfernee Simons (G); Guerschon Yabusele (F)",
       "injury_notes": "David Jones Garcia (F); Mac McClung (G); Anfernee Simons (G); Guerschon Yabusele (F)",
       "news": [
         {
           "title": "Bucks eliminated from playoffs with blowout loss",
           "source": "www.espn.com - NBA",
           "link": "https://www.espn.com/nba/story/_/id/48333041/bucks-eliminated-playoff-contention-blowout-loss",
-          "published": "Sun, 29 Mar 2026 23:38:23 EST"
-        },
-        {
-          "title": "Why NBA insiders are all-in on the Spurs: 'Victor breaks all the rules'",
-          "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/nba/story/_/id/48315231/nba-intel-wembanyama-spurs-thunder-bog-expansion-updates-east-race-injuries",
-          "published": "Fri, 27 Mar 2026 07:00:22 EST"
+          "published": "Mon, 30 Mar 2026 10:08:51 EST"
         }
       ]
     },
@@ -257,44 +257,50 @@
       "away_team": "Phoenix Suns",
       "home_abbr": "MEM",
       "away_abbr": "PHX",
-      "home_ml": "+550",
-      "away_ml": "-800",
-      "home_ml_raw": 550,
-      "away_ml_raw": -800,
-      "home_prob": 14.8,
-      "away_prob": 85.2,
-      "spread": "MEM +13.5",
+      "home_ml": "+500",
+      "away_ml": "-700",
+      "home_ml_raw": 500,
+      "away_ml_raw": -700,
+      "home_prob": 16.0,
+      "away_prob": 84.0,
+      "spread": "MEM +12.5",
       "favorite": "Phoenix Suns",
       "pick": "Phoenix Suns",
       "pick_abbr": "PHX",
-      "moneyline": "-800",
-      "win_probability": 85.2,
+      "moneyline": "-700",
+      "win_probability": 84.0,
       "confidence": "HIGH",
       "confidence_stars": "\u2605\u2605\u2605",
       "commence_time": "2026-03-31T00:10:00Z",
       "line_movement": {
         "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
+          "direction": "shorter",
+          "points_moved": 50,
+          "steam": true,
           "rlm": false,
-          "label": "No movement"
+          "label": "\ud83d\udd34 +500 \u2190 +550 \ud83d\udd25 STEAM",
+          "old_ml": "+550",
+          "new_ml": "+500"
         },
         "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
+          "direction": "longer",
+          "points_moved": 100,
+          "steam": true,
           "rlm": false,
-          "label": "No movement"
+          "label": "\ud83d\udd34 -700 \u2190 -800 \ud83d\udd25 STEAM",
+          "old_ml": "-800",
+          "new_ml": "-700"
         },
         "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
+          "direction": "longer",
+          "points_moved": 100,
+          "steam": true,
           "rlm": false,
-          "label": "No movement"
+          "label": "\ud83d\udd34 -700 \u2190 -800 \ud83d\udd25 STEAM",
+          "old_ml": "-800",
+          "new_ml": "-700"
         },
-        "snapshot_time": "March 30, 2026 at 08:09 AM UTC"
+        "snapshot_time": "March 30, 2026 at 10:21 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -317,28 +323,28 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udcca 70.4pt probability edge"
+        "\ud83d\udd25 Sharp steam on pick"
       ],
-      "reasoning": "**Phoenix Suns ML (-800)** \u2014 85.2% vs Memphis Grizzlies's 14.8%, a 70.4pt edge. Spread: MEM +13.5. Injuries: Jaylen Wells (F); Javon Small (G); Ty Jerome (G); DeJon Jarreau (G)",
+      "reasoning": "**Phoenix Suns ML (-700)** \u2014 84.0% vs Memphis Grizzlies's 16.0%, a 68.0pt edge. Spread: MEM +12.5. \ud83d\udd25 Sharp steam detected: line moved 100 pts. Injuries: Jaylen Wells (F); Javon Small (G); Ty Jerome (G); DeJon Jarreau (G)",
       "injury_notes": "Jaylen Wells (F); Javon Small (G); Ty Jerome (G); DeJon Jarreau (G)",
       "news": [
         {
-          "title": "YouTube Gold: Bill Walton\u2019s Greatest Game At UCLA",
-          "source": "Duke Basketball Report",
-          "link": "https://www.dukebasketballreport.com/main/88642/youtube-gold-bill-waltons-greatest-game-at-ucla",
-          "published": "2026-03-29T10:05:00Z"
+          "title": "Michael Jordan's Competitive Fire Ignites NASCAR: Fighting for Big Change & Winning Big",
+          "source": "Ibtimes.com.au",
+          "link": "https://www.ibtimes.com.au/michael-jordans-competitive-fire-ignites-nascar-fighting-big-change-winning-big-1864919",
+          "published": "2026-03-29T14:51:42Z"
         },
         {
-          "title": "Today in Boston Celtics history: Russell gets NBA Finals-record 40 rebs; Glover draft",
-          "source": "USA Today",
-          "link": "https://celticswire.usatoday.com/story/sports/nba/celtics/2026/03/29/celtics-history-russell-gets-nba-finals-record-40-rebs-glover-draft/89271022007/",
-          "published": "2026-03-29T10:01:20Z"
+          "title": "The Hornets surge has the Celtics fingerprints all over it",
+          "source": "Celtics Blog",
+          "link": "https://www.celticsblog.com/boston-celtics-news/136828/the-hornets-surge-has-the-celtics-fingerprints-all-over-it",
+          "published": "2026-03-29T14:48:11Z"
         },
         {
-          "title": "The NBA's Proposed Anti-Tanking Reforms Could Backfire Spectacularly",
-          "source": "Forbes",
-          "link": "https://www.forbes.com/sites/bryantoporek/2026/03/29/the-nbas-proposed-anti-tanking-reforms-could-backfire-spectacularly/",
-          "published": "2026-03-29T10:00:00Z"
+          "title": "Some Things I Think I Think: ABS challenges have made the game better \u2014\u00a0and more entertaining",
+          "source": "MassLive.com",
+          "link": "https://www.masslive.com/redsox/2026/03/some-things-i-think-i-think-abs-challenges-have-made-the-game-better-and-more-entertaining.html",
+          "published": "2026-03-29T14:47:10Z"
         }
       ]
     },
@@ -348,44 +354,50 @@
       "away_team": "Minnesota Timberwolves",
       "home_abbr": "DAL",
       "away_abbr": "MIN",
-      "home_ml": "+230",
-      "away_ml": "-285",
-      "home_ml_raw": 230,
-      "away_ml_raw": -285,
-      "home_prob": 29.0,
-      "away_prob": 71.0,
-      "spread": "DAL +6.5",
+      "home_ml": "+220",
+      "away_ml": "-270",
+      "home_ml_raw": 220,
+      "away_ml_raw": -270,
+      "home_prob": 30.0,
+      "away_prob": 70.0,
+      "spread": "DAL +7.5",
       "favorite": "Minnesota Timberwolves",
       "pick": "Minnesota Timberwolves",
       "pick_abbr": "MIN",
-      "moneyline": "-285",
-      "win_probability": 71.0,
+      "moneyline": "-270",
+      "win_probability": 70.0,
       "confidence": "MEDIUM",
       "confidence_stars": "\u2605\u2605\u2606",
       "commence_time": "2026-03-31T00:40:00Z",
       "line_movement": {
         "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
+          "direction": "shorter",
+          "points_moved": 10,
+          "steam": true,
           "rlm": false,
-          "label": "No movement"
+          "label": "\ud83d\udd34 +220 \u2190 +230 \ud83d\udd25 STEAM",
+          "old_ml": "+230",
+          "new_ml": "+220"
         },
         "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
+          "direction": "longer",
+          "points_moved": 15,
+          "steam": true,
           "rlm": false,
-          "label": "No movement"
+          "label": "\ud83d\udd34 -270 \u2190 -285 \ud83d\udd25 STEAM",
+          "old_ml": "-285",
+          "new_ml": "-270"
         },
         "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
+          "direction": "longer",
+          "points_moved": 15,
+          "steam": true,
           "rlm": false,
-          "label": "No movement"
+          "label": "\ud83d\udd34 -270 \u2190 -285 \ud83d\udd25 STEAM",
+          "old_ml": "-285",
+          "new_ml": "-270"
         },
-        "snapshot_time": "March 30, 2026 at 08:09 AM UTC"
+        "snapshot_time": "March 30, 2026 at 10:21 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -408,28 +420,28 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udcca 42.0pt probability edge"
+        "\ud83d\udd25 Sharp steam on pick"
       ],
-      "reasoning": "**Minnesota Timberwolves ML (-285)** \u2014 71.0% vs Dallas Mavericks's 29.0%, a 42.0pt edge. Spread: DAL +6.5. Injuries: Caleb Martin (F); Daniel Gafford (F); Naji Marshall (F); Marvin Bagley III (F)",
+      "reasoning": "**Minnesota Timberwolves ML (-270)** \u2014 70.0% vs Dallas Mavericks's 30.0%, a 40.0pt edge. Spread: DAL +7.5. \ud83d\udd25 Sharp steam detected: line moved 15 pts. Injuries: Caleb Martin (F); Daniel Gafford (F); Naji Marshall (F); Marvin Bagley III (F)",
       "injury_notes": "Caleb Martin (F); Daniel Gafford (F); Naji Marshall (F); Marvin Bagley III (F)",
       "news": [
         {
-          "title": "YouTube Gold: Bill Walton\u2019s Greatest Game At UCLA",
-          "source": "Duke Basketball Report",
-          "link": "https://www.dukebasketballreport.com/main/88642/youtube-gold-bill-waltons-greatest-game-at-ucla",
-          "published": "2026-03-29T10:05:00Z"
+          "title": "Michael Jordan's Competitive Fire Ignites NASCAR: Fighting for Big Change & Winning Big",
+          "source": "Ibtimes.com.au",
+          "link": "https://www.ibtimes.com.au/michael-jordans-competitive-fire-ignites-nascar-fighting-big-change-winning-big-1864919",
+          "published": "2026-03-29T14:51:42Z"
         },
         {
-          "title": "Today in Boston Celtics history: Russell gets NBA Finals-record 40 rebs; Glover draft",
-          "source": "USA Today",
-          "link": "https://celticswire.usatoday.com/story/sports/nba/celtics/2026/03/29/celtics-history-russell-gets-nba-finals-record-40-rebs-glover-draft/89271022007/",
-          "published": "2026-03-29T10:01:20Z"
+          "title": "The Hornets surge has the Celtics fingerprints all over it",
+          "source": "Celtics Blog",
+          "link": "https://www.celticsblog.com/boston-celtics-news/136828/the-hornets-surge-has-the-celtics-fingerprints-all-over-it",
+          "published": "2026-03-29T14:48:11Z"
         },
         {
-          "title": "The NBA's Proposed Anti-Tanking Reforms Could Backfire Spectacularly",
-          "source": "Forbes",
-          "link": "https://www.forbes.com/sites/bryantoporek/2026/03/29/the-nbas-proposed-anti-tanking-reforms-could-backfire-spectacularly/",
-          "published": "2026-03-29T10:00:00Z"
+          "title": "Some Things I Think I Think: ABS challenges have made the game better \u2014\u00a0and more entertaining",
+          "source": "MassLive.com",
+          "link": "https://www.masslive.com/redsox/2026/03/some-things-i-think-i-think-abs-challenges-have-made-the-game-better-and-more-entertaining.html",
+          "published": "2026-03-29T14:47:10Z"
         }
       ]
     },
@@ -476,7 +488,7 @@
           "rlm": false,
           "label": "No movement"
         },
-        "snapshot_time": "March 30, 2026 at 08:09 AM UTC"
+        "snapshot_time": "March 30, 2026 at 10:21 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -505,22 +517,22 @@
       "injury_notes": "Isaiah Collier (G); Keyonte George (G); Lauri Markkanen (F); Jusuf Nurkic (C)",
       "news": [
         {
-          "title": "YouTube Gold: Bill Walton\u2019s Greatest Game At UCLA",
-          "source": "Duke Basketball Report",
-          "link": "https://www.dukebasketballreport.com/main/88642/youtube-gold-bill-waltons-greatest-game-at-ucla",
-          "published": "2026-03-29T10:05:00Z"
+          "title": "Michael Jordan's Competitive Fire Ignites NASCAR: Fighting for Big Change & Winning Big",
+          "source": "Ibtimes.com.au",
+          "link": "https://www.ibtimes.com.au/michael-jordans-competitive-fire-ignites-nascar-fighting-big-change-winning-big-1864919",
+          "published": "2026-03-29T14:51:42Z"
         },
         {
-          "title": "Today in Boston Celtics history: Russell gets NBA Finals-record 40 rebs; Glover draft",
-          "source": "USA Today",
-          "link": "https://celticswire.usatoday.com/story/sports/nba/celtics/2026/03/29/celtics-history-russell-gets-nba-finals-record-40-rebs-glover-draft/89271022007/",
-          "published": "2026-03-29T10:01:20Z"
+          "title": "The Hornets surge has the Celtics fingerprints all over it",
+          "source": "Celtics Blog",
+          "link": "https://www.celticsblog.com/boston-celtics-news/136828/the-hornets-surge-has-the-celtics-fingerprints-all-over-it",
+          "published": "2026-03-29T14:48:11Z"
         },
         {
-          "title": "The NBA's Proposed Anti-Tanking Reforms Could Backfire Spectacularly",
-          "source": "Forbes",
-          "link": "https://www.forbes.com/sites/bryantoporek/2026/03/29/the-nbas-proposed-anti-tanking-reforms-could-backfire-spectacularly/",
-          "published": "2026-03-29T10:00:00Z"
+          "title": "Some Things I Think I Think: ABS challenges have made the game better \u2014\u00a0and more entertaining",
+          "source": "MassLive.com",
+          "link": "https://www.masslive.com/redsox/2026/03/some-things-i-think-i-think-abs-challenges-have-made-the-game-better-and-more-entertaining.html",
+          "published": "2026-03-29T14:47:10Z"
         }
       ]
     },
@@ -530,44 +542,50 @@
       "away_team": "Detroit Pistons",
       "home_abbr": "OKC",
       "away_abbr": "DET",
-      "home_ml": "-800",
-      "away_ml": "+550",
-      "home_ml_raw": -800,
-      "away_ml_raw": 550,
-      "home_prob": 85.2,
-      "away_prob": 14.8,
-      "spread": "OKC -13.5",
+      "home_ml": "-700",
+      "away_ml": "+500",
+      "home_ml_raw": -700,
+      "away_ml_raw": 500,
+      "home_prob": 84.0,
+      "away_prob": 16.0,
+      "spread": "OKC -11.5",
       "favorite": "Oklahoma City Thunder",
       "pick": "Oklahoma City Thunder",
       "pick_abbr": "OKC",
-      "moneyline": "-800",
-      "win_probability": 85.2,
+      "moneyline": "-700",
+      "win_probability": 84.0,
       "confidence": "HIGH",
       "confidence_stars": "\u2605\u2605\u2605",
       "commence_time": "2026-03-31T01:40:00Z",
       "line_movement": {
         "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
+          "direction": "longer",
+          "points_moved": 100,
+          "steam": true,
           "rlm": false,
-          "label": "No movement"
+          "label": "\ud83d\udd34 -700 \u2190 -800 \ud83d\udd25 STEAM",
+          "old_ml": "-800",
+          "new_ml": "-700"
         },
         "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
+          "direction": "shorter",
+          "points_moved": 50,
+          "steam": true,
           "rlm": false,
-          "label": "No movement"
+          "label": "\ud83d\udd34 +500 \u2190 +550 \ud83d\udd25 STEAM",
+          "old_ml": "+550",
+          "new_ml": "+500"
         },
         "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
+          "direction": "longer",
+          "points_moved": 100,
+          "steam": true,
           "rlm": false,
-          "label": "No movement"
+          "label": "\ud83d\udd34 -700 \u2190 -800 \ud83d\udd25 STEAM",
+          "old_ml": "-800",
+          "new_ml": "-700"
         },
-        "snapshot_time": "March 30, 2026 at 08:09 AM UTC"
+        "snapshot_time": "March 30, 2026 at 10:21 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -590,22 +608,16 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udcca 70.4pt probability edge"
+        "\ud83d\udd25 Sharp steam on pick"
       ],
-      "reasoning": "**Oklahoma City Thunder ML (-800)** \u2014 85.2% vs Detroit Pistons's 14.8%, a 70.4pt edge. Spread: OKC -13.5. Injuries: Thomas Sorber (C); Ausar Thompson (G); Duncan Robinson (F); Tobias Harris (F)",
+      "reasoning": "**Oklahoma City Thunder ML (-700)** \u2014 84.0% vs Detroit Pistons's 16.0%, a 68.0pt edge. Spread: OKC -11.5. \ud83d\udd25 Sharp steam detected: line moved 100 pts. Injuries: Thomas Sorber (C); Ausar Thompson (G); Duncan Robinson (F); Tobias Harris (F)",
       "injury_notes": "Thomas Sorber (C); Ausar Thompson (G); Duncan Robinson (F); Tobias Harris (F)",
       "news": [
         {
-          "title": "NBA Power Rankings: The Thunder reign while East teams rise",
+          "title": "\ud83d\udc40 Playoff watch: Projections, draft lottery, more",
           "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/nba/story/_/id/48296257/nba-power-rankings-thunder-reign-celtics-pistons-rise",
-          "published": "Fri, 27 Mar 2026 14:56:15 EST"
-        },
-        {
-          "title": "Ranking the 10 best and 10 worst NBA transactions since last summer",
-          "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/nba/story/_/id/48241616/nba-2025-2026-best-worst-moves-finals-trades-extensions",
-          "published": "Mon, 23 Mar 2026 10:21:00 EST"
+          "link": "https://www.espn.com/nba/story/_/id/48287649/nba-playoff-watch-2026-standings-schedules-projections-clinchings",
+          "published": "Mon, 30 Mar 2026 10:08:51 EST"
         }
       ]
     },
@@ -621,7 +633,7 @@
       "away_ml_raw": 800,
       "home_prob": 89.3,
       "away_prob": 10.7,
-      "spread": "LAL -15.5",
+      "spread": "LAL -16.5",
       "favorite": "Los Angeles Lakers",
       "pick": "Los Angeles Lakers",
       "pick_abbr": "LAL",
@@ -652,7 +664,7 @@
           "rlm": false,
           "label": "No movement"
         },
-        "snapshot_time": "March 30, 2026 at 08:09 AM UTC"
+        "snapshot_time": "March 30, 2026 at 10:21 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -677,14 +689,14 @@
       "edge_factors": [
         "\ud83d\udcca 78.6pt probability edge"
       ],
-      "reasoning": "**Los Angeles Lakers ML (-1350)** \u2014 89.3% vs Washington Wizards's 10.7%, a 78.6pt edge. Spread: LAL -15.5. Injuries: Adou Thiero (F); Marcus Smart (G); Alex Sarr (C); Tre Johnson (G)",
+      "reasoning": "**Los Angeles Lakers ML (-1350)** \u2014 89.3% vs Washington Wizards's 10.7%, a 78.6pt edge. Spread: LAL -16.5. Injuries: Adou Thiero (F); Marcus Smart (G); Alex Sarr (C); Tre Johnson (G)",
       "injury_notes": "Adou Thiero (F); Marcus Smart (G); Alex Sarr (C); Tre Johnson (G)",
       "news": [
         {
           "title": "Doncic hit with 1-game suspension for 16th tech",
           "source": "www.espn.com - NBA",
           "link": "https://www.espn.com/nba/story/_/id/48333457/lakers-luka-doncic-hit-1-game-suspension-16th-tech",
-          "published": "Sun, 29 Mar 2026 23:38:23 EST"
+          "published": "Mon, 30 Mar 2026 10:08:51 EST"
         }
       ]
     }
