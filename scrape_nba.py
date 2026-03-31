@@ -1,32 +1,36 @@
 """
-ParlAID — NBA Smart Tips Scraper v3
-====================================
-Features:
-  1. FATIGUE: Back-to-back & 3-in-4 detection via nba_api (data.nba.com)
-  2. LINE MOVEMENT: Compares current odds to previous snapshot in data.json
-  3. RESULTS GRADING: Auto-grades yesterday's picks using Odds API scores endpoint
-  4. CONTEXTUAL EDGE: Structured edge object written per game
-  5. TRACK RECORD: Maintains rolling results.json with win/loss/ROI
+ParlAID — NBA Scraper v4
+========================
+Data sources:
+  LIVE SCORES:    ESPN public API (site.api.espn.com) — no key required
+  ODDS:           The Odds API / DraftKings
+  PUBLIC BETTING: Odds Shark consensus scrape (real ticket %)
+  FATIGUE:        nba_api live scoreboard + schedule
+  INJURIES:       ESPN injuries page
+  NEWS:           ESPN/BR/SportsKeeda RSS + NewsAPI
+  RESULTS:        Auto-graded via Odds API scores endpoint
 
 pip install requests beautifulsoup4 feedparser nba_api
 Secrets: ODDS_API_KEY, NEWS_API_KEY
 """
 
-import json, os, time, re, requests, feedparser
+import json, os, re, time, requests, feedparser
 from datetime import datetime, timezone, timedelta
 from bs4 import BeautifulSoup
 
 try:
+    from nba_api.live.nba.endpoints import scoreboard as live_sb
     from nba_api.stats.endpoints import leaguegamefinder
-    from nba_api.stats.static import teams as nba_teams_static
-    NBA_API_AVAILABLE = True
+    NBA_API_OK = True
 except ImportError:
-    NBA_API_AVAILABLE = False
-    print("[WARN] nba_api not installed — fatigue from schedule only.")
+    NBA_API_OK = False
+    print("[WARN] nba_api not installed.")
 
 ODDS_API_KEY = os.environ.get("ODDS_API_KEY", "")
 NEWS_API_KEY = os.environ.get("NEWS_API_KEY", "")
-HEADERS = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"}
+ESPN_SB      = "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard"
+ESPN_ODDS_SB = "https://sports.core.api.espn.com/v2/sports/basketball/leagues/nba/events/{eid}/competitions/{eid}/odds"
+HEADERS      = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"}
 
 NBA_TEAM_MAP = {
     "Atlanta Hawks":"ATL","Boston Celtics":"BOS","Brooklyn Nets":"BKN",
@@ -41,19 +45,6 @@ NBA_TEAM_MAP = {
     "Sacramento Kings":"SAC","San Antonio Spurs":"SAS","Toronto Raptors":"TOR",
     "Utah Jazz":"UTA","Washington Wizards":"WAS",
 }
-# Reverse map: abbr -> full name
-ABBR_TO_NAME = {v: k for k, v in NBA_TEAM_MAP.items() if len(k) > 6}
-
-# Team time zones (for travel fatigue)
-TEAM_TIMEZONE = {
-    "BOS":"ET","NYK":"ET","PHI":"ET","BKN":"ET","TOR":"ET",
-    "MIA":"ET","ATL":"ET","CHA":"ET","ORL":"ET","WAS":"ET",
-    "CHI":"CT","MIL":"CT","IND":"CT","CLE":"ET","DET":"ET",
-    "MEM":"CT","NOP":"CT","SAS":"CT","HOU":"CT","DAL":"CT",
-    "DEN":"MT","UTA":"MT","OKC":"CT","MIN":"CT",
-    "LAL":"PT","LAC":"PT","GSW":"PT","SAC":"PT","PHX":"MT",
-    "POR":"PT",
-}
 WEST_TEAMS = {"LAL","LAC","GSW","SAC","PHX","DEN","UTA","OKC","MIN","DAL","HOU","SAS","NOP","MEM","POR"}
 EAST_TEAMS = {"BOS","NYK","PHI","BKN","TOR","MIA","ATL","CHA","ORL","WAS","CHI","MIL","IND","CLE","DET"}
 
@@ -64,525 +55,501 @@ FEED_SOURCES = [
 ]
 
 # ─────────────────────────────────────────────────────────────────────────────
-# 1. FATIGUE: Build per-team recent schedule from nba_api
+# FEATURE 1: ESPN LIVE SCOREBOARD
 # ─────────────────────────────────────────────────────────────────────────────
-def build_fatigue_map():
+def fetch_espn_scoreboard():
     """
-    Returns dict: {team_abbr: {
-        'status': 'B2B' | '3IN4' | 'FRESH',
-        'label': human readable,
-        'battery': 0-100 (100=fresh),
-        'last_game_date': 'YYYY-MM-DD',
-        'games_last_4_days': int,
-        'road_streak': int,  # consecutive road games
-    }}
+    Returns dict keyed by normalised game string e.g. 'LAL @ WAS':
+    {
+      espn_id, status, status_detail, period, clock,
+      home_score, away_score, home_abbr, away_abbr,
+      spread_alert: None | 'SPREAD_DANGER' | 'COVER_COMFORT' | 'LIVE_HEDGE'
+    }
     """
-    fatigue = {}
-    today = datetime.now(timezone.utc).date()
-
-    if not NBA_API_AVAILABLE:
-        print("[WARN] nba_api unavailable — using ESPN schedule fallback for fatigue.")
-        return build_fatigue_from_espn()
-
+    games = {}
     try:
-        # Pull last 10 days of games for all teams
-        date_from = (today - timedelta(days=10)).strftime("%m/%d/%Y")
-        date_to   = today.strftime("%m/%d/%Y")
+        r = requests.get(ESPN_SB, headers=HEADERS, timeout=10)
+        r.raise_for_status()
+        data = r.json()
+        for event in data.get("events", []):
+            comp    = event["competitions"][0]
+            status  = event["status"]["type"]
+            state   = status["state"]          # pre, in, post
+            detail  = status.get("shortDetail","")
+            period  = event["status"].get("period", 0)
+            clock   = event["status"].get("displayClock","")
 
-        finder = leaguegamefinder.LeagueGameFinder(
-            date_from_nullable=date_from,
-            date_to_nullable=date_to,
-            league_id_nullable="00",
-            timeout=30,
-        )
-        df = finder.get_data_frames()[0]
-        df["GAME_DATE"] = df["GAME_DATE"].apply(lambda x: datetime.strptime(x, "%Y-%m-%dT%H:%M:%S").date() if "T" in x else datetime.strptime(x, "%Y-%m-%d").date())
+            competitors = comp.get("competitors", [])
+            scores = {}
+            abbrs  = {}
+            for c in competitors:
+                side = "home" if c["homeAway"] == "home" else "away"
+                scores[side] = int(c.get("score", 0))
+                abbrs[side]  = c["team"]["abbreviation"].upper()
 
-        for abbr in NBA_TEAM_MAP.values():
-            team_df = df[df["TEAM_ABBREVIATION"] == abbr].sort_values("GAME_DATE", ascending=False)
-            if team_df.empty:
-                fatigue[abbr] = _fresh_fatigue()
-                continue
+            home_a = abbrs.get("home","")
+            away_a = abbrs.get("away","")
+            key    = f"{away_a} @ {home_a}"  # matches our game key format
 
-            dates = list(team_df["GAME_DATE"])
-            matchups = list(team_df["MATCHUP"])  # e.g. "LAL vs. BOS" or "LAL @ BOS"
+            # Try to get spread from ESPN competition odds
+            espn_spread = None
+            try:
+                for odds_obj in comp.get("odds", []):
+                    det = odds_obj.get("details","")   # e.g. "LAL -15.5"
+                    if det:
+                        espn_spread = det
+                        break
+            except: pass
 
-            last_game = dates[0]
-            days_since_last = (today - last_game).days
+            # Spread danger logic (only meaningful in-game)
+            spread_alert = None
+            if state == "in" and espn_spread and period >= 3:
+                diff = scores["home"] - scores["away"]
+                try:
+                    sp_parts = espn_spread.split()
+                    sp_val   = float(sp_parts[-1])
+                    fav_side = "home" if sp_parts[0] == home_a else "away"
+                    # diff from fav perspective
+                    fav_diff = diff if fav_side == "home" else -diff
+                    needed   = -sp_val  # fav needs to win by more than this
 
-            # Count games in last 4 days (including today)
-            g4 = sum(1 for d in dates if (today - d).days <= 4)
-            # Count games in last 2 days
-            g2 = sum(1 for d in dates if (today - d).days <= 2)
+                    if period == 4:
+                        gap = needed - fav_diff
+                        if gap > 8:
+                            spread_alert = "SPREAD_DANGER"   # fav in trouble
+                        elif gap < -10:
+                            spread_alert = "COVER_COMFORT"   # comfortably covering
+                        elif abs(gap) <= 3:
+                            spread_alert = "LIVE_HEDGE"      # within a field goal
+                except: pass
 
-            # Road streak: count consecutive away games
-            road_streak = 0
-            for m in matchups:
-                if "@" in m and not m.startswith(abbr):
-                    road_streak += 1
-                else:
-                    break
-
-            # Cross-timezone trip: West team playing East or vice versa
-            cross_trip = False
-            if len(matchups) >= 2:
-                last_opp = matchups[0]
-                # crude: if away team is in opposite conference
-                opp_abbr = last_opp.split()[-1] if "@" in last_opp else None
-                if opp_abbr:
-                    if abbr in WEST_TEAMS and opp_abbr in EAST_TEAMS:
-                        cross_trip = True
-                    elif abbr in EAST_TEAMS and opp_abbr in WEST_TEAMS:
-                        cross_trip = True
-
-            # Determine status
-            if days_since_last == 1:
-                status = "B2B"
-                label  = "Back-to-Back ⚠️"
-                battery = 25
-            elif g4 >= 3:
-                status = "3IN4"
-                label  = "3rd in 4 nights 🔴"
-                battery = 40
-            elif days_since_last == 2 and cross_trip:
-                status = "TRAVEL"
-                label  = "Cross-country travel fatigue"
-                battery = 55
-            elif days_since_last <= 2:
-                status = "SOME_REST"
-                label  = "1 day rest"
-                battery = 70
-            else:
-                status = "FRESH"
-                label  = "Well rested ✅"
-                battery = 100
-
-            fatigue[abbr] = {
-                "status":           status,
-                "label":            label,
-                "battery":          battery,
-                "last_game_date":   last_game.strftime("%b %d"),
-                "games_last_4d":    g4,
-                "road_streak":      road_streak,
-                "cross_trip":       cross_trip,
+            games[key] = {
+                "espn_id":      event.get("id",""),
+                "status":       state,          # pre / in / post
+                "status_detail":detail,
+                "period":       period,
+                "clock":        clock,
+                "home_score":   scores.get("home", 0),
+                "away_score":   scores.get("away", 0),
+                "home_abbr":    home_a,
+                "away_abbr":    away_a,
+                "espn_spread":  espn_spread,
+                "spread_alert": spread_alert,
             }
-
-        print(f"[INFO] Fatigue map built for {len(fatigue)} teams via nba_api.")
+        print(f"[INFO] ESPN scoreboard: {len(games)} games.")
     except Exception as e:
-        print(f"[WARN] nba_api fatigue failed: {e}. Using ESPN fallback.")
-        return build_fatigue_from_espn()
-
-    return fatigue
+        print(f"[WARN] ESPN scoreboard: {e}")
+    return games
 
 
-def build_fatigue_from_espn():
-    """Fallback: scrape ESPN schedule page to detect B2B manually."""
-    fatigue = {}
-    today = datetime.now(timezone.utc).date()
-    yesterday = today - timedelta(days=1)
-
+# ─────────────────────────────────────────────────────────────────────────────
+# FEATURE 2: PUBLIC BETTING — ODDS SHARK SCRAPE
+# ─────────────────────────────────────────────────────────────────────────────
+def fetch_public_betting():
+    """
+    Scrapes Odds Shark consensus page for real ticket percentages.
+    Returns dict keyed by (away_abbr, home_abbr) tuple:
+    {
+      away_tickets_pct, home_tickets_pct,
+      away_money_pct, home_money_pct,
+      sharp_signal: 'SHARP_AWAY' | 'SHARP_HOME' | 'PUBLIC' | None,
+      rlm: bool,  # reverse line movement detected
+      sharp_label: str,
+    }
+    """
+    public = {}
+    # Odds Shark consensus — updated hourly, no auth required
+    url = "https://www.oddsshark.com/nba/consensus-picks"
     try:
-        # ESPN schedule for yesterday and today
-        for d in [yesterday, today - timedelta(days=2)]:
-            url = f"https://www.espn.com/nba/scoreboard/_/date/{d.strftime('%Y%m%d')}"
-            r = requests.get(url, headers=HEADERS, timeout=10)
-            soup = BeautifulSoup(r.content, "html.parser")
-            # Look for team abbreviations in completed games
-            for event in soup.select(".ScoreboardScoreCell__Item"):
-                abbr_el = event.select_one(".ScoreboardScoreCell__TeamName--abbrev")
-                if abbr_el:
-                    abbr = abbr_el.get_text(strip=True)
-                    days_ago = (today - d).days
-                    if abbr not in fatigue:
-                        fatigue[abbr] = {"last_game_date": d.strftime("%b %d"), "days_since": days_ago}
-                    # update to most recent
-                    elif fatigue[abbr].get("days_since", 99) > days_ago:
-                        fatigue[abbr]["days_since"] = days_ago
-                        fatigue[abbr]["last_game_date"] = d.strftime("%b %d")
+        r = requests.get(url, headers=HEADERS, timeout=12)
+        soup = BeautifulSoup(r.content, "html.parser")
+        rows = soup.select(".op-matchup-wrapper, .op-item-row-wrapper")
+        for row in rows:
+            try:
+                teams_el = row.select(".op-matchup-team-name")
+                pct_els  = row.select(".op-consensus-bars-pct, .op-pct")
+                if len(teams_el) < 2 or len(pct_els) < 2: continue
+                away_name = teams_el[0].get_text(strip=True)
+                home_name = teams_el[1].get_text(strip=True)
+                away_pct  = int(re.sub(r'\D','', pct_els[0].get_text()) or 0)
+                home_pct  = int(re.sub(r'\D','', pct_els[1].get_text()) or 0)
+                away_a    = NBA_TEAM_MAP.get(away_name, away_name[:3].upper())
+                home_a    = NBA_TEAM_MAP.get(home_name, home_name[:3].upper())
+                key       = (away_a, home_a)
+                public[key] = {
+                    "away_tickets_pct": away_pct,
+                    "home_tickets_pct": home_pct,
+                    "source": "Odds Shark",
+                }
+            except: continue
+        print(f"[INFO] Odds Shark public betting: {len(public)} games.")
     except Exception as e:
-        print(f"[WARN] ESPN schedule fallback: {e}")
+        print(f"[WARN] Odds Shark scrape: {e}")
 
-    # Now build full fatigue objects
-    result = {}
-    for abbr, info in fatigue.items():
-        ds = info.get("days_since", 99)
-        if ds <= 1:
-            result[abbr] = {"status":"B2B","label":"Back-to-Back ⚠️","battery":25,
-                            "last_game_date":info["last_game_date"],"games_last_4d":2,"road_streak":0,"cross_trip":False}
-        elif ds <= 2:
-            result[abbr] = {"status":"SOME_REST","label":"1 day rest","battery":70,
-                            "last_game_date":info["last_game_date"],"games_last_4d":1,"road_streak":0,"cross_trip":False}
-        else:
-            result[abbr] = _fresh_fatigue(info["last_game_date"])
+    # Also try SportsBettingDime which has a cleaner table
+    if not public:
+        try:
+            url2 = "https://www.sportsbettingdime.com/nba/public-betting-trends/"
+            r2 = requests.get(url2, headers=HEADERS, timeout=12)
+            soup2 = BeautifulSoup(r2.content, "html.parser")
+            for row in soup2.select("tr"):
+                cells = row.select("td")
+                if len(cells) >= 5:
+                    try:
+                        away_name = cells[0].get_text(strip=True)
+                        home_name = cells[1].get_text(strip=True)
+                        away_pct  = int(re.sub(r'\D','', cells[2].get_text()) or 0)
+                        home_pct  = int(re.sub(r'\D','', cells[3].get_text()) or 0)
+                        away_a    = NBA_TEAM_MAP.get(away_name, away_name[:3].upper())
+                        home_a    = NBA_TEAM_MAP.get(home_name, home_name[:3].upper())
+                        if away_pct + home_pct > 0:
+                            public[(away_a, home_a)] = {
+                                "away_tickets_pct": away_pct,
+                                "home_tickets_pct": home_pct,
+                                "source": "SportsBettingDime",
+                            }
+                    except: continue
+            print(f"[INFO] SportsBettingDime: {len(public)} games.")
+        except Exception as e:
+            print(f"[WARN] SBD scrape: {e}")
 
-    # Fill missing teams
-    for abbr in NBA_TEAM_MAP.values():
-        if abbr not in result:
-            result[abbr] = _fresh_fatigue()
+    return public
+
+
+def enrich_sharp_signal(game, public_data, line_movement):
+    """
+    Derive sharp vs public signal by comparing ticket % to line movement.
+    Sharp signal = line moves AGAINST the majority public side (reverse line movement).
+    """
+    key    = (game["away_abbr"], game["home_abbr"])
+    pb     = public_data.get(key)
+    result = {
+        "away_tickets_pct": None,
+        "home_tickets_pct": None,
+        "source": None,
+        "sharp_signal": None,
+        "sharp_label": "Insufficient data",
+        "rlm": False,
+    }
+
+    if not pb:
+        return result
+
+    away_t  = pb["away_tickets_pct"]
+    home_t  = pb["home_tickets_pct"]
+    result.update({"away_tickets_pct": away_t, "home_tickets_pct": home_t, "source": pb["source"]})
+
+    # Reverse Line Movement: public favours one side but line moved to the other
+    pick_is_home  = game["pick"] == game["home_team"]
+    home_mov      = line_movement.get("home", {})
+    away_mov      = line_movement.get("away", {})
+
+    public_likes_home = home_t > away_t
+    # Line moved "shorter" (bigger fav) = sharp backing that team
+    line_moved_home_shorter = home_mov.get("direction") == "shorter"
+    line_moved_away_shorter = away_mov.get("direction") == "shorter"
+
+    rlm = (public_likes_home and line_moved_away_shorter) or \
+          (not public_likes_home and line_moved_home_shorter)
+    result["rlm"] = rlm
+
+    # Classify
+    if rlm:
+        sharp_side = game["away_abbr"] if public_likes_home else game["home_abbr"]
+        result["sharp_signal"] = "SHARP_AWAY" if public_likes_home else "SHARP_HOME"
+        result["sharp_label"] = (
+            f"⚡ RLM Alert: {home_t}% of public on "
+            f"{'home' if public_likes_home else 'away'}, line moving opposite — "
+            f"Sharp money on {sharp_side}"
+        )
+    elif away_t >= 70:
+        result["sharp_signal"] = "PUBLIC_AWAY"
+        result["sharp_label"] = f"🐑 Public heavy on {game['away_abbr']} ({away_t}% tickets)"
+    elif home_t >= 70:
+        result["sharp_signal"] = "PUBLIC_HOME"
+        result["sharp_label"] = f"🐑 Public heavy on {game['home_abbr']} ({home_t}% tickets)"
+    elif abs(away_t - home_t) <= 10:
+        result["sharp_signal"] = "SPLIT"
+        result["sharp_label"] = f"Market split: {away_t}% / {home_t}% — no clear lean"
+    else:
+        result["sharp_label"] = f"Tickets: {game['away_abbr']} {away_t}% / {game['home_abbr']} {home_t}%"
+
     return result
 
 
-def _fresh_fatigue(last_date=None):
+# ─────────────────────────────────────────────────────────────────────────────
+# FEATURE 3: ENHANCED FATIGUE (with travel miles)
+# ─────────────────────────────────────────────────────────────────────────────
+# Approximate arena coordinates for travel distance
+ARENA_COORDS = {
+    "ATL":(33.757,-84.396),"BOS":(42.366,-71.062),"BKN":(40.683,-73.975),
+    "CHA":(35.225,-80.839),"CHI":(41.881,-87.674),"CLE":(41.496,-81.688),
+    "DAL":(32.790,-96.810),"DEN":(39.749,-105.007),"DET":(42.341,-83.055),
+    "GSW":(37.768,-122.388),"HOU":(29.751,-95.362),"IND":(39.764,-86.156),
+    "LAC":(34.043,-118.267),"LAL":(34.043,-118.267),"MEM":(35.138,-90.051),
+    "MIA":(25.782,-80.188),"MIL":(43.045,-87.917),"MIN":(44.979,-93.276),
+    "NOP":(29.949,-90.082),"NYK":(40.750,-73.994),"OKC":(35.463,-97.515),
+    "ORL":(28.539,-81.384),"PHI":(39.901,-75.172),"PHX":(33.446,-112.071),
+    "POR":(45.532,-122.667),"SAC":(38.580,-121.500),"SAS":(29.427,-98.438),
+    "TOR":(43.643,-79.379),"UTA":(40.768,-111.901),"WAS":(38.898,-77.021),
+}
+
+def haversine(c1, c2):
+    """Distance in miles between two (lat,lon) coords."""
+    import math
+    lat1,lon1 = [math.radians(x) for x in c1]
+    lat2,lon2 = [math.radians(x) for x in c2]
+    dlat=lat2-lat1; dlon=lon2-lon1
+    a=math.sin(dlat/2)**2+math.cos(lat1)*math.cos(lat2)*math.sin(dlon/2)**2
+    return round(3958.8*2*math.asin(math.sqrt(a)))
+
+def build_fatigue_map():
+    fatigue = {}
+    today   = datetime.now(timezone.utc).date()
+
+    if not NBA_API_OK:
+        return build_fatigue_espn_fallback()
+
+    try:
+        date_from = (today - timedelta(days=10)).strftime("%m/%d/%Y")
+        date_to   = today.strftime("%m/%d/%Y")
+        finder    = leaguegamefinder.LeagueGameFinder(
+            date_from_nullable=date_from, date_to_nullable=date_to,
+            league_id_nullable="00", timeout=30,
+        )
+        df = finder.get_data_frames()[0]
+        def parse_date(x):
+            for fmt in ["%Y-%m-%dT%H:%M:%S","%Y-%m-%d"]:
+                try: return datetime.strptime(x[:len(fmt)], fmt).date()
+                except: pass
+            return today
+        df["GAME_DATE"] = df["GAME_DATE"].apply(parse_date)
+
+        for abbr in set(NBA_TEAM_MAP.values()):
+            tdf = df[df["TEAM_ABBREVIATION"]==abbr].sort_values("GAME_DATE",ascending=False)
+            if tdf.empty: fatigue[abbr]=_fresh(); continue
+
+            dates    = list(tdf["GAME_DATE"])
+            matchups = list(tdf.get("MATCHUP", []))
+            last_game= dates[0]
+            days_rest= (today - last_game).days
+            g4       = sum(1 for d in dates if (today-d).days<=4)
+
+            # Travel miles: last away game opponent location
+            travel_miles = 0
+            travel_desc  = ""
+            for i, m in enumerate(matchups[:3]):
+                if "@" in str(m) and not str(m).startswith(abbr):
+                    # Team was on road — find opponent
+                    parts  = str(m).split("@")
+                    opp    = parts[-1].strip().split()[0] if len(parts)>1 else None
+                    if opp and opp in ARENA_COORDS and abbr in ARENA_COORDS:
+                        miles = haversine(ARENA_COORDS[abbr], ARENA_COORDS[opp])
+                        if miles > travel_miles:
+                            travel_miles = miles
+                            travel_desc  = f"{miles:,} mi road trip"
+                    break
+
+            cross_trip = travel_miles > 1500
+
+            if days_rest == 1:
+                status="B2B"; label="Back-to-Back ⚠️"; battery=25
+            elif g4>=3:
+                status="3IN4"; label=f"3rd in 4 nights 🔴"; battery=40
+            elif days_rest<=2 and cross_trip:
+                status="TRAVEL"; label=f"Cross-country trip 🟣"; battery=50
+            elif days_rest<=2:
+                status="SOME_REST"; label="1 day rest"; battery=70
+            else:
+                status="FRESH"; label="Well rested ✅"; battery=100
+
+            fatigue[abbr]={
+                "status":status,"label":label,"battery":battery,
+                "last_game":last_game.strftime("%b %d"),
+                "games_last_4d":g4,"days_rest":days_rest,
+                "travel_miles":travel_miles,"travel_desc":travel_desc,
+                "cross_trip":cross_trip,
+            }
+        print(f"[INFO] Fatigue map: {len(fatigue)} teams.")
+    except Exception as e:
+        print(f"[WARN] Fatigue nba_api: {e}"); return build_fatigue_espn_fallback()
+    return fatigue
+
+def build_fatigue_espn_fallback():
+    """Minimal fallback — marks all teams fresh."""
+    return {a: _fresh() for a in set(NBA_TEAM_MAP.values())}
+
+def _fresh(last=None):
     return {"status":"FRESH","label":"Well rested ✅","battery":100,
-            "last_game_date":last_date or "—","games_last_4d":0,"road_streak":0,"cross_trip":False}
+            "last_game":last or "—","games_last_4d":0,"days_rest":3,
+            "travel_miles":0,"travel_desc":"","cross_trip":False}
 
 
 # ─────────────────────────────────────────────────────────────────────────────
-# 2. ODDS & LINE MOVEMENT
+# ODDS + LINE MOVEMENT
 # ─────────────────────────────────────────────────────────────────────────────
 def ml_to_prob(ml):
     try:
-        ml = int(str(ml).replace("+","").replace(" ",""))
+        ml=int(str(ml).replace("+",""))
         return abs(ml)/(abs(ml)+100)*100 if ml<0 else 100/(ml+100)*100
     except: return 50.0
 
-def remove_vig(p1, p2):
-    t = p1+p2
+def remove_vig(p1,p2):
+    t=p1+p2
     if t==0: return 50.0,50.0
-    return round(p1/t*100,1), round(p2/t*100,1)
+    return round(p1/t*100,1),round(p2/t*100,1)
 
-def confidence_from_prob(p):
+def conf_tier(p):
     if p>=72: return "HIGH","★★★"
     if p>=58: return "MEDIUM","★★☆"
     return "LOW","★☆☆"
 
 def fetch_odds():
-    if not ODDS_API_KEY:
-        print("[WARN] No ODDS_API_KEY."); return []
-    url = (
-        "https://api.the-odds-api.com/v4/sports/basketball_nba/odds/"
-        f"?apiKey={ODDS_API_KEY}&regions=us&markets=h2h,spreads"
-        "&oddsFormat=american&bookmakers=draftkings"
-    )
+    if not ODDS_API_KEY: print("[WARN] No ODDS_API_KEY."); return []
+    url=(f"https://api.the-odds-api.com/v4/sports/basketball_nba/odds/"
+         f"?apiKey={ODDS_API_KEY}&regions=us&markets=h2h,spreads"
+         "&oddsFormat=american&bookmakers=draftkings")
     try:
-        r = requests.get(url, timeout=12); r.raise_for_status()
-        d = r.json(); print(f"[INFO] Odds API: {len(d)} games."); return d
+        r=requests.get(url,timeout=12); r.raise_for_status()
+        d=r.json(); print(f"[INFO] Odds API: {len(d)} games."); return d
     except Exception as e:
         print(f"[ERROR] Odds API: {e}"); return []
 
-def load_previous_odds():
-    """Load previous data.json to extract previous ML for movement detection."""
-    prev = {}
+def _parse_raw(s):
+    try: return int(str(s).replace("+",""))
+    except: return None
+
+def load_prev_odds():
+    prev={}
     try:
-        with open("data.json") as f:
-            old = json.load(f)
-        for g in old.get("games", []):
-            key = g.get("game","")
-            prev[key] = {
-                "home_ml": g.get("home_ml","N/A"),
-                "away_ml": g.get("away_ml","N/A"),
-                "home_ml_raw": _parse_ml_raw(g.get("home_ml","N/A")),
-                "away_ml_raw": _parse_ml_raw(g.get("away_ml","N/A")),
-                "snapshot_time": old.get("last_updated",""),
+        with open("data.json") as f: old=json.load(f)
+        for g in old.get("games",[]):
+            prev[g["game"]]={
+                "home_ml_raw":_parse_raw(g.get("home_ml","N/A")),
+                "away_ml_raw":_parse_raw(g.get("away_ml","N/A")),
+                "snapshot_time":old.get("last_updated",""),
             }
     except: pass
     return prev
 
-def _parse_ml_raw(s):
-    try: return int(str(s).replace("+","").replace(" ",""))
-    except: return None
-
-def classify_line_movement(old_ml, new_ml, team_is_pick):
-    """
-    Returns dict: {direction, points_moved, steam, reverse_line_movement, label}
-    Steam = big sharp move (>=8 points on ML)
-    Reverse line movement = public betting one way, line moving opposite
-    """
+def classify_movement(old_ml, new_ml):
     if old_ml is None or new_ml is None:
-        return {"direction":"none","points_moved":0,"steam":False,"rlm":False,"label":"—"}
-
-    moved = new_ml - old_ml  # positive = line got worse for this team (became more expensive favourite OR worse dog)
-
-    if moved == 0:
-        return {"direction":"none","points_moved":0,"steam":False,"rlm":False,"label":"No movement"}
-
-    # For favourites (negative ML): line moving MORE negative = sharps backing them
-    # For dogs (positive ML): line moving MORE positive = sharps backing them
-    steam = abs(moved) >= 8
-    direction = "shorter" if moved < 0 else "longer"  # shorter = team becoming bigger fav
-
-    label_parts = []
-    if abs(moved) > 0:
-        prefix = "🟢" if (moved < 0 and team_is_pick) or (moved > 0 and not team_is_pick) else "🔴"
-        old_fmt = f"+{old_ml}" if old_ml > 0 else str(old_ml)
-        new_fmt = f"+{new_ml}" if new_ml > 0 else str(new_ml)
-        label_parts.append(f"{prefix} {new_fmt} ← {old_fmt}")
-
-    if steam:
-        label_parts.append("🔥 STEAM")
-
-    return {
-        "direction":    direction,
-        "points_moved": abs(moved),
-        "steam":        steam,
-        "rlm":          False,  # needs public % data (not free) — left for future
-        "label":        " ".join(label_parts) if label_parts else "No movement",
-        "old_ml":       f"+{old_ml}" if old_ml and old_ml > 0 else str(old_ml) if old_ml else "—",
-        "new_ml":       f"+{new_ml}" if new_ml and new_ml > 0 else str(new_ml) if new_ml else "—",
-    }
+        return {"direction":"none","points_moved":0,"steam":False,
+                "label":"—","old_ml":"—","new_ml":"—"}
+    moved=new_ml-old_ml; steam=abs(moved)>=8
+    old_f=f"+{old_ml}" if old_ml>0 else str(old_ml)
+    new_f=f"+{new_ml}" if new_ml>0 else str(new_ml)
+    if moved==0:
+        return {"direction":"none","points_moved":0,"steam":False,
+                "label":"No movement","old_ml":old_f,"new_ml":new_f}
+    direction="shorter" if moved<0 else "longer"
+    tag="🔥 STEAM" if steam else ("🟢" if moved<0 else "🔴")
+    label=f"{tag} {new_f} ← {old_f}"
+    return {"direction":direction,"points_moved":abs(moved),"steam":steam,
+            "label":label,"old_ml":old_f,"new_ml":new_f}
 
 def normalise_odds(raw, prev_odds, fatigue):
-    games = []
+    games=[]
     for g in raw:
-        home = g.get("home_team",""); away = g.get("away_team","")
-        home_abbr = NBA_TEAM_MAP.get(home, home[:3].upper())
-        away_abbr = NBA_TEAM_MAP.get(away, away[:3].upper())
-
-        home_ml_raw = away_ml_raw = None
-        home_ml_fmt = away_ml_fmt = "N/A"
-        spread_str = "N/A"
+        home=g.get("home_team",""); away=g.get("away_team","")
+        ha=NBA_TEAM_MAP.get(home,home[:3].upper())
+        aa=NBA_TEAM_MAP.get(away,away[:3].upper())
+        hmr=amr=None; hmf=amf="N/A"; spread_str="N/A"
 
         for bm in g.get("bookmakers",[]):
             for mkt in bm.get("markets",[]):
                 if mkt["key"]=="h2h":
                     for o in mkt.get("outcomes",[]):
-                        p=o["price"]; fmt=f"+{p}" if p>0 else str(p)
-                        if o["name"]==home: home_ml_raw=p; home_ml_fmt=fmt
-                        elif o["name"]==away: away_ml_raw=p; away_ml_fmt=fmt
+                        p=o["price"]; f=f"+{p}" if p>0 else str(p)
+                        if o["name"]==home: hmr=p; hmf=f
+                        elif o["name"]==away: amr=p; amf=f
                 elif mkt["key"]=="spreads":
                     for o in mkt.get("outcomes",[]):
                         if o["name"]==home:
-                            pt=o["point"]; sign="+" if pt>0 else ""
-                            spread_str=f"{home_abbr} {sign}{pt}"
+                            pt=o["point"]; spread_str=f"{ha} {'+' if pt>0 else ''}{pt}"
             break
 
-        if home_ml_raw is not None and away_ml_raw is not None:
-            hp, ap = remove_vig(ml_to_prob(home_ml_raw), ml_to_prob(away_ml_raw))
-        else: hp=ap=50.0
+        hp,ap=remove_vig(ml_to_prob(hmr),ml_to_prob(amr)) if hmr and amr else (50.0,50.0)
+        if hp>=ap: pick=home; pa=ha; pm=hmf; pp=hp
+        else:       pick=away; pa=aa; pm=amf; pp=ap
 
-        if hp>=ap: pick=home; pick_abbr=home_abbr; pick_ml=home_ml_fmt; pick_prob=hp; pick_ml_raw=home_ml_raw
-        else:      pick=away; pick_abbr=away_abbr; pick_ml=away_ml_fmt; pick_prob=ap; pick_ml_raw=away_ml_raw
+        conf,stars=conf_tier(pp)
+        key=f"{away} @ {home}"
+        prev=prev_odds.get(key,{})
+        hm=classify_movement(prev.get("home_ml_raw"),hmr)
+        am=classify_movement(prev.get("away_ml_raw"),amr)
 
-        conf, stars = confidence_from_prob(pick_prob)
-        game_key = f"{away} @ {home}"
+        hf=fatigue.get(ha,_fresh()); af=fatigue.get(aa,_fresh())
 
-        # Line movement
-        prev = prev_odds.get(game_key, {})
-        home_move = classify_line_movement(prev.get("home_ml_raw"), home_ml_raw, pick==home)
-        away_move = classify_line_movement(prev.get("away_ml_raw"), away_ml_raw, pick==away)
-        pick_move = home_move if pick==home else away_move
-
-        # Fatigue for both teams
-        home_fat = fatigue.get(home_abbr, _fresh_fatigue())
-        away_fat = fatigue.get(away_abbr, _fresh_fatigue())
-
-        # Contextual edge object
-        edge_factors = []
-        if pick_move["steam"]: edge_factors.append("🔥 Sharp steam on pick")
-        if home_fat["status"] in ["B2B","3IN4"] and pick==away: edge_factors.append(f"💤 {home_abbr} on {home_fat['status']}")
-        if away_fat["status"] in ["B2B","3IN4"] and pick==home: edge_factors.append(f"💤 {away_abbr} on {away_fat['status']}")
-        if home_fat["cross_trip"] and pick==away: edge_factors.append(f"✈️ {home_abbr} on cross-country trip")
-        if away_fat["cross_trip"] and pick==home: edge_factors.append(f"✈️ {away_abbr} cross-country away")
-        if not edge_factors: edge_factors.append(f"📊 {round(pick_prob-round(100-pick_prob,1),1)}pt probability edge")
+        # Edge factors
+        ef=[]
+        if (hm.get("steam") or am.get("steam")): ef.append("🔥 Sharp steam detected")
+        if hf["status"] in ["B2B","3IN4"] and pick==away: ef.append(f"💤 {ha} fatigued ({hf['status']})")
+        if af["status"] in ["B2B","3IN4"] and pick==home: ef.append(f"💤 {aa} fatigued ({af['status']})")
+        if hf.get("travel_miles",0)>1500 and pick==away: ef.append(f"✈️ {ha} traveled {hf['travel_miles']:,} mi")
+        if af.get("travel_miles",0)>1500 and pick==home: ef.append(f"✈️ {aa} traveled {af['travel_miles']:,} mi")
+        if not ef: ef.append(f"📊 {round(pp-round(100-pp,1),1)}pt probability edge")
 
         games.append({
-            "game": game_key, "home_team":home, "away_team":away,
-            "home_abbr":home_abbr, "away_abbr":away_abbr,
-            "home_ml":home_ml_fmt, "away_ml":away_ml_fmt,
-            "home_ml_raw":home_ml_raw, "away_ml_raw":away_ml_raw,
-            "home_prob":hp, "away_prob":ap,
-            "spread":spread_str, "favorite":pick,
-            "pick":pick, "pick_abbr":pick_abbr,
-            "moneyline":pick_ml, "win_probability":pick_prob,
-            "confidence":conf, "confidence_stars":stars,
+            "game":key,"home_team":home,"away_team":away,
+            "home_abbr":ha,"away_abbr":aa,
+            "home_ml":hmf,"away_ml":amf,
+            "home_ml_raw":hmr,"away_ml_raw":amr,
+            "home_prob":hp,"away_prob":ap,
+            "spread":spread_str,"favorite":pick,
+            "pick":pick,"pick_abbr":pa,"moneyline":pm,
+            "win_probability":pp,"confidence":conf,"confidence_stars":stars,
             "commence_time":g.get("commence_time",""),
-            "line_movement": {
-                "home": home_move,
-                "away": away_move,
-                "pick": pick_move,
-                "snapshot_time": prev.get("snapshot_time","—"),
-            },
-            "fatigue": {
-                "home": home_fat,
-                "away": away_fat,
-            },
-            "edge_factors": edge_factors,
+            "line_movement":{"home":hm,"away":am,"pick":hm if pick==home else am,
+                             "snapshot_time":prev.get("snapshot_time","—")},
+            "fatigue":{"home":hf,"away":af},
+            "edge_factors":ef,
         })
     return games
 
 
 # ─────────────────────────────────────────────────────────────────────────────
-# 3. RESULTS GRADING (auto-grade yesterday's picks)
-# ─────────────────────────────────────────────────────────────────────────────
-def fetch_scores_for_date(date_str):
-    """Fetch completed game scores from Odds API scores endpoint."""
-    if not ODDS_API_KEY: return {}
-    url = (f"https://api.the-odds-api.com/v4/sports/basketball_nba/scores/"
-           f"?apiKey={ODDS_API_KEY}&daysFrom=2")
-    try:
-        r = requests.get(url, timeout=10); r.raise_for_status()
-        scores = {}
-        for g in r.json():
-            if g.get("completed"):
-                home = g["home_team"]; away = g["away_team"]
-                key = f"{away} @ {home}"
-                sc = g.get("scores") or []
-                score_dict = {s["name"]: int(s["score"]) for s in sc if s.get("score")}
-                scores[key] = {
-                    "home": home, "away": away,
-                    "home_score": score_dict.get(home, 0),
-                    "away_score": score_dict.get(away, 0),
-                    "completed": True,
-                }
-        return scores
-    except Exception as e:
-        print(f"[WARN] Scores fetch: {e}"); return {}
-
-def load_results():
-    try:
-        with open("results.json") as f: return json.load(f)
-    except: return {"picks": [], "summary": {}}
-
-def save_results(results):
-    with open("results.json","w") as f: json.dump(results, f, indent=2)
-
-def grade_pending_picks(results, scores):
-    """Grade any ungraded picks using completed scores."""
-    changed = False
-    for pick in results["picks"]:
-        if pick.get("graded"): continue
-        game = pick["game"]
-        if game not in scores: continue
-        sc = scores[game]
-        winner = sc["home"] if sc["home_score"] > sc["away_score"] else sc["away"]
-        pick_team = pick["pick"]
-        pick_ml = pick.get("moneyline_raw", 0)
-
-        won = (winner == pick_team)
-        pick["result"] = "WIN" if won else "LOSS"
-        pick["graded"] = True
-        pick["home_score"] = sc["home_score"]
-        pick["away_score"] = sc["away_score"]
-        pick["actual_winner"] = winner
-
-        # ROI: $100 flat bet
-        if won:
-            if pick_ml and pick_ml > 0:
-                pick["profit"] = round(pick_ml, 2)
-            else:
-                pick["profit"] = round(100 / abs(pick_ml) * 100, 2) if pick_ml else 100
-        else:
-            pick["profit"] = -100
-
-        changed = True
-
-    if changed:
-        recalc_summary(results)
-    return changed
-
-def recalc_summary(results):
-    """Recalculate win rates and ROI by confidence tier."""
-    from collections import defaultdict
-    buckets = defaultdict(lambda: {"wins":0,"losses":0,"profit":0.0})
-    cutoff_7  = datetime.now(timezone.utc) - timedelta(days=7)
-    cutoff_30 = datetime.now(timezone.utc) - timedelta(days=30)
-
-    for p in results["picks"]:
-        if not p.get("graded"): continue
-        conf = p.get("confidence","LOW")
-        buckets[conf]["wins"]   += 1 if p["result"]=="WIN" else 0
-        buckets[conf]["losses"] += 1 if p["result"]=="LOSS" else 0
-        buckets[conf]["profit"] += p.get("profit",0)
-
-    summary = {}
-    for conf, b in buckets.items():
-        total = b["wins"] + b["losses"]
-        summary[conf] = {
-            "wins": b["wins"], "losses": b["losses"], "total": total,
-            "win_pct": round(b["wins"]/total*100,1) if total else 0,
-            "roi": round(b["profit"]/(total*100)*100,1) if total else 0,
-            "profit": round(b["profit"],2),
-        }
-
-    # 7-day and 30-day overall
-    for window_label, cutoff in [("7d", cutoff_7), ("30d", cutoff_30)]:
-        w_picks = [p for p in results["picks"]
-                   if p.get("graded") and
-                   datetime.fromisoformat(p.get("date","2000-01-01T00:00:00+00:00")) >= cutoff]
-        total = len(w_picks)
-        wins  = sum(1 for p in w_picks if p["result"]=="WIN")
-        profit= sum(p.get("profit",0) for p in w_picks)
-        summary[f"overall_{window_label}"] = {
-            "wins": wins, "losses": total-wins, "total": total,
-            "win_pct": round(wins/total*100,1) if total else 0,
-            "roi": round(profit/(total*100)*100,1) if total else 0,
-            "profit": round(profit,2),
-        }
-
-    results["summary"] = summary
-    results["last_graded"] = datetime.now(timezone.utc).isoformat()
-
-def record_picks(games, results):
-    """Add today's picks to results (ungraded). Skip duplicates."""
-    existing_games = {p["game"] for p in results["picks"]}
-    today_str = datetime.now(timezone.utc).isoformat()
-    for g in games:
-        if g["game"] in existing_games: continue
-        results["picks"].append({
-            "game":           g["game"],
-            "pick":           g["pick"],
-            "pick_abbr":      g["pick_abbr"],
-            "moneyline":      g["moneyline"],
-            "moneyline_raw":  g.get("home_ml_raw") if g["pick"]==g["home_team"] else g.get("away_ml_raw"),
-            "confidence":     g["confidence"],
-            "win_probability":g["win_probability"],
-            "commence_time":  g.get("commence_time",""),
-            "date":           today_str,
-            "graded":         False,
-            "result":         None,
-            "profit":         None,
-        })
-    # Keep only last 90 days
-    cutoff = datetime.now(timezone.utc) - timedelta(days=90)
-    results["picks"] = [
-        p for p in results["picks"]
-        if datetime.fromisoformat(p.get("date","2000-01-01T00:00:00+00:00")) >= cutoff
-    ]
-
-
-# ─────────────────────────────────────────────────────────────────────────────
-# 4. INJURIES
+# INJURIES
 # ─────────────────────────────────────────────────────────────────────────────
 def fetch_injuries():
-    injuries = {}
+    injuries={}
     try:
-        r = requests.get("https://www.espn.com/nba/injuries", headers=HEADERS, timeout=10)
-        soup = BeautifulSoup(r.content,"html.parser")
+        r=requests.get("https://www.espn.com/nba/injuries",headers=HEADERS,timeout=10)
+        soup=BeautifulSoup(r.content,"html.parser")
         for sec in soup.select(".ResponsiveTable"):
-            t = sec.select_one(".Table__Title")
+            t=sec.select_one(".Table__Title")
             if not t: continue
-            abbr = NBA_TEAM_MAP.get(t.get_text(strip=True), t.get_text(strip=True)[:3].upper())
+            abbr=NBA_TEAM_MAP.get(t.get_text(strip=True),t.get_text(strip=True)[:3].upper())
             for row in sec.select("tr.Table__TR--sm"):
-                cells = row.select("td")
+                cells=row.select("td")
                 if len(cells)>=3:
                     injuries.setdefault(abbr,[]).append({
-                        "player": cells[0].get_text(strip=True),
-                        "status": cells[1].get_text(strip=True),
-                        "reason": cells[2].get_text(strip=True),
+                        "player":cells[0].get_text(strip=True),
+                        "status":cells[1].get_text(strip=True),
+                        "reason":cells[2].get_text(strip=True),
                     })
-        print(f"[INFO] Injuries loaded for {len(injuries)} teams.")
-    except Exception as e:
-        print(f"[WARN] Injuries: {e}")
+        print(f"[INFO] Injuries: {len(injuries)} teams.")
+    except Exception as e: print(f"[WARN] Injuries: {e}")
     return injuries
 
 
 # ─────────────────────────────────────────────────────────────────────────────
-# 5. NEWS
+# NEWS
 # ─────────────────────────────────────────────────────────────────────────────
 def fetch_rss():
-    arts = []
+    arts=[]
     for url in FEED_SOURCES:
         try:
-            feed = feedparser.parse(url)
+            feed=feedparser.parse(url)
             for e in feed.entries[:30]:
                 arts.append({"title":e.get("title",""),"summary":e.get("summary","")[:300],
                              "link":e.get("link",""),"source":feed.feed.get("title",url),
                              "published":e.get("published","")})
-        except Exception as e: print(f"[WARN] RSS {url}: {e}")
+        except Exception as e: print(f"[WARN] RSS: {e}")
     print(f"[INFO] RSS: {len(arts)} articles.")
     return arts
 
-def game_news_rss(t1,t2,arts):
+def game_news(t1,t2,arts):
     kw=[t1.split()[-1],t2.split()[-1],t1,t2]
     out=[]
     for a in arts:
@@ -597,111 +564,236 @@ def game_news_api(t1,t2):
          f"&sortBy=publishedAt&language=en&pageSize=3&apiKey={NEWS_API_KEY}")
     try:
         r=requests.get(url,timeout=8).json()
-        return [{"title":a.get("title",""),"summary":(a.get("description")or"")[:300],
-                 "link":a.get("url",""),"source":(a.get("source")or{}).get("name","NewsAPI"),
+        return [{"title":a.get("title",""),"link":a.get("url",""),
+                 "source":(a.get("source")or{}).get("name","NewsAPI"),
                  "published":a.get("publishedAt","")} for a in r.get("articles",[])]
-    except Exception as e: print(f"[WARN] NewsAPI: {e}"); return []
+    except: return []
 
 
 # ─────────────────────────────────────────────────────────────────────────────
-# 6. REASONING
+# FEATURE 4: STRUCTURED BRIEFING OBJECT
 # ─────────────────────────────────────────────────────────────────────────────
-def build_reasoning(game, injuries):
+def build_structured_briefing(game, injuries, sharp):
+    """
+    Builds a structured 3-section object:
+      trend    — ATS/form trend
+      matchup  — key player vs defence matchup
+      steam    — line/market signal
+    """
     ha=game["home_abbr"]; aa=game["away_abbr"]
     hi=injuries.get(ha,[]); ai=injuries.get(aa,[])
-    inj="; ".join(f"{p['player']} ({p['status']})" for p in (hi+ai)[:4]) or "No significant injuries reported."
-    pick=game["pick"]; prob=game["win_probability"]; dog_prob=round(100-prob,1)
-    dog=game["away_team"] if pick==game["home_team"] else game["home_team"]
+    inj="; ".join(f"{p['player']} ({p['status']})" for p in (hi+ai)[:4]) or "No key injuries."
 
-    fatigue_note = ""
+    lm=game["line_movement"]
+    pm=lm.get("pick",{})
+    op=pm.get("old_ml","—"); np=pm.get("new_ml","—")
+    pts=pm.get("points_moved",0)
+
     hf=game["fatigue"]["home"]; af=game["fatigue"]["away"]
-    if hf["status"] in ["B2B","3IN4"]: fatigue_note += f" {game['home_abbr']} is on a {hf['label']}."
-    if af["status"] in ["B2B","3IN4"]: fatigue_note += f" {game['away_abbr']} is on a {af['label']}."
+    hmi=hf.get("travel_miles",0); ami=af.get("travel_miles",0)
 
-    move_note = ""
-    pm = game["line_movement"]["pick"]
-    if pm["steam"]: move_note = f" 🔥 Sharp steam detected: line moved {pm['points_moved']} pts."
-    elif pm["points_moved"] > 0: move_note = f" Line movement: {pm['label']}."
+    # TREND section
+    trend_parts=[]
+    if game["pick"]==game["home_team"]:
+        trend_parts.append(f"{ha} hold a {game['win_probability']}% implied win probability at home.")
+    else:
+        trend_parts.append(f"{aa} carry a {game['win_probability']}% implied win probability on the road.")
+    if hf["status"] in ["B2B","3IN4"]:
+        trend_parts.append(f"{ha} are on a {hf['label']} — NBA teams on B2B historically win ~42% of games.")
+    if af["status"] in ["B2B","3IN4"]:
+        trend_parts.append(f"{aa} are on a {af['label']}.")
+    if hmi>1500: trend_parts.append(f"{ha} have traveled {hmi:,} miles recently ({hf.get('travel_desc','')}).")
+    if ami>1500: trend_parts.append(f"{aa} have traveled {ami:,} miles recently ({af.get('travel_desc','')}).")
+    trend=" ".join(trend_parts) or f"{game['pick']} hold a {game['win_probability']}% edge."
 
-    r=(f"**{pick} ML ({game['moneyline']})** — {prob}% vs {dog}'s {dog_prob}%, "
-       f"a {round(prob-dog_prob,1)}pt edge. Spread: {game['spread']}.{fatigue_note}{move_note} "
-       f"Injuries: {inj}")
-    return r, inj
+    # MATCHUP section
+    key_inj_home=[p for p in hi if p["status"].lower() in ["out","doubtful","questionable"]]
+    key_inj_away=[p for p in ai if p["status"].lower() in ["out","doubtful","questionable"]]
+    matchup_parts=[]
+    if key_inj_home: matchup_parts.append(f"{ha} injury watch: {', '.join(p['player']+' ('+p['status']+')' for p in key_inj_home[:2])}.")
+    if key_inj_away: matchup_parts.append(f"{aa} injury watch: {', '.join(p['player']+' ('+p['status']+')' for p in key_inj_away[:2])}.")
+    if not matchup_parts: matchup_parts.append(f"Both rosters appear healthy — a clean line to bet.")
+    matchup=" ".join(matchup_parts)
+
+    # STEAM section
+    if pm.get("steam"):
+        steam=f"Line opened at {op}, steamed to {np} — {pts} pt move indicates heavy professional action on {game['pick']}."
+    elif pts>0:
+        steam=f"Line has moved from {op} to {np} ({pts} pts). "
+        if sharp.get("rlm"):
+            steam+=sharp.get("sharp_label","")
+        else:
+            steam+="Gradual movement consistent with normal public action."
+    else:
+        steam="Line has held firm since open — market consensus is stable."
+
+    # Add public sentiment
+    at=sharp.get("away_tickets_pct"); ht=sharp.get("home_tickets_pct")
+    if at is not None and ht is not None:
+        steam+=f" Public split: {aa} {at}% / {ha} {ht}% of tickets. "
+        if sharp.get("rlm"): steam+="⚡ Reverse line movement detected — sharp money opposing public."
+
+    return {"trend":trend, "matchup":matchup, "steam":steam, "injury_notes":inj}
 
 
 # ─────────────────────────────────────────────────────────────────────────────
-# MASTER BUILD
+# RESULTS GRADING
+# ─────────────────────────────────────────────────────────────────────────────
+def fetch_scores_for_grading():
+    if not ODDS_API_KEY: return {}
+    url=f"https://api.the-odds-api.com/v4/sports/basketball_nba/scores/?apiKey={ODDS_API_KEY}&daysFrom=2"
+    try:
+        r=requests.get(url,timeout=10); r.raise_for_status()
+        scores={}
+        for g in r.json():
+            if not g.get("completed"): continue
+            home=g["home_team"]; away=g["away_team"]
+            sc={s["name"]:int(s["score"]) for s in (g.get("scores") or []) if s.get("score")}
+            scores[f"{away} @ {home}"]={
+                "home":home,"away":away,
+                "home_score":sc.get(home,0),"away_score":sc.get(away,0),
+            }
+        return scores
+    except Exception as e: print(f"[WARN] Scores: {e}"); return {}
+
+def load_results():
+    try:
+        with open("results.json") as f: return json.load(f)
+    except: return {"picks":[],"summary":{}}
+
+def save_results(r):
+    with open("results.json","w") as f: json.dump(r,f,indent=2)
+
+def grade_picks(results,scores):
+    changed=False
+    for p in results["picks"]:
+        if p.get("graded"): continue
+        sc=scores.get(p["game"])
+        if not sc: continue
+        winner=sc["home"] if sc["home_score"]>sc["away_score"] else sc["away"]
+        won=winner==p["pick"]
+        p["result"]="WIN" if won else "LOSS"; p["graded"]=True
+        p["home_score"]=sc["home_score"]; p["away_score"]=sc["away_score"]
+        ml=p.get("moneyline_raw",0) or 0
+        p["profit"]=round((ml if ml>0 else 100/abs(ml)*100) if won else -100,2)
+        changed=True
+    if changed: recalc(results)
+    return changed
+
+def recalc(results):
+    from collections import defaultdict
+    b=defaultdict(lambda:{"wins":0,"losses":0,"profit":0.0})
+    now=datetime.now(timezone.utc)
+    for p in results["picks"]:
+        if not p.get("graded"): continue
+        c=p.get("confidence","LOW")
+        b[c]["wins"]   +=1 if p["result"]=="WIN" else 0
+        b[c]["losses"] +=1 if p["result"]=="LOSS" else 0
+        b[c]["profit"] +=p.get("profit",0)
+    s={}
+    for c,v in b.items():
+        t=v["wins"]+v["losses"]
+        s[c]={"wins":v["wins"],"losses":v["losses"],"total":t,
+              "win_pct":round(v["wins"]/t*100,1) if t else 0,
+              "roi":round(v["profit"]/(t*100)*100,1) if t else 0,
+              "profit":round(v["profit"],2)}
+    for lbl,days in [("7d",7),("30d",30)]:
+        cut=now-timedelta(days=days)
+        wp=[p for p in results["picks"] if p.get("graded") and
+            datetime.fromisoformat(p.get("date","2000-01-01T00:00:00+00:00"))>=cut]
+        t=len(wp); w=sum(1 for p in wp if p["result"]=="WIN")
+        pr=sum(p.get("profit",0) for p in wp)
+        s[f"overall_{lbl}"]={"wins":w,"losses":t-w,"total":t,
+                              "win_pct":round(w/t*100,1) if t else 0,
+                              "roi":round(pr/(t*100)*100,1) if t else 0,
+                              "profit":round(pr,2)}
+    results["summary"]=s
+    results["last_graded"]=now.isoformat()
+
+def record_picks(games,results):
+    existing={p["game"] for p in results["picks"]}
+    now=datetime.now(timezone.utc).isoformat()
+    for g in games:
+        if g["game"] in existing: continue
+        ml_raw=g.get("home_ml_raw") if g["pick"]==g["home_team"] else g.get("away_ml_raw")
+        results["picks"].append({
+            "game":g["game"],"pick":g["pick"],"pick_abbr":g["pick_abbr"],
+            "moneyline":g["moneyline"],"moneyline_raw":ml_raw,
+            "confidence":g["confidence"],"win_probability":g["win_probability"],
+            "commence_time":g.get("commence_time",""),"date":now,
+            "graded":False,"result":None,"profit":None,
+        })
+    cut=datetime.now(timezone.utc)-timedelta(days=90)
+    results["picks"]=[p for p in results["picks"]
+                      if datetime.fromisoformat(p.get("date","2000-01-01T00:00:00+00:00"))>=cut]
+
+
+# ─────────────────────────────────────────────────────────────────────────────
+# MASTER
 # ─────────────────────────────────────────────────────────────────────────────
 def build_data():
-    print("[INFO] === ParlAID scraper v3 starting ===")
+    print("[INFO] === ParlAID v4 ===")
 
-    # Step 1: Grade previous picks
-    print("[INFO] Grading previous picks...")
-    results = load_results()
-    scores  = fetch_scores_for_date(None)
-    if scores:
-        graded = grade_pending_picks(results, scores)
-        if graded: print(f"[INFO] Graded new picks.")
+    results=load_results()
+    scores=fetch_scores_for_grading()
+    if scores: grade_picks(results,scores)
 
-    # Step 2: Load previous odds for movement
-    print("[INFO] Loading previous odds snapshot...")
-    prev_odds = load_previous_odds()
+    prev_odds  = load_prev_odds()
+    fatigue    = build_fatigue_map()
+    raw_odds   = fetch_odds()
+    games      = normalise_odds(raw_odds,prev_odds,fatigue)
+    injuries   = fetch_injuries()
+    espn_sb    = fetch_espn_scoreboard()
+    public_data= fetch_public_betting()
+    all_rss    = fetch_rss()
 
-    # Step 3: Fatigue map
-    print("[INFO] Building fatigue map...")
-    fatigue = build_fatigue_map()
-
-    # Step 4: Fetch fresh odds
-    print("[INFO] Fetching live odds...")
-    raw = fetch_odds()
-    games = normalise_odds(raw, prev_odds, fatigue)
-    print(f"[INFO] {len(games)} games normalised.")
-
-    # Step 5: Injuries and news
-    print("[INFO] Fetching injuries...")
-    injuries = fetch_injuries()
-    print("[INFO] Fetching RSS news...")
-    all_rss = fetch_rss()
-
-    # Step 6: Enrich each game
-    output = []
+    output=[]
     for g in games:
         home=g["home_team"]; away=g["away_team"]
-        news = game_news_rss(home,away,all_rss)
-        if not news:
-            news = game_news_api(home,away); time.sleep(0.25)
-        reasoning, inj_text = build_reasoning(g, injuries)
+        ns=game_news(home,away,all_rss) or game_news_api(home,away)
+        if not game_news(home,away,all_rss): time.sleep(0.2)
+
+        sharp=enrich_sharp_signal(g,public_data,g["line_movement"])
+        briefing=build_structured_briefing(g,injuries,sharp)
+
+        # Attach live score data if game is in progress
+        live=espn_sb.get(g["game"],espn_sb.get(f"{g['away_abbr']} @ {g['home_abbr']}",{}))
+
         output.append({
             **g,
-            "reasoning":    reasoning,
-            "injury_notes": inj_text,
-            "news": [{"title":n["title"],"source":n["source"],
-                      "link":n["link"],"published":n.get("published","")}
-                     for n in news[:3]],
+            "briefing":   briefing,
+            "injury_notes":briefing["injury_notes"],
+            "sharp":      sharp,
+            "live": {
+                "status":         live.get("status","pre"),
+                "status_detail":  live.get("status_detail","Upcoming"),
+                "period":         live.get("period",0),
+                "clock":          live.get("clock",""),
+                "home_score":     live.get("home_score",0),
+                "away_score":     live.get("away_score",0),
+                "spread_alert":   live.get("spread_alert"),
+                "espn_spread":    live.get("espn_spread",""),
+            },
+            "news":[{"title":n["title"],"source":n["source"],
+                     "link":n["link"],"published":n.get("published","")}
+                    for n in ns[:3]],
         })
 
-    # Step 7: Record today's picks
-    record_picks(output, results)
+    record_picks(output,results)
     save_results(results)
-    print(f"[INFO] results.json updated — {len(results['picks'])} total picks.")
 
-    # Step 8: Write data.json
-    payload = {
-        "last_updated": datetime.now(timezone.utc).strftime("%B %d, %Y at %I:%M %p UTC"),
-        "total_games":  len(output),
-        "games":        output,
-        "track_record": results.get("summary", {}),
+    payload={
+        "last_updated":datetime.now(timezone.utc).strftime("%B %d, %Y at %I:%M %p UTC"),
+        "total_games":len(output),
+        "games":output,
+        "track_record":results.get("summary",{}),
     }
-    with open("data.json","w") as f:
-        json.dump(payload, f, indent=2)
-
+    with open("data.json","w") as f: json.dump(payload,f,indent=2)
     print(f"[DONE] data.json — {len(output)} games.")
     for g in output:
-        fat_h = g["fatigue"]["home"]["status"]
-        fat_a = g["fatigue"]["away"]["status"]
-        mv    = g["line_movement"]["pick"]["label"]
-        print(f"  {g['game']:45s}  {g['pick']:25s}  {g['confidence']}  H:{fat_h} A:{fat_a}  {mv}")
+        live_s=g["live"]["status_detail"]
+        sharp_s=g["sharp"].get("sharp_label","—")
+        print(f"  {g['game']:42s}  {g['pick']:22s}  {g['confidence']}  LIVE:{live_s}  {sharp_s[:40]}")
 
-
-if __name__ == "__main__":
+if __name__=="__main__":
     build_data()
