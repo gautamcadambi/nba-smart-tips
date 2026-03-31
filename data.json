@@ -1,5 +1,5 @@
 {
-  "last_updated": "March 31, 2026 at 10:15 AM UTC",
+  "last_updated": "March 31, 2026 at 02:51 PM UTC",
   "total_games": 7,
   "games": [
     {
@@ -8,47 +8,47 @@
       "away_team": "Phoenix Suns",
       "home_abbr": "ORL",
       "away_abbr": "PHX",
-      "home_ml": "-135",
-      "away_ml": "+114",
-      "home_ml_raw": -135,
-      "away_ml_raw": 114,
-      "home_prob": 55.1,
-      "away_prob": 44.9,
-      "spread": "ORL -2.5",
+      "home_ml": "-125",
+      "away_ml": "+105",
+      "home_ml_raw": -125,
+      "away_ml_raw": 105,
+      "home_prob": 53.2,
+      "away_prob": 46.8,
+      "spread": "ORL -1.5",
       "favorite": "Orlando Magic",
       "pick": "Orlando Magic",
       "pick_abbr": "ORL",
-      "moneyline": "-135",
-      "win_probability": 55.1,
+      "moneyline": "-125",
+      "win_probability": 53.2,
       "confidence": "LOW",
       "confidence_stars": "\u2605\u2606\u2606",
       "commence_time": "2026-03-31T23:10:00Z",
       "line_movement": {
         "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "longer",
+          "points_moved": 10,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -125 \u2190 -135",
           "old_ml": "-135",
-          "new_ml": "-135"
+          "new_ml": "-125"
         },
         "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "shorter",
+          "points_moved": 9,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM +105 \u2190 +114",
           "old_ml": "+114",
-          "new_ml": "+114"
+          "new_ml": "+105"
         },
         "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "longer",
+          "points_moved": 10,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -125 \u2190 -135",
           "old_ml": "-135",
-          "new_ml": "-135"
+          "new_ml": "-125"
         },
-        "snapshot_time": "March 31, 2026 at 05:58 AM UTC"
+        "snapshot_time": "March 31, 2026 at 10:15 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -75,6 +75,7 @@
         }
       },
       "edge_factors": [
+        "\ud83d\udd25 Sharp steam detected",
         "\ud83d\udca4 PHX fatigued (B2B) \u2014 source: ESPN"
       ],
       "injury_notes": "Anthony Black (G); Jonathan Isaac (F); Franz Wagner (F); Dillon Brooks (F)",
@@ -114,7 +115,7 @@
       "briefing": {
         "trend": "PHX on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "steam": "Line steamed from -135 to -125 (10pt move) \u2014 heavy professional action on Orlando Magic.",
         "injury_notes": "Anthony Black (G); Jonathan Isaac (F); Franz Wagner (F); Dillon Brooks (F)"
       },
       "live": {
@@ -128,22 +129,22 @@
       },
       "news": [
         {
-          "title": "NBA standings: Who's in, out of playoffs if season ended today?",
-          "source": "USA Today",
-          "link": "https://www.usatoday.com/story/sports/nba/2026/03/30/nba-standings-playoff-bracket/89382179007/",
-          "published": "2026-03-30T10:06:18Z"
+          "title": "Cavaliers vs Jazz Prediction, Picks & Odds for Tonight\u2019s NBA Game",
+          "source": "Covers.com",
+          "link": "https://www.covers.com/nba/cavaliers-vs-jazz-prediction-picks-best-bets-sgp-monday-3-30-2026",
+          "published": "2026-03-30T14:49:17Z"
         },
         {
-          "title": "GTA 6 price hint suggests fans won't face a $100 nightmare after all, according to clues from Take-Two's CEO Strauss Zelnick",
-          "source": "Windows Central",
-          "link": "https://www.windowscentral.com/gaming/gta-6-price-hint-suggests-fans-wont-face-a-100-dollar-nightmare",
-          "published": "2026-03-30T10:01:00Z"
+          "title": "Mantis Biotech is making 'digital twins' of humans to help solve medicine's data availability problem | TechCrunch",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/03/30/mantis-biotech-is-making-digital-twins-of-humans-to-help-solve-medicines-data-availability-problem/",
+          "published": "2026-03-30T14:48:42Z"
         },
         {
-          "title": "New NBA owner played key role at company accused of predatory lending",
-          "source": "Salon",
-          "link": "https://www.salon.com/2026/03/30/new-nba-owner-played-key-role-at-company-accused-of-predatory-lending-partner/",
-          "published": "2026-03-30T10:00:13Z"
+          "title": "Bill Simmons Throws Cold Water On Las Vegas, And NBA, Expansion",
+          "source": "Casinoreports.com",
+          "link": "https://www.casinoreports.com/bill-simmons-podcast-vegas-nba-expansion/",
+          "published": "2026-03-30T14:47:54Z"
         }
       ]
     },
@@ -153,47 +154,47 @@
       "away_team": "Charlotte Hornets",
       "home_abbr": "BKN",
       "away_abbr": "CHA",
-      "home_ml": "+850",
-      "away_ml": "-1450",
-      "home_ml_raw": 850,
-      "away_ml_raw": -1450,
-      "home_prob": 10.1,
-      "away_prob": 89.9,
-      "spread": "BKN +15.5",
+      "home_ml": "+1000",
+      "away_ml": "-1800",
+      "home_ml_raw": 1000,
+      "away_ml_raw": -1800,
+      "home_prob": 8.8,
+      "away_prob": 91.2,
+      "spread": "BKN +17.5",
       "favorite": "Charlotte Hornets",
       "pick": "Charlotte Hornets",
       "pick_abbr": "CHA",
-      "moneyline": "-1450",
-      "win_probability": 89.9,
+      "moneyline": "-1800",
+      "win_probability": 91.2,
       "confidence": "HIGH",
       "confidence_stars": "\u2605\u2605\u2605",
       "commence_time": "2026-03-31T23:40:00Z",
       "line_movement": {
         "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "longer",
+          "points_moved": 150,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM +1000 \u2190 +850",
           "old_ml": "+850",
-          "new_ml": "+850"
+          "new_ml": "+1000"
         },
         "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "shorter",
+          "points_moved": 350,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -1800 \u2190 -1450",
           "old_ml": "-1450",
-          "new_ml": "-1450"
+          "new_ml": "-1800"
         },
         "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "shorter",
+          "points_moved": 350,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -1800 \u2190 -1450",
           "old_ml": "-1450",
-          "new_ml": "-1450"
+          "new_ml": "-1800"
         },
-        "snapshot_time": "March 31, 2026 at 05:58 AM UTC"
+        "snapshot_time": "March 31, 2026 at 10:15 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -220,6 +221,7 @@
         }
       },
       "edge_factors": [
+        "\ud83d\udd25 Sharp steam detected",
         "\u2708\ufe0f BKN traveled 2,449 mi"
       ],
       "injury_notes": "Jalen Wilson (F); Danny Wolf (F); Terance Mann (G); Michael Porter Jr. (F)",
@@ -257,9 +259,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "Charlotte Hornets hold a 89.9% edge.",
+        "trend": "Charlotte Hornets hold a 91.2% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "steam": "Line steamed from -1450 to -1800 (350pt move) \u2014 heavy professional action on Charlotte Hornets.",
         "injury_notes": "Jalen Wilson (F); Danny Wolf (F); Terance Mann (G); Michael Porter Jr. (F)"
       },
       "live": {
@@ -273,22 +275,22 @@
       },
       "news": [
         {
-          "title": "NBA standings: Who's in, out of playoffs if season ended today?",
-          "source": "USA Today",
-          "link": "https://www.usatoday.com/story/sports/nba/2026/03/30/nba-standings-playoff-bracket/89382179007/",
-          "published": "2026-03-30T10:06:18Z"
+          "title": "Cavaliers vs Jazz Prediction, Picks & Odds for Tonight\u2019s NBA Game",
+          "source": "Covers.com",
+          "link": "https://www.covers.com/nba/cavaliers-vs-jazz-prediction-picks-best-bets-sgp-monday-3-30-2026",
+          "published": "2026-03-30T14:49:17Z"
         },
         {
-          "title": "GTA 6 price hint suggests fans won't face a $100 nightmare after all, according to clues from Take-Two's CEO Strauss Zelnick",
-          "source": "Windows Central",
-          "link": "https://www.windowscentral.com/gaming/gta-6-price-hint-suggests-fans-wont-face-a-100-dollar-nightmare",
-          "published": "2026-03-30T10:01:00Z"
+          "title": "Mantis Biotech is making 'digital twins' of humans to help solve medicine's data availability problem | TechCrunch",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/03/30/mantis-biotech-is-making-digital-twins-of-humans-to-help-solve-medicines-data-availability-problem/",
+          "published": "2026-03-30T14:48:42Z"
         },
         {
-          "title": "New NBA owner played key role at company accused of predatory lending",
-          "source": "Salon",
-          "link": "https://www.salon.com/2026/03/30/new-nba-owner-played-key-role-at-company-accused-of-predatory-lending-partner/",
-          "published": "2026-03-30T10:00:13Z"
+          "title": "Bill Simmons Throws Cold Water On Las Vegas, And NBA, Expansion",
+          "source": "Casinoreports.com",
+          "link": "https://www.casinoreports.com/bill-simmons-podcast-vegas-nba-expansion/",
+          "published": "2026-03-30T14:47:54Z"
         }
       ]
     },
@@ -298,47 +300,47 @@
       "away_team": "Dallas Mavericks",
       "home_abbr": "MIL",
       "away_abbr": "DAL",
-      "home_ml": "-110",
-      "away_ml": "-110",
-      "home_ml_raw": -110,
-      "away_ml_raw": -110,
-      "home_prob": 50.0,
-      "away_prob": 50.0,
+      "home_ml": "-105",
+      "away_ml": "-115",
+      "home_ml_raw": -105,
+      "away_ml_raw": -115,
+      "home_prob": 48.9,
+      "away_prob": 51.1,
       "spread": "MIL +1.5",
-      "favorite": "Milwaukee Bucks",
-      "pick": "Milwaukee Bucks",
-      "pick_abbr": "MIL",
-      "moneyline": "-110",
-      "win_probability": 50.0,
+      "favorite": "Dallas Mavericks",
+      "pick": "Dallas Mavericks",
+      "pick_abbr": "DAL",
+      "moneyline": "-115",
+      "win_probability": 51.1,
       "confidence": "LOW",
       "confidence_stars": "\u2605\u2606\u2606",
       "commence_time": "2026-04-01T00:10:00Z",
       "line_movement": {
         "home": {
-          "direction": "none",
-          "points_moved": 0,
+          "direction": "longer",
+          "points_moved": 5,
           "steam": false,
-          "label": "No movement",
+          "label": "\ud83d\udd34 -105 \u2190 -110",
           "old_ml": "-110",
-          "new_ml": "-110"
+          "new_ml": "-105"
         },
         "away": {
-          "direction": "none",
-          "points_moved": 0,
+          "direction": "shorter",
+          "points_moved": 5,
           "steam": false,
-          "label": "No movement",
+          "label": "\ud83d\udfe2 -115 \u2190 -110",
           "old_ml": "-110",
-          "new_ml": "-110"
+          "new_ml": "-115"
         },
         "pick": {
-          "direction": "none",
-          "points_moved": 0,
+          "direction": "shorter",
+          "points_moved": 5,
           "steam": false,
-          "label": "No movement",
+          "label": "\ud83d\udfe2 -115 \u2190 -110",
           "old_ml": "-110",
-          "new_ml": "-110"
+          "new_ml": "-115"
         },
-        "snapshot_time": "March 31, 2026 at 05:58 AM UTC"
+        "snapshot_time": "March 31, 2026 at 10:15 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -365,7 +367,7 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udca4 DAL fatigued (B2B) \u2014 source: ESPN"
+        "\ud83d\udcca 2.2pt probability edge"
       ],
       "injury_notes": "Gary Harris (G); Thanasis Antetokounmpo (F); Kyle Kuzma (F); Bobby Portis (F)",
       "sharp": {
@@ -404,7 +406,7 @@
       "briefing": {
         "trend": "DAL on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "steam": "Line moved -110\u2192-115 (5pts). Pending \u2014 check closer to tip-off",
         "injury_notes": "Gary Harris (G); Thanasis Antetokounmpo (F); Kyle Kuzma (F); Bobby Portis (F)"
       },
       "live": {
@@ -418,22 +420,10 @@
       },
       "news": [
         {
-          "title": "NBA standings: Who's in, out of playoffs if season ended today?",
-          "source": "USA Today",
-          "link": "https://www.usatoday.com/story/sports/nba/2026/03/30/nba-standings-playoff-bracket/89382179007/",
-          "published": "2026-03-30T10:06:18Z"
-        },
-        {
-          "title": "GTA 6 price hint suggests fans won't face a $100 nightmare after all, according to clues from Take-Two's CEO Strauss Zelnick",
-          "source": "Windows Central",
-          "link": "https://www.windowscentral.com/gaming/gta-6-price-hint-suggests-fans-wont-face-a-100-dollar-nightmare",
-          "published": "2026-03-30T10:01:00Z"
-        },
-        {
-          "title": "New NBA owner played key role at company accused of predatory lending",
-          "source": "Salon",
-          "link": "https://www.salon.com/2026/03/30/new-nba-owner-played-key-role-at-company-accused-of-predatory-lending-partner/",
-          "published": "2026-03-30T10:00:13Z"
+          "title": "Cuban: I regret selling Mavs to Adelson, Dumont",
+          "source": "www.espn.com - NBA",
+          "link": "https://www.espn.com/nba/story/_/id/48356499/mark-cuban-says-regrets-selling-mavericks-adelson-dumont-families",
+          "published": "Tue, 31 Mar 2026 10:28:02 EST"
         }
       ]
     },
@@ -443,47 +433,47 @@
       "away_team": "Toronto Raptors",
       "home_abbr": "DET",
       "away_abbr": "TOR",
-      "home_ml": "-142",
-      "away_ml": "+120",
-      "home_ml_raw": -142,
-      "away_ml_raw": 120,
-      "home_prob": 56.3,
-      "away_prob": 43.7,
+      "home_ml": "-135",
+      "away_ml": "+114",
+      "home_ml_raw": -135,
+      "away_ml_raw": 114,
+      "home_prob": 55.1,
+      "away_prob": 44.9,
       "spread": "DET -2.5",
       "favorite": "Detroit Pistons",
       "pick": "Detroit Pistons",
       "pick_abbr": "DET",
-      "moneyline": "-142",
-      "win_probability": 56.3,
+      "moneyline": "-135",
+      "win_probability": 55.1,
       "confidence": "LOW",
       "confidence_stars": "\u2605\u2606\u2606",
       "commence_time": "2026-04-01T00:10:00Z",
       "line_movement": {
         "home": {
-          "direction": "none",
-          "points_moved": 0,
+          "direction": "longer",
+          "points_moved": 7,
           "steam": false,
-          "label": "No movement",
+          "label": "\ud83d\udd34 -135 \u2190 -142",
           "old_ml": "-142",
-          "new_ml": "-142"
+          "new_ml": "-135"
         },
         "away": {
-          "direction": "none",
-          "points_moved": 0,
+          "direction": "shorter",
+          "points_moved": 6,
           "steam": false,
-          "label": "No movement",
+          "label": "\ud83d\udfe2 +114 \u2190 +120",
           "old_ml": "+120",
-          "new_ml": "+120"
+          "new_ml": "+114"
         },
         "pick": {
-          "direction": "none",
-          "points_moved": 0,
+          "direction": "longer",
+          "points_moved": 7,
           "steam": false,
-          "label": "No movement",
+          "label": "\ud83d\udd34 -135 \u2190 -142",
           "old_ml": "-142",
-          "new_ml": "-142"
+          "new_ml": "-135"
         },
-        "snapshot_time": "March 31, 2026 at 05:58 AM UTC"
+        "snapshot_time": "March 31, 2026 at 10:15 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -510,7 +500,7 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udcca 12.6pt probability edge"
+        "\ud83d\udcca 10.2pt probability edge"
       ],
       "injury_notes": "Duncan Robinson (F); Tobias Harris (F); Jalen Duren (C); Isaiah Stewart (F)",
       "sharp": {
@@ -549,7 +539,7 @@
       "briefing": {
         "trend": "DET on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "steam": "Line moved -142\u2192-135 (7pts). Pending \u2014 check closer to tip-off",
         "injury_notes": "Duncan Robinson (F); Tobias Harris (F); Jalen Duren (C); Isaiah Stewart (F)"
       },
       "live": {
@@ -563,22 +553,10 @@
       },
       "news": [
         {
-          "title": "NBA standings: Who's in, out of playoffs if season ended today?",
-          "source": "USA Today",
-          "link": "https://www.usatoday.com/story/sports/nba/2026/03/30/nba-standings-playoff-bracket/89382179007/",
-          "published": "2026-03-30T10:06:18Z"
-        },
-        {
-          "title": "GTA 6 price hint suggests fans won't face a $100 nightmare after all, according to clues from Take-Two's CEO Strauss Zelnick",
-          "source": "Windows Central",
-          "link": "https://www.windowscentral.com/gaming/gta-6-price-hint-suggests-fans-wont-face-a-100-dollar-nightmare",
-          "published": "2026-03-30T10:01:00Z"
-        },
-        {
-          "title": "New NBA owner played key role at company accused of predatory lending",
-          "source": "Salon",
-          "link": "https://www.salon.com/2026/03/30/new-nba-owner-played-key-role-at-company-accused-of-predatory-lending-partner/",
-          "published": "2026-03-30T10:00:13Z"
+          "title": "Ujiri joins ownership group of Toronto Tempo",
+          "source": "www.espn.com - NBA",
+          "link": "https://www.espn.com/wnba/story/_/id/48354693/masai-ujiri-joins-ownership-group-wnba-toronto-tempo",
+          "published": "Tue, 31 Mar 2026 10:28:01 EST"
         }
       ]
     },
@@ -588,47 +566,47 @@
       "away_team": "New York Knicks",
       "home_abbr": "HOU",
       "away_abbr": "NYK",
-      "home_ml": "-105",
-      "away_ml": "-115",
-      "home_ml_raw": -105,
-      "away_ml_raw": -115,
-      "home_prob": 48.9,
-      "away_prob": 51.1,
+      "home_ml": "-108",
+      "away_ml": "-112",
+      "home_ml_raw": -108,
+      "away_ml_raw": -112,
+      "home_prob": 49.6,
+      "away_prob": 50.4,
       "spread": "HOU +1.5",
       "favorite": "New York Knicks",
       "pick": "New York Knicks",
       "pick_abbr": "NYK",
-      "moneyline": "-115",
-      "win_probability": 51.1,
+      "moneyline": "-112",
+      "win_probability": 50.4,
       "confidence": "LOW",
       "confidence_stars": "\u2605\u2606\u2606",
       "commence_time": "2026-04-01T00:10:00Z",
       "line_movement": {
         "home": {
-          "direction": "none",
-          "points_moved": 0,
+          "direction": "shorter",
+          "points_moved": 3,
           "steam": false,
-          "label": "No movement",
+          "label": "\ud83d\udfe2 -108 \u2190 -105",
           "old_ml": "-105",
-          "new_ml": "-105"
+          "new_ml": "-108"
         },
         "away": {
-          "direction": "none",
-          "points_moved": 0,
+          "direction": "longer",
+          "points_moved": 3,
           "steam": false,
-          "label": "No movement",
+          "label": "\ud83d\udd34 -112 \u2190 -115",
           "old_ml": "-115",
-          "new_ml": "-115"
+          "new_ml": "-112"
         },
         "pick": {
-          "direction": "none",
-          "points_moved": 0,
+          "direction": "longer",
+          "points_moved": 3,
           "steam": false,
-          "label": "No movement",
+          "label": "\ud83d\udd34 -112 \u2190 -115",
           "old_ml": "-115",
-          "new_ml": "-115"
+          "new_ml": "-112"
         },
-        "snapshot_time": "March 31, 2026 at 05:58 AM UTC"
+        "snapshot_time": "March 31, 2026 at 10:15 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -655,7 +633,7 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udcca 2.2pt probability edge"
+        "\ud83d\udcca 0.8pt probability edge"
       ],
       "injury_notes": "Steven Adams (C); Fred VanVleet (G); Landry Shamet (G); Miles McBride (G)",
       "sharp": {
@@ -692,9 +670,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "New York Knicks hold a 51.1% edge.",
+        "trend": "New York Knicks hold a 50.4% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "steam": "Line moved -115\u2192-112 (3pts). Pending \u2014 check closer to tip-off",
         "injury_notes": "Steven Adams (C); Fred VanVleet (G); Landry Shamet (G); Miles McBride (G)"
       },
       "live": {
@@ -708,22 +686,22 @@
       },
       "news": [
         {
-          "title": "NBA standings: Who's in, out of playoffs if season ended today?",
-          "source": "USA Today",
-          "link": "https://www.usatoday.com/story/sports/nba/2026/03/30/nba-standings-playoff-bracket/89382179007/",
-          "published": "2026-03-30T10:06:18Z"
+          "title": "Cavaliers vs Jazz Prediction, Picks & Odds for Tonight\u2019s NBA Game",
+          "source": "Covers.com",
+          "link": "https://www.covers.com/nba/cavaliers-vs-jazz-prediction-picks-best-bets-sgp-monday-3-30-2026",
+          "published": "2026-03-30T14:49:17Z"
         },
         {
-          "title": "GTA 6 price hint suggests fans won't face a $100 nightmare after all, according to clues from Take-Two's CEO Strauss Zelnick",
-          "source": "Windows Central",
-          "link": "https://www.windowscentral.com/gaming/gta-6-price-hint-suggests-fans-wont-face-a-100-dollar-nightmare",
-          "published": "2026-03-30T10:01:00Z"
+          "title": "Mantis Biotech is making 'digital twins' of humans to help solve medicine's data availability problem | TechCrunch",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/03/30/mantis-biotech-is-making-digital-twins-of-humans-to-help-solve-medicines-data-availability-problem/",
+          "published": "2026-03-30T14:48:42Z"
         },
         {
-          "title": "New NBA owner played key role at company accused of predatory lending",
-          "source": "Salon",
-          "link": "https://www.salon.com/2026/03/30/new-nba-owner-played-key-role-at-company-accused-of-predatory-lending-partner/",
-          "published": "2026-03-30T10:00:13Z"
+          "title": "Bill Simmons Throws Cold Water On Las Vegas, And NBA, Expansion",
+          "source": "Casinoreports.com",
+          "link": "https://www.casinoreports.com/bill-simmons-podcast-vegas-nba-expansion/",
+          "published": "2026-03-30T14:47:54Z"
         }
       ]
     },
@@ -733,47 +711,47 @@
       "away_team": "Cleveland Cavaliers",
       "home_abbr": "LAL",
       "away_abbr": "CLE",
-      "home_ml": "-125",
-      "away_ml": "+105",
-      "home_ml_raw": -125,
-      "away_ml_raw": 105,
-      "home_prob": 53.2,
-      "away_prob": 46.8,
-      "spread": "LAL -1.5",
+      "home_ml": "-130",
+      "away_ml": "+110",
+      "home_ml_raw": -130,
+      "away_ml_raw": 110,
+      "home_prob": 54.3,
+      "away_prob": 45.7,
+      "spread": "LAL -2.5",
       "favorite": "Los Angeles Lakers",
       "pick": "Los Angeles Lakers",
       "pick_abbr": "LAL",
-      "moneyline": "-125",
-      "win_probability": 53.2,
+      "moneyline": "-130",
+      "win_probability": 54.3,
       "confidence": "LOW",
       "confidence_stars": "\u2605\u2606\u2606",
       "commence_time": "2026-04-01T02:40:00Z",
       "line_movement": {
         "home": {
-          "direction": "none",
-          "points_moved": 0,
+          "direction": "shorter",
+          "points_moved": 5,
           "steam": false,
-          "label": "No movement",
+          "label": "\ud83d\udfe2 -130 \u2190 -125",
           "old_ml": "-125",
-          "new_ml": "-125"
+          "new_ml": "-130"
         },
         "away": {
-          "direction": "none",
-          "points_moved": 0,
+          "direction": "longer",
+          "points_moved": 5,
           "steam": false,
-          "label": "No movement",
+          "label": "\ud83d\udd34 +110 \u2190 +105",
           "old_ml": "+105",
-          "new_ml": "+105"
+          "new_ml": "+110"
         },
         "pick": {
-          "direction": "none",
-          "points_moved": 0,
+          "direction": "shorter",
+          "points_moved": 5,
           "steam": false,
-          "label": "No movement",
+          "label": "\ud83d\udfe2 -130 \u2190 -125",
           "old_ml": "-125",
-          "new_ml": "-125"
+          "new_ml": "-130"
         },
-        "snapshot_time": "March 31, 2026 at 05:58 AM UTC"
+        "snapshot_time": "March 31, 2026 at 10:15 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -839,7 +817,7 @@
       "briefing": {
         "trend": "LAL on Back-to-Back \u26a0\ufe0f per ESPN schedule data. CLE on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "steam": "Line moved -125\u2192-130 (5pts). Pending \u2014 check closer to tip-off",
         "injury_notes": "Adou Thiero (F); Marcus Smart (G); Max Strus (G); Jarrett Allen (C)"
       },
       "live": {
@@ -853,10 +831,16 @@
       },
       "news": [
         {
+          "title": "Six free agency options for LeBron, according to NBA coaches, execs and scouts",
+          "source": "www.espn.com - NBA",
+          "link": "https://www.espn.com/nba/story/_/id/48323320/next-lebron-nba-insiders-lakers-warriors-cavs-free-agency-options",
+          "published": "Tue, 31 Mar 2026 10:24:28 EST"
+        },
+        {
           "title": "Lakers' Redick stumps for Doncic to be NBA MVP",
           "source": "www.espn.com - NBA",
           "link": "https://www.espn.com/nba/story/_/id/48352643/luka-doncic-mvp-lakers-stay-hot-jj-redick-says",
-          "published": "Tue, 31 Mar 2026 02:52:01 EST"
+          "published": "Tue, 31 Mar 2026 10:28:00 EST"
         }
       ]
     },
@@ -866,47 +850,47 @@
       "away_team": "Portland Trail Blazers",
       "home_abbr": "LAC",
       "away_abbr": "POR",
-      "home_ml": "-218",
-      "away_ml": "+180",
-      "home_ml_raw": -218,
-      "away_ml_raw": 180,
-      "home_prob": 65.7,
-      "away_prob": 34.3,
+      "home_ml": "-225",
+      "away_ml": "+185",
+      "home_ml_raw": -225,
+      "away_ml_raw": 185,
+      "home_prob": 66.4,
+      "away_prob": 33.6,
       "spread": "LAC -5.5",
       "favorite": "Los Angeles Clippers",
       "pick": "Los Angeles Clippers",
       "pick_abbr": "LAC",
-      "moneyline": "-218",
-      "win_probability": 65.7,
+      "moneyline": "-225",
+      "win_probability": 66.4,
       "confidence": "MEDIUM",
       "confidence_stars": "\u2605\u2605\u2606",
       "commence_time": "2026-04-01T03:10:00Z",
       "line_movement": {
         "home": {
-          "direction": "none",
-          "points_moved": 0,
+          "direction": "shorter",
+          "points_moved": 7,
           "steam": false,
-          "label": "No movement",
+          "label": "\ud83d\udfe2 -225 \u2190 -218",
           "old_ml": "-218",
-          "new_ml": "-218"
+          "new_ml": "-225"
         },
         "away": {
-          "direction": "none",
-          "points_moved": 0,
+          "direction": "longer",
+          "points_moved": 5,
           "steam": false,
-          "label": "No movement",
+          "label": "\ud83d\udd34 +185 \u2190 +180",
           "old_ml": "+180",
-          "new_ml": "+180"
+          "new_ml": "+185"
         },
         "pick": {
-          "direction": "none",
-          "points_moved": 0,
+          "direction": "shorter",
+          "points_moved": 7,
           "steam": false,
-          "label": "No movement",
+          "label": "\ud83d\udfe2 -225 \u2190 -218",
           "old_ml": "-218",
-          "new_ml": "-218"
+          "new_ml": "-225"
         },
-        "snapshot_time": "March 31, 2026 at 05:58 AM UTC"
+        "snapshot_time": "March 31, 2026 at 10:15 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -933,7 +917,7 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udcca 31.4pt probability edge"
+        "\ud83d\udcca 32.8pt probability edge"
       ],
       "injury_notes": "Isaiah Jackson (F); Yanic Konan Niederhauser (C); Bradley Beal (G); Jerami Grant (F)",
       "sharp": {
@@ -970,9 +954,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "Los Angeles Clippers hold a 65.7% edge.",
+        "trend": "Los Angeles Clippers hold a 66.4% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "steam": "Line moved -218\u2192-225 (7pts). Pending \u2014 check closer to tip-off",
         "injury_notes": "Isaiah Jackson (F); Yanic Konan Niederhauser (C); Bradley Beal (G); Jerami Grant (F)"
       },
       "live": {
@@ -986,10 +970,22 @@
       },
       "news": [
         {
-          "title": "NBA approves Trail Blazers' sale to Dundon group",
-          "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/nba/story/_/id/48350814/nba-board-governors-approves-portland-trail-blazers-sale-group-led-tom-dundon",
-          "published": "Tue, 31 Mar 2026 02:52:01 EST"
+          "title": "Cavaliers vs Jazz Prediction, Picks & Odds for Tonight\u2019s NBA Game",
+          "source": "Covers.com",
+          "link": "https://www.covers.com/nba/cavaliers-vs-jazz-prediction-picks-best-bets-sgp-monday-3-30-2026",
+          "published": "2026-03-30T14:49:17Z"
+        },
+        {
+          "title": "Mantis Biotech is making 'digital twins' of humans to help solve medicine's data availability problem | TechCrunch",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/03/30/mantis-biotech-is-making-digital-twins-of-humans-to-help-solve-medicines-data-availability-problem/",
+          "published": "2026-03-30T14:48:42Z"
+        },
+        {
+          "title": "Bill Simmons Throws Cold Water On Las Vegas, And NBA, Expansion",
+          "source": "Casinoreports.com",
+          "link": "https://www.casinoreports.com/bill-simmons-podcast-vegas-nba-expansion/",
+          "published": "2026-03-30T14:47:54Z"
         }
       ]
     }
