@@ -1,10 +1,10 @@
-name: ParlAID — Live NBA Sync
+name: ParlAID — Live NBA Sync v4
 
 on:
   schedule:
-    - cron: '*/20 11-13 * * *'   # 4:30–6:30 PM IST early games
-    - cron: '*/20 22-23 * * *'   # 3:30–5:00 AM IST prime window
-    - cron: '*/20 0-5 * * *'     # 5:30–11:00 AM IST late games
+    - cron: '*/20 11-13 * * *'
+    - cron: '*/20 22-23 * * *'
+    - cron: '*/20 0-5 * * *'
   workflow_dispatch:
 
 jobs:
@@ -36,13 +36,14 @@ jobs:
       - name: Validate outputs
         run: |
           python -c "
-          import json, sys
+          import json
           with open('data.json') as f:
               d = json.load(f)
-          print(f'data.json OK — {d[\"total_games\"]} games')
+          print(f'data.json OK — {d[\"total_games\"]} games, updated {d[\"last_updated\"]}')
           tr = d.get('track_record', {})
-          if tr:
-              print(f'Track record: {json.dumps(tr, indent=2)}')
+          for k,v in tr.items():
+              if isinstance(v, dict) and v.get('total', 0) > 0:
+                  print(f'  {k}: {v[\"win_pct\"]}% W ({v[\"wins\"]}-{v[\"losses\"]}) ROI:{v[\"roi\"]}%')
           "
 
       - name: Commit and push
@@ -51,6 +52,6 @@ jobs:
           git config --global user.email "bot@parlaid.github.io"
           git add data.json results.json || true
           git diff --staged --quiet && echo "No changes." || (
-            git commit -m "⚡ ParlAID sync: $(date -u '+%Y-%m-%d %H:%M UTC')"
+            git commit -m "⚡ ParlAID v4: $(date -u '+%Y-%m-%d %H:%M UTC')"
             git push
           )
