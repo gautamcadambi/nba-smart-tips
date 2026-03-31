@@ -1,5 +1,5 @@
 {
-  "last_updated": "March 31, 2026 at 05:58 AM UTC",
+  "last_updated": "March 31, 2026 at 10:15 AM UTC",
   "total_games": 7,
   "games": [
     {
@@ -48,49 +48,74 @@
           "old_ml": "-135",
           "new_ml": "-135"
         },
-        "snapshot_time": "March 31, 2026 at 05:15 AM UTC"
+        "snapshot_time": "March 31, 2026 at 05:58 AM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "3IN4",
-          "label": "3rd in 4 nights \ud83d\udd34",
-          "battery": 40,
-          "last_game": "Mar 31",
-          "games_last_4d": 5,
-          "days_rest": 0,
-          "travel_miles": 0,
-          "travel_desc": "",
-          "cross_trip": false
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
+          "last_game": "Mar 29",
+          "days_rest": 2,
+          "games_last_4d": 1,
+          "travel_miles": 1049,
+          "travel_desc": "1,049 mi road trip",
+          "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "3IN4",
-          "label": "3rd in 4 nights \ud83d\udd34",
-          "battery": 40,
-          "last_game": "Mar 31",
-          "games_last_4d": 5,
-          "days_rest": 0,
-          "travel_miles": 0,
-          "travel_desc": "",
-          "cross_trip": false
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Mar 30",
+          "days_rest": 1,
+          "games_last_4d": 2,
+          "travel_miles": 1260,
+          "travel_desc": "1,260 mi road trip",
+          "source": "ESPN Scoreboard API"
         }
       },
       "edge_factors": [
-        "\ud83d\udca4 PHX fatigued (3IN4)"
+        "\ud83d\udca4 PHX fatigued (B2B) \u2014 source: ESPN"
       ],
-      "briefing": {
-        "trend": "ORL hold a 55.1% implied win probability at home. ORL are on a 3rd in 4 nights \ud83d\udd34 \u2014 NBA teams on B2B historically win ~42% of games. PHX are on a 3rd in 4 nights \ud83d\udd34.",
-        "matchup": "Both rosters appear healthy \u2014 a clean line to bet.",
-        "steam": "Line has held firm since open \u2014 market consensus is stable.",
-        "injury_notes": "Anthony Black (G); Jonathan Isaac (F); Franz Wagner (F); Dillon Brooks (F)"
-      },
       "injury_notes": "Anthony Black (G); Jonathan Isaac (F); Franz Wagner (F); Dillon Brooks (F)",
       "sharp": {
-        "away_tickets_pct": null,
-        "home_tickets_pct": null,
+        "away_t": null,
+        "home_t": null,
         "source": null,
         "sharp_signal": null,
-        "sharp_label": "Insufficient data",
+        "sharp_label": "Pending \u2014 check closer to tip-off",
         "rlm": false
+      },
+      "form": {
+        "home": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        },
+        "away": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        }
+      },
+      "h2h": {
+        "total_meetings": 0,
+        "home_wins": 0,
+        "away_wins": 0,
+        "meetings": [],
+        "source": "\u2014"
+      },
+      "briefing": {
+        "trend": "PHX on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "matchup": "Both rosters appear healthy \u2014 clean line.",
+        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "injury_notes": "Anthony Black (G); Jonathan Isaac (F); Franz Wagner (F); Dillon Brooks (F)"
       },
       "live": {
         "status": "pre",
@@ -99,27 +124,26 @@
         "clock": "",
         "home_score": 0,
         "away_score": 0,
-        "spread_alert": null,
-        "espn_spread": ""
+        "spread_alert": null
       },
       "news": [
         {
-          "title": "You don't have to gamble for gambling to ruin your life",
-          "source": "Substack.com",
-          "link": "https://yourbrainonmoney.substack.com/p/gambling-is-ruining-your-life-even",
-          "published": "2026-03-30T05:47:01Z"
+          "title": "NBA standings: Who's in, out of playoffs if season ended today?",
+          "source": "USA Today",
+          "link": "https://www.usatoday.com/story/sports/nba/2026/03/30/nba-standings-playoff-bracket/89382179007/",
+          "published": "2026-03-30T10:06:18Z"
         },
         {
-          "title": "\u2018Travesty And Disgrace\u2019: Charles Barkley Busts Out Immigration Rant During UConn-Duke Thriller",
-          "source": "The Daily Caller",
-          "link": "https://dailycaller.com/2026/03/30/charles-barkley-immigrtion-uconn-duke-march-madness/",
-          "published": "2026-03-30T05:28:09Z"
+          "title": "GTA 6 price hint suggests fans won't face a $100 nightmare after all, according to clues from Take-Two's CEO Strauss Zelnick",
+          "source": "Windows Central",
+          "link": "https://www.windowscentral.com/gaming/gta-6-price-hint-suggests-fans-wont-face-a-100-dollar-nightmare",
+          "published": "2026-03-30T10:01:00Z"
         },
         {
-          "title": "The Final Four Is Set",
-          "source": "Newser",
-          "link": "https://www.newser.com/story/386315/the-final-four-is-set.html",
-          "published": "2026-03-30T05:00:00Z"
+          "title": "New NBA owner played key role at company accused of predatory lending",
+          "source": "Salon",
+          "link": "https://www.salon.com/2026/03/30/new-nba-owner-played-key-role-at-company-accused-of-predatory-lending-partner/",
+          "published": "2026-03-30T10:00:13Z"
         }
       ]
     },
@@ -169,49 +193,74 @@
           "old_ml": "-1450",
           "new_ml": "-1450"
         },
-        "snapshot_time": "March 31, 2026 at 05:15 AM UTC"
+        "snapshot_time": "March 31, 2026 at 05:58 AM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "3IN4",
-          "label": "3rd in 4 nights \ud83d\udd34",
-          "battery": 40,
-          "last_game": "Mar 31",
-          "games_last_4d": 5,
-          "days_rest": 0,
-          "travel_miles": 0,
-          "travel_desc": "",
-          "cross_trip": false
+          "status": "TRAVEL",
+          "label": "Cross-country travel \ud83d\udfe3",
+          "battery": 50,
+          "last_game": "Mar 29",
+          "days_rest": 2,
+          "games_last_4d": 2,
+          "travel_miles": 2449,
+          "travel_desc": "2,449 mi road trip",
+          "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "3IN4",
-          "label": "3rd in 4 nights \ud83d\udd34",
-          "battery": 40,
-          "last_game": "Mar 31",
-          "games_last_4d": 5,
-          "days_rest": 0,
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
+          "last_game": "Mar 29",
+          "days_rest": 2,
+          "games_last_4d": 2,
           "travel_miles": 0,
           "travel_desc": "",
-          "cross_trip": false
+          "source": "ESPN Scoreboard API"
         }
       },
       "edge_factors": [
-        "\ud83d\udca4 BKN fatigued (3IN4)"
+        "\u2708\ufe0f BKN traveled 2,449 mi"
       ],
-      "briefing": {
-        "trend": "CHA carry a 89.9% implied win probability on the road. BKN are on a 3rd in 4 nights \ud83d\udd34 \u2014 NBA teams on B2B historically win ~42% of games. CHA are on a 3rd in 4 nights \ud83d\udd34.",
-        "matchup": "Both rosters appear healthy \u2014 a clean line to bet.",
-        "steam": "Line has held firm since open \u2014 market consensus is stable.",
-        "injury_notes": "Jalen Wilson (F); Danny Wolf (F); Terance Mann (G); Michael Porter Jr. (F)"
-      },
       "injury_notes": "Jalen Wilson (F); Danny Wolf (F); Terance Mann (G); Michael Porter Jr. (F)",
       "sharp": {
-        "away_tickets_pct": null,
-        "home_tickets_pct": null,
+        "away_t": null,
+        "home_t": null,
         "source": null,
         "sharp_signal": null,
-        "sharp_label": "Insufficient data",
+        "sharp_label": "Pending \u2014 check closer to tip-off",
         "rlm": false
+      },
+      "form": {
+        "home": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        },
+        "away": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        }
+      },
+      "h2h": {
+        "total_meetings": 0,
+        "home_wins": 0,
+        "away_wins": 0,
+        "meetings": [],
+        "source": "\u2014"
+      },
+      "briefing": {
+        "trend": "Charlotte Hornets hold a 89.9% edge.",
+        "matchup": "Both rosters appear healthy \u2014 clean line.",
+        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "injury_notes": "Jalen Wilson (F); Danny Wolf (F); Terance Mann (G); Michael Porter Jr. (F)"
       },
       "live": {
         "status": "pre",
@@ -220,27 +269,26 @@
         "clock": "",
         "home_score": 0,
         "away_score": 0,
-        "spread_alert": null,
-        "espn_spread": ""
+        "spread_alert": null
       },
       "news": [
         {
-          "title": "You don't have to gamble for gambling to ruin your life",
-          "source": "Substack.com",
-          "link": "https://yourbrainonmoney.substack.com/p/gambling-is-ruining-your-life-even",
-          "published": "2026-03-30T05:47:01Z"
+          "title": "NBA standings: Who's in, out of playoffs if season ended today?",
+          "source": "USA Today",
+          "link": "https://www.usatoday.com/story/sports/nba/2026/03/30/nba-standings-playoff-bracket/89382179007/",
+          "published": "2026-03-30T10:06:18Z"
         },
         {
-          "title": "\u2018Travesty And Disgrace\u2019: Charles Barkley Busts Out Immigration Rant During UConn-Duke Thriller",
-          "source": "The Daily Caller",
-          "link": "https://dailycaller.com/2026/03/30/charles-barkley-immigrtion-uconn-duke-march-madness/",
-          "published": "2026-03-30T05:28:09Z"
+          "title": "GTA 6 price hint suggests fans won't face a $100 nightmare after all, according to clues from Take-Two's CEO Strauss Zelnick",
+          "source": "Windows Central",
+          "link": "https://www.windowscentral.com/gaming/gta-6-price-hint-suggests-fans-wont-face-a-100-dollar-nightmare",
+          "published": "2026-03-30T10:01:00Z"
         },
         {
-          "title": "The Final Four Is Set",
-          "source": "Newser",
-          "link": "https://www.newser.com/story/386315/the-final-four-is-set.html",
-          "published": "2026-03-30T05:00:00Z"
+          "title": "New NBA owner played key role at company accused of predatory lending",
+          "source": "Salon",
+          "link": "https://www.salon.com/2026/03/30/new-nba-owner-played-key-role-at-company-accused-of-predatory-lending-partner/",
+          "published": "2026-03-30T10:00:13Z"
         }
       ]
     },
@@ -256,7 +304,7 @@
       "away_ml_raw": -110,
       "home_prob": 50.0,
       "away_prob": 50.0,
-      "spread": "MIL -1.5",
+      "spread": "MIL +1.5",
       "favorite": "Milwaukee Bucks",
       "pick": "Milwaukee Bucks",
       "pick_abbr": "MIL",
@@ -267,72 +315,97 @@
       "commence_time": "2026-04-01T00:10:00Z",
       "line_movement": {
         "home": {
-          "direction": "shorter",
-          "points_moved": 5,
+          "direction": "none",
+          "points_moved": 0,
           "steam": false,
-          "label": "\ud83d\udfe2 -110 \u2190 -105",
-          "old_ml": "-105",
+          "label": "No movement",
+          "old_ml": "-110",
           "new_ml": "-110"
         },
         "away": {
-          "direction": "longer",
-          "points_moved": 5,
+          "direction": "none",
+          "points_moved": 0,
           "steam": false,
-          "label": "\ud83d\udd34 -110 \u2190 -115",
-          "old_ml": "-115",
+          "label": "No movement",
+          "old_ml": "-110",
           "new_ml": "-110"
         },
         "pick": {
-          "direction": "shorter",
-          "points_moved": 5,
+          "direction": "none",
+          "points_moved": 0,
           "steam": false,
-          "label": "\ud83d\udfe2 -110 \u2190 -105",
-          "old_ml": "-105",
+          "label": "No movement",
+          "old_ml": "-110",
           "new_ml": "-110"
         },
-        "snapshot_time": "March 31, 2026 at 05:15 AM UTC"
+        "snapshot_time": "March 31, 2026 at 05:58 AM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "3IN4",
-          "label": "3rd in 4 nights \ud83d\udd34",
-          "battery": 40,
-          "last_game": "Mar 31",
-          "games_last_4d": 5,
-          "days_rest": 0,
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
+          "last_game": "Mar 29",
+          "days_rest": 2,
+          "games_last_4d": 2,
           "travel_miles": 0,
           "travel_desc": "",
-          "cross_trip": false
+          "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "3IN4",
-          "label": "3rd in 4 nights \ud83d\udd34",
-          "battery": 40,
-          "last_game": "Mar 31",
-          "games_last_4d": 5,
-          "days_rest": 0,
-          "travel_miles": 0,
-          "travel_desc": "",
-          "cross_trip": false
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Mar 30",
+          "days_rest": 1,
+          "games_last_4d": 2,
+          "travel_miles": 1630,
+          "travel_desc": "1,630 mi road trip",
+          "source": "ESPN Scoreboard API"
         }
       },
       "edge_factors": [
-        "\ud83d\udca4 DAL fatigued (3IN4)"
+        "\ud83d\udca4 DAL fatigued (B2B) \u2014 source: ESPN"
       ],
-      "briefing": {
-        "trend": "MIL hold a 50.0% implied win probability at home. MIL are on a 3rd in 4 nights \ud83d\udd34 \u2014 NBA teams on B2B historically win ~42% of games. DAL are on a 3rd in 4 nights \ud83d\udd34.",
-        "matchup": "Both rosters appear healthy \u2014 a clean line to bet.",
-        "steam": "Line has moved from -105 to -110 (5 pts). Gradual movement consistent with normal public action.",
-        "injury_notes": "Gary Harris (G); Thanasis Antetokounmpo (F); Kyle Kuzma (F); Bobby Portis (F)"
-      },
       "injury_notes": "Gary Harris (G); Thanasis Antetokounmpo (F); Kyle Kuzma (F); Bobby Portis (F)",
       "sharp": {
-        "away_tickets_pct": null,
-        "home_tickets_pct": null,
+        "away_t": null,
+        "home_t": null,
         "source": null,
         "sharp_signal": null,
-        "sharp_label": "Insufficient data",
+        "sharp_label": "Pending \u2014 check closer to tip-off",
         "rlm": false
+      },
+      "form": {
+        "home": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        },
+        "away": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        }
+      },
+      "h2h": {
+        "total_meetings": 0,
+        "home_wins": 0,
+        "away_wins": 0,
+        "meetings": [],
+        "source": "\u2014"
+      },
+      "briefing": {
+        "trend": "DAL on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "matchup": "Both rosters appear healthy \u2014 clean line.",
+        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "injury_notes": "Gary Harris (G); Thanasis Antetokounmpo (F); Kyle Kuzma (F); Bobby Portis (F)"
       },
       "live": {
         "status": "pre",
@@ -341,27 +414,26 @@
         "clock": "",
         "home_score": 0,
         "away_score": 0,
-        "spread_alert": null,
-        "espn_spread": ""
+        "spread_alert": null
       },
       "news": [
         {
-          "title": "You don't have to gamble for gambling to ruin your life",
-          "source": "Substack.com",
-          "link": "https://yourbrainonmoney.substack.com/p/gambling-is-ruining-your-life-even",
-          "published": "2026-03-30T05:47:01Z"
+          "title": "NBA standings: Who's in, out of playoffs if season ended today?",
+          "source": "USA Today",
+          "link": "https://www.usatoday.com/story/sports/nba/2026/03/30/nba-standings-playoff-bracket/89382179007/",
+          "published": "2026-03-30T10:06:18Z"
         },
         {
-          "title": "\u2018Travesty And Disgrace\u2019: Charles Barkley Busts Out Immigration Rant During UConn-Duke Thriller",
-          "source": "The Daily Caller",
-          "link": "https://dailycaller.com/2026/03/30/charles-barkley-immigrtion-uconn-duke-march-madness/",
-          "published": "2026-03-30T05:28:09Z"
+          "title": "GTA 6 price hint suggests fans won't face a $100 nightmare after all, according to clues from Take-Two's CEO Strauss Zelnick",
+          "source": "Windows Central",
+          "link": "https://www.windowscentral.com/gaming/gta-6-price-hint-suggests-fans-wont-face-a-100-dollar-nightmare",
+          "published": "2026-03-30T10:01:00Z"
         },
         {
-          "title": "The Final Four Is Set",
-          "source": "Newser",
-          "link": "https://www.newser.com/story/386315/the-final-four-is-set.html",
-          "published": "2026-03-30T05:00:00Z"
+          "title": "New NBA owner played key role at company accused of predatory lending",
+          "source": "Salon",
+          "link": "https://www.salon.com/2026/03/30/new-nba-owner-played-key-role-at-company-accused-of-predatory-lending-partner/",
+          "published": "2026-03-30T10:00:13Z"
         }
       ]
     },
@@ -411,49 +483,74 @@
           "old_ml": "-142",
           "new_ml": "-142"
         },
-        "snapshot_time": "March 31, 2026 at 05:15 AM UTC"
+        "snapshot_time": "March 31, 2026 at 05:58 AM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "3IN4",
-          "label": "3rd in 4 nights \ud83d\udd34",
-          "battery": 40,
-          "last_game": "Mar 31",
-          "games_last_4d": 5,
-          "days_rest": 0,
-          "travel_miles": 0,
-          "travel_desc": "",
-          "cross_trip": false
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Mar 30",
+          "days_rest": 1,
+          "games_last_4d": 2,
+          "travel_miles": 909,
+          "travel_desc": "909 mi road trip",
+          "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "3IN4",
-          "label": "3rd in 4 nights \ud83d\udd34",
-          "battery": 40,
-          "last_game": "Mar 31",
-          "games_last_4d": 5,
-          "days_rest": 0,
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
+          "last_game": "Mar 29",
+          "days_rest": 2,
+          "games_last_4d": 2,
           "travel_miles": 0,
           "travel_desc": "",
-          "cross_trip": false
+          "source": "ESPN Scoreboard API"
         }
       },
       "edge_factors": [
-        "\ud83d\udca4 TOR fatigued (3IN4)"
+        "\ud83d\udcca 12.6pt probability edge"
       ],
-      "briefing": {
-        "trend": "DET hold a 56.3% implied win probability at home. DET are on a 3rd in 4 nights \ud83d\udd34 \u2014 NBA teams on B2B historically win ~42% of games. TOR are on a 3rd in 4 nights \ud83d\udd34.",
-        "matchup": "Both rosters appear healthy \u2014 a clean line to bet.",
-        "steam": "Line has held firm since open \u2014 market consensus is stable.",
-        "injury_notes": "Duncan Robinson (F); Tobias Harris (F); Jalen Duren (C); Isaiah Stewart (F)"
-      },
       "injury_notes": "Duncan Robinson (F); Tobias Harris (F); Jalen Duren (C); Isaiah Stewart (F)",
       "sharp": {
-        "away_tickets_pct": null,
-        "home_tickets_pct": null,
+        "away_t": null,
+        "home_t": null,
         "source": null,
         "sharp_signal": null,
-        "sharp_label": "Insufficient data",
+        "sharp_label": "Pending \u2014 check closer to tip-off",
         "rlm": false
+      },
+      "form": {
+        "home": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        },
+        "away": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        }
+      },
+      "h2h": {
+        "total_meetings": 0,
+        "home_wins": 0,
+        "away_wins": 0,
+        "meetings": [],
+        "source": "\u2014"
+      },
+      "briefing": {
+        "trend": "DET on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "matchup": "Both rosters appear healthy \u2014 clean line.",
+        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "injury_notes": "Duncan Robinson (F); Tobias Harris (F); Jalen Duren (C); Isaiah Stewart (F)"
       },
       "live": {
         "status": "pre",
@@ -462,27 +559,26 @@
         "clock": "",
         "home_score": 0,
         "away_score": 0,
-        "spread_alert": null,
-        "espn_spread": ""
+        "spread_alert": null
       },
       "news": [
         {
-          "title": "You don't have to gamble for gambling to ruin your life",
-          "source": "Substack.com",
-          "link": "https://yourbrainonmoney.substack.com/p/gambling-is-ruining-your-life-even",
-          "published": "2026-03-30T05:47:01Z"
+          "title": "NBA standings: Who's in, out of playoffs if season ended today?",
+          "source": "USA Today",
+          "link": "https://www.usatoday.com/story/sports/nba/2026/03/30/nba-standings-playoff-bracket/89382179007/",
+          "published": "2026-03-30T10:06:18Z"
         },
         {
-          "title": "\u2018Travesty And Disgrace\u2019: Charles Barkley Busts Out Immigration Rant During UConn-Duke Thriller",
-          "source": "The Daily Caller",
-          "link": "https://dailycaller.com/2026/03/30/charles-barkley-immigrtion-uconn-duke-march-madness/",
-          "published": "2026-03-30T05:28:09Z"
+          "title": "GTA 6 price hint suggests fans won't face a $100 nightmare after all, according to clues from Take-Two's CEO Strauss Zelnick",
+          "source": "Windows Central",
+          "link": "https://www.windowscentral.com/gaming/gta-6-price-hint-suggests-fans-wont-face-a-100-dollar-nightmare",
+          "published": "2026-03-30T10:01:00Z"
         },
         {
-          "title": "The Final Four Is Set",
-          "source": "Newser",
-          "link": "https://www.newser.com/story/386315/the-final-four-is-set.html",
-          "published": "2026-03-30T05:00:00Z"
+          "title": "New NBA owner played key role at company accused of predatory lending",
+          "source": "Salon",
+          "link": "https://www.salon.com/2026/03/30/new-nba-owner-played-key-role-at-company-accused-of-predatory-lending-partner/",
+          "published": "2026-03-30T10:00:13Z"
         }
       ]
     },
@@ -532,49 +628,74 @@
           "old_ml": "-115",
           "new_ml": "-115"
         },
-        "snapshot_time": "March 31, 2026 at 05:15 AM UTC"
+        "snapshot_time": "March 31, 2026 at 05:58 AM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "3IN4",
-          "label": "3rd in 4 nights \ud83d\udd34",
-          "battery": 40,
-          "last_game": "Mar 31",
-          "games_last_4d": 5,
-          "days_rest": 0,
-          "travel_miles": 0,
-          "travel_desc": "",
-          "cross_trip": false
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
+          "last_game": "Mar 29",
+          "days_rest": 2,
+          "games_last_4d": 2,
+          "travel_miles": 317,
+          "travel_desc": "317 mi road trip",
+          "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "3IN4",
-          "label": "3rd in 4 nights \ud83d\udd34",
-          "battery": 40,
-          "last_game": "Mar 31",
-          "games_last_4d": 4,
-          "days_rest": 0,
-          "travel_miles": 0,
-          "travel_desc": "",
-          "cross_trip": false
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
+          "last_game": "Mar 29",
+          "days_rest": 2,
+          "games_last_4d": 1,
+          "travel_miles": 1325,
+          "travel_desc": "1,325 mi road trip",
+          "source": "ESPN Scoreboard API"
         }
       },
       "edge_factors": [
-        "\ud83d\udca4 HOU fatigued (3IN4)"
+        "\ud83d\udcca 2.2pt probability edge"
       ],
-      "briefing": {
-        "trend": "NYK carry a 51.1% implied win probability on the road. HOU are on a 3rd in 4 nights \ud83d\udd34 \u2014 NBA teams on B2B historically win ~42% of games. NYK are on a 3rd in 4 nights \ud83d\udd34.",
-        "matchup": "Both rosters appear healthy \u2014 a clean line to bet.",
-        "steam": "Line has held firm since open \u2014 market consensus is stable.",
-        "injury_notes": "Steven Adams (C); Fred VanVleet (G); Landry Shamet (G); Miles McBride (G)"
-      },
       "injury_notes": "Steven Adams (C); Fred VanVleet (G); Landry Shamet (G); Miles McBride (G)",
       "sharp": {
-        "away_tickets_pct": null,
-        "home_tickets_pct": null,
+        "away_t": null,
+        "home_t": null,
         "source": null,
         "sharp_signal": null,
-        "sharp_label": "Insufficient data",
+        "sharp_label": "Pending \u2014 check closer to tip-off",
         "rlm": false
+      },
+      "form": {
+        "home": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        },
+        "away": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        }
+      },
+      "h2h": {
+        "total_meetings": 0,
+        "home_wins": 0,
+        "away_wins": 0,
+        "meetings": [],
+        "source": "\u2014"
+      },
+      "briefing": {
+        "trend": "New York Knicks hold a 51.1% edge.",
+        "matchup": "Both rosters appear healthy \u2014 clean line.",
+        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "injury_notes": "Steven Adams (C); Fred VanVleet (G); Landry Shamet (G); Miles McBride (G)"
       },
       "live": {
         "status": "pre",
@@ -583,27 +704,26 @@
         "clock": "",
         "home_score": 0,
         "away_score": 0,
-        "spread_alert": null,
-        "espn_spread": ""
+        "spread_alert": null
       },
       "news": [
         {
-          "title": "You don't have to gamble for gambling to ruin your life",
-          "source": "Substack.com",
-          "link": "https://yourbrainonmoney.substack.com/p/gambling-is-ruining-your-life-even",
-          "published": "2026-03-30T05:47:01Z"
+          "title": "NBA standings: Who's in, out of playoffs if season ended today?",
+          "source": "USA Today",
+          "link": "https://www.usatoday.com/story/sports/nba/2026/03/30/nba-standings-playoff-bracket/89382179007/",
+          "published": "2026-03-30T10:06:18Z"
         },
         {
-          "title": "\u2018Travesty And Disgrace\u2019: Charles Barkley Busts Out Immigration Rant During UConn-Duke Thriller",
-          "source": "The Daily Caller",
-          "link": "https://dailycaller.com/2026/03/30/charles-barkley-immigrtion-uconn-duke-march-madness/",
-          "published": "2026-03-30T05:28:09Z"
+          "title": "GTA 6 price hint suggests fans won't face a $100 nightmare after all, according to clues from Take-Two's CEO Strauss Zelnick",
+          "source": "Windows Central",
+          "link": "https://www.windowscentral.com/gaming/gta-6-price-hint-suggests-fans-wont-face-a-100-dollar-nightmare",
+          "published": "2026-03-30T10:01:00Z"
         },
         {
-          "title": "The Final Four Is Set",
-          "source": "Newser",
-          "link": "https://www.newser.com/story/386315/the-final-four-is-set.html",
-          "published": "2026-03-30T05:00:00Z"
+          "title": "New NBA owner played key role at company accused of predatory lending",
+          "source": "Salon",
+          "link": "https://www.salon.com/2026/03/30/new-nba-owner-played-key-role-at-company-accused-of-predatory-lending-partner/",
+          "published": "2026-03-30T10:00:13Z"
         }
       ]
     },
@@ -653,49 +773,74 @@
           "old_ml": "-125",
           "new_ml": "-125"
         },
-        "snapshot_time": "March 31, 2026 at 05:15 AM UTC"
+        "snapshot_time": "March 31, 2026 at 05:58 AM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "3IN4",
-          "label": "3rd in 4 nights \ud83d\udd34",
-          "battery": 40,
-          "last_game": "Mar 31",
-          "games_last_4d": 5,
-          "days_rest": 0,
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Mar 30",
+          "days_rest": 1,
+          "games_last_4d": 2,
           "travel_miles": 0,
           "travel_desc": "",
-          "cross_trip": false
+          "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "3IN4",
-          "label": "3rd in 4 nights \ud83d\udd34",
-          "battery": 40,
-          "last_game": "Mar 31",
-          "games_last_4d": 5,
-          "days_rest": 0,
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Mar 30",
+          "days_rest": 1,
+          "games_last_4d": 2,
           "travel_miles": 0,
           "travel_desc": "",
-          "cross_trip": false
+          "source": "ESPN Scoreboard API"
         }
       },
       "edge_factors": [
-        "\ud83d\udca4 CLE fatigued (3IN4)"
+        "\ud83d\udca4 CLE fatigued (B2B) \u2014 source: ESPN"
       ],
-      "briefing": {
-        "trend": "LAL hold a 53.2% implied win probability at home. LAL are on a 3rd in 4 nights \ud83d\udd34 \u2014 NBA teams on B2B historically win ~42% of games. CLE are on a 3rd in 4 nights \ud83d\udd34.",
-        "matchup": "Both rosters appear healthy \u2014 a clean line to bet.",
-        "steam": "Line has held firm since open \u2014 market consensus is stable.",
-        "injury_notes": "Adou Thiero (F); Marcus Smart (G); Max Strus (G); Jarrett Allen (C)"
-      },
       "injury_notes": "Adou Thiero (F); Marcus Smart (G); Max Strus (G); Jarrett Allen (C)",
       "sharp": {
-        "away_tickets_pct": null,
-        "home_tickets_pct": null,
+        "away_t": null,
+        "home_t": null,
         "source": null,
         "sharp_signal": null,
-        "sharp_label": "Insufficient data",
+        "sharp_label": "Pending \u2014 check closer to tip-off",
         "rlm": false
+      },
+      "form": {
+        "home": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        },
+        "away": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        }
+      },
+      "h2h": {
+        "total_meetings": 0,
+        "home_wins": 0,
+        "away_wins": 0,
+        "meetings": [],
+        "source": "\u2014"
+      },
+      "briefing": {
+        "trend": "LAL on Back-to-Back \u26a0\ufe0f per ESPN schedule data. CLE on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "matchup": "Both rosters appear healthy \u2014 clean line.",
+        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "injury_notes": "Adou Thiero (F); Marcus Smart (G); Max Strus (G); Jarrett Allen (C)"
       },
       "live": {
         "status": "pre",
@@ -704,15 +849,14 @@
         "clock": "",
         "home_score": 0,
         "away_score": 0,
-        "spread_alert": null,
-        "espn_spread": ""
+        "spread_alert": null
       },
       "news": [
         {
           "title": "Lakers' Redick stumps for Doncic to be NBA MVP",
           "source": "www.espn.com - NBA",
           "link": "https://www.espn.com/nba/story/_/id/48352643/luka-doncic-mvp-lakers-stay-hot-jj-redick-says",
-          "published": "Tue, 31 Mar 2026 00:26:04 EST"
+          "published": "Tue, 31 Mar 2026 02:52:01 EST"
         }
       ]
     },
@@ -762,49 +906,74 @@
           "old_ml": "-218",
           "new_ml": "-218"
         },
-        "snapshot_time": "March 31, 2026 at 05:15 AM UTC"
+        "snapshot_time": "March 31, 2026 at 05:58 AM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "3IN4",
-          "label": "3rd in 4 nights \ud83d\udd34",
-          "battery": 40,
-          "last_game": "Mar 31",
-          "games_last_4d": 5,
-          "days_rest": 0,
-          "travel_miles": 0,
-          "travel_desc": "",
-          "cross_trip": false
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
+          "last_game": "Mar 29",
+          "days_rest": 2,
+          "games_last_4d": 2,
+          "travel_miles": 1742,
+          "travel_desc": "1,742 mi road trip",
+          "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "3IN4",
-          "label": "3rd in 4 nights \ud83d\udd34",
-          "battery": 40,
-          "last_game": "Mar 31",
-          "games_last_4d": 5,
-          "days_rest": 0,
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
+          "last_game": "Mar 29",
+          "days_rest": 2,
+          "games_last_4d": 2,
           "travel_miles": 0,
           "travel_desc": "",
-          "cross_trip": false
+          "source": "ESPN Scoreboard API"
         }
       },
       "edge_factors": [
-        "\ud83d\udca4 POR fatigued (3IN4)"
+        "\ud83d\udcca 31.4pt probability edge"
       ],
-      "briefing": {
-        "trend": "LAC hold a 65.7% implied win probability at home. LAC are on a 3rd in 4 nights \ud83d\udd34 \u2014 NBA teams on B2B historically win ~42% of games. POR are on a 3rd in 4 nights \ud83d\udd34.",
-        "matchup": "Both rosters appear healthy \u2014 a clean line to bet.",
-        "steam": "Line has held firm since open \u2014 market consensus is stable.",
-        "injury_notes": "Isaiah Jackson (F); Yanic Konan Niederhauser (C); Bradley Beal (G); Jerami Grant (F)"
-      },
       "injury_notes": "Isaiah Jackson (F); Yanic Konan Niederhauser (C); Bradley Beal (G); Jerami Grant (F)",
       "sharp": {
-        "away_tickets_pct": null,
-        "home_tickets_pct": null,
+        "away_t": null,
+        "home_t": null,
         "source": null,
         "sharp_signal": null,
-        "sharp_label": "Insufficient data",
+        "sharp_label": "Pending \u2014 check closer to tip-off",
         "rlm": false
+      },
+      "form": {
+        "home": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        },
+        "away": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        }
+      },
+      "h2h": {
+        "total_meetings": 0,
+        "home_wins": 0,
+        "away_wins": 0,
+        "meetings": [],
+        "source": "\u2014"
+      },
+      "briefing": {
+        "trend": "Los Angeles Clippers hold a 65.7% edge.",
+        "matchup": "Both rosters appear healthy \u2014 clean line.",
+        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "injury_notes": "Isaiah Jackson (F); Yanic Konan Niederhauser (C); Bradley Beal (G); Jerami Grant (F)"
       },
       "live": {
         "status": "pre",
@@ -813,15 +982,14 @@
         "clock": "",
         "home_score": 0,
         "away_score": 0,
-        "spread_alert": null,
-        "espn_spread": ""
+        "spread_alert": null
       },
       "news": [
         {
           "title": "NBA approves Trail Blazers' sale to Dundon group",
           "source": "www.espn.com - NBA",
           "link": "https://www.espn.com/nba/story/_/id/48350814/nba-board-governors-approves-portland-trail-blazers-sale-group-led-tom-dundon",
-          "published": "Tue, 31 Mar 2026 00:26:04 EST"
+          "published": "Tue, 31 Mar 2026 02:52:01 EST"
         }
       ]
     }
