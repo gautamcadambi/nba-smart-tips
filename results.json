@@ -10,9 +10,11 @@
       "win_probability": 55.1,
       "commence_time": "2026-03-30T23:10:00Z",
       "date": "2026-03-30T10:21:35.595959+00:00",
-      "graded": false,
-      "result": null,
-      "profit": null
+      "graded": true,
+      "result": "LOSS",
+      "profit": -100,
+      "home_score": 119,
+      "away_score": 109
     },
     {
       "game": "Boston Celtics @ Atlanta Hawks",
@@ -24,9 +26,11 @@
       "win_probability": 51.7,
       "commence_time": "2026-03-30T23:40:00Z",
       "date": "2026-03-30T10:21:35.595959+00:00",
-      "graded": false,
-      "result": null,
-      "profit": null
+      "graded": true,
+      "result": "WIN",
+      "profit": 84.75,
+      "home_score": 112,
+      "away_score": 102
     },
     {
       "game": "Chicago Bulls @ San Antonio Spurs",
@@ -38,9 +42,11 @@
       "win_probability": 91.2,
       "commence_time": "2026-03-31T00:10:00Z",
       "date": "2026-03-30T10:21:35.595959+00:00",
-      "graded": false,
-      "result": null,
-      "profit": null
+      "graded": true,
+      "result": "WIN",
+      "profit": 5.56,
+      "home_score": 129,
+      "away_score": 114
     },
     {
       "game": "Phoenix Suns @ Memphis Grizzlies",
@@ -52,9 +58,11 @@
       "win_probability": 85.2,
       "commence_time": "2026-03-31T00:10:00Z",
       "date": "2026-03-30T10:21:35.595959+00:00",
-      "graded": false,
-      "result": null,
-      "profit": null
+      "graded": true,
+      "result": "WIN",
+      "profit": 12.5,
+      "home_score": 105,
+      "away_score": 131
     },
     {
       "game": "Minnesota Timberwolves @ Dallas Mavericks",
@@ -66,9 +74,11 @@
       "win_probability": 71.0,
       "commence_time": "2026-03-31T00:40:00Z",
       "date": "2026-03-30T10:21:35.595959+00:00",
-      "graded": false,
-      "result": null,
-      "profit": null
+      "graded": true,
+      "result": "WIN",
+      "profit": 35.09,
+      "home_score": 94,
+      "away_score": 124
     },
     {
       "game": "Cleveland Cavaliers @ Utah Jazz",
@@ -80,9 +90,11 @@
       "win_probability": 90.8,
       "commence_time": "2026-03-31T01:10:00Z",
       "date": "2026-03-30T10:21:35.595959+00:00",
-      "graded": false,
-      "result": null,
-      "profit": null
+      "graded": true,
+      "result": "WIN",
+      "profit": 6.06,
+      "home_score": 113,
+      "away_score": 122
     },
     {
       "game": "Detroit Pistons @ Oklahoma City Thunder",
@@ -94,9 +106,11 @@
       "win_probability": 85.2,
       "commence_time": "2026-03-31T01:40:00Z",
       "date": "2026-03-30T10:21:35.595959+00:00",
-      "graded": false,
-      "result": null,
-      "profit": null
+      "graded": true,
+      "result": "WIN",
+      "profit": 12.5,
+      "home_score": 114,
+      "away_score": 110
     },
     {
       "game": "Washington Wizards @ Los Angeles Lakers",
@@ -108,9 +122,11 @@
       "win_probability": 89.3,
       "commence_time": "2026-03-31T02:10:00Z",
       "date": "2026-03-30T10:21:35.595959+00:00",
-      "graded": false,
-      "result": null,
-      "profit": null
+      "graded": true,
+      "result": "WIN",
+      "profit": 7.41,
+      "home_score": 120,
+      "away_score": 101
     },
     {
       "game": "Phoenix Suns @ Orlando Magic",
@@ -167,7 +183,91 @@
       "graded": false,
       "result": null,
       "profit": null
+    },
+    {
+      "game": "Dallas Mavericks @ Milwaukee Bucks",
+      "pick": "Dallas Mavericks",
+      "pick_abbr": "DAL",
+      "moneyline": "-115",
+      "moneyline_raw": -115,
+      "confidence": "LOW",
+      "win_probability": 51.1,
+      "commence_time": "2026-04-01T00:10:00Z",
+      "date": "2026-03-31T05:15:58.604324+00:00",
+      "graded": false,
+      "result": null,
+      "profit": null
+    },
+    {
+      "game": "Toronto Raptors @ Detroit Pistons",
+      "pick": "Detroit Pistons",
+      "pick_abbr": "DET",
+      "moneyline": "-142",
+      "moneyline_raw": -142,
+      "confidence": "LOW",
+      "win_probability": 56.3,
+      "commence_time": "2026-04-01T00:10:00Z",
+      "date": "2026-03-31T05:15:58.604324+00:00",
+      "graded": false,
+      "result": null,
+      "profit": null
+    },
+    {
+      "game": "Cleveland Cavaliers @ Los Angeles Lakers",
+      "pick": "Los Angeles Lakers",
+      "pick_abbr": "LAL",
+      "moneyline": "-125",
+      "moneyline_raw": -125,
+      "confidence": "LOW",
+      "win_probability": 53.2,
+      "commence_time": "2026-04-01T02:40:00Z",
+      "date": "2026-03-31T05:15:58.604324+00:00",
+      "graded": false,
+      "result": null,
+      "profit": null
     }
   ],
-  "summary": {}
+  "summary": {
+    "LOW": {
+      "wins": 1,
+      "losses": 1,
+      "total": 2,
+      "win_pct": 50.0,
+      "roi": -7.6,
+      "profit": -15.25
+    },
+    "HIGH": {
+      "wins": 5,
+      "losses": 0,
+      "total": 5,
+      "win_pct": 100.0,
+      "roi": 8.8,
+      "profit": 44.03
+    },
+    "MEDIUM": {
+      "wins": 1,
+      "losses": 0,
+      "total": 1,
+      "win_pct": 100.0,
+      "roi": 35.1,
+      "profit": 35.09
+    },
+    "overall_7d": {
+      "wins": 7,
+      "losses": 1,
+      "total": 8,
+      "win_pct": 87.5,
+      "roi": 8.0,
+      "profit": 63.87
+    },
+    "overall_30d": {
+      "wins": 7,
+      "losses": 1,
+      "total": 8,
+      "win_pct": 87.5,
+      "roi": 8.0,
+      "profit": 63.87
+    }
+  },
+  "last_graded": "2026-03-31T05:15:46.749701+00:00"
 }
