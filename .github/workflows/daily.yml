@@ -1,4 +1,4 @@
-name: ParlAID — Live NBA Sync v4
+name: ParlAID — NBA Sync v5
 
 on:
   schedule:
@@ -14,7 +14,7 @@ jobs:
       contents: write
 
     steps:
-      - name: Checkout repository
+      - name: Checkout
         uses: actions/checkout@v4
 
       - name: Set up Python 3.11
@@ -27,23 +27,24 @@ jobs:
           pip install --upgrade pip
           pip install requests beautifulsoup4 feedparser nba_api
 
-      - name: Run ParlAID scraper
+      - name: Run scraper
         env:
           ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
           NEWS_API_KEY: ${{ secrets.NEWS_API_KEY }}
         run: python scrape_nba.py
 
-      - name: Validate outputs
+      - name: Validate
         run: |
           python -c "
           import json
           with open('data.json') as f:
               d = json.load(f)
-          print(f'data.json OK — {d[\"total_games\"]} games, updated {d[\"last_updated\"]}')
-          tr = d.get('track_record', {})
-          for k,v in tr.items():
-              if isinstance(v, dict) and v.get('total', 0) > 0:
-                  print(f'  {k}: {v[\"win_pct\"]}% W ({v[\"wins\"]}-{v[\"losses\"]}) ROI:{v[\"roi\"]}%')
+          print(f'OK — {d[\"total_games\"]} games, {d[\"last_updated\"]}')
+          for g in d['games'][:3]:
+              h2h = g.get('h2h',{})
+              hf = g.get('form',{}).get('home',{})
+              fat = g.get('fatigue',{}).get('home',{})
+              print(f'  {g[\"game\"]:40s} H2H:{h2h.get(\"total_meetings\",0)} L10:{hf.get(\"wins\",\"?\")} fatigue:{fat.get(\"status\",\"?\")}({fat.get(\"source\",\"?\")})')
           "
 
       - name: Commit and push
@@ -52,6 +53,6 @@ jobs:
           git config --global user.email "bot@parlaid.github.io"
           git add data.json results.json || true
           git diff --staged --quiet && echo "No changes." || (
-            git commit -m "⚡ ParlAID v4: $(date -u '+%Y-%m-%d %H:%M UTC')"
+            git commit -m "🏀 ParlAID v5: $(date -u '+%Y-%m-%d %H:%M UTC')"
             git push
           )
