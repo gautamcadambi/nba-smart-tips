@@ -1,54 +1,200 @@
 {
-  "last_updated": "April 01, 2026 at 02:56 PM UTC",
-  "total_games": 9,
+  "last_updated": "April 01, 2026 at 11:52 PM UTC",
+  "total_games": 11,
   "games": [
+    {
+      "game": "Philadelphia 76ers @ Washington Wizards",
+      "home_team": "Washington Wizards",
+      "away_team": "Philadelphia 76ers",
+      "home_abbr": "WAS",
+      "away_abbr": "PHI",
+      "home_ml": "+175",
+      "away_ml": "-230",
+      "home_ml_raw": 175,
+      "away_ml_raw": -230,
+      "home_prob": 34.3,
+      "away_prob": 65.7,
+      "spread": "WAS +4.5",
+      "favorite": "Philadelphia 76ers",
+      "pick": "Philadelphia 76ers",
+      "pick_abbr": "PHI",
+      "moneyline": "-230",
+      "win_probability": 65.7,
+      "confidence": "MEDIUM",
+      "confidence_stars": "\u2605\u2605\u2606",
+      "commence_time": "2026-04-01T23:11:04Z",
+      "line_movement": {
+        "home": {
+          "direction": "shorter",
+          "points_moved": 725,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM +175 \u2190 +900",
+          "old_ml": "+900",
+          "new_ml": "+175"
+        },
+        "away": {
+          "direction": "longer",
+          "points_moved": 1370,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -230 \u2190 -1600",
+          "old_ml": "-1600",
+          "new_ml": "-230"
+        },
+        "pick": {
+          "direction": "longer",
+          "points_moved": 1370,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -230 \u2190 -1600",
+          "old_ml": "-1600",
+          "new_ml": "-230"
+        },
+        "snapshot_time": "April 01, 2026 at 02:56 PM UTC"
+      },
+      "fatigue": {
+        "home": {
+          "status": "TRAVEL",
+          "label": "Cross-country travel \ud83d\udfe3",
+          "battery": 50,
+          "last_game": "Mar 30",
+          "days_rest": 2,
+          "games_last_4d": 2,
+          "travel_miles": 2297,
+          "travel_desc": "2,297 mi road trip",
+          "source": "ESPN Scoreboard API"
+        },
+        "away": {
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
+          "last_game": "Mar 30",
+          "days_rest": 2,
+          "games_last_4d": 2,
+          "travel_miles": 1018,
+          "travel_desc": "1,018 mi road trip",
+          "source": "ESPN Scoreboard API"
+        }
+      },
+      "edge_factors": [
+        "\ud83d\udd25 Sharp steam detected",
+        "\u2708\ufe0f WAS traveled 2,297 mi"
+      ],
+      "injury_notes": "Tre Johnson (G); Bilal Coulibaly (G); Alex Sarr (C); Anthony Davis (F)",
+      "sharp": {
+        "away_t": null,
+        "home_t": null,
+        "source": null,
+        "sharp_signal": null,
+        "sharp_label": "Pending \u2014 check closer to tip-off",
+        "rlm": false
+      },
+      "form": {
+        "home": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        },
+        "away": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        }
+      },
+      "h2h": {
+        "total_meetings": 0,
+        "home_wins": 0,
+        "away_wins": 0,
+        "meetings": [],
+        "source": "\u2014"
+      },
+      "briefing": {
+        "trend": "Philadelphia 76ers hold a 65.7% edge.",
+        "matchup": "Both rosters appear healthy \u2014 clean line.",
+        "steam": "Line steamed from -1600 to -230 (1370pt move) \u2014 heavy professional action on Philadelphia 76ers.",
+        "injury_notes": "Tre Johnson (G); Bilal Coulibaly (G); Alex Sarr (C); Anthony Davis (F)"
+      },
+      "live": {
+        "status": "pre",
+        "status_detail": "Upcoming",
+        "period": 0,
+        "clock": "",
+        "home_score": 0,
+        "away_score": 0,
+        "spread_alert": null
+      },
+      "news": [
+        {
+          "title": "Game Thread: Knicks at Rockets, March 31, 2026",
+          "source": "Posting and Toasting",
+          "link": "https://www.postingandtoasting.com/knicks-game-threads/80924/game-thread-knicks-at-rockets-march-31-2026",
+          "published": "2026-03-31T23:30:00Z"
+        },
+        {
+          "title": "Christian Athletes Rally Around Jaden Ivey After Bulls Cut Him Following Criticism of Pride Night",
+          "source": "Breitbart News",
+          "link": "https://www.breitbart.com/sports/2026/03/31/christian-athletes-rally-around-jaden-ivey-after-bulls-cut-him-following-criticism-of-pride-night/",
+          "published": "2026-03-31T23:29:21Z"
+        },
+        {
+          "title": "Mike Bianchi: Hallelujah, it\u2019s official! The Jaguars and the NFL are coming to Oooooor-lan-do!",
+          "source": "Orlando Sentinel",
+          "link": "https://www.orlandosentinel.com/2026/03/31/jacksonville-jaguars-orlando-nfl-2027-season-mike-bianchi-commentary/",
+          "published": "2026-03-31T23:15:00Z"
+        }
+      ]
+    },
     {
       "game": "Atlanta Hawks @ Orlando Magic",
       "home_team": "Orlando Magic",
       "away_team": "Atlanta Hawks",
       "home_abbr": "ORL",
       "away_abbr": "ATL",
-      "home_ml": "+150",
-      "away_ml": "-180",
-      "home_ml_raw": 150,
-      "away_ml_raw": -180,
-      "home_prob": 38.4,
-      "away_prob": 61.6,
+      "home_ml": "+175",
+      "away_ml": "-230",
+      "home_ml_raw": 175,
+      "away_ml_raw": -230,
+      "home_prob": 34.3,
+      "away_prob": 65.7,
       "spread": "ORL +4.5",
       "favorite": "Atlanta Hawks",
       "pick": "Atlanta Hawks",
       "pick_abbr": "ATL",
-      "moneyline": "-180",
-      "win_probability": 61.6,
+      "moneyline": "-230",
+      "win_probability": 65.7,
       "confidence": "MEDIUM",
       "confidence_stars": "\u2605\u2605\u2606",
-      "commence_time": "2026-04-01T23:10:00Z",
+      "commence_time": "2026-04-01T23:11:23Z",
       "line_movement": {
         "home": {
-          "direction": "shorter",
-          "points_moved": 4,
-          "steam": false,
-          "label": "\ud83d\udfe2 +150 \u2190 +154",
-          "old_ml": "+154",
-          "new_ml": "+150"
+          "direction": "longer",
+          "points_moved": 25,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM +175 \u2190 +150",
+          "old_ml": "+150",
+          "new_ml": "+175"
         },
         "away": {
-          "direction": "longer",
-          "points_moved": 5,
-          "steam": false,
-          "label": "\ud83d\udd34 -180 \u2190 -185",
-          "old_ml": "-185",
-          "new_ml": "-180"
+          "direction": "shorter",
+          "points_moved": 50,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -230 \u2190 -180",
+          "old_ml": "-180",
+          "new_ml": "-230"
         },
         "pick": {
-          "direction": "longer",
-          "points_moved": 5,
-          "steam": false,
-          "label": "\ud83d\udd34 -180 \u2190 -185",
-          "old_ml": "-185",
-          "new_ml": "-180"
+          "direction": "shorter",
+          "points_moved": 50,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -230 \u2190 -180",
+          "old_ml": "-180",
+          "new_ml": "-230"
         },
-        "snapshot_time": "April 01, 2026 at 06:15 AM UTC"
+        "snapshot_time": "April 01, 2026 at 02:56 PM UTC"
       },
       "fatigue": {
         "home": {
@@ -75,9 +221,10 @@
         }
       },
       "edge_factors": [
+        "\ud83d\udd25 Sharp steam detected",
         "\ud83d\udca4 ORL fatigued (B2B) \u2014 source: ESPN"
       ],
-      "injury_notes": "Franz Wagner (F); Anthony Black (G); Jonathan Isaac (F); Jock Landale (C)",
+      "injury_notes": "Franz Wagner (F); Jonathan Isaac (F); Anthony Black (G); Jock Landale (C)",
       "sharp": {
         "away_t": null,
         "home_t": null,
@@ -114,8 +261,8 @@
       "briefing": {
         "trend": "ORL on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line moved -185\u2192-180 (5pts). Pending \u2014 check closer to tip-off",
-        "injury_notes": "Franz Wagner (F); Anthony Black (G); Jonathan Isaac (F); Jock Landale (C)"
+        "steam": "Line steamed from -180 to -230 (50pt move) \u2014 heavy professional action on Atlanta Hawks.",
+        "injury_notes": "Franz Wagner (F); Jonathan Isaac (F); Anthony Black (G); Jock Landale (C)"
       },
       "live": {
         "status": "pre",
@@ -128,167 +275,22 @@
       },
       "news": [
         {
-          "title": "Yale names Derek Chang and Philippe Costeletos as successor trustees",
-          "source": "Yale.edu",
-          "link": "https://news.yale.edu/2026/03/31/yale-names-derek-chang-and-philippe-costeletos-successor-trustees",
-          "published": "2026-03-31T14:49:08Z"
+          "title": "Game Thread: Knicks at Rockets, March 31, 2026",
+          "source": "Posting and Toasting",
+          "link": "https://www.postingandtoasting.com/knicks-game-threads/80924/game-thread-knicks-at-rockets-march-31-2026",
+          "published": "2026-03-31T23:30:00Z"
         },
         {
-          "title": "American Express Inks NFL Official Payments Partner\u00a0Deal",
-          "source": "WWD",
-          "link": "http://wwd.com/business-news/business-features/american-express-nfl-official-payments-partner-perks-1238693769/",
-          "published": "2026-03-31T14:47:24Z"
+          "title": "Christian Athletes Rally Around Jaden Ivey After Bulls Cut Him Following Criticism of Pride Night",
+          "source": "Breitbart News",
+          "link": "https://www.breitbart.com/sports/2026/03/31/christian-athletes-rally-around-jaden-ivey-after-bulls-cut-him-following-criticism-of-pride-night/",
+          "published": "2026-03-31T23:29:21Z"
         },
         {
-          "title": "Masai Ujiri to join ownership group for WNBA\u2019s Toronto Tempo",
-          "source": "Yahoo Entertainment",
-          "link": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_0620b0cd-a0c5-4b8a-9538-efeecf55253b",
-          "published": "2026-03-31T14:46:06Z"
-        }
-      ]
-    },
-    {
-      "game": "Philadelphia 76ers @ Washington Wizards",
-      "home_team": "Washington Wizards",
-      "away_team": "Philadelphia 76ers",
-      "home_abbr": "WAS",
-      "away_abbr": "PHI",
-      "home_ml": "+900",
-      "away_ml": "-1600",
-      "home_ml_raw": 900,
-      "away_ml_raw": -1600,
-      "home_prob": 9.6,
-      "away_prob": 90.4,
-      "spread": "WAS +15.5",
-      "favorite": "Philadelphia 76ers",
-      "pick": "Philadelphia 76ers",
-      "pick_abbr": "PHI",
-      "moneyline": "-1600",
-      "win_probability": 90.4,
-      "confidence": "HIGH",
-      "confidence_stars": "\u2605\u2605\u2605",
-      "commence_time": "2026-04-01T23:10:00Z",
-      "line_movement": {
-        "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
-          "old_ml": "+900",
-          "new_ml": "+900"
-        },
-        "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
-          "old_ml": "-1600",
-          "new_ml": "-1600"
-        },
-        "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
-          "old_ml": "-1600",
-          "new_ml": "-1600"
-        },
-        "snapshot_time": "April 01, 2026 at 06:15 AM UTC"
-      },
-      "fatigue": {
-        "home": {
-          "status": "TRAVEL",
-          "label": "Cross-country travel \ud83d\udfe3",
-          "battery": 50,
-          "last_game": "Mar 30",
-          "days_rest": 2,
-          "games_last_4d": 2,
-          "travel_miles": 2297,
-          "travel_desc": "2,297 mi road trip",
-          "source": "ESPN Scoreboard API"
-        },
-        "away": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "Mar 30",
-          "days_rest": 2,
-          "games_last_4d": 2,
-          "travel_miles": 1018,
-          "travel_desc": "1,018 mi road trip",
-          "source": "ESPN Scoreboard API"
-        }
-      },
-      "edge_factors": [
-        "\u2708\ufe0f WAS traveled 2,297 mi"
-      ],
-      "injury_notes": "Anthony Davis (F); Kyshawn George (F); Trae Young (G); Tre Johnson (G)",
-      "sharp": {
-        "away_t": null,
-        "home_t": null,
-        "source": null,
-        "sharp_signal": null,
-        "sharp_label": "Pending \u2014 check closer to tip-off",
-        "rlm": false
-      },
-      "form": {
-        "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        },
-        "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        }
-      },
-      "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
-      },
-      "briefing": {
-        "trend": "Philadelphia 76ers hold a 90.4% edge.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
-        "injury_notes": "Anthony Davis (F); Kyshawn George (F); Trae Young (G); Tre Johnson (G)"
-      },
-      "live": {
-        "status": "pre",
-        "status_detail": "Upcoming",
-        "period": 0,
-        "clock": "",
-        "home_score": 0,
-        "away_score": 0,
-        "spread_alert": null
-      },
-      "news": [
-        {
-          "title": "Yale names Derek Chang and Philippe Costeletos as successor trustees",
-          "source": "Yale.edu",
-          "link": "https://news.yale.edu/2026/03/31/yale-names-derek-chang-and-philippe-costeletos-successor-trustees",
-          "published": "2026-03-31T14:49:08Z"
-        },
-        {
-          "title": "American Express Inks NFL Official Payments Partner\u00a0Deal",
-          "source": "WWD",
-          "link": "http://wwd.com/business-news/business-features/american-express-nfl-official-payments-partner-perks-1238693769/",
-          "published": "2026-03-31T14:47:24Z"
-        },
-        {
-          "title": "Masai Ujiri to join ownership group for WNBA\u2019s Toronto Tempo",
-          "source": "Yahoo Entertainment",
-          "link": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_0620b0cd-a0c5-4b8a-9538-efeecf55253b",
-          "published": "2026-03-31T14:46:06Z"
+          "title": "Mike Bianchi: Hallelujah, it\u2019s official! The Jaguars and the NFL are coming to Oooooor-lan-do!",
+          "source": "Orlando Sentinel",
+          "link": "https://www.orlandosentinel.com/2026/03/31/jacksonville-jaguars-orlando-nfl-2027-season-mike-bianchi-commentary/",
+          "published": "2026-03-31T23:15:00Z"
         }
       ]
     },
@@ -298,47 +300,47 @@
       "away_team": "Boston Celtics",
       "home_abbr": "MIA",
       "away_abbr": "BOS",
-      "home_ml": "+170",
-      "away_ml": "-205",
-      "home_ml_raw": 170,
-      "away_ml_raw": -205,
-      "home_prob": 35.5,
-      "away_prob": 64.5,
+      "home_ml": "+140",
+      "away_ml": "-180",
+      "home_ml_raw": 140,
+      "away_ml_raw": -180,
+      "home_prob": 39.3,
+      "away_prob": 60.7,
       "spread": "MIA +4.5",
       "favorite": "Boston Celtics",
       "pick": "Boston Celtics",
       "pick_abbr": "BOS",
-      "moneyline": "-205",
-      "win_probability": 64.5,
+      "moneyline": "-180",
+      "win_probability": 60.7,
       "confidence": "MEDIUM",
       "confidence_stars": "\u2605\u2605\u2606",
-      "commence_time": "2026-04-01T23:30:00Z",
+      "commence_time": "2026-04-01T23:42:00Z",
       "line_movement": {
         "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "shorter",
+          "points_moved": 30,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM +140 \u2190 +170",
           "old_ml": "+170",
-          "new_ml": "+170"
+          "new_ml": "+140"
         },
         "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "longer",
+          "points_moved": 25,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -180 \u2190 -205",
           "old_ml": "-205",
-          "new_ml": "-205"
+          "new_ml": "-180"
         },
         "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "longer",
+          "points_moved": 25,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -180 \u2190 -205",
           "old_ml": "-205",
-          "new_ml": "-205"
+          "new_ml": "-180"
         },
-        "snapshot_time": "April 01, 2026 at 06:15 AM UTC"
+        "snapshot_time": "April 01, 2026 at 02:56 PM UTC"
       },
       "fatigue": {
         "home": {
@@ -365,7 +367,7 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udcca 29.0pt probability edge"
+        "\ud83d\udd25 Sharp steam detected"
       ],
       "injury_notes": "Andrew Wiggins (F); Norman Powell (G); Terry Rozier (G); Ron Harper Jr. (G)",
       "sharp": {
@@ -402,9 +404,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "Boston Celtics hold a 64.5% edge.",
+        "trend": "Boston Celtics hold a 60.7% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "steam": "Line steamed from -205 to -180 (25pt move) \u2014 heavy professional action on Boston Celtics.",
         "injury_notes": "Andrew Wiggins (F); Norman Powell (G); Terry Rozier (G); Ron Harper Jr. (G)"
       },
       "live": {
@@ -418,22 +420,22 @@
       },
       "news": [
         {
-          "title": "Yale names Derek Chang and Philippe Costeletos as successor trustees",
-          "source": "Yale.edu",
-          "link": "https://news.yale.edu/2026/03/31/yale-names-derek-chang-and-philippe-costeletos-successor-trustees",
-          "published": "2026-03-31T14:49:08Z"
+          "title": "Game Thread: Knicks at Rockets, March 31, 2026",
+          "source": "Posting and Toasting",
+          "link": "https://www.postingandtoasting.com/knicks-game-threads/80924/game-thread-knicks-at-rockets-march-31-2026",
+          "published": "2026-03-31T23:30:00Z"
         },
         {
-          "title": "American Express Inks NFL Official Payments Partner\u00a0Deal",
-          "source": "WWD",
-          "link": "http://wwd.com/business-news/business-features/american-express-nfl-official-payments-partner-perks-1238693769/",
-          "published": "2026-03-31T14:47:24Z"
+          "title": "Christian Athletes Rally Around Jaden Ivey After Bulls Cut Him Following Criticism of Pride Night",
+          "source": "Breitbart News",
+          "link": "https://www.breitbart.com/sports/2026/03/31/christian-athletes-rally-around-jaden-ivey-after-bulls-cut-him-following-criticism-of-pride-night/",
+          "published": "2026-03-31T23:29:21Z"
         },
         {
-          "title": "Masai Ujiri to join ownership group for WNBA\u2019s Toronto Tempo",
-          "source": "Yahoo Entertainment",
-          "link": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_0620b0cd-a0c5-4b8a-9538-efeecf55253b",
-          "published": "2026-03-31T14:46:06Z"
+          "title": "Mike Bianchi: Hallelujah, it\u2019s official! The Jaguars and the NFL are coming to Oooooor-lan-do!",
+          "source": "Orlando Sentinel",
+          "link": "https://www.orlandosentinel.com/2026/03/31/jacksonville-jaguars-orlando-nfl-2027-season-mike-bianchi-commentary/",
+          "published": "2026-03-31T23:15:00Z"
         }
       ]
     },
@@ -443,47 +445,47 @@
       "away_team": "Milwaukee Bucks",
       "home_abbr": "HOU",
       "away_abbr": "MIL",
-      "home_ml": "-1800",
-      "away_ml": "+1000",
-      "home_ml_raw": -1800,
-      "away_ml_raw": 1000,
-      "home_prob": 91.2,
-      "away_prob": 8.8,
-      "spread": "HOU -17.5",
+      "home_ml": "-2400",
+      "away_ml": "+1200",
+      "home_ml_raw": -2400,
+      "away_ml_raw": 1200,
+      "home_prob": 92.6,
+      "away_prob": 7.4,
+      "spread": "HOU -19.5",
       "favorite": "Houston Rockets",
       "pick": "Houston Rockets",
       "pick_abbr": "HOU",
-      "moneyline": "-1800",
-      "win_probability": 91.2,
+      "moneyline": "-2400",
+      "win_probability": 92.6,
       "confidence": "HIGH",
       "confidence_stars": "\u2605\u2605\u2605",
       "commence_time": "2026-04-02T00:00:00Z",
       "line_movement": {
         "home": {
           "direction": "shorter",
-          "points_moved": 150,
+          "points_moved": 600,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM -1800 \u2190 -1650",
-          "old_ml": "-1650",
-          "new_ml": "-1800"
+          "label": "\ud83d\udd25 STEAM -2400 \u2190 -1800",
+          "old_ml": "-1800",
+          "new_ml": "-2400"
         },
         "away": {
           "direction": "longer",
-          "points_moved": 50,
+          "points_moved": 200,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM +1000 \u2190 +950",
-          "old_ml": "+950",
-          "new_ml": "+1000"
+          "label": "\ud83d\udd25 STEAM +1200 \u2190 +1000",
+          "old_ml": "+1000",
+          "new_ml": "+1200"
         },
         "pick": {
           "direction": "shorter",
-          "points_moved": 150,
+          "points_moved": 600,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM -1800 \u2190 -1650",
-          "old_ml": "-1650",
-          "new_ml": "-1800"
+          "label": "\ud83d\udd25 STEAM -2400 \u2190 -1800",
+          "old_ml": "-1800",
+          "new_ml": "-2400"
         },
-        "snapshot_time": "April 01, 2026 at 06:15 AM UTC"
+        "snapshot_time": "April 01, 2026 at 02:56 PM UTC"
       },
       "fatigue": {
         "home": {
@@ -513,7 +515,7 @@
         "\ud83d\udd25 Sharp steam detected",
         "\ud83d\udca4 MIL fatigued (B2B) \u2014 source: ESPN"
       ],
-      "injury_notes": "Steven Adams (C); Fred VanVleet (G); Gary Harris (G); Thanasis Antetokounmpo (F)",
+      "injury_notes": "Steven Adams (C); Fred VanVleet (G); Thanasis Antetokounmpo (F); Gary Harris (G)",
       "sharp": {
         "away_t": null,
         "home_t": null,
@@ -550,8 +552,8 @@
       "briefing": {
         "trend": "HOU on Back-to-Back \u26a0\ufe0f per ESPN schedule data. MIL on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -1650 to -1800 (150pt move) \u2014 heavy professional action on Houston Rockets.",
-        "injury_notes": "Steven Adams (C); Fred VanVleet (G); Gary Harris (G); Thanasis Antetokounmpo (F)"
+        "steam": "Line steamed from -1800 to -2400 (600pt move) \u2014 heavy professional action on Houston Rockets.",
+        "injury_notes": "Steven Adams (C); Fred VanVleet (G); Thanasis Antetokounmpo (F); Gary Harris (G)"
       },
       "live": {
         "status": "pre",
@@ -564,22 +566,22 @@
       },
       "news": [
         {
-          "title": "Yale names Derek Chang and Philippe Costeletos as successor trustees",
-          "source": "Yale.edu",
-          "link": "https://news.yale.edu/2026/03/31/yale-names-derek-chang-and-philippe-costeletos-successor-trustees",
-          "published": "2026-03-31T14:49:08Z"
+          "title": "Game Thread: Knicks at Rockets, March 31, 2026",
+          "source": "Posting and Toasting",
+          "link": "https://www.postingandtoasting.com/knicks-game-threads/80924/game-thread-knicks-at-rockets-march-31-2026",
+          "published": "2026-03-31T23:30:00Z"
         },
         {
-          "title": "American Express Inks NFL Official Payments Partner\u00a0Deal",
-          "source": "WWD",
-          "link": "http://wwd.com/business-news/business-features/american-express-nfl-official-payments-partner-perks-1238693769/",
-          "published": "2026-03-31T14:47:24Z"
+          "title": "Christian Athletes Rally Around Jaden Ivey After Bulls Cut Him Following Criticism of Pride Night",
+          "source": "Breitbart News",
+          "link": "https://www.breitbart.com/sports/2026/03/31/christian-athletes-rally-around-jaden-ivey-after-bulls-cut-him-following-criticism-of-pride-night/",
+          "published": "2026-03-31T23:29:21Z"
         },
         {
-          "title": "Masai Ujiri to join ownership group for WNBA\u2019s Toronto Tempo",
-          "source": "Yahoo Entertainment",
-          "link": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_0620b0cd-a0c5-4b8a-9538-efeecf55253b",
-          "published": "2026-03-31T14:46:06Z"
+          "title": "Mike Bianchi: Hallelujah, it\u2019s official! The Jaguars and the NFL are coming to Oooooor-lan-do!",
+          "source": "Orlando Sentinel",
+          "link": "https://www.orlandosentinel.com/2026/03/31/jacksonville-jaguars-orlando-nfl-2027-season-mike-bianchi-commentary/",
+          "published": "2026-03-31T23:15:00Z"
         }
       ]
     },
@@ -589,47 +591,47 @@
       "away_team": "New York Knicks",
       "home_abbr": "MEM",
       "away_abbr": "NYK",
-      "home_ml": "+700",
-      "away_ml": "-1100",
-      "home_ml_raw": 700,
-      "away_ml_raw": -1100,
-      "home_prob": 12.0,
-      "away_prob": 88.0,
-      "spread": "MEM +14.5",
+      "home_ml": "+600",
+      "away_ml": "-900",
+      "home_ml_raw": 600,
+      "away_ml_raw": -900,
+      "home_prob": 13.7,
+      "away_prob": 86.3,
+      "spread": "MEM +13.5",
       "favorite": "New York Knicks",
       "pick": "New York Knicks",
       "pick_abbr": "NYK",
-      "moneyline": "-1100",
-      "win_probability": 88.0,
+      "moneyline": "-900",
+      "win_probability": 86.3,
       "confidence": "HIGH",
       "confidence_stars": "\u2605\u2605\u2605",
       "commence_time": "2026-04-02T00:00:00Z",
       "line_movement": {
         "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "shorter",
+          "points_moved": 100,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM +600 \u2190 +700",
           "old_ml": "+700",
-          "new_ml": "+700"
+          "new_ml": "+600"
         },
         "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "longer",
+          "points_moved": 200,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -900 \u2190 -1100",
           "old_ml": "-1100",
-          "new_ml": "-1100"
+          "new_ml": "-900"
         },
         "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "longer",
+          "points_moved": 200,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -900 \u2190 -1100",
           "old_ml": "-1100",
-          "new_ml": "-1100"
+          "new_ml": "-900"
         },
-        "snapshot_time": "April 01, 2026 at 06:15 AM UTC"
+        "snapshot_time": "April 01, 2026 at 02:56 PM UTC"
       },
       "fatigue": {
         "home": {
@@ -656,7 +658,7 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udcca 76.0pt probability edge"
+        "\ud83d\udd25 Sharp steam detected"
       ],
       "injury_notes": "Taylor Hendricks (F); Taj Gibson (F); Ty Jerome (G); Jaylen Wells (F)",
       "sharp": {
@@ -695,7 +697,7 @@
       "briefing": {
         "trend": "NYK on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "steam": "Line steamed from -1100 to -900 (200pt move) \u2014 heavy professional action on New York Knicks.",
         "injury_notes": "Taylor Hendricks (F); Taj Gibson (F); Ty Jerome (G); Jaylen Wells (F)"
       },
       "live": {
@@ -709,22 +711,10 @@
       },
       "news": [
         {
-          "title": "Yale names Derek Chang and Philippe Costeletos as successor trustees",
-          "source": "Yale.edu",
-          "link": "https://news.yale.edu/2026/03/31/yale-names-derek-chang-and-philippe-costeletos-successor-trustees",
-          "published": "2026-03-31T14:49:08Z"
-        },
-        {
-          "title": "American Express Inks NFL Official Payments Partner\u00a0Deal",
-          "source": "WWD",
-          "link": "http://wwd.com/business-news/business-features/american-express-nfl-official-payments-partner-perks-1238693769/",
-          "published": "2026-03-31T14:47:24Z"
-        },
-        {
-          "title": "Masai Ujiri to join ownership group for WNBA\u2019s Toronto Tempo",
-          "source": "Yahoo Entertainment",
-          "link": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_0620b0cd-a0c5-4b8a-9538-efeecf55253b",
-          "published": "2026-03-31T14:46:06Z"
+          "title": "Grizzlies' Clarke arrested on drug, traffic charges",
+          "source": "www.espn.com - NBA",
+          "link": "https://www.espn.com/nba/story/_/id/48372917/grizzlies-clarke-arrested-arkansas-drug-speeding-charges",
+          "published": "Wed, 1 Apr 2026 19:36:14 EST"
         }
       ]
     },
@@ -734,47 +724,47 @@
       "away_team": "Sacramento Kings",
       "home_abbr": "TOR",
       "away_abbr": "SAC",
-      "home_ml": "-850",
-      "away_ml": "+575",
-      "home_ml_raw": -850,
-      "away_ml_raw": 575,
-      "home_prob": 85.8,
-      "away_prob": 14.2,
-      "spread": "TOR -13.5",
+      "home_ml": "-750",
+      "away_ml": "+525",
+      "home_ml_raw": -750,
+      "away_ml_raw": 525,
+      "home_prob": 84.7,
+      "away_prob": 15.3,
+      "spread": "TOR -12.5",
       "favorite": "Toronto Raptors",
       "pick": "Toronto Raptors",
       "pick_abbr": "TOR",
-      "moneyline": "-850",
-      "win_probability": 85.8,
+      "moneyline": "-750",
+      "win_probability": 84.7,
       "confidence": "HIGH",
       "confidence_stars": "\u2605\u2605\u2605",
       "commence_time": "2026-04-02T00:00:00Z",
       "line_movement": {
         "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "longer",
+          "points_moved": 100,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -750 \u2190 -850",
           "old_ml": "-850",
-          "new_ml": "-850"
+          "new_ml": "-750"
         },
         "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "shorter",
+          "points_moved": 50,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM +525 \u2190 +575",
           "old_ml": "+575",
-          "new_ml": "+575"
+          "new_ml": "+525"
         },
         "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "longer",
+          "points_moved": 100,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -750 \u2190 -850",
           "old_ml": "-850",
-          "new_ml": "-850"
+          "new_ml": "-750"
         },
-        "snapshot_time": "April 01, 2026 at 06:15 AM UTC"
+        "snapshot_time": "April 01, 2026 at 02:56 PM UTC"
       },
       "fatigue": {
         "home": {
@@ -801,9 +791,10 @@
         }
       },
       "edge_factors": [
+        "\ud83d\udd25 Sharp steam detected",
         "\u2708\ufe0f SAC traveled 2,502 mi"
       ],
-      "injury_notes": "Brandon Ingram (F); Collin Murray-Boyles (F); Jamison Battle (F); Immanuel Quickley (G)",
+      "injury_notes": "Immanuel Quickley (G); Jamison Battle (F); Brandon Ingram (F); Collin Murray-Boyles (F)",
       "sharp": {
         "away_t": null,
         "home_t": null,
@@ -840,8 +831,8 @@
       "briefing": {
         "trend": "TOR on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
-        "injury_notes": "Brandon Ingram (F); Collin Murray-Boyles (F); Jamison Battle (F); Immanuel Quickley (G)"
+        "steam": "Line steamed from -850 to -750 (100pt move) \u2014 heavy professional action on Toronto Raptors.",
+        "injury_notes": "Immanuel Quickley (G); Jamison Battle (F); Brandon Ingram (F); Collin Murray-Boyles (F)"
       },
       "live": {
         "status": "pre",
@@ -854,16 +845,16 @@
       },
       "news": [
         {
-          "title": "NBA Power Rankings: What to watch over the final two weeks for all 30 teams",
-          "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/nba/story/_/id/48356634/nba-power-rankings-watch-final-two-weeks-all-30-teams",
-          "published": "Wed, 1 Apr 2026 09:23:52 EST"
-        },
-        {
           "title": "Pistons' win clinches first division title in 18 years",
           "source": "www.espn.com - NBA",
           "link": "https://www.espn.com/nba/story/_/id/48364658/pistons-clinch-first-division-title-18-years-win",
-          "published": "Wed, 1 Apr 2026 10:36:16 EST"
+          "published": "Wed, 1 Apr 2026 19:36:14 EST"
+        },
+        {
+          "title": "NBA Power Rankings: What to watch over the final two weeks for all 30 teams",
+          "source": "www.espn.com - NBA",
+          "link": "https://www.espn.com/nba/story/_/id/48356634/nba-power-rankings-watch-final-two-weeks-all-30-teams",
+          "published": "Wed, 1 Apr 2026 13:29:02 EST"
         }
       ]
     },
@@ -873,47 +864,47 @@
       "away_team": "Indiana Pacers",
       "home_abbr": "CHI",
       "away_abbr": "IND",
-      "home_ml": "-192",
-      "away_ml": "+160",
-      "home_ml_raw": -192,
-      "away_ml_raw": 160,
-      "home_prob": 63.1,
-      "away_prob": 36.9,
+      "home_ml": "-170",
+      "away_ml": "+142",
+      "home_ml_raw": -170,
+      "away_ml_raw": 142,
+      "home_prob": 60.4,
+      "away_prob": 39.6,
       "spread": "CHI -4.5",
       "favorite": "Chicago Bulls",
       "pick": "Chicago Bulls",
       "pick_abbr": "CHI",
-      "moneyline": "-192",
-      "win_probability": 63.1,
+      "moneyline": "-170",
+      "win_probability": 60.4,
       "confidence": "MEDIUM",
       "confidence_stars": "\u2605\u2605\u2606",
       "commence_time": "2026-04-02T00:10:00Z",
       "line_movement": {
         "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "longer",
+          "points_moved": 22,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -170 \u2190 -192",
           "old_ml": "-192",
-          "new_ml": "-192"
+          "new_ml": "-170"
         },
         "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "shorter",
+          "points_moved": 18,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM +142 \u2190 +160",
           "old_ml": "+160",
-          "new_ml": "+160"
+          "new_ml": "+142"
         },
         "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "longer",
+          "points_moved": 22,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -170 \u2190 -192",
           "old_ml": "-192",
-          "new_ml": "-192"
+          "new_ml": "-170"
         },
-        "snapshot_time": "April 01, 2026 at 06:15 AM UTC"
+        "snapshot_time": "April 01, 2026 at 02:56 PM UTC"
       },
       "fatigue": {
         "home": {
@@ -940,7 +931,7 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udcca 26.2pt probability edge"
+        "\ud83d\udd25 Sharp steam detected"
       ],
       "injury_notes": "Nick Richards (C); Anfernee Simons (G); Jalen Smith (F); Zach Collins (F)",
       "sharp": {
@@ -977,9 +968,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "Chicago Bulls hold a 63.1% edge.",
+        "trend": "Chicago Bulls hold a 60.4% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "steam": "Line steamed from -192 to -170 (22pt move) \u2014 heavy professional action on Chicago Bulls.",
         "injury_notes": "Nick Richards (C); Anfernee Simons (G); Jalen Smith (F); Zach Collins (F)"
       },
       "live": {
@@ -996,7 +987,7 @@
           "title": "Bulls waive guard Ivey after anti-gay comments",
           "source": "www.espn.com - NBA",
           "link": "https://www.espn.com/nba/story/_/id/48350464/sources-bulls-waive-jaden-ivey-anti-gay-comments",
-          "published": "Wed, 1 Apr 2026 10:36:16 EST"
+          "published": "Wed, 1 Apr 2026 19:36:14 EST"
         }
       ]
     },
@@ -1006,47 +997,47 @@
       "away_team": "Denver Nuggets",
       "home_abbr": "UTA",
       "away_abbr": "DEN",
-      "home_ml": "+950",
-      "away_ml": "-1650",
-      "home_ml_raw": 950,
-      "away_ml_raw": -1650,
-      "home_prob": 9.2,
-      "away_prob": 90.8,
+      "home_ml": "+1000",
+      "away_ml": "-1800",
+      "home_ml_raw": 1000,
+      "away_ml_raw": -1800,
+      "home_prob": 8.8,
+      "away_prob": 91.2,
       "spread": "UTA +16.5",
       "favorite": "Denver Nuggets",
       "pick": "Denver Nuggets",
       "pick_abbr": "DEN",
-      "moneyline": "-1650",
-      "win_probability": 90.8,
+      "moneyline": "-1800",
+      "win_probability": 91.2,
       "confidence": "HIGH",
       "confidence_stars": "\u2605\u2605\u2605",
       "commence_time": "2026-04-02T01:10:00Z",
       "line_movement": {
         "home": {
-          "direction": "shorter",
+          "direction": "longer",
           "points_moved": 50,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM +950 \u2190 +1000",
-          "old_ml": "+1000",
-          "new_ml": "+950"
+          "label": "\ud83d\udd25 STEAM +1000 \u2190 +950",
+          "old_ml": "+950",
+          "new_ml": "+1000"
         },
         "away": {
-          "direction": "longer",
+          "direction": "shorter",
           "points_moved": 150,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM -1650 \u2190 -1800",
-          "old_ml": "-1800",
-          "new_ml": "-1650"
+          "label": "\ud83d\udd25 STEAM -1800 \u2190 -1650",
+          "old_ml": "-1650",
+          "new_ml": "-1800"
         },
         "pick": {
-          "direction": "longer",
+          "direction": "shorter",
           "points_moved": 150,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM -1650 \u2190 -1800",
-          "old_ml": "-1800",
-          "new_ml": "-1650"
+          "label": "\ud83d\udd25 STEAM -1800 \u2190 -1650",
+          "old_ml": "-1650",
+          "new_ml": "-1800"
         },
-        "snapshot_time": "April 01, 2026 at 06:15 AM UTC"
+        "snapshot_time": "April 01, 2026 at 02:56 PM UTC"
       },
       "fatigue": {
         "home": {
@@ -1110,9 +1101,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "Denver Nuggets hold a 90.8% edge.",
+        "trend": "Denver Nuggets hold a 91.2% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -1800 to -1650 (150pt move) \u2014 heavy professional action on Denver Nuggets.",
+        "steam": "Line steamed from -1650 to -1800 (150pt move) \u2014 heavy professional action on Denver Nuggets.",
         "injury_notes": "Elijah Harkless (G); Isaiah Collier (G); Keyonte George (G); Lauri Markkanen (F)"
       },
       "live": {
@@ -1126,22 +1117,22 @@
       },
       "news": [
         {
-          "title": "Yale names Derek Chang and Philippe Costeletos as successor trustees",
-          "source": "Yale.edu",
-          "link": "https://news.yale.edu/2026/03/31/yale-names-derek-chang-and-philippe-costeletos-successor-trustees",
-          "published": "2026-03-31T14:49:08Z"
+          "title": "Game Thread: Knicks at Rockets, March 31, 2026",
+          "source": "Posting and Toasting",
+          "link": "https://www.postingandtoasting.com/knicks-game-threads/80924/game-thread-knicks-at-rockets-march-31-2026",
+          "published": "2026-03-31T23:30:00Z"
         },
         {
-          "title": "American Express Inks NFL Official Payments Partner\u00a0Deal",
-          "source": "WWD",
-          "link": "http://wwd.com/business-news/business-features/american-express-nfl-official-payments-partner-perks-1238693769/",
-          "published": "2026-03-31T14:47:24Z"
+          "title": "Christian Athletes Rally Around Jaden Ivey After Bulls Cut Him Following Criticism of Pride Night",
+          "source": "Breitbart News",
+          "link": "https://www.breitbart.com/sports/2026/03/31/christian-athletes-rally-around-jaden-ivey-after-bulls-cut-him-following-criticism-of-pride-night/",
+          "published": "2026-03-31T23:29:21Z"
         },
         {
-          "title": "Masai Ujiri to join ownership group for WNBA\u2019s Toronto Tempo",
-          "source": "Yahoo Entertainment",
-          "link": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_0620b0cd-a0c5-4b8a-9538-efeecf55253b",
-          "published": "2026-03-31T14:46:06Z"
+          "title": "Mike Bianchi: Hallelujah, it\u2019s official! The Jaguars and the NFL are coming to Oooooor-lan-do!",
+          "source": "Orlando Sentinel",
+          "link": "https://www.orlandosentinel.com/2026/03/31/jacksonville-jaguars-orlando-nfl-2027-season-mike-bianchi-commentary/",
+          "published": "2026-03-31T23:15:00Z"
         }
       ]
     },
@@ -1157,7 +1148,7 @@
       "away_ml_raw": -950,
       "home_prob": 13.2,
       "away_prob": 86.8,
-      "spread": "GSW +13.5",
+      "spread": "GSW +14.5",
       "favorite": "San Antonio Spurs",
       "pick": "San Antonio Spurs",
       "pick_abbr": "SAS",
@@ -1168,30 +1159,30 @@
       "commence_time": "2026-04-02T02:00:00Z",
       "line_movement": {
         "home": {
-          "direction": "longer",
-          "points_moved": 50,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM +625 \u2190 +575",
-          "old_ml": "+575",
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "No movement",
+          "old_ml": "+625",
           "new_ml": "+625"
         },
         "away": {
-          "direction": "shorter",
-          "points_moved": 100,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -950 \u2190 -850",
-          "old_ml": "-850",
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "No movement",
+          "old_ml": "-950",
           "new_ml": "-950"
         },
         "pick": {
-          "direction": "shorter",
-          "points_moved": 100,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -950 \u2190 -850",
-          "old_ml": "-850",
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "No movement",
+          "old_ml": "-950",
           "new_ml": "-950"
         },
-        "snapshot_time": "April 01, 2026 at 06:15 AM UTC"
+        "snapshot_time": "April 01, 2026 at 02:56 PM UTC"
       },
       "fatigue": {
         "home": {
@@ -1218,7 +1209,7 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udd25 Sharp steam detected"
+        "\ud83d\udcca 73.6pt probability edge"
       ],
       "injury_notes": "Quinten Post (C); Will Richard (G); Stephen Curry (G); Al Horford (C)",
       "sharp": {
@@ -1257,7 +1248,7 @@
       "briefing": {
         "trend": "San Antonio Spurs hold a 86.8% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -850 to -950 (100pt move) \u2014 heavy professional action on San Antonio Spurs.",
+        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "Quinten Post (C); Will Richard (G); Stephen Curry (G); Al Horford (C)"
       },
       "live": {
@@ -1271,22 +1262,300 @@
       },
       "news": [
         {
-          "title": "NBA playoff watch: Wemby, Spurs look to stay hot",
-          "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/nba/story/_/id/48287649/nba-playoff-watch-2026-standings-schedules-projections-clinchings",
-          "published": "Wed, 1 Apr 2026 09:23:52 EST"
-        },
-        {
           "title": "\ud83d\udc40 Detailing six free agency options for LeBron",
           "source": "www.espn.com - NBA",
           "link": "https://www.espn.com/nba/story/_/id/48323320/next-lebron-nba-insiders-lakers-warriors-cavs-free-agency-options",
-          "published": "Wed, 1 Apr 2026 10:36:16 EST"
+          "published": "Wed, 1 Apr 2026 19:36:14 EST"
         },
         {
           "title": "Draymond Green reflects on his future amid uncertainty in Golden State",
           "source": "www.espn.com - NBA",
           "link": "https://www.espn.com/nba/story/_/id/48359923/draymond-green-reflects-future-amid-uncertainty-golden-state-warriors",
-          "published": "Wed, 1 Apr 2026 10:07:56 EST"
+          "published": "Wed, 1 Apr 2026 13:27:36 EST"
+        },
+        {
+          "title": "NBA playoff watch: Wemby, Spurs look to stay hot",
+          "source": "www.espn.com - NBA",
+          "link": "https://www.espn.com/nba/story/_/id/48287649/nba-playoff-watch-2026-standings-schedules-projections-clinchings",
+          "published": "Wed, 1 Apr 2026 13:27:36 EST"
+        }
+      ]
+    },
+    {
+      "game": "Minnesota Timberwolves @ Detroit Pistons",
+      "home_team": "Detroit Pistons",
+      "away_team": "Minnesota Timberwolves",
+      "home_abbr": "DET",
+      "away_abbr": "MIN",
+      "home_ml": "-135",
+      "away_ml": "+114",
+      "home_ml_raw": -135,
+      "away_ml_raw": 114,
+      "home_prob": 55.1,
+      "away_prob": 44.9,
+      "spread": "DET -2.5",
+      "favorite": "Detroit Pistons",
+      "pick": "Detroit Pistons",
+      "pick_abbr": "DET",
+      "moneyline": "-135",
+      "win_probability": 55.1,
+      "confidence": "LOW",
+      "confidence_stars": "\u2605\u2606\u2606",
+      "commence_time": "2026-04-02T23:10:00Z",
+      "line_movement": {
+        "home": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "away": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "pick": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "snapshot_time": "\u2014"
+      },
+      "fatigue": {
+        "home": {
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Mar 31",
+          "days_rest": 1,
+          "games_last_4d": 3,
+          "travel_miles": 909,
+          "travel_desc": "909 mi road trip",
+          "source": "ESPN Scoreboard API"
+        },
+        "away": {
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
+          "last_game": "Mar 30",
+          "days_rest": 2,
+          "games_last_4d": 2,
+          "travel_miles": 863,
+          "travel_desc": "863 mi road trip",
+          "source": "ESPN Scoreboard API"
+        }
+      },
+      "edge_factors": [
+        "\ud83d\udcca 10.2pt probability edge"
+      ],
+      "injury_notes": "Isaiah Stewart (F); Cade Cunningham (G); Jaden McDaniels (F); Rocco Zikarsky (C)",
+      "sharp": {
+        "away_t": null,
+        "home_t": null,
+        "source": null,
+        "sharp_signal": null,
+        "sharp_label": "Pending \u2014 check closer to tip-off",
+        "rlm": false
+      },
+      "form": {
+        "home": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        },
+        "away": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        }
+      },
+      "h2h": {
+        "total_meetings": 0,
+        "home_wins": 0,
+        "away_wins": 0,
+        "meetings": [],
+        "source": "\u2014"
+      },
+      "briefing": {
+        "trend": "DET on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "matchup": "Both rosters appear healthy \u2014 clean line.",
+        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "injury_notes": "Isaiah Stewart (F); Cade Cunningham (G); Jaden McDaniels (F); Rocco Zikarsky (C)"
+      },
+      "live": {
+        "status": "pre",
+        "status_detail": "Upcoming",
+        "period": 0,
+        "clock": "",
+        "home_score": 0,
+        "away_score": 0,
+        "spread_alert": null
+      },
+      "news": [
+        {
+          "title": "Pistons' win clinches first division title in 18 years",
+          "source": "www.espn.com - NBA",
+          "link": "https://www.espn.com/nba/story/_/id/48364658/pistons-clinch-first-division-title-18-years-win",
+          "published": "Wed, 1 Apr 2026 19:36:14 EST"
+        }
+      ]
+    },
+    {
+      "game": "Los Angeles Lakers @ Oklahoma City Thunder",
+      "home_team": "Oklahoma City Thunder",
+      "away_team": "Los Angeles Lakers",
+      "home_abbr": "OKC",
+      "away_abbr": "LAL",
+      "home_ml": "-325",
+      "away_ml": "+260",
+      "home_ml_raw": -325,
+      "away_ml_raw": 260,
+      "home_prob": 73.4,
+      "away_prob": 26.6,
+      "spread": "OKC -8.5",
+      "favorite": "Oklahoma City Thunder",
+      "pick": "Oklahoma City Thunder",
+      "pick_abbr": "OKC",
+      "moneyline": "-325",
+      "win_probability": 73.4,
+      "confidence": "HIGH",
+      "confidence_stars": "\u2605\u2605\u2605",
+      "commence_time": "2026-04-03T01:40:00Z",
+      "line_movement": {
+        "home": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "away": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "pick": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "snapshot_time": "\u2014"
+      },
+      "fatigue": {
+        "home": {
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
+          "last_game": "Mar 30",
+          "days_rest": 2,
+          "games_last_4d": 2,
+          "travel_miles": 0,
+          "travel_desc": "",
+          "source": "ESPN Scoreboard API"
+        },
+        "away": {
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Mar 31",
+          "days_rest": 1,
+          "games_last_4d": 2,
+          "travel_miles": 0,
+          "travel_desc": "",
+          "source": "ESPN Scoreboard API"
+        }
+      },
+      "edge_factors": [
+        "\ud83d\udca4 LAL fatigued (B2B) \u2014 source: ESPN"
+      ],
+      "injury_notes": "Jalen Williams (G); Isaiah Hartenstein (C); Thomas Sorber (C); Marcus Smart (G)",
+      "sharp": {
+        "away_t": null,
+        "home_t": null,
+        "source": null,
+        "sharp_signal": null,
+        "sharp_label": "Pending \u2014 check closer to tip-off",
+        "rlm": false
+      },
+      "form": {
+        "home": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        },
+        "away": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        }
+      },
+      "h2h": {
+        "total_meetings": 0,
+        "home_wins": 0,
+        "away_wins": 0,
+        "meetings": [],
+        "source": "\u2014"
+      },
+      "briefing": {
+        "trend": "LAL on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "matchup": "Both rosters appear healthy \u2014 clean line.",
+        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "injury_notes": "Jalen Williams (G); Isaiah Hartenstein (C); Thomas Sorber (C); Marcus Smart (G)"
+      },
+      "live": {
+        "status": "pre",
+        "status_detail": "Upcoming",
+        "period": 0,
+        "clock": "",
+        "home_score": 0,
+        "away_score": 0,
+        "spread_alert": null
+      },
+      "news": [
+        {
+          "title": "Out like a lion: Luka ends March with 600 points",
+          "source": "www.espn.com - NBA",
+          "link": "https://www.espn.com/nba/story/_/id/48366595/luka-totals-600-points-march-lakers-go-15-2",
+          "published": "Wed, 1 Apr 2026 19:36:14 EST"
+        },
+        {
+          "title": "\ud83d\udc40 Detailing six free agency options for LeBron",
+          "source": "www.espn.com - NBA",
+          "link": "https://www.espn.com/nba/story/_/id/48323320/next-lebron-nba-insiders-lakers-warriors-cavs-free-agency-options",
+          "published": "Wed, 1 Apr 2026 19:36:14 EST"
+        },
+        {
+          "title": "NBA Futures: Lakers' championship odds shortening, Wemby making MVP push",
+          "source": "www.espn.com - NBA",
+          "link": "https://www.espn.com/espn/betting/story/_/id/45539787/2025-nba-finals-odds-mvp-2025-26-championship-betting",
+          "published": "Wed, 1 Apr 2026 13:06:19 EST"
         }
       ]
     }
