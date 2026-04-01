@@ -138,9 +138,11 @@
       "win_probability": 56.3,
       "commence_time": "2026-03-31T23:10:00Z",
       "date": "2026-03-30T23:54:27.520078+00:00",
-      "graded": false,
-      "result": null,
-      "profit": null
+      "graded": true,
+      "result": "WIN",
+      "profit": 70.42,
+      "home_score": 115,
+      "away_score": 111
     },
     {
       "game": "Charlotte Hornets @ Brooklyn Nets",
@@ -152,9 +154,11 @@
       "win_probability": 89.3,
       "commence_time": "2026-03-31T23:40:00Z",
       "date": "2026-03-30T23:54:27.520078+00:00",
-      "graded": false,
-      "result": null,
-      "profit": null
+      "graded": true,
+      "result": "WIN",
+      "profit": 7.41,
+      "home_score": 86,
+      "away_score": 117
     },
     {
       "game": "New York Knicks @ Houston Rockets",
@@ -166,9 +170,11 @@
       "win_probability": 51.1,
       "commence_time": "2026-04-01T00:10:00Z",
       "date": "2026-03-30T23:54:27.520078+00:00",
-      "graded": false,
-      "result": null,
-      "profit": null
+      "graded": true,
+      "result": "LOSS",
+      "profit": -100,
+      "home_score": 111,
+      "away_score": 94
     },
     {
       "game": "Portland Trail Blazers @ Los Angeles Clippers",
@@ -180,9 +186,11 @@
       "win_probability": 50.0,
       "commence_time": "2026-04-01T03:10:00Z",
       "date": "2026-03-30T23:54:27.520078+00:00",
-      "graded": false,
-      "result": null,
-      "profit": null
+      "graded": true,
+      "result": "LOSS",
+      "profit": -100,
+      "home_score": 104,
+      "away_score": 114
     },
     {
       "game": "Dallas Mavericks @ Milwaukee Bucks",
@@ -194,9 +202,11 @@
       "win_probability": 51.1,
       "commence_time": "2026-04-01T00:10:00Z",
       "date": "2026-03-31T05:15:58.604324+00:00",
-      "graded": false,
-      "result": null,
-      "profit": null
+      "graded": true,
+      "result": "LOSS",
+      "profit": -100,
+      "home_score": 123,
+      "away_score": 99
     },
     {
       "game": "Toronto Raptors @ Detroit Pistons",
@@ -208,9 +218,11 @@
       "win_probability": 56.3,
       "commence_time": "2026-04-01T00:10:00Z",
       "date": "2026-03-31T05:15:58.604324+00:00",
-      "graded": false,
-      "result": null,
-      "profit": null
+      "graded": true,
+      "result": "WIN",
+      "profit": 70.42,
+      "home_score": 127,
+      "away_score": 116
     },
     {
       "game": "Cleveland Cavaliers @ Los Angeles Lakers",
@@ -222,9 +234,11 @@
       "win_probability": 53.2,
       "commence_time": "2026-04-01T02:40:00Z",
       "date": "2026-03-31T05:15:58.604324+00:00",
-      "graded": false,
-      "result": null,
-      "profit": null
+      "graded": true,
+      "result": "WIN",
+      "profit": 80.0,
+      "home_score": 127,
+      "away_score": 113
     },
     {
       "game": "Philadelphia 76ers @ Washington Wizards",
@@ -281,24 +295,94 @@
       "graded": false,
       "result": null,
       "profit": null
+    },
+    {
+      "game": "Atlanta Hawks @ Orlando Magic",
+      "pick": "Atlanta Hawks",
+      "pick_abbr": "ATL",
+      "moneyline": "-185",
+      "moneyline_raw": -185,
+      "confidence": "MEDIUM",
+      "win_probability": 62.2,
+      "commence_time": "2026-04-01T23:10:00Z",
+      "date": "2026-04-01T06:15:19.053841+00:00",
+      "graded": false,
+      "result": null,
+      "profit": null
+    },
+    {
+      "game": "Milwaukee Bucks @ Houston Rockets",
+      "pick": "Houston Rockets",
+      "pick_abbr": "HOU",
+      "moneyline": "-1650",
+      "moneyline_raw": -1650,
+      "confidence": "HIGH",
+      "win_probability": 90.8,
+      "commence_time": "2026-04-02T00:00:00Z",
+      "date": "2026-04-01T06:15:19.053841+00:00",
+      "graded": false,
+      "result": null,
+      "profit": null
+    },
+    {
+      "game": "New York Knicks @ Memphis Grizzlies",
+      "pick": "New York Knicks",
+      "pick_abbr": "NYK",
+      "moneyline": "-1100",
+      "moneyline_raw": -1100,
+      "confidence": "HIGH",
+      "win_probability": 88.0,
+      "commence_time": "2026-04-02T00:00:00Z",
+      "date": "2026-04-01T06:15:19.053841+00:00",
+      "graded": false,
+      "result": null,
+      "profit": null
+    },
+    {
+      "game": "Sacramento Kings @ Toronto Raptors",
+      "pick": "Toronto Raptors",
+      "pick_abbr": "TOR",
+      "moneyline": "-850",
+      "moneyline_raw": -850,
+      "confidence": "HIGH",
+      "win_probability": 85.8,
+      "commence_time": "2026-04-02T00:00:00Z",
+      "date": "2026-04-01T06:15:19.053841+00:00",
+      "graded": false,
+      "result": null,
+      "profit": null
+    },
+    {
+      "game": "Indiana Pacers @ Chicago Bulls",
+      "pick": "Chicago Bulls",
+      "pick_abbr": "CHI",
+      "moneyline": "-192",
+      "moneyline_raw": -192,
+      "confidence": "MEDIUM",
+      "win_probability": 63.1,
+      "commence_time": "2026-04-02T00:10:00Z",
+      "date": "2026-04-01T06:15:19.053841+00:00",
+      "graded": false,
+      "result": null,
+      "profit": null
     }
   ],
   "summary": {
     "LOW": {
-      "wins": 1,
-      "losses": 1,
-      "total": 2,
+      "wins": 4,
+      "losses": 4,
+      "total": 8,
       "win_pct": 50.0,
-      "roi": -7.6,
-      "profit": -15.25
+      "roi": -11.8,
+      "profit": -94.41
     },
     "HIGH": {
-      "wins": 5,
+      "wins": 6,
       "losses": 0,
-      "total": 5,
+      "total": 6,
       "win_pct": 100.0,
-      "roi": 8.8,
-      "profit": 44.03
+      "roi": 8.6,
+      "profit": 51.44
     },
     "MEDIUM": {
       "wins": 1,
@@ -309,21 +393,21 @@
       "profit": 35.09
     },
     "overall_7d": {
-      "wins": 7,
-      "losses": 1,
-      "total": 8,
-      "win_pct": 87.5,
-      "roi": 8.0,
-      "profit": 63.87
+      "wins": 11,
+      "losses": 4,
+      "total": 15,
+      "win_pct": 73.3,
+      "roi": -0.5,
+      "profit": -7.88
     },
     "overall_30d": {
-      "wins": 7,
-      "losses": 1,
-      "total": 8,
-      "win_pct": 87.5,
-      "roi": 8.0,
-      "profit": 63.87
+      "wins": 11,
+      "losses": 4,
+      "total": 15,
+      "win_pct": 73.3,
+      "roi": -0.5,
+      "profit": -7.88
     }
   },
-  "last_graded": "2026-03-31T05:15:46.749701+00:00"
+  "last_graded": "2026-04-01T06:14:28.932146+00:00"
 }
