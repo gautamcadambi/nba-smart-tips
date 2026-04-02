@@ -1,6 +1,6 @@
 {
-  "last_updated": "April 02, 2026 at 02:42 PM UTC",
-  "total_games": 6,
+  "last_updated": "April 02, 2026 at 11:05 PM UTC",
+  "total_games": 10,
   "games": [
     {
       "game": "Phoenix Suns @ Charlotte Hornets",
@@ -8,47 +8,47 @@
       "away_team": "Phoenix Suns",
       "home_abbr": "CHA",
       "away_abbr": "PHX",
-      "home_ml": "-205",
-      "away_ml": "+170",
-      "home_ml_raw": -205,
-      "away_ml_raw": 170,
-      "home_prob": 64.5,
-      "away_prob": 35.5,
+      "home_ml": "-230",
+      "away_ml": "+190",
+      "home_ml_raw": -230,
+      "away_ml_raw": 190,
+      "home_prob": 66.9,
+      "away_prob": 33.1,
       "spread": "CHA -5.5",
       "favorite": "Charlotte Hornets",
       "pick": "Charlotte Hornets",
       "pick_abbr": "CHA",
-      "moneyline": "-205",
-      "win_probability": 64.5,
+      "moneyline": "-230",
+      "win_probability": 66.9,
       "confidence": "MEDIUM",
       "confidence_stars": "\u2605\u2605\u2606",
       "commence_time": "2026-04-02T23:10:00Z",
       "line_movement": {
         "home": {
-          "direction": "longer",
-          "points_moved": 13,
+          "direction": "shorter",
+          "points_moved": 25,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM -205 \u2190 -218",
-          "old_ml": "-218",
-          "new_ml": "-205"
+          "label": "\ud83d\udd25 STEAM -230 \u2190 -205",
+          "old_ml": "-205",
+          "new_ml": "-230"
         },
         "away": {
-          "direction": "shorter",
-          "points_moved": 10,
+          "direction": "longer",
+          "points_moved": 20,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM +170 \u2190 +180",
-          "old_ml": "+180",
-          "new_ml": "+170"
+          "label": "\ud83d\udd25 STEAM +190 \u2190 +170",
+          "old_ml": "+170",
+          "new_ml": "+190"
         },
         "pick": {
-          "direction": "longer",
-          "points_moved": 13,
+          "direction": "shorter",
+          "points_moved": 25,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM -205 \u2190 -218",
-          "old_ml": "-218",
-          "new_ml": "-205"
+          "label": "\ud83d\udd25 STEAM -230 \u2190 -205",
+          "old_ml": "-205",
+          "new_ml": "-230"
         },
-        "snapshot_time": "April 02, 2026 at 05:53 AM UTC"
+        "snapshot_time": "April 02, 2026 at 02:42 PM UTC"
       },
       "fatigue": {
         "home": {
@@ -78,7 +78,7 @@
         "\ud83d\udd25 Sharp steam detected",
         "\u2708\ufe0f PHX traveled 1,842 mi"
       ],
-      "injury_notes": "PJ Hall (C); Amir Coffey (G); Haywood Highsmith (F); Mark Williams (C)",
+      "injury_notes": "PJ Hall (C); Amir Coffey (G); Haywood Highsmith (F)",
       "sharp": {
         "away_t": null,
         "home_t": null,
@@ -89,34 +89,182 @@
       },
       "form": {
         "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
+          "last_10": [
+            {
+              "date": "Apr 02",
+              "result": "W",
+              "pts": 119,
+              "opp": "CLE",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "W",
+              "pts": 133,
+              "opp": "ATL",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "L",
+              "pts": 126,
+              "opp": "CHI",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "L",
+              "pts": 86,
+              "opp": "DET",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "L",
+              "pts": 132,
+              "opp": "CLE",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "L",
+              "pts": 103,
+              "opp": "BKN",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "L",
+              "pts": 104,
+              "opp": "NYK",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "L",
+              "pts": 106,
+              "opp": "DEN",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "W",
+              "pts": 111,
+              "opp": "TOR",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "W",
+              "pts": 124,
+              "opp": "OKC",
+              "away": false
+            }
+          ],
+          "wins": 4,
+          "losses": 6,
+          "streak": "W2",
+          "form_str": "WWLLLLLLWW",
+          "source": "NBA.com via nba_api"
         },
         "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
+          "last_10": [
+            {
+              "date": "Apr 02",
+              "result": "L",
+              "pts": 114,
+              "opp": "LAL",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "L",
+              "pts": 89,
+              "opp": "OKC",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "W",
+              "pts": 99,
+              "opp": "GSW",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "L",
+              "pts": 116,
+              "opp": "GSW",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "W",
+              "pts": 125,
+              "opp": "LAL",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "L",
+              "pts": 112,
+              "opp": "DEN",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "W",
+              "pts": 108,
+              "opp": "MIN",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "L",
+              "pts": 98,
+              "opp": "HOU",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "W",
+              "pts": 108,
+              "opp": "OKC",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "L",
+              "pts": 97,
+              "opp": "HOU",
+              "away": false
+            }
+          ],
+          "wins": 4,
+          "losses": 6,
+          "streak": "L2",
+          "form_str": "LLWLWLWLWL",
+          "source": "NBA.com via nba_api"
         }
       },
       "h2h": {
-        "total_meetings": 0,
+        "total_meetings": 1,
         "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
+        "away_wins": 1,
+        "meetings": [
+          {
+            "date": "2026-03-08",
+            "home_result": "L",
+            "pts": 99
+          }
+        ],
+        "source": "NBA.com via nba_api"
       },
       "briefing": {
-        "trend": "Charlotte Hornets hold a 64.5% edge.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -218 to -205 (13pt move) \u2014 heavy professional action on Charlotte Hornets.",
-        "injury_notes": "PJ Hall (C); Amir Coffey (G); Haywood Highsmith (F); Mark Williams (C)"
+        "trend": "CHA are 4-6 in their last 10 (streak: W2). PHX are 4-6 in their last 10 (streak: L2).",
+        "matchup": "Season series: CHA 0-1 vs PHX in 1 meeting. Both rosters appear healthy \u2014 clean line.",
+        "steam": "Line steamed from -205 to -230 (25pt move) \u2014 heavy professional action on Charlotte Hornets.",
+        "injury_notes": "PJ Hall (C); Amir Coffey (G); Haywood Highsmith (F)"
       },
       "live": {
         "status": "pre",
@@ -132,7 +280,7 @@
           "title": "Izzo 'seriously' eyed Suns HC job last summer",
           "source": "www.espn.com - NBA",
           "link": "https://www.espn.com/nba/story/_/id/48371949/tom-izzo-says-seriously-considered-suns-hc-job-last-summer",
-          "published": "Thu, 2 Apr 2026 09:16:39 EST"
+          "published": "Thu, 2 Apr 2026 17:02:23 EST"
         }
       ]
     },
@@ -142,47 +290,47 @@
       "away_team": "Minnesota Timberwolves",
       "home_abbr": "DET",
       "away_abbr": "MIN",
-      "home_ml": "-162",
-      "away_ml": "+136",
-      "home_ml_raw": -162,
-      "away_ml_raw": 136,
-      "home_prob": 59.3,
-      "away_prob": 40.7,
-      "spread": "DET -3.5",
+      "home_ml": "-205",
+      "away_ml": "+170",
+      "home_ml_raw": -205,
+      "away_ml_raw": 170,
+      "home_prob": 64.5,
+      "away_prob": 35.5,
+      "spread": "DET -5.5",
       "favorite": "Detroit Pistons",
       "pick": "Detroit Pistons",
       "pick_abbr": "DET",
-      "moneyline": "-162",
-      "win_probability": 59.3,
+      "moneyline": "-205",
+      "win_probability": 64.5,
       "confidence": "MEDIUM",
       "confidence_stars": "\u2605\u2605\u2606",
       "commence_time": "2026-04-02T23:10:00Z",
       "line_movement": {
         "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "shorter",
+          "points_moved": 43,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -205 \u2190 -162",
           "old_ml": "-162",
-          "new_ml": "-162"
+          "new_ml": "-205"
         },
         "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "longer",
+          "points_moved": 34,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM +170 \u2190 +136",
           "old_ml": "+136",
-          "new_ml": "+136"
+          "new_ml": "+170"
         },
         "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "shorter",
+          "points_moved": 43,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -205 \u2190 -162",
           "old_ml": "-162",
-          "new_ml": "-162"
+          "new_ml": "-205"
         },
-        "snapshot_time": "April 02, 2026 at 05:53 AM UTC"
+        "snapshot_time": "April 02, 2026 at 02:42 PM UTC"
       },
       "fatigue": {
         "home": {
@@ -209,9 +357,9 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udcca 18.6pt probability edge"
+        "\ud83d\udd25 Sharp steam detected"
       ],
-      "injury_notes": "Marcus Sasser (G); Isaiah Stewart (F); Cade Cunningham (G); Anthony Edwards (G)",
+      "injury_notes": "Cade Cunningham (G); Isaiah Stewart (F); Anthony Edwards (G); Jaden McDaniels (F)",
       "sharp": {
         "away_t": null,
         "home_t": null,
@@ -222,34 +370,182 @@
       },
       "form": {
         "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
+          "last_10": [
+            {
+              "date": "Apr 02",
+              "result": "W",
+              "pts": 112,
+              "opp": "BOS",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "L",
+              "pts": 114,
+              "opp": "DAL",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "W",
+              "pts": 142,
+              "opp": "ATL",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "W",
+              "pts": 112,
+              "opp": "CHA",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "W",
+              "pts": 110,
+              "opp": "POR",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "L",
+              "pts": 109,
+              "opp": "MIL",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "W",
+              "pts": 138,
+              "opp": "MIA",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "W",
+              "pts": 99,
+              "opp": "ATL",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "W",
+              "pts": 124,
+              "opp": "MIL",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "W",
+              "pts": 122,
+              "opp": "POR",
+              "away": false
+            }
+          ],
+          "wins": 8,
+          "losses": 2,
+          "streak": "W1",
+          "form_str": "WLWWWLWWWW",
+          "source": "NBA.com via nba_api"
         },
         "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
+          "last_10": [
+            {
+              "date": "Apr 02",
+              "result": "W",
+              "pts": 117,
+              "opp": "SAC",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "L",
+              "pts": 110,
+              "opp": "MEM",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "W",
+              "pts": 127,
+              "opp": "GSW",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "W",
+              "pts": 103,
+              "opp": "MIL",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "W",
+              "pts": 112,
+              "opp": "OKC",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "W",
+              "pts": 149,
+              "opp": "NOP",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "W",
+              "pts": 125,
+              "opp": "SAS",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "W",
+              "pts": 119,
+              "opp": "BOS",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "W",
+              "pts": 109,
+              "opp": "LAC",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "L",
+              "pts": 105,
+              "opp": "PHX",
+              "away": false
+            }
+          ],
+          "wins": 8,
+          "losses": 2,
+          "streak": "W1",
+          "form_str": "WLWWWWWWWL",
+          "source": "NBA.com via nba_api"
         }
       },
       "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
+        "total_meetings": 1,
+        "home_wins": 1,
         "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
+        "meetings": [
+          {
+            "date": "2026-03-28",
+            "home_result": "W",
+            "pts": 109
+          }
+        ],
+        "source": "NBA.com via nba_api"
       },
       "briefing": {
-        "trend": "Detroit Pistons hold a 59.3% edge.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
-        "injury_notes": "Marcus Sasser (G); Isaiah Stewart (F); Cade Cunningham (G); Anthony Edwards (G)"
+        "trend": "DET are 8-2 in their last 10 (streak: W1). MIN are 8-2 in their last 10 (streak: W1).",
+        "matchup": "Season series: DET 1-0 vs MIN in 1 meeting. Both rosters appear healthy \u2014 clean line.",
+        "steam": "Line steamed from -162 to -205 (43pt move) \u2014 heavy professional action on Detroit Pistons.",
+        "injury_notes": "Cade Cunningham (G); Isaiah Stewart (F); Anthony Edwards (G); Jaden McDaniels (F)"
       },
       "live": {
         "status": "pre",
@@ -262,22 +558,10 @@
       },
       "news": [
         {
-          "title": "Is Zion Williamson's time in New Orleans nearing its end? 'I could be traded ... that\u2019s just the realism of it'",
-          "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/nba/article/is-zion-williamsons-time-in-new-orleans-nearing-its-end-i-could-be-traded--thats-just-the-realism-of-it-144123578.html",
-          "published": "2026-04-01T14:41:23Z"
-        },
-        {
-          "title": "Fantasy Basketball Waiver Wire Heroes: Top pickups who helped managers the most in 2025-26 NBA season",
-          "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/fantasy/article/fantasy-basketball-waiver-wire-heroes-top-pickups-who-helped-managers-the-most-in-2025-26-nba-season-143824975.html",
-          "published": "2026-04-01T14:38:24Z"
-        },
-        {
-          "title": "Carmelo Anthony to the Lakers? 'Stay Melo' announcement to join LeBron James dupes NBA fans",
-          "source": "Yahoo Entertainment",
-          "link": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_ab336ed9-41db-4e9f-b6a0-888263aa704e",
-          "published": "2026-04-01T14:32:10Z"
+          "title": "Pistons' Cunningham out at least another week",
+          "source": "www.espn.com - NBA",
+          "link": "https://www.espn.com/nba/story/_/id/48378921/pistons-cunningham-collapsed-lung-least-another-week",
+          "published": "Thu, 2 Apr 2026 17:02:24 EST"
         }
       ]
     },
@@ -287,47 +571,47 @@
       "away_team": "Los Angeles Lakers",
       "home_abbr": "OKC",
       "away_abbr": "LAL",
-      "home_ml": "-375",
-      "away_ml": "+295",
-      "home_ml_raw": -375,
-      "away_ml_raw": 295,
-      "home_prob": 75.7,
-      "away_prob": 24.3,
+      "home_ml": "-360",
+      "away_ml": "+285",
+      "home_ml_raw": -360,
+      "away_ml_raw": 285,
+      "home_prob": 75.1,
+      "away_prob": 24.9,
       "spread": "OKC -8.5",
       "favorite": "Oklahoma City Thunder",
       "pick": "Oklahoma City Thunder",
       "pick_abbr": "OKC",
-      "moneyline": "-375",
-      "win_probability": 75.7,
+      "moneyline": "-360",
+      "win_probability": 75.1,
       "confidence": "HIGH",
       "confidence_stars": "\u2605\u2605\u2605",
       "commence_time": "2026-04-03T01:40:00Z",
       "line_movement": {
         "home": {
-          "direction": "shorter",
-          "points_moved": 30,
+          "direction": "longer",
+          "points_moved": 15,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM -375 \u2190 -345",
-          "old_ml": "-345",
-          "new_ml": "-375"
+          "label": "\ud83d\udd25 STEAM -360 \u2190 -375",
+          "old_ml": "-375",
+          "new_ml": "-360"
         },
         "away": {
-          "direction": "longer",
-          "points_moved": 20,
+          "direction": "shorter",
+          "points_moved": 10,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM +295 \u2190 +275",
-          "old_ml": "+275",
-          "new_ml": "+295"
+          "label": "\ud83d\udd25 STEAM +285 \u2190 +295",
+          "old_ml": "+295",
+          "new_ml": "+285"
         },
         "pick": {
-          "direction": "shorter",
-          "points_moved": 30,
+          "direction": "longer",
+          "points_moved": 15,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM -375 \u2190 -345",
-          "old_ml": "-345",
-          "new_ml": "-375"
+          "label": "\ud83d\udd25 STEAM -360 \u2190 -375",
+          "old_ml": "-375",
+          "new_ml": "-360"
         },
-        "snapshot_time": "April 02, 2026 at 05:53 AM UTC"
+        "snapshot_time": "April 02, 2026 at 02:42 PM UTC"
       },
       "fatigue": {
         "home": {
@@ -367,33 +651,186 @@
       },
       "form": {
         "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
+          "last_10": [
+            {
+              "date": "Apr 02",
+              "result": "W",
+              "pts": 122,
+              "opp": "LAC",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "W",
+              "pts": 138,
+              "opp": "PHX",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "L",
+              "pts": 109,
+              "opp": "OKC",
+              "away": true
+            },
+            {
+              "date": "Apr 02",
+              "result": "L",
+              "pts": 107,
+              "opp": "MIN",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "W",
+              "pts": 124,
+              "opp": "GSW",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "W",
+              "pts": 123,
+              "opp": "POR",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "W",
+              "pts": 131,
+              "opp": "UTA",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "W",
+              "pts": 132,
+              "opp": "DAL",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "W",
+              "pts": 119,
+              "opp": "MEM",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "L",
+              "pts": 105,
+              "opp": "PHX",
+              "away": false
+            }
+          ],
+          "wins": 7,
+          "losses": 3,
+          "streak": "W2",
+          "form_str": "WWLLWWWWWL",
+          "source": "NBA.com via nba_api"
         },
         "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
+          "last_10": [
+            {
+              "date": "Apr 02",
+              "result": "W",
+              "pts": 116,
+              "opp": "PHX",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "L",
+              "pts": 119,
+              "opp": "SAS",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "L",
+              "pts": 88,
+              "opp": "LAC",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "W",
+              "pts": 143,
+              "opp": "UTA",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "L",
+              "pts": 108,
+              "opp": "PHX",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "W",
+              "pts": 133,
+              "opp": "NOP",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "W",
+              "pts": 112,
+              "opp": "PHI",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "W",
+              "pts": 123,
+              "opp": "TOR",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "L",
+              "pts": 105,
+              "opp": "BOS",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "W",
+              "pts": 120,
+              "opp": "MEM",
+              "away": false
+            }
+          ],
+          "wins": 6,
+          "losses": 4,
+          "streak": "W1",
+          "form_str": "WLLWLWWWLW",
+          "source": "NBA.com via nba_api"
         }
       },
       "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
+        "total_meetings": 2,
+        "home_wins": 2,
         "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
+        "meetings": [
+          {
+            "date": "2025-11-12",
+            "home_result": "W",
+            "pts": 121
+          },
+          {
+            "date": "2026-02-09",
+            "home_result": "W",
+            "pts": 119
+          }
+        ],
+        "source": "NBA.com via nba_api"
       },
       "briefing": {
-        "trend": "Oklahoma City Thunder hold a 75.7% edge.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -345 to -375 (30pt move) \u2014 heavy professional action on Oklahoma City Thunder.",
+        "trend": "OKC are 7-3 in their last 10 (streak: W2). LAL are 6-4 in their last 10 (streak: W1).",
+        "matchup": "Season series: OKC 2-0 vs LAL in 2 meetings. Both rosters appear healthy \u2014 clean line.",
+        "steam": "Line steamed from -375 to -360 (15pt move) \u2014 heavy professional action on Oklahoma City Thunder.",
         "injury_notes": "Alex Caruso (G); Thomas Sorber (C); Marcus Smart (G)"
       },
       "live": {
@@ -410,13 +847,13 @@
           "title": "\ud83d\udc40 Detailing six free agency options for LeBron",
           "source": "www.espn.com - NBA",
           "link": "https://www.espn.com/nba/story/_/id/48323320/next-lebron-nba-insiders-lakers-warriors-cavs-free-agency-options",
-          "published": "Thu, 2 Apr 2026 09:16:39 EST"
+          "published": "Thu, 2 Apr 2026 17:02:23 EST"
         },
         {
           "title": "NBA Futures: Lakers' championship odds shortening, Wemby making MVP push",
           "source": "www.espn.com - NBA",
           "link": "https://www.espn.com/espn/betting/story/_/id/45539787/2025-nba-finals-odds-mvp-2025-26-championship-betting",
-          "published": "Wed, 1 Apr 2026 13:06:19 EST"
+          "published": "Thu, 2 Apr 2026 17:49:04 EST"
         }
       ]
     },
@@ -432,7 +869,7 @@
       "away_ml_raw": -470,
       "home_prob": 20.9,
       "away_prob": 79.1,
-      "spread": "GSW +10.5",
+      "spread": "GSW +9.5",
       "favorite": "Cleveland Cavaliers",
       "pick": "Cleveland Cavaliers",
       "pick_abbr": "CLE",
@@ -466,7 +903,7 @@
           "old_ml": "-470",
           "new_ml": "-470"
         },
-        "snapshot_time": "April 02, 2026 at 05:53 AM UTC"
+        "snapshot_time": "April 02, 2026 at 02:42 PM UTC"
       },
       "fatigue": {
         "home": {
@@ -495,7 +932,7 @@
       "edge_factors": [
         "\ud83d\udca4 GSW fatigued (B2B) \u2014 source: ESPN"
       ],
-      "injury_notes": "Gui Santos (F); Quinten Post (C); Kristaps Porzingis (C); Gary Payton II (G)",
+      "injury_notes": "Seth Curry (G); Quinten Post (C); Gui Santos (F); Stephen Curry (G)",
       "sharp": {
         "away_t": null,
         "home_t": null,
@@ -506,34 +943,182 @@
       },
       "form": {
         "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
+          "last_10": [
+            {
+              "date": "Apr 02",
+              "result": "L",
+              "pts": 131,
+              "opp": "POR",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "L",
+              "pts": 120,
+              "opp": "MIN",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "W",
+              "pts": 120,
+              "opp": "ORL",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "L",
+              "pts": 98,
+              "opp": "PHX",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "W",
+              "pts": 119,
+              "opp": "PHX",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "L",
+              "pts": 112,
+              "opp": "OKC",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "W",
+              "pts": 104,
+              "opp": "NOP",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "W",
+              "pts": 99,
+              "opp": "CLE",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "W",
+              "pts": 123,
+              "opp": "CHI",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "L",
+              "pts": 98,
+              "opp": "PHI",
+              "away": false
+            }
+          ],
+          "wins": 5,
+          "losses": 5,
+          "streak": "L2",
+          "form_str": "LLWLWLWWWL",
+          "source": "NBA.com via nba_api"
         },
         "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
+          "last_10": [
+            {
+              "date": "Apr 02",
+              "result": "L",
+              "pts": 111,
+              "opp": "CHA",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "L",
+              "pts": 111,
+              "opp": "CHI",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "W",
+              "pts": 130,
+              "opp": "WAS",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "W",
+              "pts": 139,
+              "opp": "CHA",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "L",
+              "pts": 125,
+              "opp": "CHI",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "L",
+              "pts": 115,
+              "opp": "BOS",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "W",
+              "pts": 135,
+              "opp": "IND",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "L",
+              "pts": 110,
+              "opp": "POR",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "L",
+              "pts": 94,
+              "opp": "GSW",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "W",
+              "pts": 130,
+              "opp": "SAS",
+              "away": false
+            }
+          ],
+          "wins": 4,
+          "losses": 6,
+          "streak": "L2",
+          "form_str": "LLWWLLWLLW",
+          "source": "NBA.com via nba_api"
         }
       },
       "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
+        "total_meetings": 1,
+        "home_wins": 1,
         "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
+        "meetings": [
+          {
+            "date": "2025-12-06",
+            "home_result": "W",
+            "pts": 99
+          }
+        ],
+        "source": "NBA.com via nba_api"
       },
       "briefing": {
-        "trend": "GSW on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
+        "trend": "GSW are 5-5 in their last 10 (streak: L2). CLE are 4-6 in their last 10 (streak: L2). GSW on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "matchup": "Season series: GSW 1-0 vs CLE in 1 meeting. Both rosters appear healthy \u2014 clean line.",
         "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
-        "injury_notes": "Gui Santos (F); Quinten Post (C); Kristaps Porzingis (C); Gary Payton II (G)"
+        "injury_notes": "Seth Curry (G); Quinten Post (C); Gui Santos (F); Stephen Curry (G)"
       },
       "live": {
         "status": "pre",
@@ -549,7 +1134,7 @@
           "title": "\ud83d\udc40 Detailing six free agency options for LeBron",
           "source": "www.espn.com - NBA",
           "link": "https://www.espn.com/nba/story/_/id/48323320/next-lebron-nba-insiders-lakers-warriors-cavs-free-agency-options",
-          "published": "Thu, 2 Apr 2026 09:16:39 EST"
+          "published": "Thu, 2 Apr 2026 17:02:23 EST"
         }
       ]
     },
@@ -559,47 +1144,47 @@
       "away_team": "New Orleans Pelicans",
       "home_abbr": "POR",
       "away_abbr": "NOP",
-      "home_ml": "-250",
-      "away_ml": "+205",
-      "home_ml_raw": -250,
-      "away_ml_raw": 205,
-      "home_prob": 68.5,
-      "away_prob": 31.5,
+      "home_ml": "-265",
+      "away_ml": "+215",
+      "home_ml_raw": -265,
+      "away_ml_raw": 215,
+      "home_prob": 69.6,
+      "away_prob": 30.4,
       "spread": "POR -6.5",
       "favorite": "Portland Trail Blazers",
       "pick": "Portland Trail Blazers",
       "pick_abbr": "POR",
-      "moneyline": "-250",
-      "win_probability": 68.5,
+      "moneyline": "-265",
+      "win_probability": 69.6,
       "confidence": "MEDIUM",
       "confidence_stars": "\u2605\u2605\u2606",
       "commence_time": "2026-04-03T02:10:00Z",
       "line_movement": {
         "home": {
-          "direction": "longer",
+          "direction": "shorter",
           "points_moved": 15,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM -250 \u2190 -265",
-          "old_ml": "-265",
-          "new_ml": "-250"
+          "label": "\ud83d\udd25 STEAM -265 \u2190 -250",
+          "old_ml": "-250",
+          "new_ml": "-265"
         },
         "away": {
-          "direction": "shorter",
+          "direction": "longer",
           "points_moved": 10,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM +205 \u2190 +215",
-          "old_ml": "+215",
-          "new_ml": "+205"
+          "label": "\ud83d\udd25 STEAM +215 \u2190 +205",
+          "old_ml": "+205",
+          "new_ml": "+215"
         },
         "pick": {
-          "direction": "longer",
+          "direction": "shorter",
           "points_moved": 15,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM -250 \u2190 -265",
-          "old_ml": "-265",
-          "new_ml": "-250"
+          "label": "\ud83d\udd25 STEAM -265 \u2190 -250",
+          "old_ml": "-250",
+          "new_ml": "-265"
         },
-        "snapshot_time": "April 02, 2026 at 05:53 AM UTC"
+        "snapshot_time": "April 02, 2026 at 02:42 PM UTC"
       },
       "fatigue": {
         "home": {
@@ -639,33 +1224,191 @@
       },
       "form": {
         "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
+          "last_10": [
+            {
+              "date": "Apr 02",
+              "result": "W",
+              "pts": 136,
+              "opp": "GSW",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "L",
+              "pts": 120,
+              "opp": "NOP",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "L",
+              "pts": 102,
+              "opp": "DET",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "W",
+              "pts": 134,
+              "opp": "SAC",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "W",
+              "pts": 98,
+              "opp": "SAC",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "L",
+              "pts": 118,
+              "opp": "TOR",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "W",
+              "pts": 122,
+              "opp": "CLE",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "L",
+              "pts": 115,
+              "opp": "OKC",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "L",
+              "pts": 96,
+              "opp": "MEM",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "L",
+              "pts": 116,
+              "opp": "DET",
+              "away": false
+            }
+          ],
+          "wins": 4,
+          "losses": 6,
+          "streak": "W1",
+          "form_str": "WLLWWLWLLL",
+          "source": "NBA.com via nba_api"
         },
         "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
+          "last_10": [
+            {
+              "date": "Apr 02",
+              "result": "W",
+              "pts": 114,
+              "opp": "CHI",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "W",
+              "pts": 143,
+              "opp": "POR",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "W",
+              "pts": 133,
+              "opp": "HOU",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "W",
+              "pts": 119,
+              "opp": "DAL",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "W",
+              "pts": 128,
+              "opp": "IND",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "L",
+              "pts": 142,
+              "opp": "MIN",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "L",
+              "pts": 121,
+              "opp": "LAL",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "L",
+              "pts": 101,
+              "opp": "BKN",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "L",
+              "pts": 132,
+              "opp": "SAS",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "L",
+              "pts": 116,
+              "opp": "MIN",
+              "away": false
+            }
+          ],
+          "wins": 5,
+          "losses": 5,
+          "streak": "W5",
+          "form_str": "WWWWWLLLLL",
+          "source": "NBA.com via nba_api"
         }
       },
       "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
+        "total_meetings": 3,
+        "home_wins": 2,
+        "away_wins": 1,
+        "meetings": [
+          {
+            "date": "2025-12-11",
+            "home_result": "L",
+            "pts": 120
+          },
+          {
+            "date": "2026-01-02",
+            "home_result": "W",
+            "pts": 122
+          },
+          {
+            "date": "2025-11-12",
+            "home_result": "W",
+            "pts": 125
+          }
+        ],
+        "source": "NBA.com via nba_api"
       },
       "briefing": {
-        "trend": "Portland Trail Blazers hold a 68.5% edge.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -265 to -250 (15pt move) \u2014 heavy professional action on Portland Trail Blazers.",
+        "trend": "POR are 4-6 in their last 10 (streak: W1). NOP are 5-5 in their last 10 (streak: W5).",
+        "matchup": "Season series: POR 2-1 vs NOP in 3 meetings. Both rosters appear healthy \u2014 clean line.",
+        "steam": "Line steamed from -250 to -265 (15pt move) \u2014 heavy professional action on Portland Trail Blazers.",
         "injury_notes": "Jerami Grant (F); Vit Krejci (G); Shaedon Sharpe (G); Damian Lillard (G)"
       },
       "live": {
@@ -682,7 +1425,7 @@
           "title": "Trail Blazers fined $100K for early Hansen contact",
           "source": "www.espn.com - NBA",
           "link": "https://www.espn.com/nba/story/_/id/48373215/nba-fines-trail-blazers-suspends-personnel-yang-hansen",
-          "published": "Thu, 2 Apr 2026 09:16:39 EST"
+          "published": "Thu, 2 Apr 2026 17:02:23 EST"
         }
       ]
     },
@@ -692,47 +1435,47 @@
       "away_team": "San Antonio Spurs",
       "home_abbr": "LAC",
       "away_abbr": "SAS",
-      "home_ml": "+140",
-      "away_ml": "-166",
-      "home_ml_raw": 140,
-      "away_ml_raw": -166,
-      "home_prob": 40.0,
-      "away_prob": 60.0,
-      "spread": "LAC +3.5",
-      "favorite": "San Antonio Spurs",
-      "pick": "San Antonio Spurs",
-      "pick_abbr": "SAS",
-      "moneyline": "-166",
-      "win_probability": 60.0,
-      "confidence": "MEDIUM",
-      "confidence_stars": "\u2605\u2605\u2606",
+      "home_ml": "-130",
+      "away_ml": "+110",
+      "home_ml_raw": -130,
+      "away_ml_raw": 110,
+      "home_prob": 54.3,
+      "away_prob": 45.7,
+      "spread": "LAC -2.5",
+      "favorite": "Los Angeles Clippers",
+      "pick": "Los Angeles Clippers",
+      "pick_abbr": "LAC",
+      "moneyline": "-130",
+      "win_probability": 54.3,
+      "confidence": "LOW",
+      "confidence_stars": "\u2605\u2606\u2606",
       "commence_time": "2026-04-03T02:40:00Z",
       "line_movement": {
         "home": {
           "direction": "shorter",
-          "points_moved": 10,
+          "points_moved": 270,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM +140 \u2190 +150",
-          "old_ml": "+150",
-          "new_ml": "+140"
+          "label": "\ud83d\udd25 STEAM -130 \u2190 +140",
+          "old_ml": "+140",
+          "new_ml": "-130"
         },
         "away": {
           "direction": "longer",
-          "points_moved": 14,
+          "points_moved": 276,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM -166 \u2190 -180",
-          "old_ml": "-180",
-          "new_ml": "-166"
+          "label": "\ud83d\udd25 STEAM +110 \u2190 -166",
+          "old_ml": "-166",
+          "new_ml": "+110"
         },
         "pick": {
-          "direction": "longer",
-          "points_moved": 14,
+          "direction": "shorter",
+          "points_moved": 270,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM -166 \u2190 -180",
-          "old_ml": "-180",
-          "new_ml": "-166"
+          "label": "\ud83d\udd25 STEAM -130 \u2190 +140",
+          "old_ml": "+140",
+          "new_ml": "-130"
         },
-        "snapshot_time": "April 02, 2026 at 05:53 AM UTC"
+        "snapshot_time": "April 02, 2026 at 02:42 PM UTC"
       },
       "fatigue": {
         "home": {
@@ -759,9 +1502,10 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udd25 Sharp steam detected"
+        "\ud83d\udd25 Sharp steam detected",
+        "\ud83d\udca4 SAS fatigued (B2B) \u2014 source: ESPN"
       ],
-      "injury_notes": "Isaiah Jackson (F); Yanic Konan Niederhauser (C); Bradley Beal (G); Luke Kornet (C)",
+      "injury_notes": "Isaiah Jackson (F); Yanic Konan Niederhauser (C); Bradley Beal (G); Victor Wembanyama (F)",
       "sharp": {
         "away_t": null,
         "home_t": null,
@@ -772,34 +1516,187 @@
       },
       "form": {
         "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
+          "last_10": [
+            {
+              "date": "Apr 02",
+              "result": "L",
+              "pts": 103,
+              "opp": "MEM",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "L",
+              "pts": 101,
+              "opp": "OKC",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "L",
+              "pts": 113,
+              "opp": "HOU",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "W",
+              "pts": 103,
+              "opp": "LAL",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "W",
+              "pts": 115,
+              "opp": "ATL",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "L",
+              "pts": 123,
+              "opp": "MIA",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "L",
+              "pts": 106,
+              "opp": "MIN",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "L",
+              "pts": 98,
+              "opp": "MEM",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "L",
+              "pts": 110,
+              "opp": "DAL",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "W",
+              "pts": 103,
+              "opp": "GSW",
+              "away": false
+            }
+          ],
+          "wins": 3,
+          "losses": 7,
+          "streak": "L3",
+          "form_str": "LLLWWLLLLW",
+          "source": "NBA.com via nba_api"
         },
         "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
+          "last_10": [
+            {
+              "date": "Apr 02",
+              "result": "W",
+              "pts": 132,
+              "opp": "LAL",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "W",
+              "pts": 111,
+              "opp": "OKC",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "W",
+              "pts": 124,
+              "opp": "WAS",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "W",
+              "pts": 119,
+              "opp": "WAS",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "W",
+              "pts": 126,
+              "opp": "ATL",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "W",
+              "pts": 126,
+              "opp": "MEM",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "L",
+              "pts": 112,
+              "opp": "MIN",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "W",
+              "pts": 114,
+              "opp": "ORL",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "W",
+              "pts": 135,
+              "opp": "NOP",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "L",
+              "pts": 117,
+              "opp": "CLE",
+              "away": false
+            }
+          ],
+          "wins": 8,
+          "losses": 2,
+          "streak": "W6",
+          "form_str": "WWWWWWLWWL",
+          "source": "NBA.com via nba_api"
         }
       },
       "h2h": {
-        "total_meetings": 0,
+        "total_meetings": 2,
         "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
+        "away_wins": 2,
+        "meetings": [
+          {
+            "date": "2026-03-06",
+            "home_result": "L",
+            "pts": 112
+          },
+          {
+            "date": "2026-03-16",
+            "home_result": "L",
+            "pts": 115
+          }
+        ],
+        "source": "NBA.com via nba_api"
       },
       "briefing": {
-        "trend": "SAS on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -180 to -166 (14pt move) \u2014 heavy professional action on San Antonio Spurs.",
-        "injury_notes": "Isaiah Jackson (F); Yanic Konan Niederhauser (C); Bradley Beal (G); Luke Kornet (C)"
+        "trend": "LAC are 3-7 in their last 10 (streak: L3). SAS are 8-2 in their last 10 (streak: W6). SAS on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "matchup": "Season series: LAC 0-2 vs SAS in 2 meetings. Both rosters appear healthy \u2014 clean line.",
+        "steam": "Line steamed from +140 to -130 (270pt move) \u2014 heavy professional action on Los Angeles Clippers.",
+        "injury_notes": "Isaiah Jackson (F); Yanic Konan Niederhauser (C); Bradley Beal (G); Victor Wembanyama (F)"
       },
       "live": {
         "status": "pre",
@@ -812,22 +1709,1202 @@
       },
       "news": [
         {
-          "title": "The latest on Kawhi Leonard, Steve Ballmer and the NBA's investigation into the LA Clippers",
-          "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/nba/story/_/id/48369328/the-latest-kawhi-leonard-steve-ballmer-nba-investigation-aspiration-la-clippers",
-          "published": "Thu, 2 Apr 2026 09:47:56 EST"
-        },
-        {
-          "title": "Wemby stays hot, doubles down on MVP chase",
-          "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/nba/story/_/id/48374676/wembanyama-doubles-mvp-chase-41-point-night",
-          "published": "Thu, 2 Apr 2026 09:16:39 EST"
-        },
-        {
           "title": "No seats, no silence: A night inside the Clippers' Wall",
           "source": "www.espn.com - NBA",
           "link": "https://www.espn.com/nba/story/_/id/48350302/inside-clippers-wall-swell-intuit-dome-experience",
           "published": "Thu, 2 Apr 2026 09:05:53 EST"
+        },
+        {
+          "title": "Night after Dubs win, Spurs sit Wemby vs. Clips",
+          "source": "www.espn.com - NBA",
+          "link": "https://www.espn.com/nba/story/_/id/48380360/spurs-rule-victor-wembanyama-ankle-clippers",
+          "published": "Thu, 2 Apr 2026 17:02:23 EST"
+        },
+        {
+          "title": "The latest on Kawhi Leonard, Steve Ballmer and the NBA's investigation into the LA Clippers",
+          "source": "www.espn.com - NBA",
+          "link": "https://www.espn.com/nba/story/_/id/48369328/the-latest-kawhi-leonard-steve-ballmer-nba-investigation-aspiration-la-clippers",
+          "published": "Thu, 2 Apr 2026 14:51:36 EST"
+        }
+      ]
+    },
+    {
+      "game": "Minnesota Timberwolves @ Philadelphia 76ers",
+      "home_team": "Philadelphia 76ers",
+      "away_team": "Minnesota Timberwolves",
+      "home_abbr": "PHI",
+      "away_abbr": "MIN",
+      "home_ml": "N/A",
+      "away_ml": "N/A",
+      "home_ml_raw": null,
+      "away_ml_raw": null,
+      "home_prob": 50.0,
+      "away_prob": 50.0,
+      "spread": "N/A",
+      "favorite": "Philadelphia 76ers",
+      "pick": "Philadelphia 76ers",
+      "pick_abbr": "PHI",
+      "moneyline": "N/A",
+      "win_probability": 50.0,
+      "confidence": "LOW",
+      "confidence_stars": "\u2605\u2606\u2606",
+      "commence_time": "2026-04-03T23:10:00Z",
+      "line_movement": {
+        "home": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "away": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "pick": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "snapshot_time": "\u2014"
+      },
+      "fatigue": {
+        "home": {
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Apr 01",
+          "days_rest": 1,
+          "games_last_4d": 2,
+          "travel_miles": 121,
+          "travel_desc": "121 mi road trip",
+          "source": "ESPN Scoreboard API"
+        },
+        "away": {
+          "status": "RESTED",
+          "label": "2 days rest \u2705",
+          "battery": 88,
+          "last_game": "Mar 30",
+          "days_rest": 3,
+          "games_last_4d": 1,
+          "travel_miles": 863,
+          "travel_desc": "863 mi road trip",
+          "source": "ESPN Scoreboard API"
+        }
+      },
+      "edge_factors": [
+        "\ud83d\udcca 0.0pt probability edge"
+      ],
+      "injury_notes": "Johni Broome (F); Joel Embiid (C); Anthony Edwards (G); Jaden McDaniels (F)",
+      "sharp": {
+        "away_t": null,
+        "home_t": null,
+        "source": null,
+        "sharp_signal": null,
+        "sharp_label": "Pending \u2014 check closer to tip-off",
+        "rlm": false
+      },
+      "form": {
+        "home": {
+          "last_10": [
+            {
+              "date": "Apr 02",
+              "result": "L",
+              "pts": 117,
+              "opp": "ATL",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "W",
+              "pts": 115,
+              "opp": "IND",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "W",
+              "pts": 116,
+              "opp": "NYK",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "W",
+              "pts": 121,
+              "opp": "DAL",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "W",
+              "pts": 121,
+              "opp": "WAS",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "L",
+              "pts": 134,
+              "opp": "ATL",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "L",
+              "pts": 108,
+              "opp": "LAL",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "W",
+              "pts": 116,
+              "opp": "MIL",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "W",
+              "pts": 99,
+              "opp": "GSW",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "L",
+              "pts": 124,
+              "opp": "DEN",
+              "away": false
+            }
+          ],
+          "wins": 6,
+          "losses": 4,
+          "streak": "L1",
+          "form_str": "LWWWWLLWWL",
+          "source": "NBA.com via nba_api"
+        },
+        "away": {
+          "last_10": [
+            {
+              "date": "Apr 02",
+              "result": "W",
+              "pts": 117,
+              "opp": "SAC",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "L",
+              "pts": 110,
+              "opp": "MEM",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "W",
+              "pts": 127,
+              "opp": "GSW",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "W",
+              "pts": 103,
+              "opp": "MIL",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "W",
+              "pts": 112,
+              "opp": "OKC",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "W",
+              "pts": 149,
+              "opp": "NOP",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "W",
+              "pts": 125,
+              "opp": "SAS",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "W",
+              "pts": 119,
+              "opp": "BOS",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "W",
+              "pts": 109,
+              "opp": "LAC",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "L",
+              "pts": 105,
+              "opp": "PHX",
+              "away": false
+            }
+          ],
+          "wins": 8,
+          "losses": 2,
+          "streak": "W1",
+          "form_str": "WLWWWWWWWL",
+          "source": "NBA.com via nba_api"
+        }
+      },
+      "h2h": {
+        "total_meetings": 1,
+        "home_wins": 1,
+        "away_wins": 0,
+        "meetings": [
+          {
+            "date": "2026-02-22",
+            "home_result": "W",
+            "pts": 135
+          }
+        ],
+        "source": "NBA.com via nba_api"
+      },
+      "briefing": {
+        "trend": "PHI are 6-4 in their last 10 (streak: L1). MIN are 8-2 in their last 10 (streak: W1). PHI on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "matchup": "Season series: PHI 1-0 vs MIN in 1 meeting. Both rosters appear healthy \u2014 clean line.",
+        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "injury_notes": "Johni Broome (F); Joel Embiid (C); Anthony Edwards (G); Jaden McDaniels (F)"
+      },
+      "live": {
+        "status": "pre",
+        "status_detail": "Upcoming",
+        "period": 0,
+        "clock": "",
+        "home_score": 0,
+        "away_score": 0,
+        "spread_alert": null
+      },
+      "news": [
+        {
+          "title": "What OKC Thunder learned from Mike Budenholzer's visit",
+          "source": "USA Today",
+          "link": "https://okcthunderwire.usatoday.com/story/sports/nba/thunder/2026/04/01/what-okc-thunder-learned-from-mike-budenholzers-visit/89428133007/",
+          "published": "2026-04-01T23:00:35Z"
+        },
+        {
+          "title": "How to live stream Knicks vs Grizzlies: NBA, TV channel",
+          "source": "Yahoo Entertainment",
+          "link": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_988d4614-da82-43f0-9139-0ce172a2974a",
+          "published": "2026-04-01T23:00:00Z"
+        },
+        {
+          "title": "Suns injury update. Starting big closer to returning on road trip",
+          "source": "AZCentral",
+          "link": "https://www.azcentral.com/story/sports/nba/suns/2026/04/01/phoenix-suns-big-mark-williams-questionable-phoenix-faces-former-team-charlotte-hornets/89427775007/",
+          "published": "2026-04-01T22:58:00Z"
+        }
+      ]
+    },
+    {
+      "game": "Atlanta Hawks @ Brooklyn Nets",
+      "home_team": "Brooklyn Nets",
+      "away_team": "Atlanta Hawks",
+      "home_abbr": "BKN",
+      "away_abbr": "ATL",
+      "home_ml": "N/A",
+      "away_ml": "N/A",
+      "home_ml_raw": null,
+      "away_ml_raw": null,
+      "home_prob": 50.0,
+      "away_prob": 50.0,
+      "spread": "N/A",
+      "favorite": "Brooklyn Nets",
+      "pick": "Brooklyn Nets",
+      "pick_abbr": "BKN",
+      "moneyline": "N/A",
+      "win_probability": 50.0,
+      "confidence": "LOW",
+      "confidence_stars": "\u2605\u2606\u2606",
+      "commence_time": "2026-04-03T23:40:00Z",
+      "line_movement": {
+        "home": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "away": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "pick": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "snapshot_time": "\u2014"
+      },
+      "fatigue": {
+        "home": {
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
+          "last_game": "Mar 31",
+          "days_rest": 2,
+          "games_last_4d": 2,
+          "travel_miles": 0,
+          "travel_desc": "",
+          "source": "ESPN Scoreboard API"
+        },
+        "away": {
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Apr 01",
+          "days_rest": 1,
+          "games_last_4d": 2,
+          "travel_miles": 402,
+          "travel_desc": "402 mi road trip",
+          "source": "ESPN Scoreboard API"
+        }
+      },
+      "edge_factors": [
+        "\ud83d\udca4 ATL fatigued (B2B) \u2014 source: ESPN"
+      ],
+      "injury_notes": "Nic Claxton (C); Noah Clowney (F); Danny Wolf (F); Michael Porter Jr. (F)",
+      "sharp": {
+        "away_t": null,
+        "home_t": null,
+        "source": null,
+        "sharp_signal": null,
+        "sharp_label": "Pending \u2014 check closer to tip-off",
+        "rlm": false
+      },
+      "form": {
+        "home": {
+          "last_10": [
+            {
+              "date": "Apr 02",
+              "result": "W",
+              "pts": 127,
+              "opp": "MIL",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "L",
+              "pts": 111,
+              "opp": "DAL",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "L",
+              "pts": 95,
+              "opp": "MIA",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "W",
+              "pts": 96,
+              "opp": "TOR",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "W",
+              "pts": 113,
+              "opp": "CHI",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "L",
+              "pts": 99,
+              "opp": "MIL",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "W",
+              "pts": 116,
+              "opp": "CHA",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "W",
+              "pts": 119,
+              "opp": "NOP",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "L",
+              "pts": 110,
+              "opp": "UTA",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "W",
+              "pts": 127,
+              "opp": "DEN",
+              "away": false
+            }
+          ],
+          "wins": 6,
+          "losses": 4,
+          "streak": "W1",
+          "form_str": "WLLWWLWWLW",
+          "source": "NBA.com via nba_api"
+        },
+        "away": {
+          "last_10": [
+            {
+              "date": "Apr 02",
+              "result": "W",
+              "pts": 120,
+              "opp": "PHI",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "L",
+              "pts": 115,
+              "opp": "DET",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "L",
+              "pts": 150,
+              "opp": "CHI",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "L",
+              "pts": 126,
+              "opp": "CHA",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "L",
+              "pts": 98,
+              "opp": "SAS",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "L",
+              "pts": 98,
+              "opp": "DET",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "W",
+              "pts": 142,
+              "opp": "PHI",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "W",
+              "pts": 131,
+              "opp": "WAS",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "L",
+              "pts": 92,
+              "opp": "LAC",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "L",
+              "pts": 133,
+              "opp": "DEN",
+              "away": false
+            }
+          ],
+          "wins": 3,
+          "losses": 7,
+          "streak": "W1",
+          "form_str": "WLLLLLWWLL",
+          "source": "NBA.com via nba_api"
+        }
+      },
+      "h2h": {
+        "total_meetings": 3,
+        "home_wins": 0,
+        "away_wins": 3,
+        "meetings": [
+          {
+            "date": "2025-10-29",
+            "home_result": "L",
+            "pts": 112
+          },
+          {
+            "date": "2026-03-12",
+            "home_result": "L",
+            "pts": 97
+          },
+          {
+            "date": "2026-02-22",
+            "home_result": "L",
+            "pts": 104
+          }
+        ],
+        "source": "NBA.com via nba_api"
+      },
+      "briefing": {
+        "trend": "BKN are 6-4 in their last 10 (streak: W1). ATL are 3-7 in their last 10 (streak: W1). ATL on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "matchup": "Season series: BKN 0-3 vs ATL in 3 meetings. Both rosters appear healthy \u2014 clean line.",
+        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "injury_notes": "Nic Claxton (C); Noah Clowney (F); Danny Wolf (F); Michael Porter Jr. (F)"
+      },
+      "live": {
+        "status": "pre",
+        "status_detail": "Upcoming",
+        "period": 0,
+        "clock": "",
+        "home_score": 0,
+        "away_score": 0,
+        "spread_alert": null
+      },
+      "news": [
+        {
+          "title": "What OKC Thunder learned from Mike Budenholzer's visit",
+          "source": "USA Today",
+          "link": "https://okcthunderwire.usatoday.com/story/sports/nba/thunder/2026/04/01/what-okc-thunder-learned-from-mike-budenholzers-visit/89428133007/",
+          "published": "2026-04-01T23:00:35Z"
+        },
+        {
+          "title": "How to live stream Knicks vs Grizzlies: NBA, TV channel",
+          "source": "Yahoo Entertainment",
+          "link": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_988d4614-da82-43f0-9139-0ce172a2974a",
+          "published": "2026-04-01T23:00:00Z"
+        },
+        {
+          "title": "Suns injury update. Starting big closer to returning on road trip",
+          "source": "AZCentral",
+          "link": "https://www.azcentral.com/story/sports/nba/suns/2026/04/01/phoenix-suns-big-mark-williams-questionable-phoenix-faces-former-team-charlotte-hornets/89427775007/",
+          "published": "2026-04-01T22:58:00Z"
+        }
+      ]
+    },
+    {
+      "game": "Chicago Bulls @ New York Knicks",
+      "home_team": "New York Knicks",
+      "away_team": "Chicago Bulls",
+      "home_abbr": "NYK",
+      "away_abbr": "CHI",
+      "home_ml": "N/A",
+      "away_ml": "N/A",
+      "home_ml_raw": null,
+      "away_ml_raw": null,
+      "home_prob": 50.0,
+      "away_prob": 50.0,
+      "spread": "N/A",
+      "favorite": "New York Knicks",
+      "pick": "New York Knicks",
+      "pick_abbr": "NYK",
+      "moneyline": "N/A",
+      "win_probability": 50.0,
+      "confidence": "LOW",
+      "confidence_stars": "\u2605\u2606\u2606",
+      "commence_time": "2026-04-03T23:40:00Z",
+      "line_movement": {
+        "home": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "away": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "pick": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "snapshot_time": "\u2014"
+      },
+      "fatigue": {
+        "home": {
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Apr 01",
+          "days_rest": 1,
+          "games_last_4d": 3,
+          "travel_miles": 955,
+          "travel_desc": "955 mi road trip",
+          "source": "ESPN Scoreboard API"
+        },
+        "away": {
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Apr 01",
+          "days_rest": 1,
+          "games_last_4d": 2,
+          "travel_miles": 1050,
+          "travel_desc": "1,050 mi road trip",
+          "source": "ESPN Scoreboard API"
+        }
+      },
+      "edge_factors": [
+        "\ud83d\udca4 CHI fatigued (B2B) \u2014 source: ESPN"
+      ],
+      "injury_notes": "Guerschon Yabusele (F); Lachlan Olbrich (C); Nick Richards (C); Mac McClung (G)",
+      "sharp": {
+        "away_t": null,
+        "home_t": null,
+        "source": null,
+        "sharp_signal": null,
+        "sharp_label": "Pending \u2014 check closer to tip-off",
+        "rlm": false
+      },
+      "form": {
+        "home": {
+          "last_10": [
+            {
+              "date": "Apr 02",
+              "result": "W",
+              "pts": 130,
+              "opp": "MEM",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "W",
+              "pts": 114,
+              "opp": "IND",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "W",
+              "pts": 117,
+              "opp": "TOR",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "W",
+              "pts": 132,
+              "opp": "ORL",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "W",
+              "pts": 132,
+              "opp": "MIA",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "L",
+              "pts": 107,
+              "opp": "PHI",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "L",
+              "pts": 117,
+              "opp": "BOS",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "W",
+              "pts": 119,
+              "opp": "CHA",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "W",
+              "pts": 116,
+              "opp": "TOR",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "W",
+              "pts": 106,
+              "opp": "ORL",
+              "away": false
+            }
+          ],
+          "wins": 8,
+          "losses": 2,
+          "streak": "W5",
+          "form_str": "WWWWWLLWWW",
+          "source": "NBA.com via nba_api"
+        },
+        "away": {
+          "last_10": [
+            {
+              "date": "Apr 02",
+              "result": "L",
+              "pts": 104,
+              "opp": "NOP",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "W",
+              "pts": 127,
+              "opp": "CLE",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "W",
+              "pts": 129,
+              "opp": "CHA",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "W",
+              "pts": 152,
+              "opp": "ATL",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "W",
+              "pts": 136,
+              "opp": "CLE",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "L",
+              "pts": 120,
+              "opp": "ORL",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "L",
+              "pts": 103,
+              "opp": "BKN",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "L",
+              "pts": 101,
+              "opp": "IND",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "L",
+              "pts": 91,
+              "opp": "GSW",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "L",
+              "pts": 105,
+              "opp": "IND",
+              "away": false
+            }
+          ],
+          "wins": 4,
+          "losses": 6,
+          "streak": "L1",
+          "form_str": "LWWWWLLLLL",
+          "source": "NBA.com via nba_api"
+        }
+      },
+      "h2h": {
+        "total_meetings": 3,
+        "home_wins": 2,
+        "away_wins": 1,
+        "meetings": [
+          {
+            "date": "2025-10-31",
+            "home_result": "L",
+            "pts": 125
+          },
+          {
+            "date": "2025-11-02",
+            "home_result": "W",
+            "pts": 128
+          },
+          {
+            "date": "2026-02-22",
+            "home_result": "W",
+            "pts": 105
+          }
+        ],
+        "source": "NBA.com via nba_api"
+      },
+      "briefing": {
+        "trend": "NYK are 8-2 in their last 10 (streak: W5). CHI are 4-6 in their last 10 (streak: L1). NYK on Back-to-Back \u26a0\ufe0f per ESPN schedule data. CHI on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "matchup": "Season series: NYK 2-1 vs CHI in 3 meetings. Both rosters appear healthy \u2014 clean line.",
+        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "injury_notes": "Guerschon Yabusele (F); Lachlan Olbrich (C); Nick Richards (C); Mac McClung (G)"
+      },
+      "live": {
+        "status": "pre",
+        "status_detail": "Upcoming",
+        "period": 0,
+        "clock": "",
+        "home_score": 0,
+        "away_score": 0,
+        "spread_alert": null
+      },
+      "news": [
+        {
+          "title": "What OKC Thunder learned from Mike Budenholzer's visit",
+          "source": "USA Today",
+          "link": "https://okcthunderwire.usatoday.com/story/sports/nba/thunder/2026/04/01/what-okc-thunder-learned-from-mike-budenholzers-visit/89428133007/",
+          "published": "2026-04-01T23:00:35Z"
+        },
+        {
+          "title": "How to live stream Knicks vs Grizzlies: NBA, TV channel",
+          "source": "Yahoo Entertainment",
+          "link": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_988d4614-da82-43f0-9139-0ce172a2974a",
+          "published": "2026-04-01T23:00:00Z"
+        },
+        {
+          "title": "Suns injury update. Starting big closer to returning on road trip",
+          "source": "AZCentral",
+          "link": "https://www.azcentral.com/story/sports/nba/suns/2026/04/01/phoenix-suns-big-mark-williams-questionable-phoenix-faces-former-team-charlotte-hornets/89427775007/",
+          "published": "2026-04-01T22:58:00Z"
+        }
+      ]
+    },
+    {
+      "game": "Toronto Raptors @ Memphis Grizzlies",
+      "home_team": "Memphis Grizzlies",
+      "away_team": "Toronto Raptors",
+      "home_abbr": "MEM",
+      "away_abbr": "TOR",
+      "home_ml": "N/A",
+      "away_ml": "N/A",
+      "home_ml_raw": null,
+      "away_ml_raw": null,
+      "home_prob": 50.0,
+      "away_prob": 50.0,
+      "spread": "N/A",
+      "favorite": "Memphis Grizzlies",
+      "pick": "Memphis Grizzlies",
+      "pick_abbr": "MEM",
+      "moneyline": "N/A",
+      "win_probability": 50.0,
+      "confidence": "LOW",
+      "confidence_stars": "\u2605\u2606\u2606",
+      "commence_time": "2026-04-04T00:10:00Z",
+      "line_movement": {
+        "home": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "away": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "pick": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "snapshot_time": "\u2014"
+      },
+      "fatigue": {
+        "home": {
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Apr 01",
+          "days_rest": 1,
+          "games_last_4d": 2,
+          "travel_miles": 0,
+          "travel_desc": "",
+          "source": "ESPN Scoreboard API"
+        },
+        "away": {
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Apr 01",
+          "days_rest": 1,
+          "games_last_4d": 3,
+          "travel_miles": 206,
+          "travel_desc": "206 mi road trip",
+          "source": "ESPN Scoreboard API"
+        }
+      },
+      "edge_factors": [
+        "\ud83d\udca4 TOR fatigued (B2B) \u2014 source: ESPN"
+      ],
+      "injury_notes": "Taj Gibson (F); Ty Jerome (G); Cam Spencer (G); Olivier-Maxence Prosper (F)",
+      "sharp": {
+        "away_t": null,
+        "home_t": null,
+        "source": null,
+        "sharp_signal": null,
+        "sharp_label": "Pending \u2014 check closer to tip-off",
+        "rlm": false
+      },
+      "form": {
+        "home": {
+          "last_10": [
+            {
+              "date": "Apr 02",
+              "result": "W",
+              "pts": 116,
+              "opp": "MIN",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "W",
+              "pts": 121,
+              "opp": "LAC",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "L",
+              "pts": 126,
+              "opp": "UTA",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "L",
+              "pts": 122,
+              "opp": "WAS",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "L",
+              "pts": 119,
+              "opp": "SAS",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "W",
+              "pts": 115,
+              "opp": "SAC",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "W",
+              "pts": 119,
+              "opp": "POR",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "W",
+              "pts": 107,
+              "opp": "LAC",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "L",
+              "pts": 103,
+              "opp": "OKC",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "L",
+              "pts": 114,
+              "opp": "LAL",
+              "away": false
+            }
+          ],
+          "wins": 5,
+          "losses": 5,
+          "streak": "W2",
+          "form_str": "WWLLLWWWLL",
+          "source": "NBA.com via nba_api"
+        },
+        "away": {
+          "last_10": [
+            {
+              "date": "Apr 02",
+              "result": "W",
+              "pts": 106,
+              "opp": "MIA",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "L",
+              "pts": 101,
+              "opp": "NYK",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "L",
+              "pts": 96,
+              "opp": "BOS",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "L",
+              "pts": 81,
+              "opp": "BKN",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "W",
+              "pts": 111,
+              "opp": "MIL",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "W",
+              "pts": 121,
+              "opp": "POR",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "L",
+              "pts": 111,
+              "opp": "CHA",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "L",
+              "pts": 94,
+              "opp": "NYK",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "L",
+              "pts": 113,
+              "opp": "BOS",
+              "away": false
+            },
+            {
+              "date": "Apr 02",
+              "result": "L",
+              "pts": 120,
+              "opp": "LAL",
+              "away": false
+            }
+          ],
+          "wins": 3,
+          "losses": 7,
+          "streak": "W1",
+          "form_str": "WLLLWWLLLL",
+          "source": "NBA.com via nba_api"
+        }
+      },
+      "h2h": {
+        "total_meetings": 1,
+        "home_wins": 0,
+        "away_wins": 1,
+        "meetings": [
+          {
+            "date": "2025-11-02",
+            "home_result": "L",
+            "pts": 104
+          }
+        ],
+        "source": "NBA.com via nba_api"
+      },
+      "briefing": {
+        "trend": "MEM are 5-5 in their last 10 (streak: W2). TOR are 3-7 in their last 10 (streak: W1). MEM on Back-to-Back \u26a0\ufe0f per ESPN schedule data. TOR on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "matchup": "Season series: MEM 0-1 vs TOR in 1 meeting. Both rosters appear healthy \u2014 clean line.",
+        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "injury_notes": "Taj Gibson (F); Ty Jerome (G); Cam Spencer (G); Olivier-Maxence Prosper (F)"
+      },
+      "live": {
+        "status": "pre",
+        "status_detail": "Upcoming",
+        "period": 0,
+        "clock": "",
+        "home_score": 0,
+        "away_score": 0,
+        "spread_alert": null
+      },
+      "news": [
+        {
+          "title": "Grizzlies' Clarke arrested on drug, traffic charges",
+          "source": "www.espn.com - NBA",
+          "link": "https://www.espn.com/nba/story/_/id/48372917/grizzlies-clarke-arrested-arkansas-drug-speeding-charges",
+          "published": "Thu, 2 Apr 2026 17:02:23 EST"
         }
       ]
     }
