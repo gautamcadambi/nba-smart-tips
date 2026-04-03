@@ -1,6 +1,6 @@
 {
-  "last_updated": "April 03, 2026 at 03:05 PM UTC",
-  "total_games": 9,
+  "last_updated": "April 03, 2026 at 11:51 PM UTC",
+  "total_games": 11,
   "games": [
     {
       "game": "Indiana Pacers @ Charlotte Hornets",
@@ -8,47 +8,47 @@
       "away_team": "Indiana Pacers",
       "home_abbr": "CHA",
       "away_abbr": "IND",
-      "home_ml": "-1350",
-      "away_ml": "+800",
-      "home_ml_raw": -1350,
-      "away_ml_raw": 800,
-      "home_prob": 89.3,
-      "away_prob": 10.7,
-      "spread": "CHA -15.5",
+      "home_ml": "-6500",
+      "away_ml": "+1800",
+      "home_ml_raw": -6500,
+      "away_ml_raw": 1800,
+      "home_prob": 94.9,
+      "away_prob": 5.1,
+      "spread": "CHA -21.5",
       "favorite": "Charlotte Hornets",
       "pick": "Charlotte Hornets",
       "pick_abbr": "CHA",
-      "moneyline": "-1350",
-      "win_probability": 89.3,
+      "moneyline": "-6500",
+      "win_probability": 94.9,
       "confidence": "HIGH",
       "confidence_stars": "\u2605\u2605\u2605",
-      "commence_time": "2026-04-03T23:10:00Z",
+      "commence_time": "2026-04-03T23:12:00Z",
       "line_movement": {
         "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "shorter",
+          "points_moved": 5150,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -6500 \u2190 -1350",
           "old_ml": "-1350",
-          "new_ml": "-1350"
+          "new_ml": "-6500"
         },
         "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "longer",
+          "points_moved": 1000,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM +1800 \u2190 +800",
           "old_ml": "+800",
-          "new_ml": "+800"
+          "new_ml": "+1800"
         },
         "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "shorter",
+          "points_moved": 5150,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -6500 \u2190 -1350",
           "old_ml": "-1350",
-          "new_ml": "-1350"
+          "new_ml": "-6500"
         },
-        "snapshot_time": "April 03, 2026 at 12:06 PM UTC"
+        "snapshot_time": "April 03, 2026 at 03:05 PM UTC"
       },
       "fatigue": {
         "home": {
@@ -75,9 +75,9 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udcca 78.6pt probability edge"
+        "\ud83d\udd25 Sharp steam detected"
       ],
-      "injury_notes": "Grant Williams (F); PJ Hall (C); Andrew Nembhard (G); Jarace Walker (F)",
+      "injury_notes": "Moussa Diabate (F); PJ Hall (C); Grant Williams (F); Andrew Nembhard (G)",
       "sharp": {
         "away_t": null,
         "home_t": null,
@@ -114,8 +114,8 @@
       "briefing": {
         "trend": "CHA on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
-        "injury_notes": "Grant Williams (F); PJ Hall (C); Andrew Nembhard (G); Jarace Walker (F)"
+        "steam": "Line steamed from -1350 to -6500 (5150pt move) \u2014 heavy professional action on Charlotte Hornets.",
+        "injury_notes": "Moussa Diabate (F); PJ Hall (C); Grant Williams (F); Andrew Nembhard (G)"
       },
       "live": {
         "status": "pre",
@@ -128,10 +128,22 @@
       },
       "news": [
         {
-          "title": "Knueppel sets Hornets mark for 3s in a season",
-          "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/nba/story/_/id/48381909/rookie-kon-knueppel-sets-hornets-season-3-point-record",
-          "published": "Fri, 3 Apr 2026 10:50:55 EST"
+          "title": "Collin Gillespie sets Suns record for 3-pointers in a single season",
+          "source": "Burncitysports.com",
+          "link": "https://burncitysports.com/2026/04/02/collin-gillespie-suns-record-3/",
+          "published": "2026-04-02T23:45:37Z"
+        },
+        {
+          "title": "What did LeBron James say about Memphis? Internet livid over Lakers star's snark",
+          "source": "Sporting News",
+          "link": "https://www.sportingnews.com/us/nba/los-angeles-lakers/news/lakers-what-did-lebron-james-say-about-memphis-internet-livid-star-snark/067665415347c178b5b53d5c",
+          "published": "2026-04-02T23:42:53Z"
+        },
+        {
+          "title": "Anthony Edwards ineligible for NBA awards after missing Timberwolves vs Pistons",
+          "source": "Yahoo Entertainment",
+          "link": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_0433acb7-e051-4477-8422-b340f165be52",
+          "published": "2026-04-02T23:40:30Z"
         }
       ]
     },
@@ -142,20 +154,20 @@
       "home_abbr": "PHI",
       "away_abbr": "MIN",
       "home_ml": "-135",
-      "away_ml": "+114",
+      "away_ml": "+105",
       "home_ml_raw": -135,
-      "away_ml_raw": 114,
-      "home_prob": 55.1,
-      "away_prob": 44.9,
+      "away_ml_raw": 105,
+      "home_prob": 54.1,
+      "away_prob": 45.9,
       "spread": "PHI -2.5",
       "favorite": "Philadelphia 76ers",
       "pick": "Philadelphia 76ers",
       "pick_abbr": "PHI",
       "moneyline": "-135",
-      "win_probability": 55.1,
+      "win_probability": 54.1,
       "confidence": "LOW",
       "confidence_stars": "\u2605\u2606\u2606",
-      "commence_time": "2026-04-03T23:10:00Z",
+      "commence_time": "2026-04-03T23:13:00Z",
       "line_movement": {
         "home": {
           "direction": "none",
@@ -166,12 +178,12 @@
           "new_ml": "-135"
         },
         "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "shorter",
+          "points_moved": 9,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM +105 \u2190 +114",
           "old_ml": "+114",
-          "new_ml": "+114"
+          "new_ml": "+105"
         },
         "pick": {
           "direction": "none",
@@ -181,7 +193,7 @@
           "old_ml": "-135",
           "new_ml": "-135"
         },
-        "snapshot_time": "April 03, 2026 at 12:06 PM UTC"
+        "snapshot_time": "April 03, 2026 at 03:05 PM UTC"
       },
       "fatigue": {
         "home": {
@@ -208,9 +220,10 @@
         }
       },
       "edge_factors": [
+        "\ud83d\udd25 Sharp steam detected",
         "\ud83d\udca4 MIN fatigued (B2B) \u2014 source: ESPN"
       ],
-      "injury_notes": "Johni Broome (F); Joel Embiid (C); Anthony Edwards (G); Jaden McDaniels (F)",
+      "injury_notes": "Johni Broome (F); Jaden McDaniels (F)",
       "sharp": {
         "away_t": null,
         "home_t": null,
@@ -248,7 +261,7 @@
         "trend": "MIN on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
         "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
-        "injury_notes": "Johni Broome (F); Joel Embiid (C); Anthony Edwards (G); Jaden McDaniels (F)"
+        "injury_notes": "Johni Broome (F); Jaden McDaniels (F)"
       },
       "live": {
         "status": "pre",
@@ -264,7 +277,7 @@
           "title": "Edwards (sick) sits, now ineligible for NBA awards",
           "source": "www.espn.com - NBA",
           "link": "https://www.espn.com/nba/story/_/id/48381324/timberwolves-rest-anthony-edwards-vs-pistons-manage-knee-pain",
-          "published": "Fri, 3 Apr 2026 10:50:54 EST"
+          "published": "Fri, 3 Apr 2026 19:40:04 EST"
         }
       ]
     },
@@ -274,47 +287,47 @@
       "away_team": "Atlanta Hawks",
       "home_abbr": "BKN",
       "away_abbr": "ATL",
-      "home_ml": "+950",
-      "away_ml": "-1650",
-      "home_ml_raw": 950,
-      "away_ml_raw": -1650,
-      "home_prob": 9.2,
-      "away_prob": 90.8,
-      "spread": "BKN +16.5",
+      "home_ml": "+1200",
+      "away_ml": "-2800",
+      "home_ml_raw": 1200,
+      "away_ml_raw": -2800,
+      "home_prob": 7.4,
+      "away_prob": 92.6,
+      "spread": "BKN +18.5",
       "favorite": "Atlanta Hawks",
       "pick": "Atlanta Hawks",
       "pick_abbr": "ATL",
-      "moneyline": "-1650",
-      "win_probability": 90.8,
+      "moneyline": "-2800",
+      "win_probability": 92.6,
       "confidence": "HIGH",
       "confidence_stars": "\u2605\u2605\u2605",
-      "commence_time": "2026-04-03T23:40:00Z",
+      "commence_time": "2026-04-03T23:41:00Z",
       "line_movement": {
         "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "longer",
+          "points_moved": 250,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM +1200 \u2190 +950",
           "old_ml": "+950",
-          "new_ml": "+950"
+          "new_ml": "+1200"
         },
         "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "shorter",
+          "points_moved": 1150,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -2800 \u2190 -1650",
           "old_ml": "-1650",
-          "new_ml": "-1650"
+          "new_ml": "-2800"
         },
         "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "shorter",
+          "points_moved": 1150,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -2800 \u2190 -1650",
           "old_ml": "-1650",
-          "new_ml": "-1650"
+          "new_ml": "-2800"
         },
-        "snapshot_time": "April 03, 2026 at 12:06 PM UTC"
+        "snapshot_time": "April 03, 2026 at 03:05 PM UTC"
       },
       "fatigue": {
         "home": {
@@ -341,9 +354,9 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udcca 81.6pt probability edge"
+        "\ud83d\udd25 Sharp steam detected"
       ],
-      "injury_notes": "Nic Claxton (C); Noah Clowney (F); Danny Wolf (F); Michael Porter Jr. (F)",
+      "injury_notes": "Michael Porter Jr. (F); Danny Wolf (F); Egor Demin (G); Day'Ron Sharpe (C)",
       "sharp": {
         "away_t": null,
         "home_t": null,
@@ -378,10 +391,10 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "Atlanta Hawks hold a 90.8% edge.",
+        "trend": "Atlanta Hawks hold a 92.6% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
-        "injury_notes": "Nic Claxton (C); Noah Clowney (F); Danny Wolf (F); Michael Porter Jr. (F)"
+        "steam": "Line steamed from -1650 to -2800 (1150pt move) \u2014 heavy professional action on Atlanta Hawks.",
+        "injury_notes": "Michael Porter Jr. (F); Danny Wolf (F); Egor Demin (G); Day'Ron Sharpe (C)"
       },
       "live": {
         "status": "pre",
@@ -394,10 +407,22 @@
       },
       "news": [
         {
-          "title": "Knueppel sets Hornets mark for 3s in a season",
-          "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/nba/story/_/id/48381909/rookie-kon-knueppel-sets-hornets-season-3-point-record",
-          "published": "Fri, 3 Apr 2026 10:50:55 EST"
+          "title": "Collin Gillespie sets Suns record for 3-pointers in a single season",
+          "source": "Burncitysports.com",
+          "link": "https://burncitysports.com/2026/04/02/collin-gillespie-suns-record-3/",
+          "published": "2026-04-02T23:45:37Z"
+        },
+        {
+          "title": "What did LeBron James say about Memphis? Internet livid over Lakers star's snark",
+          "source": "Sporting News",
+          "link": "https://www.sportingnews.com/us/nba/los-angeles-lakers/news/lakers-what-did-lebron-james-say-about-memphis-internet-livid-star-snark/067665415347c178b5b53d5c",
+          "published": "2026-04-02T23:42:53Z"
+        },
+        {
+          "title": "Anthony Edwards ineligible for NBA awards after missing Timberwolves vs Pistons",
+          "source": "Yahoo Entertainment",
+          "link": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_0433acb7-e051-4477-8422-b340f165be52",
+          "published": "2026-04-02T23:40:30Z"
         }
       ]
     },
@@ -408,46 +433,46 @@
       "home_abbr": "NYK",
       "away_abbr": "CHI",
       "home_ml": "-1450",
-      "away_ml": "+850",
+      "away_ml": "+750",
       "home_ml_raw": -1450,
-      "away_ml_raw": 850,
-      "home_prob": 89.9,
-      "away_prob": 10.1,
-      "spread": "NYK -15.5",
+      "away_ml_raw": 750,
+      "home_prob": 88.8,
+      "away_prob": 11.2,
+      "spread": "NYK -16.5",
       "favorite": "New York Knicks",
       "pick": "New York Knicks",
       "pick_abbr": "NYK",
       "moneyline": "-1450",
-      "win_probability": 89.9,
+      "win_probability": 88.8,
       "confidence": "HIGH",
       "confidence_stars": "\u2605\u2605\u2605",
-      "commence_time": "2026-04-03T23:40:00Z",
+      "commence_time": "2026-04-03T23:42:00Z",
       "line_movement": {
         "home": {
-          "direction": "longer",
-          "points_moved": 150,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -1450 \u2190 -1600",
-          "old_ml": "-1600",
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "No movement",
+          "old_ml": "-1450",
           "new_ml": "-1450"
         },
         "away": {
           "direction": "shorter",
-          "points_moved": 50,
+          "points_moved": 100,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM +850 \u2190 +900",
-          "old_ml": "+900",
-          "new_ml": "+850"
+          "label": "\ud83d\udd25 STEAM +750 \u2190 +850",
+          "old_ml": "+850",
+          "new_ml": "+750"
         },
         "pick": {
-          "direction": "longer",
-          "points_moved": 150,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -1450 \u2190 -1600",
-          "old_ml": "-1600",
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "No movement",
+          "old_ml": "-1450",
           "new_ml": "-1450"
         },
-        "snapshot_time": "April 03, 2026 at 12:06 PM UTC"
+        "snapshot_time": "April 03, 2026 at 03:05 PM UTC"
       },
       "fatigue": {
         "home": {
@@ -476,7 +501,7 @@
       "edge_factors": [
         "\ud83d\udd25 Sharp steam detected"
       ],
-      "injury_notes": "Guerschon Yabusele (F); Lachlan Olbrich (C); Nick Richards (C); Mac McClung (G)",
+      "injury_notes": "Karl-Anthony Towns (C); Nick Richards (C); Anfernee Simons (G); Jalen Smith (F)",
       "sharp": {
         "away_t": null,
         "home_t": null,
@@ -511,10 +536,10 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "New York Knicks hold a 89.9% edge.",
+        "trend": "New York Knicks hold a 88.8% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -1600 to -1450 (150pt move) \u2014 heavy professional action on New York Knicks.",
-        "injury_notes": "Guerschon Yabusele (F); Lachlan Olbrich (C); Nick Richards (C); Mac McClung (G)"
+        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "injury_notes": "Karl-Anthony Towns (C); Nick Richards (C); Anfernee Simons (G); Jalen Smith (F)"
       },
       "live": {
         "status": "pre",
@@ -527,22 +552,22 @@
       },
       "news": [
         {
-          "title": "NBA Playoff scenarios for Thursday, April 2: Houston, Cleveland can clinch playoff spot on night of big games",
-          "source": "NBCSports.com",
-          "link": "https://www.nbcsports.com/nba/news/nba-playoff-scenarios-for-thursday-april-2-houston-cleveland-can-clinch-playoff-spot-on-night-of-big-games",
-          "published": "2026-04-02T15:04:42Z"
+          "title": "Collin Gillespie sets Suns record for 3-pointers in a single season",
+          "source": "Burncitysports.com",
+          "link": "https://burncitysports.com/2026/04/02/collin-gillespie-suns-record-3/",
+          "published": "2026-04-02T23:45:37Z"
         },
         {
-          "title": "Mark Cuban sounds off on the sale and the trade\u2026 again",
-          "source": "Mavs Moneyball",
-          "link": "https://www.mavsmoneyball.com/mavericks-analysis/57479/mark-cuban-sounds-off-luka-doncic-patrick-dumont-cooper-flagg-intersections-podcast",
-          "published": "2026-04-02T15:04:21Z"
+          "title": "What did LeBron James say about Memphis? Internet livid over Lakers star's snark",
+          "source": "Sporting News",
+          "link": "https://www.sportingnews.com/us/nba/los-angeles-lakers/news/lakers-what-did-lebron-james-say-about-memphis-internet-livid-star-snark/067665415347c178b5b53d5c",
+          "published": "2026-04-02T23:42:53Z"
         },
         {
-          "title": "NBA Mock Draft: Where AJ Dybantsa, Cameron Boozer, Darryn Peterson and other top prospects could land",
+          "title": "Anthony Edwards ineligible for NBA awards after missing Timberwolves vs Pistons",
           "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/nba/article/nba-mock-draft-where-aj-dybantsa-cameron-boozer-darryn-peterson-and-other-top-prospects-could-land-150410715.html",
-          "published": "2026-04-02T15:04:10Z"
+          "link": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_0433acb7-e051-4477-8422-b340f165be52",
+          "published": "2026-04-02T23:40:30Z"
         }
       ]
     },
@@ -552,47 +577,47 @@
       "away_team": "Boston Celtics",
       "home_abbr": "MIL",
       "away_abbr": "BOS",
-      "home_ml": "+1000",
-      "away_ml": "-1800",
-      "home_ml_raw": 1000,
-      "away_ml_raw": -1800,
-      "home_prob": 8.8,
-      "away_prob": 91.2,
-      "spread": "MIL +17.5",
+      "home_ml": "+1200",
+      "away_ml": "-2400",
+      "home_ml_raw": 1200,
+      "away_ml_raw": -2400,
+      "home_prob": 7.4,
+      "away_prob": 92.6,
+      "spread": "MIL +18.5",
       "favorite": "Boston Celtics",
       "pick": "Boston Celtics",
       "pick_abbr": "BOS",
-      "moneyline": "-1800",
-      "win_probability": 91.2,
+      "moneyline": "-2400",
+      "win_probability": 92.6,
       "confidence": "HIGH",
       "confidence_stars": "\u2605\u2605\u2605",
       "commence_time": "2026-04-04T00:10:00Z",
       "line_movement": {
         "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "longer",
+          "points_moved": 200,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM +1200 \u2190 +1000",
           "old_ml": "+1000",
-          "new_ml": "+1000"
+          "new_ml": "+1200"
         },
         "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "shorter",
+          "points_moved": 600,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -2400 \u2190 -1800",
           "old_ml": "-1800",
-          "new_ml": "-1800"
+          "new_ml": "-2400"
         },
         "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "shorter",
+          "points_moved": 600,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -2400 \u2190 -1800",
           "old_ml": "-1800",
-          "new_ml": "-1800"
+          "new_ml": "-2400"
         },
-        "snapshot_time": "April 03, 2026 at 12:06 PM UTC"
+        "snapshot_time": "April 03, 2026 at 03:05 PM UTC"
       },
       "fatigue": {
         "home": {
@@ -619,9 +644,9 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udcca 82.4pt probability edge"
+        "\ud83d\udd25 Sharp steam detected"
       ],
-      "injury_notes": "Jericho Sims (C); Thanasis Antetokounmpo (F); Gary Trent Jr. (G); Bobby Portis (F)",
+      "injury_notes": "Ryan Rollins (G); Gary Trent Jr. (G); Bobby Portis (F); Giannis Antetokounmpo (F)",
       "sharp": {
         "away_t": null,
         "home_t": null,
@@ -656,10 +681,10 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "Boston Celtics hold a 91.2% edge.",
+        "trend": "Boston Celtics hold a 92.6% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
-        "injury_notes": "Jericho Sims (C); Thanasis Antetokounmpo (F); Gary Trent Jr. (G); Bobby Portis (F)"
+        "steam": "Line steamed from -1800 to -2400 (600pt move) \u2014 heavy professional action on Boston Celtics.",
+        "injury_notes": "Ryan Rollins (G); Gary Trent Jr. (G); Bobby Portis (F); Giannis Antetokounmpo (F)"
       },
       "live": {
         "status": "pre",
@@ -672,22 +697,22 @@
       },
       "news": [
         {
-          "title": "NBA Playoff scenarios for Thursday, April 2: Houston, Cleveland can clinch playoff spot on night of big games",
-          "source": "NBCSports.com",
-          "link": "https://www.nbcsports.com/nba/news/nba-playoff-scenarios-for-thursday-april-2-houston-cleveland-can-clinch-playoff-spot-on-night-of-big-games",
-          "published": "2026-04-02T15:04:42Z"
+          "title": "Collin Gillespie sets Suns record for 3-pointers in a single season",
+          "source": "Burncitysports.com",
+          "link": "https://burncitysports.com/2026/04/02/collin-gillespie-suns-record-3/",
+          "published": "2026-04-02T23:45:37Z"
         },
         {
-          "title": "Mark Cuban sounds off on the sale and the trade\u2026 again",
-          "source": "Mavs Moneyball",
-          "link": "https://www.mavsmoneyball.com/mavericks-analysis/57479/mark-cuban-sounds-off-luka-doncic-patrick-dumont-cooper-flagg-intersections-podcast",
-          "published": "2026-04-02T15:04:21Z"
+          "title": "What did LeBron James say about Memphis? Internet livid over Lakers star's snark",
+          "source": "Sporting News",
+          "link": "https://www.sportingnews.com/us/nba/los-angeles-lakers/news/lakers-what-did-lebron-james-say-about-memphis-internet-livid-star-snark/067665415347c178b5b53d5c",
+          "published": "2026-04-02T23:42:53Z"
         },
         {
-          "title": "NBA Mock Draft: Where AJ Dybantsa, Cameron Boozer, Darryn Peterson and other top prospects could land",
+          "title": "Anthony Edwards ineligible for NBA awards after missing Timberwolves vs Pistons",
           "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/nba/article/nba-mock-draft-where-aj-dybantsa-cameron-boozer-darryn-peterson-and-other-top-prospects-could-land-150410715.html",
-          "published": "2026-04-02T15:04:10Z"
+          "link": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_0433acb7-e051-4477-8422-b340f165be52",
+          "published": "2026-04-02T23:40:30Z"
         }
       ]
     },
@@ -697,47 +722,47 @@
       "away_team": "Utah Jazz",
       "home_abbr": "HOU",
       "away_abbr": "UTA",
-      "home_ml": "-1800",
-      "away_ml": "+1000",
-      "home_ml_raw": -1800,
-      "away_ml_raw": 1000,
-      "home_prob": 91.2,
-      "away_prob": 8.8,
-      "spread": "HOU -16.5",
+      "home_ml": "-2100",
+      "away_ml": "+1100",
+      "home_ml_raw": -2100,
+      "away_ml_raw": 1100,
+      "home_prob": 92.0,
+      "away_prob": 8.0,
+      "spread": "HOU -18.5",
       "favorite": "Houston Rockets",
       "pick": "Houston Rockets",
       "pick_abbr": "HOU",
-      "moneyline": "-1800",
-      "win_probability": 91.2,
+      "moneyline": "-2100",
+      "win_probability": 92.0,
       "confidence": "HIGH",
       "confidence_stars": "\u2605\u2605\u2605",
       "commence_time": "2026-04-04T00:10:00Z",
       "line_movement": {
         "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "shorter",
+          "points_moved": 300,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -2100 \u2190 -1800",
           "old_ml": "-1800",
-          "new_ml": "-1800"
+          "new_ml": "-2100"
         },
         "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "longer",
+          "points_moved": 100,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM +1100 \u2190 +1000",
           "old_ml": "+1000",
-          "new_ml": "+1000"
+          "new_ml": "+1100"
         },
         "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "shorter",
+          "points_moved": 300,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -2100 \u2190 -1800",
           "old_ml": "-1800",
-          "new_ml": "-1800"
+          "new_ml": "-2100"
         },
-        "snapshot_time": "April 03, 2026 at 12:06 PM UTC"
+        "snapshot_time": "April 03, 2026 at 03:05 PM UTC"
       },
       "fatigue": {
         "home": {
@@ -764,7 +789,7 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udcca 82.4pt probability edge"
+        "\ud83d\udd25 Sharp steam detected"
       ],
       "injury_notes": "Steven Adams (C); Fred VanVleet (G); Keyonte George (G); Isaiah Collier (G)",
       "sharp": {
@@ -801,9 +826,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "Houston Rockets hold a 91.2% edge.",
+        "trend": "Houston Rockets hold a 92.0% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "steam": "Line steamed from -1800 to -2100 (300pt move) \u2014 heavy professional action on Houston Rockets.",
         "injury_notes": "Steven Adams (C); Fred VanVleet (G); Keyonte George (G); Isaiah Collier (G)"
       },
       "live": {
@@ -817,22 +842,10 @@
       },
       "news": [
         {
-          "title": "NBA Playoff scenarios for Thursday, April 2: Houston, Cleveland can clinch playoff spot on night of big games",
-          "source": "NBCSports.com",
-          "link": "https://www.nbcsports.com/nba/news/nba-playoff-scenarios-for-thursday-april-2-houston-cleveland-can-clinch-playoff-spot-on-night-of-big-games",
-          "published": "2026-04-02T15:04:42Z"
-        },
-        {
-          "title": "Mark Cuban sounds off on the sale and the trade\u2026 again",
-          "source": "Mavs Moneyball",
-          "link": "https://www.mavsmoneyball.com/mavericks-analysis/57479/mark-cuban-sounds-off-luka-doncic-patrick-dumont-cooper-flagg-intersections-podcast",
-          "published": "2026-04-02T15:04:21Z"
-        },
-        {
-          "title": "NBA Mock Draft: Where AJ Dybantsa, Cameron Boozer, Darryn Peterson and other top prospects could land",
-          "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/nba/article/nba-mock-draft-where-aj-dybantsa-cameron-boozer-darryn-peterson-and-other-top-prospects-could-land-150410715.html",
-          "published": "2026-04-02T15:04:10Z"
+          "title": "Sources: Curry expected to return vs. Rockets",
+          "source": "www.espn.com - NBA",
+          "link": "https://www.espn.com/nba/story/_/id/48388053/sources-warriors-curry-expected-return-sunday-vs-rockets",
+          "published": "Fri, 3 Apr 2026 19:40:04 EST"
         }
       ]
     },
@@ -842,18 +855,18 @@
       "away_team": "Toronto Raptors",
       "home_abbr": "MEM",
       "away_abbr": "TOR",
-      "home_ml": "+650",
-      "away_ml": "-1000",
-      "home_ml_raw": 650,
-      "away_ml_raw": -1000,
-      "home_prob": 12.8,
-      "away_prob": 87.2,
-      "spread": "MEM +13.5",
+      "home_ml": "+675",
+      "away_ml": "-1050",
+      "home_ml_raw": 675,
+      "away_ml_raw": -1050,
+      "home_prob": 12.4,
+      "away_prob": 87.6,
+      "spread": "MEM +14.5",
       "favorite": "Toronto Raptors",
       "pick": "Toronto Raptors",
       "pick_abbr": "TOR",
-      "moneyline": "-1000",
-      "win_probability": 87.2,
+      "moneyline": "-1050",
+      "win_probability": 87.6,
       "confidence": "HIGH",
       "confidence_stars": "\u2605\u2605\u2605",
       "commence_time": "2026-04-04T00:10:00Z",
@@ -862,27 +875,27 @@
           "direction": "longer",
           "points_moved": 25,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM +650 \u2190 +625",
-          "old_ml": "+625",
-          "new_ml": "+650"
+          "label": "\ud83d\udd25 STEAM +675 \u2190 +650",
+          "old_ml": "+650",
+          "new_ml": "+675"
         },
         "away": {
           "direction": "shorter",
           "points_moved": 50,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM -1000 \u2190 -950",
-          "old_ml": "-950",
-          "new_ml": "-1000"
+          "label": "\ud83d\udd25 STEAM -1050 \u2190 -1000",
+          "old_ml": "-1000",
+          "new_ml": "-1050"
         },
         "pick": {
           "direction": "shorter",
           "points_moved": 50,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM -1000 \u2190 -950",
-          "old_ml": "-950",
-          "new_ml": "-1000"
+          "label": "\ud83d\udd25 STEAM -1050 \u2190 -1000",
+          "old_ml": "-1000",
+          "new_ml": "-1050"
         },
-        "snapshot_time": "April 03, 2026 at 12:06 PM UTC"
+        "snapshot_time": "April 03, 2026 at 03:05 PM UTC"
       },
       "fatigue": {
         "home": {
@@ -911,7 +924,7 @@
       "edge_factors": [
         "\ud83d\udd25 Sharp steam detected"
       ],
-      "injury_notes": "Taj Gibson (F); Ty Jerome (G); Cam Spencer (G); Olivier-Maxence Prosper (F)",
+      "injury_notes": "Walter Clayton Jr. (G); Taj Gibson (F); Olivier-Maxence Prosper (F); Ty Jerome (G)",
       "sharp": {
         "away_t": null,
         "home_t": null,
@@ -946,10 +959,10 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "Toronto Raptors hold a 87.2% edge.",
+        "trend": "Toronto Raptors hold a 87.6% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -950 to -1000 (50pt move) \u2014 heavy professional action on Toronto Raptors.",
-        "injury_notes": "Taj Gibson (F); Ty Jerome (G); Cam Spencer (G); Olivier-Maxence Prosper (F)"
+        "steam": "Line steamed from -1000 to -1050 (50pt move) \u2014 heavy professional action on Toronto Raptors.",
+        "injury_notes": "Walter Clayton Jr. (G); Taj Gibson (F); Olivier-Maxence Prosper (F); Ty Jerome (G)"
       },
       "live": {
         "status": "pre",
@@ -962,22 +975,22 @@
       },
       "news": [
         {
-          "title": "NBA Playoff scenarios for Thursday, April 2: Houston, Cleveland can clinch playoff spot on night of big games",
-          "source": "NBCSports.com",
-          "link": "https://www.nbcsports.com/nba/news/nba-playoff-scenarios-for-thursday-april-2-houston-cleveland-can-clinch-playoff-spot-on-night-of-big-games",
-          "published": "2026-04-02T15:04:42Z"
+          "title": "Collin Gillespie sets Suns record for 3-pointers in a single season",
+          "source": "Burncitysports.com",
+          "link": "https://burncitysports.com/2026/04/02/collin-gillespie-suns-record-3/",
+          "published": "2026-04-02T23:45:37Z"
         },
         {
-          "title": "Mark Cuban sounds off on the sale and the trade\u2026 again",
-          "source": "Mavs Moneyball",
-          "link": "https://www.mavsmoneyball.com/mavericks-analysis/57479/mark-cuban-sounds-off-luka-doncic-patrick-dumont-cooper-flagg-intersections-podcast",
-          "published": "2026-04-02T15:04:21Z"
+          "title": "What did LeBron James say about Memphis? Internet livid over Lakers star's snark",
+          "source": "Sporting News",
+          "link": "https://www.sportingnews.com/us/nba/los-angeles-lakers/news/lakers-what-did-lebron-james-say-about-memphis-internet-livid-star-snark/067665415347c178b5b53d5c",
+          "published": "2026-04-02T23:42:53Z"
         },
         {
-          "title": "NBA Mock Draft: Where AJ Dybantsa, Cameron Boozer, Darryn Peterson and other top prospects could land",
+          "title": "Anthony Edwards ineligible for NBA awards after missing Timberwolves vs Pistons",
           "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/nba/article/nba-mock-draft-where-aj-dybantsa-cameron-boozer-darryn-peterson-and-other-top-prospects-could-land-150410715.html",
-          "published": "2026-04-02T15:04:10Z"
+          "link": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_0433acb7-e051-4477-8422-b340f165be52",
+          "published": "2026-04-02T23:40:30Z"
         }
       ]
     },
@@ -1027,7 +1040,7 @@
           "old_ml": "-270",
           "new_ml": "-270"
         },
-        "snapshot_time": "April 03, 2026 at 12:06 PM UTC"
+        "snapshot_time": "April 03, 2026 at 03:05 PM UTC"
       },
       "fatigue": {
         "home": {
@@ -1107,22 +1120,22 @@
       },
       "news": [
         {
-          "title": "NBA Playoff scenarios for Thursday, April 2: Houston, Cleveland can clinch playoff spot on night of big games",
-          "source": "NBCSports.com",
-          "link": "https://www.nbcsports.com/nba/news/nba-playoff-scenarios-for-thursday-april-2-houston-cleveland-can-clinch-playoff-spot-on-night-of-big-games",
-          "published": "2026-04-02T15:04:42Z"
+          "title": "Collin Gillespie sets Suns record for 3-pointers in a single season",
+          "source": "Burncitysports.com",
+          "link": "https://burncitysports.com/2026/04/02/collin-gillespie-suns-record-3/",
+          "published": "2026-04-02T23:45:37Z"
         },
         {
-          "title": "Mark Cuban sounds off on the sale and the trade\u2026 again",
-          "source": "Mavs Moneyball",
-          "link": "https://www.mavsmoneyball.com/mavericks-analysis/57479/mark-cuban-sounds-off-luka-doncic-patrick-dumont-cooper-flagg-intersections-podcast",
-          "published": "2026-04-02T15:04:21Z"
+          "title": "What did LeBron James say about Memphis? Internet livid over Lakers star's snark",
+          "source": "Sporting News",
+          "link": "https://www.sportingnews.com/us/nba/los-angeles-lakers/news/lakers-what-did-lebron-james-say-about-memphis-internet-livid-star-snark/067665415347c178b5b53d5c",
+          "published": "2026-04-02T23:42:53Z"
         },
         {
-          "title": "NBA Mock Draft: Where AJ Dybantsa, Cameron Boozer, Darryn Peterson and other top prospects could land",
+          "title": "Anthony Edwards ineligible for NBA awards after missing Timberwolves vs Pistons",
           "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/nba/article/nba-mock-draft-where-aj-dybantsa-cameron-boozer-darryn-peterson-and-other-top-prospects-could-land-150410715.html",
-          "published": "2026-04-02T15:04:10Z"
+          "link": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_0433acb7-e051-4477-8422-b340f165be52",
+          "published": "2026-04-02T23:40:30Z"
         }
       ]
     },
@@ -1138,7 +1151,7 @@
       "away_ml_raw": -218,
       "home_prob": 34.3,
       "away_prob": 65.7,
-      "spread": "SAC +5.5",
+      "spread": "SAC +6.5",
       "favorite": "New Orleans Pelicans",
       "pick": "New Orleans Pelicans",
       "pick_abbr": "NOP",
@@ -1149,30 +1162,30 @@
       "commence_time": "2026-04-04T02:10:00Z",
       "line_movement": {
         "home": {
-          "direction": "longer",
-          "points_moved": 16,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM +180 \u2190 +164",
-          "old_ml": "+164",
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "No movement",
+          "old_ml": "+180",
           "new_ml": "+180"
         },
         "away": {
-          "direction": "shorter",
-          "points_moved": 20,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -218 \u2190 -198",
-          "old_ml": "-198",
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "No movement",
+          "old_ml": "-218",
           "new_ml": "-218"
         },
         "pick": {
-          "direction": "shorter",
-          "points_moved": 20,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -218 \u2190 -198",
-          "old_ml": "-198",
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "No movement",
+          "old_ml": "-218",
           "new_ml": "-218"
         },
-        "snapshot_time": "April 03, 2026 at 12:06 PM UTC"
+        "snapshot_time": "April 03, 2026 at 03:05 PM UTC"
       },
       "fatigue": {
         "home": {
@@ -1199,7 +1212,6 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udd25 Sharp steam detected",
         "\u2708\ufe0f SAC traveled 2,196 mi"
       ],
       "injury_notes": "Malik Monk (G); Keegan Murray (F); Russell Westbrook (G); Isaiah Stevens (G)",
@@ -1239,7 +1251,7 @@
       "briefing": {
         "trend": "NOP on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -198 to -218 (20pt move) \u2014 heavy professional action on New Orleans Pelicans.",
+        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "Malik Monk (G); Keegan Murray (F); Russell Westbrook (G); Isaiah Stevens (G)"
       },
       "live": {
@@ -1253,22 +1265,300 @@
       },
       "news": [
         {
-          "title": "NBA Playoff scenarios for Thursday, April 2: Houston, Cleveland can clinch playoff spot on night of big games",
-          "source": "NBCSports.com",
-          "link": "https://www.nbcsports.com/nba/news/nba-playoff-scenarios-for-thursday-april-2-houston-cleveland-can-clinch-playoff-spot-on-night-of-big-games",
-          "published": "2026-04-02T15:04:42Z"
+          "title": "Collin Gillespie sets Suns record for 3-pointers in a single season",
+          "source": "Burncitysports.com",
+          "link": "https://burncitysports.com/2026/04/02/collin-gillespie-suns-record-3/",
+          "published": "2026-04-02T23:45:37Z"
         },
         {
-          "title": "Mark Cuban sounds off on the sale and the trade\u2026 again",
-          "source": "Mavs Moneyball",
-          "link": "https://www.mavsmoneyball.com/mavericks-analysis/57479/mark-cuban-sounds-off-luka-doncic-patrick-dumont-cooper-flagg-intersections-podcast",
-          "published": "2026-04-02T15:04:21Z"
+          "title": "What did LeBron James say about Memphis? Internet livid over Lakers star's snark",
+          "source": "Sporting News",
+          "link": "https://www.sportingnews.com/us/nba/los-angeles-lakers/news/lakers-what-did-lebron-james-say-about-memphis-internet-livid-star-snark/067665415347c178b5b53d5c",
+          "published": "2026-04-02T23:42:53Z"
         },
         {
-          "title": "NBA Mock Draft: Where AJ Dybantsa, Cameron Boozer, Darryn Peterson and other top prospects could land",
+          "title": "Anthony Edwards ineligible for NBA awards after missing Timberwolves vs Pistons",
           "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/nba/article/nba-mock-draft-where-aj-dybantsa-cameron-boozer-darryn-peterson-and-other-top-prospects-could-land-150410715.html",
-          "published": "2026-04-02T15:04:10Z"
+          "link": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_0433acb7-e051-4477-8422-b340f165be52",
+          "published": "2026-04-02T23:40:30Z"
+        }
+      ]
+    },
+    {
+      "game": "San Antonio Spurs @ Denver Nuggets",
+      "home_team": "Denver Nuggets",
+      "away_team": "San Antonio Spurs",
+      "home_abbr": "DEN",
+      "away_abbr": "SAS",
+      "home_ml": "+114",
+      "away_ml": "-135",
+      "home_ml_raw": 114,
+      "away_ml_raw": -135,
+      "home_prob": 44.9,
+      "away_prob": 55.1,
+      "spread": "DEN +2.5",
+      "favorite": "San Antonio Spurs",
+      "pick": "San Antonio Spurs",
+      "pick_abbr": "SAS",
+      "moneyline": "-135",
+      "win_probability": 55.1,
+      "confidence": "LOW",
+      "confidence_stars": "\u2605\u2606\u2606",
+      "commence_time": "2026-04-04T19:10:00Z",
+      "line_movement": {
+        "home": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "away": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "pick": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "snapshot_time": "\u2014"
+      },
+      "fatigue": {
+        "home": {
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
+          "last_game": "Apr 01",
+          "days_rest": 2,
+          "games_last_4d": 1,
+          "travel_miles": 0,
+          "travel_desc": "",
+          "source": "ESPN Scoreboard API"
+        },
+        "away": {
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Apr 02",
+          "days_rest": 1,
+          "games_last_4d": 3,
+          "travel_miles": 1206,
+          "travel_desc": "1,206 mi road trip",
+          "source": "ESPN Scoreboard API"
+        }
+      },
+      "edge_factors": [
+        "\ud83d\udcca 10.2pt probability edge"
+      ],
+      "injury_notes": "Zeke Nnaji (F); Tim Hardaway Jr. (G); Spencer Jones (F); Peyton Watson (G)",
+      "sharp": {
+        "away_t": null,
+        "home_t": null,
+        "source": null,
+        "sharp_signal": null,
+        "sharp_label": "Pending \u2014 check closer to tip-off",
+        "rlm": false
+      },
+      "form": {
+        "home": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        },
+        "away": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        }
+      },
+      "h2h": {
+        "total_meetings": 0,
+        "home_wins": 0,
+        "away_wins": 0,
+        "meetings": [],
+        "source": "\u2014"
+      },
+      "briefing": {
+        "trend": "SAS on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "matchup": "Both rosters appear healthy \u2014 clean line.",
+        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "injury_notes": "Zeke Nnaji (F); Tim Hardaway Jr. (G); Spencer Jones (F); Peyton Watson (G)"
+      },
+      "live": {
+        "status": "pre",
+        "status_detail": "Upcoming",
+        "period": 0,
+        "clock": "",
+        "home_score": 0,
+        "away_score": 0,
+        "spread_alert": null
+      },
+      "news": [
+        {
+          "title": "Spurs rest Wemby on back-to-back, top Clippers",
+          "source": "www.espn.com - NBA",
+          "link": "https://www.espn.com/nba/story/_/id/48380360/spurs-rule-victor-wembanyama-ankle-clippers",
+          "published": "Fri, 3 Apr 2026 19:40:04 EST"
+        }
+      ]
+    },
+    {
+      "game": "Washington Wizards @ Miami Heat",
+      "home_team": "Miami Heat",
+      "away_team": "Washington Wizards",
+      "home_abbr": "MIA",
+      "away_abbr": "WAS",
+      "home_ml": "-1800",
+      "away_ml": "+1000",
+      "home_ml_raw": -1800,
+      "away_ml_raw": 1000,
+      "home_prob": 91.2,
+      "away_prob": 8.8,
+      "spread": "MIA -17.5",
+      "favorite": "Miami Heat",
+      "pick": "Miami Heat",
+      "pick_abbr": "MIA",
+      "moneyline": "-1800",
+      "win_probability": 91.2,
+      "confidence": "HIGH",
+      "confidence_stars": "\u2605\u2605\u2605",
+      "commence_time": "2026-04-04T19:10:00Z",
+      "line_movement": {
+        "home": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "away": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "pick": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "snapshot_time": "\u2014"
+      },
+      "fatigue": {
+        "home": {
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
+          "last_game": "Apr 01",
+          "days_rest": 2,
+          "games_last_4d": 2,
+          "travel_miles": 0,
+          "travel_desc": "",
+          "source": "ESPN Scoreboard API"
+        },
+        "away": {
+          "status": "TRAVEL",
+          "label": "Cross-country travel \ud83d\udfe3",
+          "battery": 50,
+          "last_game": "Apr 01",
+          "days_rest": 2,
+          "games_last_4d": 2,
+          "travel_miles": 2297,
+          "travel_desc": "2,297 mi road trip",
+          "source": "ESPN Scoreboard API"
+        }
+      },
+      "edge_factors": [
+        "\u2708\ufe0f WAS traveled 2,297 mi"
+      ],
+      "injury_notes": "Tyler Herro (G); Norman Powell (G); Terry Rozier (G); Trae Young (G)",
+      "sharp": {
+        "away_t": null,
+        "home_t": null,
+        "source": null,
+        "sharp_signal": null,
+        "sharp_label": "Pending \u2014 check closer to tip-off",
+        "rlm": false
+      },
+      "form": {
+        "home": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        },
+        "away": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        }
+      },
+      "h2h": {
+        "total_meetings": 0,
+        "home_wins": 0,
+        "away_wins": 0,
+        "meetings": [],
+        "source": "\u2014"
+      },
+      "briefing": {
+        "trend": "Miami Heat hold a 91.2% edge.",
+        "matchup": "Both rosters appear healthy \u2014 clean line.",
+        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "injury_notes": "Tyler Herro (G); Norman Powell (G); Terry Rozier (G); Trae Young (G)"
+      },
+      "live": {
+        "status": "pre",
+        "status_detail": "Upcoming",
+        "period": 0,
+        "clock": "",
+        "home_score": 0,
+        "away_score": 0,
+        "spread_alert": null
+      },
+      "news": [
+        {
+          "title": "Collin Gillespie sets Suns record for 3-pointers in a single season",
+          "source": "Burncitysports.com",
+          "link": "https://burncitysports.com/2026/04/02/collin-gillespie-suns-record-3/",
+          "published": "2026-04-02T23:45:37Z"
+        },
+        {
+          "title": "What did LeBron James say about Memphis? Internet livid over Lakers star's snark",
+          "source": "Sporting News",
+          "link": "https://www.sportingnews.com/us/nba/los-angeles-lakers/news/lakers-what-did-lebron-james-say-about-memphis-internet-livid-star-snark/067665415347c178b5b53d5c",
+          "published": "2026-04-02T23:42:53Z"
+        },
+        {
+          "title": "Anthony Edwards ineligible for NBA awards after missing Timberwolves vs Pistons",
+          "source": "Yahoo Entertainment",
+          "link": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_0433acb7-e051-4477-8422-b340f165be52",
+          "published": "2026-04-02T23:40:30Z"
         }
       ]
     }
