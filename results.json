@@ -394,9 +394,11 @@
       "win_probability": 55.1,
       "commence_time": "2026-04-02T23:10:00Z",
       "date": "2026-04-01T23:52:18.620315+00:00",
-      "graded": false,
-      "result": null,
-      "profit": null
+      "graded": true,
+      "result": "WIN",
+      "profit": 74.07,
+      "home_score": 113,
+      "away_score": 108
     },
     {
       "game": "Los Angeles Lakers @ Oklahoma City Thunder",
@@ -408,9 +410,11 @@
       "win_probability": 73.4,
       "commence_time": "2026-04-03T01:40:00Z",
       "date": "2026-04-01T23:52:18.620315+00:00",
-      "graded": false,
-      "result": null,
-      "profit": null
+      "graded": true,
+      "result": "WIN",
+      "profit": 30.77,
+      "home_score": 139,
+      "away_score": 96
     },
     {
       "game": "Phoenix Suns @ Charlotte Hornets",
@@ -422,9 +426,11 @@
       "win_probability": 65.7,
       "commence_time": "2026-04-02T23:10:00Z",
       "date": "2026-04-02T05:53:28.937258+00:00",
-      "graded": false,
-      "result": null,
-      "profit": null
+      "graded": true,
+      "result": "WIN",
+      "profit": 45.87,
+      "home_score": 127,
+      "away_score": 107
     },
     {
       "game": "Cleveland Cavaliers @ Golden State Warriors",
@@ -436,9 +442,11 @@
       "win_probability": 79.1,
       "commence_time": "2026-04-03T02:10:00Z",
       "date": "2026-04-02T05:53:28.937258+00:00",
-      "graded": false,
-      "result": null,
-      "profit": null
+      "graded": true,
+      "result": "WIN",
+      "profit": 21.28,
+      "home_score": 111,
+      "away_score": 118
     },
     {
       "game": "New Orleans Pelicans @ Portland Trail Blazers",
@@ -450,9 +458,11 @@
       "win_probability": 69.6,
       "commence_time": "2026-04-03T02:10:00Z",
       "date": "2026-04-02T05:53:28.937258+00:00",
-      "graded": false,
-      "result": null,
-      "profit": null
+      "graded": true,
+      "result": "WIN",
+      "profit": 37.74,
+      "home_score": 118,
+      "away_score": 106
     },
     {
       "game": "San Antonio Spurs @ Los Angeles Clippers",
@@ -464,9 +474,11 @@
       "win_probability": 61.6,
       "commence_time": "2026-04-03T02:40:00Z",
       "date": "2026-04-02T05:53:28.937258+00:00",
-      "graded": false,
-      "result": null,
-      "profit": null
+      "graded": true,
+      "result": "WIN",
+      "profit": 55.56,
+      "home_score": 99,
+      "away_score": 118
     },
     {
       "game": "Minnesota Timberwolves @ Philadelphia 76ers",
@@ -523,49 +535,119 @@
       "graded": false,
       "result": null,
       "profit": null
+    },
+    {
+      "game": "Indiana Pacers @ Charlotte Hornets",
+      "pick": "Charlotte Hornets",
+      "pick_abbr": "CHA",
+      "moneyline": "-1350",
+      "moneyline_raw": -1350,
+      "confidence": "HIGH",
+      "win_probability": 89.3,
+      "commence_time": "2026-04-03T23:10:00Z",
+      "date": "2026-04-03T05:27:20.145517+00:00",
+      "graded": false,
+      "result": null,
+      "profit": null
+    },
+    {
+      "game": "Boston Celtics @ Milwaukee Bucks",
+      "pick": "Boston Celtics",
+      "pick_abbr": "BOS",
+      "moneyline": "-1800",
+      "moneyline_raw": -1800,
+      "confidence": "HIGH",
+      "win_probability": 91.2,
+      "commence_time": "2026-04-04T00:10:00Z",
+      "date": "2026-04-03T05:27:20.145517+00:00",
+      "graded": false,
+      "result": null,
+      "profit": null
+    },
+    {
+      "game": "Utah Jazz @ Houston Rockets",
+      "pick": "Houston Rockets",
+      "pick_abbr": "HOU",
+      "moneyline": "-1650",
+      "moneyline_raw": -1650,
+      "confidence": "HIGH",
+      "win_probability": 90.8,
+      "commence_time": "2026-04-04T00:10:00Z",
+      "date": "2026-04-03T05:27:20.145517+00:00",
+      "graded": false,
+      "result": null,
+      "profit": null
+    },
+    {
+      "game": "Orlando Magic @ Dallas Mavericks",
+      "pick": "Orlando Magic",
+      "pick_abbr": "ORL",
+      "moneyline": "-270",
+      "moneyline_raw": -270,
+      "confidence": "MEDIUM",
+      "win_probability": 70.0,
+      "commence_time": "2026-04-04T00:40:00Z",
+      "date": "2026-04-03T05:27:20.145517+00:00",
+      "graded": false,
+      "result": null,
+      "profit": null
+    },
+    {
+      "game": "New Orleans Pelicans @ Sacramento Kings",
+      "pick": "New Orleans Pelicans",
+      "pick_abbr": "NOP",
+      "moneyline": "-205",
+      "moneyline_raw": -205,
+      "confidence": "MEDIUM",
+      "win_probability": 64.5,
+      "commence_time": "2026-04-04T02:10:00Z",
+      "date": "2026-04-03T05:27:20.145517+00:00",
+      "graded": false,
+      "result": null,
+      "profit": null
     }
   ],
   "summary": {
     "LOW": {
-      "wins": 4,
+      "wins": 5,
       "losses": 5,
-      "total": 9,
-      "win_pct": 44.4,
-      "roi": -21.6,
-      "profit": -194.41
+      "total": 10,
+      "win_pct": 50.0,
+      "roi": -12.0,
+      "profit": -120.34
     },
     "HIGH": {
-      "wins": 10,
+      "wins": 12,
       "losses": 1,
-      "total": 11,
-      "win_pct": 90.9,
-      "roi": -1.1,
-      "profit": -12.47
+      "total": 13,
+      "win_pct": 92.3,
+      "roi": 3.0,
+      "profit": 39.58
     },
     "MEDIUM": {
-      "wins": 3,
+      "wins": 6,
       "losses": 1,
-      "total": 4,
-      "win_pct": 75.0,
-      "roi": 9.5,
-      "profit": 37.92
+      "total": 7,
+      "win_pct": 85.7,
+      "roi": 25.3,
+      "profit": 177.09
     },
     "overall_7d": {
-      "wins": 17,
+      "wins": 23,
       "losses": 7,
-      "total": 24,
-      "win_pct": 70.8,
-      "roi": -7.0,
-      "profit": -168.96
+      "total": 30,
+      "win_pct": 76.7,
+      "roi": 3.2,
+      "profit": 96.33
     },
     "overall_30d": {
-      "wins": 17,
+      "wins": 23,
       "losses": 7,
-      "total": 24,
-      "win_pct": 70.8,
-      "roi": -7.0,
-      "profit": -168.96
+      "total": 30,
+      "win_pct": 76.7,
+      "roi": 3.2,
+      "profit": 96.33
     }
   },
-  "last_graded": "2026-04-02T05:52:40.798900+00:00"
+  "last_graded": "2026-04-03T05:26:30.003025+00:00"
 }
