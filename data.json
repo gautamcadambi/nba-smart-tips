@@ -1,622 +1,54 @@
 {
-  "last_updated": "April 05, 2026 at 02:06 PM UTC",
-  "total_games": 14,
+  "last_updated": "April 05, 2026 at 11:05 PM UTC",
+  "total_games": 10,
   "games": [
-    {
-      "game": "Toronto Raptors @ Boston Celtics",
-      "home_team": "Boston Celtics",
-      "away_team": "Toronto Raptors",
-      "home_abbr": "BOS",
-      "away_abbr": "TOR",
-      "home_ml": "-500",
-      "away_ml": "+380",
-      "home_ml_raw": -500,
-      "away_ml_raw": 380,
-      "home_prob": 80.0,
-      "away_prob": 20.0,
-      "spread": "BOS -9.5",
-      "favorite": "Boston Celtics",
-      "pick": "Boston Celtics",
-      "pick_abbr": "BOS",
-      "moneyline": "-500",
-      "win_probability": 80.0,
-      "confidence": "HIGH",
-      "confidence_stars": "\u2605\u2605\u2605",
-      "commence_time": "2026-04-05T19:40:00Z",
-      "line_movement": {
-        "home": {
-          "direction": "shorter",
-          "points_moved": 30,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -500 \u2190 -470",
-          "old_ml": "-470",
-          "new_ml": "-500"
-        },
-        "away": {
-          "direction": "longer",
-          "points_moved": 20,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM +380 \u2190 +360",
-          "old_ml": "+360",
-          "new_ml": "+380"
-        },
-        "pick": {
-          "direction": "shorter",
-          "points_moved": 30,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -500 \u2190 -470",
-          "old_ml": "-470",
-          "new_ml": "-500"
-        },
-        "snapshot_time": "April 05, 2026 at 11:57 AM UTC"
-      },
-      "fatigue": {
-        "home": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "Apr 03",
-          "days_rest": 2,
-          "games_last_4d": 2,
-          "travel_miles": 856,
-          "travel_desc": "856 mi road trip",
-          "source": "ESPN Scoreboard API"
-        },
-        "away": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "Apr 03",
-          "days_rest": 2,
-          "games_last_4d": 2,
-          "travel_miles": 817,
-          "travel_desc": "817 mi road trip",
-          "source": "ESPN Scoreboard API"
-        }
-      },
-      "edge_factors": [
-        "\ud83d\udd25 Sharp steam detected"
-      ],
-      "injury_notes": "Nikola Vucevic (C); Chucky Hepburn (G); Immanuel Quickley (G)",
-      "sharp": {
-        "away_t": null,
-        "home_t": null,
-        "source": null,
-        "sharp_signal": null,
-        "sharp_label": "Pending \u2014 check closer to tip-off",
-        "rlm": false
-      },
-      "form": {
-        "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        },
-        "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        }
-      },
-      "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
-      },
-      "briefing": {
-        "trend": "Boston Celtics hold a 80.0% edge.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -470 to -500 (30pt move) \u2014 heavy professional action on Boston Celtics.",
-        "injury_notes": "Nikola Vucevic (C); Chucky Hepburn (G); Immanuel Quickley (G)"
-      },
-      "live": {
-        "status": "pre",
-        "status_detail": "Upcoming",
-        "period": 0,
-        "clock": "",
-        "home_score": 0,
-        "away_score": 0,
-        "spread_alert": null
-      },
-      "news": [
-        {
-          "title": "Vucevic upgraded for possible return vs. Raptors",
-          "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/nba/story/_/id/48397337/celtics-nikola-vucevic-finger-upgraded-raptors-game",
-          "published": "Sun, 5 Apr 2026 00:50:53 EST"
-        }
-      ]
-    },
-    {
-      "game": "Washington Wizards @ Brooklyn Nets",
-      "home_team": "Brooklyn Nets",
-      "away_team": "Washington Wizards",
-      "home_abbr": "BKN",
-      "away_abbr": "WAS",
-      "home_ml": "-170",
-      "away_ml": "+142",
-      "home_ml_raw": -170,
-      "away_ml_raw": 142,
-      "home_prob": 60.4,
-      "away_prob": 39.6,
-      "spread": "BKN -3.5",
-      "favorite": "Brooklyn Nets",
-      "pick": "Brooklyn Nets",
-      "pick_abbr": "BKN",
-      "moneyline": "-170",
-      "win_probability": 60.4,
-      "confidence": "MEDIUM",
-      "confidence_stars": "\u2605\u2605\u2606",
-      "commence_time": "2026-04-05T19:40:00Z",
-      "line_movement": {
-        "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
-          "old_ml": "-170",
-          "new_ml": "-170"
-        },
-        "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
-          "old_ml": "+142",
-          "new_ml": "+142"
-        },
-        "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
-          "old_ml": "-170",
-          "new_ml": "-170"
-        },
-        "snapshot_time": "April 05, 2026 at 11:57 AM UTC"
-      },
-      "fatigue": {
-        "home": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "Apr 03",
-          "days_rest": 2,
-          "games_last_4d": 1,
-          "travel_miles": 0,
-          "travel_desc": "",
-          "source": "ESPN Scoreboard API"
-        },
-        "away": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
-          "last_game": "Apr 04",
-          "days_rest": 1,
-          "games_last_4d": 2,
-          "travel_miles": 925,
-          "travel_desc": "925 mi road trip",
-          "source": "ESPN Scoreboard API"
-        }
-      },
-      "edge_factors": [
-        "\ud83d\udca4 WAS fatigued (B2B) \u2014 source: ESPN"
-      ],
-      "injury_notes": "Ben Saraf (G); Terance Mann (G); Noah Clowney (F); Nic Claxton (C)",
-      "sharp": {
-        "away_t": null,
-        "home_t": null,
-        "source": null,
-        "sharp_signal": null,
-        "sharp_label": "Pending \u2014 check closer to tip-off",
-        "rlm": false
-      },
-      "form": {
-        "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        },
-        "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        }
-      },
-      "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
-      },
-      "briefing": {
-        "trend": "WAS on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
-        "injury_notes": "Ben Saraf (G); Terance Mann (G); Noah Clowney (F); Nic Claxton (C)"
-      },
-      "live": {
-        "status": "pre",
-        "status_detail": "Upcoming",
-        "period": 0,
-        "clock": "",
-        "home_score": 0,
-        "away_score": 0,
-        "spread_alert": null
-      },
-      "news": [
-        {
-          "title": "Syracuse losing crucial starter to transfer portal after Gerry McNamara hire",
-          "source": "Sporting News",
-          "link": "https://www.sportingnews.com/us/ncaa-basketball/news/syracuse-losing-crucial-starter-transfer-portal-gerry-mcnamara-hire/a833d053ad2eebc1fa84fa62",
-          "published": "2026-04-04T14:01:41Z"
-        },
-        {
-          "title": "Neemias Queta finishing breakout with Celtics on a high note: \u2018It\u2019s unbelievable\u2019",
-          "source": "Celtics Blog",
-          "link": "https://www.celticsblog.com/boston-celtics-news/137595/neemias-queta-finishing-breakout-with-celtics-on-a-high-note-its-unbelievable",
-          "published": "2026-04-04T14:01:09Z"
-        },
-        {
-          "title": "Atlanta ease to win over Nets as playoff push continues",
-          "source": "Peachtree Hoops",
-          "link": "https://www.peachtreehoops.com/analysis/69962/atlanta-hawks-brooklyn-nets-analysis-breakdown-stats-quotes-video",
-          "published": "2026-04-04T14:00:00Z"
-        }
-      ]
-    },
-    {
-      "game": "Phoenix Suns @ Chicago Bulls",
-      "home_team": "Chicago Bulls",
-      "away_team": "Phoenix Suns",
-      "home_abbr": "CHI",
-      "away_abbr": "PHX",
-      "home_ml": "+360",
-      "away_ml": "-470",
-      "home_ml_raw": 360,
-      "away_ml_raw": -470,
-      "home_prob": 20.9,
-      "away_prob": 79.1,
-      "spread": "CHI +10.5",
-      "favorite": "Phoenix Suns",
-      "pick": "Phoenix Suns",
-      "pick_abbr": "PHX",
-      "moneyline": "-470",
-      "win_probability": 79.1,
-      "confidence": "HIGH",
-      "confidence_stars": "\u2605\u2605\u2605",
-      "commence_time": "2026-04-05T19:40:00Z",
-      "line_movement": {
-        "home": {
-          "direction": "shorter",
-          "points_moved": 30,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM +360 \u2190 +390",
-          "old_ml": "+390",
-          "new_ml": "+360"
-        },
-        "away": {
-          "direction": "longer",
-          "points_moved": 50,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -470 \u2190 -520",
-          "old_ml": "-520",
-          "new_ml": "-470"
-        },
-        "pick": {
-          "direction": "longer",
-          "points_moved": 50,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -470 \u2190 -520",
-          "old_ml": "-520",
-          "new_ml": "-470"
-        },
-        "snapshot_time": "April 05, 2026 at 11:57 AM UTC"
-      },
-      "fatigue": {
-        "home": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "Apr 03",
-          "days_rest": 2,
-          "games_last_4d": 2,
-          "travel_miles": 713,
-          "travel_desc": "713 mi road trip",
-          "source": "ESPN Scoreboard API"
-        },
-        "away": {
-          "status": "RESTED",
-          "label": "2 days rest \u2705",
-          "battery": 88,
-          "last_game": "Apr 02",
-          "days_rest": 3,
-          "games_last_4d": 1,
-          "travel_miles": 1779,
-          "travel_desc": "1,779 mi road trip",
-          "source": "ESPN Scoreboard API"
-        }
-      },
-      "edge_factors": [
-        "\ud83d\udd25 Sharp steam detected"
-      ],
-      "injury_notes": "Matas Buzelis (F); Anfernee Simons (G); Collin Sexton (G); Lachlan Olbrich (C)",
-      "sharp": {
-        "away_t": null,
-        "home_t": null,
-        "source": null,
-        "sharp_signal": null,
-        "sharp_label": "Pending \u2014 check closer to tip-off",
-        "rlm": false
-      },
-      "form": {
-        "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        },
-        "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        }
-      },
-      "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
-      },
-      "briefing": {
-        "trend": "Phoenix Suns hold a 79.1% edge.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -520 to -470 (50pt move) \u2014 heavy professional action on Phoenix Suns.",
-        "injury_notes": "Matas Buzelis (F); Anfernee Simons (G); Collin Sexton (G); Lachlan Olbrich (C)"
-      },
-      "live": {
-        "status": "pre",
-        "status_detail": "Upcoming",
-        "period": 0,
-        "clock": "",
-        "home_score": 0,
-        "away_score": 0,
-        "spread_alert": null
-      },
-      "news": [
-        {
-          "title": "Syracuse losing crucial starter to transfer portal after Gerry McNamara hire",
-          "source": "Sporting News",
-          "link": "https://www.sportingnews.com/us/ncaa-basketball/news/syracuse-losing-crucial-starter-transfer-portal-gerry-mcnamara-hire/a833d053ad2eebc1fa84fa62",
-          "published": "2026-04-04T14:01:41Z"
-        },
-        {
-          "title": "Neemias Queta finishing breakout with Celtics on a high note: \u2018It\u2019s unbelievable\u2019",
-          "source": "Celtics Blog",
-          "link": "https://www.celticsblog.com/boston-celtics-news/137595/neemias-queta-finishing-breakout-with-celtics-on-a-high-note-its-unbelievable",
-          "published": "2026-04-04T14:01:09Z"
-        },
-        {
-          "title": "Atlanta ease to win over Nets as playoff push continues",
-          "source": "Peachtree Hoops",
-          "link": "https://www.peachtreehoops.com/analysis/69962/atlanta-hawks-brooklyn-nets-analysis-breakdown-stats-quotes-video",
-          "published": "2026-04-04T14:00:00Z"
-        }
-      ]
-    },
-    {
-      "game": "Memphis Grizzlies @ Milwaukee Bucks",
-      "home_team": "Milwaukee Bucks",
-      "away_team": "Memphis Grizzlies",
-      "home_abbr": "MIL",
-      "away_abbr": "MEM",
-      "home_ml": "-245",
-      "away_ml": "+200",
-      "home_ml_raw": -245,
-      "away_ml_raw": 200,
-      "home_prob": 68.1,
-      "away_prob": 31.9,
-      "spread": "MIL -6.5",
-      "favorite": "Milwaukee Bucks",
-      "pick": "Milwaukee Bucks",
-      "pick_abbr": "MIL",
-      "moneyline": "-245",
-      "win_probability": 68.1,
-      "confidence": "MEDIUM",
-      "confidence_stars": "\u2605\u2605\u2606",
-      "commence_time": "2026-04-05T19:40:00Z",
-      "line_movement": {
-        "home": {
-          "direction": "shorter",
-          "points_moved": 15,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -245 \u2190 -230",
-          "old_ml": "-230",
-          "new_ml": "-245"
-        },
-        "away": {
-          "direction": "longer",
-          "points_moved": 10,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM +200 \u2190 +190",
-          "old_ml": "+190",
-          "new_ml": "+200"
-        },
-        "pick": {
-          "direction": "shorter",
-          "points_moved": 15,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -245 \u2190 -230",
-          "old_ml": "-230",
-          "new_ml": "-245"
-        },
-        "snapshot_time": "April 05, 2026 at 11:57 AM UTC"
-      },
-      "fatigue": {
-        "home": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "Apr 03",
-          "days_rest": 2,
-          "games_last_4d": 2,
-          "travel_miles": 1006,
-          "travel_desc": "1,006 mi road trip",
-          "source": "ESPN Scoreboard API"
-        },
-        "away": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "Apr 03",
-          "days_rest": 2,
-          "games_last_4d": 2,
-          "travel_miles": 0,
-          "travel_desc": "",
-          "source": "ESPN Scoreboard API"
-        }
-      },
-      "edge_factors": [
-        "\ud83d\udd25 Sharp steam detected"
-      ],
-      "injury_notes": "Giannis Antetokounmpo (F); Bobby Portis (F); Gary Trent Jr. (G); Ryan Rollins (G)",
-      "sharp": {
-        "away_t": null,
-        "home_t": null,
-        "source": null,
-        "sharp_signal": null,
-        "sharp_label": "Pending \u2014 check closer to tip-off",
-        "rlm": false
-      },
-      "form": {
-        "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        },
-        "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        }
-      },
-      "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
-      },
-      "briefing": {
-        "trend": "Milwaukee Bucks hold a 68.1% edge.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -230 to -245 (15pt move) \u2014 heavy professional action on Milwaukee Bucks.",
-        "injury_notes": "Giannis Antetokounmpo (F); Bobby Portis (F); Gary Trent Jr. (G); Ryan Rollins (G)"
-      },
-      "live": {
-        "status": "pre",
-        "status_detail": "Upcoming",
-        "period": 0,
-        "clock": "",
-        "home_score": 0,
-        "away_score": 0,
-        "spread_alert": null
-      },
-      "news": [
-        {
-          "title": "Syracuse losing crucial starter to transfer portal after Gerry McNamara hire",
-          "source": "Sporting News",
-          "link": "https://www.sportingnews.com/us/ncaa-basketball/news/syracuse-losing-crucial-starter-transfer-portal-gerry-mcnamara-hire/a833d053ad2eebc1fa84fa62",
-          "published": "2026-04-04T14:01:41Z"
-        },
-        {
-          "title": "Neemias Queta finishing breakout with Celtics on a high note: \u2018It\u2019s unbelievable\u2019",
-          "source": "Celtics Blog",
-          "link": "https://www.celticsblog.com/boston-celtics-news/137595/neemias-queta-finishing-breakout-with-celtics-on-a-high-note-its-unbelievable",
-          "published": "2026-04-04T14:01:09Z"
-        },
-        {
-          "title": "Atlanta ease to win over Nets as playoff push continues",
-          "source": "Peachtree Hoops",
-          "link": "https://www.peachtreehoops.com/analysis/69962/atlanta-hawks-brooklyn-nets-analysis-breakdown-stats-quotes-video",
-          "published": "2026-04-04T14:00:00Z"
-        }
-      ]
-    },
     {
       "game": "Indiana Pacers @ Cleveland Cavaliers",
       "home_team": "Cleveland Cavaliers",
       "away_team": "Indiana Pacers",
       "home_abbr": "CLE",
       "away_abbr": "IND",
-      "home_ml": "-1800",
-      "away_ml": "+1000",
-      "home_ml_raw": -1800,
-      "away_ml_raw": 1000,
-      "home_prob": 91.2,
-      "away_prob": 8.8,
-      "spread": "CLE -15.5",
+      "home_ml": "-600",
+      "away_ml": "+390",
+      "home_ml_raw": -600,
+      "away_ml_raw": 390,
+      "home_prob": 80.8,
+      "away_prob": 19.2,
+      "spread": "CLE -10.5",
       "favorite": "Cleveland Cavaliers",
       "pick": "Cleveland Cavaliers",
       "pick_abbr": "CLE",
-      "moneyline": "-1800",
-      "win_probability": 91.2,
+      "moneyline": "-600",
+      "win_probability": 80.8,
       "confidence": "HIGH",
       "confidence_stars": "\u2605\u2605\u2605",
-      "commence_time": "2026-04-05T22:10:00Z",
+      "commence_time": "2026-04-05T22:12:00Z",
       "line_movement": {
         "home": {
           "direction": "longer",
-          "points_moved": 300,
+          "points_moved": 1200,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM -1800 \u2190 -2100",
-          "old_ml": "-2100",
-          "new_ml": "-1800"
+          "label": "\ud83d\udd25 STEAM -600 \u2190 -1800",
+          "old_ml": "-1800",
+          "new_ml": "-600"
         },
         "away": {
           "direction": "shorter",
-          "points_moved": 100,
+          "points_moved": 610,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM +1000 \u2190 +1100",
-          "old_ml": "+1100",
-          "new_ml": "+1000"
+          "label": "\ud83d\udd25 STEAM +390 \u2190 +1000",
+          "old_ml": "+1000",
+          "new_ml": "+390"
         },
         "pick": {
           "direction": "longer",
-          "points_moved": 300,
+          "points_moved": 1200,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM -1800 \u2190 -2100",
-          "old_ml": "-2100",
-          "new_ml": "-1800"
+          "label": "\ud83d\udd25 STEAM -600 \u2190 -1800",
+          "old_ml": "-1800",
+          "new_ml": "-600"
         },
-        "snapshot_time": "April 05, 2026 at 11:57 AM UTC"
+        "snapshot_time": "April 05, 2026 at 02:06 PM UTC"
       },
       "fatigue": {
         "home": {
@@ -680,9 +112,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "Cleveland Cavaliers hold a 91.2% edge.",
+        "trend": "Cleveland Cavaliers hold a 80.8% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -2100 to -1800 (300pt move) \u2014 heavy professional action on Cleveland Cavaliers.",
+        "steam": "Line steamed from -1800 to -600 (1200pt move) \u2014 heavy professional action on Cleveland Cavaliers.",
         "injury_notes": "Sam Merrill (G); Jarrett Allen (C); Jaylon Tyson (G); Evan Mobley (C)"
       },
       "live": {
@@ -696,22 +128,22 @@
       },
       "news": [
         {
-          "title": "Syracuse losing crucial starter to transfer portal after Gerry McNamara hire",
-          "source": "Sporting News",
-          "link": "https://www.sportingnews.com/us/ncaa-basketball/news/syracuse-losing-crucial-starter-transfer-portal-gerry-mcnamara-hire/a833d053ad2eebc1fa84fa62",
-          "published": "2026-04-04T14:01:41Z"
+          "title": "Report: Oklahoma to hire Clemson basketball GM Lucas McKay",
+          "source": "USA Today",
+          "link": "https://soonerswire.usatoday.com/story/sports/college/sooners/mens-basketball/2026/04/04/oklahoma-basketball-lucas-mckay-report/89470693007/",
+          "published": "2026-04-04T23:04:32Z"
         },
         {
-          "title": "Neemias Queta finishing breakout with Celtics on a high note: \u2018It\u2019s unbelievable\u2019",
-          "source": "Celtics Blog",
-          "link": "https://www.celticsblog.com/boston-celtics-news/137595/neemias-queta-finishing-breakout-with-celtics-on-a-high-note-its-unbelievable",
-          "published": "2026-04-04T14:01:09Z"
+          "title": "Stephen Curry set to return for Warriors against Rockets after two-month absence with knee injury",
+          "source": "Yahoo Entertainment",
+          "link": "https://sports.yahoo.com/articles/stephen-curry-set-return-warriors-230305687.html",
+          "published": "2026-04-04T23:03:05Z"
         },
         {
-          "title": "Atlanta ease to win over Nets as playoff push continues",
-          "source": "Peachtree Hoops",
-          "link": "https://www.peachtreehoops.com/analysis/69962/atlanta-hawks-brooklyn-nets-analysis-breakdown-stats-quotes-video",
-          "published": "2026-04-04T14:00:00Z"
+          "title": "Streetwear and crop tops take World Cup fashion to new heights",
+          "source": "BBC News",
+          "link": "https://www.bbc.com/news/articles/cr71vne5k70o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D",
+          "published": "2026-04-04T23:02:21Z"
         }
       ]
     },
@@ -721,47 +153,47 @@
       "away_team": "Charlotte Hornets",
       "home_abbr": "MIN",
       "away_abbr": "CHA",
-      "home_ml": "+105",
-      "away_ml": "-125",
-      "home_ml_raw": 105,
-      "away_ml_raw": -125,
-      "home_prob": 46.8,
-      "away_prob": 53.2,
-      "spread": "MIN +2.5",
+      "home_ml": "+154",
+      "away_ml": "-185",
+      "home_ml_raw": 154,
+      "away_ml_raw": -185,
+      "home_prob": 37.8,
+      "away_prob": 62.2,
+      "spread": "MIN +4.5",
       "favorite": "Charlotte Hornets",
       "pick": "Charlotte Hornets",
       "pick_abbr": "CHA",
-      "moneyline": "-125",
-      "win_probability": 53.2,
-      "confidence": "LOW",
-      "confidence_stars": "\u2605\u2606\u2606",
+      "moneyline": "-185",
+      "win_probability": 62.2,
+      "confidence": "MEDIUM",
+      "confidence_stars": "\u2605\u2605\u2606",
       "commence_time": "2026-04-05T23:10:00Z",
       "line_movement": {
         "home": {
           "direction": "longer",
-          "points_moved": 3,
-          "steam": false,
-          "label": "\ud83d\udd34 +105 \u2190 +102",
-          "old_ml": "+102",
-          "new_ml": "+105"
+          "points_moved": 49,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM +154 \u2190 +105",
+          "old_ml": "+105",
+          "new_ml": "+154"
         },
         "away": {
           "direction": "shorter",
-          "points_moved": 3,
-          "steam": false,
-          "label": "\ud83d\udfe2 -125 \u2190 -122",
-          "old_ml": "-122",
-          "new_ml": "-125"
+          "points_moved": 60,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -185 \u2190 -125",
+          "old_ml": "-125",
+          "new_ml": "-185"
         },
         "pick": {
           "direction": "shorter",
-          "points_moved": 3,
-          "steam": false,
-          "label": "\ud83d\udfe2 -125 \u2190 -122",
-          "old_ml": "-122",
-          "new_ml": "-125"
+          "points_moved": 60,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -185 \u2190 -125",
+          "old_ml": "-125",
+          "new_ml": "-185"
         },
-        "snapshot_time": "April 05, 2026 at 11:57 AM UTC"
+        "snapshot_time": "April 05, 2026 at 02:06 PM UTC"
       },
       "fatigue": {
         "home": {
@@ -788,9 +220,9 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udcca 6.4pt probability edge"
+        "\ud83d\udd25 Sharp steam detected"
       ],
-      "injury_notes": "Anthony Edwards (G); Jaden McDaniels (F); PJ Hall (C); Moussa Diabate (F)",
+      "injury_notes": "Anthony Edwards (G); Jaden McDaniels (F); PJ Hall (C)",
       "sharp": {
         "away_t": null,
         "home_t": null,
@@ -825,10 +257,10 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "Charlotte Hornets hold a 53.2% edge.",
+        "trend": "Charlotte Hornets hold a 62.2% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line moved -122\u2192-125 (3pts). Pending \u2014 check closer to tip-off",
-        "injury_notes": "Anthony Edwards (G); Jaden McDaniels (F); PJ Hall (C); Moussa Diabate (F)"
+        "steam": "Line steamed from -125 to -185 (60pt move) \u2014 heavy professional action on Charlotte Hornets.",
+        "injury_notes": "Anthony Edwards (G); Jaden McDaniels (F); PJ Hall (C)"
       },
       "live": {
         "status": "pre",
@@ -841,22 +273,22 @@
       },
       "news": [
         {
-          "title": "Syracuse losing crucial starter to transfer portal after Gerry McNamara hire",
-          "source": "Sporting News",
-          "link": "https://www.sportingnews.com/us/ncaa-basketball/news/syracuse-losing-crucial-starter-transfer-portal-gerry-mcnamara-hire/a833d053ad2eebc1fa84fa62",
-          "published": "2026-04-04T14:01:41Z"
+          "title": "Report: Oklahoma to hire Clemson basketball GM Lucas McKay",
+          "source": "USA Today",
+          "link": "https://soonerswire.usatoday.com/story/sports/college/sooners/mens-basketball/2026/04/04/oklahoma-basketball-lucas-mckay-report/89470693007/",
+          "published": "2026-04-04T23:04:32Z"
         },
         {
-          "title": "Neemias Queta finishing breakout with Celtics on a high note: \u2018It\u2019s unbelievable\u2019",
-          "source": "Celtics Blog",
-          "link": "https://www.celticsblog.com/boston-celtics-news/137595/neemias-queta-finishing-breakout-with-celtics-on-a-high-note-its-unbelievable",
-          "published": "2026-04-04T14:01:09Z"
+          "title": "Stephen Curry set to return for Warriors against Rockets after two-month absence with knee injury",
+          "source": "Yahoo Entertainment",
+          "link": "https://sports.yahoo.com/articles/stephen-curry-set-return-warriors-230305687.html",
+          "published": "2026-04-04T23:03:05Z"
         },
         {
-          "title": "Atlanta ease to win over Nets as playoff push continues",
-          "source": "Peachtree Hoops",
-          "link": "https://www.peachtreehoops.com/analysis/69962/atlanta-hawks-brooklyn-nets-analysis-breakdown-stats-quotes-video",
-          "published": "2026-04-04T14:00:00Z"
+          "title": "Streetwear and crop tops take World Cup fashion to new heights",
+          "source": "BBC News",
+          "link": "https://www.bbc.com/news/articles/cr71vne5k70o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D",
+          "published": "2026-04-04T23:02:21Z"
         }
       ]
     },
@@ -866,47 +298,47 @@
       "away_team": "Orlando Magic",
       "home_abbr": "NOP",
       "away_abbr": "ORL",
-      "home_ml": "+164",
-      "away_ml": "-198",
-      "home_ml_raw": 164,
-      "away_ml_raw": -198,
-      "home_prob": 36.3,
-      "away_prob": 63.7,
-      "spread": "NOP +4.5",
+      "home_ml": "+205",
+      "away_ml": "-250",
+      "home_ml_raw": 205,
+      "away_ml_raw": -250,
+      "home_prob": 31.5,
+      "away_prob": 68.5,
+      "spread": "NOP +6.5",
       "favorite": "Orlando Magic",
       "pick": "Orlando Magic",
       "pick_abbr": "ORL",
-      "moneyline": "-198",
-      "win_probability": 63.7,
+      "moneyline": "-250",
+      "win_probability": 68.5,
       "confidence": "MEDIUM",
       "confidence_stars": "\u2605\u2605\u2606",
       "commence_time": "2026-04-05T23:10:00Z",
       "line_movement": {
         "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "longer",
+          "points_moved": 41,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM +205 \u2190 +164",
           "old_ml": "+164",
-          "new_ml": "+164"
+          "new_ml": "+205"
         },
         "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "shorter",
+          "points_moved": 52,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -250 \u2190 -198",
           "old_ml": "-198",
-          "new_ml": "-198"
+          "new_ml": "-250"
         },
         "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "shorter",
+          "points_moved": 52,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -250 \u2190 -198",
           "old_ml": "-198",
-          "new_ml": "-198"
+          "new_ml": "-250"
         },
-        "snapshot_time": "April 05, 2026 at 11:57 AM UTC"
+        "snapshot_time": "April 05, 2026 at 02:06 PM UTC"
       },
       "fatigue": {
         "home": {
@@ -933,9 +365,10 @@
         }
       },
       "edge_factors": [
+        "\ud83d\udd25 Sharp steam detected",
         "\u2708\ufe0f NOP traveled 1,880 mi"
       ],
-      "injury_notes": "Trey Murphy III (F); Dejounte Murray (G); Karlo Matkovic (F); Bryce McGowens (G)",
+      "injury_notes": "Karlo Matkovic (F); Dejounte Murray (G); Trey Murphy III (F); Bryce McGowens (G)",
       "sharp": {
         "away_t": null,
         "home_t": null,
@@ -970,10 +403,10 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "Orlando Magic hold a 63.7% edge.",
+        "trend": "Orlando Magic hold a 68.5% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
-        "injury_notes": "Trey Murphy III (F); Dejounte Murray (G); Karlo Matkovic (F); Bryce McGowens (G)"
+        "steam": "Line steamed from -198 to -250 (52pt move) \u2014 heavy professional action on Orlando Magic.",
+        "injury_notes": "Karlo Matkovic (F); Dejounte Murray (G); Trey Murphy III (F); Bryce McGowens (G)"
       },
       "live": {
         "status": "pre",
@@ -986,22 +419,22 @@
       },
       "news": [
         {
-          "title": "Syracuse losing crucial starter to transfer portal after Gerry McNamara hire",
-          "source": "Sporting News",
-          "link": "https://www.sportingnews.com/us/ncaa-basketball/news/syracuse-losing-crucial-starter-transfer-portal-gerry-mcnamara-hire/a833d053ad2eebc1fa84fa62",
-          "published": "2026-04-04T14:01:41Z"
+          "title": "Report: Oklahoma to hire Clemson basketball GM Lucas McKay",
+          "source": "USA Today",
+          "link": "https://soonerswire.usatoday.com/story/sports/college/sooners/mens-basketball/2026/04/04/oklahoma-basketball-lucas-mckay-report/89470693007/",
+          "published": "2026-04-04T23:04:32Z"
         },
         {
-          "title": "Neemias Queta finishing breakout with Celtics on a high note: \u2018It\u2019s unbelievable\u2019",
-          "source": "Celtics Blog",
-          "link": "https://www.celticsblog.com/boston-celtics-news/137595/neemias-queta-finishing-breakout-with-celtics-on-a-high-note-its-unbelievable",
-          "published": "2026-04-04T14:01:09Z"
+          "title": "Stephen Curry set to return for Warriors against Rockets after two-month absence with knee injury",
+          "source": "Yahoo Entertainment",
+          "link": "https://sports.yahoo.com/articles/stephen-curry-set-return-warriors-230305687.html",
+          "published": "2026-04-04T23:03:05Z"
         },
         {
-          "title": "Atlanta ease to win over Nets as playoff push continues",
-          "source": "Peachtree Hoops",
-          "link": "https://www.peachtreehoops.com/analysis/69962/atlanta-hawks-brooklyn-nets-analysis-breakdown-stats-quotes-video",
-          "published": "2026-04-04T14:00:00Z"
+          "title": "Streetwear and crop tops take World Cup fashion to new heights",
+          "source": "BBC News",
+          "link": "https://www.bbc.com/news/articles/cr71vne5k70o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D",
+          "published": "2026-04-04T23:02:21Z"
         }
       ]
     },
@@ -1011,47 +444,47 @@
       "away_team": "Utah Jazz",
       "home_abbr": "OKC",
       "away_abbr": "UTA",
-      "home_ml": "-5000",
-      "away_ml": "+1800",
-      "home_ml_raw": -5000,
-      "away_ml_raw": 1800,
-      "home_prob": 94.9,
-      "away_prob": 5.1,
-      "spread": "OKC -23.5",
+      "home_ml": "-9000",
+      "away_ml": "+2500",
+      "home_ml_raw": -9000,
+      "away_ml_raw": 2500,
+      "home_prob": 96.3,
+      "away_prob": 3.7,
+      "spread": "OKC -24.5",
       "favorite": "Oklahoma City Thunder",
       "pick": "Oklahoma City Thunder",
       "pick_abbr": "OKC",
-      "moneyline": "-5000",
-      "win_probability": 94.9,
+      "moneyline": "-9000",
+      "win_probability": 96.3,
       "confidence": "HIGH",
       "confidence_stars": "\u2605\u2605\u2605",
       "commence_time": "2026-04-05T23:10:00Z",
       "line_movement": {
         "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "shorter",
+          "points_moved": 4000,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -9000 \u2190 -5000",
           "old_ml": "-5000",
-          "new_ml": "-5000"
+          "new_ml": "-9000"
         },
         "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "longer",
+          "points_moved": 700,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM +2500 \u2190 +1800",
           "old_ml": "+1800",
-          "new_ml": "+1800"
+          "new_ml": "+2500"
         },
         "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "shorter",
+          "points_moved": 4000,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -9000 \u2190 -5000",
           "old_ml": "-5000",
-          "new_ml": "-5000"
+          "new_ml": "-9000"
         },
-        "snapshot_time": "April 05, 2026 at 11:57 AM UTC"
+        "snapshot_time": "April 05, 2026 at 02:06 PM UTC"
       },
       "fatigue": {
         "home": {
@@ -1078,7 +511,7 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udcca 89.8pt probability edge"
+        "\ud83d\udd25 Sharp steam detected"
       ],
       "injury_notes": "Thomas Sorber (C); Elijah Harkless (G); Keyonte George (G); Isaiah Collier (G)",
       "sharp": {
@@ -1115,9 +548,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "Oklahoma City Thunder hold a 94.9% edge.",
+        "trend": "Oklahoma City Thunder hold a 96.3% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "steam": "Line steamed from -5000 to -9000 (4000pt move) \u2014 heavy professional action on Oklahoma City Thunder.",
         "injury_notes": "Thomas Sorber (C); Elijah Harkless (G); Keyonte George (G); Isaiah Collier (G)"
       },
       "live": {
@@ -1131,22 +564,22 @@
       },
       "news": [
         {
-          "title": "Syracuse losing crucial starter to transfer portal after Gerry McNamara hire",
-          "source": "Sporting News",
-          "link": "https://www.sportingnews.com/us/ncaa-basketball/news/syracuse-losing-crucial-starter-transfer-portal-gerry-mcnamara-hire/a833d053ad2eebc1fa84fa62",
-          "published": "2026-04-04T14:01:41Z"
+          "title": "Report: Oklahoma to hire Clemson basketball GM Lucas McKay",
+          "source": "USA Today",
+          "link": "https://soonerswire.usatoday.com/story/sports/college/sooners/mens-basketball/2026/04/04/oklahoma-basketball-lucas-mckay-report/89470693007/",
+          "published": "2026-04-04T23:04:32Z"
         },
         {
-          "title": "Neemias Queta finishing breakout with Celtics on a high note: \u2018It\u2019s unbelievable\u2019",
-          "source": "Celtics Blog",
-          "link": "https://www.celticsblog.com/boston-celtics-news/137595/neemias-queta-finishing-breakout-with-celtics-on-a-high-note-its-unbelievable",
-          "published": "2026-04-04T14:01:09Z"
+          "title": "Stephen Curry set to return for Warriors against Rockets after two-month absence with knee injury",
+          "source": "Yahoo Entertainment",
+          "link": "https://sports.yahoo.com/articles/stephen-curry-set-return-warriors-230305687.html",
+          "published": "2026-04-04T23:03:05Z"
         },
         {
-          "title": "Atlanta ease to win over Nets as playoff push continues",
-          "source": "Peachtree Hoops",
-          "link": "https://www.peachtreehoops.com/analysis/69962/atlanta-hawks-brooklyn-nets-analysis-breakdown-stats-quotes-video",
-          "published": "2026-04-04T14:00:00Z"
+          "title": "Streetwear and crop tops take World Cup fashion to new heights",
+          "source": "BBC News",
+          "link": "https://www.bbc.com/news/articles/cr71vne5k70o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D",
+          "published": "2026-04-04T23:02:21Z"
         }
       ]
     },
@@ -1156,47 +589,47 @@
       "away_team": "Los Angeles Lakers",
       "home_abbr": "DAL",
       "away_abbr": "LAL",
-      "home_ml": "+102",
-      "away_ml": "-122",
-      "home_ml_raw": 102,
-      "away_ml_raw": -122,
-      "home_prob": 47.4,
-      "away_prob": 52.6,
+      "home_ml": "+100",
+      "away_ml": "-120",
+      "home_ml_raw": 100,
+      "away_ml_raw": -120,
+      "home_prob": 47.8,
+      "away_prob": 52.2,
       "spread": "DAL +1.5",
       "favorite": "Los Angeles Lakers",
       "pick": "Los Angeles Lakers",
       "pick_abbr": "LAL",
-      "moneyline": "-122",
-      "win_probability": 52.6,
+      "moneyline": "-120",
+      "win_probability": 52.2,
       "confidence": "LOW",
       "confidence_stars": "\u2605\u2606\u2606",
       "commence_time": "2026-04-05T23:40:00Z",
       "line_movement": {
         "home": {
-          "direction": "none",
-          "points_moved": 0,
+          "direction": "shorter",
+          "points_moved": 2,
           "steam": false,
-          "label": "No movement",
+          "label": "\ud83d\udfe2 +100 \u2190 +102",
           "old_ml": "+102",
-          "new_ml": "+102"
+          "new_ml": "+100"
         },
         "away": {
-          "direction": "none",
-          "points_moved": 0,
+          "direction": "longer",
+          "points_moved": 2,
           "steam": false,
-          "label": "No movement",
+          "label": "\ud83d\udd34 -120 \u2190 -122",
           "old_ml": "-122",
-          "new_ml": "-122"
+          "new_ml": "-120"
         },
         "pick": {
-          "direction": "none",
-          "points_moved": 0,
+          "direction": "longer",
+          "points_moved": 2,
           "steam": false,
-          "label": "No movement",
+          "label": "\ud83d\udd34 -120 \u2190 -122",
           "old_ml": "-122",
-          "new_ml": "-122"
+          "new_ml": "-120"
         },
-        "snapshot_time": "April 05, 2026 at 11:57 AM UTC"
+        "snapshot_time": "April 05, 2026 at 02:06 PM UTC"
       },
       "fatigue": {
         "home": {
@@ -1223,9 +656,9 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udcca 5.2pt probability edge"
+        "\ud83d\udcca 4.4pt probability edge"
       ],
-      "injury_notes": "Tyler Smith (F); Caleb Martin (F); Marvin Bagley III (F); Kyrie Irving (G)",
+      "injury_notes": "Brandon Williams (G); Tyler Smith (F); Caleb Martin (F); Kyrie Irving (G)",
       "sharp": {
         "away_t": null,
         "home_t": null,
@@ -1260,10 +693,10 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "Los Angeles Lakers hold a 52.6% edge.",
+        "trend": "Los Angeles Lakers hold a 52.2% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
-        "injury_notes": "Tyler Smith (F); Caleb Martin (F); Marvin Bagley III (F); Kyrie Irving (G)"
+        "steam": "Line moved -122\u2192-120 (2pts). Pending \u2014 check closer to tip-off",
+        "injury_notes": "Brandon Williams (G); Tyler Smith (F); Caleb Martin (F); Kyrie Irving (G)"
       },
       "live": {
         "status": "pre",
@@ -1276,16 +709,16 @@
       },
       "news": [
         {
-          "title": "Sources: Lakers' Reaves (oblique) out 4-6 weeks",
-          "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/nba/story/_/id/48397148/lakers-reaves-oblique-remainder-regular-season",
-          "published": "Sun, 5 Apr 2026 00:50:53 EST"
-        },
-        {
           "title": "NBA playoff watch: Can ailing Lakers stay ahead of Nuggets?",
           "source": "www.espn.com - NBA",
           "link": "https://www.espn.com/nba/story/_/id/48287649/nba-playoff-watch-2026-standings-schedules-projections-clinchings",
-          "published": "Sat, 4 Apr 2026 22:30:40 EST"
+          "published": "Sun, 5 Apr 2026 10:45:38 EST"
+        },
+        {
+          "title": "Sources: Lakers' Reaves (oblique) out 4-6 weeks",
+          "source": "www.espn.com - NBA",
+          "link": "https://www.espn.com/nba/story/_/id/48397148/lakers-reaves-oblique-remainder-regular-season",
+          "published": "Sun, 5 Apr 2026 12:30:44 EST"
         }
       ]
     },
@@ -1295,18 +728,18 @@
       "away_team": "Los Angeles Clippers",
       "home_abbr": "SAC",
       "away_abbr": "LAC",
-      "home_ml": "+575",
-      "away_ml": "-850",
-      "home_ml_raw": 575,
-      "away_ml_raw": -850,
-      "home_prob": 14.2,
-      "away_prob": 85.8,
-      "spread": "SAC +12.5",
+      "home_ml": "+600",
+      "away_ml": "-900",
+      "home_ml_raw": 600,
+      "away_ml_raw": -900,
+      "home_prob": 13.7,
+      "away_prob": 86.3,
+      "spread": "SAC +13.5",
       "favorite": "Los Angeles Clippers",
       "pick": "Los Angeles Clippers",
       "pick_abbr": "LAC",
-      "moneyline": "-850",
-      "win_probability": 85.8,
+      "moneyline": "-900",
+      "win_probability": 86.3,
       "confidence": "HIGH",
       "confidence_stars": "\u2605\u2605\u2605",
       "commence_time": "2026-04-06T01:10:00Z",
@@ -1315,27 +748,27 @@
           "direction": "longer",
           "points_moved": 25,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM +575 \u2190 +550",
-          "old_ml": "+550",
-          "new_ml": "+575"
+          "label": "\ud83d\udd25 STEAM +600 \u2190 +575",
+          "old_ml": "+575",
+          "new_ml": "+600"
         },
         "away": {
           "direction": "shorter",
           "points_moved": 50,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM -850 \u2190 -800",
-          "old_ml": "-800",
-          "new_ml": "-850"
+          "label": "\ud83d\udd25 STEAM -900 \u2190 -850",
+          "old_ml": "-850",
+          "new_ml": "-900"
         },
         "pick": {
           "direction": "shorter",
           "points_moved": 50,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM -850 \u2190 -800",
-          "old_ml": "-800",
-          "new_ml": "-850"
+          "label": "\ud83d\udd25 STEAM -900 \u2190 -850",
+          "old_ml": "-850",
+          "new_ml": "-900"
         },
-        "snapshot_time": "April 05, 2026 at 11:57 AM UTC"
+        "snapshot_time": "April 05, 2026 at 02:06 PM UTC"
       },
       "fatigue": {
         "home": {
@@ -1400,9 +833,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "Los Angeles Clippers hold a 85.8% edge.",
+        "trend": "Los Angeles Clippers hold a 86.3% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -800 to -850 (50pt move) \u2014 heavy professional action on Los Angeles Clippers.",
+        "steam": "Line steamed from -850 to -900 (50pt move) \u2014 heavy professional action on Los Angeles Clippers.",
         "injury_notes": "Keegan Murray (F); Russell Westbrook (G); Isaiah Stevens (G); Drew Eubanks (F)"
       },
       "live": {
@@ -1435,47 +868,47 @@
       "away_team": "Houston Rockets",
       "home_abbr": "GSW",
       "away_abbr": "HOU",
-      "home_ml": "+136",
-      "away_ml": "-162",
-      "home_ml_raw": 136,
-      "away_ml_raw": -162,
-      "home_prob": 40.7,
-      "away_prob": 59.3,
+      "home_ml": "+140",
+      "away_ml": "-166",
+      "home_ml_raw": 140,
+      "away_ml_raw": -166,
+      "home_prob": 40.0,
+      "away_prob": 60.0,
       "spread": "GSW +3.5",
       "favorite": "Houston Rockets",
       "pick": "Houston Rockets",
       "pick_abbr": "HOU",
-      "moneyline": "-162",
-      "win_probability": 59.3,
+      "moneyline": "-166",
+      "win_probability": 60.0,
       "confidence": "MEDIUM",
       "confidence_stars": "\u2605\u2605\u2606",
       "commence_time": "2026-04-06T02:10:00Z",
       "line_movement": {
         "home": {
-          "direction": "none",
-          "points_moved": 0,
+          "direction": "longer",
+          "points_moved": 4,
           "steam": false,
-          "label": "No movement",
+          "label": "\ud83d\udd34 +140 \u2190 +136",
           "old_ml": "+136",
-          "new_ml": "+136"
+          "new_ml": "+140"
         },
         "away": {
-          "direction": "none",
-          "points_moved": 0,
+          "direction": "shorter",
+          "points_moved": 4,
           "steam": false,
-          "label": "No movement",
+          "label": "\ud83d\udfe2 -166 \u2190 -162",
           "old_ml": "-162",
-          "new_ml": "-162"
+          "new_ml": "-166"
         },
         "pick": {
-          "direction": "none",
-          "points_moved": 0,
+          "direction": "shorter",
+          "points_moved": 4,
           "steam": false,
-          "label": "No movement",
+          "label": "\ud83d\udfe2 -166 \u2190 -162",
           "old_ml": "-162",
-          "new_ml": "-162"
+          "new_ml": "-166"
         },
-        "snapshot_time": "April 05, 2026 at 11:57 AM UTC"
+        "snapshot_time": "April 05, 2026 at 02:06 PM UTC"
       },
       "fatigue": {
         "home": {
@@ -1502,9 +935,9 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udcca 18.6pt probability edge"
+        "\ud83d\udcca 20.0pt probability edge"
       ],
-      "injury_notes": "Seth Curry (G); Gui Santos (F); Stephen Curry (G); Al Horford (C)",
+      "injury_notes": "LJ Cryer (G); Seth Curry (G); Gui Santos (F); Stephen Curry (G)",
       "sharp": {
         "away_t": null,
         "home_t": null,
@@ -1539,10 +972,10 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "Houston Rockets hold a 59.3% edge.",
+        "trend": "Houston Rockets hold a 60.0% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
-        "injury_notes": "Seth Curry (G); Gui Santos (F); Stephen Curry (G); Al Horford (C)"
+        "steam": "Line moved -162\u2192-166 (4pts). Pending \u2014 check closer to tip-off",
+        "injury_notes": "LJ Cryer (G); Seth Curry (G); Gui Santos (F); Stephen Curry (G)"
       },
       "live": {
         "status": "pre",
@@ -1558,7 +991,7 @@
           "title": "Curry details his 'new normal' after knee recovery",
           "source": "www.espn.com - NBA",
           "link": "https://www.espn.com/nba/story/_/id/48397821/warriors-curry-details-new-normal-unpredictable-knee-rehab",
-          "published": "Sun, 5 Apr 2026 00:50:53 EST"
+          "published": "Sun, 5 Apr 2026 12:30:44 EST"
         }
       ]
     },
@@ -1608,7 +1041,7 @@
           "old_ml": "-110",
           "new_ml": "-110"
         },
-        "snapshot_time": "April 05, 2026 at 11:57 AM UTC"
+        "snapshot_time": "April 05, 2026 at 02:06 PM UTC"
       },
       "fatigue": {
         "home": {
@@ -1637,7 +1070,7 @@
       "edge_factors": [
         "\ud83d\udcca 0.0pt probability edge"
       ],
-      "injury_notes": "Jock Landale (C); Karl-Anthony Towns (C)",
+      "injury_notes": "Jock Landale (C)",
       "sharp": {
         "away_t": null,
         "home_t": null,
@@ -1675,7 +1108,7 @@
         "trend": "Atlanta Hawks hold a 50.0% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
         "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
-        "injury_notes": "Jock Landale (C); Karl-Anthony Towns (C)"
+        "injury_notes": "Jock Landale (C)"
       },
       "live": {
         "status": "pre",
@@ -1688,22 +1121,22 @@
       },
       "news": [
         {
-          "title": "Syracuse losing crucial starter to transfer portal after Gerry McNamara hire",
-          "source": "Sporting News",
-          "link": "https://www.sportingnews.com/us/ncaa-basketball/news/syracuse-losing-crucial-starter-transfer-portal-gerry-mcnamara-hire/a833d053ad2eebc1fa84fa62",
-          "published": "2026-04-04T14:01:41Z"
+          "title": "Report: Oklahoma to hire Clemson basketball GM Lucas McKay",
+          "source": "USA Today",
+          "link": "https://soonerswire.usatoday.com/story/sports/college/sooners/mens-basketball/2026/04/04/oklahoma-basketball-lucas-mckay-report/89470693007/",
+          "published": "2026-04-04T23:04:32Z"
         },
         {
-          "title": "Neemias Queta finishing breakout with Celtics on a high note: \u2018It\u2019s unbelievable\u2019",
-          "source": "Celtics Blog",
-          "link": "https://www.celticsblog.com/boston-celtics-news/137595/neemias-queta-finishing-breakout-with-celtics-on-a-high-note-its-unbelievable",
-          "published": "2026-04-04T14:01:09Z"
+          "title": "Stephen Curry set to return for Warriors against Rockets after two-month absence with knee injury",
+          "source": "Yahoo Entertainment",
+          "link": "https://sports.yahoo.com/articles/stephen-curry-set-return-warriors-230305687.html",
+          "published": "2026-04-04T23:03:05Z"
         },
         {
-          "title": "Atlanta ease to win over Nets as playoff push continues",
-          "source": "Peachtree Hoops",
-          "link": "https://www.peachtreehoops.com/analysis/69962/atlanta-hawks-brooklyn-nets-analysis-breakdown-stats-quotes-video",
-          "published": "2026-04-04T14:00:00Z"
+          "title": "Streetwear and crop tops take World Cup fashion to new heights",
+          "source": "BBC News",
+          "link": "https://www.bbc.com/news/articles/cr71vne5k70o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D",
+          "published": "2026-04-04T23:02:21Z"
         }
       ]
     },
@@ -1713,47 +1146,47 @@
       "away_team": "Philadelphia 76ers",
       "home_abbr": "SAS",
       "away_abbr": "PHI",
-      "home_ml": "-340",
-      "away_ml": "+270",
-      "home_ml_raw": -340,
-      "away_ml_raw": 270,
-      "home_prob": 74.1,
-      "away_prob": 25.9,
+      "home_ml": "-310",
+      "away_ml": "+250",
+      "home_ml_raw": -310,
+      "away_ml_raw": 250,
+      "home_prob": 72.6,
+      "away_prob": 27.4,
       "spread": "SAS -8.5",
       "favorite": "San Antonio Spurs",
       "pick": "San Antonio Spurs",
       "pick_abbr": "SAS",
-      "moneyline": "-340",
-      "win_probability": 74.1,
+      "moneyline": "-310",
+      "win_probability": 72.6,
       "confidence": "HIGH",
       "confidence_stars": "\u2605\u2605\u2605",
       "commence_time": "2026-04-07T00:10:00Z",
       "line_movement": {
         "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "longer",
+          "points_moved": 30,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -310 \u2190 -340",
           "old_ml": "-340",
-          "new_ml": "-340"
+          "new_ml": "-310"
         },
         "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "shorter",
+          "points_moved": 20,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM +250 \u2190 +270",
           "old_ml": "+270",
-          "new_ml": "+270"
+          "new_ml": "+250"
         },
         "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "longer",
+          "points_moved": 30,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -310 \u2190 -340",
           "old_ml": "-340",
-          "new_ml": "-340"
+          "new_ml": "-310"
         },
-        "snapshot_time": "April 05, 2026 at 11:57 AM UTC"
+        "snapshot_time": "April 05, 2026 at 02:06 PM UTC"
       },
       "fatigue": {
         "home": {
@@ -1780,9 +1213,10 @@
         }
       },
       "edge_factors": [
+        "\ud83d\udd25 Sharp steam detected",
         "\ud83d\udca4 PHI fatigued (B2B) \u2014 source: ESPN"
       ],
-      "injury_notes": "Emanuel Miller (F); David Jones Garcia (F); Joel Embiid (C); Cameron Payne (PG)",
+      "injury_notes": "Emanuel Miller (F); David Jones Garcia (F); Cameron Payne (PG); Johni Broome (F)",
       "sharp": {
         "away_t": null,
         "home_t": null,
@@ -1819,8 +1253,8 @@
       "briefing": {
         "trend": "SAS on Back-to-Back \u26a0\ufe0f per ESPN schedule data. PHI on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
-        "injury_notes": "Emanuel Miller (F); David Jones Garcia (F); Joel Embiid (C); Cameron Payne (PG)"
+        "steam": "Line steamed from -340 to -310 (30pt move) \u2014 heavy professional action on San Antonio Spurs.",
+        "injury_notes": "Emanuel Miller (F); David Jones Garcia (F); Cameron Payne (PG); Johni Broome (F)"
       },
       "live": {
         "status": "pre",
@@ -1836,7 +1270,7 @@
           "title": "Embiid irked by 76ers, out again against Pistons",
           "source": "www.espn.com - NBA",
           "link": "https://www.espn.com/nba/story/_/id/48398411/joel-embiid-pistons-says-was-upset-being-held-wednesday",
-          "published": "Sun, 5 Apr 2026 00:50:53 EST"
+          "published": "Sun, 5 Apr 2026 12:30:43 EST"
         }
       ]
     },
@@ -1846,47 +1280,47 @@
       "away_team": "Portland Trail Blazers",
       "home_abbr": "DEN",
       "away_abbr": "POR",
-      "home_ml": "-375",
-      "away_ml": "+295",
-      "home_ml_raw": -375,
-      "away_ml_raw": 295,
-      "home_prob": 75.7,
-      "away_prob": 24.3,
+      "home_ml": "-355",
+      "away_ml": "+280",
+      "home_ml_raw": -355,
+      "away_ml_raw": 280,
+      "home_prob": 74.8,
+      "away_prob": 25.2,
       "spread": "DEN -9.5",
       "favorite": "Denver Nuggets",
       "pick": "Denver Nuggets",
       "pick_abbr": "DEN",
-      "moneyline": "-375",
-      "win_probability": 75.7,
+      "moneyline": "-355",
+      "win_probability": 74.8,
       "confidence": "HIGH",
       "confidence_stars": "\u2605\u2605\u2605",
       "commence_time": "2026-04-07T01:10:00Z",
       "line_movement": {
         "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "longer",
+          "points_moved": 20,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -355 \u2190 -375",
           "old_ml": "-375",
-          "new_ml": "-375"
+          "new_ml": "-355"
         },
         "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "shorter",
+          "points_moved": 15,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM +280 \u2190 +295",
           "old_ml": "+295",
-          "new_ml": "+295"
+          "new_ml": "+280"
         },
         "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "longer",
+          "points_moved": 20,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -355 \u2190 -375",
           "old_ml": "-375",
-          "new_ml": "-375"
+          "new_ml": "-355"
         },
-        "snapshot_time": "April 05, 2026 at 11:57 AM UTC"
+        "snapshot_time": "April 05, 2026 at 02:06 PM UTC"
       },
       "fatigue": {
         "home": {
@@ -1913,9 +1347,9 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udcca 51.4pt probability edge"
+        "\ud83d\udd25 Sharp steam detected"
       ],
-      "injury_notes": "Bruce Brown (G); Zeke Nnaji (F); Spencer Jones (F); Peyton Watson (G)",
+      "injury_notes": "Zeke Nnaji (F); Spencer Jones (F); Bruce Brown (G); Peyton Watson (G)",
       "sharp": {
         "away_t": null,
         "home_t": null,
@@ -1952,8 +1386,8 @@
       "briefing": {
         "trend": "DEN on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
-        "injury_notes": "Bruce Brown (G); Zeke Nnaji (F); Spencer Jones (F); Peyton Watson (G)"
+        "steam": "Line steamed from -375 to -355 (20pt move) \u2014 heavy professional action on Denver Nuggets.",
+        "injury_notes": "Zeke Nnaji (F); Spencer Jones (F); Bruce Brown (G); Peyton Watson (G)"
       },
       "live": {
         "status": "pre",
@@ -1966,27 +1400,27 @@
       },
       "news": [
         {
-          "title": "Jokic outduels Wemby in 'amazing' OT thriller",
-          "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/nba/story/_/id/48400333/jokic-outduels-wembanyama-amazing-ot-thriller",
-          "published": "Sun, 5 Apr 2026 00:50:53 EST"
-        },
-        {
           "title": "NBA playoff watch: Can ailing Lakers stay ahead of Nuggets?",
           "source": "www.espn.com - NBA",
           "link": "https://www.espn.com/nba/story/_/id/48287649/nba-playoff-watch-2026-standings-schedules-projections-clinchings",
-          "published": "Sat, 4 Apr 2026 22:30:40 EST"
+          "published": "Sun, 5 Apr 2026 10:45:38 EST"
+        },
+        {
+          "title": "Jokic outduels Wemby in 'amazing' OT thriller",
+          "source": "www.espn.com - NBA",
+          "link": "https://www.espn.com/nba/story/_/id/48400333/jokic-outduels-wembanyama-amazing-ot-thriller",
+          "published": "Sun, 5 Apr 2026 12:30:44 EST"
         }
       ]
     }
   ],
   "track_record": {
     "LOW": {
-      "wins": 8,
-      "losses": 8,
-      "total": 16,
+      "wins": 9,
+      "losses": 9,
+      "total": 18,
       "win_pct": 50.0,
-      "roi": -8.8,
+      "roi": -7.8,
       "profit": -140.34
     },
     "HIGH": {
@@ -1998,28 +1432,28 @@
       "profit": 64.17
     },
     "MEDIUM": {
-      "wins": 7,
+      "wins": 9,
       "losses": 2,
-      "total": 9,
-      "win_pct": 77.8,
-      "roi": 12.7,
-      "profit": 114.13
+      "total": 11,
+      "win_pct": 81.8,
+      "roi": 19.3,
+      "profit": 212.62
     },
     "overall_7d": {
-      "wins": 31,
-      "losses": 11,
-      "total": 42,
-      "win_pct": 73.8,
-      "roi": 0.9,
-      "profit": 37.96
+      "wins": 34,
+      "losses": 12,
+      "total": 46,
+      "win_pct": 73.9,
+      "roi": 3.0,
+      "profit": 136.45
     },
     "overall_30d": {
-      "wins": 31,
-      "losses": 11,
-      "total": 42,
-      "win_pct": 73.8,
-      "roi": 0.9,
-      "profit": 37.96
+      "wins": 34,
+      "losses": 12,
+      "total": 46,
+      "win_pct": 73.9,
+      "roi": 3.0,
+      "profit": 136.45
     }
   }
 }

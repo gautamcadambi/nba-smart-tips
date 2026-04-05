@@ -682,9 +682,11 @@
       "win_probability": 50.0,
       "commence_time": "2026-04-05T19:40:00Z",
       "date": "2026-04-04T05:16:32.326278+00:00",
-      "graded": false,
-      "result": null,
-      "profit": null
+      "graded": true,
+      "result": "WIN",
+      "profit": 100,
+      "home_score": 115,
+      "away_score": 101
     },
     {
       "game": "Charlotte Hornets @ Minnesota Timberwolves",
@@ -766,9 +768,11 @@
       "win_probability": 50.0,
       "commence_time": "2026-04-05T19:40:00Z",
       "date": "2026-04-04T07:55:44.097961+00:00",
-      "graded": false,
-      "result": null,
-      "profit": null
+      "graded": true,
+      "result": "LOSS",
+      "profit": -100,
+      "home_score": 110,
+      "away_score": 120
     },
     {
       "game": "Los Angeles Clippers @ Sacramento Kings",
@@ -794,9 +798,11 @@
       "win_probability": 62.2,
       "commence_time": "2026-04-05T19:40:00Z",
       "date": "2026-04-04T23:03:15.270814+00:00",
-      "graded": false,
-      "result": null,
-      "profit": null
+      "graded": true,
+      "result": "WIN",
+      "profit": 54.05,
+      "home_score": 121,
+      "away_score": 115
     },
     {
       "game": "Indiana Pacers @ Cleveland Cavaliers",
@@ -822,9 +828,11 @@
       "win_probability": 66.4,
       "commence_time": "2026-04-05T19:40:00Z",
       "date": "2026-04-05T05:57:46.668995+00:00",
-      "graded": false,
-      "result": null,
-      "profit": null
+      "graded": true,
+      "result": "WIN",
+      "profit": 44.44,
+      "home_score": 131,
+      "away_score": 115
     },
     {
       "game": "New York Knicks @ Atlanta Hawks",
@@ -871,11 +879,11 @@
   ],
   "summary": {
     "LOW": {
-      "wins": 8,
-      "losses": 8,
-      "total": 16,
+      "wins": 9,
+      "losses": 9,
+      "total": 18,
       "win_pct": 50.0,
-      "roi": -8.8,
+      "roi": -7.8,
       "profit": -140.34
     },
     "HIGH": {
@@ -887,29 +895,29 @@
       "profit": 64.17
     },
     "MEDIUM": {
-      "wins": 7,
+      "wins": 9,
       "losses": 2,
-      "total": 9,
-      "win_pct": 77.8,
-      "roi": 12.7,
-      "profit": 114.13
+      "total": 11,
+      "win_pct": 81.8,
+      "roi": 19.3,
+      "profit": 212.62
     },
     "overall_7d": {
-      "wins": 31,
-      "losses": 11,
-      "total": 42,
-      "win_pct": 73.8,
-      "roi": 0.9,
-      "profit": 37.96
+      "wins": 34,
+      "losses": 12,
+      "total": 46,
+      "win_pct": 73.9,
+      "roi": 3.0,
+      "profit": 136.45
     },
     "overall_30d": {
-      "wins": 31,
-      "losses": 11,
-      "total": 42,
-      "win_pct": 73.8,
-      "roi": 0.9,
-      "profit": 37.96
+      "wins": 34,
+      "losses": 12,
+      "total": 46,
+      "win_pct": 73.9,
+      "roi": 3.0,
+      "profit": 136.45
     }
   },
-  "last_graded": "2026-04-05T05:56:58.942759+00:00"
+  "last_graded": "2026-04-05T23:04:35.842272+00:00"
 }
