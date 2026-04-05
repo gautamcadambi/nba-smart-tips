@@ -1,5 +1,5 @@
 {
-  "last_updated": "April 05, 2026 at 05:57 AM UTC",
+  "last_updated": "April 05, 2026 at 11:57 AM UTC",
   "total_games": 14,
   "games": [
     {
@@ -8,47 +8,47 @@
       "away_team": "Toronto Raptors",
       "home_abbr": "BOS",
       "away_abbr": "TOR",
-      "home_ml": "-500",
-      "away_ml": "+380",
-      "home_ml_raw": -500,
-      "away_ml_raw": 380,
-      "home_prob": 80.0,
-      "away_prob": 20.0,
+      "home_ml": "-470",
+      "away_ml": "+360",
+      "home_ml_raw": -470,
+      "away_ml_raw": 360,
+      "home_prob": 79.1,
+      "away_prob": 20.9,
       "spread": "BOS -9.5",
       "favorite": "Boston Celtics",
       "pick": "Boston Celtics",
       "pick_abbr": "BOS",
-      "moneyline": "-500",
-      "win_probability": 80.0,
+      "moneyline": "-470",
+      "win_probability": 79.1,
       "confidence": "HIGH",
       "confidence_stars": "\u2605\u2605\u2605",
       "commence_time": "2026-04-05T19:40:00Z",
       "line_movement": {
         "home": {
-          "direction": "shorter",
-          "points_moved": 45,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -500 \u2190 -455",
-          "old_ml": "-455",
-          "new_ml": "-500"
-        },
-        "away": {
           "direction": "longer",
           "points_moved": 30,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM +380 \u2190 +350",
-          "old_ml": "+350",
-          "new_ml": "+380"
+          "label": "\ud83d\udd25 STEAM -470 \u2190 -500",
+          "old_ml": "-500",
+          "new_ml": "-470"
+        },
+        "away": {
+          "direction": "shorter",
+          "points_moved": 20,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM +360 \u2190 +380",
+          "old_ml": "+380",
+          "new_ml": "+360"
         },
         "pick": {
-          "direction": "shorter",
-          "points_moved": 45,
+          "direction": "longer",
+          "points_moved": 30,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM -500 \u2190 -455",
-          "old_ml": "-455",
-          "new_ml": "-500"
+          "label": "\ud83d\udd25 STEAM -470 \u2190 -500",
+          "old_ml": "-500",
+          "new_ml": "-470"
         },
-        "snapshot_time": "April 05, 2026 at 12:03 AM UTC"
+        "snapshot_time": "April 05, 2026 at 05:57 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -112,9 +112,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "Boston Celtics hold a 80.0% edge.",
+        "trend": "Boston Celtics hold a 79.1% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -455 to -500 (45pt move) \u2014 heavy professional action on Boston Celtics.",
+        "steam": "Line steamed from -500 to -470 (30pt move) \u2014 heavy professional action on Boston Celtics.",
         "injury_notes": "Nikola Vucevic (C); Chucky Hepburn (G); Immanuel Quickley (G)"
       },
       "live": {
@@ -128,7 +128,7 @@
       },
       "news": [
         {
-          "title": "Celtics' Vucevic upgraded for Raptors game",
+          "title": "Vucevic upgraded for possible return vs. Raptors",
           "source": "www.espn.com - NBA",
           "link": "https://www.espn.com/nba/story/_/id/48397337/celtics-nikola-vucevic-finger-upgraded-raptors-game",
           "published": "Sun, 5 Apr 2026 00:50:53 EST"
@@ -158,30 +158,30 @@
       "commence_time": "2026-04-05T19:40:00Z",
       "line_movement": {
         "home": {
-          "direction": "longer",
-          "points_moved": 15,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -170 \u2190 -185",
-          "old_ml": "-185",
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "No movement",
+          "old_ml": "-170",
           "new_ml": "-170"
         },
         "away": {
-          "direction": "shorter",
-          "points_moved": 12,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM +142 \u2190 +154",
-          "old_ml": "+154",
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "No movement",
+          "old_ml": "+142",
           "new_ml": "+142"
         },
         "pick": {
-          "direction": "longer",
-          "points_moved": 15,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -170 \u2190 -185",
-          "old_ml": "-185",
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "No movement",
+          "old_ml": "-170",
           "new_ml": "-170"
         },
-        "snapshot_time": "April 05, 2026 at 12:03 AM UTC"
+        "snapshot_time": "April 05, 2026 at 05:57 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -208,7 +208,6 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udd25 Sharp steam detected",
         "\ud83d\udca4 WAS fatigued (B2B) \u2014 source: ESPN"
       ],
       "injury_notes": "Ben Saraf (G); Terance Mann (G); Noah Clowney (F); Nic Claxton (C)",
@@ -248,7 +247,7 @@
       "briefing": {
         "trend": "WAS on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -185 to -170 (15pt move) \u2014 heavy professional action on Brooklyn Nets.",
+        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "Ben Saraf (G); Terance Mann (G); Noah Clowney (F); Nic Claxton (C)"
       },
       "live": {
@@ -262,22 +261,22 @@
       },
       "news": [
         {
-          "title": "Where is L.J. Cason? How ACL injury impacted Michigan star's availability in March Madness",
-          "source": "Sporting News",
-          "link": "https://www.sportingnews.com/us/ncaa-basketball/michigan/news/lj-cason-acl-injury-michigan-march-madness/5504acdf7e80a8d7125544b4",
-          "published": "2026-04-04T05:50:01Z"
+          "title": "Draymond Green drops perfect two-word response to Steph Curry's impending return",
+          "source": "Nbcsportsbayarea.com",
+          "link": "https://www.nbcsportsbayarea.com/nba/golden-state-warriors/steph-curry-injury-return-draymond-green/1928579/?partner=yahoo",
+          "published": "2026-04-04T11:39:53Z"
         },
         {
-          "title": "Who is Dan Hurley's wife? Meet Andrea Sirakides, the 'Jersey boss lady' keeping UConn coach in check",
-          "source": "Sporting News",
-          "link": "https://www.sportingnews.com/us/ncaa-basketball/uconn/news/dan-hurley-wife-andrea-sirakides-uconn-coach/f0dac9690cecc428366c00c6",
-          "published": "2026-04-04T05:20:02Z"
+          "title": "Spurs vs. Nuggets odds, prediction, time: 2026 NBA picks for Saturday, April 4 from proven model",
+          "source": "CBS Sports",
+          "link": "https://www.cbssports.com/nba/news/spurs-nuggets-odds-spread-line-prediction-time-2026-nba-picks-saturday-april-4/",
+          "published": "2026-04-04T11:38:23Z"
         },
         {
-          "title": "Raynaud scores 28 points to help the Kings beat the Pelicans",
-          "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/articles/raynaud-scores-28-points-help-050226450.html",
-          "published": "2026-04-04T05:02:26Z"
+          "title": "Where to watch 'Fab Five' altcast of Michigan-Arizona: Channel, live stream for alternate Final Four game feed",
+          "source": "Sporting News",
+          "link": "https://www.sportingnews.com/us/ncaa-basketball/news/watch-fab-five-broadcast-michigan-arizona-channel-stream-final-four/86c4c099ac48388a1bc48def",
+          "published": "2026-04-04T11:30:02Z"
         }
       ]
     },
@@ -293,7 +292,7 @@
       "away_ml_raw": -520,
       "home_prob": 19.6,
       "away_prob": 80.4,
-      "spread": "CHI +9.5",
+      "spread": "CHI +10.5",
       "favorite": "Phoenix Suns",
       "pick": "Phoenix Suns",
       "pick_abbr": "PHX",
@@ -304,30 +303,30 @@
       "commence_time": "2026-04-05T19:40:00Z",
       "line_movement": {
         "home": {
-          "direction": "longer",
-          "points_moved": 20,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM +390 \u2190 +370",
-          "old_ml": "+370",
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "No movement",
+          "old_ml": "+390",
           "new_ml": "+390"
         },
         "away": {
-          "direction": "shorter",
-          "points_moved": 35,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -520 \u2190 -485",
-          "old_ml": "-485",
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "No movement",
+          "old_ml": "-520",
           "new_ml": "-520"
         },
         "pick": {
-          "direction": "shorter",
-          "points_moved": 35,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -520 \u2190 -485",
-          "old_ml": "-485",
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "No movement",
+          "old_ml": "-520",
           "new_ml": "-520"
         },
-        "snapshot_time": "April 05, 2026 at 12:03 AM UTC"
+        "snapshot_time": "April 05, 2026 at 05:57 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -354,7 +353,7 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udd25 Sharp steam detected"
+        "\ud83d\udcca 60.8pt probability edge"
       ],
       "injury_notes": "Anfernee Simons (G); Collin Sexton (G); Lachlan Olbrich (C); Josh Giddey (G)",
       "sharp": {
@@ -393,7 +392,7 @@
       "briefing": {
         "trend": "Phoenix Suns hold a 80.4% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -485 to -520 (35pt move) \u2014 heavy professional action on Phoenix Suns.",
+        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "Anfernee Simons (G); Collin Sexton (G); Lachlan Olbrich (C); Josh Giddey (G)"
       },
       "live": {
@@ -407,22 +406,22 @@
       },
       "news": [
         {
-          "title": "Where is L.J. Cason? How ACL injury impacted Michigan star's availability in March Madness",
-          "source": "Sporting News",
-          "link": "https://www.sportingnews.com/us/ncaa-basketball/michigan/news/lj-cason-acl-injury-michigan-march-madness/5504acdf7e80a8d7125544b4",
-          "published": "2026-04-04T05:50:01Z"
+          "title": "Draymond Green drops perfect two-word response to Steph Curry's impending return",
+          "source": "Nbcsportsbayarea.com",
+          "link": "https://www.nbcsportsbayarea.com/nba/golden-state-warriors/steph-curry-injury-return-draymond-green/1928579/?partner=yahoo",
+          "published": "2026-04-04T11:39:53Z"
         },
         {
-          "title": "Who is Dan Hurley's wife? Meet Andrea Sirakides, the 'Jersey boss lady' keeping UConn coach in check",
-          "source": "Sporting News",
-          "link": "https://www.sportingnews.com/us/ncaa-basketball/uconn/news/dan-hurley-wife-andrea-sirakides-uconn-coach/f0dac9690cecc428366c00c6",
-          "published": "2026-04-04T05:20:02Z"
+          "title": "Spurs vs. Nuggets odds, prediction, time: 2026 NBA picks for Saturday, April 4 from proven model",
+          "source": "CBS Sports",
+          "link": "https://www.cbssports.com/nba/news/spurs-nuggets-odds-spread-line-prediction-time-2026-nba-picks-saturday-april-4/",
+          "published": "2026-04-04T11:38:23Z"
         },
         {
-          "title": "Raynaud scores 28 points to help the Kings beat the Pelicans",
-          "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/articles/raynaud-scores-28-points-help-050226450.html",
-          "published": "2026-04-04T05:02:26Z"
+          "title": "Where to watch 'Fab Five' altcast of Michigan-Arizona: Channel, live stream for alternate Final Four game feed",
+          "source": "Sporting News",
+          "link": "https://www.sportingnews.com/us/ncaa-basketball/news/watch-fab-five-broadcast-michigan-arizona-channel-stream-final-four/86c4c099ac48388a1bc48def",
+          "published": "2026-04-04T11:30:02Z"
         }
       ]
     },
@@ -432,47 +431,47 @@
       "away_team": "Memphis Grizzlies",
       "home_abbr": "MIL",
       "away_abbr": "MEM",
-      "home_ml": "-225",
-      "away_ml": "+185",
-      "home_ml_raw": -225,
-      "away_ml_raw": 185,
-      "home_prob": 66.4,
-      "away_prob": 33.6,
+      "home_ml": "-230",
+      "away_ml": "+190",
+      "home_ml_raw": -230,
+      "away_ml_raw": 190,
+      "home_prob": 66.9,
+      "away_prob": 33.1,
       "spread": "MIL -5.5",
       "favorite": "Milwaukee Bucks",
       "pick": "Milwaukee Bucks",
       "pick_abbr": "MIL",
-      "moneyline": "-225",
-      "win_probability": 66.4,
+      "moneyline": "-230",
+      "win_probability": 66.9,
       "confidence": "MEDIUM",
       "confidence_stars": "\u2605\u2605\u2606",
       "commence_time": "2026-04-05T19:40:00Z",
       "line_movement": {
         "home": {
-          "direction": "none",
-          "points_moved": 0,
+          "direction": "shorter",
+          "points_moved": 5,
           "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "label": "\ud83d\udfe2 -230 \u2190 -225",
+          "old_ml": "-225",
+          "new_ml": "-230"
         },
         "away": {
-          "direction": "none",
-          "points_moved": 0,
+          "direction": "longer",
+          "points_moved": 5,
           "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "label": "\ud83d\udd34 +190 \u2190 +185",
+          "old_ml": "+185",
+          "new_ml": "+190"
         },
         "pick": {
-          "direction": "none",
-          "points_moved": 0,
+          "direction": "shorter",
+          "points_moved": 5,
           "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "label": "\ud83d\udfe2 -230 \u2190 -225",
+          "old_ml": "-225",
+          "new_ml": "-230"
         },
-        "snapshot_time": "\u2014"
+        "snapshot_time": "April 05, 2026 at 05:57 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -499,7 +498,7 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udcca 32.8pt probability edge"
+        "\ud83d\udcca 33.8pt probability edge"
       ],
       "injury_notes": "Giannis Antetokounmpo (F); Bobby Portis (F); Gary Trent Jr. (G); Ryan Rollins (G)",
       "sharp": {
@@ -536,9 +535,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "Milwaukee Bucks hold a 66.4% edge.",
+        "trend": "Milwaukee Bucks hold a 66.9% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "steam": "Line moved -225\u2192-230 (5pts). Pending \u2014 check closer to tip-off",
         "injury_notes": "Giannis Antetokounmpo (F); Bobby Portis (F); Gary Trent Jr. (G); Ryan Rollins (G)"
       },
       "live": {
@@ -552,22 +551,22 @@
       },
       "news": [
         {
-          "title": "Where is L.J. Cason? How ACL injury impacted Michigan star's availability in March Madness",
-          "source": "Sporting News",
-          "link": "https://www.sportingnews.com/us/ncaa-basketball/michigan/news/lj-cason-acl-injury-michigan-march-madness/5504acdf7e80a8d7125544b4",
-          "published": "2026-04-04T05:50:01Z"
+          "title": "Draymond Green drops perfect two-word response to Steph Curry's impending return",
+          "source": "Nbcsportsbayarea.com",
+          "link": "https://www.nbcsportsbayarea.com/nba/golden-state-warriors/steph-curry-injury-return-draymond-green/1928579/?partner=yahoo",
+          "published": "2026-04-04T11:39:53Z"
         },
         {
-          "title": "Who is Dan Hurley's wife? Meet Andrea Sirakides, the 'Jersey boss lady' keeping UConn coach in check",
-          "source": "Sporting News",
-          "link": "https://www.sportingnews.com/us/ncaa-basketball/uconn/news/dan-hurley-wife-andrea-sirakides-uconn-coach/f0dac9690cecc428366c00c6",
-          "published": "2026-04-04T05:20:02Z"
+          "title": "Spurs vs. Nuggets odds, prediction, time: 2026 NBA picks for Saturday, April 4 from proven model",
+          "source": "CBS Sports",
+          "link": "https://www.cbssports.com/nba/news/spurs-nuggets-odds-spread-line-prediction-time-2026-nba-picks-saturday-april-4/",
+          "published": "2026-04-04T11:38:23Z"
         },
         {
-          "title": "Raynaud scores 28 points to help the Kings beat the Pelicans",
-          "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/articles/raynaud-scores-28-points-help-050226450.html",
-          "published": "2026-04-04T05:02:26Z"
+          "title": "Where to watch 'Fab Five' altcast of Michigan-Arizona: Channel, live stream for alternate Final Four game feed",
+          "source": "Sporting News",
+          "link": "https://www.sportingnews.com/us/ncaa-basketball/news/watch-fab-five-broadcast-michigan-arizona-channel-stream-final-four/86c4c099ac48388a1bc48def",
+          "published": "2026-04-04T11:30:02Z"
         }
       ]
     },
@@ -577,47 +576,47 @@
       "away_team": "Indiana Pacers",
       "home_abbr": "CLE",
       "away_abbr": "IND",
-      "home_ml": "-2800",
-      "away_ml": "+1300",
-      "home_ml_raw": -2800,
-      "away_ml_raw": 1300,
-      "home_prob": 93.1,
-      "away_prob": 6.9,
+      "home_ml": "-2100",
+      "away_ml": "+1100",
+      "home_ml_raw": -2100,
+      "away_ml_raw": 1100,
+      "home_prob": 92.0,
+      "away_prob": 8.0,
       "spread": "CLE -16.5",
       "favorite": "Cleveland Cavaliers",
       "pick": "Cleveland Cavaliers",
       "pick_abbr": "CLE",
-      "moneyline": "-2800",
-      "win_probability": 93.1,
+      "moneyline": "-2100",
+      "win_probability": 92.0,
       "confidence": "HIGH",
       "confidence_stars": "\u2605\u2605\u2605",
       "commence_time": "2026-04-05T22:10:00Z",
       "line_movement": {
         "home": {
-          "direction": "shorter",
+          "direction": "longer",
           "points_moved": 700,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM -2800 \u2190 -2100",
-          "old_ml": "-2100",
-          "new_ml": "-2800"
+          "label": "\ud83d\udd25 STEAM -2100 \u2190 -2800",
+          "old_ml": "-2800",
+          "new_ml": "-2100"
         },
         "away": {
-          "direction": "longer",
+          "direction": "shorter",
           "points_moved": 200,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM +1300 \u2190 +1100",
-          "old_ml": "+1100",
-          "new_ml": "+1300"
+          "label": "\ud83d\udd25 STEAM +1100 \u2190 +1300",
+          "old_ml": "+1300",
+          "new_ml": "+1100"
         },
         "pick": {
-          "direction": "shorter",
+          "direction": "longer",
           "points_moved": 700,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM -2800 \u2190 -2100",
-          "old_ml": "-2100",
-          "new_ml": "-2800"
+          "label": "\ud83d\udd25 STEAM -2100 \u2190 -2800",
+          "old_ml": "-2800",
+          "new_ml": "-2100"
         },
-        "snapshot_time": "April 05, 2026 at 12:03 AM UTC"
+        "snapshot_time": "April 05, 2026 at 05:57 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -681,9 +680,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "Cleveland Cavaliers hold a 93.1% edge.",
+        "trend": "Cleveland Cavaliers hold a 92.0% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -2100 to -2800 (700pt move) \u2014 heavy professional action on Cleveland Cavaliers.",
+        "steam": "Line steamed from -2800 to -2100 (700pt move) \u2014 heavy professional action on Cleveland Cavaliers.",
         "injury_notes": "Sam Merrill (G); Jarrett Allen (C); Jaylon Tyson (G); Evan Mobley (C)"
       },
       "live": {
@@ -697,22 +696,22 @@
       },
       "news": [
         {
-          "title": "Where is L.J. Cason? How ACL injury impacted Michigan star's availability in March Madness",
-          "source": "Sporting News",
-          "link": "https://www.sportingnews.com/us/ncaa-basketball/michigan/news/lj-cason-acl-injury-michigan-march-madness/5504acdf7e80a8d7125544b4",
-          "published": "2026-04-04T05:50:01Z"
+          "title": "Draymond Green drops perfect two-word response to Steph Curry's impending return",
+          "source": "Nbcsportsbayarea.com",
+          "link": "https://www.nbcsportsbayarea.com/nba/golden-state-warriors/steph-curry-injury-return-draymond-green/1928579/?partner=yahoo",
+          "published": "2026-04-04T11:39:53Z"
         },
         {
-          "title": "Who is Dan Hurley's wife? Meet Andrea Sirakides, the 'Jersey boss lady' keeping UConn coach in check",
-          "source": "Sporting News",
-          "link": "https://www.sportingnews.com/us/ncaa-basketball/uconn/news/dan-hurley-wife-andrea-sirakides-uconn-coach/f0dac9690cecc428366c00c6",
-          "published": "2026-04-04T05:20:02Z"
+          "title": "Spurs vs. Nuggets odds, prediction, time: 2026 NBA picks for Saturday, April 4 from proven model",
+          "source": "CBS Sports",
+          "link": "https://www.cbssports.com/nba/news/spurs-nuggets-odds-spread-line-prediction-time-2026-nba-picks-saturday-april-4/",
+          "published": "2026-04-04T11:38:23Z"
         },
         {
-          "title": "Raynaud scores 28 points to help the Kings beat the Pelicans",
-          "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/articles/raynaud-scores-28-points-help-050226450.html",
-          "published": "2026-04-04T05:02:26Z"
+          "title": "Where to watch 'Fab Five' altcast of Michigan-Arizona: Channel, live stream for alternate Final Four game feed",
+          "source": "Sporting News",
+          "link": "https://www.sportingnews.com/us/ncaa-basketball/news/watch-fab-five-broadcast-michigan-arizona-channel-stream-final-four/86c4c099ac48388a1bc48def",
+          "published": "2026-04-04T11:30:02Z"
         }
       ]
     },
@@ -739,30 +738,30 @@
       "commence_time": "2026-04-05T23:10:00Z",
       "line_movement": {
         "home": {
-          "direction": "longer",
-          "points_moved": 204,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM +102 \u2190 -102",
-          "old_ml": "-102",
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "No movement",
+          "old_ml": "+102",
           "new_ml": "+102"
         },
         "away": {
-          "direction": "shorter",
-          "points_moved": 4,
+          "direction": "none",
+          "points_moved": 0,
           "steam": false,
-          "label": "\ud83d\udfe2 -122 \u2190 -118",
-          "old_ml": "-118",
+          "label": "No movement",
+          "old_ml": "-122",
           "new_ml": "-122"
         },
         "pick": {
-          "direction": "shorter",
-          "points_moved": 4,
+          "direction": "none",
+          "points_moved": 0,
           "steam": false,
-          "label": "\ud83d\udfe2 -122 \u2190 -118",
-          "old_ml": "-118",
+          "label": "No movement",
+          "old_ml": "-122",
           "new_ml": "-122"
         },
-        "snapshot_time": "April 05, 2026 at 12:03 AM UTC"
+        "snapshot_time": "April 05, 2026 at 05:57 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -789,7 +788,7 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udd25 Sharp steam detected"
+        "\ud83d\udcca 5.2pt probability edge"
       ],
       "injury_notes": "Anthony Edwards (G); Jaden McDaniels (F); PJ Hall (C); Moussa Diabate (F)",
       "sharp": {
@@ -828,7 +827,7 @@
       "briefing": {
         "trend": "Charlotte Hornets hold a 52.6% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line moved -118\u2192-122 (4pts). Pending \u2014 check closer to tip-off",
+        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "Anthony Edwards (G); Jaden McDaniels (F); PJ Hall (C); Moussa Diabate (F)"
       },
       "live": {
@@ -842,22 +841,22 @@
       },
       "news": [
         {
-          "title": "Where is L.J. Cason? How ACL injury impacted Michigan star's availability in March Madness",
-          "source": "Sporting News",
-          "link": "https://www.sportingnews.com/us/ncaa-basketball/michigan/news/lj-cason-acl-injury-michigan-march-madness/5504acdf7e80a8d7125544b4",
-          "published": "2026-04-04T05:50:01Z"
+          "title": "Draymond Green drops perfect two-word response to Steph Curry's impending return",
+          "source": "Nbcsportsbayarea.com",
+          "link": "https://www.nbcsportsbayarea.com/nba/golden-state-warriors/steph-curry-injury-return-draymond-green/1928579/?partner=yahoo",
+          "published": "2026-04-04T11:39:53Z"
         },
         {
-          "title": "Who is Dan Hurley's wife? Meet Andrea Sirakides, the 'Jersey boss lady' keeping UConn coach in check",
-          "source": "Sporting News",
-          "link": "https://www.sportingnews.com/us/ncaa-basketball/uconn/news/dan-hurley-wife-andrea-sirakides-uconn-coach/f0dac9690cecc428366c00c6",
-          "published": "2026-04-04T05:20:02Z"
+          "title": "Spurs vs. Nuggets odds, prediction, time: 2026 NBA picks for Saturday, April 4 from proven model",
+          "source": "CBS Sports",
+          "link": "https://www.cbssports.com/nba/news/spurs-nuggets-odds-spread-line-prediction-time-2026-nba-picks-saturday-april-4/",
+          "published": "2026-04-04T11:38:23Z"
         },
         {
-          "title": "Raynaud scores 28 points to help the Kings beat the Pelicans",
-          "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/articles/raynaud-scores-28-points-help-050226450.html",
-          "published": "2026-04-04T05:02:26Z"
+          "title": "Where to watch 'Fab Five' altcast of Michigan-Arizona: Channel, live stream for alternate Final Four game feed",
+          "source": "Sporting News",
+          "link": "https://www.sportingnews.com/us/ncaa-basketball/news/watch-fab-five-broadcast-michigan-arizona-channel-stream-final-four/86c4c099ac48388a1bc48def",
+          "published": "2026-04-04T11:30:02Z"
         }
       ]
     },
@@ -884,30 +883,30 @@
       "commence_time": "2026-04-05T23:10:00Z",
       "line_movement": {
         "home": {
-          "direction": "longer",
-          "points_moved": 14,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM +164 \u2190 +150",
-          "old_ml": "+150",
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "No movement",
+          "old_ml": "+164",
           "new_ml": "+164"
         },
         "away": {
-          "direction": "shorter",
-          "points_moved": 18,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -198 \u2190 -180",
-          "old_ml": "-180",
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "No movement",
+          "old_ml": "-198",
           "new_ml": "-198"
         },
         "pick": {
-          "direction": "shorter",
-          "points_moved": 18,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -198 \u2190 -180",
-          "old_ml": "-180",
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "No movement",
+          "old_ml": "-198",
           "new_ml": "-198"
         },
-        "snapshot_time": "April 05, 2026 at 12:03 AM UTC"
+        "snapshot_time": "April 05, 2026 at 05:57 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -934,7 +933,6 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udd25 Sharp steam detected",
         "\u2708\ufe0f NOP traveled 1,880 mi"
       ],
       "injury_notes": "Trey Murphy III (F); Dejounte Murray (G); Karlo Matkovic (F); Bryce McGowens (G)",
@@ -974,7 +972,7 @@
       "briefing": {
         "trend": "Orlando Magic hold a 63.7% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -180 to -198 (18pt move) \u2014 heavy professional action on Orlando Magic.",
+        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "Trey Murphy III (F); Dejounte Murray (G); Karlo Matkovic (F); Bryce McGowens (G)"
       },
       "live": {
@@ -988,22 +986,22 @@
       },
       "news": [
         {
-          "title": "Where is L.J. Cason? How ACL injury impacted Michigan star's availability in March Madness",
-          "source": "Sporting News",
-          "link": "https://www.sportingnews.com/us/ncaa-basketball/michigan/news/lj-cason-acl-injury-michigan-march-madness/5504acdf7e80a8d7125544b4",
-          "published": "2026-04-04T05:50:01Z"
+          "title": "Draymond Green drops perfect two-word response to Steph Curry's impending return",
+          "source": "Nbcsportsbayarea.com",
+          "link": "https://www.nbcsportsbayarea.com/nba/golden-state-warriors/steph-curry-injury-return-draymond-green/1928579/?partner=yahoo",
+          "published": "2026-04-04T11:39:53Z"
         },
         {
-          "title": "Who is Dan Hurley's wife? Meet Andrea Sirakides, the 'Jersey boss lady' keeping UConn coach in check",
-          "source": "Sporting News",
-          "link": "https://www.sportingnews.com/us/ncaa-basketball/uconn/news/dan-hurley-wife-andrea-sirakides-uconn-coach/f0dac9690cecc428366c00c6",
-          "published": "2026-04-04T05:20:02Z"
+          "title": "Spurs vs. Nuggets odds, prediction, time: 2026 NBA picks for Saturday, April 4 from proven model",
+          "source": "CBS Sports",
+          "link": "https://www.cbssports.com/nba/news/spurs-nuggets-odds-spread-line-prediction-time-2026-nba-picks-saturday-april-4/",
+          "published": "2026-04-04T11:38:23Z"
         },
         {
-          "title": "Raynaud scores 28 points to help the Kings beat the Pelicans",
-          "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/articles/raynaud-scores-28-points-help-050226450.html",
-          "published": "2026-04-04T05:02:26Z"
+          "title": "Where to watch 'Fab Five' altcast of Michigan-Arizona: Channel, live stream for alternate Final Four game feed",
+          "source": "Sporting News",
+          "link": "https://www.sportingnews.com/us/ncaa-basketball/news/watch-fab-five-broadcast-michigan-arizona-channel-stream-final-four/86c4c099ac48388a1bc48def",
+          "published": "2026-04-04T11:30:02Z"
         }
       ]
     },
@@ -1030,30 +1028,30 @@
       "commence_time": "2026-04-05T23:10:00Z",
       "line_movement": {
         "home": {
-          "direction": "shorter",
-          "points_moved": 1400,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -5000 \u2190 -3600",
-          "old_ml": "-3600",
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "No movement",
+          "old_ml": "-5000",
           "new_ml": "-5000"
         },
         "away": {
-          "direction": "longer",
-          "points_moved": 300,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM +1800 \u2190 +1500",
-          "old_ml": "+1500",
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "No movement",
+          "old_ml": "+1800",
           "new_ml": "+1800"
         },
         "pick": {
-          "direction": "shorter",
-          "points_moved": 1400,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -5000 \u2190 -3600",
-          "old_ml": "-3600",
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "No movement",
+          "old_ml": "-5000",
           "new_ml": "-5000"
         },
-        "snapshot_time": "April 05, 2026 at 12:03 AM UTC"
+        "snapshot_time": "April 05, 2026 at 05:57 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -1080,7 +1078,7 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udd25 Sharp steam detected"
+        "\ud83d\udcca 89.8pt probability edge"
       ],
       "injury_notes": "Thomas Sorber (C); Elijah Harkless (G); Keyonte George (G); Isaiah Collier (G)",
       "sharp": {
@@ -1119,7 +1117,7 @@
       "briefing": {
         "trend": "Oklahoma City Thunder hold a 94.9% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -3600 to -5000 (1400pt move) \u2014 heavy professional action on Oklahoma City Thunder.",
+        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "Thomas Sorber (C); Elijah Harkless (G); Keyonte George (G); Isaiah Collier (G)"
       },
       "live": {
@@ -1133,22 +1131,22 @@
       },
       "news": [
         {
-          "title": "Where is L.J. Cason? How ACL injury impacted Michigan star's availability in March Madness",
-          "source": "Sporting News",
-          "link": "https://www.sportingnews.com/us/ncaa-basketball/michigan/news/lj-cason-acl-injury-michigan-march-madness/5504acdf7e80a8d7125544b4",
-          "published": "2026-04-04T05:50:01Z"
+          "title": "Draymond Green drops perfect two-word response to Steph Curry's impending return",
+          "source": "Nbcsportsbayarea.com",
+          "link": "https://www.nbcsportsbayarea.com/nba/golden-state-warriors/steph-curry-injury-return-draymond-green/1928579/?partner=yahoo",
+          "published": "2026-04-04T11:39:53Z"
         },
         {
-          "title": "Who is Dan Hurley's wife? Meet Andrea Sirakides, the 'Jersey boss lady' keeping UConn coach in check",
-          "source": "Sporting News",
-          "link": "https://www.sportingnews.com/us/ncaa-basketball/uconn/news/dan-hurley-wife-andrea-sirakides-uconn-coach/f0dac9690cecc428366c00c6",
-          "published": "2026-04-04T05:20:02Z"
+          "title": "Spurs vs. Nuggets odds, prediction, time: 2026 NBA picks for Saturday, April 4 from proven model",
+          "source": "CBS Sports",
+          "link": "https://www.cbssports.com/nba/news/spurs-nuggets-odds-spread-line-prediction-time-2026-nba-picks-saturday-april-4/",
+          "published": "2026-04-04T11:38:23Z"
         },
         {
-          "title": "Raynaud scores 28 points to help the Kings beat the Pelicans",
-          "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/articles/raynaud-scores-28-points-help-050226450.html",
-          "published": "2026-04-04T05:02:26Z"
+          "title": "Where to watch 'Fab Five' altcast of Michigan-Arizona: Channel, live stream for alternate Final Four game feed",
+          "source": "Sporting News",
+          "link": "https://www.sportingnews.com/us/ncaa-basketball/news/watch-fab-five-broadcast-michigan-arizona-channel-stream-final-four/86c4c099ac48388a1bc48def",
+          "published": "2026-04-04T11:30:02Z"
         }
       ]
     },
@@ -1175,30 +1173,30 @@
       "commence_time": "2026-04-05T23:40:00Z",
       "line_movement": {
         "home": {
-          "direction": "shorter",
-          "points_moved": 34,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM +102 \u2190 +136",
-          "old_ml": "+136",
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "No movement",
+          "old_ml": "+102",
           "new_ml": "+102"
         },
         "away": {
-          "direction": "longer",
-          "points_moved": 40,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -122 \u2190 -162",
-          "old_ml": "-162",
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "No movement",
+          "old_ml": "-122",
           "new_ml": "-122"
         },
         "pick": {
-          "direction": "longer",
-          "points_moved": 40,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -122 \u2190 -162",
-          "old_ml": "-162",
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "No movement",
+          "old_ml": "-122",
           "new_ml": "-122"
         },
-        "snapshot_time": "April 05, 2026 at 12:03 AM UTC"
+        "snapshot_time": "April 05, 2026 at 05:57 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -1225,7 +1223,7 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udd25 Sharp steam detected"
+        "\ud83d\udcca 5.2pt probability edge"
       ],
       "injury_notes": "Tyler Smith (F); Caleb Martin (F); Marvin Bagley III (F); Kyrie Irving (G)",
       "sharp": {
@@ -1264,7 +1262,7 @@
       "briefing": {
         "trend": "Los Angeles Lakers hold a 52.6% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -162 to -122 (40pt move) \u2014 heavy professional action on Los Angeles Lakers.",
+        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "Tyler Smith (F); Caleb Martin (F); Marvin Bagley III (F); Kyrie Irving (G)"
       },
       "live": {
@@ -1303,7 +1301,7 @@
       "away_ml_raw": -800,
       "home_prob": 14.8,
       "away_prob": 85.2,
-      "spread": "SAC +11.5",
+      "spread": "SAC +12.5",
       "favorite": "Los Angeles Clippers",
       "pick": "Los Angeles Clippers",
       "pick_abbr": "LAC",
@@ -1314,30 +1312,30 @@
       "commence_time": "2026-04-06T01:10:00Z",
       "line_movement": {
         "home": {
-          "direction": "longer",
-          "points_moved": 95,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM +550 \u2190 +455",
-          "old_ml": "+455",
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "No movement",
+          "old_ml": "+550",
           "new_ml": "+550"
         },
         "away": {
-          "direction": "shorter",
-          "points_moved": 175,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -800 \u2190 -625",
-          "old_ml": "-625",
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "No movement",
+          "old_ml": "-800",
           "new_ml": "-800"
         },
         "pick": {
-          "direction": "shorter",
-          "points_moved": 175,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -800 \u2190 -625",
-          "old_ml": "-625",
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "No movement",
+          "old_ml": "-800",
           "new_ml": "-800"
         },
-        "snapshot_time": "April 05, 2026 at 12:03 AM UTC"
+        "snapshot_time": "April 05, 2026 at 05:57 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -1364,7 +1362,6 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udd25 Sharp steam detected",
         "\u2708\ufe0f SAC traveled 2,196 mi"
       ],
       "injury_notes": "Keegan Murray (F); Russell Westbrook (G); Isaiah Stevens (G); Drew Eubanks (F)",
@@ -1404,7 +1401,7 @@
       "briefing": {
         "trend": "Los Angeles Clippers hold a 85.2% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -625 to -800 (175pt move) \u2014 heavy professional action on Los Angeles Clippers.",
+        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "Keegan Murray (F); Russell Westbrook (G); Isaiah Stevens (G); Drew Eubanks (F)"
       },
       "live": {
@@ -1443,7 +1440,7 @@
       "away_ml_raw": -162,
       "home_prob": 40.7,
       "away_prob": 59.3,
-      "spread": "GSW +3.5",
+      "spread": "GSW +4.5",
       "favorite": "Houston Rockets",
       "pick": "Houston Rockets",
       "pick_abbr": "HOU",
@@ -1454,30 +1451,30 @@
       "commence_time": "2026-04-06T02:10:00Z",
       "line_movement": {
         "home": {
-          "direction": "shorter",
-          "points_moved": 4,
+          "direction": "none",
+          "points_moved": 0,
           "steam": false,
-          "label": "\ud83d\udfe2 +136 \u2190 +140",
-          "old_ml": "+140",
+          "label": "No movement",
+          "old_ml": "+136",
           "new_ml": "+136"
         },
         "away": {
-          "direction": "longer",
-          "points_moved": 4,
+          "direction": "none",
+          "points_moved": 0,
           "steam": false,
-          "label": "\ud83d\udd34 -162 \u2190 -166",
-          "old_ml": "-166",
+          "label": "No movement",
+          "old_ml": "-162",
           "new_ml": "-162"
         },
         "pick": {
-          "direction": "longer",
-          "points_moved": 4,
+          "direction": "none",
+          "points_moved": 0,
           "steam": false,
-          "label": "\ud83d\udd34 -162 \u2190 -166",
-          "old_ml": "-166",
+          "label": "No movement",
+          "old_ml": "-162",
           "new_ml": "-162"
         },
-        "snapshot_time": "April 05, 2026 at 12:03 AM UTC"
+        "snapshot_time": "April 05, 2026 at 05:57 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -1543,7 +1540,7 @@
       "briefing": {
         "trend": "Houston Rockets hold a 59.3% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line moved -166\u2192-162 (4pts). Pending \u2014 check closer to tip-off",
+        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "Seth Curry (G); Gui Santos (F); Stephen Curry (G); Al Horford (C)"
       },
       "live": {
@@ -1570,17 +1567,17 @@
       "away_team": "New York Knicks",
       "home_abbr": "ATL",
       "away_abbr": "NYK",
-      "home_ml": "N/A",
-      "away_ml": "N/A",
-      "home_ml_raw": null,
-      "away_ml_raw": null,
+      "home_ml": "-110",
+      "away_ml": "-110",
+      "home_ml_raw": -110,
+      "away_ml_raw": -110,
       "home_prob": 50.0,
       "away_prob": 50.0,
-      "spread": "N/A",
+      "spread": "ATL -1.5",
       "favorite": "Atlanta Hawks",
       "pick": "Atlanta Hawks",
       "pick_abbr": "ATL",
-      "moneyline": "N/A",
+      "moneyline": "-110",
       "win_probability": 50.0,
       "confidence": "LOW",
       "confidence_stars": "\u2605\u2606\u2606",
@@ -1610,7 +1607,7 @@
           "old_ml": "\u2014",
           "new_ml": "\u2014"
         },
-        "snapshot_time": "\u2014"
+        "snapshot_time": "April 05, 2026 at 05:57 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -1690,22 +1687,22 @@
       },
       "news": [
         {
-          "title": "Where is L.J. Cason? How ACL injury impacted Michigan star's availability in March Madness",
-          "source": "Sporting News",
-          "link": "https://www.sportingnews.com/us/ncaa-basketball/michigan/news/lj-cason-acl-injury-michigan-march-madness/5504acdf7e80a8d7125544b4",
-          "published": "2026-04-04T05:50:01Z"
+          "title": "Draymond Green drops perfect two-word response to Steph Curry's impending return",
+          "source": "Nbcsportsbayarea.com",
+          "link": "https://www.nbcsportsbayarea.com/nba/golden-state-warriors/steph-curry-injury-return-draymond-green/1928579/?partner=yahoo",
+          "published": "2026-04-04T11:39:53Z"
         },
         {
-          "title": "Who is Dan Hurley's wife? Meet Andrea Sirakides, the 'Jersey boss lady' keeping UConn coach in check",
-          "source": "Sporting News",
-          "link": "https://www.sportingnews.com/us/ncaa-basketball/uconn/news/dan-hurley-wife-andrea-sirakides-uconn-coach/f0dac9690cecc428366c00c6",
-          "published": "2026-04-04T05:20:02Z"
+          "title": "Spurs vs. Nuggets odds, prediction, time: 2026 NBA picks for Saturday, April 4 from proven model",
+          "source": "CBS Sports",
+          "link": "https://www.cbssports.com/nba/news/spurs-nuggets-odds-spread-line-prediction-time-2026-nba-picks-saturday-april-4/",
+          "published": "2026-04-04T11:38:23Z"
         },
         {
-          "title": "Raynaud scores 28 points to help the Kings beat the Pelicans",
-          "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/articles/raynaud-scores-28-points-help-050226450.html",
-          "published": "2026-04-04T05:02:26Z"
+          "title": "Where to watch 'Fab Five' altcast of Michigan-Arizona: Channel, live stream for alternate Final Four game feed",
+          "source": "Sporting News",
+          "link": "https://www.sportingnews.com/us/ncaa-basketball/news/watch-fab-five-broadcast-michigan-arizona-channel-stream-final-four/86c4c099ac48388a1bc48def",
+          "published": "2026-04-04T11:30:02Z"
         }
       ]
     },
@@ -1715,20 +1712,20 @@
       "away_team": "Philadelphia 76ers",
       "home_abbr": "SAS",
       "away_abbr": "PHI",
-      "home_ml": "N/A",
-      "away_ml": "N/A",
-      "home_ml_raw": null,
-      "away_ml_raw": null,
-      "home_prob": 50.0,
-      "away_prob": 50.0,
-      "spread": "N/A",
+      "home_ml": "-340",
+      "away_ml": "+270",
+      "home_ml_raw": -340,
+      "away_ml_raw": 270,
+      "home_prob": 74.1,
+      "away_prob": 25.9,
+      "spread": "SAS -8.5",
       "favorite": "San Antonio Spurs",
       "pick": "San Antonio Spurs",
       "pick_abbr": "SAS",
-      "moneyline": "N/A",
-      "win_probability": 50.0,
-      "confidence": "LOW",
-      "confidence_stars": "\u2605\u2606\u2606",
+      "moneyline": "-340",
+      "win_probability": 74.1,
+      "confidence": "HIGH",
+      "confidence_stars": "\u2605\u2605\u2605",
       "commence_time": "2026-04-07T00:10:00Z",
       "line_movement": {
         "home": {
@@ -1755,7 +1752,7 @@
           "old_ml": "\u2014",
           "new_ml": "\u2014"
         },
-        "snapshot_time": "\u2014"
+        "snapshot_time": "April 05, 2026 at 05:57 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -1784,7 +1781,7 @@
       "edge_factors": [
         "\ud83d\udca4 PHI fatigued (B2B) \u2014 source: ESPN"
       ],
-      "injury_notes": "Emanuel Miller (F); David Jones Garcia (F); Cameron Payne (PG); Joel Embiid (C)",
+      "injury_notes": "Emanuel Miller (F); David Jones Garcia (F); Joel Embiid (C); Cameron Payne (PG)",
       "sharp": {
         "away_t": null,
         "home_t": null,
@@ -1822,7 +1819,7 @@
         "trend": "SAS on Back-to-Back \u26a0\ufe0f per ESPN schedule data. PHI on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
         "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
-        "injury_notes": "Emanuel Miller (F); David Jones Garcia (F); Cameron Payne (PG); Joel Embiid (C)"
+        "injury_notes": "Emanuel Miller (F); David Jones Garcia (F); Joel Embiid (C); Cameron Payne (PG)"
       },
       "live": {
         "status": "pre",
@@ -1835,7 +1832,7 @@
       },
       "news": [
         {
-          "title": "Embiid irked by 76ers; out again vs. Pistons",
+          "title": "Embiid irked by 76ers, out again against Pistons",
           "source": "www.espn.com - NBA",
           "link": "https://www.espn.com/nba/story/_/id/48398411/joel-embiid-pistons-says-was-upset-being-held-wednesday",
           "published": "Sun, 5 Apr 2026 00:50:53 EST"
@@ -1848,20 +1845,20 @@
       "away_team": "Portland Trail Blazers",
       "home_abbr": "DEN",
       "away_abbr": "POR",
-      "home_ml": "N/A",
-      "away_ml": "N/A",
-      "home_ml_raw": null,
-      "away_ml_raw": null,
-      "home_prob": 50.0,
-      "away_prob": 50.0,
-      "spread": "N/A",
+      "home_ml": "-375",
+      "away_ml": "+295",
+      "home_ml_raw": -375,
+      "away_ml_raw": 295,
+      "home_prob": 75.7,
+      "away_prob": 24.3,
+      "spread": "DEN -9.5",
       "favorite": "Denver Nuggets",
       "pick": "Denver Nuggets",
       "pick_abbr": "DEN",
-      "moneyline": "N/A",
-      "win_probability": 50.0,
-      "confidence": "LOW",
-      "confidence_stars": "\u2605\u2606\u2606",
+      "moneyline": "-375",
+      "win_probability": 75.7,
+      "confidence": "HIGH",
+      "confidence_stars": "\u2605\u2605\u2605",
       "commence_time": "2026-04-07T01:10:00Z",
       "line_movement": {
         "home": {
@@ -1888,7 +1885,7 @@
           "old_ml": "\u2014",
           "new_ml": "\u2014"
         },
-        "snapshot_time": "\u2014"
+        "snapshot_time": "April 05, 2026 at 05:57 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -1915,7 +1912,7 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udcca 0.0pt probability edge"
+        "\ud83d\udcca 51.4pt probability edge"
       ],
       "injury_notes": "Bruce Brown (G); Zeke Nnaji (F); Spencer Jones (F); Peyton Watson (G)",
       "sharp": {
