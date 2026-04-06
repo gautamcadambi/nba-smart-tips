@@ -1,54 +1,193 @@
 {
-  "last_updated": "April 06, 2026 at 02:17 PM UTC",
+  "last_updated": "April 06, 2026 at 11:54 PM UTC",
   "total_games": 10,
   "games": [
+    {
+      "game": "Detroit Pistons @ Orlando Magic",
+      "home_team": "Orlando Magic",
+      "away_team": "Detroit Pistons",
+      "home_abbr": "ORL",
+      "away_abbr": "DET",
+      "home_ml": "-188",
+      "away_ml": "+145",
+      "home_ml_raw": -188,
+      "away_ml_raw": 145,
+      "home_prob": 61.5,
+      "away_prob": 38.5,
+      "spread": "ORL -3.5",
+      "favorite": "Orlando Magic",
+      "pick": "Orlando Magic",
+      "pick_abbr": "ORL",
+      "moneyline": "-188",
+      "win_probability": 61.5,
+      "confidence": "MEDIUM",
+      "confidence_stars": "\u2605\u2605\u2606",
+      "commence_time": "2026-04-06T23:11:00Z",
+      "line_movement": {
+        "home": {
+          "direction": "shorter",
+          "points_moved": 312,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -188 \u2190 +124",
+          "old_ml": "+124",
+          "new_ml": "-188"
+        },
+        "away": {
+          "direction": "longer",
+          "points_moved": 293,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM +145 \u2190 -148",
+          "old_ml": "-148",
+          "new_ml": "+145"
+        },
+        "pick": {
+          "direction": "shorter",
+          "points_moved": 312,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -188 \u2190 +124",
+          "old_ml": "+124",
+          "new_ml": "-188"
+        },
+        "snapshot_time": "April 06, 2026 at 02:17 PM UTC"
+      },
+      "fatigue": {
+        "home": {
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Apr 05",
+          "days_rest": 1,
+          "games_last_4d": 2,
+          "travel_miles": 533,
+          "travel_desc": "533 mi road trip",
+          "source": "ESPN Scoreboard API"
+        },
+        "away": {
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
+          "last_game": "Apr 04",
+          "days_rest": 2,
+          "games_last_4d": 2,
+          "travel_miles": 443,
+          "travel_desc": "443 mi road trip",
+          "source": "ESPN Scoreboard API"
+        }
+      },
+      "edge_factors": [
+        "\ud83d\udd25 Sharp steam detected"
+      ],
+      "injury_notes": "Jett Howard (G); Jonathan Isaac (F); Franz Wagner (F); Isaiah Stewart (F)",
+      "sharp": {
+        "away_t": null,
+        "home_t": null,
+        "source": null,
+        "sharp_signal": null,
+        "sharp_label": "Pending \u2014 check closer to tip-off",
+        "rlm": false
+      },
+      "form": {
+        "home": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        },
+        "away": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        }
+      },
+      "h2h": {
+        "total_meetings": 0,
+        "home_wins": 0,
+        "away_wins": 0,
+        "meetings": [],
+        "source": "\u2014"
+      },
+      "briefing": {
+        "trend": "ORL on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "matchup": "Both rosters appear healthy \u2014 clean line.",
+        "steam": "Line steamed from +124 to -188 (312pt move) \u2014 heavy professional action on Orlando Magic.",
+        "injury_notes": "Jett Howard (G); Jonathan Isaac (F); Franz Wagner (F); Isaiah Stewart (F)"
+      },
+      "live": {
+        "status": "pre",
+        "status_detail": "Upcoming",
+        "period": 0,
+        "clock": "",
+        "home_score": 0,
+        "away_score": 0,
+        "spread_alert": null
+      },
+      "news": [
+        {
+          "title": "NBA playoff watch: Seeds unsettled entering final week",
+          "source": "www.espn.com - NBA",
+          "link": "https://www.espn.com/nba/story/_/id/48287649/nba-playoff-watch-2026-standings-schedules-projections-clinchings",
+          "published": "Mon, 6 Apr 2026 17:32:52 EST"
+        },
+        {
+          "title": "Pistons' Cunningham nearing return from injury",
+          "source": "www.espn.com - NBA",
+          "link": "https://www.espn.com/nba/story/_/id/48414009/pistons-cade-cunningham-nearing-return-collapsed-lung",
+          "published": "Mon, 6 Apr 2026 16:01:59 EST"
+        }
+      ]
+    },
     {
       "game": "New York Knicks @ Atlanta Hawks",
       "home_team": "Atlanta Hawks",
       "away_team": "New York Knicks",
       "home_abbr": "ATL",
       "away_abbr": "NYK",
-      "home_ml": "-120",
-      "away_ml": "+100",
-      "home_ml_raw": -120,
-      "away_ml_raw": 100,
-      "home_prob": 52.2,
-      "away_prob": 47.8,
-      "spread": "ATL -1.5",
-      "favorite": "Atlanta Hawks",
-      "pick": "Atlanta Hawks",
-      "pick_abbr": "ATL",
-      "moneyline": "-120",
-      "win_probability": 52.2,
-      "confidence": "LOW",
-      "confidence_stars": "\u2605\u2606\u2606",
-      "commence_time": "2026-04-06T23:10:00Z",
+      "home_ml": "+154",
+      "away_ml": "-200",
+      "home_ml_raw": 154,
+      "away_ml_raw": -200,
+      "home_prob": 37.1,
+      "away_prob": 62.9,
+      "spread": "ATL +4.5",
+      "favorite": "New York Knicks",
+      "pick": "New York Knicks",
+      "pick_abbr": "NYK",
+      "moneyline": "-200",
+      "win_probability": 62.9,
+      "confidence": "MEDIUM",
+      "confidence_stars": "\u2605\u2605\u2606",
+      "commence_time": "2026-04-06T23:13:00Z",
       "line_movement": {
         "home": {
-          "direction": "shorter",
-          "points_moved": 2,
-          "steam": false,
-          "label": "\ud83d\udfe2 -120 \u2190 -118",
-          "old_ml": "-118",
-          "new_ml": "-120"
+          "direction": "longer",
+          "points_moved": 274,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM +154 \u2190 -120",
+          "old_ml": "-120",
+          "new_ml": "+154"
         },
         "away": {
-          "direction": "longer",
-          "points_moved": 202,
+          "direction": "shorter",
+          "points_moved": 300,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM +100 \u2190 -102",
-          "old_ml": "-102",
-          "new_ml": "+100"
+          "label": "\ud83d\udd25 STEAM -200 \u2190 +100",
+          "old_ml": "+100",
+          "new_ml": "-200"
         },
         "pick": {
           "direction": "shorter",
-          "points_moved": 2,
-          "steam": false,
-          "label": "\ud83d\udfe2 -120 \u2190 -118",
-          "old_ml": "-118",
-          "new_ml": "-120"
+          "points_moved": 300,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -200 \u2190 +100",
+          "old_ml": "+100",
+          "new_ml": "-200"
         },
-        "snapshot_time": "April 06, 2026 at 06:20 AM UTC"
+        "snapshot_time": "April 06, 2026 at 02:17 PM UTC"
       },
       "fatigue": {
         "home": {
@@ -112,9 +251,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "Atlanta Hawks hold a 52.2% edge.",
+        "trend": "New York Knicks hold a 62.9% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line moved -118\u2192-120 (2pts). Pending \u2014 check closer to tip-off",
+        "steam": "Line steamed from +100 to -200 (300pt move) \u2014 heavy professional action on New York Knicks.",
         "injury_notes": "Jock Landale (C)"
       },
       "live": {
@@ -128,161 +267,10 @@
       },
       "news": [
         {
-          "title": "Caleb Wilson's 2025-26 season in review",
-          "source": "USA Today",
-          "link": "https://tarheelswire.usatoday.com/story/sports/college/tarheels/mens-basketball/2026/04/05/unc-basketball-caleb-wilson-2025-26-season-in-review/89446478007/",
-          "published": "2026-04-05T14:01:02Z"
-        },
-        {
-          "title": "Brooklyn Nets jersey history No. 52 - Buck Williams (1982-89)",
-          "source": "USA Today",
-          "link": "https://netswire.usatoday.com/story/sports/nba/nets/2026/04/05/nets-jersey-history-no-52-buck-williams-1982-89/89340856007/",
-          "published": "2026-04-05T14:00:26Z"
-        },
-        {
-          "title": "Inside the Multibillion-Dollar Business of Child Influencers",
-          "source": "Rolling Stone",
-          "link": "http://www.rollingstone.com/culture/culture-features/child-influencers-book-excerpt-1235541403/",
-          "published": "2026-04-05T14:00:00Z"
-        }
-      ]
-    },
-    {
-      "game": "Detroit Pistons @ Orlando Magic",
-      "home_team": "Orlando Magic",
-      "away_team": "Detroit Pistons",
-      "home_abbr": "ORL",
-      "away_abbr": "DET",
-      "home_ml": "+124",
-      "away_ml": "-148",
-      "home_ml_raw": 124,
-      "away_ml_raw": -148,
-      "home_prob": 42.8,
-      "away_prob": 57.2,
-      "spread": "ORL +2.5",
-      "favorite": "Detroit Pistons",
-      "pick": "Detroit Pistons",
-      "pick_abbr": "DET",
-      "moneyline": "-148",
-      "win_probability": 57.2,
-      "confidence": "LOW",
-      "confidence_stars": "\u2605\u2606\u2606",
-      "commence_time": "2026-04-06T23:10:00Z",
-      "line_movement": {
-        "home": {
-          "direction": "shorter",
-          "points_moved": 6,
-          "steam": false,
-          "label": "\ud83d\udfe2 +124 \u2190 +130",
-          "old_ml": "+130",
-          "new_ml": "+124"
-        },
-        "away": {
-          "direction": "longer",
-          "points_moved": 7,
-          "steam": false,
-          "label": "\ud83d\udd34 -148 \u2190 -155",
-          "old_ml": "-155",
-          "new_ml": "-148"
-        },
-        "pick": {
-          "direction": "longer",
-          "points_moved": 7,
-          "steam": false,
-          "label": "\ud83d\udd34 -148 \u2190 -155",
-          "old_ml": "-155",
-          "new_ml": "-148"
-        },
-        "snapshot_time": "April 06, 2026 at 06:20 AM UTC"
-      },
-      "fatigue": {
-        "home": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
-          "last_game": "Apr 05",
-          "days_rest": 1,
-          "games_last_4d": 2,
-          "travel_miles": 533,
-          "travel_desc": "533 mi road trip",
-          "source": "ESPN Scoreboard API"
-        },
-        "away": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "Apr 04",
-          "days_rest": 2,
-          "games_last_4d": 2,
-          "travel_miles": 443,
-          "travel_desc": "443 mi road trip",
-          "source": "ESPN Scoreboard API"
-        }
-      },
-      "edge_factors": [
-        "\ud83d\udca4 ORL fatigued (B2B) \u2014 source: ESPN"
-      ],
-      "injury_notes": "Franz Wagner (F); Jett Howard (G); Anthony Black (G); Jonathan Isaac (F)",
-      "sharp": {
-        "away_t": null,
-        "home_t": null,
-        "source": null,
-        "sharp_signal": null,
-        "sharp_label": "Pending \u2014 check closer to tip-off",
-        "rlm": false
-      },
-      "form": {
-        "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        },
-        "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        }
-      },
-      "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
-      },
-      "briefing": {
-        "trend": "ORL on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line moved -155\u2192-148 (7pts). Pending \u2014 check closer to tip-off",
-        "injury_notes": "Franz Wagner (F); Jett Howard (G); Anthony Black (G); Jonathan Isaac (F)"
-      },
-      "live": {
-        "status": "pre",
-        "status_detail": "Upcoming",
-        "period": 0,
-        "clock": "",
-        "home_score": 0,
-        "away_score": 0,
-        "spread_alert": null
-      },
-      "news": [
-        {
-          "title": "Pistons seal East's top seed as 'gritty' D steps up",
+          "title": "Hawks sign Bradley, add inside depth for playoffs",
           "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/nba/story/_/id/48400930/gritty-pistons-clinch-east-top-seed-missing-cade-cunningham",
-          "published": "Mon, 6 Apr 2026 02:38:43 EST"
-        },
-        {
-          "title": "NBA playoff watch: Seeds unsettled entering final week",
-          "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/nba/story/_/id/48287649/nba-playoff-watch-2026-standings-schedules-projections-clinchings",
-          "published": "Mon, 6 Apr 2026 10:02:54 EST"
+          "link": "https://www.espn.com/nba/story/_/id/48412647/hawks-sign-tony-bradley-shore-depth-playoffs",
+          "published": "Mon, 6 Apr 2026 16:01:59 EST"
         }
       ]
     },
@@ -292,47 +280,47 @@
       "away_team": "Cleveland Cavaliers",
       "home_abbr": "MEM",
       "away_abbr": "CLE",
-      "home_ml": "+850",
-      "away_ml": "-1450",
-      "home_ml_raw": 850,
-      "away_ml_raw": -1450,
-      "home_prob": 10.1,
-      "away_prob": 89.9,
-      "spread": "MEM +14.5",
+      "home_ml": "+650",
+      "away_ml": "-1000",
+      "home_ml_raw": 650,
+      "away_ml_raw": -1000,
+      "home_prob": 12.8,
+      "away_prob": 87.2,
+      "spread": "MEM +13.5",
       "favorite": "Cleveland Cavaliers",
       "pick": "Cleveland Cavaliers",
       "pick_abbr": "CLE",
-      "moneyline": "-1450",
-      "win_probability": 89.9,
+      "moneyline": "-1000",
+      "win_probability": 87.2,
       "confidence": "HIGH",
       "confidence_stars": "\u2605\u2605\u2605",
       "commence_time": "2026-04-07T00:10:00Z",
       "line_movement": {
         "home": {
-          "direction": "longer",
-          "points_moved": 50,
+          "direction": "shorter",
+          "points_moved": 200,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM +850 \u2190 +800",
-          "old_ml": "+800",
-          "new_ml": "+850"
+          "label": "\ud83d\udd25 STEAM +650 \u2190 +850",
+          "old_ml": "+850",
+          "new_ml": "+650"
         },
         "away": {
-          "direction": "shorter",
-          "points_moved": 100,
+          "direction": "longer",
+          "points_moved": 450,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM -1450 \u2190 -1350",
-          "old_ml": "-1350",
-          "new_ml": "-1450"
+          "label": "\ud83d\udd25 STEAM -1000 \u2190 -1450",
+          "old_ml": "-1450",
+          "new_ml": "-1000"
         },
         "pick": {
-          "direction": "shorter",
-          "points_moved": 100,
+          "direction": "longer",
+          "points_moved": 450,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM -1450 \u2190 -1350",
-          "old_ml": "-1350",
-          "new_ml": "-1450"
+          "label": "\ud83d\udd25 STEAM -1000 \u2190 -1450",
+          "old_ml": "-1450",
+          "new_ml": "-1000"
         },
-        "snapshot_time": "April 06, 2026 at 06:20 AM UTC"
+        "snapshot_time": "April 06, 2026 at 02:17 PM UTC"
       },
       "fatigue": {
         "home": {
@@ -362,7 +350,7 @@
         "\ud83d\udd25 Sharp steam detected",
         "\ud83d\udca4 MEM fatigued (B2B) \u2014 source: ESPN"
       ],
-      "injury_notes": "Cam Spencer (G); Javon Small (G); Jahmai Mashack (G); GG Jackson (F)",
+      "injury_notes": "Taylor Hendricks (F); Taj Gibson (F); Javon Small (G); Jahmai Mashack (G)",
       "sharp": {
         "away_t": null,
         "home_t": null,
@@ -399,8 +387,8 @@
       "briefing": {
         "trend": "MEM on Back-to-Back \u26a0\ufe0f per ESPN schedule data. CLE on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -1350 to -1450 (100pt move) \u2014 heavy professional action on Cleveland Cavaliers.",
-        "injury_notes": "Cam Spencer (G); Javon Small (G); Jahmai Mashack (G); GG Jackson (F)"
+        "steam": "Line steamed from -1450 to -1000 (450pt move) \u2014 heavy professional action on Cleveland Cavaliers.",
+        "injury_notes": "Taylor Hendricks (F); Taj Gibson (F); Javon Small (G); Jahmai Mashack (G)"
       },
       "live": {
         "status": "pre",
@@ -413,22 +401,16 @@
       },
       "news": [
         {
-          "title": "Caleb Wilson's 2025-26 season in review",
-          "source": "USA Today",
-          "link": "https://tarheelswire.usatoday.com/story/sports/college/tarheels/mens-basketball/2026/04/05/unc-basketball-caleb-wilson-2025-26-season-in-review/89446478007/",
-          "published": "2026-04-05T14:01:02Z"
+          "title": "Double Dose: Flavor Flav visits Fenway Park and TD Garden on same day",
+          "source": "Abcnews.com",
+          "link": "https://abcnews.com/Entertainment/wireStory/double-dose-flavor-flav-visits-fenway-park-td-131752307",
+          "published": "2026-04-05T23:52:54Z"
         },
         {
-          "title": "Brooklyn Nets jersey history No. 52 - Buck Williams (1982-89)",
-          "source": "USA Today",
-          "link": "https://netswire.usatoday.com/story/sports/nba/nets/2026/04/05/nets-jersey-history-no-52-buck-williams-1982-89/89340856007/",
-          "published": "2026-04-05T14:00:26Z"
-        },
-        {
-          "title": "Inside the Multibillion-Dollar Business of Child Influencers",
-          "source": "Rolling Stone",
-          "link": "http://www.rollingstone.com/culture/culture-features/child-influencers-book-excerpt-1235541403/",
-          "published": "2026-04-05T14:00:00Z"
+          "title": "Swanson: Gabriela Jaquez achieves the UCLA championship she always dreamed of",
+          "source": "Yahoo Entertainment",
+          "link": "https://sports.yahoo.com/articles/swanson-gabriela-jaquez-achieves-ucla-234819781.html",
+          "published": "2026-04-05T23:48:19Z"
         }
       ]
     },
@@ -455,30 +437,30 @@
       "commence_time": "2026-04-07T00:10:00Z",
       "line_movement": {
         "home": {
-          "direction": "shorter",
-          "points_moved": 20,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -375 \u2190 -355",
-          "old_ml": "-355",
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "No movement",
+          "old_ml": "-375",
           "new_ml": "-375"
         },
         "away": {
-          "direction": "longer",
-          "points_moved": 15,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM +295 \u2190 +280",
-          "old_ml": "+280",
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "No movement",
+          "old_ml": "+295",
           "new_ml": "+295"
         },
         "pick": {
-          "direction": "shorter",
-          "points_moved": 20,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -375 \u2190 -355",
-          "old_ml": "-355",
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "No movement",
+          "old_ml": "-375",
           "new_ml": "-375"
         },
-        "snapshot_time": "April 06, 2026 at 06:20 AM UTC"
+        "snapshot_time": "April 06, 2026 at 02:17 PM UTC"
       },
       "fatigue": {
         "home": {
@@ -505,7 +487,7 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udd25 Sharp steam detected"
+        "\ud83d\udcca 51.4pt probability edge"
       ],
       "injury_notes": "Emanuel Miller (F); David Jones Garcia (F); Cameron Payne (PG); Johni Broome (F)",
       "sharp": {
@@ -544,7 +526,7 @@
       "briefing": {
         "trend": "San Antonio Spurs hold a 75.7% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -355 to -375 (20pt move) \u2014 heavy professional action on San Antonio Spurs.",
+        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "Emanuel Miller (F); David Jones Garcia (F); Cameron Payne (PG); Johni Broome (F)"
       },
       "live": {
@@ -558,22 +540,16 @@
       },
       "news": [
         {
-          "title": "Caleb Wilson's 2025-26 season in review",
-          "source": "USA Today",
-          "link": "https://tarheelswire.usatoday.com/story/sports/college/tarheels/mens-basketball/2026/04/05/unc-basketball-caleb-wilson-2025-26-season-in-review/89446478007/",
-          "published": "2026-04-05T14:01:02Z"
+          "title": "Double Dose: Flavor Flav visits Fenway Park and TD Garden on same day",
+          "source": "Abcnews.com",
+          "link": "https://abcnews.com/Entertainment/wireStory/double-dose-flavor-flav-visits-fenway-park-td-131752307",
+          "published": "2026-04-05T23:52:54Z"
         },
         {
-          "title": "Brooklyn Nets jersey history No. 52 - Buck Williams (1982-89)",
-          "source": "USA Today",
-          "link": "https://netswire.usatoday.com/story/sports/nba/nets/2026/04/05/nets-jersey-history-no-52-buck-williams-1982-89/89340856007/",
-          "published": "2026-04-05T14:00:26Z"
-        },
-        {
-          "title": "Inside the Multibillion-Dollar Business of Child Influencers",
-          "source": "Rolling Stone",
-          "link": "http://www.rollingstone.com/culture/culture-features/child-influencers-book-excerpt-1235541403/",
-          "published": "2026-04-05T14:00:00Z"
+          "title": "Swanson: Gabriela Jaquez achieves the UCLA championship she always dreamed of",
+          "source": "Yahoo Entertainment",
+          "link": "https://sports.yahoo.com/articles/swanson-gabriela-jaquez-achieves-ucla-234819781.html",
+          "published": "2026-04-05T23:48:19Z"
         }
       ]
     },
@@ -589,7 +565,7 @@
       "away_ml_raw": 270,
       "home_prob": 74.1,
       "away_prob": 25.9,
-      "spread": "DEN -8.5",
+      "spread": "DEN -7.5",
       "favorite": "Denver Nuggets",
       "pick": "Denver Nuggets",
       "pick_abbr": "DEN",
@@ -623,7 +599,7 @@
           "old_ml": "-340",
           "new_ml": "-340"
         },
-        "snapshot_time": "April 06, 2026 at 06:20 AM UTC"
+        "snapshot_time": "April 06, 2026 at 02:17 PM UTC"
       },
       "fatigue": {
         "home": {
@@ -703,10 +679,16 @@
       },
       "news": [
         {
-          "title": "Jokic outduels Wemby in 'amazing' OT thriller",
-          "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/nba/story/_/id/48400333/jokic-outduels-wembanyama-amazing-ot-thriller",
-          "published": "Mon, 6 Apr 2026 02:38:43 EST"
+          "title": "Double Dose: Flavor Flav visits Fenway Park and TD Garden on same day",
+          "source": "Abcnews.com",
+          "link": "https://abcnews.com/Entertainment/wireStory/double-dose-flavor-flav-visits-fenway-park-td-131752307",
+          "published": "2026-04-05T23:52:54Z"
+        },
+        {
+          "title": "Swanson: Gabriela Jaquez achieves the UCLA championship she always dreamed of",
+          "source": "Yahoo Entertainment",
+          "link": "https://sports.yahoo.com/articles/swanson-gabriela-jaquez-achieves-ucla-234819781.html",
+          "published": "2026-04-05T23:48:19Z"
         }
       ]
     },
@@ -716,18 +698,18 @@
       "away_team": "Miami Heat",
       "home_abbr": "TOR",
       "away_abbr": "MIA",
-      "home_ml": "N/A",
-      "away_ml": "N/A",
-      "home_ml_raw": null,
-      "away_ml_raw": null,
-      "home_prob": 50.0,
-      "away_prob": 50.0,
-      "spread": "N/A",
-      "favorite": "Toronto Raptors",
-      "pick": "Toronto Raptors",
-      "pick_abbr": "TOR",
-      "moneyline": "N/A",
-      "win_probability": 50.0,
+      "home_ml": "+100",
+      "away_ml": "-120",
+      "home_ml_raw": 100,
+      "away_ml_raw": -120,
+      "home_prob": 47.8,
+      "away_prob": 52.2,
+      "spread": "TOR +1.5",
+      "favorite": "Miami Heat",
+      "pick": "Miami Heat",
+      "pick_abbr": "MIA",
+      "moneyline": "-120",
+      "win_probability": 52.2,
       "confidence": "LOW",
       "confidence_stars": "\u2605\u2606\u2606",
       "commence_time": "2026-04-07T23:40:00Z",
@@ -756,7 +738,7 @@
           "old_ml": "\u2014",
           "new_ml": "\u2014"
         },
-        "snapshot_time": "April 06, 2026 at 06:20 AM UTC"
+        "snapshot_time": "April 06, 2026 at 02:17 PM UTC"
       },
       "fatigue": {
         "home": {
@@ -783,9 +765,9 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udcca 0.0pt probability edge"
+        "\ud83d\udca4 TOR fatigued (B2B) \u2014 source: ESPN"
       ],
-      "injury_notes": "Chucky Hepburn (G); Immanuel Quickley (G); Tyler Herro (G); Norman Powell (G)",
+      "injury_notes": "Sandro Mamukelashvili (F); Collin Murray-Boyles (F); Immanuel Quickley (G); Chucky Hepburn (G)",
       "sharp": {
         "away_t": null,
         "home_t": null,
@@ -823,7 +805,7 @@
         "trend": "TOR on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
         "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
-        "injury_notes": "Chucky Hepburn (G); Immanuel Quickley (G); Tyler Herro (G); Norman Powell (G)"
+        "injury_notes": "Sandro Mamukelashvili (F); Collin Murray-Boyles (F); Immanuel Quickley (G); Chucky Hepburn (G)"
       },
       "live": {
         "status": "pre",
@@ -836,22 +818,16 @@
       },
       "news": [
         {
-          "title": "Nikola Jokic does what no one else has in the 3-point era with stunning display vs Spurs",
-          "source": "HITC - Football, Gaming, Movies, TV, Music",
-          "link": "https://www.hitc.com/nikola-jokic-does-what-no-one-else-has-in-the-3-point-era-with-stunning-display-vs-spurs/",
-          "published": "2026-04-05T14:17:44Z"
+          "title": "Double Dose: Flavor Flav visits Fenway Park and TD Garden on same day",
+          "source": "Abcnews.com",
+          "link": "https://abcnews.com/Entertainment/wireStory/double-dose-flavor-flav-visits-fenway-park-td-131752307",
+          "published": "2026-04-05T23:52:54Z"
         },
         {
-          "title": "Caleb Wilson's 2025-26 season in review",
-          "source": "USA Today",
-          "link": "https://tarheelswire.usatoday.com/story/sports/college/tarheels/mens-basketball/2026/04/05/unc-basketball-caleb-wilson-2025-26-season-in-review/89446478007/",
-          "published": "2026-04-05T14:01:02Z"
-        },
-        {
-          "title": "Brooklyn Nets jersey history No. 52 - Buck Williams (1982-89)",
-          "source": "USA Today",
-          "link": "https://netswire.usatoday.com/story/sports/nba/nets/2026/04/05/nets-jersey-history-no-52-buck-williams-1982-89/89340856007/",
-          "published": "2026-04-05T14:00:26Z"
+          "title": "Swanson: Gabriela Jaquez achieves the UCLA championship she always dreamed of",
+          "source": "Yahoo Entertainment",
+          "link": "https://sports.yahoo.com/articles/swanson-gabriela-jaquez-achieves-ucla-234819781.html",
+          "published": "2026-04-05T23:48:19Z"
         }
       ]
     },
@@ -861,20 +837,20 @@
       "away_team": "Charlotte Hornets",
       "home_abbr": "BOS",
       "away_abbr": "CHA",
-      "home_ml": "N/A",
-      "away_ml": "N/A",
-      "home_ml_raw": null,
-      "away_ml_raw": null,
-      "home_prob": 50.0,
-      "away_prob": 50.0,
-      "spread": "N/A",
+      "home_ml": "-230",
+      "away_ml": "+190",
+      "home_ml_raw": -230,
+      "away_ml_raw": 190,
+      "home_prob": 66.9,
+      "away_prob": 33.1,
+      "spread": "BOS -6.5",
       "favorite": "Boston Celtics",
       "pick": "Boston Celtics",
       "pick_abbr": "BOS",
-      "moneyline": "N/A",
-      "win_probability": 50.0,
-      "confidence": "LOW",
-      "confidence_stars": "\u2605\u2606\u2606",
+      "moneyline": "-230",
+      "win_probability": 66.9,
+      "confidence": "MEDIUM",
+      "confidence_stars": "\u2605\u2605\u2606",
       "commence_time": "2026-04-08T00:10:00Z",
       "line_movement": {
         "home": {
@@ -901,7 +877,7 @@
           "old_ml": "\u2014",
           "new_ml": "\u2014"
         },
-        "snapshot_time": "April 06, 2026 at 06:20 AM UTC"
+        "snapshot_time": "April 06, 2026 at 02:17 PM UTC"
       },
       "fatigue": {
         "home": {
@@ -930,7 +906,7 @@
       "edge_factors": [
         "\ud83d\udca4 CHA fatigued (B2B) \u2014 source: ESPN"
       ],
-      "injury_notes": "PJ Hall (C)",
+      "injury_notes": "Coby White (G); PJ Hall (C)",
       "sharp": {
         "away_t": null,
         "home_t": null,
@@ -968,7 +944,7 @@
         "trend": "BOS on Back-to-Back \u26a0\ufe0f per ESPN schedule data. CHA on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
         "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
-        "injury_notes": "PJ Hall (C)"
+        "injury_notes": "Coby White (G); PJ Hall (C)"
       },
       "live": {
         "status": "pre",
@@ -981,22 +957,16 @@
       },
       "news": [
         {
-          "title": "Nikola Jokic does what no one else has in the 3-point era with stunning display vs Spurs",
-          "source": "HITC - Football, Gaming, Movies, TV, Music",
-          "link": "https://www.hitc.com/nikola-jokic-does-what-no-one-else-has-in-the-3-point-era-with-stunning-display-vs-spurs/",
-          "published": "2026-04-05T14:17:44Z"
+          "title": "Double Dose: Flavor Flav visits Fenway Park and TD Garden on same day",
+          "source": "Abcnews.com",
+          "link": "https://abcnews.com/Entertainment/wireStory/double-dose-flavor-flav-visits-fenway-park-td-131752307",
+          "published": "2026-04-05T23:52:54Z"
         },
         {
-          "title": "Caleb Wilson's 2025-26 season in review",
-          "source": "USA Today",
-          "link": "https://tarheelswire.usatoday.com/story/sports/college/tarheels/mens-basketball/2026/04/05/unc-basketball-caleb-wilson-2025-26-season-in-review/89446478007/",
-          "published": "2026-04-05T14:01:02Z"
-        },
-        {
-          "title": "Brooklyn Nets jersey history No. 52 - Buck Williams (1982-89)",
-          "source": "USA Today",
-          "link": "https://netswire.usatoday.com/story/sports/nba/nets/2026/04/05/nets-jersey-history-no-52-buck-williams-1982-89/89340856007/",
-          "published": "2026-04-05T14:00:26Z"
+          "title": "Swanson: Gabriela Jaquez achieves the UCLA championship she always dreamed of",
+          "source": "Yahoo Entertainment",
+          "link": "https://sports.yahoo.com/articles/swanson-gabriela-jaquez-achieves-ucla-234819781.html",
+          "published": "2026-04-05T23:48:19Z"
         }
       ]
     },
@@ -1006,20 +976,20 @@
       "away_team": "Dallas Mavericks",
       "home_abbr": "LAC",
       "away_abbr": "DAL",
-      "home_ml": "N/A",
-      "away_ml": "N/A",
-      "home_ml_raw": null,
-      "away_ml_raw": null,
-      "home_prob": 50.0,
-      "away_prob": 50.0,
-      "spread": "N/A",
+      "home_ml": "-535",
+      "away_ml": "+400",
+      "home_ml_raw": -535,
+      "away_ml_raw": 400,
+      "home_prob": 80.8,
+      "away_prob": 19.2,
+      "spread": "LAC -11.5",
       "favorite": "Los Angeles Clippers",
       "pick": "Los Angeles Clippers",
       "pick_abbr": "LAC",
-      "moneyline": "N/A",
-      "win_probability": 50.0,
-      "confidence": "LOW",
-      "confidence_stars": "\u2605\u2606\u2606",
+      "moneyline": "-535",
+      "win_probability": 80.8,
+      "confidence": "HIGH",
+      "confidence_stars": "\u2605\u2605\u2605",
       "commence_time": "2026-04-08T02:40:00Z",
       "line_movement": {
         "home": {
@@ -1046,7 +1016,7 @@
           "old_ml": "\u2014",
           "new_ml": "\u2014"
         },
-        "snapshot_time": "April 06, 2026 at 06:20 AM UTC"
+        "snapshot_time": "April 06, 2026 at 02:17 PM UTC"
       },
       "fatigue": {
         "home": {
@@ -1075,7 +1045,7 @@
       "edge_factors": [
         "\ud83d\udca4 DAL fatigued (B2B) \u2014 source: ESPN"
       ],
-      "injury_notes": "Isaiah Jackson (F); Yanic Konan Niederhauser (C); Bradley Beal (G); Daniel Gafford (F)",
+      "injury_notes": "Isaiah Jackson (F); Yanic Konan Niederhauser (C); Bradley Beal (G); Brandon Williams (G)",
       "sharp": {
         "away_t": null,
         "home_t": null,
@@ -1113,7 +1083,7 @@
         "trend": "LAC on Back-to-Back \u26a0\ufe0f per ESPN schedule data. DAL on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
         "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
-        "injury_notes": "Isaiah Jackson (F); Yanic Konan Niederhauser (C); Bradley Beal (G); Daniel Gafford (F)"
+        "injury_notes": "Isaiah Jackson (F); Yanic Konan Niederhauser (C); Bradley Beal (G); Brandon Williams (G)"
       },
       "live": {
         "status": "pre",
@@ -1126,22 +1096,16 @@
       },
       "news": [
         {
-          "title": "Nikola Jokic does what no one else has in the 3-point era with stunning display vs Spurs",
-          "source": "HITC - Football, Gaming, Movies, TV, Music",
-          "link": "https://www.hitc.com/nikola-jokic-does-what-no-one-else-has-in-the-3-point-era-with-stunning-display-vs-spurs/",
-          "published": "2026-04-05T14:17:44Z"
+          "title": "Double Dose: Flavor Flav visits Fenway Park and TD Garden on same day",
+          "source": "Abcnews.com",
+          "link": "https://abcnews.com/Entertainment/wireStory/double-dose-flavor-flav-visits-fenway-park-td-131752307",
+          "published": "2026-04-05T23:52:54Z"
         },
         {
-          "title": "Caleb Wilson's 2025-26 season in review",
-          "source": "USA Today",
-          "link": "https://tarheelswire.usatoday.com/story/sports/college/tarheels/mens-basketball/2026/04/05/unc-basketball-caleb-wilson-2025-26-season-in-review/89446478007/",
-          "published": "2026-04-05T14:01:02Z"
-        },
-        {
-          "title": "Brooklyn Nets jersey history No. 52 - Buck Williams (1982-89)",
-          "source": "USA Today",
-          "link": "https://netswire.usatoday.com/story/sports/nba/nets/2026/04/05/nets-jersey-history-no-52-buck-williams-1982-89/89340856007/",
-          "published": "2026-04-05T14:00:26Z"
+          "title": "Swanson: Gabriela Jaquez achieves the UCLA championship she always dreamed of",
+          "source": "Yahoo Entertainment",
+          "link": "https://sports.yahoo.com/articles/swanson-gabriela-jaquez-achieves-ucla-234819781.html",
+          "published": "2026-04-05T23:48:19Z"
         }
       ]
     },
@@ -1151,20 +1115,20 @@
       "away_team": "Oklahoma City Thunder",
       "home_abbr": "LAL",
       "away_abbr": "OKC",
-      "home_ml": "N/A",
-      "away_ml": "N/A",
-      "home_ml_raw": null,
-      "away_ml_raw": null,
-      "home_prob": 50.0,
-      "away_prob": 50.0,
-      "spread": "N/A",
-      "favorite": "Los Angeles Lakers",
-      "pick": "Los Angeles Lakers",
-      "pick_abbr": "LAL",
-      "moneyline": "N/A",
-      "win_probability": 50.0,
-      "confidence": "LOW",
-      "confidence_stars": "\u2605\u2606\u2606",
+      "home_ml": "+850",
+      "away_ml": "-1450",
+      "home_ml_raw": 850,
+      "away_ml_raw": -1450,
+      "home_prob": 10.1,
+      "away_prob": 89.9,
+      "spread": "LAL +15.5",
+      "favorite": "Oklahoma City Thunder",
+      "pick": "Oklahoma City Thunder",
+      "pick_abbr": "OKC",
+      "moneyline": "-1450",
+      "win_probability": 89.9,
+      "confidence": "HIGH",
+      "confidence_stars": "\u2605\u2605\u2605",
       "commence_time": "2026-04-08T02:40:00Z",
       "line_movement": {
         "home": {
@@ -1191,7 +1155,7 @@
           "old_ml": "\u2014",
           "new_ml": "\u2014"
         },
-        "snapshot_time": "April 06, 2026 at 06:20 AM UTC"
+        "snapshot_time": "April 06, 2026 at 02:17 PM UTC"
       },
       "fatigue": {
         "home": {
@@ -1218,7 +1182,7 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udca4 OKC fatigued (B2B) \u2014 source: ESPN"
+        "\ud83d\udca4 LAL fatigued (B2B) \u2014 source: ESPN"
       ],
       "injury_notes": "Luka Doncic (G); Marcus Smart (G); Austin Reaves (G); Thomas Sorber (C)",
       "sharp": {
@@ -1271,16 +1235,10 @@
       },
       "news": [
         {
-          "title": "Luka to seek care in Europe, aims for playoffs",
-          "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/nba/story/_/id/48409097/luka-doncic-hamstring-seek-specialized-treatment-europe",
-          "published": "Mon, 6 Apr 2026 02:38:43 EST"
-        },
-        {
           "title": "Bucks poke fun at LeBron James with caption referencing 'everyone's two favorite cities'",
           "source": "www.espn.com - NBA",
           "link": "https://www.espn.com/nba/story/_/id/48407895/milwaukee-bucks-poke-fun-lebron-james-memphis-nba-comments",
-          "published": "Sun, 5 Apr 2026 22:36:59 EST"
+          "published": "Mon, 6 Apr 2026 11:01:38 EST"
         }
       ]
     },
@@ -1290,18 +1248,18 @@
       "away_team": "Houston Rockets",
       "home_abbr": "PHX",
       "away_abbr": "HOU",
-      "home_ml": "N/A",
-      "away_ml": "N/A",
-      "home_ml_raw": null,
-      "away_ml_raw": null,
-      "home_prob": 50.0,
-      "away_prob": 50.0,
-      "spread": "N/A",
-      "favorite": "Phoenix Suns",
-      "pick": "Phoenix Suns",
-      "pick_abbr": "PHX",
-      "moneyline": "N/A",
-      "win_probability": 50.0,
+      "home_ml": "+100",
+      "away_ml": "-120",
+      "home_ml_raw": 100,
+      "away_ml_raw": -120,
+      "home_prob": 47.8,
+      "away_prob": 52.2,
+      "spread": "PHX +1.5",
+      "favorite": "Houston Rockets",
+      "pick": "Houston Rockets",
+      "pick_abbr": "HOU",
+      "moneyline": "-120",
+      "win_probability": 52.2,
       "confidence": "LOW",
       "confidence_stars": "\u2605\u2606\u2606",
       "commence_time": "2026-04-08T03:10:00Z",
@@ -1330,7 +1288,7 @@
           "old_ml": "\u2014",
           "new_ml": "\u2014"
         },
-        "snapshot_time": "April 06, 2026 at 06:20 AM UTC"
+        "snapshot_time": "April 06, 2026 at 02:17 PM UTC"
       },
       "fatigue": {
         "home": {
@@ -1357,9 +1315,9 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udca4 HOU fatigued (B2B) \u2014 source: ESPN"
+        "\ud83d\udca4 PHX fatigued (B2B) \u2014 source: ESPN"
       ],
-      "injury_notes": "Dillon Brooks (F); Haywood Highsmith (F); Steven Adams (C); Fred VanVleet (G)",
+      "injury_notes": "Haywood Highsmith (F); Steven Adams (C); Fred VanVleet (G)",
       "sharp": {
         "away_t": null,
         "home_t": null,
@@ -1397,7 +1355,7 @@
         "trend": "PHX on Back-to-Back \u26a0\ufe0f per ESPN schedule data. HOU on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
         "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
-        "injury_notes": "Dillon Brooks (F); Haywood Highsmith (F); Steven Adams (C); Fred VanVleet (G)"
+        "injury_notes": "Haywood Highsmith (F); Steven Adams (C); Fred VanVleet (G)"
       },
       "live": {
         "status": "pre",
@@ -1413,7 +1371,7 @@
           "title": "Curry returns, puts Warriors 'back in the fight'",
           "source": "www.espn.com - NBA",
           "link": "https://www.espn.com/nba/story/_/id/48409996/stephen-curry-puts-29-return-nearly-hands-warriors-win",
-          "published": "Mon, 6 Apr 2026 02:38:43 EST"
+          "published": "Mon, 6 Apr 2026 16:01:59 EST"
         }
       ]
     }
