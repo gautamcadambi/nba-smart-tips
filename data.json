@@ -1,5 +1,5 @@
 {
-  "last_updated": "April 06, 2026 at 06:20 AM UTC",
+  "last_updated": "April 06, 2026 at 02:17 PM UTC",
   "total_games": 10,
   "games": [
     {
@@ -8,47 +8,47 @@
       "away_team": "New York Knicks",
       "home_abbr": "ATL",
       "away_abbr": "NYK",
-      "home_ml": "-118",
-      "away_ml": "-102",
-      "home_ml_raw": -118,
-      "away_ml_raw": -102,
-      "home_prob": 51.7,
-      "away_prob": 48.3,
+      "home_ml": "-120",
+      "away_ml": "+100",
+      "home_ml_raw": -120,
+      "away_ml_raw": 100,
+      "home_prob": 52.2,
+      "away_prob": 47.8,
       "spread": "ATL -1.5",
       "favorite": "Atlanta Hawks",
       "pick": "Atlanta Hawks",
       "pick_abbr": "ATL",
-      "moneyline": "-118",
-      "win_probability": 51.7,
+      "moneyline": "-120",
+      "win_probability": 52.2,
       "confidence": "LOW",
       "confidence_stars": "\u2605\u2606\u2606",
       "commence_time": "2026-04-06T23:10:00Z",
       "line_movement": {
         "home": {
-          "direction": "none",
-          "points_moved": 0,
+          "direction": "shorter",
+          "points_moved": 2,
           "steam": false,
-          "label": "No movement",
+          "label": "\ud83d\udfe2 -120 \u2190 -118",
           "old_ml": "-118",
-          "new_ml": "-118"
+          "new_ml": "-120"
         },
         "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "longer",
+          "points_moved": 202,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM +100 \u2190 -102",
           "old_ml": "-102",
-          "new_ml": "-102"
+          "new_ml": "+100"
         },
         "pick": {
-          "direction": "none",
-          "points_moved": 0,
+          "direction": "shorter",
+          "points_moved": 2,
           "steam": false,
-          "label": "No movement",
+          "label": "\ud83d\udfe2 -120 \u2190 -118",
           "old_ml": "-118",
-          "new_ml": "-118"
+          "new_ml": "-120"
         },
-        "snapshot_time": "April 06, 2026 at 06:14 AM UTC"
+        "snapshot_time": "April 06, 2026 at 06:20 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -75,7 +75,7 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udcca 3.4pt probability edge"
+        "\ud83d\udd25 Sharp steam detected"
       ],
       "injury_notes": "Jock Landale (C)",
       "sharp": {
@@ -112,9 +112,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "Atlanta Hawks hold a 51.7% edge.",
+        "trend": "Atlanta Hawks hold a 52.2% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "steam": "Line moved -118\u2192-120 (2pts). Pending \u2014 check closer to tip-off",
         "injury_notes": "Jock Landale (C)"
       },
       "live": {
@@ -128,22 +128,22 @@
       },
       "news": [
         {
-          "title": "Jokic outduels Wembanyama in OT thriller #sports",
-          "source": "Alltoc.com",
-          "link": "https://alltoc.com/sports/jokic-outduels-wembanyama-in-ot-thriller",
-          "published": "2026-04-05T06:03:07Z"
+          "title": "Caleb Wilson's 2025-26 season in review",
+          "source": "USA Today",
+          "link": "https://tarheelswire.usatoday.com/story/sports/college/tarheels/mens-basketball/2026/04/05/unc-basketball-caleb-wilson-2025-26-season-in-review/89446478007/",
+          "published": "2026-04-05T14:01:02Z"
         },
         {
-          "title": "Michigan's unstoppable team meets UConn's immovable program in a heavyweight NCAA title bout for the ages",
-          "source": "CBS Sports",
-          "link": "https://www.cbssports.com/college-basketball/news/michigan-uconn-unstoppable-ncaa-title-bout-for-the-ages/",
-          "published": "2026-04-05T05:49:37Z"
+          "title": "Brooklyn Nets jersey history No. 52 - Buck Williams (1982-89)",
+          "source": "USA Today",
+          "link": "https://netswire.usatoday.com/story/sports/nba/nets/2026/04/05/nets-jersey-history-no-52-buck-williams-1982-89/89340856007/",
+          "published": "2026-04-05T14:00:26Z"
         },
         {
-          "title": "sfmm added to PyPI",
-          "source": "Pypi.org",
-          "link": "https://pypi.org/project/sfmm/",
-          "published": "2026-04-05T05:49:02Z"
+          "title": "Inside the Multibillion-Dollar Business of Child Influencers",
+          "source": "Rolling Stone",
+          "link": "http://www.rollingstone.com/culture/culture-features/child-influencers-book-excerpt-1235541403/",
+          "published": "2026-04-05T14:00:00Z"
         }
       ]
     },
@@ -153,47 +153,47 @@
       "away_team": "Detroit Pistons",
       "home_abbr": "ORL",
       "away_abbr": "DET",
-      "home_ml": "+130",
-      "away_ml": "-155",
-      "home_ml_raw": 130,
-      "away_ml_raw": -155,
-      "home_prob": 41.7,
-      "away_prob": 58.3,
-      "spread": "ORL +3.5",
+      "home_ml": "+124",
+      "away_ml": "-148",
+      "home_ml_raw": 124,
+      "away_ml_raw": -148,
+      "home_prob": 42.8,
+      "away_prob": 57.2,
+      "spread": "ORL +2.5",
       "favorite": "Detroit Pistons",
       "pick": "Detroit Pistons",
       "pick_abbr": "DET",
-      "moneyline": "-155",
-      "win_probability": 58.3,
-      "confidence": "MEDIUM",
-      "confidence_stars": "\u2605\u2605\u2606",
+      "moneyline": "-148",
+      "win_probability": 57.2,
+      "confidence": "LOW",
+      "confidence_stars": "\u2605\u2606\u2606",
       "commence_time": "2026-04-06T23:10:00Z",
       "line_movement": {
         "home": {
-          "direction": "none",
-          "points_moved": 0,
+          "direction": "shorter",
+          "points_moved": 6,
           "steam": false,
-          "label": "No movement",
+          "label": "\ud83d\udfe2 +124 \u2190 +130",
           "old_ml": "+130",
-          "new_ml": "+130"
+          "new_ml": "+124"
         },
         "away": {
-          "direction": "none",
-          "points_moved": 0,
+          "direction": "longer",
+          "points_moved": 7,
           "steam": false,
-          "label": "No movement",
+          "label": "\ud83d\udd34 -148 \u2190 -155",
           "old_ml": "-155",
-          "new_ml": "-155"
+          "new_ml": "-148"
         },
         "pick": {
-          "direction": "none",
-          "points_moved": 0,
+          "direction": "longer",
+          "points_moved": 7,
           "steam": false,
-          "label": "No movement",
+          "label": "\ud83d\udd34 -148 \u2190 -155",
           "old_ml": "-155",
-          "new_ml": "-155"
+          "new_ml": "-148"
         },
-        "snapshot_time": "April 06, 2026 at 06:14 AM UTC"
+        "snapshot_time": "April 06, 2026 at 06:20 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -222,7 +222,7 @@
       "edge_factors": [
         "\ud83d\udca4 ORL fatigued (B2B) \u2014 source: ESPN"
       ],
-      "injury_notes": "Jett Howard (G); Anthony Black (G); Jonathan Isaac (F); Isaiah Stewart (F)",
+      "injury_notes": "Franz Wagner (F); Jett Howard (G); Anthony Black (G); Jonathan Isaac (F)",
       "sharp": {
         "away_t": null,
         "home_t": null,
@@ -259,8 +259,8 @@
       "briefing": {
         "trend": "ORL on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
-        "injury_notes": "Jett Howard (G); Anthony Black (G); Jonathan Isaac (F); Isaiah Stewart (F)"
+        "steam": "Line moved -155\u2192-148 (7pts). Pending \u2014 check closer to tip-off",
+        "injury_notes": "Franz Wagner (F); Jett Howard (G); Anthony Black (G); Jonathan Isaac (F)"
       },
       "live": {
         "status": "pre",
@@ -276,7 +276,13 @@
           "title": "Pistons seal East's top seed as 'gritty' D steps up",
           "source": "www.espn.com - NBA",
           "link": "https://www.espn.com/nba/story/_/id/48400930/gritty-pistons-clinch-east-top-seed-missing-cade-cunningham",
-          "published": "Mon, 6 Apr 2026 00:30:23 EST"
+          "published": "Mon, 6 Apr 2026 02:38:43 EST"
+        },
+        {
+          "title": "NBA playoff watch: Seeds unsettled entering final week",
+          "source": "www.espn.com - NBA",
+          "link": "https://www.espn.com/nba/story/_/id/48287649/nba-playoff-watch-2026-standings-schedules-projections-clinchings",
+          "published": "Mon, 6 Apr 2026 10:02:54 EST"
         }
       ]
     },
@@ -286,47 +292,47 @@
       "away_team": "Cleveland Cavaliers",
       "home_abbr": "MEM",
       "away_abbr": "CLE",
-      "home_ml": "+800",
-      "away_ml": "-1350",
-      "home_ml_raw": 800,
-      "away_ml_raw": -1350,
-      "home_prob": 10.7,
-      "away_prob": 89.3,
-      "spread": "MEM +13.5",
+      "home_ml": "+850",
+      "away_ml": "-1450",
+      "home_ml_raw": 850,
+      "away_ml_raw": -1450,
+      "home_prob": 10.1,
+      "away_prob": 89.9,
+      "spread": "MEM +14.5",
       "favorite": "Cleveland Cavaliers",
       "pick": "Cleveland Cavaliers",
       "pick_abbr": "CLE",
-      "moneyline": "-1350",
-      "win_probability": 89.3,
+      "moneyline": "-1450",
+      "win_probability": 89.9,
       "confidence": "HIGH",
       "confidence_stars": "\u2605\u2605\u2605",
       "commence_time": "2026-04-07T00:10:00Z",
       "line_movement": {
         "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "longer",
+          "points_moved": 50,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM +850 \u2190 +800",
           "old_ml": "+800",
-          "new_ml": "+800"
+          "new_ml": "+850"
         },
         "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "shorter",
+          "points_moved": 100,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -1450 \u2190 -1350",
           "old_ml": "-1350",
-          "new_ml": "-1350"
+          "new_ml": "-1450"
         },
         "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "shorter",
+          "points_moved": 100,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -1450 \u2190 -1350",
           "old_ml": "-1350",
-          "new_ml": "-1350"
+          "new_ml": "-1450"
         },
-        "snapshot_time": "April 06, 2026 at 06:14 AM UTC"
+        "snapshot_time": "April 06, 2026 at 06:20 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -353,6 +359,7 @@
         }
       },
       "edge_factors": [
+        "\ud83d\udd25 Sharp steam detected",
         "\ud83d\udca4 MEM fatigued (B2B) \u2014 source: ESPN"
       ],
       "injury_notes": "Cam Spencer (G); Javon Small (G); Jahmai Mashack (G); GG Jackson (F)",
@@ -392,7 +399,7 @@
       "briefing": {
         "trend": "MEM on Back-to-Back \u26a0\ufe0f per ESPN schedule data. CLE on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "steam": "Line steamed from -1350 to -1450 (100pt move) \u2014 heavy professional action on Cleveland Cavaliers.",
         "injury_notes": "Cam Spencer (G); Javon Small (G); Jahmai Mashack (G); GG Jackson (F)"
       },
       "live": {
@@ -406,22 +413,22 @@
       },
       "news": [
         {
-          "title": "Jokic outduels Wembanyama in OT thriller #sports",
-          "source": "Alltoc.com",
-          "link": "https://alltoc.com/sports/jokic-outduels-wembanyama-in-ot-thriller",
-          "published": "2026-04-05T06:03:07Z"
+          "title": "Caleb Wilson's 2025-26 season in review",
+          "source": "USA Today",
+          "link": "https://tarheelswire.usatoday.com/story/sports/college/tarheels/mens-basketball/2026/04/05/unc-basketball-caleb-wilson-2025-26-season-in-review/89446478007/",
+          "published": "2026-04-05T14:01:02Z"
         },
         {
-          "title": "Michigan's unstoppable team meets UConn's immovable program in a heavyweight NCAA title bout for the ages",
-          "source": "CBS Sports",
-          "link": "https://www.cbssports.com/college-basketball/news/michigan-uconn-unstoppable-ncaa-title-bout-for-the-ages/",
-          "published": "2026-04-05T05:49:37Z"
+          "title": "Brooklyn Nets jersey history No. 52 - Buck Williams (1982-89)",
+          "source": "USA Today",
+          "link": "https://netswire.usatoday.com/story/sports/nba/nets/2026/04/05/nets-jersey-history-no-52-buck-williams-1982-89/89340856007/",
+          "published": "2026-04-05T14:00:26Z"
         },
         {
-          "title": "sfmm added to PyPI",
-          "source": "Pypi.org",
-          "link": "https://pypi.org/project/sfmm/",
-          "published": "2026-04-05T05:49:02Z"
+          "title": "Inside the Multibillion-Dollar Business of Child Influencers",
+          "source": "Rolling Stone",
+          "link": "http://www.rollingstone.com/culture/culture-features/child-influencers-book-excerpt-1235541403/",
+          "published": "2026-04-05T14:00:00Z"
         }
       ]
     },
@@ -431,47 +438,47 @@
       "away_team": "Philadelphia 76ers",
       "home_abbr": "SAS",
       "away_abbr": "PHI",
-      "home_ml": "-355",
-      "away_ml": "+280",
-      "home_ml_raw": -355,
-      "away_ml_raw": 280,
-      "home_prob": 74.8,
-      "away_prob": 25.2,
+      "home_ml": "-375",
+      "away_ml": "+295",
+      "home_ml_raw": -375,
+      "away_ml_raw": 295,
+      "home_prob": 75.7,
+      "away_prob": 24.3,
       "spread": "SAS -8.5",
       "favorite": "San Antonio Spurs",
       "pick": "San Antonio Spurs",
       "pick_abbr": "SAS",
-      "moneyline": "-355",
-      "win_probability": 74.8,
+      "moneyline": "-375",
+      "win_probability": 75.7,
       "confidence": "HIGH",
       "confidence_stars": "\u2605\u2605\u2605",
       "commence_time": "2026-04-07T00:10:00Z",
       "line_movement": {
         "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "shorter",
+          "points_moved": 20,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -375 \u2190 -355",
           "old_ml": "-355",
-          "new_ml": "-355"
+          "new_ml": "-375"
         },
         "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "longer",
+          "points_moved": 15,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM +295 \u2190 +280",
           "old_ml": "+280",
-          "new_ml": "+280"
+          "new_ml": "+295"
         },
         "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "shorter",
+          "points_moved": 20,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -375 \u2190 -355",
           "old_ml": "-355",
-          "new_ml": "-355"
+          "new_ml": "-375"
         },
-        "snapshot_time": "April 06, 2026 at 06:14 AM UTC"
+        "snapshot_time": "April 06, 2026 at 06:20 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -498,7 +505,7 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udcca 49.6pt probability edge"
+        "\ud83d\udd25 Sharp steam detected"
       ],
       "injury_notes": "Emanuel Miller (F); David Jones Garcia (F); Cameron Payne (PG); Johni Broome (F)",
       "sharp": {
@@ -535,9 +542,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "San Antonio Spurs hold a 74.8% edge.",
+        "trend": "San Antonio Spurs hold a 75.7% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "steam": "Line steamed from -355 to -375 (20pt move) \u2014 heavy professional action on San Antonio Spurs.",
         "injury_notes": "Emanuel Miller (F); David Jones Garcia (F); Cameron Payne (PG); Johni Broome (F)"
       },
       "live": {
@@ -551,22 +558,22 @@
       },
       "news": [
         {
-          "title": "Jokic outduels Wembanyama in OT thriller #sports",
-          "source": "Alltoc.com",
-          "link": "https://alltoc.com/sports/jokic-outduels-wembanyama-in-ot-thriller",
-          "published": "2026-04-05T06:03:07Z"
+          "title": "Caleb Wilson's 2025-26 season in review",
+          "source": "USA Today",
+          "link": "https://tarheelswire.usatoday.com/story/sports/college/tarheels/mens-basketball/2026/04/05/unc-basketball-caleb-wilson-2025-26-season-in-review/89446478007/",
+          "published": "2026-04-05T14:01:02Z"
         },
         {
-          "title": "Michigan's unstoppable team meets UConn's immovable program in a heavyweight NCAA title bout for the ages",
-          "source": "CBS Sports",
-          "link": "https://www.cbssports.com/college-basketball/news/michigan-uconn-unstoppable-ncaa-title-bout-for-the-ages/",
-          "published": "2026-04-05T05:49:37Z"
+          "title": "Brooklyn Nets jersey history No. 52 - Buck Williams (1982-89)",
+          "source": "USA Today",
+          "link": "https://netswire.usatoday.com/story/sports/nba/nets/2026/04/05/nets-jersey-history-no-52-buck-williams-1982-89/89340856007/",
+          "published": "2026-04-05T14:00:26Z"
         },
         {
-          "title": "sfmm added to PyPI",
-          "source": "Pypi.org",
-          "link": "https://pypi.org/project/sfmm/",
-          "published": "2026-04-05T05:49:02Z"
+          "title": "Inside the Multibillion-Dollar Business of Child Influencers",
+          "source": "Rolling Stone",
+          "link": "http://www.rollingstone.com/culture/culture-features/child-influencers-book-excerpt-1235541403/",
+          "published": "2026-04-05T14:00:00Z"
         }
       ]
     },
@@ -616,7 +623,7 @@
           "old_ml": "-340",
           "new_ml": "-340"
         },
-        "snapshot_time": "April 06, 2026 at 06:14 AM UTC"
+        "snapshot_time": "April 06, 2026 at 06:20 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -699,7 +706,7 @@
           "title": "Jokic outduels Wemby in 'amazing' OT thriller",
           "source": "www.espn.com - NBA",
           "link": "https://www.espn.com/nba/story/_/id/48400333/jokic-outduels-wembanyama-amazing-ot-thriller",
-          "published": "Mon, 6 Apr 2026 00:30:23 EST"
+          "published": "Mon, 6 Apr 2026 02:38:43 EST"
         }
       ]
     },
@@ -749,7 +756,7 @@
           "old_ml": "\u2014",
           "new_ml": "\u2014"
         },
-        "snapshot_time": "April 06, 2026 at 06:14 AM UTC"
+        "snapshot_time": "April 06, 2026 at 06:20 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -829,22 +836,22 @@
       },
       "news": [
         {
-          "title": "Jokic outduels Wembanyama in OT thriller #sports",
-          "source": "Alltoc.com",
-          "link": "https://alltoc.com/sports/jokic-outduels-wembanyama-in-ot-thriller",
-          "published": "2026-04-05T06:03:07Z"
+          "title": "Nikola Jokic does what no one else has in the 3-point era with stunning display vs Spurs",
+          "source": "HITC - Football, Gaming, Movies, TV, Music",
+          "link": "https://www.hitc.com/nikola-jokic-does-what-no-one-else-has-in-the-3-point-era-with-stunning-display-vs-spurs/",
+          "published": "2026-04-05T14:17:44Z"
         },
         {
-          "title": "Michigan's unstoppable team meets UConn's immovable program in a heavyweight NCAA title bout for the ages",
-          "source": "CBS Sports",
-          "link": "https://www.cbssports.com/college-basketball/news/michigan-uconn-unstoppable-ncaa-title-bout-for-the-ages/",
-          "published": "2026-04-05T05:49:37Z"
+          "title": "Caleb Wilson's 2025-26 season in review",
+          "source": "USA Today",
+          "link": "https://tarheelswire.usatoday.com/story/sports/college/tarheels/mens-basketball/2026/04/05/unc-basketball-caleb-wilson-2025-26-season-in-review/89446478007/",
+          "published": "2026-04-05T14:01:02Z"
         },
         {
-          "title": "sfmm added to PyPI",
-          "source": "Pypi.org",
-          "link": "https://pypi.org/project/sfmm/",
-          "published": "2026-04-05T05:49:02Z"
+          "title": "Brooklyn Nets jersey history No. 52 - Buck Williams (1982-89)",
+          "source": "USA Today",
+          "link": "https://netswire.usatoday.com/story/sports/nba/nets/2026/04/05/nets-jersey-history-no-52-buck-williams-1982-89/89340856007/",
+          "published": "2026-04-05T14:00:26Z"
         }
       ]
     },
@@ -894,7 +901,7 @@
           "old_ml": "\u2014",
           "new_ml": "\u2014"
         },
-        "snapshot_time": "April 06, 2026 at 06:14 AM UTC"
+        "snapshot_time": "April 06, 2026 at 06:20 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -974,22 +981,22 @@
       },
       "news": [
         {
-          "title": "Jokic outduels Wembanyama in OT thriller #sports",
-          "source": "Alltoc.com",
-          "link": "https://alltoc.com/sports/jokic-outduels-wembanyama-in-ot-thriller",
-          "published": "2026-04-05T06:03:07Z"
+          "title": "Nikola Jokic does what no one else has in the 3-point era with stunning display vs Spurs",
+          "source": "HITC - Football, Gaming, Movies, TV, Music",
+          "link": "https://www.hitc.com/nikola-jokic-does-what-no-one-else-has-in-the-3-point-era-with-stunning-display-vs-spurs/",
+          "published": "2026-04-05T14:17:44Z"
         },
         {
-          "title": "Michigan's unstoppable team meets UConn's immovable program in a heavyweight NCAA title bout for the ages",
-          "source": "CBS Sports",
-          "link": "https://www.cbssports.com/college-basketball/news/michigan-uconn-unstoppable-ncaa-title-bout-for-the-ages/",
-          "published": "2026-04-05T05:49:37Z"
+          "title": "Caleb Wilson's 2025-26 season in review",
+          "source": "USA Today",
+          "link": "https://tarheelswire.usatoday.com/story/sports/college/tarheels/mens-basketball/2026/04/05/unc-basketball-caleb-wilson-2025-26-season-in-review/89446478007/",
+          "published": "2026-04-05T14:01:02Z"
         },
         {
-          "title": "sfmm added to PyPI",
-          "source": "Pypi.org",
-          "link": "https://pypi.org/project/sfmm/",
-          "published": "2026-04-05T05:49:02Z"
+          "title": "Brooklyn Nets jersey history No. 52 - Buck Williams (1982-89)",
+          "source": "USA Today",
+          "link": "https://netswire.usatoday.com/story/sports/nba/nets/2026/04/05/nets-jersey-history-no-52-buck-williams-1982-89/89340856007/",
+          "published": "2026-04-05T14:00:26Z"
         }
       ]
     },
@@ -1039,7 +1046,7 @@
           "old_ml": "\u2014",
           "new_ml": "\u2014"
         },
-        "snapshot_time": "April 06, 2026 at 06:14 AM UTC"
+        "snapshot_time": "April 06, 2026 at 06:20 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -1119,22 +1126,22 @@
       },
       "news": [
         {
-          "title": "Jokic outduels Wembanyama in OT thriller #sports",
-          "source": "Alltoc.com",
-          "link": "https://alltoc.com/sports/jokic-outduels-wembanyama-in-ot-thriller",
-          "published": "2026-04-05T06:03:07Z"
+          "title": "Nikola Jokic does what no one else has in the 3-point era with stunning display vs Spurs",
+          "source": "HITC - Football, Gaming, Movies, TV, Music",
+          "link": "https://www.hitc.com/nikola-jokic-does-what-no-one-else-has-in-the-3-point-era-with-stunning-display-vs-spurs/",
+          "published": "2026-04-05T14:17:44Z"
         },
         {
-          "title": "Michigan's unstoppable team meets UConn's immovable program in a heavyweight NCAA title bout for the ages",
-          "source": "CBS Sports",
-          "link": "https://www.cbssports.com/college-basketball/news/michigan-uconn-unstoppable-ncaa-title-bout-for-the-ages/",
-          "published": "2026-04-05T05:49:37Z"
+          "title": "Caleb Wilson's 2025-26 season in review",
+          "source": "USA Today",
+          "link": "https://tarheelswire.usatoday.com/story/sports/college/tarheels/mens-basketball/2026/04/05/unc-basketball-caleb-wilson-2025-26-season-in-review/89446478007/",
+          "published": "2026-04-05T14:01:02Z"
         },
         {
-          "title": "sfmm added to PyPI",
-          "source": "Pypi.org",
-          "link": "https://pypi.org/project/sfmm/",
-          "published": "2026-04-05T05:49:02Z"
+          "title": "Brooklyn Nets jersey history No. 52 - Buck Williams (1982-89)",
+          "source": "USA Today",
+          "link": "https://netswire.usatoday.com/story/sports/nba/nets/2026/04/05/nets-jersey-history-no-52-buck-williams-1982-89/89340856007/",
+          "published": "2026-04-05T14:00:26Z"
         }
       ]
     },
@@ -1184,7 +1191,7 @@
           "old_ml": "\u2014",
           "new_ml": "\u2014"
         },
-        "snapshot_time": "April 06, 2026 at 06:14 AM UTC"
+        "snapshot_time": "April 06, 2026 at 06:20 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -1267,13 +1274,7 @@
           "title": "Luka to seek care in Europe, aims for playoffs",
           "source": "www.espn.com - NBA",
           "link": "https://www.espn.com/nba/story/_/id/48409097/luka-doncic-hamstring-seek-specialized-treatment-europe",
-          "published": "Mon, 6 Apr 2026 00:30:23 EST"
-        },
-        {
-          "title": "Sources: Lakers' Reaves (oblique) out 4-6 weeks",
-          "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/nba/story/_/id/48397148/lakers-reaves-oblique-remainder-regular-season",
-          "published": "Mon, 6 Apr 2026 00:30:23 EST"
+          "published": "Mon, 6 Apr 2026 02:38:43 EST"
         },
         {
           "title": "Bucks poke fun at LeBron James with caption referencing 'everyone's two favorite cities'",
@@ -1329,7 +1330,7 @@
           "old_ml": "\u2014",
           "new_ml": "\u2014"
         },
-        "snapshot_time": "April 06, 2026 at 06:14 AM UTC"
+        "snapshot_time": "April 06, 2026 at 06:20 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -1409,22 +1410,10 @@
       },
       "news": [
         {
-          "title": "Jokic outduels Wembanyama in OT thriller #sports",
-          "source": "Alltoc.com",
-          "link": "https://alltoc.com/sports/jokic-outduels-wembanyama-in-ot-thriller",
-          "published": "2026-04-05T06:03:07Z"
-        },
-        {
-          "title": "Michigan's unstoppable team meets UConn's immovable program in a heavyweight NCAA title bout for the ages",
-          "source": "CBS Sports",
-          "link": "https://www.cbssports.com/college-basketball/news/michigan-uconn-unstoppable-ncaa-title-bout-for-the-ages/",
-          "published": "2026-04-05T05:49:37Z"
-        },
-        {
-          "title": "sfmm added to PyPI",
-          "source": "Pypi.org",
-          "link": "https://pypi.org/project/sfmm/",
-          "published": "2026-04-05T05:49:02Z"
+          "title": "Curry returns, puts Warriors 'back in the fight'",
+          "source": "www.espn.com - NBA",
+          "link": "https://www.espn.com/nba/story/_/id/48409996/stephen-curry-puts-29-return-nearly-hands-warriors-win",
+          "published": "Mon, 6 Apr 2026 02:38:43 EST"
         }
       ]
     }
