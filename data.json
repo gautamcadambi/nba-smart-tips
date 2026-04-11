@@ -1,5 +1,5 @@
 {
-  "last_updated": "April 11, 2026 at 08:01 AM UTC",
+  "last_updated": "April 11, 2026 at 11:59 AM UTC",
   "total_games": 7,
   "games": [
     {
@@ -8,47 +8,47 @@
       "away_team": "Atlanta Hawks",
       "home_abbr": "MIA",
       "away_abbr": "ATL",
-      "home_ml": "+195",
-      "away_ml": "-238",
-      "home_ml_raw": 195,
-      "away_ml_raw": -238,
-      "home_prob": 32.5,
-      "away_prob": 67.5,
+      "home_ml": "+205",
+      "away_ml": "-250",
+      "home_ml_raw": 205,
+      "away_ml_raw": -250,
+      "home_prob": 31.5,
+      "away_prob": 68.5,
       "spread": "MIA +6.5",
       "favorite": "Atlanta Hawks",
       "pick": "Atlanta Hawks",
       "pick_abbr": "ATL",
-      "moneyline": "-238",
-      "win_probability": 67.5,
+      "moneyline": "-250",
+      "win_probability": 68.5,
       "confidence": "MEDIUM",
       "confidence_stars": "\u2605\u2605\u2606",
       "commence_time": "2026-04-12T22:10:00Z",
       "line_movement": {
         "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "longer",
+          "points_moved": 10,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM +205 \u2190 +195",
           "old_ml": "+195",
-          "new_ml": "+195"
+          "new_ml": "+205"
         },
         "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "shorter",
+          "points_moved": 12,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -250 \u2190 -238",
           "old_ml": "-238",
-          "new_ml": "-238"
+          "new_ml": "-250"
         },
         "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "shorter",
+          "points_moved": 12,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -250 \u2190 -238",
           "old_ml": "-238",
-          "new_ml": "-238"
+          "new_ml": "-250"
         },
-        "snapshot_time": "April 11, 2026 at 05:22 AM UTC"
+        "snapshot_time": "April 11, 2026 at 08:01 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -75,6 +75,7 @@
         }
       },
       "edge_factors": [
+        "\ud83d\udd25 Sharp steam detected",
         "\ud83d\udca4 MIA fatigued (B2B) \u2014 source: ESPN"
       ],
       "injury_notes": "Dru Smith (G); Norman Powell (G); Davion Mitchell (G); Tyler Herro (G)",
@@ -114,7 +115,7 @@
       "briefing": {
         "trend": "MIA on Back-to-Back \u26a0\ufe0f per ESPN schedule data. ATL on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "steam": "Line steamed from -238 to -250 (12pt move) \u2014 heavy professional action on Atlanta Hawks.",
         "injury_notes": "Dru Smith (G); Norman Powell (G); Davion Mitchell (G); Tyler Herro (G)"
       },
       "live": {
@@ -128,7 +129,7 @@
       },
       "news": [
         {
-          "title": "Heat waive Rozier, open roster spot for addition",
+          "title": "Heat waive Rozier, use roster spot on J. Young",
           "source": "www.espn.com - NBA",
           "link": "https://www.espn.com/nba/story/_/id/48447174/sources-heat-waive-embattled-guard-terry-rozier",
           "published": "Sat, 11 Apr 2026 00:53:43 EST"
@@ -181,7 +182,7 @@
           "old_ml": "-166",
           "new_ml": "-166"
         },
-        "snapshot_time": "April 11, 2026 at 05:22 AM UTC"
+        "snapshot_time": "April 11, 2026 at 08:01 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -264,10 +265,10 @@
           "title": "NBA playoff intel: Early buzz on the Lakers, Celtics, Cavs, Pistons Spurs and Warriors",
           "source": "www.espn.com - NBA",
           "link": "https://www.espn.com/nba/story/_/id/48443792/nba-playoffs-intel-lebron-lakers-chances-curry-warriors-issues-major-questions",
-          "published": "Fri, 10 Apr 2026 15:41:05 EST"
+          "published": "Sat, 11 Apr 2026 07:36:39 EST"
         },
         {
-          "title": "Celtics tie NBA record with 29 3s; clinch 2-seed",
+          "title": "Celtics tie NBA record with 29 3s, clinch 2-seed",
           "source": "www.espn.com - NBA",
           "link": "https://www.espn.com/nba/story/_/id/48453131/celtics-tie-nba-record-29-3s-clinch-no-2-seed",
           "published": "Sat, 11 Apr 2026 00:53:44 EST"
@@ -326,7 +327,7 @@
           "old_ml": "-290",
           "new_ml": "-290"
         },
-        "snapshot_time": "April 11, 2026 at 05:22 AM UTC"
+        "snapshot_time": "April 11, 2026 at 08:01 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -406,22 +407,22 @@
       },
       "news": [
         {
-          "title": "After a season of such misery for the Warriors, any postseason exit is merciful",
-          "source": "Nbcsportsbayarea.com",
-          "link": "https://www.nbcsportsbayarea.com/nba/golden-state-warriors/nba-playoffs-steph-curry-analysis/1930225/?partner=yahoo",
-          "published": "2026-04-10T07:35:13Z"
+          "title": "LeBron James makes NBA history with son-to-father assist",
+          "source": "The Punch",
+          "link": "https://punchng.com/lebron-james-makes-nba-history-with-son-to-father-assist/",
+          "published": "2026-04-10T11:55:42Z"
         },
         {
-          "title": "Joel Embiid has appendectomy, leaving former MVP\u2019s status for postseason in doubt - NBA",
-          "source": "Slashdot.org",
-          "link": "https://slashdot.org/firehose.pl?op=view&amp;id=181518178",
-          "published": "2026-04-10T07:32:06Z"
+          "title": "ADC crisis: NBA vows to sanction lawyers filing suits on party disputes",
+          "source": "Vanguard",
+          "link": "https://www.vanguardngr.com/2026/04/adc-crisis-nba-vows-to-sanction-lawyers-filing-suits-on-party-disputes/",
+          "published": "2026-04-10T11:49:34Z"
         },
         {
-          "title": "Stephen Curry Injury Update: Warriors Star Rested vs Lakers After Knee Return, Eyes Full Play-In Ramp-Up",
-          "source": "Ibtimes.com.au",
-          "link": "https://www.ibtimes.com.au/stephen-curry-injury-update-warriors-star-rested-vs-lakers-after-knee-return-eyes-full-play-ramp-1866019",
-          "published": "2026-04-10T07:15:15Z"
+          "title": "Predicting the winner of every MLB game on Friday, April 10th, 2026",
+          "source": "The Big Lead",
+          "link": "https://www.thebiglead.com/predicting-the-winner-of-every-mlb-game-on-friday-april-10th-2026/",
+          "published": "2026-04-10T11:48:00Z"
         }
       ]
     },
@@ -431,47 +432,47 @@
       "away_team": "Denver Nuggets",
       "home_abbr": "SAS",
       "away_abbr": "DEN",
-      "home_ml": "-115",
-      "away_ml": "-105",
-      "home_ml_raw": -115,
-      "away_ml_raw": -105,
-      "home_prob": 51.1,
-      "away_prob": 48.9,
+      "home_ml": "-135",
+      "away_ml": "+114",
+      "home_ml_raw": -135,
+      "away_ml_raw": 114,
+      "home_prob": 55.1,
+      "away_prob": 44.9,
       "spread": "SAS -1.5",
       "favorite": "San Antonio Spurs",
       "pick": "San Antonio Spurs",
       "pick_abbr": "SAS",
-      "moneyline": "-115",
-      "win_probability": 51.1,
+      "moneyline": "-135",
+      "win_probability": 55.1,
       "confidence": "LOW",
       "confidence_stars": "\u2605\u2606\u2606",
       "commence_time": "2026-04-13T00:40:00Z",
       "line_movement": {
         "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "direction": "shorter",
+          "points_moved": 20,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -135 \u2190 -115",
+          "old_ml": "-115",
+          "new_ml": "-135"
         },
         "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "direction": "longer",
+          "points_moved": 219,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM +114 \u2190 -105",
+          "old_ml": "-105",
+          "new_ml": "+114"
         },
         "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "direction": "shorter",
+          "points_moved": 20,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -135 \u2190 -115",
+          "old_ml": "-115",
+          "new_ml": "-135"
         },
-        "snapshot_time": "\u2014"
+        "snapshot_time": "April 11, 2026 at 08:01 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -498,6 +499,7 @@
         }
       },
       "edge_factors": [
+        "\ud83d\udd25 Sharp steam detected",
         "\ud83d\udca4 DEN fatigued (B2B) \u2014 source: ESPN"
       ],
       "injury_notes": "Stephon Castle (G); Jamal Murray (G); Nikola Jokic (C); Cameron Johnson (F)",
@@ -537,7 +539,7 @@
       "briefing": {
         "trend": "SAS on Back-to-Back \u26a0\ufe0f per ESPN schedule data. DEN on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "steam": "Line steamed from -115 to -135 (20pt move) \u2014 heavy professional action on San Antonio Spurs.",
         "injury_notes": "Stephon Castle (G); Jamal Murray (G); Nikola Jokic (C); Cameron Johnson (F)"
       },
       "live": {
@@ -554,7 +556,7 @@
           "title": "NBA playoff intel: Early buzz on the Lakers, Celtics, Cavs, Pistons Spurs and Warriors",
           "source": "www.espn.com - NBA",
           "link": "https://www.espn.com/nba/story/_/id/48443792/nba-playoffs-intel-lebron-lakers-chances-curry-warriors-issues-major-questions",
-          "published": "Fri, 10 Apr 2026 15:41:05 EST"
+          "published": "Sat, 11 Apr 2026 07:36:39 EST"
         }
       ]
     },
@@ -564,47 +566,47 @@
       "away_team": "Golden State Warriors",
       "home_abbr": "LAC",
       "away_abbr": "GSW",
-      "home_ml": "-340",
-      "away_ml": "+270",
-      "home_ml_raw": -340,
-      "away_ml_raw": 270,
-      "home_prob": 74.1,
-      "away_prob": 25.9,
+      "home_ml": "-355",
+      "away_ml": "+280",
+      "home_ml_raw": -355,
+      "away_ml_raw": 280,
+      "home_prob": 74.8,
+      "away_prob": 25.2,
       "spread": "LAC -8.5",
       "favorite": "Los Angeles Clippers",
       "pick": "Los Angeles Clippers",
       "pick_abbr": "LAC",
-      "moneyline": "-340",
-      "win_probability": 74.1,
+      "moneyline": "-355",
+      "win_probability": 74.8,
       "confidence": "HIGH",
       "confidence_stars": "\u2605\u2605\u2605",
       "commence_time": "2026-04-13T00:40:00Z",
       "line_movement": {
         "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "direction": "shorter",
+          "points_moved": 15,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -355 \u2190 -340",
+          "old_ml": "-340",
+          "new_ml": "-355"
         },
         "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "direction": "longer",
+          "points_moved": 10,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM +280 \u2190 +270",
+          "old_ml": "+270",
+          "new_ml": "+280"
         },
         "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "direction": "shorter",
+          "points_moved": 15,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -355 \u2190 -340",
+          "old_ml": "-340",
+          "new_ml": "-355"
         },
-        "snapshot_time": "\u2014"
+        "snapshot_time": "April 11, 2026 at 08:01 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -631,6 +633,7 @@
         }
       },
       "edge_factors": [
+        "\ud83d\udd25 Sharp steam detected",
         "\ud83d\udca4 GSW fatigued (B2B) \u2014 source: ESPN"
       ],
       "injury_notes": "Stephen Curry (G); Seth Curry (G)",
@@ -670,7 +673,7 @@
       "briefing": {
         "trend": "LAC on Back-to-Back \u26a0\ufe0f per ESPN schedule data. GSW on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "steam": "Line steamed from -340 to -355 (15pt move) \u2014 heavy professional action on Los Angeles Clippers.",
         "injury_notes": "Stephen Curry (G); Seth Curry (G)"
       },
       "live": {
@@ -687,7 +690,7 @@
           "title": "NBA playoff intel: Early buzz on the Lakers, Celtics, Cavs, Pistons Spurs and Warriors",
           "source": "www.espn.com - NBA",
           "link": "https://www.espn.com/nba/story/_/id/48443792/nba-playoffs-intel-lebron-lakers-chances-curry-warriors-issues-major-questions",
-          "published": "Fri, 10 Apr 2026 15:41:05 EST"
+          "published": "Sat, 11 Apr 2026 07:36:39 EST"
         }
       ]
     },
@@ -697,47 +700,47 @@
       "away_team": "Phoenix Suns",
       "home_abbr": "OKC",
       "away_abbr": "PHX",
-      "home_ml": "-238",
-      "away_ml": "+195",
-      "home_ml_raw": -238,
-      "away_ml_raw": 195,
-      "home_prob": 67.5,
-      "away_prob": 32.5,
+      "home_ml": "-250",
+      "away_ml": "+205",
+      "home_ml_raw": -250,
+      "away_ml_raw": 205,
+      "home_prob": 68.5,
+      "away_prob": 31.5,
       "spread": "OKC -5.5",
       "favorite": "Oklahoma City Thunder",
       "pick": "Oklahoma City Thunder",
       "pick_abbr": "OKC",
-      "moneyline": "-238",
-      "win_probability": 67.5,
+      "moneyline": "-250",
+      "win_probability": 68.5,
       "confidence": "MEDIUM",
       "confidence_stars": "\u2605\u2605\u2606",
       "commence_time": "2026-04-13T00:40:00Z",
       "line_movement": {
         "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "direction": "shorter",
+          "points_moved": 12,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -250 \u2190 -238",
+          "old_ml": "-238",
+          "new_ml": "-250"
         },
         "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "direction": "longer",
+          "points_moved": 10,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM +205 \u2190 +195",
+          "old_ml": "+195",
+          "new_ml": "+205"
         },
         "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "direction": "shorter",
+          "points_moved": 12,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -250 \u2190 -238",
+          "old_ml": "-238",
+          "new_ml": "-250"
         },
-        "snapshot_time": "\u2014"
+        "snapshot_time": "April 11, 2026 at 08:01 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -764,6 +767,7 @@
         }
       },
       "edge_factors": [
+        "\ud83d\udd25 Sharp steam detected",
         "\ud83d\udca4 PHX fatigued (B2B) \u2014 source: ESPN"
       ],
       "injury_notes": "Jaylin Williams (F); Jalen Williams (G); Cason Wallace (G); Ajay Mitchell (G)",
@@ -803,7 +807,7 @@
       "briefing": {
         "trend": "OKC on Back-to-Back \u26a0\ufe0f per ESPN schedule data. PHX on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "steam": "Line steamed from -238 to -250 (12pt move) \u2014 heavy professional action on Oklahoma City Thunder.",
         "injury_notes": "Jaylin Williams (F); Jalen Williams (G); Cason Wallace (G); Ajay Mitchell (G)"
       },
       "live": {
@@ -817,22 +821,22 @@
       },
       "news": [
         {
-          "title": "After a season of such misery for the Warriors, any postseason exit is merciful",
-          "source": "Nbcsportsbayarea.com",
-          "link": "https://www.nbcsportsbayarea.com/nba/golden-state-warriors/nba-playoffs-steph-curry-analysis/1930225/?partner=yahoo",
-          "published": "2026-04-10T07:35:13Z"
+          "title": "LeBron James makes NBA history with son-to-father assist",
+          "source": "The Punch",
+          "link": "https://punchng.com/lebron-james-makes-nba-history-with-son-to-father-assist/",
+          "published": "2026-04-10T11:55:42Z"
         },
         {
-          "title": "Joel Embiid has appendectomy, leaving former MVP\u2019s status for postseason in doubt - NBA",
-          "source": "Slashdot.org",
-          "link": "https://slashdot.org/firehose.pl?op=view&amp;id=181518178",
-          "published": "2026-04-10T07:32:06Z"
+          "title": "ADC crisis: NBA vows to sanction lawyers filing suits on party disputes",
+          "source": "Vanguard",
+          "link": "https://www.vanguardngr.com/2026/04/adc-crisis-nba-vows-to-sanction-lawyers-filing-suits-on-party-disputes/",
+          "published": "2026-04-10T11:49:34Z"
         },
         {
-          "title": "Stephen Curry Injury Update: Warriors Star Rested vs Lakers After Knee Return, Eyes Full Play-In Ramp-Up",
-          "source": "Ibtimes.com.au",
-          "link": "https://www.ibtimes.com.au/stephen-curry-injury-update-warriors-star-rested-vs-lakers-after-knee-return-eyes-full-play-ramp-1866019",
-          "published": "2026-04-10T07:15:15Z"
+          "title": "Predicting the winner of every MLB game on Friday, April 10th, 2026",
+          "source": "The Big Lead",
+          "link": "https://www.thebiglead.com/predicting-the-winner-of-every-mlb-game-on-friday-april-10th-2026/",
+          "published": "2026-04-10T11:48:00Z"
         }
       ]
     },
@@ -842,20 +846,20 @@
       "away_team": "Sacramento Kings",
       "home_abbr": "POR",
       "away_abbr": "SAC",
-      "home_ml": "N/A",
-      "away_ml": "N/A",
-      "home_ml_raw": null,
-      "away_ml_raw": null,
-      "home_prob": 50.0,
-      "away_prob": 50.0,
-      "spread": "N/A",
+      "home_ml": "-1350",
+      "away_ml": "+800",
+      "home_ml_raw": -1350,
+      "away_ml_raw": 800,
+      "home_prob": 89.3,
+      "away_prob": 10.7,
+      "spread": "POR -16.5",
       "favorite": "Portland Trail Blazers",
       "pick": "Portland Trail Blazers",
       "pick_abbr": "POR",
-      "moneyline": "N/A",
-      "win_probability": 50.0,
-      "confidence": "LOW",
-      "confidence_stars": "\u2605\u2606\u2606",
+      "moneyline": "-1350",
+      "win_probability": 89.3,
+      "confidence": "HIGH",
+      "confidence_stars": "\u2605\u2605\u2605",
       "commence_time": "2026-04-13T00:40:00Z",
       "line_movement": {
         "home": {
@@ -882,7 +886,7 @@
           "old_ml": "\u2014",
           "new_ml": "\u2014"
         },
-        "snapshot_time": "\u2014"
+        "snapshot_time": "April 11, 2026 at 08:01 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -962,10 +966,22 @@
       },
       "news": [
         {
-          "title": "NBA Power Rankings: Where all 30 teams land at the end of the regular season",
-          "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/nba/story/_/id/48423164/nba-power-rankings-where-all-30-teams-stack-end-2025-2026-regular-season",
-          "published": "Fri, 10 Apr 2026 10:45:56 EST"
+          "title": "LeBron James makes NBA history with son-to-father assist",
+          "source": "The Punch",
+          "link": "https://punchng.com/lebron-james-makes-nba-history-with-son-to-father-assist/",
+          "published": "2026-04-10T11:55:42Z"
+        },
+        {
+          "title": "ADC crisis: NBA vows to sanction lawyers filing suits on party disputes",
+          "source": "Vanguard",
+          "link": "https://www.vanguardngr.com/2026/04/adc-crisis-nba-vows-to-sanction-lawyers-filing-suits-on-party-disputes/",
+          "published": "2026-04-10T11:49:34Z"
+        },
+        {
+          "title": "Predicting the winner of every MLB game on Friday, April 10th, 2026",
+          "source": "The Big Lead",
+          "link": "https://www.thebiglead.com/predicting-the-winner-of-every-mlb-game-on-friday-april-10th-2026/",
+          "published": "2026-04-10T11:48:00Z"
         }
       ]
     }
