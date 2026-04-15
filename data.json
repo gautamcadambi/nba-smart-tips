@@ -1,333 +1,54 @@
 {
-  "last_updated": "April 15, 2026 at 12:08 AM UTC",
-  "total_games": 8,
+  "last_updated": "April 15, 2026 at 06:22 AM UTC",
+  "total_games": 7,
   "games": [
-    {
-      "game": "Miami Heat @ Charlotte Hornets",
-      "home_team": "Charlotte Hornets",
-      "away_team": "Miami Heat",
-      "home_abbr": "CHA",
-      "away_abbr": "MIA",
-      "home_ml": "-425",
-      "away_ml": "+300",
-      "home_ml_raw": -425,
-      "away_ml_raw": 300,
-      "home_prob": 76.4,
-      "away_prob": 23.6,
-      "spread": "CHA -9.5",
-      "favorite": "Charlotte Hornets",
-      "pick": "Charlotte Hornets",
-      "pick_abbr": "CHA",
-      "moneyline": "-425",
-      "win_probability": 76.4,
-      "confidence": "HIGH",
-      "confidence_stars": "\u2605\u2605\u2605",
-      "commence_time": "2026-04-14T23:41:04Z",
-      "line_movement": {
-        "home": {
-          "direction": "shorter",
-          "points_moved": 187,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -425 \u2190 -238",
-          "old_ml": "-238",
-          "new_ml": "-425"
-        },
-        "away": {
-          "direction": "longer",
-          "points_moved": 105,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM +300 \u2190 +195",
-          "old_ml": "+195",
-          "new_ml": "+300"
-        },
-        "pick": {
-          "direction": "shorter",
-          "points_moved": 187,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -425 \u2190 -238",
-          "old_ml": "-238",
-          "new_ml": "-425"
-        },
-        "snapshot_time": "April 14, 2026 at 03:53 PM UTC"
-      },
-      "fatigue": {
-        "home": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
-          "last_game": "Apr 14",
-          "days_rest": 1,
-          "games_last_4d": 2,
-          "travel_miles": 533,
-          "travel_desc": "533 mi road trip",
-          "source": "ESPN Scoreboard API"
-        },
-        "away": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
-          "last_game": "Apr 14",
-          "days_rest": 1,
-          "games_last_4d": 2,
-          "travel_miles": 654,
-          "travel_desc": "654 mi road trip",
-          "source": "ESPN Scoreboard API"
-        }
-      },
-      "edge_factors": [
-        "\ud83d\udd25 Sharp steam detected",
-        "\ud83d\udca4 MIA fatigued (B2B) \u2014 source: ESPN"
-      ],
-      "injury_notes": "No key injuries.",
-      "sharp": {
-        "away_t": null,
-        "home_t": null,
-        "source": null,
-        "sharp_signal": null,
-        "sharp_label": "Pending \u2014 check closer to tip-off",
-        "rlm": false
-      },
-      "form": {
-        "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        },
-        "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        }
-      },
-      "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
-      },
-      "briefing": {
-        "trend": "CHA on Back-to-Back \u26a0\ufe0f per ESPN schedule data. MIA on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -238 to -425 (187pt move) \u2014 heavy professional action on Charlotte Hornets.",
-        "injury_notes": "No key injuries."
-      },
-      "live": {
-        "status": "pre",
-        "status_detail": "Upcoming",
-        "period": 0,
-        "clock": "",
-        "home_score": 0,
-        "away_score": 0,
-        "spread_alert": null
-      },
-      "news": [
-        {
-          "title": "Follow live: Heat, Hornets face off in play-in tournament",
-          "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/nba/story/_/id/48479524/nba-2026-play-tournament-heat-hornets-blazers-suns-live-updates-results-highlights",
-          "published": "Tue, 14 Apr 2026 19:40:42 EST"
-        }
-      ]
-    },
-    {
-      "game": "Portland Trail Blazers @ Phoenix Suns",
-      "home_team": "Phoenix Suns",
-      "away_team": "Portland Trail Blazers",
-      "home_abbr": "PHX",
-      "away_abbr": "POR",
-      "home_ml": "-155",
-      "away_ml": "+130",
-      "home_ml_raw": -155,
-      "away_ml_raw": 130,
-      "home_prob": 58.3,
-      "away_prob": 41.7,
-      "spread": "PHX -3.5",
-      "favorite": "Phoenix Suns",
-      "pick": "Phoenix Suns",
-      "pick_abbr": "PHX",
-      "moneyline": "-155",
-      "win_probability": 58.3,
-      "confidence": "MEDIUM",
-      "confidence_stars": "\u2605\u2605\u2606",
-      "commence_time": "2026-04-15T02:10:00Z",
-      "line_movement": {
-        "home": {
-          "direction": "longer",
-          "points_moved": 7,
-          "steam": false,
-          "label": "\ud83d\udd34 -155 \u2190 -162",
-          "old_ml": "-162",
-          "new_ml": "-155"
-        },
-        "away": {
-          "direction": "shorter",
-          "points_moved": 6,
-          "steam": false,
-          "label": "\ud83d\udfe2 +130 \u2190 +136",
-          "old_ml": "+136",
-          "new_ml": "+130"
-        },
-        "pick": {
-          "direction": "longer",
-          "points_moved": 7,
-          "steam": false,
-          "label": "\ud83d\udd34 -155 \u2190 -162",
-          "old_ml": "-162",
-          "new_ml": "-155"
-        },
-        "snapshot_time": "April 14, 2026 at 03:53 PM UTC"
-      },
-      "fatigue": {
-        "home": {
-          "status": "RESTED",
-          "label": "2 days rest \u2705",
-          "battery": 88,
-          "last_game": "Apr 12",
-          "days_rest": 3,
-          "games_last_4d": 1,
-          "travel_miles": 840,
-          "travel_desc": "840 mi road trip",
-          "source": "ESPN Scoreboard API"
-        },
-        "away": {
-          "status": "RESTED",
-          "label": "2 days rest \u2705",
-          "battery": 88,
-          "last_game": "Apr 12",
-          "days_rest": 3,
-          "games_last_4d": 1,
-          "travel_miles": 0,
-          "travel_desc": "",
-          "source": "ESPN Scoreboard API"
-        }
-      },
-      "edge_factors": [
-        "\ud83d\udcca 16.6pt probability edge"
-      ],
-      "injury_notes": "Grayson Allen (G)",
-      "sharp": {
-        "away_t": null,
-        "home_t": null,
-        "source": null,
-        "sharp_signal": null,
-        "sharp_label": "Pending \u2014 check closer to tip-off",
-        "rlm": false
-      },
-      "form": {
-        "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        },
-        "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        }
-      },
-      "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
-      },
-      "briefing": {
-        "trend": "Phoenix Suns hold a 58.3% edge.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line moved -162\u2192-155 (7pts). Pending \u2014 check closer to tip-off",
-        "injury_notes": "Grayson Allen (G)"
-      },
-      "live": {
-        "status": "pre",
-        "status_detail": "Upcoming",
-        "period": 0,
-        "clock": "",
-        "home_score": 0,
-        "away_score": 0,
-        "spread_alert": null
-      },
-      "news": [
-        {
-          "title": "Boston Celtics star Jaylen Brown wins top honor for his...interviews?",
-          "source": "Yahoo Entertainment",
-          "link": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_5e9d81ac-407e-4538-a152-7326642d2e86",
-          "published": "2026-04-14T00:04:53Z"
-        },
-        {
-          "title": "Why Michael Malone cut ties with 5-star recruit that shocked UNC fans",
-          "source": "Sporting News",
-          "link": "https://www.sportingnews.com/us/ncaa-basketball/news/why-michael-malone-cut-ties-5-star-recruit-shocked-unc-fans/4874feacaaa0a6d827479a96",
-          "published": "2026-04-14T00:00:46Z"
-        },
-        {
-          "title": "The Phoenix Suns were average during the regular season",
-          "source": "Bright Side of the Sun",
-          "link": "https://www.brightsideofthesun.com/suns-analysis/102512/suns-season-review-stats-net-rating-jordan-ott-devin-booker-defense-identity-play-in",
-          "published": "2026-04-14T00:00:00Z"
-        }
-      ]
-    },
     {
       "game": "Orlando Magic @ Philadelphia 76ers",
       "home_team": "Philadelphia 76ers",
       "away_team": "Orlando Magic",
       "home_abbr": "PHI",
       "away_abbr": "ORL",
-      "home_ml": "-118",
-      "away_ml": "-102",
-      "home_ml_raw": -118,
-      "away_ml_raw": -102,
-      "home_prob": 51.7,
-      "away_prob": 48.3,
-      "spread": "PHI -1.5",
+      "home_ml": "-135",
+      "away_ml": "+114",
+      "home_ml_raw": -135,
+      "away_ml_raw": 114,
+      "home_prob": 55.1,
+      "away_prob": 44.9,
+      "spread": "PHI -2.5",
       "favorite": "Philadelphia 76ers",
       "pick": "Philadelphia 76ers",
       "pick_abbr": "PHI",
-      "moneyline": "-118",
-      "win_probability": 51.7,
+      "moneyline": "-135",
+      "win_probability": 55.1,
       "confidence": "LOW",
       "confidence_stars": "\u2605\u2606\u2606",
       "commence_time": "2026-04-15T23:40:00Z",
       "line_movement": {
         "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "shorter",
+          "points_moved": 17,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -135 \u2190 -118",
           "old_ml": "-118",
-          "new_ml": "-118"
+          "new_ml": "-135"
         },
         "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "longer",
+          "points_moved": 216,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM +114 \u2190 -102",
           "old_ml": "-102",
-          "new_ml": "-102"
+          "new_ml": "+114"
         },
         "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "shorter",
+          "points_moved": 17,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -135 \u2190 -118",
           "old_ml": "-118",
-          "new_ml": "-118"
+          "new_ml": "-135"
         },
-        "snapshot_time": "April 14, 2026 at 03:53 PM UTC"
+        "snapshot_time": "April 15, 2026 at 12:08 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -354,7 +75,7 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udcca 3.4pt probability edge"
+        "\ud83d\udd25 Sharp steam detected"
       ],
       "injury_notes": "Trendon Watford (F)",
       "sharp": {
@@ -391,9 +112,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "Philadelphia 76ers hold a 51.7% edge.",
+        "trend": "Philadelphia 76ers hold a 55.1% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "steam": "Line steamed from -118 to -135 (17pt move) \u2014 heavy professional action on Philadelphia 76ers.",
         "injury_notes": "Trendon Watford (F)"
       },
       "live": {
@@ -407,22 +128,22 @@
       },
       "news": [
         {
-          "title": "Boston Celtics star Jaylen Brown wins top honor for his...interviews?",
+          "title": "The leap of faith that led physio to NBA's A list",
+          "source": "BBC News",
+          "link": "https://www.bbc.com/sport/basketball/articles/cqxldyldrreo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+          "published": "2026-04-14T06:15:22Z"
+        },
+        {
+          "title": "The leap of faith that led physio to NBA's A list",
+          "source": "BBC News",
+          "link": "https://www.bbc.com/sport/basketball/articles/cqxldyldrreo",
+          "published": "2026-04-14T06:15:15Z"
+        },
+        {
+          "title": "Suns square off against the Trail Blazers in play-in game",
           "source": "Yahoo Entertainment",
-          "link": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_5e9d81ac-407e-4538-a152-7326642d2e86",
-          "published": "2026-04-14T00:04:53Z"
-        },
-        {
-          "title": "Why Michael Malone cut ties with 5-star recruit that shocked UNC fans",
-          "source": "Sporting News",
-          "link": "https://www.sportingnews.com/us/ncaa-basketball/news/why-michael-malone-cut-ties-5-star-recruit-shocked-unc-fans/4874feacaaa0a6d827479a96",
-          "published": "2026-04-14T00:00:46Z"
-        },
-        {
-          "title": "The Phoenix Suns were average during the regular season",
-          "source": "Bright Side of the Sun",
-          "link": "https://www.brightsideofthesun.com/suns-analysis/102512/suns-season-review-stats-net-rating-jordan-ott-devin-booker-defense-identity-play-in",
-          "published": "2026-04-14T00:00:00Z"
+          "link": "https://sports.yahoo.com/articles/suns-square-off-against-trail-060317507.html",
+          "published": "2026-04-14T06:03:17Z"
         }
       ]
     },
@@ -449,30 +170,30 @@
       "commence_time": "2026-04-16T02:10:00Z",
       "line_movement": {
         "home": {
-          "direction": "shorter",
-          "points_moved": 13,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -205 \u2190 -192",
-          "old_ml": "-192",
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "No movement",
+          "old_ml": "-205",
           "new_ml": "-205"
         },
         "away": {
-          "direction": "longer",
-          "points_moved": 10,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM +170 \u2190 +160",
-          "old_ml": "+160",
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "No movement",
+          "old_ml": "+170",
           "new_ml": "+170"
         },
         "pick": {
-          "direction": "shorter",
-          "points_moved": 13,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -205 \u2190 -192",
-          "old_ml": "-192",
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "No movement",
+          "old_ml": "-205",
           "new_ml": "-205"
         },
-        "snapshot_time": "April 14, 2026 at 03:53 PM UTC"
+        "snapshot_time": "April 15, 2026 at 12:08 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -499,9 +220,9 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udd25 Sharp steam detected"
+        "\ud83d\udcca 29.0pt probability edge"
       ],
-      "injury_notes": "Kawhi Leonard (F); Draymond Green (F)",
+      "injury_notes": "No key injuries.",
       "sharp": {
         "away_t": null,
         "home_t": null,
@@ -538,8 +259,8 @@
       "briefing": {
         "trend": "Los Angeles Clippers hold a 64.5% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -192 to -205 (13pt move) \u2014 heavy professional action on Los Angeles Clippers.",
-        "injury_notes": "Kawhi Leonard (F); Draymond Green (F)"
+        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "injury_notes": "No key injuries."
       },
       "live": {
         "status": "pre",
@@ -555,7 +276,7 @@
           "title": "Curry on minutes restriction in must-win play-in",
           "source": "www.espn.com - NBA",
           "link": "https://www.espn.com/nba/story/_/id/48483414/curry-minutes-restriction-warriors-win-play-in",
-          "published": "Tue, 14 Apr 2026 17:56:26 EST"
+          "published": "Wed, 15 Apr 2026 01:21:20 EST"
         }
       ]
     },
@@ -565,18 +286,18 @@
       "away_team": "Toronto Raptors",
       "home_abbr": "CLE",
       "away_abbr": "TOR",
-      "home_ml": "-325",
-      "away_ml": "+260",
-      "home_ml_raw": -325,
-      "away_ml_raw": 260,
-      "home_prob": 73.4,
-      "away_prob": 26.6,
-      "spread": "CLE -7.5",
+      "home_ml": "-340",
+      "away_ml": "+270",
+      "home_ml_raw": -340,
+      "away_ml_raw": 270,
+      "home_prob": 74.1,
+      "away_prob": 25.9,
+      "spread": "CLE -8.5",
       "favorite": "Cleveland Cavaliers",
       "pick": "Cleveland Cavaliers",
       "pick_abbr": "CLE",
-      "moneyline": "-325",
-      "win_probability": 73.4,
+      "moneyline": "-340",
+      "win_probability": 74.1,
       "confidence": "HIGH",
       "confidence_stars": "\u2605\u2605\u2605",
       "commence_time": "2026-04-18T17:10:00Z",
@@ -585,27 +306,27 @@
           "direction": "shorter",
           "points_moved": 15,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM -325 \u2190 -310",
-          "old_ml": "-310",
-          "new_ml": "-325"
+          "label": "\ud83d\udd25 STEAM -340 \u2190 -325",
+          "old_ml": "-325",
+          "new_ml": "-340"
         },
         "away": {
           "direction": "longer",
           "points_moved": 10,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM +260 \u2190 +250",
-          "old_ml": "+250",
-          "new_ml": "+260"
+          "label": "\ud83d\udd25 STEAM +270 \u2190 +260",
+          "old_ml": "+260",
+          "new_ml": "+270"
         },
         "pick": {
           "direction": "shorter",
           "points_moved": 15,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM -325 \u2190 -310",
-          "old_ml": "-310",
-          "new_ml": "-325"
+          "label": "\ud83d\udd25 STEAM -340 \u2190 -325",
+          "old_ml": "-325",
+          "new_ml": "-340"
         },
-        "snapshot_time": "April 14, 2026 at 03:53 PM UTC"
+        "snapshot_time": "April 15, 2026 at 12:08 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -669,9 +390,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "Cleveland Cavaliers hold a 73.4% edge.",
+        "trend": "Cleveland Cavaliers hold a 74.1% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -310 to -325 (15pt move) \u2014 heavy professional action on Cleveland Cavaliers.",
+        "steam": "Line steamed from -325 to -340 (15pt move) \u2014 heavy professional action on Cleveland Cavaliers.",
         "injury_notes": "Immanuel Quickley (G)"
       },
       "live": {
@@ -688,7 +409,7 @@
           "title": "\ud83e\udd76 'Drake's seats froze': Raptors lean into buzz",
           "source": "www.espn.com - NBA",
           "link": "https://www.espn.com/nba/story/_/id/48478158/drake-toronto-raptors-courtside-seats-covered-ice-frozen-iceman",
-          "published": "Tue, 14 Apr 2026 17:56:26 EST"
+          "published": "Wed, 15 Apr 2026 01:21:20 EST"
         }
       ]
     },
@@ -698,47 +419,47 @@
       "away_team": "Minnesota Timberwolves",
       "home_abbr": "DEN",
       "away_abbr": "MIN",
-      "home_ml": "-250",
-      "away_ml": "+205",
-      "home_ml_raw": -250,
-      "away_ml_raw": 205,
-      "home_prob": 68.5,
-      "away_prob": 31.5,
+      "home_ml": "-245",
+      "away_ml": "+200",
+      "home_ml_raw": -245,
+      "away_ml_raw": 200,
+      "home_prob": 68.1,
+      "away_prob": 31.9,
       "spread": "DEN -6.5",
       "favorite": "Denver Nuggets",
       "pick": "Denver Nuggets",
       "pick_abbr": "DEN",
-      "moneyline": "-250",
-      "win_probability": 68.5,
+      "moneyline": "-245",
+      "win_probability": 68.1,
       "confidence": "MEDIUM",
       "confidence_stars": "\u2605\u2605\u2606",
       "commence_time": "2026-04-18T19:40:00Z",
       "line_movement": {
         "home": {
-          "direction": "none",
-          "points_moved": 0,
+          "direction": "longer",
+          "points_moved": 5,
           "steam": false,
-          "label": "No movement",
+          "label": "\ud83d\udd34 -245 \u2190 -250",
           "old_ml": "-250",
-          "new_ml": "-250"
+          "new_ml": "-245"
         },
         "away": {
-          "direction": "none",
-          "points_moved": 0,
+          "direction": "shorter",
+          "points_moved": 5,
           "steam": false,
-          "label": "No movement",
+          "label": "\ud83d\udfe2 +200 \u2190 +205",
           "old_ml": "+205",
-          "new_ml": "+205"
+          "new_ml": "+200"
         },
         "pick": {
-          "direction": "none",
-          "points_moved": 0,
+          "direction": "longer",
+          "points_moved": 5,
           "steam": false,
-          "label": "No movement",
+          "label": "\ud83d\udd34 -245 \u2190 -250",
           "old_ml": "-250",
-          "new_ml": "-250"
+          "new_ml": "-245"
         },
-        "snapshot_time": "April 14, 2026 at 03:53 PM UTC"
+        "snapshot_time": "April 15, 2026 at 12:08 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -765,7 +486,7 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udcca 37.0pt probability edge"
+        "\ud83d\udcca 36.2pt probability edge"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -802,9 +523,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "Denver Nuggets hold a 68.5% edge.",
+        "trend": "Denver Nuggets hold a 68.1% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "steam": "Line moved -250\u2192-245 (5pts). Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -818,22 +539,22 @@
       },
       "news": [
         {
-          "title": "Boston Celtics star Jaylen Brown wins top honor for his...interviews?",
+          "title": "The leap of faith that led physio to NBA's A list",
+          "source": "BBC News",
+          "link": "https://www.bbc.com/sport/basketball/articles/cqxldyldrreo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+          "published": "2026-04-14T06:15:22Z"
+        },
+        {
+          "title": "The leap of faith that led physio to NBA's A list",
+          "source": "BBC News",
+          "link": "https://www.bbc.com/sport/basketball/articles/cqxldyldrreo",
+          "published": "2026-04-14T06:15:15Z"
+        },
+        {
+          "title": "Suns square off against the Trail Blazers in play-in game",
           "source": "Yahoo Entertainment",
-          "link": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_5e9d81ac-407e-4538-a152-7326642d2e86",
-          "published": "2026-04-14T00:04:53Z"
-        },
-        {
-          "title": "Why Michael Malone cut ties with 5-star recruit that shocked UNC fans",
-          "source": "Sporting News",
-          "link": "https://www.sportingnews.com/us/ncaa-basketball/news/why-michael-malone-cut-ties-5-star-recruit-shocked-unc-fans/4874feacaaa0a6d827479a96",
-          "published": "2026-04-14T00:00:46Z"
-        },
-        {
-          "title": "The Phoenix Suns were average during the regular season",
-          "source": "Bright Side of the Sun",
-          "link": "https://www.brightsideofthesun.com/suns-analysis/102512/suns-season-review-stats-net-rating-jordan-ott-devin-booker-defense-identity-play-in",
-          "published": "2026-04-14T00:00:00Z"
+          "link": "https://sports.yahoo.com/articles/suns-square-off-against-trail-060317507.html",
+          "published": "2026-04-14T06:03:17Z"
         }
       ]
     },
@@ -843,47 +564,47 @@
       "away_team": "Atlanta Hawks",
       "home_abbr": "NYK",
       "away_abbr": "ATL",
-      "home_ml": "-192",
-      "away_ml": "+160",
-      "home_ml_raw": -192,
-      "away_ml_raw": 160,
-      "home_prob": 63.1,
-      "away_prob": 36.9,
+      "home_ml": "-205",
+      "away_ml": "+170",
+      "home_ml_raw": -205,
+      "away_ml_raw": 170,
+      "home_prob": 64.5,
+      "away_prob": 35.5,
       "spread": "NYK -4.5",
       "favorite": "New York Knicks",
       "pick": "New York Knicks",
       "pick_abbr": "NYK",
-      "moneyline": "-192",
-      "win_probability": 63.1,
+      "moneyline": "-205",
+      "win_probability": 64.5,
       "confidence": "MEDIUM",
       "confidence_stars": "\u2605\u2605\u2606",
       "commence_time": "2026-04-18T22:10:00Z",
       "line_movement": {
         "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "shorter",
+          "points_moved": 13,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -205 \u2190 -192",
           "old_ml": "-192",
-          "new_ml": "-192"
+          "new_ml": "-205"
         },
         "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "longer",
+          "points_moved": 10,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM +170 \u2190 +160",
           "old_ml": "+160",
-          "new_ml": "+160"
+          "new_ml": "+170"
         },
         "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "shorter",
+          "points_moved": 13,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -205 \u2190 -192",
           "old_ml": "-192",
-          "new_ml": "-192"
+          "new_ml": "-205"
         },
-        "snapshot_time": "April 14, 2026 at 03:53 PM UTC"
+        "snapshot_time": "April 15, 2026 at 12:08 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -910,7 +631,7 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udcca 26.2pt probability edge"
+        "\ud83d\udd25 Sharp steam detected"
       ],
       "injury_notes": "CJ McCollum (G); Jonathan Kuminga (F); Dyson Daniels (G); Nickeil Alexander-Walker (G)",
       "sharp": {
@@ -947,9 +668,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "New York Knicks hold a 63.1% edge.",
+        "trend": "New York Knicks hold a 64.5% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "steam": "Line steamed from -192 to -205 (13pt move) \u2014 heavy professional action on New York Knicks.",
         "injury_notes": "CJ McCollum (G); Jonathan Kuminga (F); Dyson Daniels (G); Nickeil Alexander-Walker (G)"
       },
       "live": {
@@ -963,22 +684,22 @@
       },
       "news": [
         {
-          "title": "Boston Celtics star Jaylen Brown wins top honor for his...interviews?",
+          "title": "The leap of faith that led physio to NBA's A list",
+          "source": "BBC News",
+          "link": "https://www.bbc.com/sport/basketball/articles/cqxldyldrreo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+          "published": "2026-04-14T06:15:22Z"
+        },
+        {
+          "title": "The leap of faith that led physio to NBA's A list",
+          "source": "BBC News",
+          "link": "https://www.bbc.com/sport/basketball/articles/cqxldyldrreo",
+          "published": "2026-04-14T06:15:15Z"
+        },
+        {
+          "title": "Suns square off against the Trail Blazers in play-in game",
           "source": "Yahoo Entertainment",
-          "link": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_5e9d81ac-407e-4538-a152-7326642d2e86",
-          "published": "2026-04-14T00:04:53Z"
-        },
-        {
-          "title": "Why Michael Malone cut ties with 5-star recruit that shocked UNC fans",
-          "source": "Sporting News",
-          "link": "https://www.sportingnews.com/us/ncaa-basketball/news/why-michael-malone-cut-ties-5-star-recruit-shocked-unc-fans/4874feacaaa0a6d827479a96",
-          "published": "2026-04-14T00:00:46Z"
-        },
-        {
-          "title": "The Phoenix Suns were average during the regular season",
-          "source": "Bright Side of the Sun",
-          "link": "https://www.brightsideofthesun.com/suns-analysis/102512/suns-season-review-stats-net-rating-jordan-ott-devin-booker-defense-identity-play-in",
-          "published": "2026-04-14T00:00:00Z"
+          "link": "https://sports.yahoo.com/articles/suns-square-off-against-trail-060317507.html",
+          "published": "2026-04-14T06:03:17Z"
         }
       ]
     },
@@ -988,47 +709,47 @@
       "away_team": "Houston Rockets",
       "home_abbr": "LAL",
       "away_abbr": "HOU",
-      "home_ml": "+180",
-      "away_ml": "-218",
-      "home_ml_raw": 180,
-      "away_ml_raw": -218,
-      "home_prob": 34.3,
-      "away_prob": 65.7,
+      "home_ml": "+170",
+      "away_ml": "-205",
+      "home_ml_raw": 170,
+      "away_ml_raw": -205,
+      "home_prob": 35.5,
+      "away_prob": 64.5,
       "spread": "LAL +5.5",
       "favorite": "Houston Rockets",
       "pick": "Houston Rockets",
       "pick_abbr": "HOU",
-      "moneyline": "-218",
-      "win_probability": 65.7,
+      "moneyline": "-205",
+      "win_probability": 64.5,
       "confidence": "MEDIUM",
       "confidence_stars": "\u2605\u2605\u2606",
       "commence_time": "2026-04-19T00:40:00Z",
       "line_movement": {
         "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "shorter",
+          "points_moved": 10,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM +170 \u2190 +180",
           "old_ml": "+180",
-          "new_ml": "+180"
+          "new_ml": "+170"
         },
         "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "longer",
+          "points_moved": 13,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -205 \u2190 -218",
           "old_ml": "-218",
-          "new_ml": "-218"
+          "new_ml": "-205"
         },
         "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "longer",
+          "points_moved": 13,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -205 \u2190 -218",
           "old_ml": "-218",
-          "new_ml": "-218"
+          "new_ml": "-205"
         },
-        "snapshot_time": "April 14, 2026 at 03:53 PM UTC"
+        "snapshot_time": "April 15, 2026 at 12:08 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -1055,7 +776,7 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udcca 31.4pt probability edge"
+        "\ud83d\udd25 Sharp steam detected"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -1092,9 +813,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "Houston Rockets hold a 65.7% edge.",
+        "trend": "Houston Rockets hold a 64.5% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "steam": "Line steamed from -218 to -205 (13pt move) \u2014 heavy professional action on Houston Rockets.",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -1111,13 +832,152 @@
           "title": "Bronny's Nike 'B9' logo trademark filing denied",
           "source": "www.espn.com - NBA",
           "link": "https://www.espn.com/nba/story/_/id/48484679/nike-trademark-filing-bronny-james-b9-logo-denied",
-          "published": "Tue, 14 Apr 2026 17:56:26 EST"
+          "published": "Wed, 15 Apr 2026 01:21:20 EST"
         },
         {
           "title": "No update on Doncic as Lakers prep for Rockets",
           "source": "www.espn.com - NBA",
           "link": "https://www.espn.com/nba/story/_/id/48487988/redick-gives-no-doncic-update-lakers-playoff-prep-begins",
-          "published": "Tue, 14 Apr 2026 17:56:26 EST"
+          "published": "Wed, 15 Apr 2026 01:21:20 EST"
+        }
+      ]
+    },
+    {
+      "game": "Portland Trail Blazers @ San Antonio Spurs",
+      "home_team": "San Antonio Spurs",
+      "away_team": "Portland Trail Blazers",
+      "home_abbr": "SAS",
+      "away_abbr": "POR",
+      "home_ml": "-440",
+      "away_ml": "+340",
+      "home_ml_raw": -440,
+      "away_ml_raw": 340,
+      "home_prob": 78.2,
+      "away_prob": 21.8,
+      "spread": "SAS -10.5",
+      "favorite": "San Antonio Spurs",
+      "pick": "San Antonio Spurs",
+      "pick_abbr": "SAS",
+      "moneyline": "-440",
+      "win_probability": 78.2,
+      "confidence": "HIGH",
+      "confidence_stars": "\u2605\u2605\u2605",
+      "commence_time": "2026-04-20T01:00:00Z",
+      "line_movement": {
+        "home": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "away": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "pick": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "snapshot_time": "\u2014"
+      },
+      "fatigue": {
+        "home": {
+          "status": "RESTED",
+          "label": "2 days rest \u2705",
+          "battery": 88,
+          "last_game": "Apr 12",
+          "days_rest": 3,
+          "games_last_4d": 1,
+          "travel_miles": 0,
+          "travel_desc": "",
+          "source": "ESPN Scoreboard API"
+        },
+        "away": {
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Apr 14",
+          "days_rest": 1,
+          "games_last_4d": 2,
+          "travel_miles": 1006,
+          "travel_desc": "1,006 mi road trip",
+          "source": "ESPN Scoreboard API"
+        }
+      },
+      "edge_factors": [
+        "\ud83d\udca4 POR fatigued (B2B) \u2014 source: ESPN"
+      ],
+      "injury_notes": "Dylan Harper (G)",
+      "sharp": {
+        "away_t": null,
+        "home_t": null,
+        "source": null,
+        "sharp_signal": null,
+        "sharp_label": "Pending \u2014 check closer to tip-off",
+        "rlm": false
+      },
+      "form": {
+        "home": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        },
+        "away": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        }
+      },
+      "h2h": {
+        "total_meetings": 0,
+        "home_wins": 0,
+        "away_wins": 0,
+        "meetings": [],
+        "source": "\u2014"
+      },
+      "briefing": {
+        "trend": "POR on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "matchup": "Both rosters appear healthy \u2014 clean line.",
+        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "injury_notes": "Dylan Harper (G)"
+      },
+      "live": {
+        "status": "pre",
+        "status_detail": "Upcoming",
+        "period": 0,
+        "clock": "",
+        "home_score": 0,
+        "away_score": 0,
+        "spread_alert": null
+      },
+      "news": [
+        {
+          "title": "Blazers ride Avdija's 41 over Suns, grab 7th seed",
+          "source": "www.espn.com - NBA",
+          "link": "https://www.espn.com/nba/story/_/id/48491106/blazers-rally-stun-suns-play-grab-west-no-7-seed",
+          "published": "Wed, 15 Apr 2026 01:21:20 EST"
+        },
+        {
+          "title": "Postseason preview: Matchups, biggest questions and what to know",
+          "source": "www.espn.com - NBA",
+          "link": "https://www.espn.com/nba/story/_/id/48447222/nba-playoffs-2026-preview-teams-postseason",
+          "published": "Wed, 15 Apr 2026 01:12:26 EST"
         }
       ]
     }
@@ -1140,28 +1000,28 @@
       "profit": 136.72
     },
     "MEDIUM": {
-      "wins": 21,
-      "losses": 8,
-      "total": 29,
-      "win_pct": 72.4,
-      "roi": 5.9,
-      "profit": 170.82
+      "wins": 22,
+      "losses": 9,
+      "total": 31,
+      "win_pct": 71.0,
+      "roi": 3.8,
+      "profit": 116.69
     },
     "overall_7d": {
-      "wins": 36,
+      "wins": 26,
       "losses": 10,
-      "total": 46,
-      "win_pct": 78.3,
-      "roi": 2.0,
-      "profit": 92.65
+      "total": 36,
+      "win_pct": 72.2,
+      "roi": -5.1,
+      "profit": -184.44
     },
     "overall_30d": {
-      "wins": 79,
-      "losses": 30,
-      "total": 109,
-      "win_pct": 72.5,
-      "roi": 1.3,
-      "profit": 141.27
+      "wins": 80,
+      "losses": 31,
+      "total": 111,
+      "win_pct": 72.1,
+      "roi": 0.8,
+      "profit": 87.14
     }
   }
 }

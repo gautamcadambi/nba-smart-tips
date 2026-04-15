@@ -1754,9 +1754,11 @@
       "win_probability": 65.7,
       "commence_time": "2026-04-14T23:30:00Z",
       "date": "2026-04-13T07:28:45.220922+00:00",
-      "graded": false,
-      "result": null,
-      "profit": null
+      "graded": true,
+      "result": "WIN",
+      "profit": 45.87,
+      "home_score": 127,
+      "away_score": 126
     },
     {
       "game": "Portland Trail Blazers @ Phoenix Suns",
@@ -1768,9 +1770,11 @@
       "win_probability": 61.6,
       "commence_time": "2026-04-15T02:10:00Z",
       "date": "2026-04-13T07:28:45.220922+00:00",
-      "graded": false,
-      "result": null,
-      "profit": null
+      "graded": true,
+      "result": "LOSS",
+      "profit": -100,
+      "home_score": 110,
+      "away_score": 114
     },
     {
       "game": "Orlando Magic @ Philadelphia 76ers",
@@ -1861,29 +1865,29 @@
       "profit": 136.72
     },
     "MEDIUM": {
-      "wins": 21,
-      "losses": 8,
-      "total": 29,
-      "win_pct": 72.4,
-      "roi": 5.9,
-      "profit": 170.82
+      "wins": 22,
+      "losses": 9,
+      "total": 31,
+      "win_pct": 71.0,
+      "roi": 3.8,
+      "profit": 116.69
     },
     "overall_7d": {
-      "wins": 36,
+      "wins": 26,
       "losses": 10,
-      "total": 46,
-      "win_pct": 78.3,
-      "roi": 2.0,
-      "profit": 92.65
+      "total": 36,
+      "win_pct": 72.2,
+      "roi": -5.1,
+      "profit": -184.44
     },
     "overall_30d": {
-      "wins": 79,
-      "losses": 30,
-      "total": 109,
-      "win_pct": 72.5,
-      "roi": 1.3,
-      "profit": 141.27
+      "wins": 80,
+      "losses": 31,
+      "total": 111,
+      "win_pct": 72.1,
+      "roi": 0.8,
+      "profit": 87.14
     }
   },
-  "last_graded": "2026-04-13T07:27:54.185389+00:00"
+  "last_graded": "2026-04-15T06:21:46.627044+00:00"
 }
