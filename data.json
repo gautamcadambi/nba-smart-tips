@@ -1,5 +1,5 @@
 {
-  "last_updated": "April 14, 2026 at 03:53 PM UTC",
+  "last_updated": "April 15, 2026 at 12:08 AM UTC",
   "total_games": 8,
   "games": [
     {
@@ -8,76 +8,77 @@
       "away_team": "Miami Heat",
       "home_abbr": "CHA",
       "away_abbr": "MIA",
-      "home_ml": "-238",
-      "away_ml": "+195",
-      "home_ml_raw": -238,
-      "away_ml_raw": 195,
-      "home_prob": 67.5,
-      "away_prob": 32.5,
-      "spread": "CHA -6.5",
+      "home_ml": "-425",
+      "away_ml": "+300",
+      "home_ml_raw": -425,
+      "away_ml_raw": 300,
+      "home_prob": 76.4,
+      "away_prob": 23.6,
+      "spread": "CHA -9.5",
       "favorite": "Charlotte Hornets",
       "pick": "Charlotte Hornets",
       "pick_abbr": "CHA",
-      "moneyline": "-238",
-      "win_probability": 67.5,
-      "confidence": "MEDIUM",
-      "confidence_stars": "\u2605\u2605\u2606",
-      "commence_time": "2026-04-14T23:40:00Z",
+      "moneyline": "-425",
+      "win_probability": 76.4,
+      "confidence": "HIGH",
+      "confidence_stars": "\u2605\u2605\u2605",
+      "commence_time": "2026-04-14T23:41:04Z",
       "line_movement": {
         "home": {
           "direction": "shorter",
-          "points_moved": 20,
+          "points_moved": 187,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM -238 \u2190 -218",
-          "old_ml": "-218",
-          "new_ml": "-238"
+          "label": "\ud83d\udd25 STEAM -425 \u2190 -238",
+          "old_ml": "-238",
+          "new_ml": "-425"
         },
         "away": {
           "direction": "longer",
-          "points_moved": 15,
+          "points_moved": 105,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM +195 \u2190 +180",
-          "old_ml": "+180",
-          "new_ml": "+195"
+          "label": "\ud83d\udd25 STEAM +300 \u2190 +195",
+          "old_ml": "+195",
+          "new_ml": "+300"
         },
         "pick": {
           "direction": "shorter",
-          "points_moved": 20,
+          "points_moved": 187,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM -238 \u2190 -218",
-          "old_ml": "-218",
-          "new_ml": "-238"
+          "label": "\ud83d\udd25 STEAM -425 \u2190 -238",
+          "old_ml": "-238",
+          "new_ml": "-425"
         },
-        "snapshot_time": "April 14, 2026 at 06:21 AM UTC"
+        "snapshot_time": "April 14, 2026 at 03:53 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "Apr 12",
-          "days_rest": 2,
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Apr 14",
+          "days_rest": 1,
           "games_last_4d": 2,
           "travel_miles": 533,
           "travel_desc": "533 mi road trip",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "Apr 12",
-          "days_rest": 2,
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Apr 14",
+          "days_rest": 1,
           "games_last_4d": 2,
-          "travel_miles": 925,
-          "travel_desc": "925 mi road trip",
+          "travel_miles": 654,
+          "travel_desc": "654 mi road trip",
           "source": "ESPN Scoreboard API"
         }
       },
       "edge_factors": [
-        "\ud83d\udd25 Sharp steam detected"
+        "\ud83d\udd25 Sharp steam detected",
+        "\ud83d\udca4 MIA fatigued (B2B) \u2014 source: ESPN"
       ],
-      "injury_notes": "Pelle Larsson (G)",
+      "injury_notes": "No key injuries.",
       "sharp": {
         "away_t": null,
         "home_t": null,
@@ -112,10 +113,10 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "Charlotte Hornets hold a 67.5% edge.",
+        "trend": "CHA on Back-to-Back \u26a0\ufe0f per ESPN schedule data. MIA on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -218 to -238 (20pt move) \u2014 heavy professional action on Charlotte Hornets.",
-        "injury_notes": "Pelle Larsson (G)"
+        "steam": "Line steamed from -238 to -425 (187pt move) \u2014 heavy professional action on Charlotte Hornets.",
+        "injury_notes": "No key injuries."
       },
       "live": {
         "status": "pre",
@@ -128,16 +129,10 @@
       },
       "news": [
         {
-          "title": "Experts' picks for Hornets-Heat, Blazers-Suns and first-round matchups",
+          "title": "Follow live: Heat, Hornets face off in play-in tournament",
           "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/nba/story/_/id/48477478/2026-nba-playoff-expert-picks-play-first-round-matchups",
-          "published": "Tue, 14 Apr 2026 09:49:41 EST"
-        },
-        {
-          "title": "The Buzz is back? Inside the Hornets' turn from league punch line to playoff hopeful",
-          "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/nba/story/_/id/48472147/nba-playoffs-2026-charlotte-hornets-kon-knueppel-lamelo-ball-play-miami-heat",
-          "published": "Tue, 14 Apr 2026 10:30:02 EST"
+          "link": "https://www.espn.com/nba/story/_/id/48479524/nba-2026-play-tournament-heat-hornets-blazers-suns-live-updates-results-highlights",
+          "published": "Tue, 14 Apr 2026 19:40:42 EST"
         }
       ]
     },
@@ -147,74 +142,74 @@
       "away_team": "Portland Trail Blazers",
       "home_abbr": "PHX",
       "away_abbr": "POR",
-      "home_ml": "-162",
-      "away_ml": "+136",
-      "home_ml_raw": -162,
-      "away_ml_raw": 136,
-      "home_prob": 59.3,
-      "away_prob": 40.7,
+      "home_ml": "-155",
+      "away_ml": "+130",
+      "home_ml_raw": -155,
+      "away_ml_raw": 130,
+      "home_prob": 58.3,
+      "away_prob": 41.7,
       "spread": "PHX -3.5",
       "favorite": "Phoenix Suns",
       "pick": "Phoenix Suns",
       "pick_abbr": "PHX",
-      "moneyline": "-162",
-      "win_probability": 59.3,
+      "moneyline": "-155",
+      "win_probability": 58.3,
       "confidence": "MEDIUM",
       "confidence_stars": "\u2605\u2605\u2606",
       "commence_time": "2026-04-15T02:10:00Z",
       "line_movement": {
         "home": {
-          "direction": "none",
-          "points_moved": 0,
+          "direction": "longer",
+          "points_moved": 7,
           "steam": false,
-          "label": "No movement",
+          "label": "\ud83d\udd34 -155 \u2190 -162",
           "old_ml": "-162",
-          "new_ml": "-162"
+          "new_ml": "-155"
         },
         "away": {
-          "direction": "none",
-          "points_moved": 0,
+          "direction": "shorter",
+          "points_moved": 6,
           "steam": false,
-          "label": "No movement",
+          "label": "\ud83d\udfe2 +130 \u2190 +136",
           "old_ml": "+136",
-          "new_ml": "+136"
+          "new_ml": "+130"
         },
         "pick": {
-          "direction": "none",
-          "points_moved": 0,
+          "direction": "longer",
+          "points_moved": 7,
           "steam": false,
-          "label": "No movement",
+          "label": "\ud83d\udd34 -155 \u2190 -162",
           "old_ml": "-162",
-          "new_ml": "-162"
+          "new_ml": "-155"
         },
-        "snapshot_time": "April 14, 2026 at 06:21 AM UTC"
+        "snapshot_time": "April 14, 2026 at 03:53 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
+          "status": "RESTED",
+          "label": "2 days rest \u2705",
+          "battery": 88,
           "last_game": "Apr 12",
-          "days_rest": 2,
-          "games_last_4d": 2,
+          "days_rest": 3,
+          "games_last_4d": 1,
           "travel_miles": 840,
           "travel_desc": "840 mi road trip",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
+          "status": "RESTED",
+          "label": "2 days rest \u2705",
+          "battery": 88,
           "last_game": "Apr 12",
-          "days_rest": 2,
-          "games_last_4d": 2,
+          "days_rest": 3,
+          "games_last_4d": 1,
           "travel_miles": 0,
           "travel_desc": "",
           "source": "ESPN Scoreboard API"
         }
       },
       "edge_factors": [
-        "\ud83d\udcca 18.6pt probability edge"
+        "\ud83d\udcca 16.6pt probability edge"
       ],
       "injury_notes": "Grayson Allen (G)",
       "sharp": {
@@ -251,9 +246,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "Phoenix Suns hold a 59.3% edge.",
+        "trend": "Phoenix Suns hold a 58.3% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "steam": "Line moved -162\u2192-155 (7pts). Pending \u2014 check closer to tip-off",
         "injury_notes": "Grayson Allen (G)"
       },
       "live": {
@@ -267,10 +262,22 @@
       },
       "news": [
         {
-          "title": "Experts' picks for Hornets-Heat, Blazers-Suns and first-round matchups",
-          "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/nba/story/_/id/48477478/2026-nba-playoff-expert-picks-play-first-round-matchups",
-          "published": "Tue, 14 Apr 2026 09:49:41 EST"
+          "title": "Boston Celtics star Jaylen Brown wins top honor for his...interviews?",
+          "source": "Yahoo Entertainment",
+          "link": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_5e9d81ac-407e-4538-a152-7326642d2e86",
+          "published": "2026-04-14T00:04:53Z"
+        },
+        {
+          "title": "Why Michael Malone cut ties with 5-star recruit that shocked UNC fans",
+          "source": "Sporting News",
+          "link": "https://www.sportingnews.com/us/ncaa-basketball/news/why-michael-malone-cut-ties-5-star-recruit-shocked-unc-fans/4874feacaaa0a6d827479a96",
+          "published": "2026-04-14T00:00:46Z"
+        },
+        {
+          "title": "The Phoenix Suns were average during the regular season",
+          "source": "Bright Side of the Sun",
+          "link": "https://www.brightsideofthesun.com/suns-analysis/102512/suns-season-review-stats-net-rating-jordan-ott-devin-booker-defense-identity-play-in",
+          "published": "2026-04-14T00:00:00Z"
         }
       ]
     },
@@ -320,27 +327,27 @@
           "old_ml": "-118",
           "new_ml": "-118"
         },
-        "snapshot_time": "April 14, 2026 at 06:21 AM UTC"
+        "snapshot_time": "April 14, 2026 at 03:53 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
+          "status": "RESTED",
+          "label": "2 days rest \u2705",
+          "battery": 88,
           "last_game": "Apr 12",
-          "days_rest": 2,
-          "games_last_4d": 2,
-          "travel_miles": 583,
-          "travel_desc": "583 mi road trip",
+          "days_rest": 3,
+          "games_last_4d": 1,
+          "travel_miles": 0,
+          "travel_desc": "",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
+          "status": "RESTED",
+          "label": "2 days rest \u2705",
+          "battery": 88,
           "last_game": "Apr 12",
-          "days_rest": 2,
-          "games_last_4d": 2,
+          "days_rest": 3,
+          "games_last_4d": 1,
           "travel_miles": 1116,
           "travel_desc": "1,116 mi road trip",
           "source": "ESPN Scoreboard API"
@@ -349,7 +356,7 @@
       "edge_factors": [
         "\ud83d\udcca 3.4pt probability edge"
       ],
-      "injury_notes": "No key injuries.",
+      "injury_notes": "Trendon Watford (F)",
       "sharp": {
         "away_t": null,
         "home_t": null,
@@ -387,7 +394,7 @@
         "trend": "Philadelphia 76ers hold a 51.7% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
         "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
-        "injury_notes": "No key injuries."
+        "injury_notes": "Trendon Watford (F)"
       },
       "live": {
         "status": "pre",
@@ -400,22 +407,22 @@
       },
       "news": [
         {
-          "title": "From agony to ecstasy \u2013 Details of Rory McIlroy\u2019s heart rate on final hole tells the real Masters story",
-          "source": "Independent.ie",
-          "link": "https://www.independent.ie/sport/golf/from-agony-to-ecstasy-details-of-rory-mcilroys-heart-rate-on-final-hole-tells-the-real-masters-story/a433600701.html",
-          "published": "2026-04-13T15:52:59Z"
-        },
-        {
-          "title": "'I Don't Even Have Money for a Cheeseburger' \u2014 Former NBA Star Allen Iverson Says He Wanted To 'Recklessly' Make Everyone Happy So Blew His Millions On Friends",
+          "title": "Boston Celtics star Jaylen Brown wins top honor for his...interviews?",
           "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/articles/dont-even-money-cheeseburger-former-154605923.html",
-          "published": "2026-04-13T15:46:05Z"
+          "link": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_5e9d81ac-407e-4538-a152-7326642d2e86",
+          "published": "2026-04-14T00:04:53Z"
         },
         {
-          "title": "Willy Chavarria Gives the Adidas Superstar\u2019s Signature Shell Toe Its Flowers With New Rose\u00a0Detail",
-          "source": "WWD",
-          "link": "http://wwd.com/footwear-news/sneaker-news/willy-chavarria-adidas-superstar-rose-toe-love-prevails-1238913045/",
-          "published": "2026-04-13T15:44:35Z"
+          "title": "Why Michael Malone cut ties with 5-star recruit that shocked UNC fans",
+          "source": "Sporting News",
+          "link": "https://www.sportingnews.com/us/ncaa-basketball/news/why-michael-malone-cut-ties-5-star-recruit-shocked-unc-fans/4874feacaaa0a6d827479a96",
+          "published": "2026-04-14T00:00:46Z"
+        },
+        {
+          "title": "The Phoenix Suns were average during the regular season",
+          "source": "Bright Side of the Sun",
+          "link": "https://www.brightsideofthesun.com/suns-analysis/102512/suns-season-review-stats-net-rating-jordan-ott-devin-booker-defense-identity-play-in",
+          "published": "2026-04-14T00:00:00Z"
         }
       ]
     },
@@ -425,74 +432,74 @@
       "away_team": "Golden State Warriors",
       "home_abbr": "LAC",
       "away_abbr": "GSW",
-      "home_ml": "-192",
-      "away_ml": "+160",
-      "home_ml_raw": -192,
-      "away_ml_raw": 160,
-      "home_prob": 63.1,
-      "away_prob": 36.9,
-      "spread": "LAC -4.5",
+      "home_ml": "-205",
+      "away_ml": "+170",
+      "home_ml_raw": -205,
+      "away_ml_raw": 170,
+      "home_prob": 64.5,
+      "away_prob": 35.5,
+      "spread": "LAC -5.5",
       "favorite": "Los Angeles Clippers",
       "pick": "Los Angeles Clippers",
       "pick_abbr": "LAC",
-      "moneyline": "-192",
-      "win_probability": 63.1,
+      "moneyline": "-205",
+      "win_probability": 64.5,
       "confidence": "MEDIUM",
       "confidence_stars": "\u2605\u2605\u2606",
       "commence_time": "2026-04-16T02:10:00Z",
       "line_movement": {
         "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "shorter",
+          "points_moved": 13,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -205 \u2190 -192",
           "old_ml": "-192",
-          "new_ml": "-192"
+          "new_ml": "-205"
         },
         "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "longer",
+          "points_moved": 10,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM +170 \u2190 +160",
           "old_ml": "+160",
-          "new_ml": "+160"
+          "new_ml": "+170"
         },
         "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "shorter",
+          "points_moved": 13,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -205 \u2190 -192",
           "old_ml": "-192",
-          "new_ml": "-192"
+          "new_ml": "-205"
         },
-        "snapshot_time": "April 14, 2026 at 06:21 AM UTC"
+        "snapshot_time": "April 14, 2026 at 03:53 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
+          "status": "RESTED",
+          "label": "2 days rest \u2705",
+          "battery": 88,
           "last_game": "Apr 12",
-          "days_rest": 2,
-          "games_last_4d": 2,
-          "travel_miles": 827,
-          "travel_desc": "827 mi road trip",
+          "days_rest": 3,
+          "games_last_4d": 1,
+          "travel_miles": 0,
+          "travel_desc": "",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
+          "status": "RESTED",
+          "label": "2 days rest \u2705",
+          "battery": 88,
           "last_game": "Apr 12",
-          "days_rest": 2,
-          "games_last_4d": 2,
+          "days_rest": 3,
+          "games_last_4d": 1,
           "travel_miles": 346,
           "travel_desc": "346 mi road trip",
           "source": "ESPN Scoreboard API"
         }
       },
       "edge_factors": [
-        "\ud83d\udcca 26.2pt probability edge"
+        "\ud83d\udd25 Sharp steam detected"
       ],
       "injury_notes": "Kawhi Leonard (F); Draymond Green (F)",
       "sharp": {
@@ -529,9 +536,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "Los Angeles Clippers hold a 63.1% edge.",
+        "trend": "Los Angeles Clippers hold a 64.5% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "steam": "Line steamed from -192 to -205 (13pt move) \u2014 heavy professional action on Los Angeles Clippers.",
         "injury_notes": "Kawhi Leonard (F); Draymond Green (F)"
       },
       "live": {
@@ -548,7 +555,7 @@
           "title": "Curry on minutes restriction in must-win play-in",
           "source": "www.espn.com - NBA",
           "link": "https://www.espn.com/nba/story/_/id/48483414/curry-minutes-restriction-warriors-win-play-in",
-          "published": "Tue, 14 Apr 2026 09:16:00 EST"
+          "published": "Tue, 14 Apr 2026 17:56:26 EST"
         }
       ]
     },
@@ -558,69 +565,69 @@
       "away_team": "Toronto Raptors",
       "home_abbr": "CLE",
       "away_abbr": "TOR",
-      "home_ml": "-310",
-      "away_ml": "+250",
-      "home_ml_raw": -310,
-      "away_ml_raw": 250,
-      "home_prob": 72.6,
-      "away_prob": 27.4,
+      "home_ml": "-325",
+      "away_ml": "+260",
+      "home_ml_raw": -325,
+      "away_ml_raw": 260,
+      "home_prob": 73.4,
+      "away_prob": 26.6,
       "spread": "CLE -7.5",
       "favorite": "Cleveland Cavaliers",
       "pick": "Cleveland Cavaliers",
       "pick_abbr": "CLE",
-      "moneyline": "-310",
-      "win_probability": 72.6,
+      "moneyline": "-325",
+      "win_probability": 73.4,
       "confidence": "HIGH",
       "confidence_stars": "\u2605\u2605\u2605",
       "commence_time": "2026-04-18T17:10:00Z",
       "line_movement": {
         "home": {
           "direction": "shorter",
-          "points_moved": 12,
+          "points_moved": 15,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM -310 \u2190 -298",
-          "old_ml": "-298",
-          "new_ml": "-310"
+          "label": "\ud83d\udd25 STEAM -325 \u2190 -310",
+          "old_ml": "-310",
+          "new_ml": "-325"
         },
         "away": {
           "direction": "longer",
           "points_moved": 10,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM +250 \u2190 +240",
-          "old_ml": "+240",
-          "new_ml": "+250"
+          "label": "\ud83d\udd25 STEAM +260 \u2190 +250",
+          "old_ml": "+250",
+          "new_ml": "+260"
         },
         "pick": {
           "direction": "shorter",
-          "points_moved": 12,
+          "points_moved": 15,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM -310 \u2190 -298",
-          "old_ml": "-298",
-          "new_ml": "-310"
+          "label": "\ud83d\udd25 STEAM -325 \u2190 -310",
+          "old_ml": "-310",
+          "new_ml": "-325"
         },
-        "snapshot_time": "April 14, 2026 at 06:21 AM UTC"
+        "snapshot_time": "April 14, 2026 at 03:53 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
+          "status": "RESTED",
+          "label": "2 days rest \u2705",
+          "battery": 88,
           "last_game": "Apr 12",
-          "days_rest": 2,
-          "games_last_4d": 2,
-          "travel_miles": 555,
-          "travel_desc": "555 mi road trip",
+          "days_rest": 3,
+          "games_last_4d": 1,
+          "travel_miles": 0,
+          "travel_desc": "",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
+          "status": "RESTED",
+          "label": "2 days rest \u2705",
+          "battery": 88,
           "last_game": "Apr 12",
-          "days_rest": 2,
-          "games_last_4d": 2,
-          "travel_miles": 340,
-          "travel_desc": "340 mi road trip",
+          "days_rest": 3,
+          "games_last_4d": 1,
+          "travel_miles": 0,
+          "travel_desc": "",
           "source": "ESPN Scoreboard API"
         }
       },
@@ -662,9 +669,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "Cleveland Cavaliers hold a 72.6% edge.",
+        "trend": "Cleveland Cavaliers hold a 73.4% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -298 to -310 (12pt move) \u2014 heavy professional action on Cleveland Cavaliers.",
+        "steam": "Line steamed from -310 to -325 (15pt move) \u2014 heavy professional action on Cleveland Cavaliers.",
         "injury_notes": "Immanuel Quickley (G)"
       },
       "live": {
@@ -678,10 +685,10 @@
       },
       "news": [
         {
-          "title": "'Drake's seats froze': Raptors lean into 'Iceman' buzz with icy setup",
+          "title": "\ud83e\udd76 'Drake's seats froze': Raptors lean into buzz",
           "source": "www.espn.com - NBA",
           "link": "https://www.espn.com/nba/story/_/id/48478158/drake-toronto-raptors-courtside-seats-covered-ice-frozen-iceman",
-          "published": "Mon, 13 Apr 2026 18:22:51 EST"
+          "published": "Tue, 14 Apr 2026 17:56:26 EST"
         }
       ]
     },
@@ -731,29 +738,29 @@
           "old_ml": "-250",
           "new_ml": "-250"
         },
-        "snapshot_time": "April 14, 2026 at 06:21 AM UTC"
+        "snapshot_time": "April 14, 2026 at 03:53 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
+          "status": "RESTED",
+          "label": "2 days rest \u2705",
+          "battery": 88,
           "last_game": "Apr 12",
-          "days_rest": 2,
-          "games_last_4d": 2,
+          "days_rest": 3,
+          "games_last_4d": 1,
           "travel_miles": 805,
           "travel_desc": "805 mi road trip",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
+          "status": "RESTED",
+          "label": "2 days rest \u2705",
+          "battery": 88,
           "last_game": "Apr 12",
-          "days_rest": 2,
-          "games_last_4d": 2,
-          "travel_miles": 1058,
-          "travel_desc": "1,058 mi road trip",
+          "days_rest": 3,
+          "games_last_4d": 1,
+          "travel_miles": 0,
+          "travel_desc": "",
           "source": "ESPN Scoreboard API"
         }
       },
@@ -811,22 +818,22 @@
       },
       "news": [
         {
-          "title": "From agony to ecstasy \u2013 Details of Rory McIlroy\u2019s heart rate on final hole tells the real Masters story",
-          "source": "Independent.ie",
-          "link": "https://www.independent.ie/sport/golf/from-agony-to-ecstasy-details-of-rory-mcilroys-heart-rate-on-final-hole-tells-the-real-masters-story/a433600701.html",
-          "published": "2026-04-13T15:52:59Z"
-        },
-        {
-          "title": "'I Don't Even Have Money for a Cheeseburger' \u2014 Former NBA Star Allen Iverson Says He Wanted To 'Recklessly' Make Everyone Happy So Blew His Millions On Friends",
+          "title": "Boston Celtics star Jaylen Brown wins top honor for his...interviews?",
           "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/articles/dont-even-money-cheeseburger-former-154605923.html",
-          "published": "2026-04-13T15:46:05Z"
+          "link": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_5e9d81ac-407e-4538-a152-7326642d2e86",
+          "published": "2026-04-14T00:04:53Z"
         },
         {
-          "title": "Willy Chavarria Gives the Adidas Superstar\u2019s Signature Shell Toe Its Flowers With New Rose\u00a0Detail",
-          "source": "WWD",
-          "link": "http://wwd.com/footwear-news/sneaker-news/willy-chavarria-adidas-superstar-rose-toe-love-prevails-1238913045/",
-          "published": "2026-04-13T15:44:35Z"
+          "title": "Why Michael Malone cut ties with 5-star recruit that shocked UNC fans",
+          "source": "Sporting News",
+          "link": "https://www.sportingnews.com/us/ncaa-basketball/news/why-michael-malone-cut-ties-5-star-recruit-shocked-unc-fans/4874feacaaa0a6d827479a96",
+          "published": "2026-04-14T00:00:46Z"
+        },
+        {
+          "title": "The Phoenix Suns were average during the regular season",
+          "source": "Bright Side of the Sun",
+          "link": "https://www.brightsideofthesun.com/suns-analysis/102512/suns-season-review-stats-net-rating-jordan-ott-devin-booker-defense-identity-play-in",
+          "published": "2026-04-14T00:00:00Z"
         }
       ]
     },
@@ -876,27 +883,27 @@
           "old_ml": "-192",
           "new_ml": "-192"
         },
-        "snapshot_time": "April 14, 2026 at 06:21 AM UTC"
+        "snapshot_time": "April 14, 2026 at 03:53 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
+          "status": "RESTED",
+          "label": "2 days rest \u2705",
+          "battery": 88,
           "last_game": "Apr 12",
-          "days_rest": 2,
-          "games_last_4d": 2,
+          "days_rest": 3,
+          "games_last_4d": 1,
           "travel_miles": 0,
           "travel_desc": "",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
+          "status": "RESTED",
+          "label": "2 days rest \u2705",
+          "battery": 88,
           "last_game": "Apr 12",
-          "days_rest": 2,
-          "games_last_4d": 2,
+          "days_rest": 3,
+          "games_last_4d": 1,
           "travel_miles": 606,
           "travel_desc": "606 mi road trip",
           "source": "ESPN Scoreboard API"
@@ -956,22 +963,22 @@
       },
       "news": [
         {
-          "title": "From agony to ecstasy \u2013 Details of Rory McIlroy\u2019s heart rate on final hole tells the real Masters story",
-          "source": "Independent.ie",
-          "link": "https://www.independent.ie/sport/golf/from-agony-to-ecstasy-details-of-rory-mcilroys-heart-rate-on-final-hole-tells-the-real-masters-story/a433600701.html",
-          "published": "2026-04-13T15:52:59Z"
-        },
-        {
-          "title": "'I Don't Even Have Money for a Cheeseburger' \u2014 Former NBA Star Allen Iverson Says He Wanted To 'Recklessly' Make Everyone Happy So Blew His Millions On Friends",
+          "title": "Boston Celtics star Jaylen Brown wins top honor for his...interviews?",
           "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/articles/dont-even-money-cheeseburger-former-154605923.html",
-          "published": "2026-04-13T15:46:05Z"
+          "link": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_5e9d81ac-407e-4538-a152-7326642d2e86",
+          "published": "2026-04-14T00:04:53Z"
         },
         {
-          "title": "Willy Chavarria Gives the Adidas Superstar\u2019s Signature Shell Toe Its Flowers With New Rose\u00a0Detail",
-          "source": "WWD",
-          "link": "http://wwd.com/footwear-news/sneaker-news/willy-chavarria-adidas-superstar-rose-toe-love-prevails-1238913045/",
-          "published": "2026-04-13T15:44:35Z"
+          "title": "Why Michael Malone cut ties with 5-star recruit that shocked UNC fans",
+          "source": "Sporting News",
+          "link": "https://www.sportingnews.com/us/ncaa-basketball/news/why-michael-malone-cut-ties-5-star-recruit-shocked-unc-fans/4874feacaaa0a6d827479a96",
+          "published": "2026-04-14T00:00:46Z"
+        },
+        {
+          "title": "The Phoenix Suns were average during the regular season",
+          "source": "Bright Side of the Sun",
+          "link": "https://www.brightsideofthesun.com/suns-analysis/102512/suns-season-review-stats-net-rating-jordan-ott-devin-booker-defense-identity-play-in",
+          "published": "2026-04-14T00:00:00Z"
         }
       ]
     },
@@ -1021,27 +1028,27 @@
           "old_ml": "-218",
           "new_ml": "-218"
         },
-        "snapshot_time": "April 14, 2026 at 06:21 AM UTC"
+        "snapshot_time": "April 14, 2026 at 03:53 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
+          "status": "RESTED",
+          "label": "2 days rest \u2705",
+          "battery": 88,
           "last_game": "Apr 12",
-          "days_rest": 2,
-          "games_last_4d": 2,
+          "days_rest": 3,
+          "games_last_4d": 1,
           "travel_miles": 0,
           "travel_desc": "",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
+          "status": "RESTED",
+          "label": "2 days rest \u2705",
+          "battery": 88,
           "last_game": "Apr 12",
-          "days_rest": 2,
-          "games_last_4d": 2,
+          "days_rest": 3,
+          "games_last_4d": 1,
           "travel_miles": 0,
           "travel_desc": "",
           "source": "ESPN Scoreboard API"
@@ -1101,10 +1108,16 @@
       },
       "news": [
         {
-          "title": "NBA postseason intel: Six big questions we're watching right now",
+          "title": "Bronny's Nike 'B9' logo trademark filing denied",
           "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/nba/story/_/id/48443792/nba-playoffs-intel-lebron-lakers-chances-curry-warriors-issues-major-questions",
-          "published": "Tue, 14 Apr 2026 08:13:08 EST"
+          "link": "https://www.espn.com/nba/story/_/id/48484679/nike-trademark-filing-bronny-james-b9-logo-denied",
+          "published": "Tue, 14 Apr 2026 17:56:26 EST"
+        },
+        {
+          "title": "No update on Doncic as Lakers prep for Rockets",
+          "source": "www.espn.com - NBA",
+          "link": "https://www.espn.com/nba/story/_/id/48487988/redick-gives-no-doncic-update-lakers-playoff-prep-begins",
+          "published": "Tue, 14 Apr 2026 17:56:26 EST"
         }
       ]
     }
