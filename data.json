@@ -1,5 +1,5 @@
 {
-  "last_updated": "April 15, 2026 at 02:58 PM UTC",
+  "last_updated": "April 16, 2026 at 12:07 AM UTC",
   "total_games": 7,
   "games": [
     {
@@ -9,218 +9,74 @@
       "home_abbr": "PHI",
       "away_abbr": "ORL",
       "home_ml": "-130",
-      "away_ml": "+110",
+      "away_ml": "+100",
       "home_ml_raw": -130,
-      "away_ml_raw": 110,
-      "home_prob": 54.3,
-      "away_prob": 45.7,
+      "away_ml_raw": 100,
+      "home_prob": 53.1,
+      "away_prob": 46.9,
       "spread": "PHI -1.5",
       "favorite": "Philadelphia 76ers",
       "pick": "Philadelphia 76ers",
       "pick_abbr": "PHI",
       "moneyline": "-130",
-      "win_probability": 54.3,
+      "win_probability": 53.1,
       "confidence": "LOW",
       "confidence_stars": "\u2605\u2606\u2606",
-      "commence_time": "2026-04-15T23:40:00Z",
+      "commence_time": "2026-04-15T23:40:47Z",
       "line_movement": {
         "home": {
-          "direction": "longer",
-          "points_moved": 5,
+          "direction": "none",
+          "points_moved": 0,
           "steam": false,
-          "label": "\ud83d\udd34 -130 \u2190 -135",
-          "old_ml": "-135",
+          "label": "No movement",
+          "old_ml": "-130",
           "new_ml": "-130"
         },
         "away": {
           "direction": "shorter",
-          "points_moved": 4,
-          "steam": false,
-          "label": "\ud83d\udfe2 +110 \u2190 +114",
-          "old_ml": "+114",
-          "new_ml": "+110"
+          "points_moved": 10,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM +100 \u2190 +110",
+          "old_ml": "+110",
+          "new_ml": "+100"
         },
         "pick": {
-          "direction": "longer",
-          "points_moved": 5,
+          "direction": "none",
+          "points_moved": 0,
           "steam": false,
-          "label": "\ud83d\udd34 -130 \u2190 -135",
-          "old_ml": "-135",
+          "label": "No movement",
+          "old_ml": "-130",
           "new_ml": "-130"
         },
-        "snapshot_time": "April 15, 2026 at 06:22 AM UTC"
+        "snapshot_time": "April 15, 2026 at 02:58 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "RESTED",
-          "label": "2 days rest \u2705",
-          "battery": 88,
-          "last_game": "Apr 12",
-          "days_rest": 3,
-          "games_last_4d": 1,
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Apr 15",
+          "days_rest": 1,
+          "games_last_4d": 2,
           "travel_miles": 0,
           "travel_desc": "",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "RESTED",
-          "label": "2 days rest \u2705",
-          "battery": 88,
-          "last_game": "Apr 12",
-          "days_rest": 3,
-          "games_last_4d": 1,
-          "travel_miles": 1116,
-          "travel_desc": "1,116 mi road trip",
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Apr 15",
+          "days_rest": 1,
+          "games_last_4d": 2,
+          "travel_miles": 861,
+          "travel_desc": "861 mi road trip",
           "source": "ESPN Scoreboard API"
         }
       },
       "edge_factors": [
-        "\ud83d\udcca 8.6pt probability edge"
-      ],
-      "injury_notes": "Trendon Watford (F)",
-      "sharp": {
-        "away_t": null,
-        "home_t": null,
-        "source": null,
-        "sharp_signal": null,
-        "sharp_label": "Pending \u2014 check closer to tip-off",
-        "rlm": false
-      },
-      "form": {
-        "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        },
-        "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        }
-      },
-      "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
-      },
-      "briefing": {
-        "trend": "Philadelphia 76ers hold a 54.3% edge.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line moved -135\u2192-130 (5pts). Pending \u2014 check closer to tip-off",
-        "injury_notes": "Trendon Watford (F)"
-      },
-      "live": {
-        "status": "pre",
-        "status_detail": "Upcoming",
-        "period": 0,
-        "clock": "",
-        "home_score": 0,
-        "away_score": 0,
-        "spread_alert": null
-      },
-      "news": [
-        {
-          "title": "Where to watch Miami Heat vs. Charlotte Hornets NBA play-in tournament: Live stream, start time, TV channel, odds for Tuesday, April 14",
-          "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/nba/article/where-to-watch-miami-heat-vs-charlotte-hornets-nba-play-in-tournament-live-stream-start-time-tv-channel-odds-for-tuesday-april-14-145503332.html",
-          "published": "2026-04-14T14:55:03Z"
-        },
-        {
-          "title": "Use BetMGM bonus code CBSSPORTS to get $150 in bonus bets for Heat-Hornets, Suns-Trail Blazers, MLB on Tuesday",
-          "source": "CBS Sports",
-          "link": "https://www.cbssports.com/betting/news/use-betmgm-bonus-code-cbssports-to-get-150-bonus-bets-heat-hornets-suns-trail-blazers-mlb-tuesday/",
-          "published": "2026-04-14T14:53:45Z"
-        },
-        {
-          "title": "Knicks Playoff Mailbag: Josh Hart's importance in the starting lineup, Hawks series prediction",
-          "source": "SNY.tv",
-          "link": "https://sny.tv/articles/knicks-playoff-mailbag-begley-hawks-041426",
-          "published": "2026-04-14T14:49:14Z"
-        }
-      ]
-    },
-    {
-      "game": "Golden State Warriors @ Los Angeles Clippers",
-      "home_team": "Los Angeles Clippers",
-      "away_team": "Golden State Warriors",
-      "home_abbr": "LAC",
-      "away_abbr": "GSW",
-      "home_ml": "-205",
-      "away_ml": "+170",
-      "home_ml_raw": -205,
-      "away_ml_raw": 170,
-      "home_prob": 64.5,
-      "away_prob": 35.5,
-      "spread": "LAC -5.5",
-      "favorite": "Los Angeles Clippers",
-      "pick": "Los Angeles Clippers",
-      "pick_abbr": "LAC",
-      "moneyline": "-205",
-      "win_probability": 64.5,
-      "confidence": "MEDIUM",
-      "confidence_stars": "\u2605\u2605\u2606",
-      "commence_time": "2026-04-16T02:10:00Z",
-      "line_movement": {
-        "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
-          "old_ml": "-205",
-          "new_ml": "-205"
-        },
-        "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
-          "old_ml": "+170",
-          "new_ml": "+170"
-        },
-        "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
-          "old_ml": "-205",
-          "new_ml": "-205"
-        },
-        "snapshot_time": "April 15, 2026 at 06:22 AM UTC"
-      },
-      "fatigue": {
-        "home": {
-          "status": "RESTED",
-          "label": "2 days rest \u2705",
-          "battery": 88,
-          "last_game": "Apr 12",
-          "days_rest": 3,
-          "games_last_4d": 1,
-          "travel_miles": 0,
-          "travel_desc": "",
-          "source": "ESPN Scoreboard API"
-        },
-        "away": {
-          "status": "RESTED",
-          "label": "2 days rest \u2705",
-          "battery": 88,
-          "last_game": "Apr 12",
-          "days_rest": 3,
-          "games_last_4d": 1,
-          "travel_miles": 346,
-          "travel_desc": "346 mi road trip",
-          "source": "ESPN Scoreboard API"
-        }
-      },
-      "edge_factors": [
-        "\ud83d\udcca 29.0pt probability edge"
+        "\ud83d\udd25 Sharp steam detected",
+        "\ud83d\udca4 ORL fatigued (B2B) \u2014 source: ESPN"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -257,9 +113,142 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "Los Angeles Clippers hold a 64.5% edge.",
+        "trend": "PHI on Back-to-Back \u26a0\ufe0f per ESPN schedule data. ORL on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
         "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "injury_notes": "No key injuries."
+      },
+      "live": {
+        "status": "pre",
+        "status_detail": "Upcoming",
+        "period": 0,
+        "clock": "",
+        "home_score": 0,
+        "away_score": 0,
+        "spread_alert": null
+      },
+      "news": [
+        {
+          "title": "Follow live: 76ers, Magic face off in play-in tournament",
+          "source": "www.espn.com - NBA",
+          "link": "https://www.espn.com/nba/story/_/id/48488725/nba-2026-play-tournament-magic-76ers-clippers-warriors-live-updates-results-highlights",
+          "published": "Wed, 15 Apr 2026 19:58:16 EST"
+        }
+      ]
+    },
+    {
+      "game": "Golden State Warriors @ Los Angeles Clippers",
+      "home_team": "Los Angeles Clippers",
+      "away_team": "Golden State Warriors",
+      "home_abbr": "LAC",
+      "away_abbr": "GSW",
+      "home_ml": "-218",
+      "away_ml": "+180",
+      "home_ml_raw": -218,
+      "away_ml_raw": 180,
+      "home_prob": 65.7,
+      "away_prob": 34.3,
+      "spread": "LAC -5.5",
+      "favorite": "Los Angeles Clippers",
+      "pick": "Los Angeles Clippers",
+      "pick_abbr": "LAC",
+      "moneyline": "-218",
+      "win_probability": 65.7,
+      "confidence": "MEDIUM",
+      "confidence_stars": "\u2605\u2605\u2606",
+      "commence_time": "2026-04-16T02:10:00Z",
+      "line_movement": {
+        "home": {
+          "direction": "shorter",
+          "points_moved": 13,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -218 \u2190 -205",
+          "old_ml": "-205",
+          "new_ml": "-218"
+        },
+        "away": {
+          "direction": "longer",
+          "points_moved": 10,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM +180 \u2190 +170",
+          "old_ml": "+170",
+          "new_ml": "+180"
+        },
+        "pick": {
+          "direction": "shorter",
+          "points_moved": 13,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -218 \u2190 -205",
+          "old_ml": "-205",
+          "new_ml": "-218"
+        },
+        "snapshot_time": "April 15, 2026 at 02:58 PM UTC"
+      },
+      "fatigue": {
+        "home": {
+          "status": "FRESH",
+          "label": "Well rested \u2705",
+          "battery": 100,
+          "last_game": "Apr 12",
+          "days_rest": 4,
+          "games_last_4d": 1,
+          "travel_miles": 0,
+          "travel_desc": "",
+          "source": "ESPN Scoreboard API"
+        },
+        "away": {
+          "status": "FRESH",
+          "label": "Well rested \u2705",
+          "battery": 100,
+          "last_game": "Apr 12",
+          "days_rest": 4,
+          "games_last_4d": 1,
+          "travel_miles": 346,
+          "travel_desc": "346 mi road trip",
+          "source": "ESPN Scoreboard API"
+        }
+      },
+      "edge_factors": [
+        "\ud83d\udd25 Sharp steam detected"
+      ],
+      "injury_notes": "No key injuries.",
+      "sharp": {
+        "away_t": null,
+        "home_t": null,
+        "source": null,
+        "sharp_signal": null,
+        "sharp_label": "Pending \u2014 check closer to tip-off",
+        "rlm": false
+      },
+      "form": {
+        "home": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        },
+        "away": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        }
+      },
+      "h2h": {
+        "total_meetings": 0,
+        "home_wins": 0,
+        "away_wins": 0,
+        "meetings": [],
+        "source": "\u2014"
+      },
+      "briefing": {
+        "trend": "Los Angeles Clippers hold a 65.7% edge.",
+        "matchup": "Both rosters appear healthy \u2014 clean line.",
+        "steam": "Line steamed from -205 to -218 (13pt move) \u2014 heavy professional action on Los Angeles Clippers.",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -276,13 +265,13 @@
           "title": "Curry on minutes restriction in must-win play-in",
           "source": "www.espn.com - NBA",
           "link": "https://www.espn.com/nba/story/_/id/48483414/curry-minutes-restriction-warriors-win-play-in",
-          "published": "Wed, 15 Apr 2026 09:43:35 EST"
+          "published": "Wed, 15 Apr 2026 19:53:49 EST"
         },
         {
           "title": "No seats, no silence: A night inside the Clippers' Wall",
           "source": "www.espn.com - NBA",
           "link": "https://www.espn.com/nba/story/_/id/48350302/inside-clippers-wall-swell-intuit-dome-experience",
-          "published": "Wed, 15 Apr 2026 09:17:29 EST"
+          "published": "Wed, 15 Apr 2026 12:07:57 EST"
         }
       ]
     },
@@ -332,26 +321,26 @@
           "old_ml": "-340",
           "new_ml": "-340"
         },
-        "snapshot_time": "April 15, 2026 at 06:22 AM UTC"
+        "snapshot_time": "April 15, 2026 at 02:58 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "RESTED",
-          "label": "2 days rest \u2705",
-          "battery": 88,
+          "status": "FRESH",
+          "label": "Well rested \u2705",
+          "battery": 100,
           "last_game": "Apr 12",
-          "days_rest": 3,
+          "days_rest": 4,
           "games_last_4d": 1,
           "travel_miles": 0,
           "travel_desc": "",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "RESTED",
-          "label": "2 days rest \u2705",
-          "battery": 88,
+          "status": "FRESH",
+          "label": "Well rested \u2705",
+          "battery": 100,
           "last_game": "Apr 12",
-          "days_rest": 3,
+          "days_rest": 4,
           "games_last_4d": 1,
           "travel_miles": 0,
           "travel_desc": "",
@@ -412,22 +401,22 @@
       },
       "news": [
         {
-          "title": "Where to watch Miami Heat vs. Charlotte Hornets NBA play-in tournament: Live stream, start time, TV channel, odds for Tuesday, April 14",
-          "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/nba/article/where-to-watch-miami-heat-vs-charlotte-hornets-nba-play-in-tournament-live-stream-start-time-tv-channel-odds-for-tuesday-april-14-145503332.html",
-          "published": "2026-04-14T14:55:03Z"
+          "title": "Kawhi Leonard lauds Warriors ahead of Play-In Tournament matchup",
+          "source": "USA Today",
+          "link": "https://warriorswire.usatoday.com/story/sports/nba/warriors/2026/04/14/kawhi-leonard-lauds-warriors-ahead-of-play-in-tournament-matchup/89615584007/",
+          "published": "2026-04-15T00:00:46Z"
         },
         {
-          "title": "Use BetMGM bonus code CBSSPORTS to get $150 in bonus bets for Heat-Hornets, Suns-Trail Blazers, MLB on Tuesday",
-          "source": "CBS Sports",
-          "link": "https://www.cbssports.com/betting/news/use-betmgm-bonus-code-cbssports-to-get-150-bonus-bets-heat-hornets-suns-trail-blazers-mlb-tuesday/",
-          "published": "2026-04-14T14:53:45Z"
+          "title": "Washington basketball in contact with high-scoring Big West freshman G",
+          "source": "USA Today",
+          "link": "https://uwhuskieswire.usatoday.com/story/sports/college/huskies/mens-basketball/2026/04/14/gavin-sykes-transfer-portal-danny-sprinkle-uw-basketball-washington-huskies/89590597007/",
+          "published": "2026-04-15T00:00:25Z"
         },
         {
-          "title": "Knicks Playoff Mailbag: Josh Hart's importance in the starting lineup, Hawks series prediction",
-          "source": "SNY.tv",
-          "link": "https://sny.tv/articles/knicks-playoff-mailbag-begley-hawks-041426",
-          "published": "2026-04-14T14:49:14Z"
+          "title": "Cavaliers vs. Raptors series prediction: 2026 NBA playoffs odds, picks, best bet",
+          "source": "New York Post",
+          "link": "https://nypost.com/2026/04/14/betting/cavaliers-vs-raptors-series-prediction-2026-nba-playoffs-odds-picks-best-bet/",
+          "published": "2026-04-15T00:00:00Z"
         }
       ]
     },
@@ -477,26 +466,26 @@
           "old_ml": "-245",
           "new_ml": "-245"
         },
-        "snapshot_time": "April 15, 2026 at 06:22 AM UTC"
+        "snapshot_time": "April 15, 2026 at 02:58 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "RESTED",
-          "label": "2 days rest \u2705",
-          "battery": 88,
+          "status": "FRESH",
+          "label": "Well rested \u2705",
+          "battery": 100,
           "last_game": "Apr 12",
-          "days_rest": 3,
+          "days_rest": 4,
           "games_last_4d": 1,
           "travel_miles": 805,
           "travel_desc": "805 mi road trip",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "RESTED",
-          "label": "2 days rest \u2705",
-          "battery": 88,
+          "status": "FRESH",
+          "label": "Well rested \u2705",
+          "battery": 100,
           "last_game": "Apr 12",
-          "days_rest": 3,
+          "days_rest": 4,
           "games_last_4d": 1,
           "travel_miles": 0,
           "travel_desc": "",
@@ -557,22 +546,10 @@
       },
       "news": [
         {
-          "title": "Where to watch Miami Heat vs. Charlotte Hornets NBA play-in tournament: Live stream, start time, TV channel, odds for Tuesday, April 14",
-          "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/nba/article/where-to-watch-miami-heat-vs-charlotte-hornets-nba-play-in-tournament-live-stream-start-time-tv-channel-odds-for-tuesday-april-14-145503332.html",
-          "published": "2026-04-14T14:55:03Z"
-        },
-        {
-          "title": "Use BetMGM bonus code CBSSPORTS to get $150 in bonus bets for Heat-Hornets, Suns-Trail Blazers, MLB on Tuesday",
-          "source": "CBS Sports",
-          "link": "https://www.cbssports.com/betting/news/use-betmgm-bonus-code-cbssports-to-get-150-bonus-bets-heat-hornets-suns-trail-blazers-mlb-tuesday/",
-          "published": "2026-04-14T14:53:45Z"
-        },
-        {
-          "title": "Knicks Playoff Mailbag: Josh Hart's importance in the starting lineup, Hawks series prediction",
-          "source": "SNY.tv",
-          "link": "https://sny.tv/articles/knicks-playoff-mailbag-begley-hawks-041426",
-          "published": "2026-04-14T14:49:14Z"
+          "title": "Wolves ready to 'flip the switch' off uneven season",
+          "source": "www.espn.com - NBA",
+          "link": "https://www.espn.com/nba/story/_/id/48498095/edwards-wolves-ready-flip-switch-uneven-season",
+          "published": "Wed, 15 Apr 2026 19:53:49 EST"
         }
       ]
     },
@@ -588,7 +565,7 @@
       "away_ml_raw": 170,
       "home_prob": 64.5,
       "away_prob": 35.5,
-      "spread": "NYK -4.5",
+      "spread": "NYK -5.5",
       "favorite": "New York Knicks",
       "pick": "New York Knicks",
       "pick_abbr": "NYK",
@@ -622,26 +599,26 @@
           "old_ml": "-205",
           "new_ml": "-205"
         },
-        "snapshot_time": "April 15, 2026 at 06:22 AM UTC"
+        "snapshot_time": "April 15, 2026 at 02:58 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "RESTED",
-          "label": "2 days rest \u2705",
-          "battery": 88,
+          "status": "FRESH",
+          "label": "Well rested \u2705",
+          "battery": 100,
           "last_game": "Apr 12",
-          "days_rest": 3,
+          "days_rest": 4,
           "games_last_4d": 1,
           "travel_miles": 0,
           "travel_desc": "",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "RESTED",
-          "label": "2 days rest \u2705",
-          "battery": 88,
+          "status": "FRESH",
+          "label": "Well rested \u2705",
+          "battery": 100,
           "last_game": "Apr 12",
-          "days_rest": 3,
+          "days_rest": 4,
           "games_last_4d": 1,
           "travel_miles": 606,
           "travel_desc": "606 mi road trip",
@@ -702,22 +679,22 @@
       },
       "news": [
         {
-          "title": "Where to watch Miami Heat vs. Charlotte Hornets NBA play-in tournament: Live stream, start time, TV channel, odds for Tuesday, April 14",
-          "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/nba/article/where-to-watch-miami-heat-vs-charlotte-hornets-nba-play-in-tournament-live-stream-start-time-tv-channel-odds-for-tuesday-april-14-145503332.html",
-          "published": "2026-04-14T14:55:03Z"
+          "title": "Kawhi Leonard lauds Warriors ahead of Play-In Tournament matchup",
+          "source": "USA Today",
+          "link": "https://warriorswire.usatoday.com/story/sports/nba/warriors/2026/04/14/kawhi-leonard-lauds-warriors-ahead-of-play-in-tournament-matchup/89615584007/",
+          "published": "2026-04-15T00:00:46Z"
         },
         {
-          "title": "Use BetMGM bonus code CBSSPORTS to get $150 in bonus bets for Heat-Hornets, Suns-Trail Blazers, MLB on Tuesday",
-          "source": "CBS Sports",
-          "link": "https://www.cbssports.com/betting/news/use-betmgm-bonus-code-cbssports-to-get-150-bonus-bets-heat-hornets-suns-trail-blazers-mlb-tuesday/",
-          "published": "2026-04-14T14:53:45Z"
+          "title": "Washington basketball in contact with high-scoring Big West freshman G",
+          "source": "USA Today",
+          "link": "https://uwhuskieswire.usatoday.com/story/sports/college/huskies/mens-basketball/2026/04/14/gavin-sykes-transfer-portal-danny-sprinkle-uw-basketball-washington-huskies/89590597007/",
+          "published": "2026-04-15T00:00:25Z"
         },
         {
-          "title": "Knicks Playoff Mailbag: Josh Hart's importance in the starting lineup, Hawks series prediction",
-          "source": "SNY.tv",
-          "link": "https://sny.tv/articles/knicks-playoff-mailbag-begley-hawks-041426",
-          "published": "2026-04-14T14:49:14Z"
+          "title": "Cavaliers vs. Raptors series prediction: 2026 NBA playoffs odds, picks, best bet",
+          "source": "New York Post",
+          "link": "https://nypost.com/2026/04/14/betting/cavaliers-vs-raptors-series-prediction-2026-nba-playoffs-odds-picks-best-bet/",
+          "published": "2026-04-15T00:00:00Z"
         }
       ]
     },
@@ -767,26 +744,26 @@
           "old_ml": "-205",
           "new_ml": "-205"
         },
-        "snapshot_time": "April 15, 2026 at 06:22 AM UTC"
+        "snapshot_time": "April 15, 2026 at 02:58 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "RESTED",
-          "label": "2 days rest \u2705",
-          "battery": 88,
+          "status": "FRESH",
+          "label": "Well rested \u2705",
+          "battery": 100,
           "last_game": "Apr 12",
-          "days_rest": 3,
+          "days_rest": 4,
           "games_last_4d": 1,
           "travel_miles": 0,
           "travel_desc": "",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "RESTED",
-          "label": "2 days rest \u2705",
-          "battery": 88,
+          "status": "FRESH",
+          "label": "Well rested \u2705",
+          "battery": 100,
           "last_game": "Apr 12",
-          "days_rest": 3,
+          "days_rest": 4,
           "games_last_4d": 1,
           "travel_miles": 0,
           "travel_desc": "",
@@ -847,16 +824,10 @@
       },
       "news": [
         {
-          "title": "Bronny's Nike 'B9' logo trademark filing denied",
+          "title": "NBA Futures: Thunder, Celtics favored to make Finals",
           "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/nba/story/_/id/48484679/nike-trademark-filing-bronny-james-b9-logo-denied",
-          "published": "Wed, 15 Apr 2026 09:43:35 EST"
-        },
-        {
-          "title": "No update on Doncic as Lakers prep for Rockets",
-          "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/nba/story/_/id/48487988/redick-gives-no-doncic-update-lakers-playoff-prep-begins",
-          "published": "Wed, 15 Apr 2026 09:43:35 EST"
+          "link": "https://www.espn.com/espn/betting/story/_/id/45539787/2025-nba-finals-odds-mvp-2025-26-championship-betting",
+          "published": "Wed, 15 Apr 2026 12:40:57 EST"
         }
       ]
     },
@@ -880,52 +851,52 @@
       "win_probability": 78.7,
       "confidence": "HIGH",
       "confidence_stars": "\u2605\u2605\u2605",
-      "commence_time": "2026-04-20T01:00:00Z",
+      "commence_time": "2026-04-20T01:10:00Z",
       "line_movement": {
         "home": {
-          "direction": "shorter",
-          "points_moved": 15,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -455 \u2190 -440",
-          "old_ml": "-440",
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "No movement",
+          "old_ml": "-455",
           "new_ml": "-455"
         },
         "away": {
-          "direction": "longer",
-          "points_moved": 10,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM +350 \u2190 +340",
-          "old_ml": "+340",
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "No movement",
+          "old_ml": "+350",
           "new_ml": "+350"
         },
         "pick": {
-          "direction": "shorter",
-          "points_moved": 15,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -455 \u2190 -440",
-          "old_ml": "-440",
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "No movement",
+          "old_ml": "-455",
           "new_ml": "-455"
         },
-        "snapshot_time": "April 15, 2026 at 06:22 AM UTC"
+        "snapshot_time": "April 15, 2026 at 02:58 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "RESTED",
-          "label": "2 days rest \u2705",
-          "battery": 88,
+          "status": "FRESH",
+          "label": "Well rested \u2705",
+          "battery": 100,
           "last_game": "Apr 12",
-          "days_rest": 3,
+          "days_rest": 4,
           "games_last_4d": 1,
           "travel_miles": 0,
           "travel_desc": "",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
           "last_game": "Apr 14",
-          "days_rest": 1,
+          "days_rest": 2,
           "games_last_4d": 2,
           "travel_miles": 1006,
           "travel_desc": "1,006 mi road trip",
@@ -933,8 +904,7 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udd25 Sharp steam detected",
-        "\ud83d\udca4 POR fatigued (B2B) \u2014 source: ESPN"
+        "\ud83d\udcca 57.4pt probability edge"
       ],
       "injury_notes": "Dylan Harper (G)",
       "sharp": {
@@ -971,9 +941,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "POR on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "trend": "San Antonio Spurs hold a 78.7% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -440 to -455 (15pt move) \u2014 heavy professional action on San Antonio Spurs.",
+        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "Dylan Harper (G)"
       },
       "live": {
@@ -990,13 +960,7 @@
           "title": "Blazers ride Avdija's 41 over Suns, grab 7th seed",
           "source": "www.espn.com - NBA",
           "link": "https://www.espn.com/nba/story/_/id/48491106/blazers-rally-stun-suns-play-grab-west-no-7-seed",
-          "published": "Wed, 15 Apr 2026 09:43:35 EST"
-        },
-        {
-          "title": "Postseason preview: Matchups, biggest questions and what to know",
-          "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/nba/story/_/id/48447222/nba-playoffs-2026-preview-teams-postseason",
-          "published": "Wed, 15 Apr 2026 07:29:24 EST"
+          "published": "Wed, 15 Apr 2026 19:53:49 EST"
         }
       ]
     }
