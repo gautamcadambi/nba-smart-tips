@@ -1,5 +1,5 @@
 {
-  "last_updated": "April 16, 2026 at 04:11 PM UTC",
+  "last_updated": "April 17, 2026 at 12:04 AM UTC",
   "total_games": 8,
   "games": [
     {
@@ -8,77 +8,76 @@
       "away_team": "Charlotte Hornets",
       "home_abbr": "ORL",
       "away_abbr": "CHA",
-      "home_ml": "+145",
-      "away_ml": "-175",
-      "home_ml_raw": 145,
-      "away_ml_raw": -175,
-      "home_prob": 39.1,
-      "away_prob": 60.9,
+      "home_ml": "+142",
+      "away_ml": "-170",
+      "home_ml_raw": 142,
+      "away_ml_raw": -170,
+      "home_prob": 39.6,
+      "away_prob": 60.4,
       "spread": "ORL +3.5",
       "favorite": "Charlotte Hornets",
       "pick": "Charlotte Hornets",
       "pick_abbr": "CHA",
-      "moneyline": "-175",
-      "win_probability": 60.9,
+      "moneyline": "-170",
+      "win_probability": 60.4,
       "confidence": "MEDIUM",
       "confidence_stars": "\u2605\u2605\u2606",
       "commence_time": "2026-04-17T23:40:00Z",
       "line_movement": {
         "home": {
+          "direction": "shorter",
+          "points_moved": 3,
+          "steam": false,
+          "label": "\ud83d\udfe2 +142 \u2190 +145",
+          "old_ml": "+145",
+          "new_ml": "+142"
+        },
+        "away": {
           "direction": "longer",
           "points_moved": 5,
           "steam": false,
-          "label": "\ud83d\udd34 +145 \u2190 +140",
-          "old_ml": "+140",
-          "new_ml": "+145"
-        },
-        "away": {
-          "direction": "shorter",
-          "points_moved": 9,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -175 \u2190 -166",
-          "old_ml": "-166",
-          "new_ml": "-175"
+          "label": "\ud83d\udd34 -170 \u2190 -175",
+          "old_ml": "-175",
+          "new_ml": "-170"
         },
         "pick": {
-          "direction": "shorter",
-          "points_moved": 9,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -175 \u2190 -166",
-          "old_ml": "-166",
-          "new_ml": "-175"
+          "direction": "longer",
+          "points_moved": 5,
+          "steam": false,
+          "label": "\ud83d\udd34 -170 \u2190 -175",
+          "old_ml": "-175",
+          "new_ml": "-170"
         },
-        "snapshot_time": "April 16, 2026 at 06:24 AM UTC"
+        "snapshot_time": "April 16, 2026 at 04:11 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
           "last_game": "Apr 15",
-          "days_rest": 1,
-          "games_last_4d": 2,
+          "days_rest": 2,
+          "games_last_4d": 1,
           "travel_miles": 861,
           "travel_desc": "861 mi road trip",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
+          "status": "RESTED",
+          "label": "2 days rest \u2705",
+          "battery": 88,
           "last_game": "Apr 14",
-          "days_rest": 2,
-          "games_last_4d": 2,
-          "travel_miles": 533,
-          "travel_desc": "533 mi road trip",
+          "days_rest": 3,
+          "games_last_4d": 1,
+          "travel_miles": 0,
+          "travel_desc": "",
           "source": "ESPN Scoreboard API"
         }
       },
       "edge_factors": [
-        "\ud83d\udd25 Sharp steam detected",
-        "\ud83d\udca4 ORL fatigued (B2B) \u2014 source: ESPN"
+        "\ud83d\udcca 20.8pt probability edge"
       ],
-      "injury_notes": "No key injuries.",
+      "injury_notes": "Moussa Diabate (F)",
       "sharp": {
         "away_t": null,
         "home_t": null,
@@ -113,10 +112,10 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "ORL on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "trend": "Charlotte Hornets hold a 60.4% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -166 to -175 (9pt move) \u2014 heavy professional action on Charlotte Hornets.",
-        "injury_notes": "No key injuries."
+        "steam": "Line moved -175\u2192-170 (5pts). Pending \u2014 check closer to tip-off",
+        "injury_notes": "Moussa Diabate (F)"
       },
       "live": {
         "status": "pre",
@@ -129,22 +128,16 @@
       },
       "news": [
         {
-          "title": "Minus Embiid, Maxey propels Sixers into playoffs",
+          "title": "Spoelstra: No need to penalize Ball any further",
           "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/nba/story/_/id/48499241/maxey-scores-31-lead-sixers-magic-east-no-7-seed",
-          "published": "Thu, 16 Apr 2026 11:51:40 EST"
-        },
-        {
-          "title": "Hornets' Ball fined $35K for 'reckless' Bam play",
-          "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/nba/story/_/id/48498981/hornets-ball-fined-60k-total-pair-play-incidents",
-          "published": "Thu, 16 Apr 2026 11:51:40 EST"
+          "link": "https://www.espn.com/nba/story/_/id/48504650/spoelstra-no-need-penalize-hornets-ball-further",
+          "published": "Thu, 16 Apr 2026 18:38:56 EST"
         },
         {
           "title": "Inside Hornets' metamorphosis into the NBA's buzziest team",
           "source": "www.espn.com - NBA",
           "link": "https://www.espn.com/nba/story/_/id/48472147/nba-playoffs-2026-charlotte-hornets-kon-knueppel-lamelo-ball-play-miami-heat",
-          "published": "Thu, 16 Apr 2026 00:05:07 EST"
+          "published": "Thu, 16 Apr 2026 12:32:31 EST"
         }
       ]
     },
@@ -154,75 +147,74 @@
       "away_team": "Golden State Warriors",
       "home_abbr": "PHX",
       "away_abbr": "GSW",
-      "home_ml": "-142",
-      "away_ml": "+120",
-      "home_ml_raw": -142,
-      "away_ml_raw": 120,
-      "home_prob": 56.3,
-      "away_prob": 43.7,
-      "spread": "PHX -2.5",
+      "home_ml": "-155",
+      "away_ml": "+130",
+      "home_ml_raw": -155,
+      "away_ml_raw": 130,
+      "home_prob": 58.3,
+      "away_prob": 41.7,
+      "spread": "PHX -3.5",
       "favorite": "Phoenix Suns",
       "pick": "Phoenix Suns",
       "pick_abbr": "PHX",
-      "moneyline": "-142",
-      "win_probability": 56.3,
-      "confidence": "LOW",
-      "confidence_stars": "\u2605\u2606\u2606",
+      "moneyline": "-155",
+      "win_probability": 58.3,
+      "confidence": "MEDIUM",
+      "confidence_stars": "\u2605\u2605\u2606",
       "commence_time": "2026-04-18T02:10:00Z",
       "line_movement": {
         "home": {
           "direction": "shorter",
-          "points_moved": 17,
+          "points_moved": 13,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM -142 \u2190 -125",
-          "old_ml": "-125",
-          "new_ml": "-142"
+          "label": "\ud83d\udd25 STEAM -155 \u2190 -142",
+          "old_ml": "-142",
+          "new_ml": "-155"
         },
         "away": {
           "direction": "longer",
-          "points_moved": 15,
+          "points_moved": 10,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM +120 \u2190 +105",
-          "old_ml": "+105",
-          "new_ml": "+120"
+          "label": "\ud83d\udd25 STEAM +130 \u2190 +120",
+          "old_ml": "+120",
+          "new_ml": "+130"
         },
         "pick": {
           "direction": "shorter",
-          "points_moved": 17,
+          "points_moved": 13,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM -142 \u2190 -125",
-          "old_ml": "-125",
-          "new_ml": "-142"
+          "label": "\ud83d\udd25 STEAM -155 \u2190 -142",
+          "old_ml": "-142",
+          "new_ml": "-155"
         },
-        "snapshot_time": "April 16, 2026 at 06:24 AM UTC"
+        "snapshot_time": "April 16, 2026 at 04:11 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
+          "status": "RESTED",
+          "label": "2 days rest \u2705",
+          "battery": 88,
           "last_game": "Apr 14",
-          "days_rest": 2,
-          "games_last_4d": 2,
-          "travel_miles": 840,
-          "travel_desc": "840 mi road trip",
+          "days_rest": 3,
+          "games_last_4d": 1,
+          "travel_miles": 0,
+          "travel_desc": "",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
           "last_game": "Apr 15",
-          "days_rest": 1,
-          "games_last_4d": 2,
+          "days_rest": 2,
+          "games_last_4d": 1,
           "travel_miles": 346,
           "travel_desc": "346 mi road trip",
           "source": "ESPN Scoreboard API"
         }
       },
       "edge_factors": [
-        "\ud83d\udd25 Sharp steam detected",
-        "\ud83d\udca4 GSW fatigued (B2B) \u2014 source: ESPN"
+        "\ud83d\udd25 Sharp steam detected"
       ],
       "injury_notes": "Grayson Allen (G)",
       "sharp": {
@@ -259,9 +251,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "GSW on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "trend": "Phoenix Suns hold a 58.3% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -125 to -142 (17pt move) \u2014 heavy professional action on Phoenix Suns.",
+        "steam": "Line steamed from -142 to -155 (13pt move) \u2014 heavy professional action on Phoenix Suns.",
         "injury_notes": "Grayson Allen (G)"
       },
       "live": {
@@ -275,10 +267,22 @@
       },
       "news": [
         {
-          "title": "Vintage Curry takes over as Dubs extend season",
-          "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/nba/story/_/id/48500300/warriors-rally-clippers-4th-advance-play-in",
-          "published": "Thu, 16 Apr 2026 11:51:40 EST"
+          "title": "Steph Curry drops one-word key to Warriors beating Suns in play-in game Friday",
+          "source": "Nbcsportsbayarea.com",
+          "link": "https://www.nbcsportsbayarea.com/nba/golden-state-warriors/steph-curry-play-in-tournament-suns/1931722/?partner=yahoo",
+          "published": "2026-04-16T00:00:45Z"
+        },
+        {
+          "title": "NBA Draft watch: Who has already declared for the NBA Draft?",
+          "source": "Mavs Moneyball",
+          "link": "https://www.mavsmoneyball.com/mavericks-draft-rumors-news/57875/nba-draft-watch-who-has-already-declared-for-the-nba-draft",
+          "published": "2026-04-16T00:00:00Z"
+        },
+        {
+          "title": "Yaxel Lendeborg says goodbye to Michigan: 'This journey has been incredible'",
+          "source": "The Detroit News",
+          "link": "https://www.detroitnews.com/story/sports/college/university-michigan/2026/04/15/yaxel-lendeborg-pens-farewell-to-michigan-wolverines-basketball-in-open-letter/89634123007/",
+          "published": "2026-04-15T23:57:04Z"
         }
       ]
     },
@@ -305,39 +309,39 @@
       "commence_time": "2026-04-18T17:10:00Z",
       "line_movement": {
         "home": {
-          "direction": "shorter",
-          "points_moved": 15,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -355 \u2190 -340",
-          "old_ml": "-340",
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "No movement",
+          "old_ml": "-355",
           "new_ml": "-355"
         },
         "away": {
-          "direction": "longer",
-          "points_moved": 10,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM +280 \u2190 +270",
-          "old_ml": "+270",
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "No movement",
+          "old_ml": "+280",
           "new_ml": "+280"
         },
         "pick": {
-          "direction": "shorter",
-          "points_moved": 15,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -355 \u2190 -340",
-          "old_ml": "-340",
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "No movement",
+          "old_ml": "-355",
           "new_ml": "-355"
         },
-        "snapshot_time": "April 16, 2026 at 06:24 AM UTC"
+        "snapshot_time": "April 16, 2026 at 04:11 PM UTC"
       },
       "fatigue": {
         "home": {
           "status": "FRESH",
           "label": "Well rested \u2705",
           "battery": 100,
-          "last_game": "Apr 12",
-          "days_rest": 4,
-          "games_last_4d": 1,
+          "last_game": "\u2014",
+          "days_rest": 99,
+          "games_last_4d": 0,
           "travel_miles": 0,
           "travel_desc": "",
           "source": "ESPN Scoreboard API"
@@ -346,16 +350,16 @@
           "status": "FRESH",
           "label": "Well rested \u2705",
           "battery": 100,
-          "last_game": "Apr 12",
-          "days_rest": 4,
-          "games_last_4d": 1,
+          "last_game": "\u2014",
+          "days_rest": 99,
+          "games_last_4d": 0,
           "travel_miles": 0,
           "travel_desc": "",
           "source": "ESPN Scoreboard API"
         }
       },
       "edge_factors": [
-        "\ud83d\udd25 Sharp steam detected"
+        "\ud83d\udcca 49.6pt probability edge"
       ],
       "injury_notes": "Immanuel Quickley (G)",
       "sharp": {
@@ -394,7 +398,7 @@
       "briefing": {
         "trend": "Cleveland Cavaliers hold a 74.8% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -340 to -355 (15pt move) \u2014 heavy professional action on Cleveland Cavaliers.",
+        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "Immanuel Quickley (G)"
       },
       "live": {
@@ -408,22 +412,22 @@
       },
       "news": [
         {
-          "title": "Magic vs 76ers Win Probability at Prediction Markets Like Kalshi",
-          "source": "Covers.com",
-          "link": "https://www.covers.com/nba/magic-vs-76ers-win-probability-odds-prediction-markets-april-15-2026",
-          "published": "2026-04-15T16:11:00Z"
+          "title": "Steph Curry drops one-word key to Warriors beating Suns in play-in game Friday",
+          "source": "Nbcsportsbayarea.com",
+          "link": "https://www.nbcsportsbayarea.com/nba/golden-state-warriors/steph-curry-play-in-tournament-suns/1931722/?partner=yahoo",
+          "published": "2026-04-16T00:00:45Z"
         },
         {
-          "title": "Tennessee's Rick Barnes reportedly close to finalizing $3M deal for top transfer over UNC, Michigan",
-          "source": "Sporting News",
-          "link": "https://www.sportingnews.com/us/ncaa-basketball/tennessee/news/tennessees-rick-barnes-reportedly-close-finalizing-3m-deal-top-transfer-over-unc-michigan/e0d4a7b027aae994499c0c6a",
-          "published": "2026-04-15T16:06:42Z"
+          "title": "NBA Draft watch: Who has already declared for the NBA Draft?",
+          "source": "Mavs Moneyball",
+          "link": "https://www.mavsmoneyball.com/mavericks-draft-rumors-news/57875/nba-draft-watch-who-has-already-declared-for-the-nba-draft",
+          "published": "2026-04-16T00:00:00Z"
         },
         {
-          "title": "Hornets' LaMelo Ball facing potential consequences after Bam Adebayo injury",
-          "source": "Sporting News",
-          "link": "https://www.sportingnews.com/us/nba/charlotte-hornets/news/hornets-lamelo-ball-facing-potential-consequences-after-bam-adebayo-injury/7aa582e973d1ea8bdd4aab21",
-          "published": "2026-04-15T16:04:05Z"
+          "title": "Yaxel Lendeborg says goodbye to Michigan: 'This journey has been incredible'",
+          "source": "The Detroit News",
+          "link": "https://www.detroitnews.com/story/sports/college/university-michigan/2026/04/15/yaxel-lendeborg-pens-farewell-to-michigan-wolverines-basketball-in-open-letter/89634123007/",
+          "published": "2026-04-15T23:57:04Z"
         }
       ]
     },
@@ -473,27 +477,27 @@
           "old_ml": "-245",
           "new_ml": "-245"
         },
-        "snapshot_time": "April 16, 2026 at 06:24 AM UTC"
+        "snapshot_time": "April 16, 2026 at 04:11 PM UTC"
       },
       "fatigue": {
         "home": {
           "status": "FRESH",
           "label": "Well rested \u2705",
           "battery": 100,
-          "last_game": "Apr 12",
-          "days_rest": 4,
-          "games_last_4d": 1,
-          "travel_miles": 805,
-          "travel_desc": "805 mi road trip",
+          "last_game": "\u2014",
+          "days_rest": 99,
+          "games_last_4d": 0,
+          "travel_miles": 0,
+          "travel_desc": "",
           "source": "ESPN Scoreboard API"
         },
         "away": {
           "status": "FRESH",
           "label": "Well rested \u2705",
           "battery": 100,
-          "last_game": "Apr 12",
-          "days_rest": 4,
-          "games_last_4d": 1,
+          "last_game": "\u2014",
+          "days_rest": 99,
+          "games_last_4d": 0,
           "travel_miles": 0,
           "travel_desc": "",
           "source": "ESPN Scoreboard API"
@@ -553,22 +557,22 @@
       },
       "news": [
         {
-          "title": "Magic vs 76ers Win Probability at Prediction Markets Like Kalshi",
-          "source": "Covers.com",
-          "link": "https://www.covers.com/nba/magic-vs-76ers-win-probability-odds-prediction-markets-april-15-2026",
-          "published": "2026-04-15T16:11:00Z"
+          "title": "Steph Curry drops one-word key to Warriors beating Suns in play-in game Friday",
+          "source": "Nbcsportsbayarea.com",
+          "link": "https://www.nbcsportsbayarea.com/nba/golden-state-warriors/steph-curry-play-in-tournament-suns/1931722/?partner=yahoo",
+          "published": "2026-04-16T00:00:45Z"
         },
         {
-          "title": "Tennessee's Rick Barnes reportedly close to finalizing $3M deal for top transfer over UNC, Michigan",
-          "source": "Sporting News",
-          "link": "https://www.sportingnews.com/us/ncaa-basketball/tennessee/news/tennessees-rick-barnes-reportedly-close-finalizing-3m-deal-top-transfer-over-unc-michigan/e0d4a7b027aae994499c0c6a",
-          "published": "2026-04-15T16:06:42Z"
+          "title": "NBA Draft watch: Who has already declared for the NBA Draft?",
+          "source": "Mavs Moneyball",
+          "link": "https://www.mavsmoneyball.com/mavericks-draft-rumors-news/57875/nba-draft-watch-who-has-already-declared-for-the-nba-draft",
+          "published": "2026-04-16T00:00:00Z"
         },
         {
-          "title": "Hornets' LaMelo Ball facing potential consequences after Bam Adebayo injury",
-          "source": "Sporting News",
-          "link": "https://www.sportingnews.com/us/nba/charlotte-hornets/news/hornets-lamelo-ball-facing-potential-consequences-after-bam-adebayo-injury/7aa582e973d1ea8bdd4aab21",
-          "published": "2026-04-15T16:04:05Z"
+          "title": "Yaxel Lendeborg says goodbye to Michigan: 'This journey has been incredible'",
+          "source": "The Detroit News",
+          "link": "https://www.detroitnews.com/story/sports/college/university-michigan/2026/04/15/yaxel-lendeborg-pens-farewell-to-michigan-wolverines-basketball-in-open-letter/89634123007/",
+          "published": "2026-04-15T23:57:04Z"
         }
       ]
     },
@@ -595,39 +599,39 @@
       "commence_time": "2026-04-18T22:10:00Z",
       "line_movement": {
         "home": {
-          "direction": "shorter",
-          "points_moved": 20,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -225 \u2190 -205",
-          "old_ml": "-205",
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "No movement",
+          "old_ml": "-225",
           "new_ml": "-225"
         },
         "away": {
-          "direction": "longer",
-          "points_moved": 15,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM +185 \u2190 +170",
-          "old_ml": "+170",
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "No movement",
+          "old_ml": "+185",
           "new_ml": "+185"
         },
         "pick": {
-          "direction": "shorter",
-          "points_moved": 20,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -225 \u2190 -205",
-          "old_ml": "-205",
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "No movement",
+          "old_ml": "-225",
           "new_ml": "-225"
         },
-        "snapshot_time": "April 16, 2026 at 06:24 AM UTC"
+        "snapshot_time": "April 16, 2026 at 04:11 PM UTC"
       },
       "fatigue": {
         "home": {
           "status": "FRESH",
           "label": "Well rested \u2705",
           "battery": 100,
-          "last_game": "Apr 12",
-          "days_rest": 4,
-          "games_last_4d": 1,
+          "last_game": "\u2014",
+          "days_rest": 99,
+          "games_last_4d": 0,
           "travel_miles": 0,
           "travel_desc": "",
           "source": "ESPN Scoreboard API"
@@ -636,16 +640,16 @@
           "status": "FRESH",
           "label": "Well rested \u2705",
           "battery": 100,
-          "last_game": "Apr 12",
-          "days_rest": 4,
-          "games_last_4d": 1,
-          "travel_miles": 606,
-          "travel_desc": "606 mi road trip",
+          "last_game": "\u2014",
+          "days_rest": 99,
+          "games_last_4d": 0,
+          "travel_miles": 0,
+          "travel_desc": "",
           "source": "ESPN Scoreboard API"
         }
       },
       "edge_factors": [
-        "\ud83d\udd25 Sharp steam detected"
+        "\ud83d\udcca 32.8pt probability edge"
       ],
       "injury_notes": "CJ McCollum (G); Jonathan Kuminga (F); Dyson Daniels (G); Nickeil Alexander-Walker (G)",
       "sharp": {
@@ -684,7 +688,7 @@
       "briefing": {
         "trend": "New York Knicks hold a 66.4% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -205 to -225 (20pt move) \u2014 heavy professional action on New York Knicks.",
+        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "CJ McCollum (G); Jonathan Kuminga (F); Dyson Daniels (G); Nickeil Alexander-Walker (G)"
       },
       "live": {
@@ -698,10 +702,22 @@
       },
       "news": [
         {
-          "title": "Hawks C Landale out for start of Knicks series",
-          "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/nba/story/_/id/48503786/hawks-backup-c-landale-beginning-series-vs-knicks",
-          "published": "Thu, 16 Apr 2026 11:51:40 EST"
+          "title": "Steph Curry drops one-word key to Warriors beating Suns in play-in game Friday",
+          "source": "Nbcsportsbayarea.com",
+          "link": "https://www.nbcsportsbayarea.com/nba/golden-state-warriors/steph-curry-play-in-tournament-suns/1931722/?partner=yahoo",
+          "published": "2026-04-16T00:00:45Z"
+        },
+        {
+          "title": "NBA Draft watch: Who has already declared for the NBA Draft?",
+          "source": "Mavs Moneyball",
+          "link": "https://www.mavsmoneyball.com/mavericks-draft-rumors-news/57875/nba-draft-watch-who-has-already-declared-for-the-nba-draft",
+          "published": "2026-04-16T00:00:00Z"
+        },
+        {
+          "title": "Yaxel Lendeborg says goodbye to Michigan: 'This journey has been incredible'",
+          "source": "The Detroit News",
+          "link": "https://www.detroitnews.com/story/sports/college/university-michigan/2026/04/15/yaxel-lendeborg-pens-farewell-to-michigan-wolverines-basketball-in-open-letter/89634123007/",
+          "published": "2026-04-15T23:57:04Z"
         }
       ]
     },
@@ -728,39 +744,39 @@
       "commence_time": "2026-04-19T00:40:00Z",
       "line_movement": {
         "home": {
-          "direction": "longer",
-          "points_moved": 5,
+          "direction": "none",
+          "points_moved": 0,
           "steam": false,
-          "label": "\ud83d\udd34 +185 \u2190 +180",
-          "old_ml": "+180",
+          "label": "No movement",
+          "old_ml": "+185",
           "new_ml": "+185"
         },
         "away": {
-          "direction": "shorter",
-          "points_moved": 7,
+          "direction": "none",
+          "points_moved": 0,
           "steam": false,
-          "label": "\ud83d\udfe2 -225 \u2190 -218",
-          "old_ml": "-218",
+          "label": "No movement",
+          "old_ml": "-225",
           "new_ml": "-225"
         },
         "pick": {
-          "direction": "shorter",
-          "points_moved": 7,
+          "direction": "none",
+          "points_moved": 0,
           "steam": false,
-          "label": "\ud83d\udfe2 -225 \u2190 -218",
-          "old_ml": "-218",
+          "label": "No movement",
+          "old_ml": "-225",
           "new_ml": "-225"
         },
-        "snapshot_time": "April 16, 2026 at 06:24 AM UTC"
+        "snapshot_time": "April 16, 2026 at 04:11 PM UTC"
       },
       "fatigue": {
         "home": {
           "status": "FRESH",
           "label": "Well rested \u2705",
           "battery": 100,
-          "last_game": "Apr 12",
-          "days_rest": 4,
-          "games_last_4d": 1,
+          "last_game": "\u2014",
+          "days_rest": 99,
+          "games_last_4d": 0,
           "travel_miles": 0,
           "travel_desc": "",
           "source": "ESPN Scoreboard API"
@@ -769,9 +785,9 @@
           "status": "FRESH",
           "label": "Well rested \u2705",
           "battery": 100,
-          "last_game": "Apr 12",
-          "days_rest": 4,
-          "games_last_4d": 1,
+          "last_game": "\u2014",
+          "days_rest": 99,
+          "games_last_4d": 0,
           "travel_miles": 0,
           "travel_desc": "",
           "source": "ESPN Scoreboard API"
@@ -817,7 +833,7 @@
       "briefing": {
         "trend": "Houston Rockets hold a 66.4% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line moved -218\u2192-225 (7pts). Pending \u2014 check closer to tip-off",
+        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -834,7 +850,13 @@
           "title": "'A bigger shock to the system than we acknowledged': How 48 hours changed the Lakers' season",
           "source": "www.espn.com - NBA",
           "link": "https://www.espn.com/nba/story/_/id/48498413/luka-doncic-austin-reaves-lebron-james-48-hours-changed-los-angeles-lakers-season-houston-rockets-nba-playoffs",
-          "published": "Thu, 16 Apr 2026 09:57:12 EST"
+          "published": "Thu, 16 Apr 2026 16:57:13 EST"
+        },
+        {
+          "title": "LeBron looking forward to playoffs with Bronny",
+          "source": "www.espn.com - NBA",
+          "link": "https://www.espn.com/nba/story/_/id/48507243/lebron-looks-forward-sharing-floor-bronny-playoffs",
+          "published": "Thu, 16 Apr 2026 18:24:07 EST"
         }
       ]
     },
@@ -844,75 +866,74 @@
       "away_team": "Philadelphia 76ers",
       "home_abbr": "BOS",
       "away_abbr": "PHI",
-      "home_ml": "-650",
-      "away_ml": "+470",
-      "home_ml_raw": -650,
-      "away_ml_raw": 470,
-      "home_prob": 83.2,
-      "away_prob": 16.8,
+      "home_ml": "-625",
+      "away_ml": "+455",
+      "home_ml_raw": -625,
+      "away_ml_raw": 455,
+      "home_prob": 82.7,
+      "away_prob": 17.3,
       "spread": "BOS -12.5",
       "favorite": "Boston Celtics",
       "pick": "Boston Celtics",
       "pick_abbr": "BOS",
-      "moneyline": "-650",
-      "win_probability": 83.2,
+      "moneyline": "-625",
+      "win_probability": 82.7,
       "confidence": "HIGH",
       "confidence_stars": "\u2605\u2605\u2605",
       "commence_time": "2026-04-19T17:10:00Z",
       "line_movement": {
         "home": {
-          "direction": "shorter",
+          "direction": "longer",
           "points_moved": 25,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM -650 \u2190 -625",
-          "old_ml": "-625",
-          "new_ml": "-650"
+          "label": "\ud83d\udd25 STEAM -625 \u2190 -650",
+          "old_ml": "-650",
+          "new_ml": "-625"
         },
         "away": {
-          "direction": "longer",
+          "direction": "shorter",
           "points_moved": 15,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM +470 \u2190 +455",
-          "old_ml": "+455",
-          "new_ml": "+470"
+          "label": "\ud83d\udd25 STEAM +455 \u2190 +470",
+          "old_ml": "+470",
+          "new_ml": "+455"
         },
         "pick": {
-          "direction": "shorter",
+          "direction": "longer",
           "points_moved": 25,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM -650 \u2190 -625",
-          "old_ml": "-625",
-          "new_ml": "-650"
+          "label": "\ud83d\udd25 STEAM -625 \u2190 -650",
+          "old_ml": "-650",
+          "new_ml": "-625"
         },
-        "snapshot_time": "April 16, 2026 at 06:24 AM UTC"
+        "snapshot_time": "April 16, 2026 at 04:11 PM UTC"
       },
       "fatigue": {
         "home": {
           "status": "FRESH",
           "label": "Well rested \u2705",
           "battery": 100,
-          "last_game": "Apr 12",
-          "days_rest": 4,
-          "games_last_4d": 1,
+          "last_game": "\u2014",
+          "days_rest": 99,
+          "games_last_4d": 0,
           "travel_miles": 0,
           "travel_desc": "",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
           "last_game": "Apr 15",
-          "days_rest": 1,
-          "games_last_4d": 2,
+          "days_rest": 2,
+          "games_last_4d": 1,
           "travel_miles": 0,
           "travel_desc": "",
           "source": "ESPN Scoreboard API"
         }
       },
       "edge_factors": [
-        "\ud83d\udd25 Sharp steam detected",
-        "\ud83d\udca4 PHI fatigued (B2B) \u2014 source: ESPN"
+        "\ud83d\udd25 Sharp steam detected"
       ],
       "injury_notes": "Derrick White (G); Neemias Queta (C); Payton Pritchard (G); Sam Hauser (F)",
       "sharp": {
@@ -949,9 +970,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "PHI on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "trend": "Boston Celtics hold a 82.7% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -625 to -650 (25pt move) \u2014 heavy professional action on Boston Celtics.",
+        "steam": "Line steamed from -650 to -625 (25pt move) \u2014 heavy professional action on Boston Celtics.",
         "injury_notes": "Derrick White (G); Neemias Queta (C); Payton Pritchard (G); Sam Hauser (F)"
       },
       "live": {
@@ -964,12 +985,6 @@
         "spread_alert": null
       },
       "news": [
-        {
-          "title": "Minus Embiid, Maxey propels Sixers into playoffs",
-          "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/nba/story/_/id/48499241/maxey-scores-31-lead-sixers-magic-east-no-7-seed",
-          "published": "Thu, 16 Apr 2026 11:51:40 EST"
-        },
         {
           "title": "NBA Futures: Thunder, Celtics favored to make Finals",
           "source": "www.espn.com - NBA",
@@ -1001,57 +1016,57 @@
       "commence_time": "2026-04-20T01:10:00Z",
       "line_movement": {
         "home": {
-          "direction": "shorter",
-          "points_moved": 65,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -535 \u2190 -470",
-          "old_ml": "-470",
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "No movement",
+          "old_ml": "-535",
           "new_ml": "-535"
         },
         "away": {
-          "direction": "longer",
-          "points_moved": 40,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM +400 \u2190 +360",
-          "old_ml": "+360",
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "No movement",
+          "old_ml": "+400",
           "new_ml": "+400"
         },
         "pick": {
-          "direction": "shorter",
-          "points_moved": 65,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -535 \u2190 -470",
-          "old_ml": "-470",
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "No movement",
+          "old_ml": "-535",
           "new_ml": "-535"
         },
-        "snapshot_time": "April 16, 2026 at 06:24 AM UTC"
+        "snapshot_time": "April 16, 2026 at 04:11 PM UTC"
       },
       "fatigue": {
         "home": {
           "status": "FRESH",
           "label": "Well rested \u2705",
           "battery": 100,
-          "last_game": "Apr 12",
-          "days_rest": 4,
-          "games_last_4d": 1,
+          "last_game": "\u2014",
+          "days_rest": 99,
+          "games_last_4d": 0,
           "travel_miles": 0,
           "travel_desc": "",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
+          "status": "RESTED",
+          "label": "2 days rest \u2705",
+          "battery": 88,
           "last_game": "Apr 14",
-          "days_rest": 2,
-          "games_last_4d": 2,
+          "days_rest": 3,
+          "games_last_4d": 1,
           "travel_miles": 1006,
           "travel_desc": "1,006 mi road trip",
           "source": "ESPN Scoreboard API"
         }
       },
       "edge_factors": [
-        "\ud83d\udd25 Sharp steam detected"
+        "\ud83d\udcca 61.6pt probability edge"
       ],
       "injury_notes": "Dylan Harper (G)",
       "sharp": {
@@ -1090,7 +1105,7 @@
       "briefing": {
         "trend": "San Antonio Spurs hold a 80.8% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -470 to -535 (65pt move) \u2014 heavy professional action on San Antonio Spurs.",
+        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "Dylan Harper (G)"
       },
       "live": {
@@ -1104,22 +1119,22 @@
       },
       "news": [
         {
-          "title": "Magic vs 76ers Win Probability at Prediction Markets Like Kalshi",
-          "source": "Covers.com",
-          "link": "https://www.covers.com/nba/magic-vs-76ers-win-probability-odds-prediction-markets-april-15-2026",
-          "published": "2026-04-15T16:11:00Z"
+          "title": "Steph Curry drops one-word key to Warriors beating Suns in play-in game Friday",
+          "source": "Nbcsportsbayarea.com",
+          "link": "https://www.nbcsportsbayarea.com/nba/golden-state-warriors/steph-curry-play-in-tournament-suns/1931722/?partner=yahoo",
+          "published": "2026-04-16T00:00:45Z"
         },
         {
-          "title": "Tennessee's Rick Barnes reportedly close to finalizing $3M deal for top transfer over UNC, Michigan",
-          "source": "Sporting News",
-          "link": "https://www.sportingnews.com/us/ncaa-basketball/tennessee/news/tennessees-rick-barnes-reportedly-close-finalizing-3m-deal-top-transfer-over-unc-michigan/e0d4a7b027aae994499c0c6a",
-          "published": "2026-04-15T16:06:42Z"
+          "title": "NBA Draft watch: Who has already declared for the NBA Draft?",
+          "source": "Mavs Moneyball",
+          "link": "https://www.mavsmoneyball.com/mavericks-draft-rumors-news/57875/nba-draft-watch-who-has-already-declared-for-the-nba-draft",
+          "published": "2026-04-16T00:00:00Z"
         },
         {
-          "title": "Hornets' LaMelo Ball facing potential consequences after Bam Adebayo injury",
-          "source": "Sporting News",
-          "link": "https://www.sportingnews.com/us/nba/charlotte-hornets/news/hornets-lamelo-ball-facing-potential-consequences-after-bam-adebayo-injury/7aa582e973d1ea8bdd4aab21",
-          "published": "2026-04-15T16:04:05Z"
+          "title": "Yaxel Lendeborg says goodbye to Michigan: 'This journey has been incredible'",
+          "source": "The Detroit News",
+          "link": "https://www.detroitnews.com/story/sports/college/university-michigan/2026/04/15/yaxel-lendeborg-pens-farewell-to-michigan-wolverines-basketball-in-open-letter/89634123007/",
+          "published": "2026-04-15T23:57:04Z"
         }
       ]
     }
