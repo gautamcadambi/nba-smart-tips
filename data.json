@@ -1,5 +1,5 @@
 {
-  "last_updated": "April 17, 2026 at 02:44 PM UTC",
+  "last_updated": "April 17, 2026 at 11:59 PM UTC",
   "total_games": 8,
   "games": [
     {
@@ -8,47 +8,47 @@
       "away_team": "Charlotte Hornets",
       "home_abbr": "ORL",
       "away_abbr": "CHA",
-      "home_ml": "+136",
-      "away_ml": "-162",
-      "home_ml_raw": 136,
-      "away_ml_raw": -162,
-      "home_prob": 40.7,
-      "away_prob": 59.3,
-      "spread": "ORL +3.5",
-      "favorite": "Charlotte Hornets",
-      "pick": "Charlotte Hornets",
-      "pick_abbr": "CHA",
-      "moneyline": "-162",
-      "win_probability": 59.3,
-      "confidence": "MEDIUM",
-      "confidence_stars": "\u2605\u2605\u2606",
-      "commence_time": "2026-04-17T23:40:00Z",
+      "home_ml": "-360",
+      "away_ml": "+260",
+      "home_ml_raw": -360,
+      "away_ml_raw": 260,
+      "home_prob": 73.8,
+      "away_prob": 26.2,
+      "spread": "ORL -9.5",
+      "favorite": "Orlando Magic",
+      "pick": "Orlando Magic",
+      "pick_abbr": "ORL",
+      "moneyline": "-360",
+      "win_probability": 73.8,
+      "confidence": "HIGH",
+      "confidence_stars": "\u2605\u2605\u2605",
+      "commence_time": "2026-04-17T23:40:51Z",
       "line_movement": {
         "home": {
           "direction": "shorter",
-          "points_moved": 6,
-          "steam": false,
-          "label": "\ud83d\udfe2 +136 \u2190 +142",
-          "old_ml": "+142",
-          "new_ml": "+136"
+          "points_moved": 496,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -360 \u2190 +136",
+          "old_ml": "+136",
+          "new_ml": "-360"
         },
         "away": {
           "direction": "longer",
-          "points_moved": 8,
+          "points_moved": 422,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM -162 \u2190 -170",
-          "old_ml": "-170",
-          "new_ml": "-162"
+          "label": "\ud83d\udd25 STEAM +260 \u2190 -162",
+          "old_ml": "-162",
+          "new_ml": "+260"
         },
         "pick": {
-          "direction": "longer",
-          "points_moved": 8,
+          "direction": "shorter",
+          "points_moved": 496,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM -162 \u2190 -170",
-          "old_ml": "-170",
-          "new_ml": "-162"
+          "label": "\ud83d\udd25 STEAM -360 \u2190 +136",
+          "old_ml": "+136",
+          "new_ml": "-360"
         },
-        "snapshot_time": "April 17, 2026 at 06:25 AM UTC"
+        "snapshot_time": "April 17, 2026 at 02:44 PM UTC"
       },
       "fatigue": {
         "home": {
@@ -77,7 +77,7 @@
       "edge_factors": [
         "\ud83d\udd25 Sharp steam detected"
       ],
-      "injury_notes": "Moussa Diabate (F)",
+      "injury_notes": "No key injuries.",
       "sharp": {
         "away_t": null,
         "home_t": null,
@@ -112,10 +112,10 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "Charlotte Hornets hold a 59.3% edge.",
+        "trend": "Orlando Magic hold a 73.8% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -170 to -162 (8pt move) \u2014 heavy professional action on Charlotte Hornets.",
-        "injury_notes": "Moussa Diabate (F)"
+        "steam": "Line steamed from +136 to -360 (496pt move) \u2014 heavy professional action on Orlando Magic.",
+        "injury_notes": "No key injuries."
       },
       "live": {
         "status": "pre",
@@ -128,22 +128,22 @@
       },
       "news": [
         {
+          "title": "Follow live: Magic off to hot start with 8-seed on the line",
+          "source": "www.espn.com - NBA",
+          "link": "https://www.espn.com/nba/story/_/id/48509159/nba-2026-play-tournament-magic-hornets-warriors-suns-live-updates-results-highlights",
+          "published": "Fri, 17 Apr 2026 19:55:57 EST"
+        },
+        {
+          "title": "'It's all basketball': LaMelo says no rift with Bam",
+          "source": "www.espn.com - NBA",
+          "link": "https://www.espn.com/nba/story/_/id/48514154/lamelo-says-no-rift-bam-glad-ok",
+          "published": "Fri, 17 Apr 2026 19:31:09 EST"
+        },
+        {
           "title": "Spoelstra: No need to penalize Ball any further",
           "source": "www.espn.com - NBA",
           "link": "https://www.espn.com/nba/story/_/id/48504650/spoelstra-no-need-penalize-hornets-ball-further",
-          "published": "Fri, 17 Apr 2026 08:26:47 EST"
-        },
-        {
-          "title": "Inside Hornets' metamorphosis into the NBA's buzziest team",
-          "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/nba/story/_/id/48472147/nba-playoffs-2026-charlotte-hornets-kon-knueppel-lamelo-ball-play-miami-heat",
-          "published": "Fri, 17 Apr 2026 08:29:16 EST"
-        },
-        {
-          "title": "'He's already unlocked things': Why the Magic needed Desmond Bane",
-          "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/nba/story/_/id/39575531/orlando-magic-desmond-bane-paolo-banchero-franz-wagner-eastern-conference",
-          "published": "Fri, 17 Apr 2026 08:29:16 EST"
+          "published": "Fri, 17 Apr 2026 19:31:09 EST"
         }
       ]
     },
@@ -153,47 +153,47 @@
       "away_team": "Golden State Warriors",
       "home_abbr": "PHX",
       "away_abbr": "GSW",
-      "home_ml": "-155",
-      "away_ml": "+130",
-      "home_ml_raw": -155,
-      "away_ml_raw": 130,
-      "home_prob": 58.3,
-      "away_prob": 41.7,
-      "spread": "PHX -3.5",
+      "home_ml": "-142",
+      "away_ml": "+120",
+      "home_ml_raw": -142,
+      "away_ml_raw": 120,
+      "home_prob": 56.3,
+      "away_prob": 43.7,
+      "spread": "PHX -2.5",
       "favorite": "Phoenix Suns",
       "pick": "Phoenix Suns",
       "pick_abbr": "PHX",
-      "moneyline": "-155",
-      "win_probability": 58.3,
-      "confidence": "MEDIUM",
-      "confidence_stars": "\u2605\u2605\u2606",
+      "moneyline": "-142",
+      "win_probability": 56.3,
+      "confidence": "LOW",
+      "confidence_stars": "\u2605\u2606\u2606",
       "commence_time": "2026-04-18T02:10:00Z",
       "line_movement": {
         "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "longer",
+          "points_moved": 13,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -142 \u2190 -155",
           "old_ml": "-155",
-          "new_ml": "-155"
+          "new_ml": "-142"
         },
         "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "shorter",
+          "points_moved": 10,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM +120 \u2190 +130",
           "old_ml": "+130",
-          "new_ml": "+130"
+          "new_ml": "+120"
         },
         "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "longer",
+          "points_moved": 13,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -142 \u2190 -155",
           "old_ml": "-155",
-          "new_ml": "-155"
+          "new_ml": "-142"
         },
-        "snapshot_time": "April 17, 2026 at 06:25 AM UTC"
+        "snapshot_time": "April 17, 2026 at 02:44 PM UTC"
       },
       "fatigue": {
         "home": {
@@ -220,7 +220,7 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udcca 16.6pt probability edge"
+        "\ud83d\udd25 Sharp steam detected"
       ],
       "injury_notes": "Grayson Allen (G); Mark Williams (C); Kristaps Porzingis (C)",
       "sharp": {
@@ -257,9 +257,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "Phoenix Suns hold a 58.3% edge.",
+        "trend": "Phoenix Suns hold a 56.3% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "steam": "Line steamed from -155 to -142 (13pt move) \u2014 heavy professional action on Phoenix Suns.",
         "injury_notes": "Grayson Allen (G); Mark Williams (C); Kristaps Porzingis (C)"
       },
       "live": {
@@ -273,22 +273,22 @@
       },
       "news": [
         {
-          "title": "10 biggest NBA playoff questions: Can Thunder repeat? Is this it for LeBron? Can Knicks handle the pressure?",
-          "source": "CBS Sports",
-          "link": "https://www.cbssports.com/nba/news/nba-playoffs-biggest-questions-thunder-pistons-knicks-wembanyama-spurs-lakers-lebron/",
-          "published": "2026-04-16T14:40:55Z"
-        },
-        {
-          "title": "Celtics vs. 76ers schedule: Dates, times, TV channels, scores for 2026 NBA Playoffs first-round series",
+          "title": "Mike Brown turns competitive amid James Dolan's Knicks NBA Finals ultimatum",
           "source": "Sporting News",
-          "link": "https://www.sportingnews.com/us/nba/news/celtics-76ers-schedule-dates-times-channels-scores-nba-playoffs/70c7bcaa44f00007038defbb",
-          "published": "2026-04-16T14:39:32Z"
+          "link": "https://www.sportingnews.com/us/nba/new-york-knicks/news/knicks-mike-brown-turns-competitive-amid-james-dolan-nba-finals-ultimatum/8afe3b338e38f00a66c408b0",
+          "published": "2026-04-16T23:55:44Z"
         },
         {
-          "title": "2026 NBA bracket odds, predictions, best bets: NBA playoff picks by expert on 100-59 run",
-          "source": "CBS Sports",
-          "link": "https://www.cbssports.com/nba/news/2026-nba-playoff-bracket-picks-series-predictions-championship-odds/",
-          "published": "2026-04-16T14:26:38Z"
+          "title": "Cayden Boozer's return to Duke heats up transfer portal recruiting",
+          "source": "Sporting News",
+          "link": "https://www.sportingnews.com/us/ncaa-basketball/duke/news/cayden-boozers-return-duke-heats-transfer-portal-recruiting/ef892731eb86cceb923c6ee3",
+          "published": "2026-04-16T23:51:01Z"
+        },
+        {
+          "title": "Hornets one win away from playoffs, face Magic for final spot",
+          "source": "Yahoo Entertainment",
+          "link": "https://sports.yahoo.com/articles/hornets-one-win-away-playoffs-235042499.html",
+          "published": "2026-04-16T23:50:42Z"
         }
       ]
     },
@@ -338,7 +338,7 @@
           "old_ml": "-355",
           "new_ml": "-355"
         },
-        "snapshot_time": "April 17, 2026 at 06:25 AM UTC"
+        "snapshot_time": "April 17, 2026 at 02:44 PM UTC"
       },
       "fatigue": {
         "home": {
@@ -418,22 +418,22 @@
       },
       "news": [
         {
-          "title": "10 biggest NBA playoff questions: Can Thunder repeat? Is this it for LeBron? Can Knicks handle the pressure?",
-          "source": "CBS Sports",
-          "link": "https://www.cbssports.com/nba/news/nba-playoffs-biggest-questions-thunder-pistons-knicks-wembanyama-spurs-lakers-lebron/",
-          "published": "2026-04-16T14:40:55Z"
-        },
-        {
-          "title": "Celtics vs. 76ers schedule: Dates, times, TV channels, scores for 2026 NBA Playoffs first-round series",
+          "title": "Mike Brown turns competitive amid James Dolan's Knicks NBA Finals ultimatum",
           "source": "Sporting News",
-          "link": "https://www.sportingnews.com/us/nba/news/celtics-76ers-schedule-dates-times-channels-scores-nba-playoffs/70c7bcaa44f00007038defbb",
-          "published": "2026-04-16T14:39:32Z"
+          "link": "https://www.sportingnews.com/us/nba/new-york-knicks/news/knicks-mike-brown-turns-competitive-amid-james-dolan-nba-finals-ultimatum/8afe3b338e38f00a66c408b0",
+          "published": "2026-04-16T23:55:44Z"
         },
         {
-          "title": "2026 NBA bracket odds, predictions, best bets: NBA playoff picks by expert on 100-59 run",
-          "source": "CBS Sports",
-          "link": "https://www.cbssports.com/nba/news/2026-nba-playoff-bracket-picks-series-predictions-championship-odds/",
-          "published": "2026-04-16T14:26:38Z"
+          "title": "Cayden Boozer's return to Duke heats up transfer portal recruiting",
+          "source": "Sporting News",
+          "link": "https://www.sportingnews.com/us/ncaa-basketball/duke/news/cayden-boozers-return-duke-heats-transfer-portal-recruiting/ef892731eb86cceb923c6ee3",
+          "published": "2026-04-16T23:51:01Z"
+        },
+        {
+          "title": "Hornets one win away from playoffs, face Magic for final spot",
+          "source": "Yahoo Entertainment",
+          "link": "https://sports.yahoo.com/articles/hornets-one-win-away-playoffs-235042499.html",
+          "published": "2026-04-16T23:50:42Z"
         }
       ]
     },
@@ -443,47 +443,47 @@
       "away_team": "Minnesota Timberwolves",
       "home_abbr": "DEN",
       "away_abbr": "MIN",
-      "home_ml": "-250",
-      "away_ml": "+205",
-      "home_ml_raw": -250,
-      "away_ml_raw": 205,
-      "home_prob": 68.5,
-      "away_prob": 31.5,
+      "home_ml": "-258",
+      "away_ml": "+210",
+      "home_ml_raw": -258,
+      "away_ml_raw": 210,
+      "home_prob": 69.1,
+      "away_prob": 30.9,
       "spread": "DEN -6.5",
       "favorite": "Denver Nuggets",
       "pick": "Denver Nuggets",
       "pick_abbr": "DEN",
-      "moneyline": "-250",
-      "win_probability": 68.5,
+      "moneyline": "-258",
+      "win_probability": 69.1,
       "confidence": "MEDIUM",
       "confidence_stars": "\u2605\u2605\u2606",
       "commence_time": "2026-04-18T19:40:00Z",
       "line_movement": {
         "home": {
           "direction": "shorter",
-          "points_moved": 5,
-          "steam": false,
-          "label": "\ud83d\udfe2 -250 \u2190 -245",
-          "old_ml": "-245",
-          "new_ml": "-250"
+          "points_moved": 8,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -258 \u2190 -250",
+          "old_ml": "-250",
+          "new_ml": "-258"
         },
         "away": {
           "direction": "longer",
           "points_moved": 5,
           "steam": false,
-          "label": "\ud83d\udd34 +205 \u2190 +200",
-          "old_ml": "+200",
-          "new_ml": "+205"
+          "label": "\ud83d\udd34 +210 \u2190 +205",
+          "old_ml": "+205",
+          "new_ml": "+210"
         },
         "pick": {
           "direction": "shorter",
-          "points_moved": 5,
-          "steam": false,
-          "label": "\ud83d\udfe2 -250 \u2190 -245",
-          "old_ml": "-245",
-          "new_ml": "-250"
+          "points_moved": 8,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -258 \u2190 -250",
+          "old_ml": "-250",
+          "new_ml": "-258"
         },
-        "snapshot_time": "April 17, 2026 at 06:25 AM UTC"
+        "snapshot_time": "April 17, 2026 at 02:44 PM UTC"
       },
       "fatigue": {
         "home": {
@@ -510,7 +510,7 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udcca 37.0pt probability edge"
+        "\ud83d\udd25 Sharp steam detected"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -547,9 +547,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "Denver Nuggets hold a 68.5% edge.",
+        "trend": "Denver Nuggets hold a 69.1% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line moved -245\u2192-250 (5pts). Pending \u2014 check closer to tip-off",
+        "steam": "Line steamed from -250 to -258 (8pt move) \u2014 heavy professional action on Denver Nuggets.",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -566,7 +566,7 @@
           "title": "Nuggets-Pacers to play in Mexico City next season",
           "source": "www.espn.com - NBA",
           "link": "https://www.espn.com/nba/story/_/id/48508302/nuggets-pacers-face-mexico-city-next-season",
-          "published": "Fri, 17 Apr 2026 08:26:47 EST"
+          "published": "Fri, 17 Apr 2026 19:31:09 EST"
         }
       ]
     },
@@ -616,7 +616,7 @@
           "old_ml": "-225",
           "new_ml": "-225"
         },
-        "snapshot_time": "April 17, 2026 at 06:25 AM UTC"
+        "snapshot_time": "April 17, 2026 at 02:44 PM UTC"
       },
       "fatigue": {
         "home": {
@@ -645,7 +645,7 @@
       "edge_factors": [
         "\ud83d\udcca 32.8pt probability edge"
       ],
-      "injury_notes": "Jonathan Kuminga (F); Dyson Daniels (G); Nickeil Alexander-Walker (G)",
+      "injury_notes": "No key injuries.",
       "sharp": {
         "away_t": null,
         "home_t": null,
@@ -683,7 +683,7 @@
         "trend": "New York Knicks hold a 66.4% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
         "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
-        "injury_notes": "Jonathan Kuminga (F); Dyson Daniels (G); Nickeil Alexander-Walker (G)"
+        "injury_notes": "No key injuries."
       },
       "live": {
         "status": "pre",
@@ -696,22 +696,22 @@
       },
       "news": [
         {
-          "title": "10 biggest NBA playoff questions: Can Thunder repeat? Is this it for LeBron? Can Knicks handle the pressure?",
-          "source": "CBS Sports",
-          "link": "https://www.cbssports.com/nba/news/nba-playoffs-biggest-questions-thunder-pistons-knicks-wembanyama-spurs-lakers-lebron/",
-          "published": "2026-04-16T14:40:55Z"
-        },
-        {
-          "title": "Celtics vs. 76ers schedule: Dates, times, TV channels, scores for 2026 NBA Playoffs first-round series",
+          "title": "Mike Brown turns competitive amid James Dolan's Knicks NBA Finals ultimatum",
           "source": "Sporting News",
-          "link": "https://www.sportingnews.com/us/nba/news/celtics-76ers-schedule-dates-times-channels-scores-nba-playoffs/70c7bcaa44f00007038defbb",
-          "published": "2026-04-16T14:39:32Z"
+          "link": "https://www.sportingnews.com/us/nba/new-york-knicks/news/knicks-mike-brown-turns-competitive-amid-james-dolan-nba-finals-ultimatum/8afe3b338e38f00a66c408b0",
+          "published": "2026-04-16T23:55:44Z"
         },
         {
-          "title": "2026 NBA bracket odds, predictions, best bets: NBA playoff picks by expert on 100-59 run",
-          "source": "CBS Sports",
-          "link": "https://www.cbssports.com/nba/news/2026-nba-playoff-bracket-picks-series-predictions-championship-odds/",
-          "published": "2026-04-16T14:26:38Z"
+          "title": "Cayden Boozer's return to Duke heats up transfer portal recruiting",
+          "source": "Sporting News",
+          "link": "https://www.sportingnews.com/us/ncaa-basketball/duke/news/cayden-boozers-return-duke-heats-transfer-portal-recruiting/ef892731eb86cceb923c6ee3",
+          "published": "2026-04-16T23:51:01Z"
+        },
+        {
+          "title": "Hornets one win away from playoffs, face Magic for final spot",
+          "source": "Yahoo Entertainment",
+          "link": "https://sports.yahoo.com/articles/hornets-one-win-away-playoffs-235042499.html",
+          "published": "2026-04-16T23:50:42Z"
         }
       ]
     },
@@ -761,7 +761,7 @@
           "old_ml": "-225",
           "new_ml": "-225"
         },
-        "snapshot_time": "April 17, 2026 at 06:25 AM UTC"
+        "snapshot_time": "April 17, 2026 at 02:44 PM UTC"
       },
       "fatigue": {
         "home": {
@@ -841,12 +841,6 @@
       },
       "news": [
         {
-          "title": "LeBron looking forward to playoffs with Bronny",
-          "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/nba/story/_/id/48507243/lebron-looks-forward-sharing-floor-bronny-playoffs",
-          "published": "Fri, 17 Apr 2026 08:26:46 EST"
-        },
-        {
           "title": "'A bigger shock to the system than we acknowledged': How 48 hours changed the Lakers' season",
           "source": "www.espn.com - NBA",
           "link": "https://www.espn.com/nba/story/_/id/48498413/luka-doncic-austin-reaves-lebron-james-48-hours-changed-los-angeles-lakers-season-houston-rockets-nba-playoffs",
@@ -860,47 +854,47 @@
       "away_team": "Philadelphia 76ers",
       "home_abbr": "BOS",
       "away_abbr": "PHI",
-      "home_ml": "-650",
-      "away_ml": "+470",
-      "home_ml_raw": -650,
-      "away_ml_raw": 470,
-      "home_prob": 83.2,
-      "away_prob": 16.8,
+      "home_ml": "-800",
+      "away_ml": "+550",
+      "home_ml_raw": -800,
+      "away_ml_raw": 550,
+      "home_prob": 85.2,
+      "away_prob": 14.8,
       "spread": "BOS -12.5",
       "favorite": "Boston Celtics",
       "pick": "Boston Celtics",
       "pick_abbr": "BOS",
-      "moneyline": "-650",
-      "win_probability": 83.2,
+      "moneyline": "-800",
+      "win_probability": 85.2,
       "confidence": "HIGH",
       "confidence_stars": "\u2605\u2605\u2605",
       "commence_time": "2026-04-19T17:10:00Z",
       "line_movement": {
         "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "shorter",
+          "points_moved": 150,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -800 \u2190 -650",
           "old_ml": "-650",
-          "new_ml": "-650"
+          "new_ml": "-800"
         },
         "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "longer",
+          "points_moved": 80,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM +550 \u2190 +470",
           "old_ml": "+470",
-          "new_ml": "+470"
+          "new_ml": "+550"
         },
         "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "shorter",
+          "points_moved": 150,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -800 \u2190 -650",
           "old_ml": "-650",
-          "new_ml": "-650"
+          "new_ml": "-800"
         },
-        "snapshot_time": "April 17, 2026 at 06:25 AM UTC"
+        "snapshot_time": "April 17, 2026 at 02:44 PM UTC"
       },
       "fatigue": {
         "home": {
@@ -927,7 +921,7 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udcca 66.4pt probability edge"
+        "\ud83d\udd25 Sharp steam detected"
       ],
       "injury_notes": "Derrick White (G); Neemias Queta (C); Payton Pritchard (G); Sam Hauser (F)",
       "sharp": {
@@ -964,9 +958,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "Boston Celtics hold a 83.2% edge.",
+        "trend": "Boston Celtics hold a 85.2% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "steam": "Line steamed from -650 to -800 (150pt move) \u2014 heavy professional action on Boston Celtics.",
         "injury_notes": "Derrick White (G); Neemias Queta (C); Payton Pritchard (G); Sam Hauser (F)"
       },
       "live": {
@@ -983,7 +977,7 @@
           "title": "NBA Futures: Thunder, Celtics favored to make Finals",
           "source": "www.espn.com - NBA",
           "link": "https://www.espn.com/espn/betting/story/_/id/45539787/2025-nba-finals-odds-mvp-2025-26-championship-betting",
-          "published": "Wed, 15 Apr 2026 12:40:57 EST"
+          "published": "Fri, 17 Apr 2026 14:18:55 EST"
         }
       ]
     },
@@ -1033,7 +1027,7 @@
           "old_ml": "-535",
           "new_ml": "-535"
         },
-        "snapshot_time": "April 17, 2026 at 06:25 AM UTC"
+        "snapshot_time": "April 17, 2026 at 02:44 PM UTC"
       },
       "fatigue": {
         "home": {
@@ -1113,22 +1107,22 @@
       },
       "news": [
         {
-          "title": "10 biggest NBA playoff questions: Can Thunder repeat? Is this it for LeBron? Can Knicks handle the pressure?",
-          "source": "CBS Sports",
-          "link": "https://www.cbssports.com/nba/news/nba-playoffs-biggest-questions-thunder-pistons-knicks-wembanyama-spurs-lakers-lebron/",
-          "published": "2026-04-16T14:40:55Z"
-        },
-        {
-          "title": "Celtics vs. 76ers schedule: Dates, times, TV channels, scores for 2026 NBA Playoffs first-round series",
+          "title": "Mike Brown turns competitive amid James Dolan's Knicks NBA Finals ultimatum",
           "source": "Sporting News",
-          "link": "https://www.sportingnews.com/us/nba/news/celtics-76ers-schedule-dates-times-channels-scores-nba-playoffs/70c7bcaa44f00007038defbb",
-          "published": "2026-04-16T14:39:32Z"
+          "link": "https://www.sportingnews.com/us/nba/new-york-knicks/news/knicks-mike-brown-turns-competitive-amid-james-dolan-nba-finals-ultimatum/8afe3b338e38f00a66c408b0",
+          "published": "2026-04-16T23:55:44Z"
         },
         {
-          "title": "2026 NBA bracket odds, predictions, best bets: NBA playoff picks by expert on 100-59 run",
-          "source": "CBS Sports",
-          "link": "https://www.cbssports.com/nba/news/2026-nba-playoff-bracket-picks-series-predictions-championship-odds/",
-          "published": "2026-04-16T14:26:38Z"
+          "title": "Cayden Boozer's return to Duke heats up transfer portal recruiting",
+          "source": "Sporting News",
+          "link": "https://www.sportingnews.com/us/ncaa-basketball/duke/news/cayden-boozers-return-duke-heats-transfer-portal-recruiting/ef892731eb86cceb923c6ee3",
+          "published": "2026-04-16T23:51:01Z"
+        },
+        {
+          "title": "Hornets one win away from playoffs, face Magic for final spot",
+          "source": "Yahoo Entertainment",
+          "link": "https://sports.yahoo.com/articles/hornets-one-win-away-playoffs-235042499.html",
+          "published": "2026-04-16T23:50:42Z"
         }
       ]
     }
