@@ -1858,9 +1858,11 @@
       "win_probability": 60.0,
       "commence_time": "2026-04-17T23:40:00Z",
       "date": "2026-04-16T06:24:06.586554+00:00",
-      "graded": false,
-      "result": null,
-      "profit": null
+      "graded": true,
+      "result": "LOSS",
+      "profit": -100,
+      "home_score": 121,
+      "away_score": 90
     },
     {
       "game": "Golden State Warriors @ Phoenix Suns",
@@ -1872,9 +1874,11 @@
       "win_probability": 53.2,
       "commence_time": "2026-04-18T02:10:00Z",
       "date": "2026-04-16T06:24:06.586554+00:00",
-      "graded": false,
-      "result": null,
-      "profit": null
+      "graded": true,
+      "result": "WIN",
+      "profit": 80.0,
+      "home_score": 111,
+      "away_score": 96
     },
     {
       "game": "Philadelphia 76ers @ Boston Celtics",
@@ -1889,16 +1893,30 @@
       "graded": false,
       "result": null,
       "profit": null
+    },
+    {
+      "game": "Orlando Magic @ Detroit Pistons",
+      "pick": "Detroit Pistons",
+      "pick_abbr": "DET",
+      "moneyline": "-325",
+      "moneyline_raw": -325,
+      "confidence": "HIGH",
+      "win_probability": 73.4,
+      "commence_time": "2026-04-19T22:40:00Z",
+      "date": "2026-04-18T05:53:13.409814+00:00",
+      "graded": false,
+      "result": null,
+      "profit": null
     }
   ],
   "summary": {
     "LOW": {
-      "wins": 20,
+      "wins": 21,
       "losses": 19,
-      "total": 39,
-      "win_pct": 51.3,
-      "roi": -2.0,
-      "profit": -79.31
+      "total": 40,
+      "win_pct": 52.5,
+      "roi": 0.0,
+      "profit": 0.69
     },
     "HIGH": {
       "wins": 39,
@@ -1910,28 +1928,28 @@
     },
     "MEDIUM": {
       "wins": 22,
-      "losses": 9,
-      "total": 31,
-      "win_pct": 71.0,
-      "roi": 3.8,
-      "profit": 116.69
+      "losses": 10,
+      "total": 32,
+      "win_pct": 68.8,
+      "roi": 0.5,
+      "profit": 16.69
     },
     "overall_7d": {
-      "wins": 24,
-      "losses": 9,
-      "total": 33,
-      "win_pct": 72.7,
-      "roi": -5.3,
-      "profit": -173.49
+      "wins": 13,
+      "losses": 4,
+      "total": 17,
+      "win_pct": 76.5,
+      "roi": 3.7,
+      "profit": 63.54
     },
     "overall_30d": {
-      "wins": 81,
-      "losses": 31,
-      "total": 112,
-      "win_pct": 72.3,
-      "roi": 1.6,
-      "profit": 174.1
+      "wins": 82,
+      "losses": 32,
+      "total": 114,
+      "win_pct": 71.9,
+      "roi": 1.4,
+      "profit": 154.1
     }
   },
-  "last_graded": "2026-04-16T06:23:18.270091+00:00"
+  "last_graded": "2026-04-18T05:52:26.387988+00:00"
 }
