@@ -1802,9 +1802,11 @@
       "win_probability": 71.0,
       "commence_time": "2026-04-18T17:00:00Z",
       "date": "2026-04-13T07:28:45.220922+00:00",
-      "graded": false,
-      "result": null,
-      "profit": null
+      "graded": true,
+      "result": "WIN",
+      "profit": 35.09,
+      "home_score": 126,
+      "away_score": 113
     },
     {
       "game": "Minnesota Timberwolves @ Denver Nuggets",
@@ -1816,9 +1818,11 @@
       "win_probability": 66.4,
       "commence_time": "2026-04-18T19:40:00Z",
       "date": "2026-04-13T07:28:45.220922+00:00",
-      "graded": false,
-      "result": null,
-      "profit": null
+      "graded": true,
+      "result": "WIN",
+      "profit": 44.44,
+      "home_score": 116,
+      "away_score": 105
     },
     {
       "game": "Atlanta Hawks @ New York Knicks",
@@ -1927,29 +1931,29 @@
       "profit": 136.72
     },
     "MEDIUM": {
-      "wins": 22,
+      "wins": 24,
       "losses": 10,
-      "total": 32,
-      "win_pct": 68.8,
-      "roi": 0.5,
-      "profit": 16.69
+      "total": 34,
+      "win_pct": 70.6,
+      "roi": 2.8,
+      "profit": 96.22
     },
     "overall_7d": {
-      "wins": 13,
-      "losses": 4,
-      "total": 17,
-      "win_pct": 76.5,
-      "roi": 3.7,
-      "profit": 63.54
+      "wins": 5,
+      "losses": 2,
+      "total": 7,
+      "win_pct": 71.4,
+      "roi": 13.2,
+      "profit": 92.36
     },
     "overall_30d": {
-      "wins": 82,
+      "wins": 84,
       "losses": 32,
-      "total": 114,
-      "win_pct": 71.9,
-      "roi": 1.4,
-      "profit": 154.1
+      "total": 116,
+      "win_pct": 72.4,
+      "roi": 2.0,
+      "profit": 233.63
     }
   },
-  "last_graded": "2026-04-18T05:52:26.387988+00:00"
+  "last_graded": "2026-04-18T23:54:38.238293+00:00"
 }
