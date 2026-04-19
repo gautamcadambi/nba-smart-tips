@@ -1,338 +1,54 @@
 {
-  "last_updated": "April 19, 2026 at 02:31 PM UTC",
+  "last_updated": "April 19, 2026 at 11:56 PM UTC",
   "total_games": 8,
   "games": [
-    {
-      "game": "Philadelphia 76ers @ Boston Celtics",
-      "home_team": "Boston Celtics",
-      "away_team": "Philadelphia 76ers",
-      "home_abbr": "BOS",
-      "away_abbr": "PHI",
-      "home_ml": "-800",
-      "away_ml": "+550",
-      "home_ml_raw": -800,
-      "away_ml_raw": 550,
-      "home_prob": 85.2,
-      "away_prob": 14.8,
-      "spread": "BOS -12.5",
-      "favorite": "Boston Celtics",
-      "pick": "Boston Celtics",
-      "pick_abbr": "BOS",
-      "moneyline": "-800",
-      "win_probability": 85.2,
-      "confidence": "HIGH",
-      "confidence_stars": "\u2605\u2605\u2605",
-      "commence_time": "2026-04-19T17:10:00Z",
-      "line_movement": {
-        "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
-          "old_ml": "-800",
-          "new_ml": "-800"
-        },
-        "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
-          "old_ml": "+550",
-          "new_ml": "+550"
-        },
-        "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
-          "old_ml": "-800",
-          "new_ml": "-800"
-        },
-        "snapshot_time": "April 19, 2026 at 12:03 PM UTC"
-      },
-      "fatigue": {
-        "home": {
-          "status": "FRESH",
-          "label": "Well rested \u2705",
-          "battery": 100,
-          "last_game": "\u2014",
-          "days_rest": 99,
-          "games_last_4d": 0,
-          "travel_miles": 0,
-          "travel_desc": "",
-          "source": "ESPN Scoreboard API"
-        },
-        "away": {
-          "status": "FRESH",
-          "label": "Well rested \u2705",
-          "battery": 100,
-          "last_game": "Apr 15",
-          "days_rest": 4,
-          "games_last_4d": 1,
-          "travel_miles": 0,
-          "travel_desc": "",
-          "source": "ESPN Scoreboard API"
-        }
-      },
-      "edge_factors": [
-        "\ud83d\udcca 70.4pt probability edge"
-      ],
-      "injury_notes": "No key injuries.",
-      "sharp": {
-        "away_t": null,
-        "home_t": null,
-        "source": null,
-        "sharp_signal": null,
-        "sharp_label": "Pending \u2014 check closer to tip-off",
-        "rlm": false
-      },
-      "form": {
-        "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        },
-        "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        }
-      },
-      "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
-      },
-      "briefing": {
-        "trend": "Boston Celtics hold a 85.2% edge.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
-        "injury_notes": "No key injuries."
-      },
-      "live": {
-        "status": "pre",
-        "status_detail": "Upcoming",
-        "period": 0,
-        "clock": "",
-        "home_score": 0,
-        "away_score": 0,
-        "spread_alert": null
-      },
-      "news": [
-        {
-          "title": "NBA 2026 postseason preview: Matchups, biggest questions and what to know",
-          "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/nba/story/_/id/48447222/nba-playoffs-2026-preview-teams-postseason",
-          "published": "Sat, 18 Apr 2026 01:06:16 EST"
-        },
-        {
-          "title": "NBA futures: Thunder, Celtics favored to make Finals",
-          "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/espn/betting/story/_/id/45539787/2025-nba-finals-odds-mvp-2025-26-championship-betting",
-          "published": "Sat, 18 Apr 2026 10:50:13 EST"
-        }
-      ]
-    },
-    {
-      "game": "Phoenix Suns @ Oklahoma City Thunder",
-      "home_team": "Oklahoma City Thunder",
-      "away_team": "Phoenix Suns",
-      "home_abbr": "OKC",
-      "away_abbr": "PHX",
-      "home_ml": "-1100",
-      "away_ml": "+700",
-      "home_ml_raw": -1100,
-      "away_ml_raw": 700,
-      "home_prob": 88.0,
-      "away_prob": 12.0,
-      "spread": "OKC -14.5",
-      "favorite": "Oklahoma City Thunder",
-      "pick": "Oklahoma City Thunder",
-      "pick_abbr": "OKC",
-      "moneyline": "-1100",
-      "win_probability": 88.0,
-      "confidence": "HIGH",
-      "confidence_stars": "\u2605\u2605\u2605",
-      "commence_time": "2026-04-19T19:40:00Z",
-      "line_movement": {
-        "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
-          "old_ml": "-1100",
-          "new_ml": "-1100"
-        },
-        "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
-          "old_ml": "+700",
-          "new_ml": "+700"
-        },
-        "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
-          "old_ml": "-1100",
-          "new_ml": "-1100"
-        },
-        "snapshot_time": "April 19, 2026 at 12:03 PM UTC"
-      },
-      "fatigue": {
-        "home": {
-          "status": "FRESH",
-          "label": "Well rested \u2705",
-          "battery": 100,
-          "last_game": "\u2014",
-          "days_rest": 99,
-          "games_last_4d": 0,
-          "travel_miles": 0,
-          "travel_desc": "",
-          "source": "ESPN Scoreboard API"
-        },
-        "away": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "Apr 17",
-          "days_rest": 2,
-          "games_last_4d": 1,
-          "travel_miles": 0,
-          "travel_desc": "",
-          "source": "ESPN Scoreboard API"
-        }
-      },
-      "edge_factors": [
-        "\ud83d\udcca 76.0pt probability edge"
-      ],
-      "injury_notes": "Mark Williams (C)",
-      "sharp": {
-        "away_t": null,
-        "home_t": null,
-        "source": null,
-        "sharp_signal": null,
-        "sharp_label": "Pending \u2014 check closer to tip-off",
-        "rlm": false
-      },
-      "form": {
-        "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        },
-        "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        }
-      },
-      "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
-      },
-      "briefing": {
-        "trend": "Oklahoma City Thunder hold a 88.0% edge.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
-        "injury_notes": "Mark Williams (C)"
-      },
-      "live": {
-        "status": "pre",
-        "status_detail": "Upcoming",
-        "period": 0,
-        "clock": "",
-        "home_score": 0,
-        "away_score": 0,
-        "spread_alert": null
-      },
-      "news": [
-        {
-          "title": "Kerr on future: These jobs have 'expiration date'",
-          "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/nba/story/_/id/48519533/warriors-kerr-mull-future-knows-jobs-expiration-dates",
-          "published": "Sun, 19 Apr 2026 01:24:44 EST"
-        },
-        {
-          "title": "NBA 2026 postseason preview: Matchups, biggest questions and what to know",
-          "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/nba/story/_/id/48447222/nba-playoffs-2026-preview-teams-postseason",
-          "published": "Sat, 18 Apr 2026 01:06:16 EST"
-        },
-        {
-          "title": "NBA futures: Thunder, Celtics favored to make Finals",
-          "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/espn/betting/story/_/id/45539787/2025-nba-finals-odds-mvp-2025-26-championship-betting",
-          "published": "Sat, 18 Apr 2026 10:50:13 EST"
-        }
-      ]
-    },
     {
       "game": "Orlando Magic @ Detroit Pistons",
       "home_team": "Detroit Pistons",
       "away_team": "Orlando Magic",
       "home_abbr": "DET",
       "away_abbr": "ORL",
-      "home_ml": "-375",
-      "away_ml": "+295",
-      "home_ml_raw": -375,
-      "away_ml_raw": 295,
-      "home_prob": 75.7,
-      "away_prob": 24.3,
-      "spread": "DET -8.5",
+      "home_ml": "-220",
+      "away_ml": "+170",
+      "home_ml_raw": -220,
+      "away_ml_raw": 170,
+      "home_prob": 65.0,
+      "away_prob": 35.0,
+      "spread": "DET -4.5",
       "favorite": "Detroit Pistons",
       "pick": "Detroit Pistons",
       "pick_abbr": "DET",
-      "moneyline": "-375",
-      "win_probability": 75.7,
-      "confidence": "HIGH",
-      "confidence_stars": "\u2605\u2605\u2605",
-      "commence_time": "2026-04-19T22:40:00Z",
+      "moneyline": "-220",
+      "win_probability": 65.0,
+      "confidence": "MEDIUM",
+      "confidence_stars": "\u2605\u2605\u2606",
+      "commence_time": "2026-04-19T22:37:43Z",
       "line_movement": {
         "home": {
-          "direction": "shorter",
-          "points_moved": 30,
+          "direction": "longer",
+          "points_moved": 155,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM -375 \u2190 -345",
-          "old_ml": "-345",
-          "new_ml": "-375"
+          "label": "\ud83d\udd25 STEAM -220 \u2190 -375",
+          "old_ml": "-375",
+          "new_ml": "-220"
         },
         "away": {
-          "direction": "longer",
-          "points_moved": 20,
+          "direction": "shorter",
+          "points_moved": 125,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM +295 \u2190 +275",
-          "old_ml": "+275",
-          "new_ml": "+295"
+          "label": "\ud83d\udd25 STEAM +170 \u2190 +295",
+          "old_ml": "+295",
+          "new_ml": "+170"
         },
         "pick": {
-          "direction": "shorter",
-          "points_moved": 30,
+          "direction": "longer",
+          "points_moved": 155,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM -375 \u2190 -345",
-          "old_ml": "-345",
-          "new_ml": "-375"
+          "label": "\ud83d\udd25 STEAM -220 \u2190 -375",
+          "old_ml": "-375",
+          "new_ml": "-220"
         },
-        "snapshot_time": "April 19, 2026 at 12:03 PM UTC"
+        "snapshot_time": "April 19, 2026 at 02:31 PM UTC"
       },
       "fatigue": {
         "home": {
@@ -396,9 +112,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "Detroit Pistons hold a 75.7% edge.",
+        "trend": "Detroit Pistons hold a 65.0% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -345 to -375 (30pt move) \u2014 heavy professional action on Detroit Pistons.",
+        "steam": "Line steamed from -375 to -220 (155pt move) \u2014 heavy professional action on Detroit Pistons.",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -412,10 +128,10 @@
       },
       "news": [
         {
-          "title": "NBA 2026 postseason preview: Matchups, biggest questions and what to know",
+          "title": "Follow live: Pistons host Magic in Game 1",
           "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/nba/story/_/id/48447222/nba-playoffs-2026-preview-teams-postseason",
-          "published": "Sat, 18 Apr 2026 01:06:16 EST"
+          "link": "https://www.espn.com/nba/game/_/gameId/401869193/magic-pistons",
+          "published": "Sun, 19 Apr 2026 19:50:08 EST"
         }
       ]
     },
@@ -425,47 +141,47 @@
       "away_team": "Portland Trail Blazers",
       "home_abbr": "SAS",
       "away_abbr": "POR",
-      "home_ml": "-535",
-      "away_ml": "+400",
-      "home_ml_raw": -535,
-      "away_ml_raw": 400,
-      "home_prob": 80.8,
-      "away_prob": 19.2,
-      "spread": "SAS -10.5",
+      "home_ml": "-700",
+      "away_ml": "+500",
+      "home_ml_raw": -700,
+      "away_ml_raw": 500,
+      "home_prob": 84.0,
+      "away_prob": 16.0,
+      "spread": "SAS -12.5",
       "favorite": "San Antonio Spurs",
       "pick": "San Antonio Spurs",
       "pick_abbr": "SAS",
-      "moneyline": "-535",
-      "win_probability": 80.8,
+      "moneyline": "-700",
+      "win_probability": 84.0,
       "confidence": "HIGH",
       "confidence_stars": "\u2605\u2605\u2605",
       "commence_time": "2026-04-20T01:10:00Z",
       "line_movement": {
         "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "shorter",
+          "points_moved": 165,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -700 \u2190 -535",
           "old_ml": "-535",
-          "new_ml": "-535"
+          "new_ml": "-700"
         },
         "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "longer",
+          "points_moved": 100,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM +500 \u2190 +400",
           "old_ml": "+400",
-          "new_ml": "+400"
+          "new_ml": "+500"
         },
         "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "shorter",
+          "points_moved": 165,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -700 \u2190 -535",
           "old_ml": "-535",
-          "new_ml": "-535"
+          "new_ml": "-700"
         },
-        "snapshot_time": "April 19, 2026 at 12:03 PM UTC"
+        "snapshot_time": "April 19, 2026 at 02:31 PM UTC"
       },
       "fatigue": {
         "home": {
@@ -492,7 +208,7 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udcca 61.6pt probability edge"
+        "\ud83d\udd25 Sharp steam detected"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -529,9 +245,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "San Antonio Spurs hold a 80.8% edge.",
+        "trend": "San Antonio Spurs hold a 84.0% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "steam": "Line steamed from -535 to -700 (165pt move) \u2014 heavy professional action on San Antonio Spurs.",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -548,13 +264,7 @@
           "title": "Spurs motivated, inspired by Popovich address",
           "source": "www.espn.com - NBA",
           "link": "https://www.espn.com/nba/story/_/id/48522561/gregg-popovich-addresses-spurs-prior-playoff-series-vs-portland",
-          "published": "Sun, 19 Apr 2026 01:24:44 EST"
-        },
-        {
-          "title": "NBA 2026 postseason preview: Matchups, biggest questions and what to know",
-          "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/nba/story/_/id/48447222/nba-playoffs-2026-preview-teams-postseason",
-          "published": "Sat, 18 Apr 2026 01:06:16 EST"
+          "published": "Sun, 19 Apr 2026 18:08:04 EST"
         }
       ]
     },
@@ -604,7 +314,7 @@
           "old_ml": "-340",
           "new_ml": "-340"
         },
-        "snapshot_time": "April 19, 2026 at 12:03 PM UTC"
+        "snapshot_time": "April 19, 2026 at 02:31 PM UTC"
       },
       "fatigue": {
         "home": {
@@ -684,10 +394,22 @@
       },
       "news": [
         {
-          "title": "Raps' Quickley (hamstring) misses G1 loss to Cavs",
-          "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/nba/story/_/id/48522217/raptors-quickley-hamstring-miss-game-1-vs-cavaliers",
-          "published": "Sun, 19 Apr 2026 01:24:44 EST"
+          "title": "Cleveland Cavaliers offense shines, but the defense has work to do as the Toronto Raptors series moves to Game 2",
+          "source": "Sporting News",
+          "link": "https://www.sportingnews.com/us/nba/cleveland-cavaliers/news/cleveland-cavaliers-offense-shines-defense-has-work-do-toronto-raptors-series-moves-game-2/86b4a1c047a311154b751b40",
+          "published": "2026-04-18T23:46:47Z"
+        },
+        {
+          "title": "Kevin Durant Ruled Out Of Game 1 vs. Lakers in Playoffs Series",
+          "source": "Yahoo Entertainment",
+          "link": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_a3b4e1fd-2053-4899-bea3-539755ce7dfd",
+          "published": "2026-04-18T23:35:35Z"
+        },
+        {
+          "title": "Kevin Durant injury: Rockets star ruled out for Game 1 vs. Lakers after hurting knee in practice",
+          "source": "CBS Sports",
+          "link": "https://www.cbssports.com/nba/news/kevin-durant-injury-rockets-lakers-nba-playoffs/",
+          "published": "2026-04-18T23:30:55Z"
         }
       ]
     },
@@ -697,47 +419,47 @@
       "away_team": "Atlanta Hawks",
       "home_abbr": "NYK",
       "away_abbr": "ATL",
-      "home_ml": "-225",
-      "away_ml": "+185",
-      "home_ml_raw": -225,
-      "away_ml_raw": 185,
-      "home_prob": 66.4,
-      "away_prob": 33.6,
+      "home_ml": "-238",
+      "away_ml": "+195",
+      "home_ml_raw": -238,
+      "away_ml_raw": 195,
+      "home_prob": 67.5,
+      "away_prob": 32.5,
       "spread": "NYK -5.5",
       "favorite": "New York Knicks",
       "pick": "New York Knicks",
       "pick_abbr": "NYK",
-      "moneyline": "-225",
-      "win_probability": 66.4,
+      "moneyline": "-238",
+      "win_probability": 67.5,
       "confidence": "MEDIUM",
       "confidence_stars": "\u2605\u2605\u2606",
       "commence_time": "2026-04-21T00:10:00Z",
       "line_movement": {
         "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "shorter",
+          "points_moved": 13,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -238 \u2190 -225",
           "old_ml": "-225",
-          "new_ml": "-225"
+          "new_ml": "-238"
         },
         "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "longer",
+          "points_moved": 10,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM +195 \u2190 +185",
           "old_ml": "+185",
-          "new_ml": "+185"
+          "new_ml": "+195"
         },
         "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "shorter",
+          "points_moved": 13,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -238 \u2190 -225",
           "old_ml": "-225",
-          "new_ml": "-225"
+          "new_ml": "-238"
         },
-        "snapshot_time": "April 19, 2026 at 12:03 PM UTC"
+        "snapshot_time": "April 19, 2026 at 02:31 PM UTC"
       },
       "fatigue": {
         "home": {
@@ -764,9 +486,10 @@
         }
       },
       "edge_factors": [
+        "\ud83d\udd25 Sharp steam detected",
         "\ud83d\udca4 ATL fatigued (B2B) \u2014 source: ESPN"
       ],
-      "injury_notes": "No key injuries.",
+      "injury_notes": "OG Anunoby (F); Onyeka Okongwu (F)",
       "sharp": {
         "away_t": null,
         "home_t": null,
@@ -803,8 +526,8 @@
       "briefing": {
         "trend": "NYK on Back-to-Back \u26a0\ufe0f per ESPN schedule data. ATL on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
-        "injury_notes": "No key injuries."
+        "steam": "Line steamed from -225 to -238 (13pt move) \u2014 heavy professional action on New York Knicks.",
+        "injury_notes": "OG Anunoby (F); Onyeka Okongwu (F)"
       },
       "live": {
         "status": "pre",
@@ -820,13 +543,7 @@
           "title": "Buoyed by Brunson, Knicks seal 'hard-fought win'",
           "source": "www.espn.com - NBA",
           "link": "https://www.espn.com/nba/story/_/id/48528923/jalen-brunson-nets-28-points-knicks-outlast-hawks-game-1",
-          "published": "Sun, 19 Apr 2026 01:24:44 EST"
-        },
-        {
-          "title": "East playoffs: The Cavs and Knicks roll on the opening day",
-          "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/nba/story/_/id/48506456/2026-nba-playoffs-eastern-conference-round-one-takeaways",
-          "published": "Sat, 18 Apr 2026 23:07:38 EST"
+          "published": "Sun, 19 Apr 2026 18:08:04 EST"
         }
       ]
     },
@@ -876,7 +593,7 @@
           "old_ml": "-245",
           "new_ml": "-245"
         },
-        "snapshot_time": "April 19, 2026 at 12:03 PM UTC"
+        "snapshot_time": "April 19, 2026 at 02:31 PM UTC"
       },
       "fatigue": {
         "home": {
@@ -959,13 +676,152 @@
           "title": "Murray's FT dominance irks Wolves, lifts Nuggets",
           "source": "www.espn.com - NBA",
           "link": "https://www.espn.com/nba/story/_/id/48527044/murray-16-16-night-line-lifts-nuggets-game-1-win",
-          "published": "Sun, 19 Apr 2026 01:24:44 EST"
+          "published": "Sun, 19 Apr 2026 18:08:04 EST"
+        }
+      ]
+    },
+    {
+      "game": "Philadelphia 76ers @ Boston Celtics",
+      "home_team": "Boston Celtics",
+      "away_team": "Philadelphia 76ers",
+      "home_abbr": "BOS",
+      "away_abbr": "PHI",
+      "home_ml": "-900",
+      "away_ml": "+600",
+      "home_ml_raw": -900,
+      "away_ml_raw": 600,
+      "home_prob": 86.3,
+      "away_prob": 13.7,
+      "spread": "BOS -14.5",
+      "favorite": "Boston Celtics",
+      "pick": "Boston Celtics",
+      "pick_abbr": "BOS",
+      "moneyline": "-900",
+      "win_probability": 86.3,
+      "confidence": "HIGH",
+      "confidence_stars": "\u2605\u2605\u2605",
+      "commence_time": "2026-04-21T23:10:00Z",
+      "line_movement": {
+        "home": {
+          "direction": "shorter",
+          "points_moved": 100,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -900 \u2190 -800",
+          "old_ml": "-800",
+          "new_ml": "-900"
+        },
+        "away": {
+          "direction": "longer",
+          "points_moved": 50,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM +600 \u2190 +550",
+          "old_ml": "+550",
+          "new_ml": "+600"
+        },
+        "pick": {
+          "direction": "shorter",
+          "points_moved": 100,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -900 \u2190 -800",
+          "old_ml": "-800",
+          "new_ml": "-900"
+        },
+        "snapshot_time": "April 19, 2026 at 02:31 PM UTC"
+      },
+      "fatigue": {
+        "home": {
+          "status": "FRESH",
+          "label": "Well rested \u2705",
+          "battery": 100,
+          "last_game": "\u2014",
+          "days_rest": 99,
+          "games_last_4d": 0,
+          "travel_miles": 0,
+          "travel_desc": "",
+          "source": "ESPN Scoreboard API"
+        },
+        "away": {
+          "status": "FRESH",
+          "label": "Well rested \u2705",
+          "battery": 100,
+          "last_game": "Apr 15",
+          "days_rest": 4,
+          "games_last_4d": 1,
+          "travel_miles": 0,
+          "travel_desc": "",
+          "source": "ESPN Scoreboard API"
+        }
+      },
+      "edge_factors": [
+        "\ud83d\udd25 Sharp steam detected"
+      ],
+      "injury_notes": "No key injuries.",
+      "sharp": {
+        "away_t": null,
+        "home_t": null,
+        "source": null,
+        "sharp_signal": null,
+        "sharp_label": "Pending \u2014 check closer to tip-off",
+        "rlm": false
+      },
+      "form": {
+        "home": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        },
+        "away": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        }
+      },
+      "h2h": {
+        "total_meetings": 0,
+        "home_wins": 0,
+        "away_wins": 0,
+        "meetings": [],
+        "source": "\u2014"
+      },
+      "briefing": {
+        "trend": "Boston Celtics hold a 86.3% edge.",
+        "matchup": "Both rosters appear healthy \u2014 clean line.",
+        "steam": "Line steamed from -800 to -900 (100pt move) \u2014 heavy professional action on Boston Celtics.",
+        "injury_notes": "No key injuries."
+      },
+      "live": {
+        "status": "pre",
+        "status_detail": "Upcoming",
+        "period": 0,
+        "clock": "",
+        "home_score": 0,
+        "away_score": 0,
+        "spread_alert": null
+      },
+      "news": [
+        {
+          "title": "Sixers face familiar fate as C's, Tatum dominate",
+          "source": "www.espn.com - NBA",
+          "link": "https://www.espn.com/nba/story/_/id/48534372/76ers-face-familiar-playoff-fate-celtics-dominate-game-1",
+          "published": "Sun, 19 Apr 2026 18:08:04 EST"
         },
         {
-          "title": "Takeaways: Lakers overcome injuries, Murray shows out for Nuggets",
+          "title": "East playoff takeaways: Celtics dominate Sixers in 32-point drubbing",
           "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/nba/story/_/id/48506452/2026-nba-playoffs-western-conference-round-one-takeaways",
-          "published": "Sun, 19 Apr 2026 10:25:04 EST"
+          "link": "https://www.espn.com/nba/story/_/id/48506456/2026-nba-playoffs-eastern-conference-round-one-takeaways",
+          "published": "Sun, 19 Apr 2026 19:23:19 EST"
+        },
+        {
+          "title": "'50 wins in a gap year': How Jaylen Brown turbocharged the Celtics back to title contention",
+          "source": "www.espn.com - NBA",
+          "link": "https://www.espn.com/nba/story/_/id/48430297/how-jaylen-brown-turbocharged-boston-celtics-back-title-contention-jayson-tatum",
+          "published": "Sun, 19 Apr 2026 13:06:41 EST"
         }
       ]
     },
@@ -975,47 +831,47 @@
       "away_team": "Houston Rockets",
       "home_abbr": "LAL",
       "away_abbr": "HOU",
-      "home_ml": "+142",
-      "away_ml": "-170",
-      "home_ml_raw": 142,
-      "away_ml_raw": -170,
-      "home_prob": 39.6,
-      "away_prob": 60.4,
+      "home_ml": "+145",
+      "away_ml": "-175",
+      "home_ml_raw": 145,
+      "away_ml_raw": -175,
+      "home_prob": 39.1,
+      "away_prob": 60.9,
       "spread": "LAL +4.5",
       "favorite": "Houston Rockets",
       "pick": "Houston Rockets",
       "pick_abbr": "HOU",
-      "moneyline": "-170",
-      "win_probability": 60.4,
+      "moneyline": "-175",
+      "win_probability": 60.9,
       "confidence": "MEDIUM",
       "confidence_stars": "\u2605\u2605\u2606",
       "commence_time": "2026-04-22T02:40:00Z",
       "line_movement": {
         "home": {
-          "direction": "none",
-          "points_moved": 0,
+          "direction": "longer",
+          "points_moved": 3,
           "steam": false,
-          "label": "No movement",
+          "label": "\ud83d\udd34 +145 \u2190 +142",
           "old_ml": "+142",
-          "new_ml": "+142"
+          "new_ml": "+145"
         },
         "away": {
-          "direction": "none",
-          "points_moved": 0,
+          "direction": "shorter",
+          "points_moved": 5,
           "steam": false,
-          "label": "No movement",
+          "label": "\ud83d\udfe2 -175 \u2190 -170",
           "old_ml": "-170",
-          "new_ml": "-170"
+          "new_ml": "-175"
         },
         "pick": {
-          "direction": "none",
-          "points_moved": 0,
+          "direction": "shorter",
+          "points_moved": 5,
           "steam": false,
-          "label": "No movement",
+          "label": "\ud83d\udfe2 -175 \u2190 -170",
           "old_ml": "-170",
-          "new_ml": "-170"
+          "new_ml": "-175"
         },
-        "snapshot_time": "April 19, 2026 at 12:03 PM UTC"
+        "snapshot_time": "April 19, 2026 at 02:31 PM UTC"
       },
       "fatigue": {
         "home": {
@@ -1081,7 +937,7 @@
       "briefing": {
         "trend": "LAL on Back-to-Back \u26a0\ufe0f per ESPN schedule data. HOU on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "steam": "Line moved -170\u2192-175 (5pts). Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -1098,13 +954,146 @@
           "title": "LeBron plays 'triple threat' to spring Game 1 upset",
           "source": "www.espn.com - NBA",
           "link": "https://www.espn.com/nba/story/_/id/48528333/luke-kennard-lebron-james-team-upset-rockets-opener",
-          "published": "Sun, 19 Apr 2026 01:24:44 EST"
+          "published": "Sun, 19 Apr 2026 18:08:04 EST"
+        }
+      ]
+    },
+    {
+      "game": "Phoenix Suns @ Oklahoma City Thunder",
+      "home_team": "Oklahoma City Thunder",
+      "away_team": "Phoenix Suns",
+      "home_abbr": "OKC",
+      "away_abbr": "PHX",
+      "home_ml": "-1650",
+      "away_ml": "+950",
+      "home_ml_raw": -1650,
+      "away_ml_raw": 950,
+      "home_prob": 90.8,
+      "away_prob": 9.2,
+      "spread": "OKC -17.5",
+      "favorite": "Oklahoma City Thunder",
+      "pick": "Oklahoma City Thunder",
+      "pick_abbr": "OKC",
+      "moneyline": "-1650",
+      "win_probability": 90.8,
+      "confidence": "HIGH",
+      "confidence_stars": "\u2605\u2605\u2605",
+      "commence_time": "2026-04-23T01:40:00Z",
+      "line_movement": {
+        "home": {
+          "direction": "shorter",
+          "points_moved": 550,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -1650 \u2190 -1100",
+          "old_ml": "-1100",
+          "new_ml": "-1650"
         },
+        "away": {
+          "direction": "longer",
+          "points_moved": 250,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM +950 \u2190 +700",
+          "old_ml": "+700",
+          "new_ml": "+950"
+        },
+        "pick": {
+          "direction": "shorter",
+          "points_moved": 550,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -1650 \u2190 -1100",
+          "old_ml": "-1100",
+          "new_ml": "-1650"
+        },
+        "snapshot_time": "April 19, 2026 at 02:31 PM UTC"
+      },
+      "fatigue": {
+        "home": {
+          "status": "FRESH",
+          "label": "Well rested \u2705",
+          "battery": 100,
+          "last_game": "\u2014",
+          "days_rest": 99,
+          "games_last_4d": 0,
+          "travel_miles": 0,
+          "travel_desc": "",
+          "source": "ESPN Scoreboard API"
+        },
+        "away": {
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
+          "last_game": "Apr 17",
+          "days_rest": 2,
+          "games_last_4d": 1,
+          "travel_miles": 0,
+          "travel_desc": "",
+          "source": "ESPN Scoreboard API"
+        }
+      },
+      "edge_factors": [
+        "\ud83d\udd25 Sharp steam detected"
+      ],
+      "injury_notes": "Jordan Goodwin (G)",
+      "sharp": {
+        "away_t": null,
+        "home_t": null,
+        "source": null,
+        "sharp_signal": null,
+        "sharp_label": "Pending \u2014 check closer to tip-off",
+        "rlm": false
+      },
+      "form": {
+        "home": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        },
+        "away": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        }
+      },
+      "h2h": {
+        "total_meetings": 0,
+        "home_wins": 0,
+        "away_wins": 0,
+        "meetings": [],
+        "source": "\u2014"
+      },
+      "briefing": {
+        "trend": "Oklahoma City Thunder hold a 90.8% edge.",
+        "matchup": "Both rosters appear healthy \u2014 clean line.",
+        "steam": "Line steamed from -1100 to -1650 (550pt move) \u2014 heavy professional action on Oklahoma City Thunder.",
+        "injury_notes": "Jordan Goodwin (G)"
+      },
+      "live": {
+        "status": "pre",
+        "status_detail": "Upcoming",
+        "period": 0,
+        "clock": "",
+        "home_score": 0,
+        "away_score": 0,
+        "spread_alert": null
+      },
+      "news": [
         {
-          "title": "Takeaways: Lakers overcome injuries, Murray shows out for Nuggets",
+          "title": "West playoff takeaways: Thunder blow out Suns in Game 1 win",
           "source": "www.espn.com - NBA",
           "link": "https://www.espn.com/nba/story/_/id/48506452/2026-nba-playoffs-western-conference-round-one-takeaways",
-          "published": "Sun, 19 Apr 2026 10:25:04 EST"
+          "published": "Sun, 19 Apr 2026 19:23:19 EST"
+        },
+        {
+          "title": "NBA futures: Thunder, Celtics favored to make Finals",
+          "source": "www.espn.com - NBA",
+          "link": "https://www.espn.com/espn/betting/story/_/id/45539787/2025-nba-finals-odds-mvp-2025-26-championship-betting",
+          "published": "Sat, 18 Apr 2026 10:50:13 EST"
         }
       ]
     }
@@ -1119,12 +1108,12 @@
       "profit": 0.69
     },
     "HIGH": {
-      "wins": 39,
+      "wins": 40,
       "losses": 3,
-      "total": 42,
-      "win_pct": 92.9,
-      "roi": 3.3,
-      "profit": 136.72
+      "total": 43,
+      "win_pct": 93.0,
+      "roi": 3.6,
+      "profit": 152.72
     },
     "MEDIUM": {
       "wins": 25,
@@ -1135,20 +1124,20 @@
       "profit": 48.3
     },
     "overall_7d": {
-      "wins": 6,
+      "wins": 7,
       "losses": 3,
-      "total": 9,
-      "win_pct": 66.7,
-      "roi": 4.9,
-      "profit": 44.44
+      "total": 10,
+      "win_pct": 70.0,
+      "roi": 6.0,
+      "profit": 60.44
     },
     "overall_30d": {
-      "wins": 85,
+      "wins": 86,
       "losses": 33,
-      "total": 118,
-      "win_pct": 72.0,
-      "roi": 1.6,
-      "profit": 185.71
+      "total": 119,
+      "win_pct": 72.3,
+      "roi": 1.7,
+      "profit": 201.71
     }
   }
 }

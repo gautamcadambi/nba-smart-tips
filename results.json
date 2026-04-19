@@ -1898,9 +1898,11 @@
       "win_probability": 82.7,
       "commence_time": "2026-04-19T17:10:00Z",
       "date": "2026-04-16T06:24:06.586554+00:00",
-      "graded": false,
-      "result": null,
-      "profit": null
+      "graded": true,
+      "result": "WIN",
+      "profit": 16.0,
+      "home_score": 123,
+      "away_score": 91
     },
     {
       "game": "Orlando Magic @ Detroit Pistons",
@@ -1927,12 +1929,12 @@
       "profit": 0.69
     },
     "HIGH": {
-      "wins": 39,
+      "wins": 40,
       "losses": 3,
-      "total": 42,
-      "win_pct": 92.9,
-      "roi": 3.3,
-      "profit": 136.72
+      "total": 43,
+      "win_pct": 93.0,
+      "roi": 3.6,
+      "profit": 152.72
     },
     "MEDIUM": {
       "wins": 25,
@@ -1943,21 +1945,21 @@
       "profit": 48.3
     },
     "overall_7d": {
-      "wins": 6,
+      "wins": 7,
       "losses": 3,
-      "total": 9,
-      "win_pct": 66.7,
-      "roi": 4.9,
-      "profit": 44.44
+      "total": 10,
+      "win_pct": 70.0,
+      "roi": 6.0,
+      "profit": 60.44
     },
     "overall_30d": {
-      "wins": 85,
+      "wins": 86,
       "losses": 33,
-      "total": 118,
-      "win_pct": 72.0,
-      "roi": 1.6,
-      "profit": 185.71
+      "total": 119,
+      "win_pct": 72.3,
+      "roi": 1.7,
+      "profit": 201.71
     }
   },
-  "last_graded": "2026-04-19T06:18:34.405981+00:00"
+  "last_graded": "2026-04-19T23:55:41.059377+00:00"
 }
