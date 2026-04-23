@@ -1,5 +1,5 @@
 {
-  "last_updated": "April 23, 2026 at 06:29 AM UTC",
+  "last_updated": "April 23, 2026 at 04:54 PM UTC",
   "total_games": 8,
   "games": [
     {
@@ -8,47 +8,47 @@
       "away_team": "New York Knicks",
       "home_abbr": "ATL",
       "away_abbr": "NYK",
-      "home_ml": "-110",
-      "away_ml": "-110",
-      "home_ml_raw": -110,
-      "away_ml_raw": -110,
-      "home_prob": 50.0,
-      "away_prob": 50.0,
-      "spread": "ATL -1.5",
-      "favorite": "Atlanta Hawks",
-      "pick": "Atlanta Hawks",
-      "pick_abbr": "ATL",
-      "moneyline": "-110",
-      "win_probability": 50.0,
+      "home_ml": "+102",
+      "away_ml": "-122",
+      "home_ml_raw": 102,
+      "away_ml_raw": -122,
+      "home_prob": 47.4,
+      "away_prob": 52.6,
+      "spread": "ATL +1.5",
+      "favorite": "New York Knicks",
+      "pick": "New York Knicks",
+      "pick_abbr": "NYK",
+      "moneyline": "-122",
+      "win_probability": 52.6,
       "confidence": "LOW",
       "confidence_stars": "\u2605\u2606\u2606",
       "commence_time": "2026-04-23T23:10:00Z",
       "line_movement": {
         "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "longer",
+          "points_moved": 212,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM +102 \u2190 -110",
           "old_ml": "-110",
-          "new_ml": "-110"
+          "new_ml": "+102"
         },
         "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "shorter",
+          "points_moved": 12,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -122 \u2190 -110",
           "old_ml": "-110",
-          "new_ml": "-110"
+          "new_ml": "-122"
         },
         "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "shorter",
+          "points_moved": 12,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -122 \u2190 -110",
           "old_ml": "-110",
-          "new_ml": "-110"
+          "new_ml": "-122"
         },
-        "snapshot_time": "April 23, 2026 at 05:57 AM UTC"
+        "snapshot_time": "April 23, 2026 at 06:29 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -75,7 +75,7 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udcca 0.0pt probability edge"
+        "\ud83d\udd25 Sharp steam detected"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -112,9 +112,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "Atlanta Hawks hold a 50.0% edge.",
+        "trend": "New York Knicks hold a 52.6% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "steam": "Line steamed from -110 to -122 (12pt move) \u2014 heavy professional action on New York Knicks.",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -128,22 +128,10 @@
       },
       "news": [
         {
-          "title": "LeBron James stat shows the Rockets have a 0% chance to win the series after falling down 2-0",
-          "source": "Sporting News",
-          "link": "https://www.sportingnews.com/us/nba/los-angeles-lakers/news/lebron-james-stat-shows-rockets-have-0-chance-win-series-after-falling-down-2-0/d6cb63e4c5fa31386ca37b20",
-          "published": "2026-04-22T06:21:16Z"
-        },
-        {
-          "title": "TST Images: Lakers defeat Rockets, 101-94, at Crypto.com Arena",
-          "source": "Thesportingtribune.com",
-          "link": "https://www.thesportingtribune.com/2026/04/21/rockets-lakers-photos",
-          "published": "2026-04-22T06:18:57Z"
-        },
-        {
-          "title": "Jaylen Brown remains calm despite Game 2 loss: Welcome to the playoffs",
-          "source": "USA Today",
-          "link": "https://celticswire.usatoday.com/story/sports/nba/celtics/2026/04/22/jaylen-brown-not-panicked-after-game-2-loss-76ers-playoffs/89728077007/",
-          "published": "2026-04-22T06:18:13Z"
+          "title": "'Neither Thibs nor Mike Brown has figured it out': Can the playoffs unlock Karl-Anthony Towns?",
+          "source": "www.espn.com - NBA",
+          "link": "https://www.espn.com/nba/story/_/id/48552647/nba-playoffs-2026-karl-anthony-towns-knicks-stakes-heading-game-3-hawks",
+          "published": "Thu, 23 Apr 2026 11:52:00 EST"
         }
       ]
     },
@@ -153,47 +141,47 @@
       "away_team": "Cleveland Cavaliers",
       "home_abbr": "TOR",
       "away_abbr": "CLE",
-      "home_ml": "+130",
-      "away_ml": "-155",
-      "home_ml_raw": 130,
-      "away_ml_raw": -155,
-      "home_prob": 41.7,
-      "away_prob": 58.3,
+      "home_ml": "+124",
+      "away_ml": "-148",
+      "home_ml_raw": 124,
+      "away_ml_raw": -148,
+      "home_prob": 42.8,
+      "away_prob": 57.2,
       "spread": "TOR +2.5",
       "favorite": "Cleveland Cavaliers",
       "pick": "Cleveland Cavaliers",
       "pick_abbr": "CLE",
-      "moneyline": "-155",
-      "win_probability": 58.3,
-      "confidence": "MEDIUM",
-      "confidence_stars": "\u2605\u2605\u2606",
+      "moneyline": "-148",
+      "win_probability": 57.2,
+      "confidence": "LOW",
+      "confidence_stars": "\u2605\u2606\u2606",
       "commence_time": "2026-04-24T00:10:00Z",
       "line_movement": {
         "home": {
-          "direction": "none",
-          "points_moved": 0,
+          "direction": "shorter",
+          "points_moved": 6,
           "steam": false,
-          "label": "No movement",
+          "label": "\ud83d\udfe2 +124 \u2190 +130",
           "old_ml": "+130",
-          "new_ml": "+130"
+          "new_ml": "+124"
         },
         "away": {
-          "direction": "none",
-          "points_moved": 0,
+          "direction": "longer",
+          "points_moved": 7,
           "steam": false,
-          "label": "No movement",
+          "label": "\ud83d\udd34 -148 \u2190 -155",
           "old_ml": "-155",
-          "new_ml": "-155"
+          "new_ml": "-148"
         },
         "pick": {
-          "direction": "none",
-          "points_moved": 0,
+          "direction": "longer",
+          "points_moved": 7,
           "steam": false,
-          "label": "No movement",
+          "label": "\ud83d\udd34 -148 \u2190 -155",
           "old_ml": "-155",
-          "new_ml": "-155"
+          "new_ml": "-148"
         },
-        "snapshot_time": "April 23, 2026 at 05:57 AM UTC"
+        "snapshot_time": "April 23, 2026 at 06:29 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -220,7 +208,7 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udcca 16.6pt probability edge"
+        "\ud83d\udcca 14.4pt probability edge"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -257,9 +245,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "Cleveland Cavaliers hold a 58.3% edge.",
+        "trend": "Cleveland Cavaliers hold a 57.2% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "steam": "Line moved -155\u2192-148 (7pts). Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -273,22 +261,22 @@
       },
       "news": [
         {
-          "title": "LeBron James stat shows the Rockets have a 0% chance to win the series after falling down 2-0",
-          "source": "Sporting News",
-          "link": "https://www.sportingnews.com/us/nba/los-angeles-lakers/news/lebron-james-stat-shows-rockets-have-0-chance-win-series-after-falling-down-2-0/d6cb63e4c5fa31386ca37b20",
-          "published": "2026-04-22T06:21:16Z"
-        },
-        {
-          "title": "TST Images: Lakers defeat Rockets, 101-94, at Crypto.com Arena",
+          "title": "TST Best Bets: April 22, 2026",
           "source": "Thesportingtribune.com",
-          "link": "https://www.thesportingtribune.com/2026/04/21/rockets-lakers-photos",
-          "published": "2026-04-22T06:18:57Z"
+          "link": "https://www.thesportingtribune.com/2026/04/22/tst-best-bets-april-22-2026-",
+          "published": "2026-04-22T16:51:35Z"
         },
         {
-          "title": "Jaylen Brown remains calm despite Game 2 loss: Welcome to the playoffs",
-          "source": "USA Today",
-          "link": "https://celticswire.usatoday.com/story/sports/nba/celtics/2026/04/22/jaylen-brown-not-panicked-after-game-2-loss-76ers-playoffs/89728077007/",
-          "published": "2026-04-22T06:18:13Z"
+          "title": "Men's College Basketball Transfer Portal: Best Landing Spots for Top Transfers",
+          "source": "Fox Sports",
+          "link": "https://www.foxsports.com/stories/college-basketball/transfer-portal-ncaa-duke-florida-uconn",
+          "published": "2026-04-22T16:45:02Z"
+        },
+        {
+          "title": "The Trail Blazers\u2019 new owner is a cheapskate billionaire, but there could be a method to his madness",
+          "source": "SB Nation",
+          "link": "https://www.sbnation.com/nba/1111802/portland-trail-blazers-new-owner-cheap-tom-dundon-reports-nhl-team",
+          "published": "2026-04-22T16:35:52Z"
         }
       ]
     },
@@ -338,7 +326,7 @@
           "old_ml": "-135",
           "new_ml": "-135"
         },
-        "snapshot_time": "April 23, 2026 at 05:57 AM UTC"
+        "snapshot_time": "April 23, 2026 at 06:29 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -367,7 +355,7 @@
       "edge_factors": [
         "\ud83d\udcca 10.2pt probability edge"
       ],
-      "injury_notes": "No key injuries.",
+      "injury_notes": "Terrence Shannon Jr. (G); Anthony Edwards (G); Aaron Gordon (F)",
       "sharp": {
         "away_t": null,
         "home_t": null,
@@ -405,7 +393,7 @@
         "trend": "Denver Nuggets hold a 55.1% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
         "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
-        "injury_notes": "No key injuries."
+        "injury_notes": "Terrence Shannon Jr. (G); Anthony Edwards (G); Aaron Gordon (F)"
       },
       "live": {
         "status": "pre",
@@ -418,22 +406,22 @@
       },
       "news": [
         {
-          "title": "LeBron James stat shows the Rockets have a 0% chance to win the series after falling down 2-0",
-          "source": "Sporting News",
-          "link": "https://www.sportingnews.com/us/nba/los-angeles-lakers/news/lebron-james-stat-shows-rockets-have-0-chance-win-series-after-falling-down-2-0/d6cb63e4c5fa31386ca37b20",
-          "published": "2026-04-22T06:21:16Z"
-        },
-        {
-          "title": "TST Images: Lakers defeat Rockets, 101-94, at Crypto.com Arena",
+          "title": "TST Best Bets: April 22, 2026",
           "source": "Thesportingtribune.com",
-          "link": "https://www.thesportingtribune.com/2026/04/21/rockets-lakers-photos",
-          "published": "2026-04-22T06:18:57Z"
+          "link": "https://www.thesportingtribune.com/2026/04/22/tst-best-bets-april-22-2026-",
+          "published": "2026-04-22T16:51:35Z"
         },
         {
-          "title": "Jaylen Brown remains calm despite Game 2 loss: Welcome to the playoffs",
-          "source": "USA Today",
-          "link": "https://celticswire.usatoday.com/story/sports/nba/celtics/2026/04/22/jaylen-brown-not-panicked-after-game-2-loss-76ers-playoffs/89728077007/",
-          "published": "2026-04-22T06:18:13Z"
+          "title": "Men's College Basketball Transfer Portal: Best Landing Spots for Top Transfers",
+          "source": "Fox Sports",
+          "link": "https://www.foxsports.com/stories/college-basketball/transfer-portal-ncaa-duke-florida-uconn",
+          "published": "2026-04-22T16:45:02Z"
+        },
+        {
+          "title": "The Trail Blazers\u2019 new owner is a cheapskate billionaire, but there could be a method to his madness",
+          "source": "SB Nation",
+          "link": "https://www.sbnation.com/nba/1111802/portland-trail-blazers-new-owner-cheap-tom-dundon-reports-nhl-team",
+          "published": "2026-04-22T16:35:52Z"
         }
       ]
     },
@@ -483,7 +471,7 @@
           "old_ml": "-298",
           "new_ml": "-298"
         },
-        "snapshot_time": "April 23, 2026 at 05:57 AM UTC"
+        "snapshot_time": "April 23, 2026 at 06:29 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -563,22 +551,22 @@
       },
       "news": [
         {
-          "title": "LeBron James stat shows the Rockets have a 0% chance to win the series after falling down 2-0",
-          "source": "Sporting News",
-          "link": "https://www.sportingnews.com/us/nba/los-angeles-lakers/news/lebron-james-stat-shows-rockets-have-0-chance-win-series-after-falling-down-2-0/d6cb63e4c5fa31386ca37b20",
-          "published": "2026-04-22T06:21:16Z"
-        },
-        {
-          "title": "TST Images: Lakers defeat Rockets, 101-94, at Crypto.com Arena",
+          "title": "TST Best Bets: April 22, 2026",
           "source": "Thesportingtribune.com",
-          "link": "https://www.thesportingtribune.com/2026/04/21/rockets-lakers-photos",
-          "published": "2026-04-22T06:18:57Z"
+          "link": "https://www.thesportingtribune.com/2026/04/22/tst-best-bets-april-22-2026-",
+          "published": "2026-04-22T16:51:35Z"
         },
         {
-          "title": "Jaylen Brown remains calm despite Game 2 loss: Welcome to the playoffs",
-          "source": "USA Today",
-          "link": "https://celticswire.usatoday.com/story/sports/nba/celtics/2026/04/22/jaylen-brown-not-panicked-after-game-2-loss-76ers-playoffs/89728077007/",
-          "published": "2026-04-22T06:18:13Z"
+          "title": "Men's College Basketball Transfer Portal: Best Landing Spots for Top Transfers",
+          "source": "Fox Sports",
+          "link": "https://www.foxsports.com/stories/college-basketball/transfer-portal-ncaa-duke-florida-uconn",
+          "published": "2026-04-22T16:45:02Z"
+        },
+        {
+          "title": "The Trail Blazers\u2019 new owner is a cheapskate billionaire, but there could be a method to his madness",
+          "source": "SB Nation",
+          "link": "https://www.sbnation.com/nba/1111802/portland-trail-blazers-new-owner-cheap-tom-dundon-reports-nhl-team",
+          "published": "2026-04-22T16:35:52Z"
         }
       ]
     },
@@ -628,7 +616,7 @@
           "old_ml": "-395",
           "new_ml": "-395"
         },
-        "snapshot_time": "April 23, 2026 at 05:57 AM UTC"
+        "snapshot_time": "April 23, 2026 at 06:29 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -657,7 +645,7 @@
       "edge_factors": [
         "\ud83d\udcca 53.2pt probability edge"
       ],
-      "injury_notes": "No key injuries.",
+      "injury_notes": "Jake LaRavia (F)",
       "sharp": {
         "away_t": null,
         "home_t": null,
@@ -695,7 +683,7 @@
         "trend": "Houston Rockets hold a 76.6% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
         "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
-        "injury_notes": "No key injuries."
+        "injury_notes": "Jake LaRavia (F)"
       },
       "live": {
         "status": "pre",
@@ -708,22 +696,10 @@
       },
       "news": [
         {
-          "title": "LeBron James stat shows the Rockets have a 0% chance to win the series after falling down 2-0",
-          "source": "Sporting News",
-          "link": "https://www.sportingnews.com/us/nba/los-angeles-lakers/news/lebron-james-stat-shows-rockets-have-0-chance-win-series-after-falling-down-2-0/d6cb63e4c5fa31386ca37b20",
-          "published": "2026-04-22T06:21:16Z"
-        },
-        {
-          "title": "TST Images: Lakers defeat Rockets, 101-94, at Crypto.com Arena",
-          "source": "Thesportingtribune.com",
-          "link": "https://www.thesportingtribune.com/2026/04/21/rockets-lakers-photos",
-          "published": "2026-04-22T06:18:57Z"
-        },
-        {
-          "title": "Jaylen Brown remains calm despite Game 2 loss: Welcome to the playoffs",
-          "source": "USA Today",
-          "link": "https://celticswire.usatoday.com/story/sports/nba/celtics/2026/04/22/jaylen-brown-not-panicked-after-game-2-loss-76ers-playoffs/89728077007/",
-          "published": "2026-04-22T06:18:13Z"
+          "title": "NBA Futures: Lakers flip the odds on Rockets, now 35-1 to win title",
+          "source": "www.espn.com - NBA",
+          "link": "https://www.espn.com/espn/betting/story/_/id/45539787/2026-nba-finals-odds-mvp-2025-26-championship-betting",
+          "published": "Thu, 23 Apr 2026 00:25:29 EST"
         }
       ]
     },
@@ -773,7 +749,7 @@
           "old_ml": "-130",
           "new_ml": "-130"
         },
-        "snapshot_time": "April 23, 2026 at 05:57 AM UTC"
+        "snapshot_time": "April 23, 2026 at 06:29 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -802,7 +778,7 @@
       "edge_factors": [
         "\ud83d\udcca 8.6pt probability edge"
       ],
-      "injury_notes": "No key injuries.",
+      "injury_notes": "Victor Wembanyama (F); Jordan McLaughlin (G); Harrison Barnes (F)",
       "sharp": {
         "away_t": null,
         "home_t": null,
@@ -840,7 +816,7 @@
         "trend": "San Antonio Spurs hold a 54.3% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
         "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
-        "injury_notes": "No key injuries."
+        "injury_notes": "Victor Wembanyama (F); Jordan McLaughlin (G); Harrison Barnes (F)"
       },
       "live": {
         "status": "pre",
@@ -853,22 +829,16 @@
       },
       "news": [
         {
-          "title": "LeBron James stat shows the Rockets have a 0% chance to win the series after falling down 2-0",
-          "source": "Sporting News",
-          "link": "https://www.sportingnews.com/us/nba/los-angeles-lakers/news/lebron-james-stat-shows-rockets-have-0-chance-win-series-after-falling-down-2-0/d6cb63e4c5fa31386ca37b20",
-          "published": "2026-04-22T06:21:16Z"
+          "title": "Wemby to travel with Spurs while in protocol",
+          "source": "www.espn.com - NBA",
+          "link": "https://www.espn.com/nba/story/_/id/48571593/spurs-victor-wembanyama-travel-concussion-protocol",
+          "published": "Thu, 23 Apr 2026 12:40:35 EST"
         },
         {
-          "title": "TST Images: Lakers defeat Rockets, 101-94, at Crypto.com Arena",
-          "source": "Thesportingtribune.com",
-          "link": "https://www.thesportingtribune.com/2026/04/21/rockets-lakers-photos",
-          "published": "2026-04-22T06:18:57Z"
-        },
-        {
-          "title": "Jaylen Brown remains calm despite Game 2 loss: Welcome to the playoffs",
-          "source": "USA Today",
-          "link": "https://celticswire.usatoday.com/story/sports/nba/celtics/2026/04/22/jaylen-brown-not-panicked-after-game-2-loss-76ers-playoffs/89728077007/",
-          "published": "2026-04-22T06:18:13Z"
+          "title": "Johnson joins Ginobili as Spurs' Sixth Man winners",
+          "source": "www.espn.com - NBA",
+          "link": "https://www.espn.com/nba/story/_/id/48563850/san-antonio-spurs-keldon-johnson-named-nba-sixth-man-year",
+          "published": "Thu, 23 Apr 2026 12:40:35 EST"
         }
       ]
     },
@@ -878,47 +848,47 @@
       "away_team": "Detroit Pistons",
       "home_abbr": "ORL",
       "away_abbr": "DET",
-      "home_ml": "+124",
-      "away_ml": "-148",
-      "home_ml_raw": 124,
-      "away_ml_raw": -148,
-      "home_prob": 42.8,
-      "away_prob": 57.2,
+      "home_ml": "+120",
+      "away_ml": "-142",
+      "home_ml_raw": 120,
+      "away_ml_raw": -142,
+      "home_prob": 43.7,
+      "away_prob": 56.3,
       "spread": "ORL +2.5",
       "favorite": "Detroit Pistons",
       "pick": "Detroit Pistons",
       "pick_abbr": "DET",
-      "moneyline": "-148",
-      "win_probability": 57.2,
+      "moneyline": "-142",
+      "win_probability": 56.3,
       "confidence": "LOW",
       "confidence_stars": "\u2605\u2606\u2606",
       "commence_time": "2026-04-25T17:10:00Z",
       "line_movement": {
         "home": {
-          "direction": "none",
-          "points_moved": 0,
+          "direction": "shorter",
+          "points_moved": 4,
           "steam": false,
-          "label": "No movement",
+          "label": "\ud83d\udfe2 +120 \u2190 +124",
           "old_ml": "+124",
-          "new_ml": "+124"
+          "new_ml": "+120"
         },
         "away": {
-          "direction": "none",
-          "points_moved": 0,
+          "direction": "longer",
+          "points_moved": 6,
           "steam": false,
-          "label": "No movement",
+          "label": "\ud83d\udd34 -142 \u2190 -148",
           "old_ml": "-148",
-          "new_ml": "-148"
+          "new_ml": "-142"
         },
         "pick": {
-          "direction": "none",
-          "points_moved": 0,
+          "direction": "longer",
+          "points_moved": 6,
           "steam": false,
-          "label": "No movement",
+          "label": "\ud83d\udd34 -142 \u2190 -148",
           "old_ml": "-148",
-          "new_ml": "-148"
+          "new_ml": "-142"
         },
-        "snapshot_time": "April 23, 2026 at 05:57 AM UTC"
+        "snapshot_time": "April 23, 2026 at 06:29 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -984,7 +954,7 @@
       "briefing": {
         "trend": "ORL on Back-to-Back \u26a0\ufe0f per ESPN schedule data. DET on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "steam": "Line moved -148\u2192-142 (6pts). Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -998,22 +968,22 @@
       },
       "news": [
         {
-          "title": "LeBron James stat shows the Rockets have a 0% chance to win the series after falling down 2-0",
-          "source": "Sporting News",
-          "link": "https://www.sportingnews.com/us/nba/los-angeles-lakers/news/lebron-james-stat-shows-rockets-have-0-chance-win-series-after-falling-down-2-0/d6cb63e4c5fa31386ca37b20",
-          "published": "2026-04-22T06:21:16Z"
+          "title": "How Pistons' center Jalen Duren turned muscles into metrics",
+          "source": "www.espn.com - NBA",
+          "link": "https://www.espn.com/nba/story/_/id/48552714/how-jalen-duren-helped-reignite-detro-defense-first-legacy",
+          "published": "Thu, 23 Apr 2026 08:20:13 EST"
         },
         {
-          "title": "TST Images: Lakers defeat Rockets, 101-94, at Crypto.com Arena",
-          "source": "Thesportingtribune.com",
-          "link": "https://www.thesportingtribune.com/2026/04/21/rockets-lakers-photos",
-          "published": "2026-04-22T06:18:57Z"
+          "title": "Bickerstaff's fiery talk was 'spark' Pistons needed",
+          "source": "www.espn.com - NBA",
+          "link": "https://www.espn.com/nba/story/_/id/48566992/bickerstaff-fiery-speech-provides-spark-game-2-win-magic",
+          "published": "Thu, 23 Apr 2026 12:40:35 EST"
         },
         {
-          "title": "Jaylen Brown remains calm despite Game 2 loss: Welcome to the playoffs",
-          "source": "USA Today",
-          "link": "https://celticswire.usatoday.com/story/sports/nba/celtics/2026/04/22/jaylen-brown-not-panicked-after-game-2-loss-76ers-playoffs/89728077007/",
-          "published": "2026-04-22T06:18:13Z"
+          "title": "Don't panic, Detroit! The five reasons to still trust the Pistons this postseason",
+          "source": "www.espn.com - NBA",
+          "link": "https://www.espn.com/nba/story/_/id/48554498/the-top-five-reasons-trust-detroit-pistons-postseason",
+          "published": "Thu, 23 Apr 2026 09:57:08 EST"
         }
       ]
     },
@@ -1040,30 +1010,30 @@
       "commence_time": "2026-04-25T19:30:00Z",
       "line_movement": {
         "home": {
-          "direction": "longer",
-          "points_moved": 10,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM +360 \u2190 +350",
-          "old_ml": "+350",
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "No movement",
+          "old_ml": "+360",
           "new_ml": "+360"
         },
         "away": {
-          "direction": "shorter",
-          "points_moved": 15,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -470 \u2190 -455",
-          "old_ml": "-455",
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "No movement",
+          "old_ml": "-470",
           "new_ml": "-470"
         },
         "pick": {
-          "direction": "shorter",
-          "points_moved": 15,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -470 \u2190 -455",
-          "old_ml": "-455",
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "No movement",
+          "old_ml": "-470",
           "new_ml": "-470"
         },
-        "snapshot_time": "April 23, 2026 at 05:57 AM UTC"
+        "snapshot_time": "April 23, 2026 at 06:29 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -1090,10 +1060,9 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udd25 Sharp steam detected",
         "\ud83d\udca4 PHX fatigued (B2B) \u2014 source: ESPN"
       ],
-      "injury_notes": "No key injuries.",
+      "injury_notes": "Jordan Goodwin (G); Jalen Williams (G)",
       "sharp": {
         "away_t": null,
         "home_t": null,
@@ -1130,8 +1099,8 @@
       "briefing": {
         "trend": "PHX on Back-to-Back \u26a0\ufe0f per ESPN schedule data. OKC on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -455 to -470 (15pt move) \u2014 heavy professional action on Oklahoma City Thunder.",
-        "injury_notes": "No key injuries."
+        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "injury_notes": "Jordan Goodwin (G); Jalen Williams (G)"
       },
       "live": {
         "status": "pre",
@@ -1144,22 +1113,22 @@
       },
       "news": [
         {
-          "title": "LeBron James stat shows the Rockets have a 0% chance to win the series after falling down 2-0",
-          "source": "Sporting News",
-          "link": "https://www.sportingnews.com/us/nba/los-angeles-lakers/news/lebron-james-stat-shows-rockets-have-0-chance-win-series-after-falling-down-2-0/d6cb63e4c5fa31386ca37b20",
-          "published": "2026-04-22T06:21:16Z"
+          "title": "OKC takes 2-0 lead but loses Williams to injury",
+          "source": "www.espn.com - NBA",
+          "link": "https://www.espn.com/nba/story/_/id/48566682/thunder-jalen-williams-leaves-game-2-third-quarter-injury",
+          "published": "Thu, 23 Apr 2026 12:40:35 EST"
         },
         {
-          "title": "TST Images: Lakers defeat Rockets, 101-94, at Crypto.com Arena",
-          "source": "Thesportingtribune.com",
-          "link": "https://www.thesportingtribune.com/2026/04/21/rockets-lakers-photos",
-          "published": "2026-04-22T06:18:57Z"
+          "title": "Booker, Brooks rip refs after Suns' loss: 'Terrible'",
+          "source": "www.espn.com - NBA",
+          "link": "https://www.espn.com/nba/story/_/id/48567864/suns-booker-brooks-rip-refs-game-2-loss-thunder",
+          "published": "Thu, 23 Apr 2026 12:40:35 EST"
         },
         {
-          "title": "Jaylen Brown remains calm despite Game 2 loss: Welcome to the playoffs",
-          "source": "USA Today",
-          "link": "https://celticswire.usatoday.com/story/sports/nba/celtics/2026/04/22/jaylen-brown-not-panicked-after-game-2-loss-76ers-playoffs/89728077007/",
-          "published": "2026-04-22T06:18:13Z"
+          "title": "NBA Futures: Lakers flip the odds on Rockets, now 35-1 to win title",
+          "source": "www.espn.com - NBA",
+          "link": "https://www.espn.com/espn/betting/story/_/id/45539787/2026-nba-finals-odds-mvp-2025-26-championship-betting",
+          "published": "Thu, 23 Apr 2026 00:25:29 EST"
         }
       ]
     }
