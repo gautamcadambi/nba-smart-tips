@@ -1,5 +1,5 @@
 {
-  "last_updated": "April 23, 2026 at 04:54 PM UTC",
+  "last_updated": "April 24, 2026 at 12:11 AM UTC",
   "total_games": 8,
   "games": [
     {
@@ -8,66 +8,358 @@
       "away_team": "New York Knicks",
       "home_abbr": "ATL",
       "away_abbr": "NYK",
-      "home_ml": "+102",
-      "away_ml": "-122",
-      "home_ml_raw": 102,
-      "away_ml_raw": -122,
-      "home_prob": 47.4,
-      "away_prob": 52.6,
-      "spread": "ATL +1.5",
-      "favorite": "New York Knicks",
-      "pick": "New York Knicks",
-      "pick_abbr": "NYK",
-      "moneyline": "-122",
-      "win_probability": 52.6,
-      "confidence": "LOW",
-      "confidence_stars": "\u2605\u2606\u2606",
-      "commence_time": "2026-04-23T23:10:00Z",
+      "home_ml": "-315",
+      "away_ml": "+230",
+      "home_ml_raw": -315,
+      "away_ml_raw": 230,
+      "home_prob": 71.5,
+      "away_prob": 28.5,
+      "spread": "ATL -6.5",
+      "favorite": "Atlanta Hawks",
+      "pick": "Atlanta Hawks",
+      "pick_abbr": "ATL",
+      "moneyline": "-315",
+      "win_probability": 71.5,
+      "confidence": "MEDIUM",
+      "confidence_stars": "\u2605\u2605\u2606",
+      "commence_time": "2026-04-23T23:11:00Z",
       "line_movement": {
         "home": {
-          "direction": "longer",
-          "points_moved": 212,
+          "direction": "shorter",
+          "points_moved": 417,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM +102 \u2190 -110",
-          "old_ml": "-110",
-          "new_ml": "+102"
+          "label": "\ud83d\udd25 STEAM -315 \u2190 +102",
+          "old_ml": "+102",
+          "new_ml": "-315"
         },
         "away": {
-          "direction": "shorter",
-          "points_moved": 12,
+          "direction": "longer",
+          "points_moved": 352,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM -122 \u2190 -110",
-          "old_ml": "-110",
-          "new_ml": "-122"
+          "label": "\ud83d\udd25 STEAM +230 \u2190 -122",
+          "old_ml": "-122",
+          "new_ml": "+230"
         },
         "pick": {
           "direction": "shorter",
-          "points_moved": 12,
+          "points_moved": 417,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM -122 \u2190 -110",
-          "old_ml": "-110",
-          "new_ml": "-122"
+          "label": "\ud83d\udd25 STEAM -315 \u2190 +102",
+          "old_ml": "+102",
+          "new_ml": "-315"
         },
-        "snapshot_time": "April 23, 2026 at 06:29 AM UTC"
+        "snapshot_time": "April 23, 2026 at 04:54 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "RESTED",
-          "label": "2 days rest \u2705",
-          "battery": 88,
-          "last_game": "Apr 20",
-          "days_rest": 3,
-          "games_last_4d": 1,
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Apr 23",
+          "days_rest": 1,
+          "games_last_4d": 2,
           "travel_miles": 748,
           "travel_desc": "748 mi road trip",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "RESTED",
-          "label": "2 days rest \u2705",
-          "battery": 88,
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Apr 23",
+          "days_rest": 1,
+          "games_last_4d": 2,
+          "travel_miles": 748,
+          "travel_desc": "748 mi road trip",
+          "source": "ESPN Scoreboard API"
+        }
+      },
+      "edge_factors": [
+        "\ud83d\udd25 Sharp steam detected",
+        "\ud83d\udca4 NYK fatigued (B2B) \u2014 source: ESPN"
+      ],
+      "injury_notes": "No key injuries.",
+      "sharp": {
+        "away_t": null,
+        "home_t": null,
+        "source": null,
+        "sharp_signal": null,
+        "sharp_label": "Pending \u2014 check closer to tip-off",
+        "rlm": false
+      },
+      "form": {
+        "home": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        },
+        "away": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        }
+      },
+      "h2h": {
+        "total_meetings": 0,
+        "home_wins": 0,
+        "away_wins": 0,
+        "meetings": [],
+        "source": "\u2014"
+      },
+      "briefing": {
+        "trend": "ATL on Back-to-Back \u26a0\ufe0f per ESPN schedule data. NYK on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "matchup": "Both rosters appear healthy \u2014 clean line.",
+        "steam": "Line steamed from +102 to -315 (417pt move) \u2014 heavy professional action on Atlanta Hawks.",
+        "injury_notes": "No key injuries."
+      },
+      "live": {
+        "status": "pre",
+        "status_detail": "Upcoming",
+        "period": 0,
+        "clock": "",
+        "home_score": 0,
+        "away_score": 0,
+        "spread_alert": null
+      },
+      "news": [
+        {
+          "title": "Michigan men's basketball team, Jared Goff cheering on Pistons in Game 2",
+          "source": "The Detroit News",
+          "link": "https://www.detroitnews.com/story/sports/college/university-michigan/2026/04/22/detroit-pistons-cheered-on-by-michigan-basketball-champs-jared-goff/89741773007/",
+          "published": "2026-04-23T00:02:28Z"
+        },
+        {
+          "title": "The Risk of Being More Than an Athlete",
+          "source": "Thenation.com",
+          "link": "https://www.thenation.com/article/activism/natasha-cloud-getting-kapped-wnba-palestine/",
+          "published": "2026-04-23T00:00:00Z"
+        },
+        {
+          "title": "Spurs' Keldon Johnson named NBA Sixth Man of the Year",
+          "source": "USA Today",
+          "link": "https://www.usatoday.com/story/sports/nba/spurs/2026/04/22/keldon-johnson-sixth-man-of-the-year-nba-awards/89741423007/",
+          "published": "2026-04-22T23:59:08Z"
+        }
+      ]
+    },
+    {
+      "game": "Cleveland Cavaliers @ Toronto Raptors",
+      "home_team": "Toronto Raptors",
+      "away_team": "Cleveland Cavaliers",
+      "home_abbr": "TOR",
+      "away_abbr": "CLE",
+      "home_ml": "+135",
+      "away_ml": "-175",
+      "home_ml_raw": 135,
+      "away_ml_raw": -175,
+      "home_prob": 40.1,
+      "away_prob": 59.9,
+      "spread": "TOR +3.5",
+      "favorite": "Cleveland Cavaliers",
+      "pick": "Cleveland Cavaliers",
+      "pick_abbr": "CLE",
+      "moneyline": "-175",
+      "win_probability": 59.9,
+      "confidence": "MEDIUM",
+      "confidence_stars": "\u2605\u2605\u2606",
+      "commence_time": "2026-04-24T00:09:16Z",
+      "line_movement": {
+        "home": {
+          "direction": "longer",
+          "points_moved": 11,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM +135 \u2190 +124",
+          "old_ml": "+124",
+          "new_ml": "+135"
+        },
+        "away": {
+          "direction": "shorter",
+          "points_moved": 27,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -175 \u2190 -148",
+          "old_ml": "-148",
+          "new_ml": "-175"
+        },
+        "pick": {
+          "direction": "shorter",
+          "points_moved": 27,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -175 \u2190 -148",
+          "old_ml": "-148",
+          "new_ml": "-175"
+        },
+        "snapshot_time": "April 23, 2026 at 04:54 PM UTC"
+      },
+      "fatigue": {
+        "home": {
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Apr 23",
+          "days_rest": 1,
+          "games_last_4d": 2,
+          "travel_miles": 189,
+          "travel_desc": "189 mi road trip",
+          "source": "ESPN Scoreboard API"
+        },
+        "away": {
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Apr 23",
+          "days_rest": 1,
+          "games_last_4d": 2,
+          "travel_miles": 189,
+          "travel_desc": "189 mi road trip",
+          "source": "ESPN Scoreboard API"
+        }
+      },
+      "edge_factors": [
+        "\ud83d\udd25 Sharp steam detected",
+        "\ud83d\udca4 TOR fatigued (B2B) \u2014 source: ESPN"
+      ],
+      "injury_notes": "No key injuries.",
+      "sharp": {
+        "away_t": null,
+        "home_t": null,
+        "source": null,
+        "sharp_signal": null,
+        "sharp_label": "Pending \u2014 check closer to tip-off",
+        "rlm": false
+      },
+      "form": {
+        "home": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        },
+        "away": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        }
+      },
+      "h2h": {
+        "total_meetings": 0,
+        "home_wins": 0,
+        "away_wins": 0,
+        "meetings": [],
+        "source": "\u2014"
+      },
+      "briefing": {
+        "trend": "TOR on Back-to-Back \u26a0\ufe0f per ESPN schedule data. CLE on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "matchup": "Both rosters appear healthy \u2014 clean line.",
+        "steam": "Line steamed from -148 to -175 (27pt move) \u2014 heavy professional action on Cleveland Cavaliers.",
+        "injury_notes": "No key injuries."
+      },
+      "live": {
+        "status": "pre",
+        "status_detail": "Upcoming",
+        "period": 0,
+        "clock": "",
+        "home_score": 0,
+        "away_score": 0,
+        "spread_alert": null
+      },
+      "news": [
+        {
+          "title": "Michigan men's basketball team, Jared Goff cheering on Pistons in Game 2",
+          "source": "The Detroit News",
+          "link": "https://www.detroitnews.com/story/sports/college/university-michigan/2026/04/22/detroit-pistons-cheered-on-by-michigan-basketball-champs-jared-goff/89741773007/",
+          "published": "2026-04-23T00:02:28Z"
+        },
+        {
+          "title": "The Risk of Being More Than an Athlete",
+          "source": "Thenation.com",
+          "link": "https://www.thenation.com/article/activism/natasha-cloud-getting-kapped-wnba-palestine/",
+          "published": "2026-04-23T00:00:00Z"
+        },
+        {
+          "title": "Spurs' Keldon Johnson named NBA Sixth Man of the Year",
+          "source": "USA Today",
+          "link": "https://www.usatoday.com/story/sports/nba/spurs/2026/04/22/keldon-johnson-sixth-man-of-the-year-nba-awards/89741423007/",
+          "published": "2026-04-22T23:59:08Z"
+        }
+      ]
+    },
+    {
+      "game": "Denver Nuggets @ Minnesota Timberwolves",
+      "home_team": "Minnesota Timberwolves",
+      "away_team": "Denver Nuggets",
+      "home_abbr": "MIN",
+      "away_abbr": "DEN",
+      "home_ml": "-112",
+      "away_ml": "-108",
+      "home_ml_raw": -112,
+      "away_ml_raw": -108,
+      "home_prob": 50.4,
+      "away_prob": 49.6,
+      "spread": "MIN -1.5",
+      "favorite": "Minnesota Timberwolves",
+      "pick": "Minnesota Timberwolves",
+      "pick_abbr": "MIN",
+      "moneyline": "-112",
+      "win_probability": 50.4,
+      "confidence": "LOW",
+      "confidence_stars": "\u2605\u2606\u2606",
+      "commence_time": "2026-04-24T01:40:00Z",
+      "line_movement": {
+        "home": {
+          "direction": "shorter",
+          "points_moved": 226,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -112 \u2190 +114",
+          "old_ml": "+114",
+          "new_ml": "-112"
+        },
+        "away": {
+          "direction": "longer",
+          "points_moved": 27,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -108 \u2190 -135",
+          "old_ml": "-135",
+          "new_ml": "-108"
+        },
+        "pick": {
+          "direction": "shorter",
+          "points_moved": 226,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -112 \u2190 +114",
+          "old_ml": "+114",
+          "new_ml": "-112"
+        },
+        "snapshot_time": "April 23, 2026 at 04:54 PM UTC"
+      },
+      "fatigue": {
+        "home": {
+          "status": "FRESH",
+          "label": "Well rested \u2705",
+          "battery": 100,
           "last_game": "Apr 20",
-          "days_rest": 3,
+          "days_rest": 4,
+          "games_last_4d": 1,
+          "travel_miles": 698,
+          "travel_desc": "698 mi road trip",
+          "source": "ESPN Scoreboard API"
+        },
+        "away": {
+          "status": "FRESH",
+          "label": "Well rested \u2705",
+          "battery": 100,
+          "last_game": "Apr 20",
+          "days_rest": 4,
           "games_last_4d": 1,
           "travel_miles": 0,
           "travel_desc": "",
@@ -112,9 +404,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "New York Knicks hold a 52.6% edge.",
+        "trend": "Minnesota Timberwolves hold a 50.4% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -110 to -122 (12pt move) \u2014 heavy professional action on New York Knicks.",
+        "steam": "Line steamed from +114 to -112 (226pt move) \u2014 heavy professional action on Minnesota Timberwolves.",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -128,300 +420,22 @@
       },
       "news": [
         {
-          "title": "'Neither Thibs nor Mike Brown has figured it out': Can the playoffs unlock Karl-Anthony Towns?",
-          "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/nba/story/_/id/48552647/nba-playoffs-2026-karl-anthony-towns-knicks-stakes-heading-game-3-hawks",
-          "published": "Thu, 23 Apr 2026 11:52:00 EST"
-        }
-      ]
-    },
-    {
-      "game": "Cleveland Cavaliers @ Toronto Raptors",
-      "home_team": "Toronto Raptors",
-      "away_team": "Cleveland Cavaliers",
-      "home_abbr": "TOR",
-      "away_abbr": "CLE",
-      "home_ml": "+124",
-      "away_ml": "-148",
-      "home_ml_raw": 124,
-      "away_ml_raw": -148,
-      "home_prob": 42.8,
-      "away_prob": 57.2,
-      "spread": "TOR +2.5",
-      "favorite": "Cleveland Cavaliers",
-      "pick": "Cleveland Cavaliers",
-      "pick_abbr": "CLE",
-      "moneyline": "-148",
-      "win_probability": 57.2,
-      "confidence": "LOW",
-      "confidence_stars": "\u2605\u2606\u2606",
-      "commence_time": "2026-04-24T00:10:00Z",
-      "line_movement": {
-        "home": {
-          "direction": "shorter",
-          "points_moved": 6,
-          "steam": false,
-          "label": "\ud83d\udfe2 +124 \u2190 +130",
-          "old_ml": "+130",
-          "new_ml": "+124"
-        },
-        "away": {
-          "direction": "longer",
-          "points_moved": 7,
-          "steam": false,
-          "label": "\ud83d\udd34 -148 \u2190 -155",
-          "old_ml": "-155",
-          "new_ml": "-148"
-        },
-        "pick": {
-          "direction": "longer",
-          "points_moved": 7,
-          "steam": false,
-          "label": "\ud83d\udd34 -148 \u2190 -155",
-          "old_ml": "-155",
-          "new_ml": "-148"
-        },
-        "snapshot_time": "April 23, 2026 at 06:29 AM UTC"
-      },
-      "fatigue": {
-        "home": {
-          "status": "RESTED",
-          "label": "2 days rest \u2705",
-          "battery": 88,
-          "last_game": "Apr 20",
-          "days_rest": 3,
-          "games_last_4d": 1,
-          "travel_miles": 189,
-          "travel_desc": "189 mi road trip",
-          "source": "ESPN Scoreboard API"
-        },
-        "away": {
-          "status": "RESTED",
-          "label": "2 days rest \u2705",
-          "battery": 88,
-          "last_game": "Apr 20",
-          "days_rest": 3,
-          "games_last_4d": 1,
-          "travel_miles": 0,
-          "travel_desc": "",
-          "source": "ESPN Scoreboard API"
-        }
-      },
-      "edge_factors": [
-        "\ud83d\udcca 14.4pt probability edge"
-      ],
-      "injury_notes": "No key injuries.",
-      "sharp": {
-        "away_t": null,
-        "home_t": null,
-        "source": null,
-        "sharp_signal": null,
-        "sharp_label": "Pending \u2014 check closer to tip-off",
-        "rlm": false
-      },
-      "form": {
-        "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        },
-        "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        }
-      },
-      "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
-      },
-      "briefing": {
-        "trend": "Cleveland Cavaliers hold a 57.2% edge.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line moved -155\u2192-148 (7pts). Pending \u2014 check closer to tip-off",
-        "injury_notes": "No key injuries."
-      },
-      "live": {
-        "status": "pre",
-        "status_detail": "Upcoming",
-        "period": 0,
-        "clock": "",
-        "home_score": 0,
-        "away_score": 0,
-        "spread_alert": null
-      },
-      "news": [
-        {
-          "title": "TST Best Bets: April 22, 2026",
-          "source": "Thesportingtribune.com",
-          "link": "https://www.thesportingtribune.com/2026/04/22/tst-best-bets-april-22-2026-",
-          "published": "2026-04-22T16:51:35Z"
+          "title": "Michigan men's basketball team, Jared Goff cheering on Pistons in Game 2",
+          "source": "The Detroit News",
+          "link": "https://www.detroitnews.com/story/sports/college/university-michigan/2026/04/22/detroit-pistons-cheered-on-by-michigan-basketball-champs-jared-goff/89741773007/",
+          "published": "2026-04-23T00:02:28Z"
         },
         {
-          "title": "Men's College Basketball Transfer Portal: Best Landing Spots for Top Transfers",
-          "source": "Fox Sports",
-          "link": "https://www.foxsports.com/stories/college-basketball/transfer-portal-ncaa-duke-florida-uconn",
-          "published": "2026-04-22T16:45:02Z"
+          "title": "The Risk of Being More Than an Athlete",
+          "source": "Thenation.com",
+          "link": "https://www.thenation.com/article/activism/natasha-cloud-getting-kapped-wnba-palestine/",
+          "published": "2026-04-23T00:00:00Z"
         },
         {
-          "title": "The Trail Blazers\u2019 new owner is a cheapskate billionaire, but there could be a method to his madness",
-          "source": "SB Nation",
-          "link": "https://www.sbnation.com/nba/1111802/portland-trail-blazers-new-owner-cheap-tom-dundon-reports-nhl-team",
-          "published": "2026-04-22T16:35:52Z"
-        }
-      ]
-    },
-    {
-      "game": "Denver Nuggets @ Minnesota Timberwolves",
-      "home_team": "Minnesota Timberwolves",
-      "away_team": "Denver Nuggets",
-      "home_abbr": "MIN",
-      "away_abbr": "DEN",
-      "home_ml": "+114",
-      "away_ml": "-135",
-      "home_ml_raw": 114,
-      "away_ml_raw": -135,
-      "home_prob": 44.9,
-      "away_prob": 55.1,
-      "spread": "MIN +2.5",
-      "favorite": "Denver Nuggets",
-      "pick": "Denver Nuggets",
-      "pick_abbr": "DEN",
-      "moneyline": "-135",
-      "win_probability": 55.1,
-      "confidence": "LOW",
-      "confidence_stars": "\u2605\u2606\u2606",
-      "commence_time": "2026-04-24T01:30:00Z",
-      "line_movement": {
-        "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
-          "old_ml": "+114",
-          "new_ml": "+114"
-        },
-        "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
-          "old_ml": "-135",
-          "new_ml": "-135"
-        },
-        "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
-          "old_ml": "-135",
-          "new_ml": "-135"
-        },
-        "snapshot_time": "April 23, 2026 at 06:29 AM UTC"
-      },
-      "fatigue": {
-        "home": {
-          "status": "RESTED",
-          "label": "2 days rest \u2705",
-          "battery": 88,
-          "last_game": "Apr 20",
-          "days_rest": 3,
-          "games_last_4d": 1,
-          "travel_miles": 698,
-          "travel_desc": "698 mi road trip",
-          "source": "ESPN Scoreboard API"
-        },
-        "away": {
-          "status": "RESTED",
-          "label": "2 days rest \u2705",
-          "battery": 88,
-          "last_game": "Apr 20",
-          "days_rest": 3,
-          "games_last_4d": 1,
-          "travel_miles": 0,
-          "travel_desc": "",
-          "source": "ESPN Scoreboard API"
-        }
-      },
-      "edge_factors": [
-        "\ud83d\udcca 10.2pt probability edge"
-      ],
-      "injury_notes": "Terrence Shannon Jr. (G); Anthony Edwards (G); Aaron Gordon (F)",
-      "sharp": {
-        "away_t": null,
-        "home_t": null,
-        "source": null,
-        "sharp_signal": null,
-        "sharp_label": "Pending \u2014 check closer to tip-off",
-        "rlm": false
-      },
-      "form": {
-        "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        },
-        "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        }
-      },
-      "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
-      },
-      "briefing": {
-        "trend": "Denver Nuggets hold a 55.1% edge.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
-        "injury_notes": "Terrence Shannon Jr. (G); Anthony Edwards (G); Aaron Gordon (F)"
-      },
-      "live": {
-        "status": "pre",
-        "status_detail": "Upcoming",
-        "period": 0,
-        "clock": "",
-        "home_score": 0,
-        "away_score": 0,
-        "spread_alert": null
-      },
-      "news": [
-        {
-          "title": "TST Best Bets: April 22, 2026",
-          "source": "Thesportingtribune.com",
-          "link": "https://www.thesportingtribune.com/2026/04/22/tst-best-bets-april-22-2026-",
-          "published": "2026-04-22T16:51:35Z"
-        },
-        {
-          "title": "Men's College Basketball Transfer Portal: Best Landing Spots for Top Transfers",
-          "source": "Fox Sports",
-          "link": "https://www.foxsports.com/stories/college-basketball/transfer-portal-ncaa-duke-florida-uconn",
-          "published": "2026-04-22T16:45:02Z"
-        },
-        {
-          "title": "The Trail Blazers\u2019 new owner is a cheapskate billionaire, but there could be a method to his madness",
-          "source": "SB Nation",
-          "link": "https://www.sbnation.com/nba/1111802/portland-trail-blazers-new-owner-cheap-tom-dundon-reports-nhl-team",
-          "published": "2026-04-22T16:35:52Z"
+          "title": "Spurs' Keldon Johnson named NBA Sixth Man of the Year",
+          "source": "USA Today",
+          "link": "https://www.usatoday.com/story/sports/nba/spurs/2026/04/22/keldon-johnson-sixth-man-of-the-year-nba-awards/89741423007/",
+          "published": "2026-04-22T23:59:08Z"
         }
       ]
     },
@@ -471,27 +485,27 @@
           "old_ml": "-298",
           "new_ml": "-298"
         },
-        "snapshot_time": "April 23, 2026 at 06:29 AM UTC"
+        "snapshot_time": "April 23, 2026 at 04:54 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
+          "status": "RESTED",
+          "label": "2 days rest \u2705",
+          "battery": 88,
           "last_game": "Apr 21",
-          "days_rest": 2,
-          "games_last_4d": 2,
+          "days_rest": 3,
+          "games_last_4d": 1,
           "travel_miles": 273,
           "travel_desc": "273 mi road trip",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
+          "status": "RESTED",
+          "label": "2 days rest \u2705",
+          "battery": 88,
           "last_game": "Apr 21",
-          "days_rest": 2,
-          "games_last_4d": 2,
+          "days_rest": 3,
+          "games_last_4d": 1,
           "travel_miles": 0,
           "travel_desc": "",
           "source": "ESPN Scoreboard API"
@@ -551,22 +565,22 @@
       },
       "news": [
         {
-          "title": "TST Best Bets: April 22, 2026",
-          "source": "Thesportingtribune.com",
-          "link": "https://www.thesportingtribune.com/2026/04/22/tst-best-bets-april-22-2026-",
-          "published": "2026-04-22T16:51:35Z"
+          "title": "Michigan men's basketball team, Jared Goff cheering on Pistons in Game 2",
+          "source": "The Detroit News",
+          "link": "https://www.detroitnews.com/story/sports/college/university-michigan/2026/04/22/detroit-pistons-cheered-on-by-michigan-basketball-champs-jared-goff/89741773007/",
+          "published": "2026-04-23T00:02:28Z"
         },
         {
-          "title": "Men's College Basketball Transfer Portal: Best Landing Spots for Top Transfers",
-          "source": "Fox Sports",
-          "link": "https://www.foxsports.com/stories/college-basketball/transfer-portal-ncaa-duke-florida-uconn",
-          "published": "2026-04-22T16:45:02Z"
+          "title": "The Risk of Being More Than an Athlete",
+          "source": "Thenation.com",
+          "link": "https://www.thenation.com/article/activism/natasha-cloud-getting-kapped-wnba-palestine/",
+          "published": "2026-04-23T00:00:00Z"
         },
         {
-          "title": "The Trail Blazers\u2019 new owner is a cheapskate billionaire, but there could be a method to his madness",
-          "source": "SB Nation",
-          "link": "https://www.sbnation.com/nba/1111802/portland-trail-blazers-new-owner-cheap-tom-dundon-reports-nhl-team",
-          "published": "2026-04-22T16:35:52Z"
+          "title": "Spurs' Keldon Johnson named NBA Sixth Man of the Year",
+          "source": "USA Today",
+          "link": "https://www.usatoday.com/story/sports/nba/spurs/2026/04/22/keldon-johnson-sixth-man-of-the-year-nba-awards/89741423007/",
+          "published": "2026-04-22T23:59:08Z"
         }
       ]
     },
@@ -576,66 +590,66 @@
       "away_team": "Los Angeles Lakers",
       "home_abbr": "HOU",
       "away_abbr": "LAL",
-      "home_ml": "-395",
-      "away_ml": "+310",
-      "home_ml_raw": -395,
-      "away_ml_raw": 310,
-      "home_prob": 76.6,
-      "away_prob": 23.4,
-      "spread": "HOU -9.5",
+      "home_ml": "-340",
+      "away_ml": "+270",
+      "home_ml_raw": -340,
+      "away_ml_raw": 270,
+      "home_prob": 74.1,
+      "away_prob": 25.9,
+      "spread": "HOU -8.5",
       "favorite": "Houston Rockets",
       "pick": "Houston Rockets",
       "pick_abbr": "HOU",
-      "moneyline": "-395",
-      "win_probability": 76.6,
+      "moneyline": "-340",
+      "win_probability": 74.1,
       "confidence": "HIGH",
       "confidence_stars": "\u2605\u2605\u2605",
       "commence_time": "2026-04-25T00:10:00Z",
       "line_movement": {
         "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "longer",
+          "points_moved": 55,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -340 \u2190 -395",
           "old_ml": "-395",
-          "new_ml": "-395"
+          "new_ml": "-340"
         },
         "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "shorter",
+          "points_moved": 40,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM +270 \u2190 +310",
           "old_ml": "+310",
-          "new_ml": "+310"
+          "new_ml": "+270"
         },
         "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "longer",
+          "points_moved": 55,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -340 \u2190 -395",
           "old_ml": "-395",
-          "new_ml": "-395"
+          "new_ml": "-340"
         },
-        "snapshot_time": "April 23, 2026 at 06:29 AM UTC"
+        "snapshot_time": "April 23, 2026 at 04:54 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
+          "status": "RESTED",
+          "label": "2 days rest \u2705",
+          "battery": 88,
           "last_game": "Apr 21",
-          "days_rest": 2,
+          "days_rest": 3,
           "games_last_4d": 1,
           "travel_miles": 1373,
           "travel_desc": "1,373 mi road trip",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
+          "status": "RESTED",
+          "label": "2 days rest \u2705",
+          "battery": 88,
           "last_game": "Apr 21",
-          "days_rest": 2,
+          "days_rest": 3,
           "games_last_4d": 1,
           "travel_miles": 0,
           "travel_desc": "",
@@ -643,279 +657,7 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udcca 53.2pt probability edge"
-      ],
-      "injury_notes": "Jake LaRavia (F)",
-      "sharp": {
-        "away_t": null,
-        "home_t": null,
-        "source": null,
-        "sharp_signal": null,
-        "sharp_label": "Pending \u2014 check closer to tip-off",
-        "rlm": false
-      },
-      "form": {
-        "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        },
-        "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        }
-      },
-      "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
-      },
-      "briefing": {
-        "trend": "Houston Rockets hold a 76.6% edge.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
-        "injury_notes": "Jake LaRavia (F)"
-      },
-      "live": {
-        "status": "pre",
-        "status_detail": "Upcoming",
-        "period": 0,
-        "clock": "",
-        "home_score": 0,
-        "away_score": 0,
-        "spread_alert": null
-      },
-      "news": [
-        {
-          "title": "NBA Futures: Lakers flip the odds on Rockets, now 35-1 to win title",
-          "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/espn/betting/story/_/id/45539787/2026-nba-finals-odds-mvp-2025-26-championship-betting",
-          "published": "Thu, 23 Apr 2026 00:25:29 EST"
-        }
-      ]
-    },
-    {
-      "game": "San Antonio Spurs @ Portland Trail Blazers",
-      "home_team": "Portland Trail Blazers",
-      "away_team": "San Antonio Spurs",
-      "home_abbr": "POR",
-      "away_abbr": "SAS",
-      "home_ml": "+110",
-      "away_ml": "-130",
-      "home_ml_raw": 110,
-      "away_ml_raw": -130,
-      "home_prob": 45.7,
-      "away_prob": 54.3,
-      "spread": "POR +1.5",
-      "favorite": "San Antonio Spurs",
-      "pick": "San Antonio Spurs",
-      "pick_abbr": "SAS",
-      "moneyline": "-130",
-      "win_probability": 54.3,
-      "confidence": "LOW",
-      "confidence_stars": "\u2605\u2606\u2606",
-      "commence_time": "2026-04-25T02:40:00Z",
-      "line_movement": {
-        "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
-          "old_ml": "+110",
-          "new_ml": "+110"
-        },
-        "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
-          "old_ml": "-130",
-          "new_ml": "-130"
-        },
-        "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
-          "old_ml": "-130",
-          "new_ml": "-130"
-        },
-        "snapshot_time": "April 23, 2026 at 06:29 AM UTC"
-      },
-      "fatigue": {
-        "home": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "Apr 21",
-          "days_rest": 2,
-          "games_last_4d": 2,
-          "travel_miles": 1721,
-          "travel_desc": "1,721 mi road trip",
-          "source": "ESPN Scoreboard API"
-        },
-        "away": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "Apr 21",
-          "days_rest": 2,
-          "games_last_4d": 2,
-          "travel_miles": 0,
-          "travel_desc": "",
-          "source": "ESPN Scoreboard API"
-        }
-      },
-      "edge_factors": [
-        "\ud83d\udcca 8.6pt probability edge"
-      ],
-      "injury_notes": "Victor Wembanyama (F); Jordan McLaughlin (G); Harrison Barnes (F)",
-      "sharp": {
-        "away_t": null,
-        "home_t": null,
-        "source": null,
-        "sharp_signal": null,
-        "sharp_label": "Pending \u2014 check closer to tip-off",
-        "rlm": false
-      },
-      "form": {
-        "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        },
-        "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        }
-      },
-      "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
-      },
-      "briefing": {
-        "trend": "San Antonio Spurs hold a 54.3% edge.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
-        "injury_notes": "Victor Wembanyama (F); Jordan McLaughlin (G); Harrison Barnes (F)"
-      },
-      "live": {
-        "status": "pre",
-        "status_detail": "Upcoming",
-        "period": 0,
-        "clock": "",
-        "home_score": 0,
-        "away_score": 0,
-        "spread_alert": null
-      },
-      "news": [
-        {
-          "title": "Wemby to travel with Spurs while in protocol",
-          "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/nba/story/_/id/48571593/spurs-victor-wembanyama-travel-concussion-protocol",
-          "published": "Thu, 23 Apr 2026 12:40:35 EST"
-        },
-        {
-          "title": "Johnson joins Ginobili as Spurs' Sixth Man winners",
-          "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/nba/story/_/id/48563850/san-antonio-spurs-keldon-johnson-named-nba-sixth-man-year",
-          "published": "Thu, 23 Apr 2026 12:40:35 EST"
-        }
-      ]
-    },
-    {
-      "game": "Detroit Pistons @ Orlando Magic",
-      "home_team": "Orlando Magic",
-      "away_team": "Detroit Pistons",
-      "home_abbr": "ORL",
-      "away_abbr": "DET",
-      "home_ml": "+120",
-      "away_ml": "-142",
-      "home_ml_raw": 120,
-      "away_ml_raw": -142,
-      "home_prob": 43.7,
-      "away_prob": 56.3,
-      "spread": "ORL +2.5",
-      "favorite": "Detroit Pistons",
-      "pick": "Detroit Pistons",
-      "pick_abbr": "DET",
-      "moneyline": "-142",
-      "win_probability": 56.3,
-      "confidence": "LOW",
-      "confidence_stars": "\u2605\u2606\u2606",
-      "commence_time": "2026-04-25T17:10:00Z",
-      "line_movement": {
-        "home": {
-          "direction": "shorter",
-          "points_moved": 4,
-          "steam": false,
-          "label": "\ud83d\udfe2 +120 \u2190 +124",
-          "old_ml": "+124",
-          "new_ml": "+120"
-        },
-        "away": {
-          "direction": "longer",
-          "points_moved": 6,
-          "steam": false,
-          "label": "\ud83d\udd34 -142 \u2190 -148",
-          "old_ml": "-148",
-          "new_ml": "-142"
-        },
-        "pick": {
-          "direction": "longer",
-          "points_moved": 6,
-          "steam": false,
-          "label": "\ud83d\udd34 -142 \u2190 -148",
-          "old_ml": "-148",
-          "new_ml": "-142"
-        },
-        "snapshot_time": "April 23, 2026 at 06:29 AM UTC"
-      },
-      "fatigue": {
-        "home": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
-          "last_game": "Apr 22",
-          "days_rest": 1,
-          "games_last_4d": 2,
-          "travel_miles": 958,
-          "travel_desc": "958 mi road trip",
-          "source": "ESPN Scoreboard API"
-        },
-        "away": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
-          "last_game": "Apr 22",
-          "days_rest": 1,
-          "games_last_4d": 2,
-          "travel_miles": 0,
-          "travel_desc": "",
-          "source": "ESPN Scoreboard API"
-        }
-      },
-      "edge_factors": [
-        "\ud83d\udca4 ORL fatigued (B2B) \u2014 source: ESPN"
+        "\ud83d\udd25 Sharp steam detected"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -952,9 +694,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "ORL on Back-to-Back \u26a0\ufe0f per ESPN schedule data. DET on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "trend": "Houston Rockets hold a 74.1% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line moved -148\u2192-142 (6pts). Pending \u2014 check closer to tip-off",
+        "steam": "Line steamed from -395 to -340 (55pt move) \u2014 heavy professional action on Houston Rockets.",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -968,22 +710,312 @@
       },
       "news": [
         {
-          "title": "How Pistons' center Jalen Duren turned muscles into metrics",
-          "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/nba/story/_/id/48552714/how-jalen-duren-helped-reignite-detro-defense-first-legacy",
-          "published": "Thu, 23 Apr 2026 08:20:13 EST"
+          "title": "Michigan men's basketball team, Jared Goff cheering on Pistons in Game 2",
+          "source": "The Detroit News",
+          "link": "https://www.detroitnews.com/story/sports/college/university-michigan/2026/04/22/detroit-pistons-cheered-on-by-michigan-basketball-champs-jared-goff/89741773007/",
+          "published": "2026-04-23T00:02:28Z"
         },
         {
-          "title": "Bickerstaff's fiery talk was 'spark' Pistons needed",
-          "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/nba/story/_/id/48566992/bickerstaff-fiery-speech-provides-spark-game-2-win-magic",
-          "published": "Thu, 23 Apr 2026 12:40:35 EST"
+          "title": "The Risk of Being More Than an Athlete",
+          "source": "Thenation.com",
+          "link": "https://www.thenation.com/article/activism/natasha-cloud-getting-kapped-wnba-palestine/",
+          "published": "2026-04-23T00:00:00Z"
         },
         {
-          "title": "Don't panic, Detroit! The five reasons to still trust the Pistons this postseason",
-          "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/nba/story/_/id/48554498/the-top-five-reasons-trust-detroit-pistons-postseason",
-          "published": "Thu, 23 Apr 2026 09:57:08 EST"
+          "title": "Spurs' Keldon Johnson named NBA Sixth Man of the Year",
+          "source": "USA Today",
+          "link": "https://www.usatoday.com/story/sports/nba/spurs/2026/04/22/keldon-johnson-sixth-man-of-the-year-nba-awards/89741423007/",
+          "published": "2026-04-22T23:59:08Z"
+        }
+      ]
+    },
+    {
+      "game": "San Antonio Spurs @ Portland Trail Blazers",
+      "home_team": "Portland Trail Blazers",
+      "away_team": "San Antonio Spurs",
+      "home_abbr": "POR",
+      "away_abbr": "SAS",
+      "home_ml": "+105",
+      "away_ml": "-125",
+      "home_ml_raw": 105,
+      "away_ml_raw": -125,
+      "home_prob": 46.8,
+      "away_prob": 53.2,
+      "spread": "POR +1.5",
+      "favorite": "San Antonio Spurs",
+      "pick": "San Antonio Spurs",
+      "pick_abbr": "SAS",
+      "moneyline": "-125",
+      "win_probability": 53.2,
+      "confidence": "LOW",
+      "confidence_stars": "\u2605\u2606\u2606",
+      "commence_time": "2026-04-25T02:40:00Z",
+      "line_movement": {
+        "home": {
+          "direction": "shorter",
+          "points_moved": 5,
+          "steam": false,
+          "label": "\ud83d\udfe2 +105 \u2190 +110",
+          "old_ml": "+110",
+          "new_ml": "+105"
+        },
+        "away": {
+          "direction": "longer",
+          "points_moved": 5,
+          "steam": false,
+          "label": "\ud83d\udd34 -125 \u2190 -130",
+          "old_ml": "-130",
+          "new_ml": "-125"
+        },
+        "pick": {
+          "direction": "longer",
+          "points_moved": 5,
+          "steam": false,
+          "label": "\ud83d\udd34 -125 \u2190 -130",
+          "old_ml": "-130",
+          "new_ml": "-125"
+        },
+        "snapshot_time": "April 23, 2026 at 04:54 PM UTC"
+      },
+      "fatigue": {
+        "home": {
+          "status": "RESTED",
+          "label": "2 days rest \u2705",
+          "battery": 88,
+          "last_game": "Apr 21",
+          "days_rest": 3,
+          "games_last_4d": 1,
+          "travel_miles": 1721,
+          "travel_desc": "1,721 mi road trip",
+          "source": "ESPN Scoreboard API"
+        },
+        "away": {
+          "status": "RESTED",
+          "label": "2 days rest \u2705",
+          "battery": 88,
+          "last_game": "Apr 21",
+          "days_rest": 3,
+          "games_last_4d": 1,
+          "travel_miles": 0,
+          "travel_desc": "",
+          "source": "ESPN Scoreboard API"
+        }
+      },
+      "edge_factors": [
+        "\ud83d\udcca 6.4pt probability edge"
+      ],
+      "injury_notes": "No key injuries.",
+      "sharp": {
+        "away_t": null,
+        "home_t": null,
+        "source": null,
+        "sharp_signal": null,
+        "sharp_label": "Pending \u2014 check closer to tip-off",
+        "rlm": false
+      },
+      "form": {
+        "home": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        },
+        "away": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        }
+      },
+      "h2h": {
+        "total_meetings": 0,
+        "home_wins": 0,
+        "away_wins": 0,
+        "meetings": [],
+        "source": "\u2014"
+      },
+      "briefing": {
+        "trend": "San Antonio Spurs hold a 53.2% edge.",
+        "matchup": "Both rosters appear healthy \u2014 clean line.",
+        "steam": "Line moved -130\u2192-125 (5pts). Pending \u2014 check closer to tip-off",
+        "injury_notes": "No key injuries."
+      },
+      "live": {
+        "status": "pre",
+        "status_detail": "Upcoming",
+        "period": 0,
+        "clock": "",
+        "home_score": 0,
+        "away_score": 0,
+        "spread_alert": null
+      },
+      "news": [
+        {
+          "title": "Michigan men's basketball team, Jared Goff cheering on Pistons in Game 2",
+          "source": "The Detroit News",
+          "link": "https://www.detroitnews.com/story/sports/college/university-michigan/2026/04/22/detroit-pistons-cheered-on-by-michigan-basketball-champs-jared-goff/89741773007/",
+          "published": "2026-04-23T00:02:28Z"
+        },
+        {
+          "title": "The Risk of Being More Than an Athlete",
+          "source": "Thenation.com",
+          "link": "https://www.thenation.com/article/activism/natasha-cloud-getting-kapped-wnba-palestine/",
+          "published": "2026-04-23T00:00:00Z"
+        },
+        {
+          "title": "Spurs' Keldon Johnson named NBA Sixth Man of the Year",
+          "source": "USA Today",
+          "link": "https://www.usatoday.com/story/sports/nba/spurs/2026/04/22/keldon-johnson-sixth-man-of-the-year-nba-awards/89741423007/",
+          "published": "2026-04-22T23:59:08Z"
+        }
+      ]
+    },
+    {
+      "game": "Detroit Pistons @ Orlando Magic",
+      "home_team": "Orlando Magic",
+      "away_team": "Detroit Pistons",
+      "home_abbr": "ORL",
+      "away_abbr": "DET",
+      "home_ml": "+120",
+      "away_ml": "-142",
+      "home_ml_raw": 120,
+      "away_ml_raw": -142,
+      "home_prob": 43.7,
+      "away_prob": 56.3,
+      "spread": "ORL +2.5",
+      "favorite": "Detroit Pistons",
+      "pick": "Detroit Pistons",
+      "pick_abbr": "DET",
+      "moneyline": "-142",
+      "win_probability": 56.3,
+      "confidence": "LOW",
+      "confidence_stars": "\u2605\u2606\u2606",
+      "commence_time": "2026-04-25T17:10:00Z",
+      "line_movement": {
+        "home": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "No movement",
+          "old_ml": "+120",
+          "new_ml": "+120"
+        },
+        "away": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "No movement",
+          "old_ml": "-142",
+          "new_ml": "-142"
+        },
+        "pick": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "No movement",
+          "old_ml": "-142",
+          "new_ml": "-142"
+        },
+        "snapshot_time": "April 23, 2026 at 04:54 PM UTC"
+      },
+      "fatigue": {
+        "home": {
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
+          "last_game": "Apr 22",
+          "days_rest": 2,
+          "games_last_4d": 1,
+          "travel_miles": 958,
+          "travel_desc": "958 mi road trip",
+          "source": "ESPN Scoreboard API"
+        },
+        "away": {
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
+          "last_game": "Apr 22",
+          "days_rest": 2,
+          "games_last_4d": 1,
+          "travel_miles": 0,
+          "travel_desc": "",
+          "source": "ESPN Scoreboard API"
+        }
+      },
+      "edge_factors": [
+        "\ud83d\udcca 12.6pt probability edge"
+      ],
+      "injury_notes": "No key injuries.",
+      "sharp": {
+        "away_t": null,
+        "home_t": null,
+        "source": null,
+        "sharp_signal": null,
+        "sharp_label": "Pending \u2014 check closer to tip-off",
+        "rlm": false
+      },
+      "form": {
+        "home": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        },
+        "away": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        }
+      },
+      "h2h": {
+        "total_meetings": 0,
+        "home_wins": 0,
+        "away_wins": 0,
+        "meetings": [],
+        "source": "\u2014"
+      },
+      "briefing": {
+        "trend": "Detroit Pistons hold a 56.3% edge.",
+        "matchup": "Both rosters appear healthy \u2014 clean line.",
+        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "injury_notes": "No key injuries."
+      },
+      "live": {
+        "status": "pre",
+        "status_detail": "Upcoming",
+        "period": 0,
+        "clock": "",
+        "home_score": 0,
+        "away_score": 0,
+        "spread_alert": null
+      },
+      "news": [
+        {
+          "title": "Michigan men's basketball team, Jared Goff cheering on Pistons in Game 2",
+          "source": "The Detroit News",
+          "link": "https://www.detroitnews.com/story/sports/college/university-michigan/2026/04/22/detroit-pistons-cheered-on-by-michigan-basketball-champs-jared-goff/89741773007/",
+          "published": "2026-04-23T00:02:28Z"
+        },
+        {
+          "title": "The Risk of Being More Than an Athlete",
+          "source": "Thenation.com",
+          "link": "https://www.thenation.com/article/activism/natasha-cloud-getting-kapped-wnba-palestine/",
+          "published": "2026-04-23T00:00:00Z"
+        },
+        {
+          "title": "Spurs' Keldon Johnson named NBA Sixth Man of the Year",
+          "source": "USA Today",
+          "link": "https://www.usatoday.com/story/sports/nba/spurs/2026/04/22/keldon-johnson-sixth-man-of-the-year-nba-awards/89741423007/",
+          "published": "2026-04-22T23:59:08Z"
         }
       ]
     },
@@ -1033,36 +1065,36 @@
           "old_ml": "-470",
           "new_ml": "-470"
         },
-        "snapshot_time": "April 23, 2026 at 06:29 AM UTC"
+        "snapshot_time": "April 23, 2026 at 04:54 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
           "last_game": "Apr 22",
-          "days_rest": 1,
-          "games_last_4d": 2,
+          "days_rest": 2,
+          "games_last_4d": 1,
           "travel_miles": 840,
           "travel_desc": "840 mi road trip",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
           "last_game": "Apr 22",
-          "days_rest": 1,
-          "games_last_4d": 2,
+          "days_rest": 2,
+          "games_last_4d": 1,
           "travel_miles": 0,
           "travel_desc": "",
           "source": "ESPN Scoreboard API"
         }
       },
       "edge_factors": [
-        "\ud83d\udca4 PHX fatigued (B2B) \u2014 source: ESPN"
+        "\ud83d\udcca 58.2pt probability edge"
       ],
-      "injury_notes": "Jordan Goodwin (G); Jalen Williams (G)",
+      "injury_notes": "No key injuries.",
       "sharp": {
         "away_t": null,
         "home_t": null,
@@ -1097,10 +1129,10 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "PHX on Back-to-Back \u26a0\ufe0f per ESPN schedule data. OKC on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "trend": "Oklahoma City Thunder hold a 79.1% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
         "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
-        "injury_notes": "Jordan Goodwin (G); Jalen Williams (G)"
+        "injury_notes": "No key injuries."
       },
       "live": {
         "status": "pre",
@@ -1113,22 +1145,22 @@
       },
       "news": [
         {
-          "title": "OKC takes 2-0 lead but loses Williams to injury",
-          "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/nba/story/_/id/48566682/thunder-jalen-williams-leaves-game-2-third-quarter-injury",
-          "published": "Thu, 23 Apr 2026 12:40:35 EST"
+          "title": "Michigan men's basketball team, Jared Goff cheering on Pistons in Game 2",
+          "source": "The Detroit News",
+          "link": "https://www.detroitnews.com/story/sports/college/university-michigan/2026/04/22/detroit-pistons-cheered-on-by-michigan-basketball-champs-jared-goff/89741773007/",
+          "published": "2026-04-23T00:02:28Z"
         },
         {
-          "title": "Booker, Brooks rip refs after Suns' loss: 'Terrible'",
-          "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/nba/story/_/id/48567864/suns-booker-brooks-rip-refs-game-2-loss-thunder",
-          "published": "Thu, 23 Apr 2026 12:40:35 EST"
+          "title": "The Risk of Being More Than an Athlete",
+          "source": "Thenation.com",
+          "link": "https://www.thenation.com/article/activism/natasha-cloud-getting-kapped-wnba-palestine/",
+          "published": "2026-04-23T00:00:00Z"
         },
         {
-          "title": "NBA Futures: Lakers flip the odds on Rockets, now 35-1 to win title",
-          "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/espn/betting/story/_/id/45539787/2026-nba-finals-odds-mvp-2025-26-championship-betting",
-          "published": "Thu, 23 Apr 2026 00:25:29 EST"
+          "title": "Spurs' Keldon Johnson named NBA Sixth Man of the Year",
+          "source": "USA Today",
+          "link": "https://www.usatoday.com/story/sports/nba/spurs/2026/04/22/keldon-johnson-sixth-man-of-the-year-nba-awards/89741423007/",
+          "published": "2026-04-22T23:59:08Z"
         }
       ]
     }
