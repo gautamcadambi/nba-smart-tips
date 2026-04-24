@@ -1930,9 +1930,11 @@
       "win_probability": 57.2,
       "commence_time": "2026-04-24T00:10:00Z",
       "date": "2026-04-21T06:25:23.448626+00:00",
-      "graded": false,
-      "result": null,
-      "profit": null
+      "graded": true,
+      "result": "LOSS",
+      "profit": -100,
+      "home_score": 126,
+      "away_score": 104
     },
     {
       "game": "Denver Nuggets @ Minnesota Timberwolves",
@@ -1944,9 +1946,11 @@
       "win_probability": 51.1,
       "commence_time": "2026-04-24T01:30:00Z",
       "date": "2026-04-21T06:25:23.448626+00:00",
-      "graded": false,
-      "result": null,
-      "profit": null
+      "graded": true,
+      "result": "LOSS",
+      "profit": -100,
+      "home_score": 113,
+      "away_score": 96
     },
     {
       "game": "Boston Celtics @ Philadelphia 76ers",
@@ -2008,11 +2012,11 @@
   "summary": {
     "LOW": {
       "wins": 21,
-      "losses": 19,
-      "total": 40,
-      "win_pct": 52.5,
-      "roi": 0.0,
-      "profit": 0.69
+      "losses": 21,
+      "total": 42,
+      "win_pct": 50.0,
+      "roi": -4.7,
+      "profit": -199.31
     },
     "HIGH": {
       "wins": 40,
@@ -2031,21 +2035,21 @@
       "profit": 48.3
     },
     "overall_7d": {
-      "wins": 2,
-      "losses": 2,
-      "total": 4,
-      "win_pct": 50.0,
-      "roi": -26.0,
-      "profit": -104.0
+      "wins": 0,
+      "losses": 3,
+      "total": 3,
+      "win_pct": 0.0,
+      "roi": -100.0,
+      "profit": -300
     },
     "overall_30d": {
       "wins": 86,
-      "losses": 34,
-      "total": 120,
-      "win_pct": 71.7,
-      "roi": 0.8,
-      "profit": 101.71
+      "losses": 36,
+      "total": 122,
+      "win_pct": 70.5,
+      "roi": -0.8,
+      "profit": -98.29
     }
   },
-  "last_graded": "2026-04-20T07:29:16.386662+00:00"
+  "last_graded": "2026-04-24T06:30:26.630622+00:00"
 }
