@@ -1962,9 +1962,11 @@
       "win_probability": 71.4,
       "commence_time": "2026-04-24T23:10:00Z",
       "date": "2026-04-22T06:25:02.036655+00:00",
-      "graded": false,
-      "result": null,
-      "profit": null
+      "graded": true,
+      "result": "WIN",
+      "profit": 34.48,
+      "home_score": 100,
+      "away_score": 108
     },
     {
       "game": "Los Angeles Lakers @ Houston Rockets",
@@ -1976,9 +1978,11 @@
       "win_probability": 76.6,
       "commence_time": "2026-04-25T00:10:00Z",
       "date": "2026-04-22T06:25:02.036655+00:00",
-      "graded": false,
-      "result": null,
-      "profit": null
+      "graded": true,
+      "result": "LOSS",
+      "profit": -100,
+      "home_score": 108,
+      "away_score": 112
     },
     {
       "game": "San Antonio Spurs @ Portland Trail Blazers",
@@ -1990,9 +1994,11 @@
       "win_probability": 53.2,
       "commence_time": "2026-04-25T02:40:00Z",
       "date": "2026-04-22T06:25:02.036655+00:00",
-      "graded": false,
-      "result": null,
-      "profit": null
+      "graded": true,
+      "result": "WIN",
+      "profit": 80.0,
+      "home_score": 108,
+      "away_score": 120
     },
     {
       "game": "Oklahoma City Thunder @ Phoenix Suns",
@@ -2011,45 +2017,45 @@
   ],
   "summary": {
     "LOW": {
-      "wins": 21,
+      "wins": 22,
       "losses": 21,
-      "total": 42,
-      "win_pct": 50.0,
-      "roi": -4.7,
-      "profit": -199.31
+      "total": 43,
+      "win_pct": 51.2,
+      "roi": -2.8,
+      "profit": -119.31
     },
     "HIGH": {
       "wins": 40,
-      "losses": 4,
-      "total": 44,
-      "win_pct": 90.9,
-      "roi": 1.2,
-      "profit": 52.72
+      "losses": 5,
+      "total": 45,
+      "win_pct": 88.9,
+      "roi": -1.1,
+      "profit": -47.28
     },
     "MEDIUM": {
-      "wins": 25,
+      "wins": 26,
       "losses": 11,
-      "total": 36,
-      "win_pct": 69.4,
-      "roi": 1.3,
-      "profit": 48.3
+      "total": 37,
+      "win_pct": 70.3,
+      "roi": 2.2,
+      "profit": 82.78
     },
     "overall_7d": {
-      "wins": 0,
+      "wins": 2,
       "losses": 3,
-      "total": 3,
-      "win_pct": 0.0,
-      "roi": -100.0,
-      "profit": -300
+      "total": 5,
+      "win_pct": 40.0,
+      "roi": -37.1,
+      "profit": -185.52
     },
     "overall_30d": {
-      "wins": 86,
-      "losses": 36,
-      "total": 122,
-      "win_pct": 70.5,
-      "roi": -0.8,
-      "profit": -98.29
+      "wins": 88,
+      "losses": 37,
+      "total": 125,
+      "win_pct": 70.4,
+      "roi": -0.7,
+      "profit": -83.81
     }
   },
-  "last_graded": "2026-04-24T06:30:26.630622+00:00"
+  "last_graded": "2026-04-25T06:07:19.215481+00:00"
 }
