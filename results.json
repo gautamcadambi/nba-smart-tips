@@ -2010,9 +2010,11 @@
       "win_probability": 78.7,
       "commence_time": "2026-04-25T19:30:00Z",
       "date": "2026-04-23T05:57:18.785037+00:00",
-      "graded": false,
-      "result": null,
-      "profit": null
+      "graded": true,
+      "result": "WIN",
+      "profit": 21.98,
+      "home_score": 109,
+      "away_score": 121
     }
   ],
   "summary": {
@@ -2025,12 +2027,12 @@
       "profit": -119.31
     },
     "HIGH": {
-      "wins": 40,
+      "wins": 41,
       "losses": 5,
-      "total": 45,
-      "win_pct": 88.9,
-      "roi": -1.1,
-      "profit": -47.28
+      "total": 46,
+      "win_pct": 89.1,
+      "roi": -0.6,
+      "profit": -25.3
     },
     "MEDIUM": {
       "wins": 26,
@@ -2041,21 +2043,21 @@
       "profit": 82.78
     },
     "overall_7d": {
-      "wins": 2,
+      "wins": 3,
       "losses": 3,
-      "total": 5,
-      "win_pct": 40.0,
-      "roi": -37.1,
-      "profit": -185.52
+      "total": 6,
+      "win_pct": 50.0,
+      "roi": -27.3,
+      "profit": -163.54
     },
     "overall_30d": {
-      "wins": 88,
+      "wins": 89,
       "losses": 37,
-      "total": 125,
-      "win_pct": 70.4,
-      "roi": -0.7,
-      "profit": -83.81
+      "total": 126,
+      "win_pct": 70.6,
+      "roi": -0.5,
+      "profit": -61.83
     }
   },
-  "last_graded": "2026-04-25T06:07:19.215481+00:00"
+  "last_graded": "2026-04-25T23:57:22.863037+00:00"
 }

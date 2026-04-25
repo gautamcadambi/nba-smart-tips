@@ -1,344 +1,54 @@
 {
-  "last_updated": "April 25, 2026 at 02:09 PM UTC",
+  "last_updated": "April 25, 2026 at 11:58 PM UTC",
   "total_games": 8,
   "games": [
-    {
-      "game": "Detroit Pistons @ Orlando Magic",
-      "home_team": "Orlando Magic",
-      "away_team": "Detroit Pistons",
-      "home_abbr": "ORL",
-      "away_abbr": "DET",
-      "home_ml": "+114",
-      "away_ml": "-135",
-      "home_ml_raw": 114,
-      "away_ml_raw": -135,
-      "home_prob": 44.9,
-      "away_prob": 55.1,
-      "spread": "ORL +2.5",
-      "favorite": "Detroit Pistons",
-      "pick": "Detroit Pistons",
-      "pick_abbr": "DET",
-      "moneyline": "-135",
-      "win_probability": 55.1,
-      "confidence": "LOW",
-      "confidence_stars": "\u2605\u2606\u2606",
-      "commence_time": "2026-04-25T17:10:00Z",
-      "line_movement": {
-        "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
-          "old_ml": "+114",
-          "new_ml": "+114"
-        },
-        "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
-          "old_ml": "-135",
-          "new_ml": "-135"
-        },
-        "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
-          "old_ml": "-135",
-          "new_ml": "-135"
-        },
-        "snapshot_time": "April 25, 2026 at 06:08 AM UTC"
-      },
-      "fatigue": {
-        "home": {
-          "status": "RESTED",
-          "label": "2 days rest \u2705",
-          "battery": 88,
-          "last_game": "Apr 22",
-          "days_rest": 3,
-          "games_last_4d": 1,
-          "travel_miles": 958,
-          "travel_desc": "958 mi road trip",
-          "source": "ESPN Scoreboard API"
-        },
-        "away": {
-          "status": "RESTED",
-          "label": "2 days rest \u2705",
-          "battery": 88,
-          "last_game": "Apr 22",
-          "days_rest": 3,
-          "games_last_4d": 1,
-          "travel_miles": 0,
-          "travel_desc": "",
-          "source": "ESPN Scoreboard API"
-        }
-      },
-      "edge_factors": [
-        "\ud83d\udcca 10.2pt probability edge"
-      ],
-      "injury_notes": "No key injuries.",
-      "sharp": {
-        "away_t": null,
-        "home_t": null,
-        "source": null,
-        "sharp_signal": null,
-        "sharp_label": "Pending \u2014 check closer to tip-off",
-        "rlm": false
-      },
-      "form": {
-        "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        },
-        "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        }
-      },
-      "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
-      },
-      "briefing": {
-        "trend": "Detroit Pistons hold a 55.1% edge.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
-        "injury_notes": "No key injuries."
-      },
-      "live": {
-        "status": "pre",
-        "status_detail": "Upcoming",
-        "period": 0,
-        "clock": "",
-        "home_score": 0,
-        "away_score": 0,
-        "spread_alert": null
-      },
-      "news": [
-        {
-          "title": "Lakers' last-minute magic keys OT win for 3-0 lead",
-          "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/nba/story/_/id/48586084/lebron-james-lakers-storm-back-late-win-ot-commanding-series-lead-vs-rockets",
-          "published": "Sat, 25 Apr 2026 08:57:32 EST"
-        },
-        {
-          "title": "How a trade 19 years ago is *still* helping the Oklahoma City Thunder and their title hopes",
-          "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/nba/story/_/id/48553241/sam-presti-rashard-lewis-sga-trade-19-years-ago-helping-oklahoma-city-thunder-their-title-hopes",
-          "published": "Fri, 24 Apr 2026 11:38:53 EST"
-        },
-        {
-          "title": "How Pistons center Jalen Duren turned muscles into metrics",
-          "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/nba/story/_/id/48552714/how-jalen-duren-helped-reignite-detro-defense-first-legacy",
-          "published": "Thu, 23 Apr 2026 13:39:12 EST"
-        }
-      ]
-    },
-    {
-      "game": "Oklahoma City Thunder @ Phoenix Suns",
-      "home_team": "Phoenix Suns",
-      "away_team": "Oklahoma City Thunder",
-      "home_abbr": "PHX",
-      "away_abbr": "OKC",
-      "home_ml": "+310",
-      "away_ml": "-395",
-      "home_ml_raw": 310,
-      "away_ml_raw": -395,
-      "home_prob": 23.4,
-      "away_prob": 76.6,
-      "spread": "PHX +9.5",
-      "favorite": "Oklahoma City Thunder",
-      "pick": "Oklahoma City Thunder",
-      "pick_abbr": "OKC",
-      "moneyline": "-395",
-      "win_probability": 76.6,
-      "confidence": "HIGH",
-      "confidence_stars": "\u2605\u2605\u2605",
-      "commence_time": "2026-04-25T19:40:00Z",
-      "line_movement": {
-        "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
-          "old_ml": "+310",
-          "new_ml": "+310"
-        },
-        "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
-          "old_ml": "-395",
-          "new_ml": "-395"
-        },
-        "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
-          "old_ml": "-395",
-          "new_ml": "-395"
-        },
-        "snapshot_time": "April 25, 2026 at 06:08 AM UTC"
-      },
-      "fatigue": {
-        "home": {
-          "status": "RESTED",
-          "label": "2 days rest \u2705",
-          "battery": 88,
-          "last_game": "Apr 22",
-          "days_rest": 3,
-          "games_last_4d": 1,
-          "travel_miles": 840,
-          "travel_desc": "840 mi road trip",
-          "source": "ESPN Scoreboard API"
-        },
-        "away": {
-          "status": "RESTED",
-          "label": "2 days rest \u2705",
-          "battery": 88,
-          "last_game": "Apr 22",
-          "days_rest": 3,
-          "games_last_4d": 1,
-          "travel_miles": 0,
-          "travel_desc": "",
-          "source": "ESPN Scoreboard API"
-        }
-      },
-      "edge_factors": [
-        "\ud83d\udcca 53.2pt probability edge"
-      ],
-      "injury_notes": "Jordan Goodwin (G); Isaiah Joe (G)",
-      "sharp": {
-        "away_t": null,
-        "home_t": null,
-        "source": null,
-        "sharp_signal": null,
-        "sharp_label": "Pending \u2014 check closer to tip-off",
-        "rlm": false
-      },
-      "form": {
-        "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        },
-        "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        }
-      },
-      "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
-      },
-      "briefing": {
-        "trend": "Oklahoma City Thunder hold a 76.6% edge.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
-        "injury_notes": "Jordan Goodwin (G); Isaiah Joe (G)"
-      },
-      "live": {
-        "status": "pre",
-        "status_detail": "Upcoming",
-        "period": 0,
-        "clock": "",
-        "home_score": 0,
-        "away_score": 0,
-        "spread_alert": null
-      },
-      "news": [
-        {
-          "title": "Ex-Suns employee's discrimination suit dismissed",
-          "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/nba/story/_/id/48583404/former-employee-discrimination-lawsuit-suns-dismissed",
-          "published": "Sat, 25 Apr 2026 08:57:32 EST"
-        },
-        {
-          "title": "How a trade 19 years ago is *still* helping the Oklahoma City Thunder and their title hopes",
-          "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/nba/story/_/id/48553241/sam-presti-rashard-lewis-sga-trade-19-years-ago-helping-oklahoma-city-thunder-their-title-hopes",
-          "published": "Fri, 24 Apr 2026 11:38:53 EST"
-        },
-        {
-          "title": "How the Thunder helped heal Oklahoma City 30 years after unimaginable terror",
-          "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/nba/story/_/id/46389984/how-thunder-helped-heal-oklahoma-city-30-years-terror",
-          "published": "Fri, 24 Apr 2026 08:39:28 EST"
-        }
-      ]
-    },
     {
       "game": "New York Knicks @ Atlanta Hawks",
       "home_team": "Atlanta Hawks",
       "away_team": "New York Knicks",
       "home_abbr": "ATL",
       "away_abbr": "NYK",
-      "home_ml": "+110",
-      "away_ml": "-130",
-      "home_ml_raw": 110,
-      "away_ml_raw": -130,
-      "home_prob": 45.7,
-      "away_prob": 54.3,
-      "spread": "ATL +2.5",
+      "home_ml": "+1000",
+      "away_ml": "-2100",
+      "home_ml_raw": 1000,
+      "away_ml_raw": -2100,
+      "home_prob": 8.7,
+      "away_prob": 91.3,
+      "spread": "ATL +12.5",
       "favorite": "New York Knicks",
       "pick": "New York Knicks",
       "pick_abbr": "NYK",
-      "moneyline": "-130",
-      "win_probability": 54.3,
-      "confidence": "LOW",
-      "confidence_stars": "\u2605\u2606\u2606",
-      "commence_time": "2026-04-25T22:10:00Z",
+      "moneyline": "-2100",
+      "win_probability": 91.3,
+      "confidence": "HIGH",
+      "confidence_stars": "\u2605\u2605\u2605",
+      "commence_time": "2026-04-25T22:13:05Z",
       "line_movement": {
         "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "longer",
+          "points_moved": 890,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM +1000 \u2190 +110",
           "old_ml": "+110",
-          "new_ml": "+110"
+          "new_ml": "+1000"
         },
         "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "shorter",
+          "points_moved": 1970,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -2100 \u2190 -130",
           "old_ml": "-130",
-          "new_ml": "-130"
+          "new_ml": "-2100"
         },
         "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "shorter",
+          "points_moved": 1970,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -2100 \u2190 -130",
           "old_ml": "-130",
-          "new_ml": "-130"
+          "new_ml": "-2100"
         },
-        "snapshot_time": "April 25, 2026 at 06:08 AM UTC"
+        "snapshot_time": "April 25, 2026 at 02:09 PM UTC"
       },
       "fatigue": {
         "home": {
@@ -365,7 +75,7 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udcca 8.6pt probability edge"
+        "\ud83d\udd25 Sharp steam detected"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -402,9 +112,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "New York Knicks hold a 54.3% edge.",
+        "trend": "New York Knicks hold a 91.3% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "steam": "Line steamed from -130 to -2100 (1970pt move) \u2014 heavy professional action on New York Knicks.",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -418,10 +128,22 @@
       },
       "news": [
         {
-          "title": "Alexander-Walker named Most Improved Player",
-          "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/nba/story/_/id/48583622/hawks-nickeil-alexander-walker-named-most-improved-player",
-          "published": "Sat, 25 Apr 2026 08:57:32 EST"
+          "title": "WNBA teams to wear retro jerseys to celebrate league\u2019s 30th anniversary",
+          "source": "Yahoo Entertainment",
+          "link": "https://sports.yahoo.com/articles/wnba-teams-wear-retro-jerseys-234619000.html",
+          "published": "2026-04-24T23:46:19Z"
+        },
+        {
+          "title": "Steve Ballmer blasts founder he backed who pleaded guilty to fraud: 'I was duped and feel silly' | TechCrunch",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/04/24/steve-ballmer-blasts-founder-he-backed-who-pleaded-guilty-to-fraud-i-was-duped-and-feel-silly/",
+          "published": "2026-04-24T23:33:52Z"
+        },
+        {
+          "title": "Cameron Boozer declares for 2026 NBA Draft after freshman season with Duke basketball",
+          "source": "The Fayetteville Observer",
+          "link": "https://www.fayobserver.com/story/sports/college/basketball/2026/04/24/cameron-boozer-declares-for-2026-nba-draft-after-one-season-at-duke/89418710007/",
+          "published": "2026-04-24T23:32:34Z"
         }
       ]
     },
@@ -431,47 +153,47 @@
       "away_team": "Denver Nuggets",
       "home_abbr": "MIN",
       "away_abbr": "DEN",
-      "home_ml": "+102",
-      "away_ml": "-122",
-      "home_ml_raw": 102,
-      "away_ml_raw": -122,
-      "home_prob": 47.4,
-      "away_prob": 52.6,
+      "home_ml": "-105",
+      "away_ml": "-115",
+      "home_ml_raw": -105,
+      "away_ml_raw": -115,
+      "home_prob": 48.9,
+      "away_prob": 51.1,
       "spread": "MIN +1.5",
       "favorite": "Denver Nuggets",
       "pick": "Denver Nuggets",
       "pick_abbr": "DEN",
-      "moneyline": "-122",
-      "win_probability": 52.6,
+      "moneyline": "-115",
+      "win_probability": 51.1,
       "confidence": "LOW",
       "confidence_stars": "\u2605\u2606\u2606",
       "commence_time": "2026-04-26T00:40:00Z",
       "line_movement": {
         "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "shorter",
+          "points_moved": 207,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -105 \u2190 +102",
           "old_ml": "+102",
-          "new_ml": "+102"
+          "new_ml": "-105"
         },
         "away": {
-          "direction": "none",
-          "points_moved": 0,
+          "direction": "longer",
+          "points_moved": 7,
           "steam": false,
-          "label": "No movement",
+          "label": "\ud83d\udd34 -115 \u2190 -122",
           "old_ml": "-122",
-          "new_ml": "-122"
+          "new_ml": "-115"
         },
         "pick": {
-          "direction": "none",
-          "points_moved": 0,
+          "direction": "longer",
+          "points_moved": 7,
           "steam": false,
-          "label": "No movement",
+          "label": "\ud83d\udd34 -115 \u2190 -122",
           "old_ml": "-122",
-          "new_ml": "-122"
+          "new_ml": "-115"
         },
-        "snapshot_time": "April 25, 2026 at 06:08 AM UTC"
+        "snapshot_time": "April 25, 2026 at 02:09 PM UTC"
       },
       "fatigue": {
         "home": {
@@ -498,152 +220,7 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udcca 5.2pt probability edge"
-      ],
-      "injury_notes": "Aaron Gordon (F)",
-      "sharp": {
-        "away_t": null,
-        "home_t": null,
-        "source": null,
-        "sharp_signal": null,
-        "sharp_label": "Pending \u2014 check closer to tip-off",
-        "rlm": false
-      },
-      "form": {
-        "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        },
-        "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        }
-      },
-      "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
-      },
-      "briefing": {
-        "trend": "Denver Nuggets hold a 52.6% edge.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
-        "injury_notes": "Aaron Gordon (F)"
-      },
-      "live": {
-        "status": "pre",
-        "status_detail": "Upcoming",
-        "period": 0,
-        "clock": "",
-        "home_score": 0,
-        "away_score": 0,
-        "spread_alert": null
-      },
-      "news": [
-        {
-          "title": "Duke basketball under Jon Scheyer: Insiders reveal transfer portal news, 2026 recruits, roster, best targets",
-          "source": "CBS Sports",
-          "link": "https://www.cbssports.com/college-basketball/news/duke-basketball-transfer-portal-news-2026-recruits-top-prospects-blue-devils-roster-players-updates-top-targets/",
-          "published": "2026-04-24T14:05:24Z"
-        },
-        {
-          "title": "Mock draft projections on Day 2: Will the 49ers draft for need or BPA today?",
-          "source": "Niners Nation",
-          "link": "https://www.ninersnation.com/san-francisco-49ers-draft/158462/mock-draft-projections-on-day-2-will-the-49ers-draft-for-need-or-bpa-today",
-          "published": "2026-04-24T14:01:00Z"
-        },
-        {
-          "title": "Trail Blazers vs. Spurs \u2013 Game 3 NBA Playoffs \u2013 predictions: Odds, stats, trends and best bets for April 24",
-          "source": "NBCSports.com",
-          "link": "https://www.nbcsports.com/nba/news/trail-blazers-vs-spurs-game-3-nba-playoffs-predictions-odds-stats-trends-and-best-bets-for-april-24",
-          "published": "2026-04-24T13:57:42Z"
-        }
-      ]
-    },
-    {
-      "game": "Cleveland Cavaliers @ Toronto Raptors",
-      "home_team": "Toronto Raptors",
-      "away_team": "Cleveland Cavaliers",
-      "home_abbr": "TOR",
-      "away_abbr": "CLE",
-      "home_ml": "+140",
-      "away_ml": "-166",
-      "home_ml_raw": 140,
-      "away_ml_raw": -166,
-      "home_prob": 40.0,
-      "away_prob": 60.0,
-      "spread": "TOR +3.5",
-      "favorite": "Cleveland Cavaliers",
-      "pick": "Cleveland Cavaliers",
-      "pick_abbr": "CLE",
-      "moneyline": "-166",
-      "win_probability": 60.0,
-      "confidence": "MEDIUM",
-      "confidence_stars": "\u2605\u2605\u2606",
-      "commence_time": "2026-04-26T17:10:00Z",
-      "line_movement": {
-        "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
-          "old_ml": "+140",
-          "new_ml": "+140"
-        },
-        "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
-          "old_ml": "-166",
-          "new_ml": "-166"
-        },
-        "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
-          "old_ml": "-166",
-          "new_ml": "-166"
-        },
-        "snapshot_time": "April 25, 2026 at 06:08 AM UTC"
-      },
-      "fatigue": {
-        "home": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "Apr 23",
-          "days_rest": 2,
-          "games_last_4d": 1,
-          "travel_miles": 0,
-          "travel_desc": "",
-          "source": "ESPN Scoreboard API"
-        },
-        "away": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "Apr 23",
-          "days_rest": 2,
-          "games_last_4d": 1,
-          "travel_miles": 189,
-          "travel_desc": "189 mi road trip",
-          "source": "ESPN Scoreboard API"
-        }
-      },
-      "edge_factors": [
-        "\ud83d\udcca 20.0pt probability edge"
+        "\ud83d\udd25 Sharp steam detected"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -680,9 +257,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "Cleveland Cavaliers hold a 60.0% edge.",
+        "trend": "Denver Nuggets hold a 51.1% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "steam": "Line moved -122\u2192-115 (7pts). Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -696,10 +273,167 @@
       },
       "news": [
         {
-          "title": "Raptors' Quickley aggravates injury, out for series",
-          "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/nba/story/_/id/48583225/raptors-immanuel-quickley-miss-rest-first-round-series-vs-cavs-aggravating-strained-hamstring",
-          "published": "Sat, 25 Apr 2026 08:57:32 EST"
+          "title": "WNBA teams to wear retro jerseys to celebrate league\u2019s 30th anniversary",
+          "source": "Yahoo Entertainment",
+          "link": "https://sports.yahoo.com/articles/wnba-teams-wear-retro-jerseys-234619000.html",
+          "published": "2026-04-24T23:46:19Z"
+        },
+        {
+          "title": "Steve Ballmer blasts founder he backed who pleaded guilty to fraud: 'I was duped and feel silly' | TechCrunch",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/04/24/steve-ballmer-blasts-founder-he-backed-who-pleaded-guilty-to-fraud-i-was-duped-and-feel-silly/",
+          "published": "2026-04-24T23:33:52Z"
+        },
+        {
+          "title": "Cameron Boozer declares for 2026 NBA Draft after freshman season with Duke basketball",
+          "source": "The Fayetteville Observer",
+          "link": "https://www.fayobserver.com/story/sports/college/basketball/2026/04/24/cameron-boozer-declares-for-2026-nba-draft-after-one-season-at-duke/89418710007/",
+          "published": "2026-04-24T23:32:34Z"
+        }
+      ]
+    },
+    {
+      "game": "Cleveland Cavaliers @ Toronto Raptors",
+      "home_team": "Toronto Raptors",
+      "away_team": "Cleveland Cavaliers",
+      "home_abbr": "TOR",
+      "away_abbr": "CLE",
+      "home_ml": "+142",
+      "away_ml": "-170",
+      "home_ml_raw": 142,
+      "away_ml_raw": -170,
+      "home_prob": 39.6,
+      "away_prob": 60.4,
+      "spread": "TOR +3.5",
+      "favorite": "Cleveland Cavaliers",
+      "pick": "Cleveland Cavaliers",
+      "pick_abbr": "CLE",
+      "moneyline": "-170",
+      "win_probability": 60.4,
+      "confidence": "MEDIUM",
+      "confidence_stars": "\u2605\u2605\u2606",
+      "commence_time": "2026-04-26T17:10:00Z",
+      "line_movement": {
+        "home": {
+          "direction": "longer",
+          "points_moved": 2,
+          "steam": false,
+          "label": "\ud83d\udd34 +142 \u2190 +140",
+          "old_ml": "+140",
+          "new_ml": "+142"
+        },
+        "away": {
+          "direction": "shorter",
+          "points_moved": 4,
+          "steam": false,
+          "label": "\ud83d\udfe2 -170 \u2190 -166",
+          "old_ml": "-166",
+          "new_ml": "-170"
+        },
+        "pick": {
+          "direction": "shorter",
+          "points_moved": 4,
+          "steam": false,
+          "label": "\ud83d\udfe2 -170 \u2190 -166",
+          "old_ml": "-166",
+          "new_ml": "-170"
+        },
+        "snapshot_time": "April 25, 2026 at 02:09 PM UTC"
+      },
+      "fatigue": {
+        "home": {
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
+          "last_game": "Apr 23",
+          "days_rest": 2,
+          "games_last_4d": 1,
+          "travel_miles": 0,
+          "travel_desc": "",
+          "source": "ESPN Scoreboard API"
+        },
+        "away": {
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
+          "last_game": "Apr 23",
+          "days_rest": 2,
+          "games_last_4d": 1,
+          "travel_miles": 189,
+          "travel_desc": "189 mi road trip",
+          "source": "ESPN Scoreboard API"
+        }
+      },
+      "edge_factors": [
+        "\ud83d\udcca 20.8pt probability edge"
+      ],
+      "injury_notes": "No key injuries.",
+      "sharp": {
+        "away_t": null,
+        "home_t": null,
+        "source": null,
+        "sharp_signal": null,
+        "sharp_label": "Pending \u2014 check closer to tip-off",
+        "rlm": false
+      },
+      "form": {
+        "home": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        },
+        "away": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        }
+      },
+      "h2h": {
+        "total_meetings": 0,
+        "home_wins": 0,
+        "away_wins": 0,
+        "meetings": [],
+        "source": "\u2014"
+      },
+      "briefing": {
+        "trend": "Cleveland Cavaliers hold a 60.4% edge.",
+        "matchup": "Both rosters appear healthy \u2014 clean line.",
+        "steam": "Line moved -166\u2192-170 (4pts). Pending \u2014 check closer to tip-off",
+        "injury_notes": "No key injuries."
+      },
+      "live": {
+        "status": "pre",
+        "status_detail": "Upcoming",
+        "period": 0,
+        "clock": "",
+        "home_score": 0,
+        "away_score": 0,
+        "spread_alert": null
+      },
+      "news": [
+        {
+          "title": "WNBA teams to wear retro jerseys to celebrate league\u2019s 30th anniversary",
+          "source": "Yahoo Entertainment",
+          "link": "https://sports.yahoo.com/articles/wnba-teams-wear-retro-jerseys-234619000.html",
+          "published": "2026-04-24T23:46:19Z"
+        },
+        {
+          "title": "Steve Ballmer blasts founder he backed who pleaded guilty to fraud: 'I was duped and feel silly' | TechCrunch",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/04/24/steve-ballmer-blasts-founder-he-backed-who-pleaded-guilty-to-fraud-i-was-duped-and-feel-silly/",
+          "published": "2026-04-24T23:33:52Z"
+        },
+        {
+          "title": "Cameron Boozer declares for 2026 NBA Draft after freshman season with Duke basketball",
+          "source": "The Fayetteville Observer",
+          "link": "https://www.fayobserver.com/story/sports/college/basketball/2026/04/24/cameron-boozer-declares-for-2026-nba-draft-after-one-season-at-duke/89418710007/",
+          "published": "2026-04-24T23:32:34Z"
         }
       ]
     },
@@ -709,47 +443,47 @@
       "away_team": "San Antonio Spurs",
       "home_abbr": "POR",
       "away_abbr": "SAS",
-      "home_ml": "+160",
-      "away_ml": "-192",
-      "home_ml_raw": 160,
-      "away_ml_raw": -192,
-      "home_prob": 36.9,
-      "away_prob": 63.1,
+      "home_ml": "+180",
+      "away_ml": "-218",
+      "home_ml_raw": 180,
+      "away_ml_raw": -218,
+      "home_prob": 34.3,
+      "away_prob": 65.7,
       "spread": "POR +5.5",
       "favorite": "San Antonio Spurs",
       "pick": "San Antonio Spurs",
       "pick_abbr": "SAS",
-      "moneyline": "-192",
-      "win_probability": 63.1,
+      "moneyline": "-218",
+      "win_probability": 65.7,
       "confidence": "MEDIUM",
       "confidence_stars": "\u2605\u2605\u2606",
       "commence_time": "2026-04-26T19:40:00Z",
       "line_movement": {
         "home": {
-          "direction": "shorter",
-          "points_moved": 4,
-          "steam": false,
-          "label": "\ud83d\udfe2 +160 \u2190 +164",
-          "old_ml": "+164",
-          "new_ml": "+160"
+          "direction": "longer",
+          "points_moved": 20,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM +180 \u2190 +160",
+          "old_ml": "+160",
+          "new_ml": "+180"
         },
         "away": {
-          "direction": "longer",
-          "points_moved": 6,
-          "steam": false,
-          "label": "\ud83d\udd34 -192 \u2190 -198",
-          "old_ml": "-198",
-          "new_ml": "-192"
+          "direction": "shorter",
+          "points_moved": 26,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -218 \u2190 -192",
+          "old_ml": "-192",
+          "new_ml": "-218"
         },
         "pick": {
-          "direction": "longer",
-          "points_moved": 6,
-          "steam": false,
-          "label": "\ud83d\udd34 -192 \u2190 -198",
-          "old_ml": "-198",
-          "new_ml": "-192"
+          "direction": "shorter",
+          "points_moved": 26,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -218 \u2190 -192",
+          "old_ml": "-192",
+          "new_ml": "-218"
         },
-        "snapshot_time": "April 25, 2026 at 06:08 AM UTC"
+        "snapshot_time": "April 25, 2026 at 02:09 PM UTC"
       },
       "fatigue": {
         "home": {
@@ -776,9 +510,10 @@
         }
       },
       "edge_factors": [
+        "\ud83d\udd25 Sharp steam detected",
         "\ud83d\udca4 POR fatigued (B2B) \u2014 source: ESPN"
       ],
-      "injury_notes": "Victor Wembanyama (F)",
+      "injury_notes": "No key injuries.",
       "sharp": {
         "away_t": null,
         "home_t": null,
@@ -815,8 +550,8 @@
       "briefing": {
         "trend": "POR on Back-to-Back \u26a0\ufe0f per ESPN schedule data. SAS on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line moved -198\u2192-192 (6pts). Pending \u2014 check closer to tip-off",
-        "injury_notes": "Victor Wembanyama (F)"
+        "steam": "Line steamed from -192 to -218 (26pt move) \u2014 heavy professional action on San Antonio Spurs.",
+        "injury_notes": "No key injuries."
       },
       "live": {
         "status": "pre",
@@ -829,16 +564,22 @@
       },
       "news": [
         {
-          "title": "Harper stars off bench to rally Wemby-less Spurs",
-          "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/nba/story/_/id/48587612/harper-scores-27-bench-rallies-wemby-less-spurs-game-3",
-          "published": "Sat, 25 Apr 2026 08:57:32 EST"
+          "title": "WNBA teams to wear retro jerseys to celebrate league\u2019s 30th anniversary",
+          "source": "Yahoo Entertainment",
+          "link": "https://sports.yahoo.com/articles/wnba-teams-wear-retro-jerseys-234619000.html",
+          "published": "2026-04-24T23:46:19Z"
         },
         {
-          "title": "West playoff takeaways: Spurs beat Trail Blazers without Wemby; Lakers win in OT",
-          "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/nba/story/_/id/48506452/2026-nba-playoffs-western-conference-round-one-takeaways",
-          "published": "Fri, 24 Apr 2026 23:27:06 EST"
+          "title": "Steve Ballmer blasts founder he backed who pleaded guilty to fraud: 'I was duped and feel silly' | TechCrunch",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/04/24/steve-ballmer-blasts-founder-he-backed-who-pleaded-guilty-to-fraud-i-was-duped-and-feel-silly/",
+          "published": "2026-04-24T23:33:52Z"
+        },
+        {
+          "title": "Cameron Boozer declares for 2026 NBA Draft after freshman season with Duke basketball",
+          "source": "The Fayetteville Observer",
+          "link": "https://www.fayobserver.com/story/sports/college/basketball/2026/04/24/cameron-boozer-declares-for-2026-nba-draft-after-one-season-at-duke/89418710007/",
+          "published": "2026-04-24T23:32:34Z"
         }
       ]
     },
@@ -848,47 +589,47 @@
       "away_team": "Boston Celtics",
       "home_abbr": "PHI",
       "away_abbr": "BOS",
-      "home_ml": "+220",
-      "away_ml": "-270",
-      "home_ml_raw": 220,
-      "away_ml_raw": -270,
-      "home_prob": 30.0,
-      "away_prob": 70.0,
+      "home_ml": "+235",
+      "away_ml": "-290",
+      "home_ml_raw": 235,
+      "away_ml_raw": -290,
+      "home_prob": 28.6,
+      "away_prob": 71.4,
       "spread": "PHI +7.5",
       "favorite": "Boston Celtics",
       "pick": "Boston Celtics",
       "pick_abbr": "BOS",
-      "moneyline": "-270",
-      "win_probability": 70.0,
+      "moneyline": "-290",
+      "win_probability": 71.4,
       "confidence": "MEDIUM",
       "confidence_stars": "\u2605\u2605\u2606",
       "commence_time": "2026-04-26T23:10:00Z",
       "line_movement": {
         "home": {
-          "direction": "shorter",
-          "points_moved": 10,
+          "direction": "longer",
+          "points_moved": 15,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM +220 \u2190 +230",
-          "old_ml": "+230",
-          "new_ml": "+220"
+          "label": "\ud83d\udd25 STEAM +235 \u2190 +220",
+          "old_ml": "+220",
+          "new_ml": "+235"
         },
         "away": {
-          "direction": "longer",
-          "points_moved": 15,
+          "direction": "shorter",
+          "points_moved": 20,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM -270 \u2190 -285",
-          "old_ml": "-285",
-          "new_ml": "-270"
+          "label": "\ud83d\udd25 STEAM -290 \u2190 -270",
+          "old_ml": "-270",
+          "new_ml": "-290"
         },
         "pick": {
-          "direction": "longer",
-          "points_moved": 15,
+          "direction": "shorter",
+          "points_moved": 20,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM -270 \u2190 -285",
-          "old_ml": "-285",
-          "new_ml": "-270"
+          "label": "\ud83d\udd25 STEAM -290 \u2190 -270",
+          "old_ml": "-270",
+          "new_ml": "-290"
         },
-        "snapshot_time": "April 25, 2026 at 06:08 AM UTC"
+        "snapshot_time": "April 25, 2026 at 02:09 PM UTC"
       },
       "fatigue": {
         "home": {
@@ -955,7 +696,7 @@
       "briefing": {
         "trend": "PHI on Back-to-Back \u26a0\ufe0f per ESPN schedule data. BOS on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -285 to -270 (15pt move) \u2014 heavy professional action on Boston Celtics.",
+        "steam": "Line steamed from -270 to -290 (20pt move) \u2014 heavy professional action on Boston Celtics.",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -969,10 +710,22 @@
       },
       "news": [
         {
-          "title": "Tatum, Brown come up big in Celts' 'fun' G3 win",
-          "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/nba/story/_/id/48586481/jayson-tatum-jaylen-brown-come-big-celtics-fun-game-3-win",
-          "published": "Sat, 25 Apr 2026 08:57:32 EST"
+          "title": "WNBA teams to wear retro jerseys to celebrate league\u2019s 30th anniversary",
+          "source": "Yahoo Entertainment",
+          "link": "https://sports.yahoo.com/articles/wnba-teams-wear-retro-jerseys-234619000.html",
+          "published": "2026-04-24T23:46:19Z"
+        },
+        {
+          "title": "Steve Ballmer blasts founder he backed who pleaded guilty to fraud: 'I was duped and feel silly' | TechCrunch",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/04/24/steve-ballmer-blasts-founder-he-backed-who-pleaded-guilty-to-fraud-i-was-duped-and-feel-silly/",
+          "published": "2026-04-24T23:33:52Z"
+        },
+        {
+          "title": "Cameron Boozer declares for 2026 NBA Draft after freshman season with Duke basketball",
+          "source": "The Fayetteville Observer",
+          "link": "https://www.fayobserver.com/story/sports/college/basketball/2026/04/24/cameron-boozer-declares-for-2026-nba-draft-after-one-season-at-duke/89418710007/",
+          "published": "2026-04-24T23:32:34Z"
         }
       ]
     },
@@ -999,30 +752,30 @@
       "commence_time": "2026-04-27T01:40:00Z",
       "line_movement": {
         "home": {
-          "direction": "longer",
-          "points_moved": 7,
+          "direction": "none",
+          "points_moved": 0,
           "steam": false,
-          "label": "\ud83d\udd34 -185 \u2190 -192",
-          "old_ml": "-192",
+          "label": "No movement",
+          "old_ml": "-185",
           "new_ml": "-185"
         },
         "away": {
-          "direction": "shorter",
-          "points_moved": 6,
+          "direction": "none",
+          "points_moved": 0,
           "steam": false,
-          "label": "\ud83d\udfe2 +154 \u2190 +160",
-          "old_ml": "+160",
+          "label": "No movement",
+          "old_ml": "+154",
           "new_ml": "+154"
         },
         "pick": {
-          "direction": "longer",
-          "points_moved": 7,
+          "direction": "none",
+          "points_moved": 0,
           "steam": false,
-          "label": "\ud83d\udd34 -185 \u2190 -192",
-          "old_ml": "-192",
+          "label": "No movement",
+          "old_ml": "-185",
           "new_ml": "-185"
         },
-        "snapshot_time": "April 25, 2026 at 06:08 AM UTC"
+        "snapshot_time": "April 25, 2026 at 02:09 PM UTC"
       },
       "fatigue": {
         "home": {
@@ -1051,7 +804,7 @@
       "edge_factors": [
         "\ud83d\udca4 LAL fatigued (B2B) \u2014 source: ESPN"
       ],
-      "injury_notes": "Kevin Durant (F)",
+      "injury_notes": "No key injuries.",
       "sharp": {
         "away_t": null,
         "home_t": null,
@@ -1088,8 +841,8 @@
       "briefing": {
         "trend": "HOU on Back-to-Back \u26a0\ufe0f per ESPN schedule data. LAL on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line moved -192\u2192-185 (7pts). Pending \u2014 check closer to tip-off",
-        "injury_notes": "Kevin Durant (F)"
+        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "injury_notes": "No key injuries."
       },
       "live": {
         "status": "pre",
@@ -1102,22 +855,312 @@
       },
       "news": [
         {
-          "title": "Lakers' last-minute magic keys OT win for 3-0 lead",
-          "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/nba/story/_/id/48586084/lebron-james-lakers-storm-back-late-win-ot-commanding-series-lead-vs-rockets",
-          "published": "Sat, 25 Apr 2026 08:57:32 EST"
+          "title": "WNBA teams to wear retro jerseys to celebrate league\u2019s 30th anniversary",
+          "source": "Yahoo Entertainment",
+          "link": "https://sports.yahoo.com/articles/wnba-teams-wear-retro-jerseys-234619000.html",
+          "published": "2026-04-24T23:46:19Z"
         },
         {
-          "title": "Udoka calls out Rockets after collapse: 'Grow up'",
-          "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/nba/story/_/id/48587123/ime-udoka-calls-rockets-game-3-collapse-vs-lakers-youth-scared-moment",
-          "published": "Sat, 25 Apr 2026 09:37:39 EST"
+          "title": "Steve Ballmer blasts founder he backed who pleaded guilty to fraud: 'I was duped and feel silly' | TechCrunch",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/04/24/steve-ballmer-blasts-founder-he-backed-who-pleaded-guilty-to-fraud-i-was-duped-and-feel-silly/",
+          "published": "2026-04-24T23:33:52Z"
         },
         {
-          "title": "West playoff takeaways: Spurs beat Trail Blazers without Wemby; Lakers win in OT",
-          "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/nba/story/_/id/48506452/2026-nba-playoffs-western-conference-round-one-takeaways",
-          "published": "Fri, 24 Apr 2026 23:27:06 EST"
+          "title": "Cameron Boozer declares for 2026 NBA Draft after freshman season with Duke basketball",
+          "source": "The Fayetteville Observer",
+          "link": "https://www.fayobserver.com/story/sports/college/basketball/2026/04/24/cameron-boozer-declares-for-2026-nba-draft-after-one-season-at-duke/89418710007/",
+          "published": "2026-04-24T23:32:34Z"
+        }
+      ]
+    },
+    {
+      "game": "Detroit Pistons @ Orlando Magic",
+      "home_team": "Orlando Magic",
+      "away_team": "Detroit Pistons",
+      "home_abbr": "ORL",
+      "away_abbr": "DET",
+      "home_ml": "+130",
+      "away_ml": "-155",
+      "home_ml_raw": 130,
+      "away_ml_raw": -155,
+      "home_prob": 41.7,
+      "away_prob": 58.3,
+      "spread": "ORL +3.5",
+      "favorite": "Detroit Pistons",
+      "pick": "Detroit Pistons",
+      "pick_abbr": "DET",
+      "moneyline": "-155",
+      "win_probability": 58.3,
+      "confidence": "MEDIUM",
+      "confidence_stars": "\u2605\u2605\u2606",
+      "commence_time": "2026-04-28T00:10:00Z",
+      "line_movement": {
+        "home": {
+          "direction": "longer",
+          "points_moved": 16,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM +130 \u2190 +114",
+          "old_ml": "+114",
+          "new_ml": "+130"
+        },
+        "away": {
+          "direction": "shorter",
+          "points_moved": 20,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -155 \u2190 -135",
+          "old_ml": "-135",
+          "new_ml": "-155"
+        },
+        "pick": {
+          "direction": "shorter",
+          "points_moved": 20,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -155 \u2190 -135",
+          "old_ml": "-135",
+          "new_ml": "-155"
+        },
+        "snapshot_time": "April 25, 2026 at 02:09 PM UTC"
+      },
+      "fatigue": {
+        "home": {
+          "status": "RESTED",
+          "label": "2 days rest \u2705",
+          "battery": 88,
+          "last_game": "Apr 22",
+          "days_rest": 3,
+          "games_last_4d": 1,
+          "travel_miles": 958,
+          "travel_desc": "958 mi road trip",
+          "source": "ESPN Scoreboard API"
+        },
+        "away": {
+          "status": "RESTED",
+          "label": "2 days rest \u2705",
+          "battery": 88,
+          "last_game": "Apr 22",
+          "days_rest": 3,
+          "games_last_4d": 1,
+          "travel_miles": 0,
+          "travel_desc": "",
+          "source": "ESPN Scoreboard API"
+        }
+      },
+      "edge_factors": [
+        "\ud83d\udd25 Sharp steam detected"
+      ],
+      "injury_notes": "No key injuries.",
+      "sharp": {
+        "away_t": null,
+        "home_t": null,
+        "source": null,
+        "sharp_signal": null,
+        "sharp_label": "Pending \u2014 check closer to tip-off",
+        "rlm": false
+      },
+      "form": {
+        "home": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        },
+        "away": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        }
+      },
+      "h2h": {
+        "total_meetings": 0,
+        "home_wins": 0,
+        "away_wins": 0,
+        "meetings": [],
+        "source": "\u2014"
+      },
+      "briefing": {
+        "trend": "Detroit Pistons hold a 58.3% edge.",
+        "matchup": "Both rosters appear healthy \u2014 clean line.",
+        "steam": "Line steamed from -135 to -155 (20pt move) \u2014 heavy professional action on Detroit Pistons.",
+        "injury_notes": "No key injuries."
+      },
+      "live": {
+        "status": "pre",
+        "status_detail": "Upcoming",
+        "period": 0,
+        "clock": "",
+        "home_score": 0,
+        "away_score": 0,
+        "spread_alert": null
+      },
+      "news": [
+        {
+          "title": "WNBA teams to wear retro jerseys to celebrate league\u2019s 30th anniversary",
+          "source": "Yahoo Entertainment",
+          "link": "https://sports.yahoo.com/articles/wnba-teams-wear-retro-jerseys-234619000.html",
+          "published": "2026-04-24T23:46:19Z"
+        },
+        {
+          "title": "Steve Ballmer blasts founder he backed who pleaded guilty to fraud: 'I was duped and feel silly' | TechCrunch",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/04/24/steve-ballmer-blasts-founder-he-backed-who-pleaded-guilty-to-fraud-i-was-duped-and-feel-silly/",
+          "published": "2026-04-24T23:33:52Z"
+        },
+        {
+          "title": "Cameron Boozer declares for 2026 NBA Draft after freshman season with Duke basketball",
+          "source": "The Fayetteville Observer",
+          "link": "https://www.fayobserver.com/story/sports/college/basketball/2026/04/24/cameron-boozer-declares-for-2026-nba-draft-after-one-season-at-duke/89418710007/",
+          "published": "2026-04-24T23:32:34Z"
+        }
+      ]
+    },
+    {
+      "game": "Oklahoma City Thunder @ Phoenix Suns",
+      "home_team": "Phoenix Suns",
+      "away_team": "Oklahoma City Thunder",
+      "home_abbr": "PHX",
+      "away_abbr": "OKC",
+      "home_ml": "+425",
+      "away_ml": "-575",
+      "home_ml_raw": 425,
+      "away_ml_raw": -575,
+      "home_prob": 18.3,
+      "away_prob": 81.7,
+      "spread": "PHX +10.5",
+      "favorite": "Oklahoma City Thunder",
+      "pick": "Oklahoma City Thunder",
+      "pick_abbr": "OKC",
+      "moneyline": "-575",
+      "win_probability": 81.7,
+      "confidence": "HIGH",
+      "confidence_stars": "\u2605\u2605\u2605",
+      "commence_time": "2026-04-28T01:40:00Z",
+      "line_movement": {
+        "home": {
+          "direction": "longer",
+          "points_moved": 115,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM +425 \u2190 +310",
+          "old_ml": "+310",
+          "new_ml": "+425"
+        },
+        "away": {
+          "direction": "shorter",
+          "points_moved": 180,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -575 \u2190 -395",
+          "old_ml": "-395",
+          "new_ml": "-575"
+        },
+        "pick": {
+          "direction": "shorter",
+          "points_moved": 180,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -575 \u2190 -395",
+          "old_ml": "-395",
+          "new_ml": "-575"
+        },
+        "snapshot_time": "April 25, 2026 at 02:09 PM UTC"
+      },
+      "fatigue": {
+        "home": {
+          "status": "RESTED",
+          "label": "2 days rest \u2705",
+          "battery": 88,
+          "last_game": "Apr 22",
+          "days_rest": 3,
+          "games_last_4d": 1,
+          "travel_miles": 840,
+          "travel_desc": "840 mi road trip",
+          "source": "ESPN Scoreboard API"
+        },
+        "away": {
+          "status": "RESTED",
+          "label": "2 days rest \u2705",
+          "battery": 88,
+          "last_game": "Apr 22",
+          "days_rest": 3,
+          "games_last_4d": 1,
+          "travel_miles": 0,
+          "travel_desc": "",
+          "source": "ESPN Scoreboard API"
+        }
+      },
+      "edge_factors": [
+        "\ud83d\udd25 Sharp steam detected"
+      ],
+      "injury_notes": "No key injuries.",
+      "sharp": {
+        "away_t": null,
+        "home_t": null,
+        "source": null,
+        "sharp_signal": null,
+        "sharp_label": "Pending \u2014 check closer to tip-off",
+        "rlm": false
+      },
+      "form": {
+        "home": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        },
+        "away": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        }
+      },
+      "h2h": {
+        "total_meetings": 0,
+        "home_wins": 0,
+        "away_wins": 0,
+        "meetings": [],
+        "source": "\u2014"
+      },
+      "briefing": {
+        "trend": "Oklahoma City Thunder hold a 81.7% edge.",
+        "matchup": "Both rosters appear healthy \u2014 clean line.",
+        "steam": "Line steamed from -395 to -575 (180pt move) \u2014 heavy professional action on Oklahoma City Thunder.",
+        "injury_notes": "No key injuries."
+      },
+      "live": {
+        "status": "pre",
+        "status_detail": "Upcoming",
+        "period": 0,
+        "clock": "",
+        "home_score": 0,
+        "away_score": 0,
+        "spread_alert": null
+      },
+      "news": [
+        {
+          "title": "WNBA teams to wear retro jerseys to celebrate league\u2019s 30th anniversary",
+          "source": "Yahoo Entertainment",
+          "link": "https://sports.yahoo.com/articles/wnba-teams-wear-retro-jerseys-234619000.html",
+          "published": "2026-04-24T23:46:19Z"
+        },
+        {
+          "title": "Steve Ballmer blasts founder he backed who pleaded guilty to fraud: 'I was duped and feel silly' | TechCrunch",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/04/24/steve-ballmer-blasts-founder-he-backed-who-pleaded-guilty-to-fraud-i-was-duped-and-feel-silly/",
+          "published": "2026-04-24T23:33:52Z"
+        },
+        {
+          "title": "Cameron Boozer declares for 2026 NBA Draft after freshman season with Duke basketball",
+          "source": "The Fayetteville Observer",
+          "link": "https://www.fayobserver.com/story/sports/college/basketball/2026/04/24/cameron-boozer-declares-for-2026-nba-draft-after-one-season-at-duke/89418710007/",
+          "published": "2026-04-24T23:32:34Z"
         }
       ]
     }
@@ -1132,12 +1175,12 @@
       "profit": -119.31
     },
     "HIGH": {
-      "wins": 40,
+      "wins": 41,
       "losses": 5,
-      "total": 45,
-      "win_pct": 88.9,
-      "roi": -1.1,
-      "profit": -47.28
+      "total": 46,
+      "win_pct": 89.1,
+      "roi": -0.6,
+      "profit": -25.3
     },
     "MEDIUM": {
       "wins": 26,
@@ -1148,20 +1191,20 @@
       "profit": 82.78
     },
     "overall_7d": {
-      "wins": 2,
+      "wins": 3,
       "losses": 3,
-      "total": 5,
-      "win_pct": 40.0,
-      "roi": -37.1,
-      "profit": -185.52
+      "total": 6,
+      "win_pct": 50.0,
+      "roi": -27.3,
+      "profit": -163.54
     },
     "overall_30d": {
-      "wins": 88,
+      "wins": 89,
       "losses": 37,
-      "total": 125,
-      "win_pct": 70.4,
-      "roi": -0.7,
-      "profit": -83.81
+      "total": 126,
+      "win_pct": 70.6,
+      "roi": -0.5,
+      "profit": -61.83
     }
   }
 }
