@@ -1,280 +1,7 @@
 {
-  "last_updated": "April 27, 2026 at 12:01 AM UTC",
+  "last_updated": "April 27, 2026 at 07:58 AM UTC",
   "total_games": 8,
   "games": [
-    {
-      "game": "Boston Celtics @ Philadelphia 76ers",
-      "home_team": "Philadelphia 76ers",
-      "away_team": "Boston Celtics",
-      "home_abbr": "PHI",
-      "away_abbr": "BOS",
-      "home_ml": "+850",
-      "away_ml": "-1750",
-      "home_ml_raw": 850,
-      "away_ml_raw": -1750,
-      "home_prob": 10.0,
-      "away_prob": 90.0,
-      "spread": "PHI +13.5",
-      "favorite": "Boston Celtics",
-      "pick": "Boston Celtics",
-      "pick_abbr": "BOS",
-      "moneyline": "-1750",
-      "win_probability": 90.0,
-      "confidence": "HIGH",
-      "confidence_stars": "\u2605\u2605\u2605",
-      "commence_time": "2026-04-26T23:07:00Z",
-      "line_movement": {
-        "home": {
-          "direction": "longer",
-          "points_moved": 615,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM +850 \u2190 +235",
-          "old_ml": "+235",
-          "new_ml": "+850"
-        },
-        "away": {
-          "direction": "shorter",
-          "points_moved": 1460,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -1750 \u2190 -290",
-          "old_ml": "-290",
-          "new_ml": "-1750"
-        },
-        "pick": {
-          "direction": "shorter",
-          "points_moved": 1460,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -1750 \u2190 -290",
-          "old_ml": "-290",
-          "new_ml": "-1750"
-        },
-        "snapshot_time": "April 26, 2026 at 02:11 PM UTC"
-      },
-      "fatigue": {
-        "home": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
-          "last_game": "Apr 26",
-          "days_rest": 1,
-          "games_last_4d": 2,
-          "travel_miles": 0,
-          "travel_desc": "",
-          "source": "ESPN Scoreboard API"
-        },
-        "away": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
-          "last_game": "Apr 26",
-          "days_rest": 1,
-          "games_last_4d": 2,
-          "travel_miles": 273,
-          "travel_desc": "273 mi road trip",
-          "source": "ESPN Scoreboard API"
-        }
-      },
-      "edge_factors": [
-        "\ud83d\udd25 Sharp steam detected",
-        "\ud83d\udca4 PHI fatigued (B2B) \u2014 source: ESPN"
-      ],
-      "injury_notes": "No key injuries.",
-      "sharp": {
-        "away_t": null,
-        "home_t": null,
-        "source": null,
-        "sharp_signal": null,
-        "sharp_label": "Pending \u2014 check closer to tip-off",
-        "rlm": false
-      },
-      "form": {
-        "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        },
-        "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        }
-      },
-      "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
-      },
-      "briefing": {
-        "trend": "PHI on Back-to-Back \u26a0\ufe0f per ESPN schedule data. BOS on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -290 to -1750 (1460pt move) \u2014 heavy professional action on Boston Celtics.",
-        "injury_notes": "No key injuries."
-      },
-      "live": {
-        "status": "pre",
-        "status_detail": "Upcoming",
-        "period": 0,
-        "clock": "",
-        "home_score": 0,
-        "away_score": 0,
-        "spread_alert": null
-      },
-      "news": [
-        {
-          "title": "Follow live: 76ers look to even series vs. Celtics in Game 4",
-          "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/nba/game/_/gameId/401869406/celtics-76ers",
-          "published": "Sun, 26 Apr 2026 19:38:37 EST"
-        },
-        {
-          "title": "Embiid back in lineup for Game 4 vs. Celtics",
-          "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/nba/story/_/id/48603842/76ers-joel-embiid-back-lineup-game-4-vs-celtics",
-          "published": "Sun, 26 Apr 2026 19:19:27 EST"
-        }
-      ]
-    },
-    {
-      "game": "Los Angeles Lakers @ Houston Rockets",
-      "home_team": "Houston Rockets",
-      "away_team": "Los Angeles Lakers",
-      "home_abbr": "HOU",
-      "away_abbr": "LAL",
-      "home_ml": "-142",
-      "away_ml": "+120",
-      "home_ml_raw": -142,
-      "away_ml_raw": 120,
-      "home_prob": 56.3,
-      "away_prob": 43.7,
-      "spread": "HOU -2.5",
-      "favorite": "Houston Rockets",
-      "pick": "Houston Rockets",
-      "pick_abbr": "HOU",
-      "moneyline": "-142",
-      "win_probability": 56.3,
-      "confidence": "LOW",
-      "confidence_stars": "\u2605\u2606\u2606",
-      "commence_time": "2026-04-27T01:40:00Z",
-      "line_movement": {
-        "home": {
-          "direction": "longer",
-          "points_moved": 43,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -142 \u2190 -185",
-          "old_ml": "-185",
-          "new_ml": "-142"
-        },
-        "away": {
-          "direction": "shorter",
-          "points_moved": 34,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM +120 \u2190 +154",
-          "old_ml": "+154",
-          "new_ml": "+120"
-        },
-        "pick": {
-          "direction": "longer",
-          "points_moved": 43,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -142 \u2190 -185",
-          "old_ml": "-185",
-          "new_ml": "-142"
-        },
-        "snapshot_time": "April 26, 2026 at 02:11 PM UTC"
-      },
-      "fatigue": {
-        "home": {
-          "status": "RESTED",
-          "label": "2 days rest \u2705",
-          "battery": 88,
-          "last_game": "Apr 24",
-          "days_rest": 3,
-          "games_last_4d": 1,
-          "travel_miles": 0,
-          "travel_desc": "",
-          "source": "ESPN Scoreboard API"
-        },
-        "away": {
-          "status": "RESTED",
-          "label": "2 days rest \u2705",
-          "battery": 88,
-          "last_game": "Apr 24",
-          "days_rest": 3,
-          "games_last_4d": 1,
-          "travel_miles": 1373,
-          "travel_desc": "1,373 mi road trip",
-          "source": "ESPN Scoreboard API"
-        }
-      },
-      "edge_factors": [
-        "\ud83d\udd25 Sharp steam detected"
-      ],
-      "injury_notes": "No key injuries.",
-      "sharp": {
-        "away_t": null,
-        "home_t": null,
-        "source": null,
-        "sharp_signal": null,
-        "sharp_label": "Pending \u2014 check closer to tip-off",
-        "rlm": false
-      },
-      "form": {
-        "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        },
-        "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        }
-      },
-      "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
-      },
-      "briefing": {
-        "trend": "Houston Rockets hold a 56.3% edge.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -185 to -142 (43pt move) \u2014 heavy professional action on Houston Rockets.",
-        "injury_notes": "No key injuries."
-      },
-      "live": {
-        "status": "pre",
-        "status_detail": "Upcoming",
-        "period": 0,
-        "clock": "",
-        "home_score": 0,
-        "away_score": 0,
-        "spread_alert": null
-      },
-      "news": [
-        {
-          "title": "Sources: Durant (ankle) expected to miss Game 4",
-          "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/nba/story/_/id/48602448/rockets-expected-durant-game-4",
-          "published": "Sun, 26 Apr 2026 19:19:27 EST"
-        }
-      ]
-    },
     {
       "game": "Detroit Pistons @ Orlando Magic",
       "home_team": "Orlando Magic",
@@ -298,30 +25,30 @@
       "commence_time": "2026-04-28T00:10:00Z",
       "line_movement": {
         "home": {
-          "direction": "longer",
-          "points_moved": 4,
+          "direction": "none",
+          "points_moved": 0,
           "steam": false,
-          "label": "\ud83d\udd34 +124 \u2190 +120",
-          "old_ml": "+120",
+          "label": "No movement",
+          "old_ml": "+124",
           "new_ml": "+124"
         },
         "away": {
-          "direction": "shorter",
-          "points_moved": 6,
+          "direction": "none",
+          "points_moved": 0,
           "steam": false,
-          "label": "\ud83d\udfe2 -148 \u2190 -142",
-          "old_ml": "-142",
+          "label": "No movement",
+          "old_ml": "-148",
           "new_ml": "-148"
         },
         "pick": {
-          "direction": "shorter",
-          "points_moved": 6,
+          "direction": "none",
+          "points_moved": 0,
           "steam": false,
-          "label": "\ud83d\udfe2 -148 \u2190 -142",
-          "old_ml": "-142",
+          "label": "No movement",
+          "old_ml": "-148",
           "new_ml": "-148"
         },
-        "snapshot_time": "April 26, 2026 at 02:11 PM UTC"
+        "snapshot_time": "April 27, 2026 at 12:01 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -387,7 +114,7 @@
       "briefing": {
         "trend": "Detroit Pistons hold a 57.2% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line moved -142\u2192-148 (6pts). Pending \u2014 check closer to tip-off",
+        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "Kevin Huerter (G)"
       },
       "live": {
@@ -400,12 +127,6 @@
         "spread_alert": null
       },
       "news": [
-        {
-          "title": "'Like Magic': KAT's triple-double keys Game 4 win",
-          "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/nba/story/_/id/48595775/karl-anthony-towns-triple-double-helps-knicks-even-series",
-          "published": "Sun, 26 Apr 2026 19:19:27 EST"
-        },
         {
           "title": "How a trade 19 years ago is *still* helping the Oklahoma City Thunder and their title hopes",
           "source": "www.espn.com - NBA",
@@ -466,7 +187,7 @@
           "old_ml": "-500",
           "new_ml": "-500"
         },
-        "snapshot_time": "April 26, 2026 at 02:11 PM UTC"
+        "snapshot_time": "April 27, 2026 at 12:01 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -495,7 +216,7 @@
       "edge_factors": [
         "\ud83d\udcca 60.0pt probability edge"
       ],
-      "injury_notes": "Jordan Goodwin (G); Isaiah Joe (G)",
+      "injury_notes": "Jordan Goodwin (G)",
       "sharp": {
         "away_t": null,
         "home_t": null,
@@ -533,7 +254,7 @@
         "trend": "Oklahoma City Thunder hold a 80.0% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
         "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
-        "injury_notes": "Jordan Goodwin (G); Isaiah Joe (G)"
+        "injury_notes": "Jordan Goodwin (G)"
       },
       "live": {
         "status": "pre",
@@ -576,30 +297,30 @@
       "commence_time": "2026-04-28T02:40:00Z",
       "line_movement": {
         "home": {
-          "direction": "shorter",
-          "points_moved": 65,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -520 \u2190 -455",
-          "old_ml": "-455",
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "No movement",
+          "old_ml": "-520",
           "new_ml": "-520"
         },
         "away": {
-          "direction": "longer",
-          "points_moved": 40,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM +390 \u2190 +350",
-          "old_ml": "+350",
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "No movement",
+          "old_ml": "+390",
           "new_ml": "+390"
         },
         "pick": {
-          "direction": "shorter",
-          "points_moved": 65,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -520 \u2190 -455",
-          "old_ml": "-455",
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "No movement",
+          "old_ml": "-520",
           "new_ml": "-520"
         },
-        "snapshot_time": "April 26, 2026 at 02:11 PM UTC"
+        "snapshot_time": "April 27, 2026 at 12:01 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -626,7 +347,7 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udd25 Sharp steam detected"
+        "\ud83d\udcca 60.8pt probability edge"
       ],
       "injury_notes": "Aaron Gordon (F)",
       "sharp": {
@@ -665,7 +386,7 @@
       "briefing": {
         "trend": "Denver Nuggets hold a 80.4% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -455 to -520 (65pt move) \u2014 heavy professional action on Denver Nuggets.",
+        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "Aaron Gordon (F)"
       },
       "live": {
@@ -682,19 +403,152 @@
           "title": "Sources: Ant avoids ligament tear, to miss time",
           "source": "www.espn.com - NBA",
           "link": "https://www.espn.com/nba/story/_/id/48600211/sources-anthony-edwards-avoids-ligament-damage-multiple-weeks",
-          "published": "Sun, 26 Apr 2026 19:19:27 EST"
+          "published": "Mon, 27 Apr 2026 02:56:13 EST"
         },
         {
-          "title": "McDaniels' late layup irks Jokic in Nuggets loss",
+          "title": "Jokic, Randle fined; no suspensions for skirmish",
           "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/nba/story/_/id/48597565/mcdaniels-jokic-clash-end-timberwolves-game-4-win",
-          "published": "Sun, 26 Apr 2026 19:19:27 EST"
+          "link": "https://www.espn.com/nba/story/_/id/48604975/jokic-randle-fined-no-suspensions-nuggets-wolves-skirmish",
+          "published": "Mon, 27 Apr 2026 02:56:13 EST"
         },
         {
           "title": "NBA Futures: Timberwolves, Nuggets see odds take a hit",
           "source": "www.espn.com - NBA",
           "link": "https://www.espn.com/espn/betting/story/_/id/45539787/2026-nba-finals-odds-mvp-2025-26-championship-betting",
           "published": "Sun, 26 Apr 2026 12:54:44 EST"
+        }
+      ]
+    },
+    {
+      "game": "Philadelphia 76ers @ Boston Celtics",
+      "home_team": "Boston Celtics",
+      "away_team": "Philadelphia 76ers",
+      "home_abbr": "BOS",
+      "away_abbr": "PHI",
+      "home_ml": "-535",
+      "away_ml": "+400",
+      "home_ml_raw": -535,
+      "away_ml_raw": 400,
+      "home_prob": 80.8,
+      "away_prob": 19.2,
+      "spread": "BOS -11.5",
+      "favorite": "Boston Celtics",
+      "pick": "Boston Celtics",
+      "pick_abbr": "BOS",
+      "moneyline": "-535",
+      "win_probability": 80.8,
+      "confidence": "HIGH",
+      "confidence_stars": "\u2605\u2605\u2605",
+      "commence_time": "2026-04-28T23:10:00Z",
+      "line_movement": {
+        "home": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "away": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "pick": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "snapshot_time": "\u2014"
+      },
+      "fatigue": {
+        "home": {
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Apr 26",
+          "days_rest": 1,
+          "games_last_4d": 2,
+          "travel_miles": 273,
+          "travel_desc": "273 mi road trip",
+          "source": "ESPN Scoreboard API"
+        },
+        "away": {
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Apr 26",
+          "days_rest": 1,
+          "games_last_4d": 2,
+          "travel_miles": 0,
+          "travel_desc": "",
+          "source": "ESPN Scoreboard API"
+        }
+      },
+      "edge_factors": [
+        "\ud83d\udca4 PHI fatigued (B2B) \u2014 source: ESPN"
+      ],
+      "injury_notes": "No key injuries.",
+      "sharp": {
+        "away_t": null,
+        "home_t": null,
+        "source": null,
+        "sharp_signal": null,
+        "sharp_label": "Pending \u2014 check closer to tip-off",
+        "rlm": false
+      },
+      "form": {
+        "home": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        },
+        "away": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        }
+      },
+      "h2h": {
+        "total_meetings": 0,
+        "home_wins": 0,
+        "away_wins": 0,
+        "meetings": [],
+        "source": "\u2014"
+      },
+      "briefing": {
+        "trend": "BOS on Back-to-Back \u26a0\ufe0f per ESPN schedule data. PHI on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "matchup": "Both rosters appear healthy \u2014 clean line.",
+        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "injury_notes": "No key injuries."
+      },
+      "live": {
+        "status": "pre",
+        "status_detail": "Upcoming",
+        "period": 0,
+        "clock": "",
+        "home_score": 0,
+        "away_score": 0,
+        "spread_alert": null
+      },
+      "news": [
+        {
+          "title": "C's brush off Embiid's return, take control of series",
+          "source": "www.espn.com - NBA",
+          "link": "https://www.espn.com/nba/story/_/id/48603842/76ers-joel-embiid-back-lineup-game-4-vs-celtics",
+          "published": "Mon, 27 Apr 2026 02:56:14 EST"
         }
       ]
     },
@@ -744,7 +598,7 @@
           "old_ml": "-265",
           "new_ml": "-265"
         },
-        "snapshot_time": "April 26, 2026 at 02:11 PM UTC"
+        "snapshot_time": "April 27, 2026 at 12:01 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -824,10 +678,22 @@
       },
       "news": [
         {
-          "title": "'Like Magic': KAT's triple-double keys Game 4 win",
-          "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/nba/story/_/id/48595775/karl-anthony-towns-triple-double-helps-knicks-even-series",
-          "published": "Sun, 26 Apr 2026 19:19:27 EST"
+          "title": "Anthony Edwards injures knee in Timberwolves\u2019 Game 4 win against Nuggets",
+          "source": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/sports/2026/4/26/anthony-edwards-injures-knee-in-timberwolves-game-4-win-against-nuggets",
+          "published": "2026-04-26T07:42:38Z"
+        },
+        {
+          "title": "Randle and the Timberwolves look to clinch series against Denver",
+          "source": "Yahoo Entertainment",
+          "link": "https://sports.yahoo.com/articles/randle-timberwolves-look-clinch-series-060251477.html",
+          "published": "2026-04-26T06:02:51Z"
+        },
+        {
+          "title": "Knicks ride Karl-Anthony Towns\u2019 rare triple-double to crucial Game 4 victory",
+          "source": "Yahoo Entertainment",
+          "link": "https://sports.yahoo.com/articles/knicks-ride-karl-anthony-towns-050723681.html",
+          "published": "2026-04-26T05:07:23Z"
         }
       ]
     },
@@ -857,27 +723,27 @@
           "direction": "none",
           "points_moved": 0,
           "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "label": "No movement",
+          "old_ml": "-600",
+          "new_ml": "-600"
         },
         "away": {
           "direction": "none",
           "points_moved": 0,
           "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "label": "No movement",
+          "old_ml": "+440",
+          "new_ml": "+440"
         },
         "pick": {
           "direction": "none",
           "points_moved": 0,
           "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "label": "No movement",
+          "old_ml": "-600",
+          "new_ml": "-600"
         },
-        "snapshot_time": "\u2014"
+        "snapshot_time": "April 27, 2026 at 12:01 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -957,16 +823,10 @@
       },
       "news": [
         {
-          "title": "Spurs overwhelm Blazers late in Wemby's return",
+          "title": "Wemby back, unhappy with concussion process",
           "source": "www.espn.com - NBA",
           "link": "https://www.espn.com/nba/story/_/id/48604109/spurs-overwhelm-blazers-late-wembanyama-return",
-          "published": "Sun, 26 Apr 2026 19:19:27 EST"
-        },
-        {
-          "title": "West playoff takeaways: How Wemby, Spurs rallied from 19 down",
-          "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/nba/story/_/id/48506452/2026-nba-playoffs-western-conference-round-one-takeaways",
-          "published": "Sun, 26 Apr 2026 18:40:00 EST"
+          "published": "Mon, 27 Apr 2026 02:56:14 EST"
         }
       ]
     },
@@ -996,27 +856,27 @@
           "direction": "none",
           "points_moved": 0,
           "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "label": "No movement",
+          "old_ml": "-410",
+          "new_ml": "-410"
         },
         "away": {
           "direction": "none",
           "points_moved": 0,
           "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "label": "No movement",
+          "old_ml": "+320",
+          "new_ml": "+320"
         },
         "pick": {
           "direction": "none",
           "points_moved": 0,
           "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "label": "No movement",
+          "old_ml": "-410",
+          "new_ml": "-410"
         },
-        "snapshot_time": "\u2014"
+        "snapshot_time": "April 27, 2026 at 12:01 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -1099,7 +959,152 @@
           "title": "Raps top Cavs despite historically cold shooting",
           "source": "www.espn.com - NBA",
           "link": "https://www.espn.com/nba/story/_/id/48603670/raptors-win-rock-fight-game-4-even-series-cavaliers",
-          "published": "Sun, 26 Apr 2026 19:19:27 EST"
+          "published": "Mon, 27 Apr 2026 02:56:14 EST"
+        }
+      ]
+    },
+    {
+      "game": "Houston Rockets @ Los Angeles Lakers",
+      "home_team": "Los Angeles Lakers",
+      "away_team": "Houston Rockets",
+      "home_abbr": "LAL",
+      "away_abbr": "HOU",
+      "home_ml": "-148",
+      "away_ml": "+124",
+      "home_ml_raw": -148,
+      "away_ml_raw": 124,
+      "home_prob": 57.2,
+      "away_prob": 42.8,
+      "spread": "LAL -2.5",
+      "favorite": "Los Angeles Lakers",
+      "pick": "Los Angeles Lakers",
+      "pick_abbr": "LAL",
+      "moneyline": "-148",
+      "win_probability": 57.2,
+      "confidence": "LOW",
+      "confidence_stars": "\u2605\u2606\u2606",
+      "commence_time": "2026-04-30T01:40:00Z",
+      "line_movement": {
+        "home": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "away": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "pick": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "snapshot_time": "\u2014"
+      },
+      "fatigue": {
+        "home": {
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Apr 26",
+          "days_rest": 1,
+          "games_last_4d": 2,
+          "travel_miles": 1373,
+          "travel_desc": "1,373 mi road trip",
+          "source": "ESPN Scoreboard API"
+        },
+        "away": {
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Apr 26",
+          "days_rest": 1,
+          "games_last_4d": 2,
+          "travel_miles": 0,
+          "travel_desc": "",
+          "source": "ESPN Scoreboard API"
+        }
+      },
+      "edge_factors": [
+        "\ud83d\udca4 HOU fatigued (B2B) \u2014 source: ESPN"
+      ],
+      "injury_notes": "Kevin Durant (F)",
+      "sharp": {
+        "away_t": null,
+        "home_t": null,
+        "source": null,
+        "sharp_signal": null,
+        "sharp_label": "Pending \u2014 check closer to tip-off",
+        "rlm": false
+      },
+      "form": {
+        "home": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        },
+        "away": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        }
+      },
+      "h2h": {
+        "total_meetings": 0,
+        "home_wins": 0,
+        "away_wins": 0,
+        "meetings": [],
+        "source": "\u2014"
+      },
+      "briefing": {
+        "trend": "LAL on Back-to-Back \u26a0\ufe0f per ESPN schedule data. HOU on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "matchup": "Both rosters appear healthy \u2014 clean line.",
+        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "injury_notes": "Kevin Durant (F)"
+      },
+      "live": {
+        "status": "pre",
+        "status_detail": "Upcoming",
+        "period": 0,
+        "clock": "",
+        "home_score": 0,
+        "away_score": 0,
+        "spread_alert": null
+      },
+      "news": [
+        {
+          "title": "Rockets stay alive, find belief in Sengun's speech",
+          "source": "www.espn.com - NBA",
+          "link": "https://www.espn.com/nba/story/_/id/48606624/houston-rockets-stave-elimination-top-los-angeles-lakers",
+          "published": "Mon, 27 Apr 2026 02:56:13 EST"
+        },
+        {
+          "title": "LeBron says loss 'started with me,' cites turnovers",
+          "source": "www.espn.com - NBA",
+          "link": "https://www.espn.com/nba/story/_/id/48607125/lebron-james-takes-blame-lakers-blowout-loss-rockets-game-4",
+          "published": "Mon, 27 Apr 2026 02:56:13 EST"
+        },
+        {
+          "title": "West playoff takeaways: Rockets survive Game 4 to keep season alive",
+          "source": "www.espn.com - NBA",
+          "link": "https://www.espn.com/nba/story/_/id/48506452/2026-nba-playoffs-western-conference-round-one-takeaways",
+          "published": "Sun, 26 Apr 2026 18:40:00 EST"
         }
       ]
     }
