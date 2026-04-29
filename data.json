@@ -1,371 +1,81 @@
 {
-  "last_updated": "April 28, 2026 at 11:59 PM UTC",
+  "last_updated": "April 29, 2026 at 03:36 AM UTC",
   "total_games": 7,
   "games": [
-    {
-      "game": "Philadelphia 76ers @ Boston Celtics",
-      "home_team": "Boston Celtics",
-      "away_team": "Philadelphia 76ers",
-      "home_abbr": "BOS",
-      "away_abbr": "PHI",
-      "home_ml": "-660",
-      "away_ml": "+420",
-      "home_ml_raw": -660,
-      "away_ml_raw": 420,
-      "home_prob": 81.9,
-      "away_prob": 18.1,
-      "spread": "BOS -10.5",
-      "favorite": "Boston Celtics",
-      "pick": "Boston Celtics",
-      "pick_abbr": "BOS",
-      "moneyline": "-660",
-      "win_probability": 81.9,
-      "confidence": "HIGH",
-      "confidence_stars": "\u2605\u2605\u2605",
-      "commence_time": "2026-04-28T23:14:00Z",
-      "line_movement": {
-        "home": {
-          "direction": "shorter",
-          "points_moved": 220,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -660 \u2190 -440",
-          "old_ml": "-440",
-          "new_ml": "-660"
-        },
-        "away": {
-          "direction": "longer",
-          "points_moved": 80,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM +420 \u2190 +340",
-          "old_ml": "+340",
-          "new_ml": "+420"
-        },
-        "pick": {
-          "direction": "shorter",
-          "points_moved": 220,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -660 \u2190 -440",
-          "old_ml": "-440",
-          "new_ml": "-660"
-        },
-        "snapshot_time": "April 28, 2026 at 10:57 PM UTC"
-      },
-      "fatigue": {
-        "home": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "Apr 26",
-          "days_rest": 2,
-          "games_last_4d": 2,
-          "travel_miles": 273,
-          "travel_desc": "273 mi road trip",
-          "source": "ESPN Scoreboard API"
-        },
-        "away": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "Apr 26",
-          "days_rest": 2,
-          "games_last_4d": 2,
-          "travel_miles": 0,
-          "travel_desc": "",
-          "source": "ESPN Scoreboard API"
-        }
-      },
-      "edge_factors": [
-        "\ud83d\udd25 Sharp steam detected"
-      ],
-      "injury_notes": "No key injuries.",
-      "sharp": {
-        "away_t": null,
-        "home_t": null,
-        "source": null,
-        "sharp_signal": null,
-        "sharp_label": "Pending \u2014 check closer to tip-off",
-        "rlm": false
-      },
-      "form": {
-        "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        },
-        "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        }
-      },
-      "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
-      },
-      "briefing": {
-        "trend": "Boston Celtics hold a 81.9% edge.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -440 to -660 (220pt move) \u2014 heavy professional action on Boston Celtics.",
-        "injury_notes": "No key injuries."
-      },
-      "live": {
-        "status": "pre",
-        "status_detail": "Upcoming",
-        "period": 0,
-        "clock": "",
-        "home_score": 0,
-        "away_score": 0,
-        "spread_alert": null
-      },
-      "news": [
-        {
-          "title": "Pistons vs. Magic Game 4 Discussion: Game Time, TV, Odds, and More",
-          "source": "Detroitbadboys.com",
-          "link": "https://www.detroitbadboys.com/pistons-playoffs/50102/pistons-vs-magic-game-4-discussion-game-time-tv-odds-and-more",
-          "published": "2026-04-27T23:57:39Z"
-        },
-        {
-          "title": "The elusive playoff balance Knicks must find in critical Game 5",
-          "source": "New York Post",
-          "link": "https://nypost.com/2026/04/27/sports/elusive-playoff-balance-knicks-must-find-in-game-5-vs-hawks/",
-          "published": "2026-04-27T23:54:31Z"
-        },
-        {
-          "title": "The elusive playoff balance Knicks must find in critical Game 5",
-          "source": "New York Post",
-          "link": "https://nypost.com/2026/04/27/sports/elusive-playoff-balance-knicks-must-find-in-game-5-vs-hawks/?utm_source=yahoo&amp;utm_campaign=nypost&amp;utm_medium=referral",
-          "published": "2026-04-27T23:54:31Z"
-        }
-      ]
-    },
-    {
-      "game": "Atlanta Hawks @ New York Knicks",
-      "home_team": "New York Knicks",
-      "away_team": "Atlanta Hawks",
-      "home_abbr": "NYK",
-      "away_abbr": "ATL",
-      "home_ml": "-250",
-      "away_ml": "+205",
-      "home_ml_raw": -250,
-      "away_ml_raw": 205,
-      "home_prob": 68.5,
-      "away_prob": 31.5,
-      "spread": "NYK -6.5",
-      "favorite": "New York Knicks",
-      "pick": "New York Knicks",
-      "pick_abbr": "NYK",
-      "moneyline": "-250",
-      "win_probability": 68.5,
-      "confidence": "MEDIUM",
-      "confidence_stars": "\u2605\u2605\u2606",
-      "commence_time": "2026-04-29T00:10:00Z",
-      "line_movement": {
-        "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
-          "old_ml": "-250",
-          "new_ml": "-250"
-        },
-        "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
-          "old_ml": "+205",
-          "new_ml": "+205"
-        },
-        "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
-          "old_ml": "-250",
-          "new_ml": "-250"
-        },
-        "snapshot_time": "April 28, 2026 at 10:57 PM UTC"
-      },
-      "fatigue": {
-        "home": {
-          "status": "RESTED",
-          "label": "2 days rest \u2705",
-          "battery": 88,
-          "last_game": "Apr 25",
-          "days_rest": 3,
-          "games_last_4d": 1,
-          "travel_miles": 748,
-          "travel_desc": "748 mi road trip",
-          "source": "ESPN Scoreboard API"
-        },
-        "away": {
-          "status": "RESTED",
-          "label": "2 days rest \u2705",
-          "battery": 88,
-          "last_game": "Apr 25",
-          "days_rest": 3,
-          "games_last_4d": 1,
-          "travel_miles": 0,
-          "travel_desc": "",
-          "source": "ESPN Scoreboard API"
-        }
-      },
-      "edge_factors": [
-        "\ud83d\udcca 37.0pt probability edge"
-      ],
-      "injury_notes": "No key injuries.",
-      "sharp": {
-        "away_t": null,
-        "home_t": null,
-        "source": null,
-        "sharp_signal": null,
-        "sharp_label": "Pending \u2014 check closer to tip-off",
-        "rlm": false
-      },
-      "form": {
-        "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        },
-        "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        }
-      },
-      "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
-      },
-      "briefing": {
-        "trend": "New York Knicks hold a 68.5% edge.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
-        "injury_notes": "No key injuries."
-      },
-      "live": {
-        "status": "pre",
-        "status_detail": "Upcoming",
-        "period": 0,
-        "clock": "",
-        "home_score": 0,
-        "away_score": 0,
-        "spread_alert": null
-      },
-      "news": [
-        {
-          "title": "Pistons vs. Magic Game 4 Discussion: Game Time, TV, Odds, and More",
-          "source": "Detroitbadboys.com",
-          "link": "https://www.detroitbadboys.com/pistons-playoffs/50102/pistons-vs-magic-game-4-discussion-game-time-tv-odds-and-more",
-          "published": "2026-04-27T23:57:39Z"
-        },
-        {
-          "title": "The elusive playoff balance Knicks must find in critical Game 5",
-          "source": "New York Post",
-          "link": "https://nypost.com/2026/04/27/sports/elusive-playoff-balance-knicks-must-find-in-game-5-vs-hawks/",
-          "published": "2026-04-27T23:54:31Z"
-        },
-        {
-          "title": "The elusive playoff balance Knicks must find in critical Game 5",
-          "source": "New York Post",
-          "link": "https://nypost.com/2026/04/27/sports/elusive-playoff-balance-knicks-must-find-in-game-5-vs-hawks/?utm_source=yahoo&amp;utm_campaign=nypost&amp;utm_medium=referral",
-          "published": "2026-04-27T23:54:31Z"
-        }
-      ]
-    },
     {
       "game": "Portland Trail Blazers @ San Antonio Spurs",
       "home_team": "San Antonio Spurs",
       "away_team": "Portland Trail Blazers",
       "home_abbr": "SAS",
       "away_abbr": "POR",
-      "home_ml": "-575",
-      "away_ml": "+425",
-      "home_ml_raw": -575,
-      "away_ml_raw": 425,
-      "home_prob": 81.7,
-      "away_prob": 18.3,
-      "spread": "SAS -11.5",
+      "home_ml": "N/A",
+      "away_ml": "N/A",
+      "home_ml_raw": null,
+      "away_ml_raw": null,
+      "home_prob": 50.0,
+      "away_prob": 50.0,
+      "spread": "SAS -21.5",
       "favorite": "San Antonio Spurs",
       "pick": "San Antonio Spurs",
       "pick_abbr": "SAS",
-      "moneyline": "-575",
-      "win_probability": 81.7,
-      "confidence": "HIGH",
-      "confidence_stars": "\u2605\u2605\u2605",
-      "commence_time": "2026-04-29T01:40:00Z",
+      "moneyline": "N/A",
+      "win_probability": 50.0,
+      "confidence": "LOW",
+      "confidence_stars": "\u2605\u2606\u2606",
+      "commence_time": "2026-04-29T01:48:13Z",
       "line_movement": {
         "home": {
           "direction": "none",
           "points_moved": 0,
           "steam": false,
-          "label": "No movement",
-          "old_ml": "-575",
-          "new_ml": "-575"
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
         },
         "away": {
           "direction": "none",
           "points_moved": 0,
           "steam": false,
-          "label": "No movement",
-          "old_ml": "+425",
-          "new_ml": "+425"
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
         },
         "pick": {
           "direction": "none",
           "points_moved": 0,
           "steam": false,
-          "label": "No movement",
-          "old_ml": "-575",
-          "new_ml": "-575"
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
         },
-        "snapshot_time": "April 28, 2026 at 10:57 PM UTC"
+        "snapshot_time": "April 28, 2026 at 11:59 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "Apr 26",
-          "days_rest": 2,
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Apr 28",
+          "days_rest": 1,
           "games_last_4d": 2,
           "travel_miles": 1721,
           "travel_desc": "1,721 mi road trip",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "Apr 26",
-          "days_rest": 2,
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Apr 28",
+          "days_rest": 1,
           "games_last_4d": 2,
-          "travel_miles": 0,
-          "travel_desc": "",
+          "travel_miles": 1721,
+          "travel_desc": "1,721 mi road trip",
           "source": "ESPN Scoreboard API"
         }
       },
       "edge_factors": [
-        "\ud83d\udcca 63.4pt probability edge"
+        "\ud83d\udca4 POR fatigued (B2B) \u2014 source: ESPN"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -402,7 +112,7 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "San Antonio Spurs hold a 81.7% edge.",
+        "trend": "SAS on Back-to-Back \u26a0\ufe0f per ESPN schedule data. POR on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
         "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
@@ -418,22 +128,22 @@
       },
       "news": [
         {
-          "title": "Pistons vs. Magic Game 4 Discussion: Game Time, TV, Odds, and More",
-          "source": "Detroitbadboys.com",
-          "link": "https://www.detroitbadboys.com/pistons-playoffs/50102/pistons-vs-magic-game-4-discussion-game-time-tv-odds-and-more",
-          "published": "2026-04-27T23:57:39Z"
+          "title": "Magic win pushes Pistons to brink of NBA playoff ouster",
+          "source": "Yahoo Entertainment",
+          "link": "https://sports.yahoo.com/articles/magic-win-pushes-pistons-brink-033617406.html",
+          "published": "2026-04-28T03:36:17Z"
         },
         {
-          "title": "The elusive playoff balance Knicks must find in critical Game 5",
-          "source": "New York Post",
-          "link": "https://nypost.com/2026/04/27/sports/elusive-playoff-balance-knicks-must-find-in-game-5-vs-hawks/",
-          "published": "2026-04-27T23:54:31Z"
+          "title": "Magic expose historically bad Pistons led by Cade Cunningham to get 3-1 lead",
+          "source": "Sporting News",
+          "link": "https://www.sportingnews.com/us/nba/detroit-pistons/news/magic-expose-historically-bad-pistons-led-cade-cunningham-get-3-1-lead/0dc6acb19fb5694b3bf09c08",
+          "published": "2026-04-28T03:33:53Z"
         },
         {
-          "title": "The elusive playoff balance Knicks must find in critical Game 5",
-          "source": "New York Post",
-          "link": "https://nypost.com/2026/04/27/sports/elusive-playoff-balance-knicks-must-find-in-game-5-vs-hawks/?utm_source=yahoo&amp;utm_campaign=nypost&amp;utm_medium=referral",
-          "published": "2026-04-27T23:54:31Z"
+          "title": "Pistons messed up trade deadline, and more reactions from Game 4 choke",
+          "source": "Detroit Free Press",
+          "link": "https://www.freep.com/story/sports/nba/pistons/2026/04/27/pistons-nba-magic-game-4/89830552007/",
+          "published": "2026-04-28T03:33:11Z"
         }
       ]
     },
@@ -483,26 +193,26 @@
           "old_ml": "-410",
           "new_ml": "-410"
         },
-        "snapshot_time": "April 28, 2026 at 10:57 PM UTC"
+        "snapshot_time": "April 28, 2026 at 11:59 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
           "last_game": "Apr 27",
-          "days_rest": 1,
+          "days_rest": 2,
           "games_last_4d": 2,
           "travel_miles": 958,
           "travel_desc": "958 mi road trip",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
           "last_game": "Apr 27",
-          "days_rest": 1,
+          "days_rest": 2,
           "games_last_4d": 2,
           "travel_miles": 0,
           "travel_desc": "",
@@ -510,7 +220,7 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udca4 ORL fatigued (B2B) \u2014 source: ESPN"
+        "\ud83d\udcca 54.4pt probability edge"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -547,7 +257,7 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "DET on Back-to-Back \u26a0\ufe0f per ESPN schedule data. ORL on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "trend": "Detroit Pistons hold a 77.2% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
         "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
@@ -563,22 +273,22 @@
       },
       "news": [
         {
-          "title": "Pistons vs. Magic Game 4 Discussion: Game Time, TV, Odds, and More",
-          "source": "Detroitbadboys.com",
-          "link": "https://www.detroitbadboys.com/pistons-playoffs/50102/pistons-vs-magic-game-4-discussion-game-time-tv-odds-and-more",
-          "published": "2026-04-27T23:57:39Z"
+          "title": "Magic win pushes Pistons to brink of NBA playoff ouster",
+          "source": "Yahoo Entertainment",
+          "link": "https://sports.yahoo.com/articles/magic-win-pushes-pistons-brink-033617406.html",
+          "published": "2026-04-28T03:36:17Z"
         },
         {
-          "title": "The elusive playoff balance Knicks must find in critical Game 5",
-          "source": "New York Post",
-          "link": "https://nypost.com/2026/04/27/sports/elusive-playoff-balance-knicks-must-find-in-game-5-vs-hawks/",
-          "published": "2026-04-27T23:54:31Z"
+          "title": "Magic expose historically bad Pistons led by Cade Cunningham to get 3-1 lead",
+          "source": "Sporting News",
+          "link": "https://www.sportingnews.com/us/nba/detroit-pistons/news/magic-expose-historically-bad-pistons-led-cade-cunningham-get-3-1-lead/0dc6acb19fb5694b3bf09c08",
+          "published": "2026-04-28T03:33:53Z"
         },
         {
-          "title": "The elusive playoff balance Knicks must find in critical Game 5",
-          "source": "New York Post",
-          "link": "https://nypost.com/2026/04/27/sports/elusive-playoff-balance-knicks-must-find-in-game-5-vs-hawks/?utm_source=yahoo&amp;utm_campaign=nypost&amp;utm_medium=referral",
-          "published": "2026-04-27T23:54:31Z"
+          "title": "Pistons messed up trade deadline, and more reactions from Game 4 choke",
+          "source": "Detroit Free Press",
+          "link": "https://www.freep.com/story/sports/nba/pistons/2026/04/27/pistons-nba-magic-game-4/89830552007/",
+          "published": "2026-04-28T03:33:11Z"
         }
       ]
     },
@@ -628,26 +338,26 @@
           "old_ml": "-375",
           "new_ml": "-375"
         },
-        "snapshot_time": "April 28, 2026 at 10:57 PM UTC"
+        "snapshot_time": "April 28, 2026 at 11:59 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
+          "status": "RESTED",
+          "label": "2 days rest \u2705",
+          "battery": 88,
           "last_game": "Apr 26",
-          "days_rest": 2,
+          "days_rest": 3,
           "games_last_4d": 1,
           "travel_miles": 189,
           "travel_desc": "189 mi road trip",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
+          "status": "RESTED",
+          "label": "2 days rest \u2705",
+          "battery": 88,
           "last_game": "Apr 26",
-          "days_rest": 2,
+          "days_rest": 3,
           "games_last_4d": 1,
           "travel_miles": 0,
           "travel_desc": "",
@@ -708,22 +418,22 @@
       },
       "news": [
         {
-          "title": "Pistons vs. Magic Game 4 Discussion: Game Time, TV, Odds, and More",
-          "source": "Detroitbadboys.com",
-          "link": "https://www.detroitbadboys.com/pistons-playoffs/50102/pistons-vs-magic-game-4-discussion-game-time-tv-odds-and-more",
-          "published": "2026-04-27T23:57:39Z"
+          "title": "Magic win pushes Pistons to brink of NBA playoff ouster",
+          "source": "Yahoo Entertainment",
+          "link": "https://sports.yahoo.com/articles/magic-win-pushes-pistons-brink-033617406.html",
+          "published": "2026-04-28T03:36:17Z"
         },
         {
-          "title": "The elusive playoff balance Knicks must find in critical Game 5",
-          "source": "New York Post",
-          "link": "https://nypost.com/2026/04/27/sports/elusive-playoff-balance-knicks-must-find-in-game-5-vs-hawks/",
-          "published": "2026-04-27T23:54:31Z"
+          "title": "Magic expose historically bad Pistons led by Cade Cunningham to get 3-1 lead",
+          "source": "Sporting News",
+          "link": "https://www.sportingnews.com/us/nba/detroit-pistons/news/magic-expose-historically-bad-pistons-led-cade-cunningham-get-3-1-lead/0dc6acb19fb5694b3bf09c08",
+          "published": "2026-04-28T03:33:53Z"
         },
         {
-          "title": "The elusive playoff balance Knicks must find in critical Game 5",
-          "source": "New York Post",
-          "link": "https://nypost.com/2026/04/27/sports/elusive-playoff-balance-knicks-must-find-in-game-5-vs-hawks/?utm_source=yahoo&amp;utm_campaign=nypost&amp;utm_medium=referral",
-          "published": "2026-04-27T23:54:31Z"
+          "title": "Pistons messed up trade deadline, and more reactions from Game 4 choke",
+          "source": "Detroit Free Press",
+          "link": "https://www.freep.com/story/sports/nba/pistons/2026/04/27/pistons-nba-magic-game-4/89830552007/",
+          "published": "2026-04-28T03:33:11Z"
         }
       ]
     },
@@ -773,27 +483,27 @@
           "old_ml": "-180",
           "new_ml": "-180"
         },
-        "snapshot_time": "April 28, 2026 at 10:57 PM UTC"
+        "snapshot_time": "April 28, 2026 at 11:59 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
+          "status": "RESTED",
+          "label": "2 days rest \u2705",
+          "battery": 88,
           "last_game": "Apr 26",
-          "days_rest": 2,
-          "games_last_4d": 2,
+          "days_rest": 3,
+          "games_last_4d": 1,
           "travel_miles": 1373,
           "travel_desc": "1,373 mi road trip",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
+          "status": "RESTED",
+          "label": "2 days rest \u2705",
+          "battery": 88,
           "last_game": "Apr 26",
-          "days_rest": 2,
-          "games_last_4d": 2,
+          "days_rest": 3,
+          "games_last_4d": 1,
           "travel_miles": 0,
           "travel_desc": "",
           "source": "ESPN Scoreboard API"
@@ -853,22 +563,312 @@
       },
       "news": [
         {
-          "title": "Pistons vs. Magic Game 4 Discussion: Game Time, TV, Odds, and More",
-          "source": "Detroitbadboys.com",
-          "link": "https://www.detroitbadboys.com/pistons-playoffs/50102/pistons-vs-magic-game-4-discussion-game-time-tv-odds-and-more",
-          "published": "2026-04-27T23:57:39Z"
+          "title": "Magic win pushes Pistons to brink of NBA playoff ouster",
+          "source": "Yahoo Entertainment",
+          "link": "https://sports.yahoo.com/articles/magic-win-pushes-pistons-brink-033617406.html",
+          "published": "2026-04-28T03:36:17Z"
         },
         {
-          "title": "The elusive playoff balance Knicks must find in critical Game 5",
-          "source": "New York Post",
-          "link": "https://nypost.com/2026/04/27/sports/elusive-playoff-balance-knicks-must-find-in-game-5-vs-hawks/",
-          "published": "2026-04-27T23:54:31Z"
+          "title": "Magic expose historically bad Pistons led by Cade Cunningham to get 3-1 lead",
+          "source": "Sporting News",
+          "link": "https://www.sportingnews.com/us/nba/detroit-pistons/news/magic-expose-historically-bad-pistons-led-cade-cunningham-get-3-1-lead/0dc6acb19fb5694b3bf09c08",
+          "published": "2026-04-28T03:33:53Z"
         },
         {
-          "title": "The elusive playoff balance Knicks must find in critical Game 5",
-          "source": "New York Post",
-          "link": "https://nypost.com/2026/04/27/sports/elusive-playoff-balance-knicks-must-find-in-game-5-vs-hawks/?utm_source=yahoo&amp;utm_campaign=nypost&amp;utm_medium=referral",
-          "published": "2026-04-27T23:54:31Z"
+          "title": "Pistons messed up trade deadline, and more reactions from Game 4 choke",
+          "source": "Detroit Free Press",
+          "link": "https://www.freep.com/story/sports/nba/pistons/2026/04/27/pistons-nba-magic-game-4/89830552007/",
+          "published": "2026-04-28T03:33:11Z"
+        }
+      ]
+    },
+    {
+      "game": "Boston Celtics @ Philadelphia 76ers",
+      "home_team": "Philadelphia 76ers",
+      "away_team": "Boston Celtics",
+      "home_abbr": "PHI",
+      "away_abbr": "BOS",
+      "home_ml": "+180",
+      "away_ml": "-218",
+      "home_ml_raw": 180,
+      "away_ml_raw": -218,
+      "home_prob": 34.3,
+      "away_prob": 65.7,
+      "spread": "PHI +5.5",
+      "favorite": "Boston Celtics",
+      "pick": "Boston Celtics",
+      "pick_abbr": "BOS",
+      "moneyline": "-218",
+      "win_probability": 65.7,
+      "confidence": "MEDIUM",
+      "confidence_stars": "\u2605\u2605\u2606",
+      "commence_time": "2026-04-30T23:10:00Z",
+      "line_movement": {
+        "home": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "away": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "pick": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "snapshot_time": "\u2014"
+      },
+      "fatigue": {
+        "home": {
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Apr 28",
+          "days_rest": 1,
+          "games_last_4d": 2,
+          "travel_miles": 273,
+          "travel_desc": "273 mi road trip",
+          "source": "ESPN Scoreboard API"
+        },
+        "away": {
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Apr 28",
+          "days_rest": 1,
+          "games_last_4d": 2,
+          "travel_miles": 273,
+          "travel_desc": "273 mi road trip",
+          "source": "ESPN Scoreboard API"
+        }
+      },
+      "edge_factors": [
+        "\ud83d\udca4 PHI fatigued (B2B) \u2014 source: ESPN"
+      ],
+      "injury_notes": "No key injuries.",
+      "sharp": {
+        "away_t": null,
+        "home_t": null,
+        "source": null,
+        "sharp_signal": null,
+        "sharp_label": "Pending \u2014 check closer to tip-off",
+        "rlm": false
+      },
+      "form": {
+        "home": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        },
+        "away": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        }
+      },
+      "h2h": {
+        "total_meetings": 0,
+        "home_wins": 0,
+        "away_wins": 0,
+        "meetings": [],
+        "source": "\u2014"
+      },
+      "briefing": {
+        "trend": "PHI on Back-to-Back \u26a0\ufe0f per ESPN schedule data. BOS on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "matchup": "Both rosters appear healthy \u2014 clean line.",
+        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "injury_notes": "No key injuries."
+      },
+      "live": {
+        "status": "pre",
+        "status_detail": "Upcoming",
+        "period": 0,
+        "clock": "",
+        "home_score": 0,
+        "away_score": 0,
+        "spread_alert": null
+      },
+      "news": [
+        {
+          "title": "Magic win pushes Pistons to brink of NBA playoff ouster",
+          "source": "Yahoo Entertainment",
+          "link": "https://sports.yahoo.com/articles/magic-win-pushes-pistons-brink-033617406.html",
+          "published": "2026-04-28T03:36:17Z"
+        },
+        {
+          "title": "Magic expose historically bad Pistons led by Cade Cunningham to get 3-1 lead",
+          "source": "Sporting News",
+          "link": "https://www.sportingnews.com/us/nba/detroit-pistons/news/magic-expose-historically-bad-pistons-led-cade-cunningham-get-3-1-lead/0dc6acb19fb5694b3bf09c08",
+          "published": "2026-04-28T03:33:53Z"
+        },
+        {
+          "title": "Pistons messed up trade deadline, and more reactions from Game 4 choke",
+          "source": "Detroit Free Press",
+          "link": "https://www.freep.com/story/sports/nba/pistons/2026/04/27/pistons-nba-magic-game-4/89830552007/",
+          "published": "2026-04-28T03:33:11Z"
+        }
+      ]
+    },
+    {
+      "game": "New York Knicks @ Atlanta Hawks",
+      "home_team": "Atlanta Hawks",
+      "away_team": "New York Knicks",
+      "home_abbr": "ATL",
+      "away_abbr": "NYK",
+      "home_ml": "+102",
+      "away_ml": "-122",
+      "home_ml_raw": 102,
+      "away_ml_raw": -122,
+      "home_prob": 47.4,
+      "away_prob": 52.6,
+      "spread": "ATL +1.5",
+      "favorite": "New York Knicks",
+      "pick": "New York Knicks",
+      "pick_abbr": "NYK",
+      "moneyline": "-122",
+      "win_probability": 52.6,
+      "confidence": "LOW",
+      "confidence_stars": "\u2605\u2606\u2606",
+      "commence_time": "2026-05-01T02:00:00Z",
+      "line_movement": {
+        "home": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "away": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "pick": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "snapshot_time": "\u2014"
+      },
+      "fatigue": {
+        "home": {
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Apr 28",
+          "days_rest": 1,
+          "games_last_4d": 2,
+          "travel_miles": 748,
+          "travel_desc": "748 mi road trip",
+          "source": "ESPN Scoreboard API"
+        },
+        "away": {
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Apr 28",
+          "days_rest": 1,
+          "games_last_4d": 2,
+          "travel_miles": 748,
+          "travel_desc": "748 mi road trip",
+          "source": "ESPN Scoreboard API"
+        }
+      },
+      "edge_factors": [
+        "\ud83d\udca4 ATL fatigued (B2B) \u2014 source: ESPN"
+      ],
+      "injury_notes": "No key injuries.",
+      "sharp": {
+        "away_t": null,
+        "home_t": null,
+        "source": null,
+        "sharp_signal": null,
+        "sharp_label": "Pending \u2014 check closer to tip-off",
+        "rlm": false
+      },
+      "form": {
+        "home": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        },
+        "away": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        }
+      },
+      "h2h": {
+        "total_meetings": 0,
+        "home_wins": 0,
+        "away_wins": 0,
+        "meetings": [],
+        "source": "\u2014"
+      },
+      "briefing": {
+        "trend": "ATL on Back-to-Back \u26a0\ufe0f per ESPN schedule data. NYK on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "matchup": "Both rosters appear healthy \u2014 clean line.",
+        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "injury_notes": "No key injuries."
+      },
+      "live": {
+        "status": "pre",
+        "status_detail": "Upcoming",
+        "period": 0,
+        "clock": "",
+        "home_score": 0,
+        "away_score": 0,
+        "spread_alert": null
+      },
+      "news": [
+        {
+          "title": "Magic win pushes Pistons to brink of NBA playoff ouster",
+          "source": "Yahoo Entertainment",
+          "link": "https://sports.yahoo.com/articles/magic-win-pushes-pistons-brink-033617406.html",
+          "published": "2026-04-28T03:36:17Z"
+        },
+        {
+          "title": "Magic expose historically bad Pistons led by Cade Cunningham to get 3-1 lead",
+          "source": "Sporting News",
+          "link": "https://www.sportingnews.com/us/nba/detroit-pistons/news/magic-expose-historically-bad-pistons-led-cade-cunningham-get-3-1-lead/0dc6acb19fb5694b3bf09c08",
+          "published": "2026-04-28T03:33:53Z"
+        },
+        {
+          "title": "Pistons messed up trade deadline, and more reactions from Game 4 choke",
+          "source": "Detroit Free Press",
+          "link": "https://www.freep.com/story/sports/nba/pistons/2026/04/27/pistons-nba-magic-game-4/89830552007/",
+          "published": "2026-04-28T03:33:11Z"
         }
       ]
     },
@@ -918,26 +918,26 @@
           "old_ml": "-225",
           "new_ml": "-225"
         },
-        "snapshot_time": "April 28, 2026 at 10:57 PM UTC"
+        "snapshot_time": "April 28, 2026 at 11:59 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
           "last_game": "Apr 27",
-          "days_rest": 1,
+          "days_rest": 2,
           "games_last_4d": 2,
           "travel_miles": 698,
           "travel_desc": "698 mi road trip",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
           "last_game": "Apr 27",
-          "days_rest": 1,
+          "days_rest": 2,
           "games_last_4d": 2,
           "travel_miles": 698,
           "travel_desc": "698 mi road trip",
@@ -945,7 +945,7 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udca4 MIN fatigued (B2B) \u2014 source: ESPN"
+        "\ud83d\udcca 32.8pt probability edge"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -982,7 +982,7 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "MIN on Back-to-Back \u26a0\ufe0f per ESPN schedule data. DEN on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "trend": "Denver Nuggets hold a 66.4% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
         "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
@@ -998,22 +998,22 @@
       },
       "news": [
         {
-          "title": "Pistons vs. Magic Game 4 Discussion: Game Time, TV, Odds, and More",
-          "source": "Detroitbadboys.com",
-          "link": "https://www.detroitbadboys.com/pistons-playoffs/50102/pistons-vs-magic-game-4-discussion-game-time-tv-odds-and-more",
-          "published": "2026-04-27T23:57:39Z"
+          "title": "Magic win pushes Pistons to brink of NBA playoff ouster",
+          "source": "Yahoo Entertainment",
+          "link": "https://sports.yahoo.com/articles/magic-win-pushes-pistons-brink-033617406.html",
+          "published": "2026-04-28T03:36:17Z"
         },
         {
-          "title": "The elusive playoff balance Knicks must find in critical Game 5",
-          "source": "New York Post",
-          "link": "https://nypost.com/2026/04/27/sports/elusive-playoff-balance-knicks-must-find-in-game-5-vs-hawks/",
-          "published": "2026-04-27T23:54:31Z"
+          "title": "Magic expose historically bad Pistons led by Cade Cunningham to get 3-1 lead",
+          "source": "Sporting News",
+          "link": "https://www.sportingnews.com/us/nba/detroit-pistons/news/magic-expose-historically-bad-pistons-led-cade-cunningham-get-3-1-lead/0dc6acb19fb5694b3bf09c08",
+          "published": "2026-04-28T03:33:53Z"
         },
         {
-          "title": "The elusive playoff balance Knicks must find in critical Game 5",
-          "source": "New York Post",
-          "link": "https://nypost.com/2026/04/27/sports/elusive-playoff-balance-knicks-must-find-in-game-5-vs-hawks/?utm_source=yahoo&amp;utm_campaign=nypost&amp;utm_medium=referral",
-          "published": "2026-04-27T23:54:31Z"
+          "title": "Pistons messed up trade deadline, and more reactions from Game 4 choke",
+          "source": "Detroit Free Press",
+          "link": "https://www.freep.com/story/sports/nba/pistons/2026/04/27/pistons-nba-magic-game-4/89830552007/",
+          "published": "2026-04-28T03:33:11Z"
         }
       ]
     }
