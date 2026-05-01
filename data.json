@@ -1,81 +1,82 @@
 {
-  "last_updated": "April 30, 2026 at 11:54 PM UTC",
-  "total_games": 6,
+  "last_updated": "May 01, 2026 at 03:49 AM UTC",
+  "total_games": 5,
   "games": [
     {
-      "game": "New York Knicks @ Atlanta Hawks",
-      "home_team": "Atlanta Hawks",
-      "away_team": "New York Knicks",
-      "home_abbr": "ATL",
-      "away_abbr": "NYK",
-      "home_ml": "+3500",
-      "away_ml": "-50000",
-      "home_ml_raw": 3500,
-      "away_ml_raw": -50000,
-      "home_prob": 2.7,
-      "away_prob": 97.3,
-      "spread": "ATL +28.5",
-      "favorite": "New York Knicks",
-      "pick": "New York Knicks",
-      "pick_abbr": "NYK",
-      "moneyline": "-50000",
-      "win_probability": 97.3,
-      "confidence": "HIGH",
-      "confidence_stars": "\u2605\u2605\u2605",
-      "commence_time": "2026-04-30T23:13:00Z",
+      "game": "Denver Nuggets @ Minnesota Timberwolves",
+      "home_team": "Minnesota Timberwolves",
+      "away_team": "Denver Nuggets",
+      "home_abbr": "MIN",
+      "away_abbr": "DEN",
+      "home_ml": "-125",
+      "away_ml": "-105",
+      "home_ml_raw": -125,
+      "away_ml_raw": -105,
+      "home_prob": 52.0,
+      "away_prob": 48.0,
+      "spread": "MIN -1.5",
+      "favorite": "Minnesota Timberwolves",
+      "pick": "Minnesota Timberwolves",
+      "pick_abbr": "MIN",
+      "moneyline": "-125",
+      "win_probability": 52.0,
+      "confidence": "LOW",
+      "confidence_stars": "\u2605\u2606\u2606",
+      "commence_time": "2026-05-01T01:45:00Z",
       "line_movement": {
         "home": {
-          "direction": "longer",
-          "points_moved": 3364,
+          "direction": "shorter",
+          "points_moved": 385,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM +3500 \u2190 +136",
-          "old_ml": "+136",
-          "new_ml": "+3500"
+          "label": "\ud83d\udd25 STEAM -125 \u2190 +260",
+          "old_ml": "+260",
+          "new_ml": "-125"
         },
         "away": {
-          "direction": "shorter",
-          "points_moved": 49838,
+          "direction": "longer",
+          "points_moved": 220,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM -50000 \u2190 -162",
-          "old_ml": "-162",
-          "new_ml": "-50000"
+          "label": "\ud83d\udd25 STEAM -105 \u2190 -325",
+          "old_ml": "-325",
+          "new_ml": "-105"
         },
         "pick": {
           "direction": "shorter",
-          "points_moved": 49838,
+          "points_moved": 385,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM -50000 \u2190 -162",
-          "old_ml": "-162",
-          "new_ml": "-50000"
+          "label": "\ud83d\udd25 STEAM -125 \u2190 +260",
+          "old_ml": "+260",
+          "new_ml": "-125"
         },
-        "snapshot_time": "April 30, 2026 at 10:54 PM UTC"
+        "snapshot_time": "April 30, 2026 at 11:54 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "Apr 28",
-          "days_rest": 2,
-          "games_last_4d": 1,
-          "travel_miles": 748,
-          "travel_desc": "748 mi road trip",
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Apr 30",
+          "days_rest": 1,
+          "games_last_4d": 2,
+          "travel_miles": 698,
+          "travel_desc": "698 mi road trip",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "Apr 28",
-          "days_rest": 2,
-          "games_last_4d": 1,
-          "travel_miles": 0,
-          "travel_desc": "",
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Apr 30",
+          "days_rest": 1,
+          "games_last_4d": 2,
+          "travel_miles": 698,
+          "travel_desc": "698 mi road trip",
           "source": "ESPN Scoreboard API"
         }
       },
       "edge_factors": [
-        "\ud83d\udd25 Sharp steam detected"
+        "\ud83d\udd25 Sharp steam detected",
+        "\ud83d\udca4 DEN fatigued (B2B) \u2014 source: ESPN"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -112,9 +113,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "New York Knicks hold a 97.3% edge.",
+        "trend": "MIN on Back-to-Back \u26a0\ufe0f per ESPN schedule data. DEN on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -162 to -50000 (49838pt move) \u2014 heavy professional action on New York Knicks.",
+        "steam": "Line steamed from +260 to -125 (385pt move) \u2014 heavy professional action on Minnesota Timberwolves.",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -128,288 +129,22 @@
       },
       "news": [
         {
-          "title": "Karl-Anthony Towns, Jordyn Woods spotted on double...",
-          "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/nba/story/_/id/48631110/new-york-knicks-karl-anthony-towns-jordyn-woods-timothee-chalamet-kylie-jenner-double-date",
-          "published": "Thu, 30 Apr 2026 09:45:26 EST"
-        }
-      ]
-    },
-    {
-      "game": "Boston Celtics @ Philadelphia 76ers",
-      "home_team": "Philadelphia 76ers",
-      "away_team": "Boston Celtics",
-      "home_abbr": "PHI",
-      "away_abbr": "BOS",
-      "home_ml": "+190",
-      "away_ml": "-230",
-      "home_ml_raw": 190,
-      "away_ml_raw": -230,
-      "home_prob": 33.1,
-      "away_prob": 66.9,
-      "spread": "PHI +6.5",
-      "favorite": "Boston Celtics",
-      "pick": "Boston Celtics",
-      "pick_abbr": "BOS",
-      "moneyline": "-230",
-      "win_probability": 66.9,
-      "confidence": "MEDIUM",
-      "confidence_stars": "\u2605\u2605\u2606",
-      "commence_time": "2026-05-01T00:10:00Z",
-      "line_movement": {
-        "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
-          "old_ml": "+190",
-          "new_ml": "+190"
-        },
-        "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
-          "old_ml": "-230",
-          "new_ml": "-230"
-        },
-        "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
-          "old_ml": "-230",
-          "new_ml": "-230"
-        },
-        "snapshot_time": "April 30, 2026 at 10:54 PM UTC"
-      },
-      "fatigue": {
-        "home": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "Apr 28",
-          "days_rest": 2,
-          "games_last_4d": 2,
-          "travel_miles": 273,
-          "travel_desc": "273 mi road trip",
-          "source": "ESPN Scoreboard API"
-        },
-        "away": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "Apr 28",
-          "days_rest": 2,
-          "games_last_4d": 2,
-          "travel_miles": 273,
-          "travel_desc": "273 mi road trip",
-          "source": "ESPN Scoreboard API"
-        }
-      },
-      "edge_factors": [
-        "\ud83d\udcca 33.8pt probability edge"
-      ],
-      "injury_notes": "Joel Embiid (C)",
-      "sharp": {
-        "away_t": null,
-        "home_t": null,
-        "source": null,
-        "sharp_signal": null,
-        "sharp_label": "Pending \u2014 check closer to tip-off",
-        "rlm": false
-      },
-      "form": {
-        "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        },
-        "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        }
-      },
-      "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
-      },
-      "briefing": {
-        "trend": "Boston Celtics hold a 66.9% edge.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
-        "injury_notes": "Joel Embiid (C)"
-      },
-      "live": {
-        "status": "pre",
-        "status_detail": "Upcoming",
-        "period": 0,
-        "clock": "",
-        "home_score": 0,
-        "away_score": 0,
-        "spread_alert": null
-      },
-      "news": [
-        {
-          "title": "NBA Futures: Spurs, Celtics both +500 to win champ...",
-          "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/espn/betting/story/_/id/45539787/2026-nba-finals-odds-mvp-2025-26-championship-betting",
-          "published": "Thu, 30 Apr 2026 17:17:48 EST"
-        }
-      ]
-    },
-    {
-      "game": "Denver Nuggets @ Minnesota Timberwolves",
-      "home_team": "Minnesota Timberwolves",
-      "away_team": "Denver Nuggets",
-      "home_abbr": "MIN",
-      "away_abbr": "DEN",
-      "home_ml": "+260",
-      "away_ml": "-325",
-      "home_ml_raw": 260,
-      "away_ml_raw": -325,
-      "home_prob": 26.6,
-      "away_prob": 73.4,
-      "spread": "MIN +7.5",
-      "favorite": "Denver Nuggets",
-      "pick": "Denver Nuggets",
-      "pick_abbr": "DEN",
-      "moneyline": "-325",
-      "win_probability": 73.4,
-      "confidence": "HIGH",
-      "confidence_stars": "\u2605\u2605\u2605",
-      "commence_time": "2026-05-01T01:40:00Z",
-      "line_movement": {
-        "home": {
-          "direction": "longer",
-          "points_moved": 50,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM +260 \u2190 +210",
-          "old_ml": "+210",
-          "new_ml": "+260"
-        },
-        "away": {
-          "direction": "shorter",
-          "points_moved": 67,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -325 \u2190 -258",
-          "old_ml": "-258",
-          "new_ml": "-325"
-        },
-        "pick": {
-          "direction": "shorter",
-          "points_moved": 67,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -325 \u2190 -258",
-          "old_ml": "-258",
-          "new_ml": "-325"
-        },
-        "snapshot_time": "April 30, 2026 at 10:54 PM UTC"
-      },
-      "fatigue": {
-        "home": {
-          "status": "RESTED",
-          "label": "2 days rest \u2705",
-          "battery": 88,
-          "last_game": "Apr 27",
-          "days_rest": 3,
-          "games_last_4d": 1,
-          "travel_miles": 698,
-          "travel_desc": "698 mi road trip",
-          "source": "ESPN Scoreboard API"
-        },
-        "away": {
-          "status": "RESTED",
-          "label": "2 days rest \u2705",
-          "battery": 88,
-          "last_game": "Apr 27",
-          "days_rest": 3,
-          "games_last_4d": 1,
-          "travel_miles": 0,
-          "travel_desc": "",
-          "source": "ESPN Scoreboard API"
-        }
-      },
-      "edge_factors": [
-        "\ud83d\udd25 Sharp steam detected"
-      ],
-      "injury_notes": "Kyle Anderson (F); Ayo Dosunmu (G); Aaron Gordon (F)",
-      "sharp": {
-        "away_t": null,
-        "home_t": null,
-        "source": null,
-        "sharp_signal": null,
-        "sharp_label": "Pending \u2014 check closer to tip-off",
-        "rlm": false
-      },
-      "form": {
-        "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        },
-        "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        }
-      },
-      "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
-      },
-      "briefing": {
-        "trend": "Denver Nuggets hold a 73.4% edge.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -258 to -325 (67pt move) \u2014 heavy professional action on Denver Nuggets.",
-        "injury_notes": "Kyle Anderson (F); Ayo Dosunmu (G); Aaron Gordon (F)"
-      },
-      "live": {
-        "status": "pre",
-        "status_detail": "Upcoming",
-        "period": 0,
-        "clock": "",
-        "home_score": 0,
-        "away_score": 0,
-        "spread_alert": null
-      },
-      "news": [
-        {
-          "title": "Just How Big is the Culture Economy?",
-          "source": "Artsjournal.com",
-          "link": "https://www.artsjournal.com/diacritical/2026/04/just-how-big-is-the-culture-economy.html",
-          "published": "2026-04-29T23:54:29Z"
+          "title": "Game 5 of NBA playoffs Lakers vs Rockets brings star-studded crowd with Ted Lasso\u2019s Jason Sudekis, Brenda Song, Macaulay Culkin and more",
+          "source": "New York Post",
+          "link": "https://nypost.com/2026/04/29/sports/celebrities-pack-lakers-vs-rockets-game-5-from-ted-lassos-jason-sudekis-to-brenda-song-and-more/?utm_source=yahoo&amp;utm_campaign=nypost&amp;utm_medium=referral",
+          "published": "2026-04-30T03:33:49Z"
         },
         {
-          "title": "Where to watch Orlando Magic vs. Detroit Pistons Game 5 NBA playoffs: Live stream, start time, TV channel, odds for Wednesday, April 29",
-          "source": "Yahoo Entertainment",
-          "link": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_a618a6c8-25cb-40d1-a99d-9025fadd1bc6",
-          "published": "2026-04-29T23:45:44Z"
+          "title": "Game 5 of NBA playoffs Lakers vs Rockets brings star-studded crowd with Ted Lasso\u2019s Jason Sudekis, Brenda Song, Macaulay Culkin and more",
+          "source": "New York Post",
+          "link": "https://nypost.com/2026/04/29/sports/celebrities-pack-lakers-vs-rockets-game-5-from-ted-lassos-jason-sudekis-to-brenda-song-and-more/",
+          "published": "2026-04-30T03:33:49Z"
         },
         {
-          "title": "WATCH: Humanoid robots will join baggage handlers at Tokyo's Haneda Airport",
-          "source": "Abcnews.com",
-          "link": "https://abcnews.com/video/132515738/",
-          "published": "2026-04-29T23:39:49Z"
+          "title": "Live Updates: Magic look to eliminate Pistons - NBA",
+          "source": "Slashdot.org",
+          "link": "https://slashdot.org/firehose.pl?op=view&amp;id=183068264",
+          "published": "2026-04-30T03:32:28Z"
         }
       ]
     },
@@ -459,26 +194,26 @@
           "old_ml": "-162",
           "new_ml": "-162"
         },
-        "snapshot_time": "April 30, 2026 at 10:54 PM UTC"
+        "snapshot_time": "April 30, 2026 at 11:54 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
           "last_game": "Apr 29",
-          "days_rest": 1,
+          "days_rest": 2,
           "games_last_4d": 2,
           "travel_miles": 958,
           "travel_desc": "958 mi road trip",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
           "last_game": "Apr 29",
-          "days_rest": 1,
+          "days_rest": 2,
           "games_last_4d": 2,
           "travel_miles": 958,
           "travel_desc": "958 mi road trip",
@@ -486,9 +221,9 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udca4 ORL fatigued (B2B) \u2014 source: ESPN"
+        "\ud83d\udcca 18.6pt probability edge"
       ],
-      "injury_notes": "Kevin Huerter (G); Tobias Harris (F)",
+      "injury_notes": "No key injuries.",
       "sharp": {
         "away_t": null,
         "home_t": null,
@@ -523,10 +258,10 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "ORL on Back-to-Back \u26a0\ufe0f per ESPN schedule data. DET on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "trend": "Detroit Pistons hold a 59.3% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
         "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
-        "injury_notes": "Kevin Huerter (G); Tobias Harris (F)"
+        "injury_notes": "No key injuries."
       },
       "live": {
         "status": "pre",
@@ -539,22 +274,22 @@
       },
       "news": [
         {
-          "title": "Magic rule Wagner out for Game 6 vs. Pistons",
-          "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/nba/story/_/id/48641292/magic-rule-franz-wagner-friday-game-6-vs-pistons",
-          "published": "Thu, 30 Apr 2026 18:59:39 EST"
+          "title": "Game 5 of NBA playoffs Lakers vs Rockets brings star-studded crowd with Ted Lasso\u2019s Jason Sudekis, Brenda Song, Macaulay Culkin and more",
+          "source": "New York Post",
+          "link": "https://nypost.com/2026/04/29/sports/celebrities-pack-lakers-vs-rockets-game-5-from-ted-lassos-jason-sudekis-to-brenda-song-and-more/",
+          "published": "2026-04-30T03:33:49Z"
         },
         {
-          "title": "Cade's 45 do trick vs. Magic as Pistons stay alive...",
-          "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/nba/story/_/id/48634484/pistons-top-magic-cunningham-banchero-drop-45",
-          "published": "Thu, 30 Apr 2026 18:59:40 EST"
+          "title": "Game 5 of NBA playoffs Lakers vs Rockets brings star-studded crowd with Ted Lasso\u2019s Jason Sudekis, Brenda Song, Macaulay Culkin and more",
+          "source": "New York Post",
+          "link": "https://nypost.com/2026/04/29/sports/celebrities-pack-lakers-vs-rockets-game-5-from-ted-lassos-jason-sudekis-to-brenda-song-and-more/?utm_source=yahoo&amp;utm_campaign=nypost&amp;utm_medium=referral",
+          "published": "2026-04-30T03:33:49Z"
         },
         {
-          "title": "Copy of How a trade 19 years ago is *still* helping the Ok...",
-          "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/nba/story/_/id/48553241/sam-presti-rashard-lewis-sga-trade-19-years-ago-helping-oklahoma-city-thunder-their-title-hopes",
-          "published": "Thu, 30 Apr 2026 08:05:38 EST"
+          "title": "Live Updates: Magic look to eliminate Pistons - NBA",
+          "source": "Slashdot.org",
+          "link": "https://slashdot.org/firehose.pl?op=view&amp;id=183068264",
+          "published": "2026-04-30T03:32:28Z"
         }
       ]
     },
@@ -604,36 +339,36 @@
           "old_ml": "-180",
           "new_ml": "-180"
         },
-        "snapshot_time": "April 30, 2026 at 10:54 PM UTC"
+        "snapshot_time": "April 30, 2026 at 11:54 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
           "last_game": "Apr 29",
-          "days_rest": 1,
-          "games_last_4d": 2,
+          "days_rest": 2,
+          "games_last_4d": 1,
           "travel_miles": 189,
           "travel_desc": "189 mi road trip",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
           "last_game": "Apr 29",
-          "days_rest": 1,
-          "games_last_4d": 2,
-          "travel_miles": 189,
-          "travel_desc": "189 mi road trip",
+          "days_rest": 2,
+          "games_last_4d": 1,
+          "travel_miles": 0,
+          "travel_desc": "",
           "source": "ESPN Scoreboard API"
         }
       },
       "edge_factors": [
-        "\ud83d\udca4 TOR fatigued (B2B) \u2014 source: ESPN"
+        "\ud83d\udcca 23.2pt probability edge"
       ],
-      "injury_notes": "Brandon Ingram (F)",
+      "injury_notes": "No key injuries.",
       "sharp": {
         "away_t": null,
         "home_t": null,
@@ -668,10 +403,10 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "TOR on Back-to-Back \u26a0\ufe0f per ESPN schedule data. CLE on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "trend": "Cleveland Cavaliers hold a 61.6% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
         "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
-        "injury_notes": "Brandon Ingram (F)"
+        "injury_notes": "No key injuries."
       },
       "live": {
         "status": "pre",
@@ -684,22 +419,22 @@
       },
       "news": [
         {
-          "title": "Just How Big is the Culture Economy?",
-          "source": "Artsjournal.com",
-          "link": "https://www.artsjournal.com/diacritical/2026/04/just-how-big-is-the-culture-economy.html",
-          "published": "2026-04-29T23:54:29Z"
+          "title": "Game 5 of NBA playoffs Lakers vs Rockets brings star-studded crowd with Ted Lasso\u2019s Jason Sudekis, Brenda Song, Macaulay Culkin and more",
+          "source": "New York Post",
+          "link": "https://nypost.com/2026/04/29/sports/celebrities-pack-lakers-vs-rockets-game-5-from-ted-lassos-jason-sudekis-to-brenda-song-and-more/?utm_source=yahoo&amp;utm_campaign=nypost&amp;utm_medium=referral",
+          "published": "2026-04-30T03:33:49Z"
         },
         {
-          "title": "Where to watch Orlando Magic vs. Detroit Pistons Game 5 NBA playoffs: Live stream, start time, TV channel, odds for Wednesday, April 29",
-          "source": "Yahoo Entertainment",
-          "link": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_a618a6c8-25cb-40d1-a99d-9025fadd1bc6",
-          "published": "2026-04-29T23:45:44Z"
+          "title": "Game 5 of NBA playoffs Lakers vs Rockets brings star-studded crowd with Ted Lasso\u2019s Jason Sudekis, Brenda Song, Macaulay Culkin and more",
+          "source": "New York Post",
+          "link": "https://nypost.com/2026/04/29/sports/celebrities-pack-lakers-vs-rockets-game-5-from-ted-lassos-jason-sudekis-to-brenda-song-and-more/",
+          "published": "2026-04-30T03:33:49Z"
         },
         {
-          "title": "WATCH: Humanoid robots will join baggage handlers at Tokyo's Haneda Airport",
-          "source": "Abcnews.com",
-          "link": "https://abcnews.com/video/132515738/",
-          "published": "2026-04-29T23:39:49Z"
+          "title": "Live Updates: Magic look to eliminate Pistons - NBA",
+          "source": "Slashdot.org",
+          "link": "https://slashdot.org/firehose.pl?op=view&amp;id=183068264",
+          "published": "2026-04-30T03:32:28Z"
         }
       ]
     },
@@ -749,34 +484,34 @@
           "old_ml": "-180",
           "new_ml": "-180"
         },
-        "snapshot_time": "April 30, 2026 at 10:54 PM UTC"
+        "snapshot_time": "April 30, 2026 at 11:54 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
           "last_game": "Apr 29",
-          "days_rest": 1,
-          "games_last_4d": 2,
+          "days_rest": 2,
+          "games_last_4d": 1,
           "travel_miles": 1373,
           "travel_desc": "1,373 mi road trip",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
           "last_game": "Apr 29",
-          "days_rest": 1,
-          "games_last_4d": 2,
-          "travel_miles": 1373,
-          "travel_desc": "1,373 mi road trip",
+          "days_rest": 2,
+          "games_last_4d": 1,
+          "travel_miles": 0,
+          "travel_desc": "",
           "source": "ESPN Scoreboard API"
         }
       },
       "edge_factors": [
-        "\ud83d\udca4 LAL fatigued (B2B) \u2014 source: ESPN"
+        "\ud83d\udcca 23.2pt probability edge"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -813,7 +548,7 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "HOU on Back-to-Back \u26a0\ufe0f per ESPN schedule data. LAL on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "trend": "Houston Rockets hold a 61.6% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
         "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
@@ -829,22 +564,167 @@
       },
       "news": [
         {
-          "title": "Sources: KD out again for Game 6 due to ankle",
-          "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/nba/story/_/id/48636781/sources-rockets-kevin-durant-miss-game-6-vs-lakers",
-          "published": "Thu, 30 Apr 2026 18:59:39 EST"
+          "title": "Game 5 of NBA playoffs Lakers vs Rockets brings star-studded crowd with Ted Lasso\u2019s Jason Sudekis, Brenda Song, Macaulay Culkin and more",
+          "source": "New York Post",
+          "link": "https://nypost.com/2026/04/29/sports/celebrities-pack-lakers-vs-rockets-game-5-from-ted-lassos-jason-sudekis-to-brenda-song-and-more/?utm_source=yahoo&amp;utm_campaign=nypost&amp;utm_medium=referral",
+          "published": "2026-04-30T03:33:49Z"
         },
         {
-          "title": "Rockets outlast Lakers to push series to Game 6",
-          "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/nba/story/_/id/48634767/rockets-outlast-lakers-reaves-return-force-game-6",
-          "published": "Thu, 30 Apr 2026 18:59:40 EST"
+          "title": "Game 5 of NBA playoffs Lakers vs Rockets brings star-studded crowd with Ted Lasso\u2019s Jason Sudekis, Brenda Song, Macaulay Culkin and more",
+          "source": "New York Post",
+          "link": "https://nypost.com/2026/04/29/sports/celebrities-pack-lakers-vs-rockets-game-5-from-ted-lassos-jason-sudekis-to-brenda-song-and-more/",
+          "published": "2026-04-30T03:33:49Z"
         },
         {
-          "title": "NBA offseason guides: Draft, free agency, trade ta...",
-          "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/nba/story/_/id/48432907/nba-offseason-2026-draft-free-agency-trade-targets-30-teams",
-          "published": "Wed, 29 Apr 2026 00:31:13 EST"
+          "title": "Live Updates: Magic look to eliminate Pistons - NBA",
+          "source": "Slashdot.org",
+          "link": "https://slashdot.org/firehose.pl?op=view&amp;id=183068264",
+          "published": "2026-04-30T03:32:28Z"
+        }
+      ]
+    },
+    {
+      "game": "Philadelphia 76ers @ Boston Celtics",
+      "home_team": "Boston Celtics",
+      "away_team": "Philadelphia 76ers",
+      "home_abbr": "BOS",
+      "away_abbr": "PHI",
+      "home_ml": "-310",
+      "away_ml": "+250",
+      "home_ml_raw": -310,
+      "away_ml_raw": 250,
+      "home_prob": 72.6,
+      "away_prob": 27.4,
+      "spread": "BOS -8.5",
+      "favorite": "Boston Celtics",
+      "pick": "Boston Celtics",
+      "pick_abbr": "BOS",
+      "moneyline": "-310",
+      "win_probability": 72.6,
+      "confidence": "HIGH",
+      "confidence_stars": "\u2605\u2605\u2605",
+      "commence_time": "2026-05-02T19:00:00Z",
+      "line_movement": {
+        "home": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "away": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "pick": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "snapshot_time": "\u2014"
+      },
+      "fatigue": {
+        "home": {
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Apr 30",
+          "days_rest": 1,
+          "games_last_4d": 2,
+          "travel_miles": 273,
+          "travel_desc": "273 mi road trip",
+          "source": "ESPN Scoreboard API"
+        },
+        "away": {
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Apr 30",
+          "days_rest": 1,
+          "games_last_4d": 2,
+          "travel_miles": 273,
+          "travel_desc": "273 mi road trip",
+          "source": "ESPN Scoreboard API"
+        }
+      },
+      "edge_factors": [
+        "\ud83d\udca4 PHI fatigued (B2B) \u2014 source: ESPN"
+      ],
+      "injury_notes": "No key injuries.",
+      "sharp": {
+        "away_t": null,
+        "home_t": null,
+        "source": null,
+        "sharp_signal": null,
+        "sharp_label": "Pending \u2014 check closer to tip-off",
+        "rlm": false
+      },
+      "form": {
+        "home": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        },
+        "away": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        }
+      },
+      "h2h": {
+        "total_meetings": 0,
+        "home_wins": 0,
+        "away_wins": 0,
+        "meetings": [],
+        "source": "\u2014"
+      },
+      "briefing": {
+        "trend": "BOS on Back-to-Back \u26a0\ufe0f per ESPN schedule data. PHI on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "matchup": "Both rosters appear healthy \u2014 clean line.",
+        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "injury_notes": "No key injuries."
+      },
+      "live": {
+        "status": "pre",
+        "status_detail": "Upcoming",
+        "period": 0,
+        "clock": "",
+        "home_score": 0,
+        "away_score": 0,
+        "spread_alert": null
+      },
+      "news": [
+        {
+          "title": "Game 5 of NBA playoffs Lakers vs Rockets brings star-studded crowd with Ted Lasso\u2019s Jason Sudekis, Brenda Song, Macaulay Culkin and more",
+          "source": "New York Post",
+          "link": "https://nypost.com/2026/04/29/sports/celebrities-pack-lakers-vs-rockets-game-5-from-ted-lassos-jason-sudekis-to-brenda-song-and-more/?utm_source=yahoo&amp;utm_campaign=nypost&amp;utm_medium=referral",
+          "published": "2026-04-30T03:33:49Z"
+        },
+        {
+          "title": "Game 5 of NBA playoffs Lakers vs Rockets brings star-studded crowd with Ted Lasso\u2019s Jason Sudekis, Brenda Song, Macaulay Culkin and more",
+          "source": "New York Post",
+          "link": "https://nypost.com/2026/04/29/sports/celebrities-pack-lakers-vs-rockets-game-5-from-ted-lassos-jason-sudekis-to-brenda-song-and-more/",
+          "published": "2026-04-30T03:33:49Z"
+        },
+        {
+          "title": "Live Updates: Magic look to eliminate Pistons - NBA",
+          "source": "Slashdot.org",
+          "link": "https://slashdot.org/firehose.pl?op=view&amp;id=183068264",
+          "published": "2026-04-30T03:32:28Z"
         }
       ]
     }
