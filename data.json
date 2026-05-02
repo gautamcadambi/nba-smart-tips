@@ -1,82 +1,81 @@
 {
-  "last_updated": "May 02, 2026 at 03:23 AM UTC",
+  "last_updated": "May 02, 2026 at 05:55 AM UTC",
   "total_games": 5,
   "games": [
     {
-      "game": "Los Angeles Lakers @ Houston Rockets",
-      "home_team": "Houston Rockets",
-      "away_team": "Los Angeles Lakers",
-      "home_abbr": "HOU",
-      "away_abbr": "LAL",
-      "home_ml": "+1600",
-      "away_ml": "-4800",
-      "home_ml_raw": 1600,
-      "away_ml_raw": -4800,
-      "home_prob": 5.7,
-      "away_prob": 94.3,
-      "spread": "HOU +15.5",
-      "favorite": "Los Angeles Lakers",
-      "pick": "Los Angeles Lakers",
-      "pick_abbr": "LAL",
-      "moneyline": "-4800",
-      "win_probability": 94.3,
-      "confidence": "HIGH",
-      "confidence_stars": "\u2605\u2605\u2605",
-      "commence_time": "2026-05-02T01:48:34Z",
+      "game": "Philadelphia 76ers @ Boston Celtics",
+      "home_team": "Boston Celtics",
+      "away_team": "Philadelphia 76ers",
+      "home_abbr": "BOS",
+      "away_abbr": "PHI",
+      "home_ml": "-290",
+      "away_ml": "+235",
+      "home_ml_raw": -290,
+      "away_ml_raw": 235,
+      "home_prob": 71.4,
+      "away_prob": 28.6,
+      "spread": "BOS -7.5",
+      "favorite": "Boston Celtics",
+      "pick": "Boston Celtics",
+      "pick_abbr": "BOS",
+      "moneyline": "-290",
+      "win_probability": 71.4,
+      "confidence": "MEDIUM",
+      "confidence_stars": "\u2605\u2605\u2606",
+      "commence_time": "2026-05-02T23:40:00Z",
       "line_movement": {
         "home": {
           "direction": "longer",
-          "points_moved": 1766,
+          "points_moved": 15,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM +1600 \u2190 -166",
-          "old_ml": "-166",
-          "new_ml": "+1600"
+          "label": "\ud83d\udd25 STEAM -290 \u2190 -305",
+          "old_ml": "-305",
+          "new_ml": "-290"
         },
         "away": {
           "direction": "shorter",
-          "points_moved": 4940,
+          "points_moved": 10,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM -4800 \u2190 +140",
-          "old_ml": "+140",
-          "new_ml": "-4800"
+          "label": "\ud83d\udd25 STEAM +235 \u2190 +245",
+          "old_ml": "+245",
+          "new_ml": "+235"
         },
         "pick": {
-          "direction": "shorter",
-          "points_moved": 4940,
+          "direction": "longer",
+          "points_moved": 15,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM -4800 \u2190 +140",
-          "old_ml": "+140",
-          "new_ml": "-4800"
+          "label": "\ud83d\udd25 STEAM -290 \u2190 -305",
+          "old_ml": "-305",
+          "new_ml": "-290"
         },
-        "snapshot_time": "May 01, 2026 at 11:53 PM UTC"
+        "snapshot_time": "May 02, 2026 at 03:23 AM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
-          "last_game": "May 01",
-          "days_rest": 1,
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
+          "last_game": "Apr 30",
+          "days_rest": 2,
           "games_last_4d": 2,
-          "travel_miles": 1373,
-          "travel_desc": "1,373 mi road trip",
+          "travel_miles": 273,
+          "travel_desc": "273 mi road trip",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
-          "last_game": "May 01",
-          "days_rest": 1,
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
+          "last_game": "Apr 30",
+          "days_rest": 2,
           "games_last_4d": 2,
-          "travel_miles": 1373,
-          "travel_desc": "1,373 mi road trip",
+          "travel_miles": 273,
+          "travel_desc": "273 mi road trip",
           "source": "ESPN Scoreboard API"
         }
       },
       "edge_factors": [
-        "\ud83d\udd25 Sharp steam detected",
-        "\ud83d\udca4 HOU fatigued (B2B) \u2014 source: ESPN"
+        "\ud83d\udd25 Sharp steam detected"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -113,9 +112,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "HOU on Back-to-Back \u26a0\ufe0f per ESPN schedule data. LAL on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "trend": "Boston Celtics hold a 71.4% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from +140 to -4800 (4940pt move) \u2014 heavy professional action on Los Angeles Lakers.",
+        "steam": "Line steamed from -305 to -290 (15pt move) \u2014 heavy professional action on Boston Celtics.",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -129,95 +128,102 @@
       },
       "news": [
         {
-          "title": "Follow live: Lakers in control as Rockets look to ...",
-          "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/nba/game/_/gameId/401869409/lakers-rockets",
-          "published": "Fri, 1 May 2026 23:11:39 EST"
+          "title": "Knicks roll into Round 2, await 76ers-Celtics winner and wonder if they've found their best groove",
+          "source": "Yahoo Entertainment",
+          "link": "https://sports.yahoo.com/articles/knicks-roll-round-2-await-055129288.html",
+          "published": "2026-05-01T05:51:29Z"
         },
         {
-          "title": "Rare Air: Kobe Bryant's signed, game-worn Jordan I...",
-          "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/nba/story/_/id/48641358/kobe-bryant-air-jordan-auction-500k",
-          "published": "Fri, 1 May 2026 20:35:38 EST"
+          "title": "Timberwolves eliminate Nuggets as Knicks demolish Hawks in NBA playoffs",
+          "source": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/sports/2026/5/1/timberwolves-eliminate-nuggets-as-knicks-demolish-hawks-in-nba-playoffs",
+          "published": "2026-05-01T05:50:23Z"
+        },
+        {
+          "title": "Kylie Jenner slashes price on $20million Hidden Hills mansion after just one month on the market",
+          "source": "Dailymail.com",
+          "link": "https://www.dailymail.com/tvshowbiz/article-15781375/kylie-jenner-slashed-price-20million-hidden-hills-mansion.html",
+          "published": "2026-05-01T05:45:19Z"
         }
       ]
     },
     {
-      "game": "Philadelphia 76ers @ Boston Celtics",
-      "home_team": "Boston Celtics",
-      "away_team": "Philadelphia 76ers",
-      "home_abbr": "BOS",
-      "away_abbr": "PHI",
-      "home_ml": "-305",
-      "away_ml": "+245",
-      "home_ml_raw": -305,
-      "away_ml_raw": 245,
-      "home_prob": 72.2,
-      "away_prob": 27.8,
-      "spread": "BOS -8.5",
-      "favorite": "Boston Celtics",
-      "pick": "Boston Celtics",
-      "pick_abbr": "BOS",
-      "moneyline": "-305",
-      "win_probability": 72.2,
+      "game": "Orlando Magic @ Detroit Pistons",
+      "home_team": "Detroit Pistons",
+      "away_team": "Orlando Magic",
+      "home_abbr": "DET",
+      "away_abbr": "ORL",
+      "home_ml": "-410",
+      "away_ml": "+320",
+      "home_ml_raw": -410,
+      "away_ml_raw": 320,
+      "home_prob": 77.2,
+      "away_prob": 22.8,
+      "spread": "DET -9.5",
+      "favorite": "Detroit Pistons",
+      "pick": "Detroit Pistons",
+      "pick_abbr": "DET",
+      "moneyline": "-410",
+      "win_probability": 77.2,
       "confidence": "HIGH",
       "confidence_stars": "\u2605\u2605\u2605",
-      "commence_time": "2026-05-02T23:40:00Z",
+      "commence_time": "2026-05-03T19:40:00Z",
       "line_movement": {
         "home": {
           "direction": "shorter",
           "points_moved": 15,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM -305 \u2190 -290",
-          "old_ml": "-290",
-          "new_ml": "-305"
+          "label": "\ud83d\udd25 STEAM -410 \u2190 -395",
+          "old_ml": "-395",
+          "new_ml": "-410"
         },
         "away": {
           "direction": "longer",
           "points_moved": 10,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM +245 \u2190 +235",
-          "old_ml": "+235",
-          "new_ml": "+245"
+          "label": "\ud83d\udd25 STEAM +320 \u2190 +310",
+          "old_ml": "+310",
+          "new_ml": "+320"
         },
         "pick": {
           "direction": "shorter",
           "points_moved": 15,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM -305 \u2190 -290",
-          "old_ml": "-290",
-          "new_ml": "-305"
+          "label": "\ud83d\udd25 STEAM -410 \u2190 -395",
+          "old_ml": "-395",
+          "new_ml": "-410"
         },
-        "snapshot_time": "May 01, 2026 at 11:53 PM UTC"
+        "snapshot_time": "May 02, 2026 at 03:23 AM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "Apr 30",
-          "days_rest": 2,
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "May 01",
+          "days_rest": 1,
           "games_last_4d": 2,
-          "travel_miles": 273,
-          "travel_desc": "273 mi road trip",
+          "travel_miles": 958,
+          "travel_desc": "958 mi road trip",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "Apr 30",
-          "days_rest": 2,
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "May 01",
+          "days_rest": 1,
           "games_last_4d": 2,
-          "travel_miles": 273,
-          "travel_desc": "273 mi road trip",
+          "travel_miles": 958,
+          "travel_desc": "958 mi road trip",
           "source": "ESPN Scoreboard API"
         }
       },
       "edge_factors": [
-        "\ud83d\udd25 Sharp steam detected"
+        "\ud83d\udd25 Sharp steam detected",
+        "\ud83d\udca4 ORL fatigued (B2B) \u2014 source: ESPN"
       ],
-      "injury_notes": "Joel Embiid (C)",
+      "injury_notes": "No key injuries.",
       "sharp": {
         "away_t": null,
         "home_t": null,
@@ -252,10 +258,10 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "Boston Celtics hold a 72.2% edge.",
+        "trend": "DET on Back-to-Back \u26a0\ufe0f per ESPN schedule data. ORL on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -290 to -305 (15pt move) \u2014 heavy professional action on Boston Celtics.",
-        "injury_notes": "Joel Embiid (C)"
+        "steam": "Line steamed from -395 to -410 (15pt move) \u2014 heavy professional action on Detroit Pistons.",
+        "injury_notes": "No key injuries."
       },
       "live": {
         "status": "pre",
@@ -268,10 +274,22 @@
       },
       "news": [
         {
-          "title": "Maxey, George deliver as Sixers push Celts to G7",
-          "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/nba/story/_/id/48643439/maxey-george-deliver-sixers-push-celtics-game-7",
-          "published": "Fri, 1 May 2026 23:07:24 EST"
+          "title": "Knicks roll into Round 2, await 76ers-Celtics winner and wonder if they've found their best groove",
+          "source": "Yahoo Entertainment",
+          "link": "https://sports.yahoo.com/articles/knicks-roll-round-2-await-055129288.html",
+          "published": "2026-05-01T05:51:29Z"
+        },
+        {
+          "title": "Timberwolves eliminate Nuggets as Knicks demolish Hawks in NBA playoffs",
+          "source": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/sports/2026/5/1/timberwolves-eliminate-nuggets-as-knicks-demolish-hawks-in-nba-playoffs",
+          "published": "2026-05-01T05:50:23Z"
+        },
+        {
+          "title": "Kylie Jenner slashes price on $20million Hidden Hills mansion after just one month on the market",
+          "source": "Dailymail.com",
+          "link": "https://www.dailymail.com/tvshowbiz/article-15781375/kylie-jenner-slashed-price-20million-hidden-hills-mansion.html",
+          "published": "2026-05-01T05:45:19Z"
         }
       ]
     },
@@ -295,33 +313,33 @@
       "win_probability": 70.5,
       "confidence": "MEDIUM",
       "confidence_stars": "\u2605\u2605\u2606",
-      "commence_time": "2026-05-03T17:00:00Z",
+      "commence_time": "2026-05-03T23:40:00Z",
       "line_movement": {
         "home": {
           "direction": "none",
           "points_moved": 0,
           "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "label": "No movement",
+          "old_ml": "-278",
+          "new_ml": "-278"
         },
         "away": {
           "direction": "none",
           "points_moved": 0,
           "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "label": "No movement",
+          "old_ml": "+225",
+          "new_ml": "+225"
         },
         "pick": {
           "direction": "none",
           "points_moved": 0,
           "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "label": "No movement",
+          "old_ml": "-278",
+          "new_ml": "-278"
         },
-        "snapshot_time": "\u2014"
+        "snapshot_time": "May 02, 2026 at 03:23 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -401,34 +419,191 @@
       },
       "news": [
         {
-          "title": "Barrett saves Raptors' season with dramatic 3",
-          "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/nba/story/_/id/48652146/barrett-saves-raptors-forces-game-7-dramatic-3-ot",
-          "published": "Fri, 1 May 2026 23:07:24 EST"
+          "title": "Knicks roll into Round 2, await 76ers-Celtics winner and wonder if they've found their best groove",
+          "source": "Yahoo Entertainment",
+          "link": "https://sports.yahoo.com/articles/knicks-roll-round-2-await-055129288.html",
+          "published": "2026-05-01T05:51:29Z"
+        },
+        {
+          "title": "Timberwolves eliminate Nuggets as Knicks demolish Hawks in NBA playoffs",
+          "source": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/sports/2026/5/1/timberwolves-eliminate-nuggets-as-knicks-demolish-hawks-in-nba-playoffs",
+          "published": "2026-05-01T05:50:23Z"
+        },
+        {
+          "title": "Kylie Jenner slashes price on $20million Hidden Hills mansion after just one month on the market",
+          "source": "Dailymail.com",
+          "link": "https://www.dailymail.com/tvshowbiz/article-15781375/kylie-jenner-slashed-price-20million-hidden-hills-mansion.html",
+          "published": "2026-05-01T05:45:19Z"
         }
       ]
     },
     {
-      "game": "Orlando Magic @ Detroit Pistons",
-      "home_team": "Detroit Pistons",
-      "away_team": "Orlando Magic",
-      "home_abbr": "DET",
-      "away_abbr": "ORL",
-      "home_ml": "-395",
-      "away_ml": "+310",
-      "home_ml_raw": -395,
-      "away_ml_raw": 310,
-      "home_prob": 76.6,
-      "away_prob": 23.4,
-      "spread": "DET -9.5",
-      "favorite": "Detroit Pistons",
-      "pick": "Detroit Pistons",
-      "pick_abbr": "DET",
-      "moneyline": "-395",
-      "win_probability": 76.6,
+      "game": "Minnesota Timberwolves @ San Antonio Spurs",
+      "home_team": "San Antonio Spurs",
+      "away_team": "Minnesota Timberwolves",
+      "home_abbr": "SAS",
+      "away_abbr": "MIN",
+      "home_ml": "-900",
+      "away_ml": "+600",
+      "home_ml_raw": -900,
+      "away_ml_raw": 600,
+      "home_prob": 86.3,
+      "away_prob": 13.7,
+      "spread": "SAS -13.5",
+      "favorite": "San Antonio Spurs",
+      "pick": "San Antonio Spurs",
+      "pick_abbr": "SAS",
+      "moneyline": "-900",
+      "win_probability": 86.3,
       "confidence": "HIGH",
       "confidence_stars": "\u2605\u2605\u2605",
-      "commence_time": "2026-05-03T19:40:00Z",
+      "commence_time": "2026-05-05T01:30:00Z",
+      "line_movement": {
+        "home": {
+          "direction": "longer",
+          "points_moved": 100,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -900 \u2190 -1000",
+          "old_ml": "-1000",
+          "new_ml": "-900"
+        },
+        "away": {
+          "direction": "shorter",
+          "points_moved": 50,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM +600 \u2190 +650",
+          "old_ml": "+650",
+          "new_ml": "+600"
+        },
+        "pick": {
+          "direction": "longer",
+          "points_moved": 100,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -900 \u2190 -1000",
+          "old_ml": "-1000",
+          "new_ml": "-900"
+        },
+        "snapshot_time": "May 02, 2026 at 03:23 AM UTC"
+      },
+      "fatigue": {
+        "home": {
+          "status": "FRESH",
+          "label": "Well rested \u2705",
+          "battery": 100,
+          "last_game": "Apr 28",
+          "days_rest": 4,
+          "games_last_4d": 1,
+          "travel_miles": 0,
+          "travel_desc": "",
+          "source": "ESPN Scoreboard API"
+        },
+        "away": {
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
+          "last_game": "Apr 30",
+          "days_rest": 2,
+          "games_last_4d": 1,
+          "travel_miles": 0,
+          "travel_desc": "",
+          "source": "ESPN Scoreboard API"
+        }
+      },
+      "edge_factors": [
+        "\ud83d\udd25 Sharp steam detected"
+      ],
+      "injury_notes": "No key injuries.",
+      "sharp": {
+        "away_t": null,
+        "home_t": null,
+        "source": null,
+        "sharp_signal": null,
+        "sharp_label": "Pending \u2014 check closer to tip-off",
+        "rlm": false
+      },
+      "form": {
+        "home": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        },
+        "away": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        }
+      },
+      "h2h": {
+        "total_meetings": 0,
+        "home_wins": 0,
+        "away_wins": 0,
+        "meetings": [],
+        "source": "\u2014"
+      },
+      "briefing": {
+        "trend": "San Antonio Spurs hold a 86.3% edge.",
+        "matchup": "Both rosters appear healthy \u2014 clean line.",
+        "steam": "Line steamed from -1000 to -900 (100pt move) \u2014 heavy professional action on San Antonio Spurs.",
+        "injury_notes": "No key injuries."
+      },
+      "live": {
+        "status": "pre",
+        "status_detail": "Upcoming",
+        "period": 0,
+        "clock": "",
+        "home_score": 0,
+        "away_score": 0,
+        "spread_alert": null
+      },
+      "news": [
+        {
+          "title": "Knicks roll into Round 2, await 76ers-Celtics winner and wonder if they've found their best groove",
+          "source": "Yahoo Entertainment",
+          "link": "https://sports.yahoo.com/articles/knicks-roll-round-2-await-055129288.html",
+          "published": "2026-05-01T05:51:29Z"
+        },
+        {
+          "title": "Timberwolves eliminate Nuggets as Knicks demolish Hawks in NBA playoffs",
+          "source": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/sports/2026/5/1/timberwolves-eliminate-nuggets-as-knicks-demolish-hawks-in-nba-playoffs",
+          "published": "2026-05-01T05:50:23Z"
+        },
+        {
+          "title": "Kylie Jenner slashes price on $20million Hidden Hills mansion after just one month on the market",
+          "source": "Dailymail.com",
+          "link": "https://www.dailymail.com/tvshowbiz/article-15781375/kylie-jenner-slashed-price-20million-hidden-hills-mansion.html",
+          "published": "2026-05-01T05:45:19Z"
+        }
+      ]
+    },
+    {
+      "game": "Los Angeles Lakers @ Oklahoma City Thunder",
+      "home_team": "Oklahoma City Thunder",
+      "away_team": "Los Angeles Lakers",
+      "home_abbr": "OKC",
+      "away_abbr": "LAL",
+      "home_ml": "-1000",
+      "away_ml": "+650",
+      "home_ml_raw": -1000,
+      "away_ml_raw": 650,
+      "home_prob": 87.2,
+      "away_prob": 12.8,
+      "spread": "OKC -15.5",
+      "favorite": "Oklahoma City Thunder",
+      "pick": "Oklahoma City Thunder",
+      "pick_abbr": "OKC",
+      "moneyline": "-1000",
+      "win_probability": 87.2,
+      "confidence": "HIGH",
+      "confidence_stars": "\u2605\u2605\u2605",
+      "commence_time": "2026-05-05T23:10:00Z",
       "line_movement": {
         "home": {
           "direction": "none",
@@ -458,177 +633,32 @@
       },
       "fatigue": {
         "home": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
-          "last_game": "May 01",
-          "days_rest": 1,
-          "games_last_4d": 2,
-          "travel_miles": 958,
-          "travel_desc": "958 mi road trip",
-          "source": "ESPN Scoreboard API"
-        },
-        "away": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
-          "last_game": "May 01",
-          "days_rest": 1,
-          "games_last_4d": 2,
-          "travel_miles": 958,
-          "travel_desc": "958 mi road trip",
-          "source": "ESPN Scoreboard API"
-        }
-      },
-      "edge_factors": [
-        "\ud83d\udca4 ORL fatigued (B2B) \u2014 source: ESPN"
-      ],
-      "injury_notes": "Kevin Huerter (G); Franz Wagner (F)",
-      "sharp": {
-        "away_t": null,
-        "home_t": null,
-        "source": null,
-        "sharp_signal": null,
-        "sharp_label": "Pending \u2014 check closer to tip-off",
-        "rlm": false
-      },
-      "form": {
-        "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        },
-        "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        }
-      },
-      "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
-      },
-      "briefing": {
-        "trend": "DET on Back-to-Back \u26a0\ufe0f per ESPN schedule data. ORL on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
-        "injury_notes": "Kevin Huerter (G); Franz Wagner (F)"
-      },
-      "live": {
-        "status": "pre",
-        "status_detail": "Upcoming",
-        "period": 0,
-        "clock": "",
-        "home_score": 0,
-        "away_score": 0,
-        "spread_alert": null
-      },
-      "news": [
-        {
-          "title": "Pistons roar back to stun ice-cold Magic, force G7...",
-          "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/nba/story/_/id/48651456/pistons-stun-ice-cold-magic-furious-2nd-half-rally-force-game-7",
-          "published": "Fri, 1 May 2026 23:07:24 EST"
-        },
-        {
-          "title": "East playoff takeaways: Pistons complete comeback,...",
-          "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/nba/story/_/id/48506456/2026-nba-playoffs-eastern-conference-round-one-takeaways",
-          "published": "Fri, 1 May 2026 23:11:55 EST"
-        },
-        {
-          "title": "Copy of How a trade 19 years ago is *still* helping the Ok...",
-          "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/nba/story/_/id/48553241/sam-presti-rashard-lewis-sga-trade-19-years-ago-helping-oklahoma-city-thunder-their-title-hopes",
-          "published": "Thu, 30 Apr 2026 08:05:38 EST"
-        }
-      ]
-    },
-    {
-      "game": "Minnesota Timberwolves @ San Antonio Spurs",
-      "home_team": "San Antonio Spurs",
-      "away_team": "Minnesota Timberwolves",
-      "home_abbr": "SAS",
-      "away_abbr": "MIN",
-      "home_ml": "-1000",
-      "away_ml": "+650",
-      "home_ml_raw": -1000,
-      "away_ml_raw": 650,
-      "home_prob": 87.2,
-      "away_prob": 12.8,
-      "spread": "SAS -14.5",
-      "favorite": "San Antonio Spurs",
-      "pick": "San Antonio Spurs",
-      "pick_abbr": "SAS",
-      "moneyline": "-1000",
-      "win_probability": 87.2,
-      "confidence": "HIGH",
-      "confidence_stars": "\u2605\u2605\u2605",
-      "commence_time": "2026-05-05T01:30:00Z",
-      "line_movement": {
-        "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
-          "old_ml": "-1000",
-          "new_ml": "-1000"
-        },
-        "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
-          "old_ml": "+650",
-          "new_ml": "+650"
-        },
-        "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
-          "old_ml": "-1000",
-          "new_ml": "-1000"
-        },
-        "snapshot_time": "May 01, 2026 at 11:53 PM UTC"
-      },
-      "fatigue": {
-        "home": {
           "status": "FRESH",
           "label": "Well rested \u2705",
           "battery": 100,
-          "last_game": "Apr 28",
-          "days_rest": 4,
-          "games_last_4d": 1,
+          "last_game": "\u2014",
+          "days_rest": 99,
+          "games_last_4d": 0,
           "travel_miles": 0,
           "travel_desc": "",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "Apr 30",
-          "days_rest": 2,
-          "games_last_4d": 1,
-          "travel_miles": 0,
-          "travel_desc": "",
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "May 01",
+          "days_rest": 1,
+          "games_last_4d": 2,
+          "travel_miles": 1373,
+          "travel_desc": "1,373 mi road trip",
           "source": "ESPN Scoreboard API"
         }
       },
       "edge_factors": [
-        "\ud83d\udcca 74.4pt probability edge"
+        "\ud83d\udca4 LAL fatigued (B2B) \u2014 source: ESPN"
       ],
-      "injury_notes": "Ayo Dosunmu (G); Kyle Anderson (F)",
+      "injury_notes": "No key injuries.",
       "sharp": {
         "away_t": null,
         "home_t": null,
@@ -663,10 +693,10 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "San Antonio Spurs hold a 87.2% edge.",
+        "trend": "LAL on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
         "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
-        "injury_notes": "Ayo Dosunmu (G); Kyle Anderson (F)"
+        "injury_notes": "No key injuries."
       },
       "live": {
         "status": "pre",
@@ -679,22 +709,22 @@
       },
       "news": [
         {
-          "title": "NBA Futures: Knicks advance, at 19-1 to win champi...",
-          "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/espn/betting/story/_/id/45539787/2026-nba-finals-odds-mvp-2025-26-championship-betting",
-          "published": "Fri, 1 May 2026 20:57:16 EST"
+          "title": "Knicks roll into Round 2, await 76ers-Celtics winner and wonder if they've found their best groove",
+          "source": "Yahoo Entertainment",
+          "link": "https://sports.yahoo.com/articles/knicks-roll-round-2-await-055129288.html",
+          "published": "2026-05-01T05:51:29Z"
         },
         {
-          "title": "West playoff takeaways: Timberwolves move on to Ro...",
-          "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/nba/story/_/id/48506452/2026-nba-playoffs-western-conference-round-one-takeaways",
-          "published": "Fri, 1 May 2026 20:58:29 EST"
+          "title": "Timberwolves eliminate Nuggets as Knicks demolish Hawks in NBA playoffs",
+          "source": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/sports/2026/5/1/timberwolves-eliminate-nuggets-as-knicks-demolish-hawks-in-nba-playoffs",
+          "published": "2026-05-01T05:50:23Z"
         },
         {
-          "title": "For DiVincenzo: Timberwolves turn Game 6 arrival i...",
-          "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/nba/story/_/id/48642316/minnesota-timberwolves-donte-divincenzo-jerseys-game-6-nba-playoffs",
-          "published": "Thu, 30 Apr 2026 23:05:06 EST"
+          "title": "Kylie Jenner slashes price on $20million Hidden Hills mansion after just one month on the market",
+          "source": "Dailymail.com",
+          "link": "https://www.dailymail.com/tvshowbiz/article-15781375/kylie-jenner-slashed-price-20million-hidden-hills-mansion.html",
+          "published": "2026-05-01T05:45:19Z"
         }
       ]
     }
