@@ -1,315 +1,7 @@
 {
-  "last_updated": "May 02, 2026 at 11:44 PM UTC",
+  "last_updated": "May 03, 2026 at 03:41 AM UTC",
   "total_games": 5,
   "games": [
-    {
-      "game": "Philadelphia 76ers @ Boston Celtics",
-      "home_team": "Boston Celtics",
-      "away_team": "Philadelphia 76ers",
-      "home_abbr": "BOS",
-      "away_abbr": "PHI",
-      "home_ml": "+100",
-      "away_ml": "-130",
-      "home_ml_raw": 100,
-      "away_ml_raw": -130,
-      "home_prob": 46.9,
-      "away_prob": 53.1,
-      "spread": "BOS +1.5",
-      "favorite": "Philadelphia 76ers",
-      "pick": "Philadelphia 76ers",
-      "pick_abbr": "PHI",
-      "moneyline": "-130",
-      "win_probability": 53.1,
-      "confidence": "LOW",
-      "confidence_stars": "\u2605\u2606\u2606",
-      "commence_time": "2026-05-02T23:36:16Z",
-      "line_movement": {
-        "home": {
-          "direction": "longer",
-          "points_moved": 262,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM +100 \u2190 -162",
-          "old_ml": "-162",
-          "new_ml": "+100"
-        },
-        "away": {
-          "direction": "shorter",
-          "points_moved": 266,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -130 \u2190 +136",
-          "old_ml": "+136",
-          "new_ml": "-130"
-        },
-        "pick": {
-          "direction": "shorter",
-          "points_moved": 266,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -130 \u2190 +136",
-          "old_ml": "+136",
-          "new_ml": "-130"
-        },
-        "snapshot_time": "May 02, 2026 at 10:43 PM UTC"
-      },
-      "fatigue": {
-        "home": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "Apr 30",
-          "days_rest": 2,
-          "games_last_4d": 2,
-          "travel_miles": 273,
-          "travel_desc": "273 mi road trip",
-          "source": "ESPN Scoreboard API"
-        },
-        "away": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "Apr 30",
-          "days_rest": 2,
-          "games_last_4d": 2,
-          "travel_miles": 273,
-          "travel_desc": "273 mi road trip",
-          "source": "ESPN Scoreboard API"
-        }
-      },
-      "edge_factors": [
-        "\ud83d\udd25 Sharp steam detected"
-      ],
-      "injury_notes": "No key injuries.",
-      "sharp": {
-        "away_t": null,
-        "home_t": null,
-        "source": null,
-        "sharp_signal": null,
-        "sharp_label": "Pending \u2014 check closer to tip-off",
-        "rlm": false
-      },
-      "form": {
-        "home": {
-          "last_10": [
-            {
-              "date": "May 02",
-              "result": "W",
-              "pts": 112,
-              "opp": "TOR",
-              "away": false
-            },
-            {
-              "date": "May 02",
-              "result": "W",
-              "pts": 129,
-              "opp": "MIA",
-              "away": false
-            },
-            {
-              "date": "May 02",
-              "result": "L",
-              "pts": 105,
-              "opp": "DET",
-              "away": false
-            },
-            {
-              "date": "May 02",
-              "result": "W",
-              "pts": 140,
-              "opp": "IND",
-              "away": false
-            },
-            {
-              "date": "May 02",
-              "result": "W",
-              "pts": 103,
-              "opp": "IND",
-              "away": false
-            },
-            {
-              "date": "May 02",
-              "result": "W",
-              "pts": 126,
-              "opp": "LAL",
-              "away": false
-            },
-            {
-              "date": "May 02",
-              "result": "W",
-              "pts": 123,
-              "opp": "NYK",
-              "away": false
-            },
-            {
-              "date": "May 02",
-              "result": "W",
-              "pts": 146,
-              "opp": "WAS",
-              "away": false
-            },
-            {
-              "date": "May 02",
-              "result": "W",
-              "pts": 121,
-              "opp": "TOR",
-              "away": false
-            },
-            {
-              "date": "May 02",
-              "result": "L",
-              "pts": 101,
-              "opp": "MIL",
-              "away": false
-            }
-          ],
-          "wins": 8,
-          "losses": 2,
-          "streak": "W2",
-          "form_str": "WWLWWWWWWL",
-          "source": "NBA.com via nba_api"
-        },
-        "away": {
-          "last_10": [
-            {
-              "date": "May 02",
-              "result": "W",
-              "pts": 121,
-              "opp": "DAL",
-              "away": false
-            },
-            {
-              "date": "May 02",
-              "result": "W",
-              "pts": 116,
-              "opp": "NYK",
-              "away": false
-            },
-            {
-              "date": "May 02",
-              "result": "L",
-              "pts": 102,
-              "opp": "CHI",
-              "away": false
-            },
-            {
-              "date": "May 02",
-              "result": "L",
-              "pts": 106,
-              "opp": "BKN",
-              "away": false
-            },
-            {
-              "date": "May 02",
-              "result": "W",
-              "pts": 116,
-              "opp": "MIL",
-              "away": false
-            },
-            {
-              "date": "May 02",
-              "result": "W",
-              "pts": 99,
-              "opp": "GSW",
-              "away": false
-            },
-            {
-              "date": "May 02",
-              "result": "W",
-              "pts": 121,
-              "opp": "WAS",
-              "away": false
-            },
-            {
-              "date": "May 02",
-              "result": "W",
-              "pts": 115,
-              "opp": "IND",
-              "away": false
-            },
-            {
-              "date": "May 02",
-              "result": "L",
-              "pts": 117,
-              "opp": "ATL",
-              "away": false
-            },
-            {
-              "date": "May 02",
-              "result": "L",
-              "pts": 108,
-              "opp": "LAL",
-              "away": false
-            }
-          ],
-          "wins": 6,
-          "losses": 4,
-          "streak": "W2",
-          "form_str": "WWLLWWWWLL",
-          "source": "NBA.com via nba_api"
-        }
-      },
-      "h2h": {
-        "total_meetings": 4,
-        "home_wins": 2,
-        "away_wins": 2,
-        "meetings": [
-          {
-            "date": "2025-10-22",
-            "home_result": "L",
-            "pts": 116
-          },
-          {
-            "date": "2025-10-31",
-            "home_result": "W",
-            "pts": 109
-          },
-          {
-            "date": "2025-11-11",
-            "home_result": "L",
-            "pts": 100
-          },
-          {
-            "date": "2026-03-01",
-            "home_result": "W",
-            "pts": 114
-          }
-        ],
-        "source": "NBA.com via nba_api"
-      },
-      "briefing": {
-        "trend": "BOS are 8-2 in their last 10 (streak: W2). PHI are 6-4 in their last 10 (streak: W2).",
-        "matchup": "Season series: BOS 2-2 vs PHI in 4 meetings. Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from +136 to -130 (266pt move) \u2014 heavy professional action on Philadelphia 76ers.",
-        "injury_notes": "No key injuries."
-      },
-      "live": {
-        "status": "pre",
-        "status_detail": "Upcoming",
-        "period": 0,
-        "clock": "",
-        "home_score": 0,
-        "away_score": 0,
-        "spread_alert": null
-      },
-      "news": [
-        {
-          "title": "Rockets, Ime Udoka unveil coaching philosophy that'll help in beating Lakers",
-          "source": "Sporting News",
-          "link": "https://www.sportingnews.com/us/nba/houston-rockets/news/rockets-ime-udoka-unveil-coaching-philosophy-thatll-help-beating-lakers/f5d4b296bd8e23bbbd8b81fe",
-          "published": "2026-05-01T23:40:22Z"
-        },
-        {
-          "title": "How the Knicks' versatility overwhelmed the Hawks and why it matters going forward in the playoffs",
-          "source": "SNY.tv",
-          "link": "https://sny.tv/articles/knicks-versatility-overwhelmed-hawks-why-it-matters",
-          "published": "2026-05-01T23:35:48Z"
-        },
-        {
-          "title": "WATCH: Google giving US students a shot at re-designing its homepage",
-          "source": "Abcnews.com",
-          "link": "https://abcnews.com/video/132584293/",
-          "published": "2026-05-01T23:35:06Z"
-        }
-      ]
-    },
     {
       "game": "Orlando Magic @ Detroit Pistons",
       "home_team": "Detroit Pistons",
@@ -356,26 +48,26 @@
           "old_ml": "-340",
           "new_ml": "-340"
         },
-        "snapshot_time": "May 02, 2026 at 10:43 PM UTC"
+        "snapshot_time": "May 02, 2026 at 11:44 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
           "last_game": "May 01",
-          "days_rest": 1,
+          "days_rest": 2,
           "games_last_4d": 2,
           "travel_miles": 958,
           "travel_desc": "958 mi road trip",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
           "last_game": "May 01",
-          "days_rest": 1,
+          "days_rest": 2,
           "games_last_4d": 2,
           "travel_miles": 958,
           "travel_desc": "958 mi road trip",
@@ -383,7 +75,7 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udca4 ORL fatigued (B2B) \u2014 source: ESPN"
+        "\ud83d\udcca 48.2pt probability edge"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -396,195 +88,32 @@
       },
       "form": {
         "home": {
-          "last_10": [
-            {
-              "date": "May 02",
-              "result": "W",
-              "pts": 112,
-              "opp": "CHA",
-              "away": false
-            },
-            {
-              "date": "May 02",
-              "result": "W",
-              "pts": 112,
-              "opp": "BOS",
-              "away": false
-            },
-            {
-              "date": "May 02",
-              "result": "L",
-              "pts": 114,
-              "opp": "DAL",
-              "away": false
-            },
-            {
-              "date": "May 02",
-              "result": "L",
-              "pts": 129,
-              "opp": "UTA",
-              "away": false
-            },
-            {
-              "date": "May 02",
-              "result": "W",
-              "pts": 136,
-              "opp": "SAC",
-              "away": false
-            },
-            {
-              "date": "May 02",
-              "result": "W",
-              "pts": 110,
-              "opp": "POR",
-              "away": false
-            },
-            {
-              "date": "May 02",
-              "result": "W",
-              "pts": 122,
-              "opp": "POR",
-              "away": false
-            },
-            {
-              "date": "May 02",
-              "result": "W",
-              "pts": 124,
-              "opp": "MIL",
-              "away": false
-            },
-            {
-              "date": "May 02",
-              "result": "L",
-              "pts": 109,
-              "opp": "MIL",
-              "away": false
-            },
-            {
-              "date": "May 02",
-              "result": "W",
-              "pts": 142,
-              "opp": "ATL",
-              "away": false
-            }
-          ],
-          "wins": 7,
-          "losses": 3,
-          "streak": "W2",
-          "form_str": "WWLLWWWWLW",
-          "source": "NBA.com via nba_api"
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
         },
         "away": {
-          "last_10": [
-            {
-              "date": "May 02",
-              "result": "W",
-              "pts": 128,
-              "opp": "UTA",
-              "away": false
-            },
-            {
-              "date": "May 02",
-              "result": "L",
-              "pts": 115,
-              "opp": "DEN",
-              "away": false
-            },
-            {
-              "date": "May 02",
-              "result": "L",
-              "pts": 105,
-              "opp": "CHA",
-              "away": false
-            },
-            {
-              "date": "May 02",
-              "result": "L",
-              "pts": 97,
-              "opp": "GSW",
-              "away": false
-            },
-            {
-              "date": "May 02",
-              "result": "W",
-              "pts": 110,
-              "opp": "POR",
-              "away": false
-            },
-            {
-              "date": "May 02",
-              "result": "W",
-              "pts": 106,
-              "opp": "MIA",
-              "away": false
-            },
-            {
-              "date": "May 02",
-              "result": "L",
-              "pts": 112,
-              "opp": "SAS",
-              "away": false
-            },
-            {
-              "date": "May 02",
-              "result": "L",
-              "pts": 120,
-              "opp": "ORL",
-              "away": true
-            },
-            {
-              "date": "May 02",
-              "result": "L",
-              "pts": 100,
-              "opp": "NYK",
-              "away": false
-            },
-            {
-              "date": "May 02",
-              "result": "W",
-              "pts": 117,
-              "opp": "MIA",
-              "away": false
-            }
-          ],
-          "wins": 4,
-          "losses": 6,
-          "streak": "W1",
-          "form_str": "WLLLWWLLLW",
-          "source": "NBA.com via nba_api"
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
         }
       },
       "h2h": {
-        "total_meetings": 4,
-        "home_wins": 2,
-        "away_wins": 2,
-        "meetings": [
-          {
-            "date": "2025-10-29",
-            "home_result": "W",
-            "pts": 135
-          },
-          {
-            "date": "2025-11-28",
-            "home_result": "L",
-            "pts": 109
-          },
-          {
-            "date": "2026-04-06",
-            "home_result": "L",
-            "pts": 107
-          },
-          {
-            "date": "2026-03-01",
-            "home_result": "W",
-            "pts": 106
-          }
-        ],
-        "source": "NBA.com via nba_api"
+        "total_meetings": 0,
+        "home_wins": 0,
+        "away_wins": 0,
+        "meetings": [],
+        "source": "\u2014"
       },
       "briefing": {
-        "trend": "DET are 7-3 in their last 10 (streak: W2). ORL are 4-6 in their last 10 (streak: W1). DET on Back-to-Back \u26a0\ufe0f per ESPN schedule data. ORL on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
-        "matchup": "Season series: DET 2-2 vs ORL in 4 meetings. Both rosters appear healthy \u2014 clean line.",
+        "trend": "Detroit Pistons hold a 74.1% edge.",
+        "matchup": "Both rosters appear healthy \u2014 clean line.",
         "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
       },
@@ -599,22 +128,22 @@
       },
       "news": [
         {
-          "title": "Rockets, Ime Udoka unveil coaching philosophy that'll help in beating Lakers",
+          "title": "Magic went 45 minutes between made shots vs. Pistons, worst streak in NBA Playoffs this century",
           "source": "Sporting News",
-          "link": "https://www.sportingnews.com/us/nba/houston-rockets/news/rockets-ime-udoka-unveil-coaching-philosophy-thatll-help-beating-lakers/f5d4b296bd8e23bbbd8b81fe",
-          "published": "2026-05-01T23:40:22Z"
+          "link": "https://www.sportingnews.com/us/nba/orlando-magic/news/magic-went-45-minutes-between-made-shots-vs-pistons-worst-streak-nba-playoffs-century/65b560f2d5e0648198075e85",
+          "published": "2026-05-02T03:30:13Z"
         },
         {
-          "title": "How the Knicks' versatility overwhelmed the Hawks and why it matters going forward in the playoffs",
-          "source": "SNY.tv",
-          "link": "https://sny.tv/articles/knicks-versatility-overwhelmed-hawks-why-it-matters",
-          "published": "2026-05-01T23:35:48Z"
+          "title": "Magic collapse in Game 6 vs. Pistons with NBA-record shooting futility",
+          "source": "Daytona Beach News-Journal",
+          "link": "https://www.news-journalonline.com/story/sports/nba/2026/05/01/orlando-magic-detroit-pistons-game-6-nba-playoffs/89893373007/",
+          "published": "2026-05-02T03:27:49Z"
         },
         {
-          "title": "WATCH: Google giving US students a shot at re-designing its homepage",
-          "source": "Abcnews.com",
-          "link": "https://abcnews.com/video/132584293/",
-          "published": "2026-05-01T23:35:06Z"
+          "title": "Evan Mobley's crucial mistake for Cavs sums up the disappointment of his career",
+          "source": "Sporting News",
+          "link": "https://www.sportingnews.com/us/nba/cleveland-cavaliers/news/evan-mobley-crucial-mistake-cavs-sums-disappointment-career/9769c818f625f84e6eee8c60",
+          "published": "2026-05-02T03:27:26Z"
         }
       ]
     },
@@ -664,26 +193,26 @@
           "old_ml": "-325",
           "new_ml": "-325"
         },
-        "snapshot_time": "May 02, 2026 at 10:43 PM UTC"
+        "snapshot_time": "May 02, 2026 at 11:44 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
           "last_game": "May 01",
-          "days_rest": 1,
+          "days_rest": 2,
           "games_last_4d": 2,
           "travel_miles": 189,
           "travel_desc": "189 mi road trip",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
           "last_game": "May 01",
-          "days_rest": 1,
+          "days_rest": 2,
           "games_last_4d": 2,
           "travel_miles": 189,
           "travel_desc": "189 mi road trip",
@@ -691,7 +220,7 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udca4 TOR fatigued (B2B) \u2014 source: ESPN"
+        "\ud83d\udcca 46.8pt probability edge"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -704,190 +233,32 @@
       },
       "form": {
         "home": {
-          "last_10": [
-            {
-              "date": "May 02",
-              "result": "L",
-              "pts": 111,
-              "opp": "CHI",
-              "away": false
-            },
-            {
-              "date": "May 02",
-              "result": "L",
-              "pts": 125,
-              "opp": "CHI",
-              "away": false
-            },
-            {
-              "date": "May 02",
-              "result": "L",
-              "pts": 124,
-              "opp": "NYK",
-              "away": false
-            },
-            {
-              "date": "May 02",
-              "result": "W",
-              "pts": 141,
-              "opp": "NOP",
-              "away": false
-            },
-            {
-              "date": "May 02",
-              "result": "W",
-              "pts": 139,
-              "opp": "CHA",
-              "away": false
-            },
-            {
-              "date": "May 02",
-              "result": "W",
-              "pts": 130,
-              "opp": "SAS",
-              "away": false
-            },
-            {
-              "date": "May 02",
-              "result": "L",
-              "pts": 94,
-              "opp": "GSW",
-              "away": false
-            },
-            {
-              "date": "May 02",
-              "result": "L",
-              "pts": 110,
-              "opp": "POR",
-              "away": false
-            },
-            {
-              "date": "May 02",
-              "result": "W",
-              "pts": 130,
-              "opp": "WAS",
-              "away": false
-            },
-            {
-              "date": "May 02",
-              "result": "L",
-              "pts": 111,
-              "opp": "CHA",
-              "away": false
-            }
-          ],
-          "wins": 4,
-          "losses": 6,
-          "streak": "L3",
-          "form_str": "LLLWWWLLWL",
-          "source": "NBA.com via nba_api"
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
         },
         "away": {
-          "last_10": [
-            {
-              "date": "May 02",
-              "result": "L",
-              "pts": 81,
-              "opp": "BKN",
-              "away": false
-            },
-            {
-              "date": "May 02",
-              "result": "L",
-              "pts": 96,
-              "opp": "BOS",
-              "away": false
-            },
-            {
-              "date": "May 02",
-              "result": "W",
-              "pts": 111,
-              "opp": "MIL",
-              "away": false
-            },
-            {
-              "date": "May 02",
-              "result": "L",
-              "pts": 117,
-              "opp": "WAS",
-              "away": false
-            },
-            {
-              "date": "May 02",
-              "result": "W",
-              "pts": 112,
-              "opp": "MIA",
-              "away": false
-            },
-            {
-              "date": "May 02",
-              "result": "W",
-              "pts": 106,
-              "opp": "MIA",
-              "away": false
-            },
-            {
-              "date": "May 02",
-              "result": "L",
-              "pts": 86,
-              "opp": "CHA",
-              "away": false
-            },
-            {
-              "date": "May 02",
-              "result": "W",
-              "pts": 121,
-              "opp": "POR",
-              "away": false
-            },
-            {
-              "date": "May 02",
-              "result": "L",
-              "pts": 120,
-              "opp": "LAL",
-              "away": false
-            },
-            {
-              "date": "May 02",
-              "result": "L",
-              "pts": 113,
-              "opp": "BOS",
-              "away": false
-            }
-          ],
-          "wins": 4,
-          "losses": 6,
-          "streak": "L2",
-          "form_str": "LLWLWWLWLL",
-          "source": "NBA.com via nba_api"
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
         }
       },
       "h2h": {
-        "total_meetings": 3,
+        "total_meetings": 0,
         "home_wins": 0,
-        "away_wins": 3,
-        "meetings": [
-          {
-            "date": "2025-10-31",
-            "home_result": "L",
-            "pts": 101
-          },
-          {
-            "date": "2025-11-24",
-            "home_result": "L",
-            "pts": 99
-          },
-          {
-            "date": "2025-11-13",
-            "home_result": "L",
-            "pts": 113
-          }
-        ],
-        "source": "NBA.com via nba_api"
+        "away_wins": 0,
+        "meetings": [],
+        "source": "\u2014"
       },
       "briefing": {
-        "trend": "CLE are 4-6 in their last 10 (streak: L3). TOR are 4-6 in their last 10 (streak: L2). CLE on Back-to-Back \u26a0\ufe0f per ESPN schedule data. TOR on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
-        "matchup": "Season series: CLE 0-3 vs TOR in 3 meetings. Both rosters appear healthy \u2014 clean line.",
+        "trend": "Cleveland Cavaliers hold a 73.4% edge.",
+        "matchup": "Both rosters appear healthy \u2014 clean line.",
         "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
       },
@@ -902,22 +273,167 @@
       },
       "news": [
         {
-          "title": "Rockets, Ime Udoka unveil coaching philosophy that'll help in beating Lakers",
+          "title": "Magic went 45 minutes between made shots vs. Pistons, worst streak in NBA Playoffs this century",
           "source": "Sporting News",
-          "link": "https://www.sportingnews.com/us/nba/houston-rockets/news/rockets-ime-udoka-unveil-coaching-philosophy-thatll-help-beating-lakers/f5d4b296bd8e23bbbd8b81fe",
-          "published": "2026-05-01T23:40:22Z"
+          "link": "https://www.sportingnews.com/us/nba/orlando-magic/news/magic-went-45-minutes-between-made-shots-vs-pistons-worst-streak-nba-playoffs-century/65b560f2d5e0648198075e85",
+          "published": "2026-05-02T03:30:13Z"
         },
         {
-          "title": "How the Knicks' versatility overwhelmed the Hawks and why it matters going forward in the playoffs",
-          "source": "SNY.tv",
-          "link": "https://sny.tv/articles/knicks-versatility-overwhelmed-hawks-why-it-matters",
-          "published": "2026-05-01T23:35:48Z"
+          "title": "Magic collapse in Game 6 vs. Pistons with NBA-record shooting futility",
+          "source": "Daytona Beach News-Journal",
+          "link": "https://www.news-journalonline.com/story/sports/nba/2026/05/01/orlando-magic-detroit-pistons-game-6-nba-playoffs/89893373007/",
+          "published": "2026-05-02T03:27:49Z"
         },
         {
-          "title": "WATCH: Google giving US students a shot at re-designing its homepage",
-          "source": "Abcnews.com",
-          "link": "https://abcnews.com/video/132584293/",
-          "published": "2026-05-01T23:35:06Z"
+          "title": "Evan Mobley's crucial mistake for Cavs sums up the disappointment of his career",
+          "source": "Sporting News",
+          "link": "https://www.sportingnews.com/us/nba/cleveland-cavaliers/news/evan-mobley-crucial-mistake-cavs-sums-disappointment-career/9769c818f625f84e6eee8c60",
+          "published": "2026-05-02T03:27:26Z"
+        }
+      ]
+    },
+    {
+      "game": "Philadelphia 76ers @ New York Knicks",
+      "home_team": "New York Knicks",
+      "away_team": "Philadelphia 76ers",
+      "home_abbr": "NYK",
+      "away_abbr": "PHI",
+      "home_ml": "-258",
+      "away_ml": "+210",
+      "home_ml_raw": -258,
+      "away_ml_raw": 210,
+      "home_prob": 69.1,
+      "away_prob": 30.9,
+      "spread": "NYK -6.5",
+      "favorite": "New York Knicks",
+      "pick": "New York Knicks",
+      "pick_abbr": "NYK",
+      "moneyline": "-258",
+      "win_probability": 69.1,
+      "confidence": "MEDIUM",
+      "confidence_stars": "\u2605\u2605\u2606",
+      "commence_time": "2026-05-05T00:10:00Z",
+      "line_movement": {
+        "home": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "away": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "pick": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "snapshot_time": "\u2014"
+      },
+      "fatigue": {
+        "home": {
+          "status": "RESTED",
+          "label": "2 days rest \u2705",
+          "battery": 88,
+          "last_game": "Apr 30",
+          "days_rest": 3,
+          "games_last_4d": 1,
+          "travel_miles": 748,
+          "travel_desc": "748 mi road trip",
+          "source": "ESPN Scoreboard API"
+        },
+        "away": {
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "May 02",
+          "days_rest": 1,
+          "games_last_4d": 2,
+          "travel_miles": 273,
+          "travel_desc": "273 mi road trip",
+          "source": "ESPN Scoreboard API"
+        }
+      },
+      "edge_factors": [
+        "\ud83d\udca4 PHI fatigued (B2B) \u2014 source: ESPN"
+      ],
+      "injury_notes": "No key injuries.",
+      "sharp": {
+        "away_t": null,
+        "home_t": null,
+        "source": null,
+        "sharp_signal": null,
+        "sharp_label": "Pending \u2014 check closer to tip-off",
+        "rlm": false
+      },
+      "form": {
+        "home": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        },
+        "away": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        }
+      },
+      "h2h": {
+        "total_meetings": 0,
+        "home_wins": 0,
+        "away_wins": 0,
+        "meetings": [],
+        "source": "\u2014"
+      },
+      "briefing": {
+        "trend": "PHI on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "matchup": "Both rosters appear healthy \u2014 clean line.",
+        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "injury_notes": "No key injuries."
+      },
+      "live": {
+        "status": "pre",
+        "status_detail": "Upcoming",
+        "period": 0,
+        "clock": "",
+        "home_score": 0,
+        "away_score": 0,
+        "spread_alert": null
+      },
+      "news": [
+        {
+          "title": "Magic went 45 minutes between made shots vs. Pistons, worst streak in NBA Playoffs this century",
+          "source": "Sporting News",
+          "link": "https://www.sportingnews.com/us/nba/orlando-magic/news/magic-went-45-minutes-between-made-shots-vs-pistons-worst-streak-nba-playoffs-century/65b560f2d5e0648198075e85",
+          "published": "2026-05-02T03:30:13Z"
+        },
+        {
+          "title": "Magic collapse in Game 6 vs. Pistons with NBA-record shooting futility",
+          "source": "Daytona Beach News-Journal",
+          "link": "https://www.news-journalonline.com/story/sports/nba/2026/05/01/orlando-magic-detroit-pistons-game-6-nba-playoffs/89893373007/",
+          "published": "2026-05-02T03:27:49Z"
+        },
+        {
+          "title": "Evan Mobley's crucial mistake for Cavs sums up the disappointment of his career",
+          "source": "Sporting News",
+          "link": "https://www.sportingnews.com/us/nba/cleveland-cavaliers/news/evan-mobley-crucial-mistake-cavs-sums-disappointment-career/9769c818f625f84e6eee8c60",
+          "published": "2026-05-02T03:27:26Z"
         }
       ]
     },
@@ -967,26 +483,26 @@
           "old_ml": "-900",
           "new_ml": "-900"
         },
-        "snapshot_time": "May 02, 2026 at 10:43 PM UTC"
+        "snapshot_time": "May 02, 2026 at 11:44 PM UTC"
       },
       "fatigue": {
         "home": {
           "status": "FRESH",
           "label": "Well rested \u2705",
           "battery": 100,
-          "last_game": "Apr 28",
-          "days_rest": 4,
-          "games_last_4d": 1,
+          "last_game": "\u2014",
+          "days_rest": 99,
+          "games_last_4d": 0,
           "travel_miles": 0,
           "travel_desc": "",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
+          "status": "RESTED",
+          "label": "2 days rest \u2705",
+          "battery": 88,
           "last_game": "Apr 30",
-          "days_rest": 2,
+          "days_rest": 3,
           "games_last_4d": 1,
           "travel_miles": 0,
           "travel_desc": "",
@@ -1007,190 +523,32 @@
       },
       "form": {
         "home": {
-          "last_10": [
-            {
-              "date": "May 02",
-              "result": "W",
-              "pts": 124,
-              "opp": "WAS",
-              "away": false
-            },
-            {
-              "date": "May 02",
-              "result": "W",
-              "pts": 126,
-              "opp": "ATL",
-              "away": false
-            },
-            {
-              "date": "May 02",
-              "result": "W",
-              "pts": 119,
-              "opp": "WAS",
-              "away": false
-            },
-            {
-              "date": "May 02",
-              "result": "W",
-              "pts": 117,
-              "opp": "OKC",
-              "away": false
-            },
-            {
-              "date": "May 02",
-              "result": "W",
-              "pts": 130,
-              "opp": "OKC",
-              "away": false
-            },
-            {
-              "date": "May 02",
-              "result": "L",
-              "pts": 114,
-              "opp": "UTA",
-              "away": false
-            },
-            {
-              "date": "May 02",
-              "result": "L",
-              "pts": 117,
-              "opp": "CLE",
-              "away": false
-            },
-            {
-              "date": "May 02",
-              "result": "W",
-              "pts": 126,
-              "opp": "MEM",
-              "away": false
-            },
-            {
-              "date": "May 02",
-              "result": "W",
-              "pts": 114,
-              "opp": "ORL",
-              "away": false
-            },
-            {
-              "date": "May 02",
-              "result": "W",
-              "pts": 111,
-              "opp": "OKC",
-              "away": false
-            }
-          ],
-          "wins": 8,
-          "losses": 2,
-          "streak": "W5",
-          "form_str": "WWWWWLLWWW",
-          "source": "NBA.com via nba_api"
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
         },
         "away": {
-          "last_10": [
-            {
-              "date": "May 02",
-              "result": "W",
-              "pts": 103,
-              "opp": "MIL",
-              "away": false
-            },
-            {
-              "date": "May 02",
-              "result": "L",
-              "pts": 110,
-              "opp": "MEM",
-              "away": false
-            },
-            {
-              "date": "May 02",
-              "result": "W",
-              "pts": 112,
-              "opp": "OKC",
-              "away": false
-            },
-            {
-              "date": "May 02",
-              "result": "L",
-              "pts": 138,
-              "opp": "DEN",
-              "away": false
-            },
-            {
-              "date": "May 02",
-              "result": "W",
-              "pts": 115,
-              "opp": "NYK",
-              "away": false
-            },
-            {
-              "date": "May 02",
-              "result": "W",
-              "pts": 109,
-              "opp": "LAC",
-              "away": false
-            },
-            {
-              "date": "May 02",
-              "result": "W",
-              "pts": 125,
-              "opp": "NOP",
-              "away": false
-            },
-            {
-              "date": "May 02",
-              "result": "W",
-              "pts": 149,
-              "opp": "NOP",
-              "away": false
-            },
-            {
-              "date": "May 02",
-              "result": "W",
-              "pts": 127,
-              "opp": "GSW",
-              "away": false
-            },
-            {
-              "date": "May 02",
-              "result": "W",
-              "pts": 117,
-              "opp": "SAC",
-              "away": false
-            }
-          ],
-          "wins": 8,
-          "losses": 2,
-          "streak": "W1",
-          "form_str": "WLWLWWWWWW",
-          "source": "NBA.com via nba_api"
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
         }
       },
       "h2h": {
-        "total_meetings": 3,
-        "home_wins": 1,
-        "away_wins": 2,
-        "meetings": [
-          {
-            "date": "2026-01-11",
-            "home_result": "L",
-            "pts": 103
-          },
-          {
-            "date": "2025-11-30",
-            "home_result": "L",
-            "pts": 112
-          },
-          {
-            "date": "2026-01-17",
-            "home_result": "W",
-            "pts": 126
-          }
-        ],
-        "source": "NBA.com via nba_api"
+        "total_meetings": 0,
+        "home_wins": 0,
+        "away_wins": 0,
+        "meetings": [],
+        "source": "\u2014"
       },
       "briefing": {
-        "trend": "SAS are 8-2 in their last 10 (streak: W5). MIN are 8-2 in their last 10 (streak: W1).",
-        "matchup": "Season series: SAS 1-2 vs MIN in 3 meetings. Both rosters appear healthy \u2014 clean line.",
+        "trend": "San Antonio Spurs hold a 86.3% edge.",
+        "matchup": "Both rosters appear healthy \u2014 clean line.",
         "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
       },
@@ -1205,22 +563,22 @@
       },
       "news": [
         {
-          "title": "Rockets, Ime Udoka unveil coaching philosophy that'll help in beating Lakers",
+          "title": "Magic went 45 minutes between made shots vs. Pistons, worst streak in NBA Playoffs this century",
           "source": "Sporting News",
-          "link": "https://www.sportingnews.com/us/nba/houston-rockets/news/rockets-ime-udoka-unveil-coaching-philosophy-thatll-help-beating-lakers/f5d4b296bd8e23bbbd8b81fe",
-          "published": "2026-05-01T23:40:22Z"
+          "link": "https://www.sportingnews.com/us/nba/orlando-magic/news/magic-went-45-minutes-between-made-shots-vs-pistons-worst-streak-nba-playoffs-century/65b560f2d5e0648198075e85",
+          "published": "2026-05-02T03:30:13Z"
         },
         {
-          "title": "How the Knicks' versatility overwhelmed the Hawks and why it matters going forward in the playoffs",
-          "source": "SNY.tv",
-          "link": "https://sny.tv/articles/knicks-versatility-overwhelmed-hawks-why-it-matters",
-          "published": "2026-05-01T23:35:48Z"
+          "title": "Magic collapse in Game 6 vs. Pistons with NBA-record shooting futility",
+          "source": "Daytona Beach News-Journal",
+          "link": "https://www.news-journalonline.com/story/sports/nba/2026/05/01/orlando-magic-detroit-pistons-game-6-nba-playoffs/89893373007/",
+          "published": "2026-05-02T03:27:49Z"
         },
         {
-          "title": "WATCH: Google giving US students a shot at re-designing its homepage",
-          "source": "Abcnews.com",
-          "link": "https://abcnews.com/video/132584293/",
-          "published": "2026-05-01T23:35:06Z"
+          "title": "Evan Mobley's crucial mistake for Cavs sums up the disappointment of his career",
+          "source": "Sporting News",
+          "link": "https://www.sportingnews.com/us/nba/cleveland-cavaliers/news/evan-mobley-crucial-mistake-cavs-sums-disappointment-career/9769c818f625f84e6eee8c60",
+          "published": "2026-05-02T03:27:26Z"
         }
       ]
     },
@@ -1230,47 +588,47 @@
       "away_team": "Los Angeles Lakers",
       "home_abbr": "OKC",
       "away_abbr": "LAL",
-      "home_ml": "-1350",
-      "away_ml": "+800",
-      "home_ml_raw": -1350,
-      "away_ml_raw": 800,
-      "home_prob": 89.3,
-      "away_prob": 10.7,
+      "home_ml": "-1100",
+      "away_ml": "+700",
+      "home_ml_raw": -1100,
+      "away_ml_raw": 700,
+      "home_prob": 88.0,
+      "away_prob": 12.0,
       "spread": "OKC -15.5",
       "favorite": "Oklahoma City Thunder",
       "pick": "Oklahoma City Thunder",
       "pick_abbr": "OKC",
-      "moneyline": "-1350",
-      "win_probability": 89.3,
+      "moneyline": "-1100",
+      "win_probability": 88.0,
       "confidence": "HIGH",
       "confidence_stars": "\u2605\u2605\u2605",
       "commence_time": "2026-05-06T01:40:00Z",
       "line_movement": {
         "home": {
-          "direction": "shorter",
-          "points_moved": 300,
+          "direction": "longer",
+          "points_moved": 250,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM -1350 \u2190 -1050",
-          "old_ml": "-1050",
-          "new_ml": "-1350"
+          "label": "\ud83d\udd25 STEAM -1100 \u2190 -1350",
+          "old_ml": "-1350",
+          "new_ml": "-1100"
         },
         "away": {
-          "direction": "longer",
-          "points_moved": 125,
+          "direction": "shorter",
+          "points_moved": 100,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM +800 \u2190 +675",
-          "old_ml": "+675",
-          "new_ml": "+800"
+          "label": "\ud83d\udd25 STEAM +700 \u2190 +800",
+          "old_ml": "+800",
+          "new_ml": "+700"
         },
         "pick": {
-          "direction": "shorter",
-          "points_moved": 300,
+          "direction": "longer",
+          "points_moved": 250,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM -1350 \u2190 -1050",
-          "old_ml": "-1050",
-          "new_ml": "-1350"
+          "label": "\ud83d\udd25 STEAM -1100 \u2190 -1350",
+          "old_ml": "-1350",
+          "new_ml": "-1100"
         },
-        "snapshot_time": "May 02, 2026 at 10:43 PM UTC"
+        "snapshot_time": "May 02, 2026 at 11:44 PM UTC"
       },
       "fatigue": {
         "home": {
@@ -1285,11 +643,11 @@
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
           "last_game": "May 01",
-          "days_rest": 1,
+          "days_rest": 2,
           "games_last_4d": 2,
           "travel_miles": 1373,
           "travel_desc": "1,373 mi road trip",
@@ -1297,8 +655,7 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udd25 Sharp steam detected",
-        "\ud83d\udca4 LAL fatigued (B2B) \u2014 source: ESPN"
+        "\ud83d\udd25 Sharp steam detected"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -1311,196 +668,33 @@
       },
       "form": {
         "home": {
-          "last_10": [
-            {
-              "date": "May 02",
-              "result": "L",
-              "pts": 107,
-              "opp": "MIN",
-              "away": false
-            },
-            {
-              "date": "May 02",
-              "result": "W",
-              "pts": 122,
-              "opp": "LAC",
-              "away": false
-            },
-            {
-              "date": "May 02",
-              "result": "L",
-              "pts": 102,
-              "opp": "SAS",
-              "away": false
-            },
-            {
-              "date": "May 02",
-              "result": "W",
-              "pts": 119,
-              "opp": "MEM",
-              "away": false
-            },
-            {
-              "date": "May 02",
-              "result": "L",
-              "pts": 110,
-              "opp": "SAS",
-              "away": false
-            },
-            {
-              "date": "May 02",
-              "result": "W",
-              "pts": 132,
-              "opp": "DAL",
-              "away": false
-            },
-            {
-              "date": "May 02",
-              "result": "W",
-              "pts": 124,
-              "opp": "GSW",
-              "away": false
-            },
-            {
-              "date": "May 02",
-              "result": "L",
-              "pts": 109,
-              "opp": "OKC",
-              "away": true
-            },
-            {
-              "date": "May 02",
-              "result": "W",
-              "pts": 131,
-              "opp": "UTA",
-              "away": false
-            },
-            {
-              "date": "May 02",
-              "result": "W",
-              "pts": 138,
-              "opp": "PHX",
-              "away": false
-            }
-          ],
-          "wins": 6,
-          "losses": 4,
-          "streak": "L1",
-          "form_str": "LWLWLWWLWW",
-          "source": "NBA.com via nba_api"
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
         },
         "away": {
-          "last_10": [
-            {
-              "date": "May 02",
-              "result": "L",
-              "pts": 88,
-              "opp": "LAC",
-              "away": false
-            },
-            {
-              "date": "May 02",
-              "result": "W",
-              "pts": 143,
-              "opp": "UTA",
-              "away": false
-            },
-            {
-              "date": "May 02",
-              "result": "L",
-              "pts": 96,
-              "opp": "HOU",
-              "away": false
-            },
-            {
-              "date": "May 02",
-              "result": "L",
-              "pts": 108,
-              "opp": "PHX",
-              "away": false
-            },
-            {
-              "date": "May 02",
-              "result": "L",
-              "pts": 105,
-              "opp": "BOS",
-              "away": false
-            },
-            {
-              "date": "May 02",
-              "result": "W",
-              "pts": 123,
-              "opp": "TOR",
-              "away": false
-            },
-            {
-              "date": "May 02",
-              "result": "W",
-              "pts": 116,
-              "opp": "PHX",
-              "away": false
-            },
-            {
-              "date": "May 02",
-              "result": "W",
-              "pts": 112,
-              "opp": "PHI",
-              "away": false
-            },
-            {
-              "date": "May 02",
-              "result": "L",
-              "pts": 119,
-              "opp": "SAS",
-              "away": false
-            },
-            {
-              "date": "May 02",
-              "result": "L",
-              "pts": 101,
-              "opp": "MIL",
-              "away": false
-            }
-          ],
-          "wins": 4,
-          "losses": 6,
-          "streak": "L1",
-          "form_str": "LWLLLWWWLL",
-          "source": "NBA.com via nba_api"
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
         }
       },
       "h2h": {
-        "total_meetings": 4,
-        "home_wins": 4,
+        "total_meetings": 0,
+        "home_wins": 0,
         "away_wins": 0,
-        "meetings": [
-          {
-            "date": "2025-11-12",
-            "home_result": "W",
-            "pts": 121
-          },
-          {
-            "date": "2026-04-07",
-            "home_result": "W",
-            "pts": 123
-          },
-          {
-            "date": "2026-04-02",
-            "home_result": "W",
-            "pts": 139
-          },
-          {
-            "date": "2026-02-09",
-            "home_result": "W",
-            "pts": 119
-          }
-        ],
-        "source": "NBA.com via nba_api"
+        "meetings": [],
+        "source": "\u2014"
       },
       "briefing": {
-        "trend": "OKC are 6-4 in their last 10 (streak: L1). LAL are 4-6 in their last 10 (streak: L1). LAL on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
-        "matchup": "Season series: OKC 4-0 vs LAL in 4 meetings. Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -1050 to -1350 (300pt move) \u2014 heavy professional action on Oklahoma City Thunder.",
+        "trend": "Oklahoma City Thunder hold a 88.0% edge.",
+        "matchup": "Both rosters appear healthy \u2014 clean line.",
+        "steam": "Line steamed from -1350 to -1100 (250pt move) \u2014 heavy professional action on Oklahoma City Thunder.",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -1514,22 +708,22 @@
       },
       "news": [
         {
-          "title": "Rockets, Ime Udoka unveil coaching philosophy that'll help in beating Lakers",
+          "title": "Magic went 45 minutes between made shots vs. Pistons, worst streak in NBA Playoffs this century",
           "source": "Sporting News",
-          "link": "https://www.sportingnews.com/us/nba/houston-rockets/news/rockets-ime-udoka-unveil-coaching-philosophy-thatll-help-beating-lakers/f5d4b296bd8e23bbbd8b81fe",
-          "published": "2026-05-01T23:40:22Z"
+          "link": "https://www.sportingnews.com/us/nba/orlando-magic/news/magic-went-45-minutes-between-made-shots-vs-pistons-worst-streak-nba-playoffs-century/65b560f2d5e0648198075e85",
+          "published": "2026-05-02T03:30:13Z"
         },
         {
-          "title": "How the Knicks' versatility overwhelmed the Hawks and why it matters going forward in the playoffs",
-          "source": "SNY.tv",
-          "link": "https://sny.tv/articles/knicks-versatility-overwhelmed-hawks-why-it-matters",
-          "published": "2026-05-01T23:35:48Z"
+          "title": "Magic collapse in Game 6 vs. Pistons with NBA-record shooting futility",
+          "source": "Daytona Beach News-Journal",
+          "link": "https://www.news-journalonline.com/story/sports/nba/2026/05/01/orlando-magic-detroit-pistons-game-6-nba-playoffs/89893373007/",
+          "published": "2026-05-02T03:27:49Z"
         },
         {
-          "title": "WATCH: Google giving US students a shot at re-designing its homepage",
-          "source": "Abcnews.com",
-          "link": "https://abcnews.com/video/132584293/",
-          "published": "2026-05-01T23:35:06Z"
+          "title": "Evan Mobley's crucial mistake for Cavs sums up the disappointment of his career",
+          "source": "Sporting News",
+          "link": "https://www.sportingnews.com/us/nba/cleveland-cavaliers/news/evan-mobley-crucial-mistake-cavs-sums-disappointment-career/9769c818f625f84e6eee8c60",
+          "published": "2026-05-02T03:27:26Z"
         }
       ]
     }
