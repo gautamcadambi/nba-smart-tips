@@ -1,199 +1,54 @@
 {
-  "last_updated": "May 03, 2026 at 02:16 PM UTC",
-  "total_games": 5,
+  "last_updated": "May 03, 2026 at 10:43 PM UTC",
+  "total_games": 4,
   "games": [
-    {
-      "game": "Orlando Magic @ Detroit Pistons",
-      "home_team": "Detroit Pistons",
-      "away_team": "Orlando Magic",
-      "home_abbr": "DET",
-      "away_abbr": "ORL",
-      "home_ml": "-325",
-      "away_ml": "+260",
-      "home_ml_raw": -325,
-      "away_ml_raw": 260,
-      "home_prob": 73.4,
-      "away_prob": 26.6,
-      "spread": "DET -8.5",
-      "favorite": "Detroit Pistons",
-      "pick": "Detroit Pistons",
-      "pick_abbr": "DET",
-      "moneyline": "-325",
-      "win_probability": 73.4,
-      "confidence": "HIGH",
-      "confidence_stars": "\u2605\u2605\u2605",
-      "commence_time": "2026-05-03T19:40:00Z",
-      "line_movement": {
-        "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
-          "old_ml": "-325",
-          "new_ml": "-325"
-        },
-        "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
-          "old_ml": "+260",
-          "new_ml": "+260"
-        },
-        "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
-          "old_ml": "-325",
-          "new_ml": "-325"
-        },
-        "snapshot_time": "May 03, 2026 at 01:09 PM UTC"
-      },
-      "fatigue": {
-        "home": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "May 01",
-          "days_rest": 2,
-          "games_last_4d": 2,
-          "travel_miles": 958,
-          "travel_desc": "958 mi road trip",
-          "source": "ESPN Scoreboard API"
-        },
-        "away": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "May 01",
-          "days_rest": 2,
-          "games_last_4d": 2,
-          "travel_miles": 958,
-          "travel_desc": "958 mi road trip",
-          "source": "ESPN Scoreboard API"
-        }
-      },
-      "edge_factors": [
-        "\ud83d\udcca 46.8pt probability edge"
-      ],
-      "injury_notes": "No key injuries.",
-      "sharp": {
-        "away_t": null,
-        "home_t": null,
-        "source": null,
-        "sharp_signal": null,
-        "sharp_label": "Pending \u2014 check closer to tip-off",
-        "rlm": false
-      },
-      "form": {
-        "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        },
-        "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        }
-      },
-      "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
-      },
-      "briefing": {
-        "trend": "Detroit Pistons hold a 73.4% edge.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
-        "injury_notes": "No key injuries."
-      },
-      "live": {
-        "status": "pre",
-        "status_detail": "Upcoming",
-        "period": 0,
-        "clock": "",
-        "home_score": 0,
-        "away_score": 0,
-        "spread_alert": null
-      },
-      "news": [
-        {
-          "title": "Olivier Rioux, college basketball's tallest at 7-9, commits to UC Irvine",
-          "source": "KABC-TV",
-          "link": "https://abc7.com/post/olivier-rioux-college-basketballs-tallest-7-9-commits-uc-irvine/19022134/",
-          "published": "2026-05-02T14:14:18Z"
-        },
-        {
-          "title": "LeBron James\u2019 28-Point Game Leads Lakers to Crucial Game 6 Victory",
-          "source": "Lasportsreport.com",
-          "link": "https://lasportsreport.com/lakers/253617/lebron-james-28-point-game-leads-lakers-to-crucial-game-6-victory/",
-          "published": "2026-05-02T14:12:22Z"
-        },
-        {
-          "title": "Lakers defied all odds in first round, but can they do it again: \u2018Written off\u2019",
-          "source": "New York Post",
-          "link": "https://nypost.com/2026/05/02/sports/lakers-beat-rockets-now-prepare-for-thunder-in-nba-playoffs/",
-          "published": "2026-05-02T14:04:26Z"
-        }
-      ]
-    },
     {
       "game": "Toronto Raptors @ Cleveland Cavaliers",
       "home_team": "Cleveland Cavaliers",
       "away_team": "Toronto Raptors",
       "home_abbr": "CLE",
       "away_abbr": "TOR",
-      "home_ml": "-298",
-      "away_ml": "+240",
-      "home_ml_raw": -298,
-      "away_ml_raw": 240,
-      "home_prob": 71.8,
-      "away_prob": 28.2,
-      "spread": "CLE -7.5",
+      "home_ml": "-325",
+      "away_ml": "+260",
+      "home_ml_raw": -325,
+      "away_ml_raw": 260,
+      "home_prob": 73.4,
+      "away_prob": 26.6,
+      "spread": "CLE -8.5",
       "favorite": "Cleveland Cavaliers",
       "pick": "Cleveland Cavaliers",
       "pick_abbr": "CLE",
-      "moneyline": "-298",
-      "win_probability": 71.8,
-      "confidence": "MEDIUM",
-      "confidence_stars": "\u2605\u2605\u2606",
+      "moneyline": "-325",
+      "win_probability": 73.4,
+      "confidence": "HIGH",
+      "confidence_stars": "\u2605\u2605\u2605",
       "commence_time": "2026-05-03T23:40:00Z",
       "line_movement": {
         "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "shorter",
+          "points_moved": 27,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -325 \u2190 -298",
           "old_ml": "-298",
-          "new_ml": "-298"
+          "new_ml": "-325"
         },
         "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "longer",
+          "points_moved": 20,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM +260 \u2190 +240",
           "old_ml": "+240",
-          "new_ml": "+240"
+          "new_ml": "+260"
         },
         "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "shorter",
+          "points_moved": 27,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -325 \u2190 -298",
           "old_ml": "-298",
-          "new_ml": "-298"
+          "new_ml": "-325"
         },
-        "snapshot_time": "May 03, 2026 at 01:09 PM UTC"
+        "snapshot_time": "May 03, 2026 at 02:16 PM UTC"
       },
       "fatigue": {
         "home": {
@@ -220,7 +75,7 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udcca 43.6pt probability edge"
+        "\ud83d\udd25 Sharp steam detected"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -257,9 +112,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "Cleveland Cavaliers hold a 71.8% edge.",
+        "trend": "Cleveland Cavaliers hold a 73.4% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "steam": "Line steamed from -298 to -325 (27pt move) \u2014 heavy professional action on Cleveland Cavaliers.",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -273,22 +128,22 @@
       },
       "news": [
         {
-          "title": "Olivier Rioux, college basketball's tallest at 7-9, commits to UC Irvine",
-          "source": "KABC-TV",
-          "link": "https://abc7.com/post/olivier-rioux-college-basketballs-tallest-7-9-commits-uc-irvine/19022134/",
-          "published": "2026-05-02T14:14:18Z"
+          "title": "How to live stream 76ers vs Celtics: NBA Playoffs, TV channel",
+          "source": "Yahoo Entertainment",
+          "link": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_ad944be0-32ef-4e36-ad07-6d9820b43876",
+          "published": "2026-05-02T22:30:00Z"
         },
         {
-          "title": "LeBron James\u2019 28-Point Game Leads Lakers to Crucial Game 6 Victory",
-          "source": "Lasportsreport.com",
-          "link": "https://lasportsreport.com/lakers/253617/lebron-james-28-point-game-leads-lakers-to-crucial-game-6-victory/",
-          "published": "2026-05-02T14:12:22Z"
+          "title": "Celtics' Tatum ruled out for decisive game seven against Sixers",
+          "source": "Yahoo Entertainment",
+          "link": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_16911583-2432-4c7a-a1c3-63e2d618bbc2",
+          "published": "2026-05-02T22:26:20Z"
         },
         {
-          "title": "Lakers defied all odds in first round, but can they do it again: \u2018Written off\u2019",
-          "source": "New York Post",
-          "link": "https://nypost.com/2026/05/02/sports/lakers-beat-rockets-now-prepare-for-thunder-in-nba-playoffs/",
-          "published": "2026-05-02T14:04:26Z"
+          "title": "What is Jayson Tatum's injury? Why Celtics star isn't playing in Game 7 vs. 76ers",
+          "source": "Sporting News",
+          "link": "https://www.sportingnews.com/us/nba/boston-celtics/news/jayson-tatum-injury-celtics-game-7-76ers/c5a9e1cbba6d5097727edbda",
+          "published": "2026-05-02T22:26:07Z"
         }
       ]
     },
@@ -338,7 +193,7 @@
           "old_ml": "-298",
           "new_ml": "-298"
         },
-        "snapshot_time": "May 03, 2026 at 01:09 PM UTC"
+        "snapshot_time": "May 03, 2026 at 02:16 PM UTC"
       },
       "fatigue": {
         "home": {
@@ -418,22 +273,22 @@
       },
       "news": [
         {
-          "title": "Olivier Rioux, college basketball's tallest at 7-9, commits to UC Irvine",
-          "source": "KABC-TV",
-          "link": "https://abc7.com/post/olivier-rioux-college-basketballs-tallest-7-9-commits-uc-irvine/19022134/",
-          "published": "2026-05-02T14:14:18Z"
+          "title": "How to live stream 76ers vs Celtics: NBA Playoffs, TV channel",
+          "source": "Yahoo Entertainment",
+          "link": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_ad944be0-32ef-4e36-ad07-6d9820b43876",
+          "published": "2026-05-02T22:30:00Z"
         },
         {
-          "title": "LeBron James\u2019 28-Point Game Leads Lakers to Crucial Game 6 Victory",
-          "source": "Lasportsreport.com",
-          "link": "https://lasportsreport.com/lakers/253617/lebron-james-28-point-game-leads-lakers-to-crucial-game-6-victory/",
-          "published": "2026-05-02T14:12:22Z"
+          "title": "Celtics' Tatum ruled out for decisive game seven against Sixers",
+          "source": "Yahoo Entertainment",
+          "link": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_16911583-2432-4c7a-a1c3-63e2d618bbc2",
+          "published": "2026-05-02T22:26:20Z"
         },
         {
-          "title": "Lakers defied all odds in first round, but can they do it again: \u2018Written off\u2019",
-          "source": "New York Post",
-          "link": "https://nypost.com/2026/05/02/sports/lakers-beat-rockets-now-prepare-for-thunder-in-nba-playoffs/",
-          "published": "2026-05-02T14:04:26Z"
+          "title": "What is Jayson Tatum's injury? Why Celtics star isn't playing in Game 7 vs. 76ers",
+          "source": "Sporting News",
+          "link": "https://www.sportingnews.com/us/nba/boston-celtics/news/jayson-tatum-injury-celtics-game-7-76ers/c5a9e1cbba6d5097727edbda",
+          "published": "2026-05-02T22:26:07Z"
         }
       ]
     },
@@ -443,47 +298,47 @@
       "away_team": "Minnesota Timberwolves",
       "home_abbr": "SAS",
       "away_abbr": "MIN",
-      "home_ml": "-900",
-      "away_ml": "+600",
-      "home_ml_raw": -900,
-      "away_ml_raw": 600,
-      "home_prob": 86.3,
-      "away_prob": 13.7,
+      "home_ml": "-800",
+      "away_ml": "+550",
+      "home_ml_raw": -800,
+      "away_ml_raw": 550,
+      "home_prob": 85.2,
+      "away_prob": 14.8,
       "spread": "SAS -13.5",
       "favorite": "San Antonio Spurs",
       "pick": "San Antonio Spurs",
       "pick_abbr": "SAS",
-      "moneyline": "-900",
-      "win_probability": 86.3,
+      "moneyline": "-800",
+      "win_probability": 85.2,
       "confidence": "HIGH",
       "confidence_stars": "\u2605\u2605\u2605",
       "commence_time": "2026-05-05T01:40:00Z",
       "line_movement": {
         "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "longer",
+          "points_moved": 100,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -800 \u2190 -900",
           "old_ml": "-900",
-          "new_ml": "-900"
+          "new_ml": "-800"
         },
         "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "shorter",
+          "points_moved": 50,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM +550 \u2190 +600",
           "old_ml": "+600",
-          "new_ml": "+600"
+          "new_ml": "+550"
         },
         "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "longer",
+          "points_moved": 100,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -800 \u2190 -900",
           "old_ml": "-900",
-          "new_ml": "-900"
+          "new_ml": "-800"
         },
-        "snapshot_time": "May 03, 2026 at 01:09 PM UTC"
+        "snapshot_time": "May 03, 2026 at 02:16 PM UTC"
       },
       "fatigue": {
         "home": {
@@ -510,7 +365,7 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udcca 72.6pt probability edge"
+        "\ud83d\udd25 Sharp steam detected"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -547,9 +402,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "San Antonio Spurs hold a 86.3% edge.",
+        "trend": "San Antonio Spurs hold a 85.2% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "steam": "Line steamed from -900 to -800 (100pt move) \u2014 heavy professional action on San Antonio Spurs.",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -563,22 +418,22 @@
       },
       "news": [
         {
-          "title": "Olivier Rioux, college basketball's tallest at 7-9, commits to UC Irvine",
-          "source": "KABC-TV",
-          "link": "https://abc7.com/post/olivier-rioux-college-basketballs-tallest-7-9-commits-uc-irvine/19022134/",
-          "published": "2026-05-02T14:14:18Z"
+          "title": "How to live stream 76ers vs Celtics: NBA Playoffs, TV channel",
+          "source": "Yahoo Entertainment",
+          "link": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_ad944be0-32ef-4e36-ad07-6d9820b43876",
+          "published": "2026-05-02T22:30:00Z"
         },
         {
-          "title": "LeBron James\u2019 28-Point Game Leads Lakers to Crucial Game 6 Victory",
-          "source": "Lasportsreport.com",
-          "link": "https://lasportsreport.com/lakers/253617/lebron-james-28-point-game-leads-lakers-to-crucial-game-6-victory/",
-          "published": "2026-05-02T14:12:22Z"
+          "title": "Celtics' Tatum ruled out for decisive game seven against Sixers",
+          "source": "Yahoo Entertainment",
+          "link": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_16911583-2432-4c7a-a1c3-63e2d618bbc2",
+          "published": "2026-05-02T22:26:20Z"
         },
         {
-          "title": "Lakers defied all odds in first round, but can they do it again: \u2018Written off\u2019",
-          "source": "New York Post",
-          "link": "https://nypost.com/2026/05/02/sports/lakers-beat-rockets-now-prepare-for-thunder-in-nba-playoffs/",
-          "published": "2026-05-02T14:04:26Z"
+          "title": "What is Jayson Tatum's injury? Why Celtics star isn't playing in Game 7 vs. 76ers",
+          "source": "Sporting News",
+          "link": "https://www.sportingnews.com/us/nba/boston-celtics/news/jayson-tatum-injury-celtics-game-7-76ers/c5a9e1cbba6d5097727edbda",
+          "published": "2026-05-02T22:26:07Z"
         }
       ]
     },
@@ -628,7 +483,7 @@
           "old_ml": "-1100",
           "new_ml": "-1100"
         },
-        "snapshot_time": "May 03, 2026 at 01:09 PM UTC"
+        "snapshot_time": "May 03, 2026 at 02:16 PM UTC"
       },
       "fatigue": {
         "home": {
@@ -708,22 +563,22 @@
       },
       "news": [
         {
-          "title": "Olivier Rioux, college basketball's tallest at 7-9, commits to UC Irvine",
-          "source": "KABC-TV",
-          "link": "https://abc7.com/post/olivier-rioux-college-basketballs-tallest-7-9-commits-uc-irvine/19022134/",
-          "published": "2026-05-02T14:14:18Z"
+          "title": "How to live stream 76ers vs Celtics: NBA Playoffs, TV channel",
+          "source": "Yahoo Entertainment",
+          "link": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_ad944be0-32ef-4e36-ad07-6d9820b43876",
+          "published": "2026-05-02T22:30:00Z"
         },
         {
-          "title": "LeBron James\u2019 28-Point Game Leads Lakers to Crucial Game 6 Victory",
-          "source": "Lasportsreport.com",
-          "link": "https://lasportsreport.com/lakers/253617/lebron-james-28-point-game-leads-lakers-to-crucial-game-6-victory/",
-          "published": "2026-05-02T14:12:22Z"
+          "title": "Celtics' Tatum ruled out for decisive game seven against Sixers",
+          "source": "Yahoo Entertainment",
+          "link": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_16911583-2432-4c7a-a1c3-63e2d618bbc2",
+          "published": "2026-05-02T22:26:20Z"
         },
         {
-          "title": "Lakers defied all odds in first round, but can they do it again: \u2018Written off\u2019",
-          "source": "New York Post",
-          "link": "https://nypost.com/2026/05/02/sports/lakers-beat-rockets-now-prepare-for-thunder-in-nba-playoffs/",
-          "published": "2026-05-02T14:04:26Z"
+          "title": "What is Jayson Tatum's injury? Why Celtics star isn't playing in Game 7 vs. 76ers",
+          "source": "Sporting News",
+          "link": "https://www.sportingnews.com/us/nba/boston-celtics/news/jayson-tatum-injury-celtics-game-7-76ers/c5a9e1cbba6d5097727edbda",
+          "published": "2026-05-02T22:26:07Z"
         }
       ]
     }
