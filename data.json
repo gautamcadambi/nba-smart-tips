@@ -1,153 +1,7 @@
 {
-  "last_updated": "May 05, 2026 at 03:25 AM UTC",
+  "last_updated": "May 05, 2026 at 06:04 AM UTC",
   "total_games": 4,
   "games": [
-    {
-      "game": "Minnesota Timberwolves @ San Antonio Spurs",
-      "home_team": "San Antonio Spurs",
-      "away_team": "Minnesota Timberwolves",
-      "home_abbr": "SAS",
-      "away_abbr": "MIN",
-      "home_ml": "-238",
-      "away_ml": "+180",
-      "home_ml_raw": -238,
-      "away_ml_raw": 180,
-      "home_prob": 66.3,
-      "away_prob": 33.7,
-      "spread": "SAS -4.5",
-      "favorite": "San Antonio Spurs",
-      "pick": "San Antonio Spurs",
-      "pick_abbr": "SAS",
-      "moneyline": "-238",
-      "win_probability": 66.3,
-      "confidence": "MEDIUM",
-      "confidence_stars": "\u2605\u2605\u2606",
-      "commence_time": "2026-05-05T01:43:12Z",
-      "line_movement": {
-        "home": {
-          "direction": "longer",
-          "points_moved": 142,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -238 \u2190 -380",
-          "old_ml": "-380",
-          "new_ml": "-238"
-        },
-        "away": {
-          "direction": "shorter",
-          "points_moved": 120,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM +180 \u2190 +300",
-          "old_ml": "+300",
-          "new_ml": "+180"
-        },
-        "pick": {
-          "direction": "longer",
-          "points_moved": 142,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -238 \u2190 -380",
-          "old_ml": "-380",
-          "new_ml": "-238"
-        },
-        "snapshot_time": "May 05, 2026 at 12:01 AM UTC"
-      },
-      "fatigue": {
-        "home": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
-          "last_game": "May 04",
-          "days_rest": 1,
-          "games_last_4d": 1,
-          "travel_miles": 0,
-          "travel_desc": "",
-          "source": "ESPN Scoreboard API"
-        },
-        "away": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
-          "last_game": "May 04",
-          "days_rest": 1,
-          "games_last_4d": 1,
-          "travel_miles": 1111,
-          "travel_desc": "1,111 mi road trip",
-          "source": "ESPN Scoreboard API"
-        }
-      },
-      "edge_factors": [
-        "\ud83d\udd25 Sharp steam detected",
-        "\ud83d\udca4 MIN fatigued (B2B) \u2014 source: ESPN"
-      ],
-      "injury_notes": "No key injuries.",
-      "sharp": {
-        "away_t": null,
-        "home_t": null,
-        "source": null,
-        "sharp_signal": null,
-        "sharp_label": "Pending \u2014 check closer to tip-off",
-        "rlm": false
-      },
-      "form": {
-        "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        },
-        "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        }
-      },
-      "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
-      },
-      "briefing": {
-        "trend": "SAS on Back-to-Back \u26a0\ufe0f per ESPN schedule data. MIN on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -380 to -238 (142pt move) \u2014 heavy professional action on San Antonio Spurs.",
-        "injury_notes": "No key injuries."
-      },
-      "live": {
-        "status": "pre",
-        "status_detail": "Upcoming",
-        "period": 0,
-        "clock": "",
-        "home_score": 0,
-        "away_score": 0,
-        "spread_alert": null
-      },
-      "news": [
-        {
-          "title": "ESPN's NBA Show Mocks Mike Vrabel-Dianna Russini Controversy On-Air After Boston Celtics' Loss",
-          "source": "Essentially Sports",
-          "link": "https://www.essentiallysports.com/nfl-active-news-patriots-espns-nba-show-mocks-mike-vrabel-dianna-russini-controversy-on-air-after-boston-celtics-loss/",
-          "published": "2026-05-04T03:25:05Z"
-        },
-        {
-          "title": "Jaylen Brown calls out Joel Embiid for flopping, says NBA refs have 'agenda' against him during Twitch stream",
-          "source": "CBS Sports",
-          "link": "https://www.cbssports.com/nba/news/jaylen-brown-joel-embiid-flopping-nba-refs-agenda/",
-          "published": "2026-05-04T03:18:10Z"
-        },
-        {
-          "title": "Cavs use third-quarter surge to best Raptors in Game 7, get Pistons next",
-          "source": "The Detroit News",
-          "link": "https://www.detroitnews.com/story/sports/nba/2026/05/03/cleveland-cavaliers-close-out-toronto-raptors-in-game-7-advance-to-face-detroit-pistons/89924713007/",
-          "published": "2026-05-04T03:11:20Z"
-        }
-      ]
-    },
     {
       "game": "Cleveland Cavaliers @ Detroit Pistons",
       "home_team": "Detroit Pistons",
@@ -171,30 +25,30 @@
       "commence_time": "2026-05-05T23:10:00Z",
       "line_movement": {
         "home": {
-          "direction": "longer",
-          "points_moved": 7,
+          "direction": "none",
+          "points_moved": 0,
           "steam": false,
-          "label": "\ud83d\udd34 -148 \u2190 -155",
-          "old_ml": "-155",
+          "label": "No movement",
+          "old_ml": "-148",
           "new_ml": "-148"
         },
         "away": {
-          "direction": "shorter",
-          "points_moved": 6,
+          "direction": "none",
+          "points_moved": 0,
           "steam": false,
-          "label": "\ud83d\udfe2 +124 \u2190 +130",
-          "old_ml": "+130",
+          "label": "No movement",
+          "old_ml": "+124",
           "new_ml": "+124"
         },
         "pick": {
-          "direction": "longer",
-          "points_moved": 7,
+          "direction": "none",
+          "points_moved": 0,
           "steam": false,
-          "label": "\ud83d\udd34 -148 \u2190 -155",
-          "old_ml": "-155",
+          "label": "No movement",
+          "old_ml": "-148",
           "new_ml": "-148"
         },
-        "snapshot_time": "May 05, 2026 at 12:01 AM UTC"
+        "snapshot_time": "May 05, 2026 at 03:25 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -260,7 +114,7 @@
       "briefing": {
         "trend": "Detroit Pistons hold a 57.2% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line moved -155\u2192-148 (7pts). Pending \u2014 check closer to tip-off",
+        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -274,22 +128,22 @@
       },
       "news": [
         {
-          "title": "ESPN's NBA Show Mocks Mike Vrabel-Dianna Russini Controversy On-Air After Boston Celtics' Loss",
-          "source": "Essentially Sports",
-          "link": "https://www.essentiallysports.com/nfl-active-news-patriots-espns-nba-show-mocks-mike-vrabel-dianna-russini-controversy-on-air-after-boston-celtics-loss/",
-          "published": "2026-05-04T03:25:05Z"
+          "title": "Insider: Aaron Gordon 'would obviously fit in' with Lakers",
+          "source": "USA Today",
+          "link": "https://lebronwire.usatoday.com/story/sports/nba/2026/05/03/insider-aaron-gordon-would-obviously-fit-in-with-lakers/89925157007/",
+          "published": "2026-05-04T06:03:16Z"
         },
         {
-          "title": "Jaylen Brown calls out Joel Embiid for flopping, says NBA refs have 'agenda' against him during Twitch stream",
-          "source": "CBS Sports",
-          "link": "https://www.cbssports.com/nba/news/jaylen-brown-joel-embiid-flopping-nba-refs-agenda/",
-          "published": "2026-05-04T03:18:10Z"
+          "title": "Pistons and Cavaliers advance in NBA play-offs",
+          "source": "BBC News",
+          "link": "https://www.bbc.com/sport/basketball/articles/cm2pepjv8vmo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+          "published": "2026-05-04T05:55:04Z"
         },
         {
-          "title": "Cavs use third-quarter surge to best Raptors in Game 7, get Pistons next",
-          "source": "The Detroit News",
-          "link": "https://www.detroitnews.com/story/sports/nba/2026/05/03/cleveland-cavaliers-close-out-toronto-raptors-in-game-7-advance-to-face-detroit-pistons/89924713007/",
-          "published": "2026-05-04T03:11:20Z"
+          "title": "Pistons and Cavaliers advance in NBA play-offs",
+          "source": "BBC News",
+          "link": "https://www.bbc.com/sport/basketball/articles/cm2pepjv8vmo",
+          "published": "2026-05-04T05:54:59Z"
         }
       ]
     },
@@ -299,47 +153,47 @@
       "away_team": "Los Angeles Lakers",
       "home_abbr": "OKC",
       "away_abbr": "LAL",
-      "home_ml": "-1050",
-      "away_ml": "+675",
-      "home_ml_raw": -1050,
-      "away_ml_raw": 675,
-      "home_prob": 87.6,
-      "away_prob": 12.4,
+      "home_ml": "-1100",
+      "away_ml": "+700",
+      "home_ml_raw": -1100,
+      "away_ml_raw": 700,
+      "home_prob": 88.0,
+      "away_prob": 12.0,
       "spread": "OKC -15.5",
       "favorite": "Oklahoma City Thunder",
       "pick": "Oklahoma City Thunder",
       "pick_abbr": "OKC",
-      "moneyline": "-1050",
-      "win_probability": 87.6,
+      "moneyline": "-1100",
+      "win_probability": 88.0,
       "confidence": "HIGH",
       "confidence_stars": "\u2605\u2605\u2605",
       "commence_time": "2026-05-06T00:40:00Z",
       "line_movement": {
         "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "shorter",
+          "points_moved": 50,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -1100 \u2190 -1050",
           "old_ml": "-1050",
-          "new_ml": "-1050"
+          "new_ml": "-1100"
         },
         "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "longer",
+          "points_moved": 25,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM +700 \u2190 +675",
           "old_ml": "+675",
-          "new_ml": "+675"
+          "new_ml": "+700"
         },
         "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "shorter",
+          "points_moved": 50,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -1100 \u2190 -1050",
           "old_ml": "-1050",
-          "new_ml": "-1050"
+          "new_ml": "-1100"
         },
-        "snapshot_time": "May 05, 2026 at 12:01 AM UTC"
+        "snapshot_time": "May 05, 2026 at 03:25 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -366,7 +220,7 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udcca 75.2pt probability edge"
+        "\ud83d\udd25 Sharp steam detected"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -403,9 +257,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "Oklahoma City Thunder hold a 87.6% edge.",
+        "trend": "Oklahoma City Thunder hold a 88.0% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "steam": "Line steamed from -1050 to -1100 (50pt move) \u2014 heavy professional action on Oklahoma City Thunder.",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -419,22 +273,22 @@
       },
       "news": [
         {
-          "title": "ESPN's NBA Show Mocks Mike Vrabel-Dianna Russini Controversy On-Air After Boston Celtics' Loss",
-          "source": "Essentially Sports",
-          "link": "https://www.essentiallysports.com/nfl-active-news-patriots-espns-nba-show-mocks-mike-vrabel-dianna-russini-controversy-on-air-after-boston-celtics-loss/",
-          "published": "2026-05-04T03:25:05Z"
+          "title": "Insider: Aaron Gordon 'would obviously fit in' with Lakers",
+          "source": "USA Today",
+          "link": "https://lebronwire.usatoday.com/story/sports/nba/2026/05/03/insider-aaron-gordon-would-obviously-fit-in-with-lakers/89925157007/",
+          "published": "2026-05-04T06:03:16Z"
         },
         {
-          "title": "Jaylen Brown calls out Joel Embiid for flopping, says NBA refs have 'agenda' against him during Twitch stream",
-          "source": "CBS Sports",
-          "link": "https://www.cbssports.com/nba/news/jaylen-brown-joel-embiid-flopping-nba-refs-agenda/",
-          "published": "2026-05-04T03:18:10Z"
+          "title": "Pistons and Cavaliers advance in NBA play-offs",
+          "source": "BBC News",
+          "link": "https://www.bbc.com/sport/basketball/articles/cm2pepjv8vmo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+          "published": "2026-05-04T05:55:04Z"
         },
         {
-          "title": "Cavs use third-quarter surge to best Raptors in Game 7, get Pistons next",
-          "source": "The Detroit News",
-          "link": "https://www.detroitnews.com/story/sports/nba/2026/05/03/cleveland-cavaliers-close-out-toronto-raptors-in-game-7-advance-to-face-detroit-pistons/89924713007/",
-          "published": "2026-05-04T03:11:20Z"
+          "title": "Pistons and Cavaliers advance in NBA play-offs",
+          "source": "BBC News",
+          "link": "https://www.bbc.com/sport/basketball/articles/cm2pepjv8vmo",
+          "published": "2026-05-04T05:54:59Z"
         }
       ]
     },
@@ -444,47 +298,47 @@
       "away_team": "Philadelphia 76ers",
       "home_abbr": "NYK",
       "away_abbr": "PHI",
-      "home_ml": "-278",
-      "away_ml": "+225",
-      "home_ml_raw": -278,
-      "away_ml_raw": 225,
-      "home_prob": 70.5,
-      "away_prob": 29.5,
-      "spread": "NYK -7.5",
+      "home_ml": "-270",
+      "away_ml": "+220",
+      "home_ml_raw": -270,
+      "away_ml_raw": 220,
+      "home_prob": 70.0,
+      "away_prob": 30.0,
+      "spread": "NYK -6.5",
       "favorite": "New York Knicks",
       "pick": "New York Knicks",
       "pick_abbr": "NYK",
-      "moneyline": "-278",
-      "win_probability": 70.5,
+      "moneyline": "-270",
+      "win_probability": 70.0,
       "confidence": "MEDIUM",
       "confidence_stars": "\u2605\u2605\u2606",
       "commence_time": "2026-05-06T23:10:00Z",
       "line_movement": {
         "home": {
           "direction": "longer",
-          "points_moved": 12,
+          "points_moved": 8,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM -278 \u2190 -290",
-          "old_ml": "-290",
-          "new_ml": "-278"
+          "label": "\ud83d\udd25 STEAM -270 \u2190 -278",
+          "old_ml": "-278",
+          "new_ml": "-270"
         },
         "away": {
           "direction": "shorter",
-          "points_moved": 10,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM +225 \u2190 +235",
-          "old_ml": "+235",
-          "new_ml": "+225"
+          "points_moved": 5,
+          "steam": false,
+          "label": "\ud83d\udfe2 +220 \u2190 +225",
+          "old_ml": "+225",
+          "new_ml": "+220"
         },
         "pick": {
           "direction": "longer",
-          "points_moved": 12,
+          "points_moved": 8,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM -278 \u2190 -290",
-          "old_ml": "-290",
-          "new_ml": "-278"
+          "label": "\ud83d\udd25 STEAM -270 \u2190 -278",
+          "old_ml": "-278",
+          "new_ml": "-270"
         },
-        "snapshot_time": "May 05, 2026 at 12:01 AM UTC"
+        "snapshot_time": "May 05, 2026 at 03:25 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -551,7 +405,7 @@
       "briefing": {
         "trend": "NYK on Back-to-Back \u26a0\ufe0f per ESPN schedule data. PHI on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -290 to -278 (12pt move) \u2014 heavy professional action on New York Knicks.",
+        "steam": "Line steamed from -278 to -270 (8pt move) \u2014 heavy professional action on New York Knicks.",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -565,22 +419,168 @@
       },
       "news": [
         {
-          "title": "ESPN's NBA Show Mocks Mike Vrabel-Dianna Russini Controversy On-Air After Boston Celtics' Loss",
-          "source": "Essentially Sports",
-          "link": "https://www.essentiallysports.com/nfl-active-news-patriots-espns-nba-show-mocks-mike-vrabel-dianna-russini-controversy-on-air-after-boston-celtics-loss/",
-          "published": "2026-05-04T03:25:05Z"
+          "title": "Insider: Aaron Gordon 'would obviously fit in' with Lakers",
+          "source": "USA Today",
+          "link": "https://lebronwire.usatoday.com/story/sports/nba/2026/05/03/insider-aaron-gordon-would-obviously-fit-in-with-lakers/89925157007/",
+          "published": "2026-05-04T06:03:16Z"
         },
         {
-          "title": "Jaylen Brown calls out Joel Embiid for flopping, says NBA refs have 'agenda' against him during Twitch stream",
-          "source": "CBS Sports",
-          "link": "https://www.cbssports.com/nba/news/jaylen-brown-joel-embiid-flopping-nba-refs-agenda/",
-          "published": "2026-05-04T03:18:10Z"
+          "title": "Pistons and Cavaliers advance in NBA play-offs",
+          "source": "BBC News",
+          "link": "https://www.bbc.com/sport/basketball/articles/cm2pepjv8vmo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+          "published": "2026-05-04T05:55:04Z"
         },
         {
-          "title": "Cavs use third-quarter surge to best Raptors in Game 7, get Pistons next",
-          "source": "The Detroit News",
-          "link": "https://www.detroitnews.com/story/sports/nba/2026/05/03/cleveland-cavaliers-close-out-toronto-raptors-in-game-7-advance-to-face-detroit-pistons/89924713007/",
-          "published": "2026-05-04T03:11:20Z"
+          "title": "Pistons and Cavaliers advance in NBA play-offs",
+          "source": "BBC News",
+          "link": "https://www.bbc.com/sport/basketball/articles/cm2pepjv8vmo",
+          "published": "2026-05-04T05:54:59Z"
+        }
+      ]
+    },
+    {
+      "game": "Minnesota Timberwolves @ San Antonio Spurs",
+      "home_team": "San Antonio Spurs",
+      "away_team": "Minnesota Timberwolves",
+      "home_abbr": "SAS",
+      "away_abbr": "MIN",
+      "home_ml": "-410",
+      "away_ml": "+320",
+      "home_ml_raw": -410,
+      "away_ml_raw": 320,
+      "home_prob": 77.2,
+      "away_prob": 22.8,
+      "spread": "SAS -9.5",
+      "favorite": "San Antonio Spurs",
+      "pick": "San Antonio Spurs",
+      "pick_abbr": "SAS",
+      "moneyline": "-410",
+      "win_probability": 77.2,
+      "confidence": "HIGH",
+      "confidence_stars": "\u2605\u2605\u2605",
+      "commence_time": "2026-05-07T01:40:00Z",
+      "line_movement": {
+        "home": {
+          "direction": "shorter",
+          "points_moved": 172,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -410 \u2190 -238",
+          "old_ml": "-238",
+          "new_ml": "-410"
+        },
+        "away": {
+          "direction": "longer",
+          "points_moved": 140,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM +320 \u2190 +180",
+          "old_ml": "+180",
+          "new_ml": "+320"
+        },
+        "pick": {
+          "direction": "shorter",
+          "points_moved": 172,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -410 \u2190 -238",
+          "old_ml": "-238",
+          "new_ml": "-410"
+        },
+        "snapshot_time": "May 05, 2026 at 03:25 AM UTC"
+      },
+      "fatigue": {
+        "home": {
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "May 04",
+          "days_rest": 1,
+          "games_last_4d": 1,
+          "travel_miles": 0,
+          "travel_desc": "",
+          "source": "ESPN Scoreboard API"
+        },
+        "away": {
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "May 04",
+          "days_rest": 1,
+          "games_last_4d": 1,
+          "travel_miles": 1111,
+          "travel_desc": "1,111 mi road trip",
+          "source": "ESPN Scoreboard API"
+        }
+      },
+      "edge_factors": [
+        "\ud83d\udd25 Sharp steam detected",
+        "\ud83d\udca4 MIN fatigued (B2B) \u2014 source: ESPN"
+      ],
+      "injury_notes": "No key injuries.",
+      "sharp": {
+        "away_t": null,
+        "home_t": null,
+        "source": null,
+        "sharp_signal": null,
+        "sharp_label": "Pending \u2014 check closer to tip-off",
+        "rlm": false
+      },
+      "form": {
+        "home": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        },
+        "away": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        }
+      },
+      "h2h": {
+        "total_meetings": 0,
+        "home_wins": 0,
+        "away_wins": 0,
+        "meetings": [],
+        "source": "\u2014"
+      },
+      "briefing": {
+        "trend": "SAS on Back-to-Back \u26a0\ufe0f per ESPN schedule data. MIN on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "matchup": "Both rosters appear healthy \u2014 clean line.",
+        "steam": "Line steamed from -238 to -410 (172pt move) \u2014 heavy professional action on San Antonio Spurs.",
+        "injury_notes": "No key injuries."
+      },
+      "live": {
+        "status": "pre",
+        "status_detail": "Upcoming",
+        "period": 0,
+        "clock": "",
+        "home_score": 0,
+        "away_score": 0,
+        "spread_alert": null
+      },
+      "news": [
+        {
+          "title": "Insider: Aaron Gordon 'would obviously fit in' with Lakers",
+          "source": "USA Today",
+          "link": "https://lebronwire.usatoday.com/story/sports/nba/2026/05/03/insider-aaron-gordon-would-obviously-fit-in-with-lakers/89925157007/",
+          "published": "2026-05-04T06:03:16Z"
+        },
+        {
+          "title": "Pistons and Cavaliers advance in NBA play-offs",
+          "source": "BBC News",
+          "link": "https://www.bbc.com/sport/basketball/articles/cm2pepjv8vmo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+          "published": "2026-05-04T05:55:04Z"
+        },
+        {
+          "title": "Pistons and Cavaliers advance in NBA play-offs",
+          "source": "BBC News",
+          "link": "https://www.bbc.com/sport/basketball/articles/cm2pepjv8vmo",
+          "published": "2026-05-04T05:54:59Z"
         }
       ]
     }
@@ -596,11 +596,11 @@
     },
     "HIGH": {
       "wins": 41,
-      "losses": 5,
-      "total": 46,
-      "win_pct": 89.1,
-      "roi": -0.6,
-      "profit": -25.3
+      "losses": 6,
+      "total": 47,
+      "win_pct": 87.2,
+      "roi": -2.7,
+      "profit": -125.3
     },
     "MEDIUM": {
       "wins": 27,
@@ -612,19 +612,19 @@
     },
     "overall_7d": {
       "wins": 1,
-      "losses": 0,
-      "total": 1,
-      "win_pct": 100.0,
-      "roi": 38.8,
-      "profit": 38.76
+      "losses": 1,
+      "total": 2,
+      "win_pct": 50.0,
+      "roi": -30.6,
+      "profit": -61.24
     },
     "overall_30d": {
-      "wins": 54,
+      "wins": 51,
       "losses": 21,
-      "total": 75,
-      "win_pct": 72.0,
-      "roi": 1.1,
-      "profit": 80.16
+      "total": 72,
+      "win_pct": 70.8,
+      "roi": -2.3,
+      "profit": -164.28
     }
   }
 }

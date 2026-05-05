@@ -2026,9 +2026,11 @@
       "win_probability": 86.8,
       "commence_time": "2026-05-05T01:30:00Z",
       "date": "2026-05-01T11:59:36.382652+00:00",
-      "graded": false,
-      "result": null,
-      "profit": null
+      "graded": true,
+      "result": "LOSS",
+      "profit": -100,
+      "home_score": 102,
+      "away_score": 104
     },
     {
       "game": "Philadelphia 76ers @ New York Knicks",
@@ -2072,11 +2074,11 @@
     },
     "HIGH": {
       "wins": 41,
-      "losses": 5,
-      "total": 46,
-      "win_pct": 89.1,
-      "roi": -0.6,
-      "profit": -25.3
+      "losses": 6,
+      "total": 47,
+      "win_pct": 87.2,
+      "roi": -2.7,
+      "profit": -125.3
     },
     "MEDIUM": {
       "wins": 27,
@@ -2088,20 +2090,20 @@
     },
     "overall_7d": {
       "wins": 1,
-      "losses": 0,
-      "total": 1,
-      "win_pct": 100.0,
-      "roi": 38.8,
-      "profit": 38.76
+      "losses": 1,
+      "total": 2,
+      "win_pct": 50.0,
+      "roi": -30.6,
+      "profit": -61.24
     },
     "overall_30d": {
-      "wins": 54,
+      "wins": 51,
       "losses": 21,
-      "total": 75,
-      "win_pct": 72.0,
-      "roi": 1.1,
-      "profit": 80.16
+      "total": 72,
+      "win_pct": 70.8,
+      "roi": -2.3,
+      "profit": -164.28
     }
   },
-  "last_graded": "2026-05-05T03:25:07.208073+00:00"
+  "last_graded": "2026-05-05T06:03:33.722153+00:00"
 }
