@@ -2040,9 +2040,11 @@
       "win_probability": 69.1,
       "commence_time": "2026-05-05T00:10:00Z",
       "date": "2026-05-03T03:41:12.827878+00:00",
-      "graded": false,
-      "result": null,
-      "profit": null
+      "graded": true,
+      "result": "WIN",
+      "profit": 38.76,
+      "home_score": 137,
+      "away_score": 98
     },
     {
       "game": "Cleveland Cavaliers @ Detroit Pistons",
@@ -2077,29 +2079,29 @@
       "profit": -25.3
     },
     "MEDIUM": {
-      "wins": 26,
+      "wins": 27,
       "losses": 11,
-      "total": 37,
-      "win_pct": 70.3,
-      "roi": 2.2,
-      "profit": 82.78
+      "total": 38,
+      "win_pct": 71.1,
+      "roi": 3.2,
+      "profit": 121.54
     },
     "overall_7d": {
-      "wins": 3,
-      "losses": 3,
-      "total": 6,
-      "win_pct": 50.0,
-      "roi": -27.3,
-      "profit": -163.54
+      "wins": 1,
+      "losses": 0,
+      "total": 1,
+      "win_pct": 100.0,
+      "roi": 38.8,
+      "profit": 38.76
     },
     "overall_30d": {
-      "wins": 89,
-      "losses": 37,
-      "total": 126,
-      "win_pct": 70.6,
-      "roi": -0.5,
-      "profit": -61.83
+      "wins": 54,
+      "losses": 21,
+      "total": 75,
+      "win_pct": 72.0,
+      "roi": 1.1,
+      "profit": 80.16
     }
   },
-  "last_graded": "2026-04-25T23:57:22.863037+00:00"
+  "last_graded": "2026-05-05T03:25:07.208073+00:00"
 }
