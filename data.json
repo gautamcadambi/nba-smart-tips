@@ -1,5 +1,5 @@
 {
-  "last_updated": "May 07, 2026 at 11:01 PM UTC",
+  "last_updated": "May 08, 2026 at 12:11 AM UTC",
   "total_games": 4,
   "games": [
     {
@@ -8,66 +8,66 @@
       "away_team": "Cleveland Cavaliers",
       "home_abbr": "DET",
       "away_abbr": "CLE",
-      "home_ml": "-162",
-      "away_ml": "+136",
-      "home_ml_raw": -162,
-      "away_ml_raw": 136,
-      "home_prob": 59.3,
-      "away_prob": 40.7,
-      "spread": "DET -3.5",
+      "home_ml": "-580",
+      "away_ml": "+380",
+      "home_ml_raw": -580,
+      "away_ml_raw": 380,
+      "home_prob": 80.4,
+      "away_prob": 19.6,
+      "spread": "DET -9.5",
       "favorite": "Detroit Pistons",
       "pick": "Detroit Pistons",
       "pick_abbr": "DET",
-      "moneyline": "-162",
-      "win_probability": 59.3,
-      "confidence": "MEDIUM",
-      "confidence_stars": "\u2605\u2605\u2606",
-      "commence_time": "2026-05-07T23:10:00Z",
+      "moneyline": "-580",
+      "win_probability": 80.4,
+      "confidence": "HIGH",
+      "confidence_stars": "\u2605\u2605\u2605",
+      "commence_time": "2026-05-07T23:11:00Z",
       "line_movement": {
         "home": {
           "direction": "shorter",
-          "points_moved": 7,
-          "steam": false,
-          "label": "\ud83d\udfe2 -162 \u2190 -155",
-          "old_ml": "-155",
-          "new_ml": "-162"
+          "points_moved": 418,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -580 \u2190 -162",
+          "old_ml": "-162",
+          "new_ml": "-580"
         },
         "away": {
           "direction": "longer",
-          "points_moved": 6,
-          "steam": false,
-          "label": "\ud83d\udd34 +136 \u2190 +130",
-          "old_ml": "+130",
-          "new_ml": "+136"
+          "points_moved": 244,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM +380 \u2190 +136",
+          "old_ml": "+136",
+          "new_ml": "+380"
         },
         "pick": {
           "direction": "shorter",
-          "points_moved": 7,
-          "steam": false,
-          "label": "\ud83d\udfe2 -162 \u2190 -155",
-          "old_ml": "-155",
-          "new_ml": "-162"
+          "points_moved": 418,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -580 \u2190 -162",
+          "old_ml": "-162",
+          "new_ml": "-580"
         },
-        "snapshot_time": "May 07, 2026 at 03:17 PM UTC"
+        "snapshot_time": "May 07, 2026 at 11:01 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "May 05",
-          "days_rest": 2,
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "May 07",
+          "days_rest": 1,
           "games_last_4d": 2,
           "travel_miles": 0,
           "travel_desc": "",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "May 05",
-          "days_rest": 2,
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "May 07",
+          "days_rest": 1,
           "games_last_4d": 2,
           "travel_miles": 91,
           "travel_desc": "91 mi road trip",
@@ -75,7 +75,8 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udcca 18.6pt probability edge"
+        "\ud83d\udd25 Sharp steam detected",
+        "\ud83d\udca4 CLE fatigued (B2B) \u2014 source: ESPN"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -112,9 +113,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "Detroit Pistons hold a 59.3% edge.",
+        "trend": "DET on Back-to-Back \u26a0\ufe0f per ESPN schedule data. CLE on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line moved -155\u2192-162 (7pts). Pending \u2014 check closer to tip-off",
+        "steam": "Line steamed from -162 to -580 (418pt move) \u2014 heavy professional action on Detroit Pistons.",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -128,22 +129,16 @@
       },
       "news": [
         {
-          "title": "Timberwolves vs. Spurs odds, prediction, time: 2026 NBA playoff picks, Game 2 best bets from proven model",
-          "source": "CBS Sports",
-          "link": "https://www.cbssports.com/nba/news/timberwolves-spurs-odds-spread-line-prediction-start-time-2026-nba-playoff-picks-game-2-best-bets/",
-          "published": "2026-05-06T23:00:46Z"
+          "title": "Utah Jazz roll the dice with Keyonte George at the NBA Draft Lottery",
+          "source": "Slcdunk.com",
+          "link": "https://www.slcdunk.com/jazz-draft-rumors-news/68199/utah-jazz-roll-the-dice-with-keyonte-george-at-the-nba-draft-lottery",
+          "published": "2026-05-07T00:09:01Z"
         },
         {
-          "title": "Jaylen Brown Twitch stream live updates, highlights from Celtics star's latest online comments",
-          "source": "Sporting News",
-          "link": "https://www.sportingnews.com/us/nba/news/jaylen-brown-twitch-stream-celtics-comments/9bbc0bbe4a1516ea5ae79e98",
-          "published": "2026-05-06T23:00:02Z"
-        },
-        {
-          "title": "NYT Connections hints and answers for Thursday, May 7 (game #1061)",
-          "source": "TechRadar",
-          "link": "https://www.techradar.com/gaming/nyt-connections-today-answers-hints-7-may-2026",
-          "published": "2026-05-06T23:00:00Z"
+          "title": "Luka Doncic's Lakers-Thunder Game 2 status officially revealed",
+          "source": "USA Today",
+          "link": "https://okcthunderwire.usatoday.com/story/sports/nba/thunder/2026/05/06/luka-doncics-lakers-thunder-game-2-status-officially-revealed/89969586007/",
+          "published": "2026-05-07T00:00:43Z"
         }
       ]
     },
@@ -193,26 +188,26 @@
           "old_ml": "-900",
           "new_ml": "-900"
         },
-        "snapshot_time": "May 07, 2026 at 03:17 PM UTC"
+        "snapshot_time": "May 07, 2026 at 11:01 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
+          "status": "RESTED",
+          "label": "2 days rest \u2705",
+          "battery": 88,
           "last_game": "May 05",
-          "days_rest": 2,
+          "days_rest": 3,
           "games_last_4d": 1,
           "travel_miles": 0,
           "travel_desc": "",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
+          "status": "RESTED",
+          "label": "2 days rest \u2705",
+          "battery": 88,
           "last_game": "May 05",
-          "days_rest": 2,
+          "days_rest": 3,
           "games_last_4d": 1,
           "travel_miles": 1180,
           "travel_desc": "1,180 mi road trip",
@@ -273,22 +268,16 @@
       },
       "news": [
         {
-          "title": "Timberwolves vs. Spurs odds, prediction, time: 2026 NBA playoff picks, Game 2 best bets from proven model",
-          "source": "CBS Sports",
-          "link": "https://www.cbssports.com/nba/news/timberwolves-spurs-odds-spread-line-prediction-start-time-2026-nba-playoff-picks-game-2-best-bets/",
-          "published": "2026-05-06T23:00:46Z"
+          "title": "Utah Jazz roll the dice with Keyonte George at the NBA Draft Lottery",
+          "source": "Slcdunk.com",
+          "link": "https://www.slcdunk.com/jazz-draft-rumors-news/68199/utah-jazz-roll-the-dice-with-keyonte-george-at-the-nba-draft-lottery",
+          "published": "2026-05-07T00:09:01Z"
         },
         {
-          "title": "Jaylen Brown Twitch stream live updates, highlights from Celtics star's latest online comments",
-          "source": "Sporting News",
-          "link": "https://www.sportingnews.com/us/nba/news/jaylen-brown-twitch-stream-celtics-comments/9bbc0bbe4a1516ea5ae79e98",
-          "published": "2026-05-06T23:00:02Z"
-        },
-        {
-          "title": "NYT Connections hints and answers for Thursday, May 7 (game #1061)",
-          "source": "TechRadar",
-          "link": "https://www.techradar.com/gaming/nyt-connections-today-answers-hints-7-may-2026",
-          "published": "2026-05-06T23:00:00Z"
+          "title": "Luka Doncic's Lakers-Thunder Game 2 status officially revealed",
+          "source": "USA Today",
+          "link": "https://okcthunderwire.usatoday.com/story/sports/nba/thunder/2026/05/06/luka-doncics-lakers-thunder-game-2-status-officially-revealed/89969586007/",
+          "published": "2026-05-07T00:00:43Z"
         }
       ]
     },
@@ -315,49 +304,49 @@
       "commence_time": "2026-05-08T23:10:00Z",
       "line_movement": {
         "home": {
-          "direction": "shorter",
-          "points_moved": 8,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -118 \u2190 -110",
-          "old_ml": "-110",
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "No movement",
+          "old_ml": "-118",
           "new_ml": "-118"
         },
         "away": {
-          "direction": "longer",
-          "points_moved": 8,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -102 \u2190 -110",
-          "old_ml": "-110",
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "No movement",
+          "old_ml": "-102",
           "new_ml": "-102"
         },
         "pick": {
-          "direction": "shorter",
-          "points_moved": 8,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -118 \u2190 -110",
-          "old_ml": "-110",
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "No movement",
+          "old_ml": "-118",
           "new_ml": "-118"
         },
-        "snapshot_time": "May 07, 2026 at 03:17 PM UTC"
+        "snapshot_time": "May 07, 2026 at 11:01 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
           "last_game": "May 06",
-          "days_rest": 1,
+          "days_rest": 2,
           "games_last_4d": 2,
           "travel_miles": 85,
           "travel_desc": "85 mi road trip",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
           "last_game": "May 06",
-          "days_rest": 1,
+          "days_rest": 2,
           "games_last_4d": 2,
           "travel_miles": 0,
           "travel_desc": "",
@@ -365,8 +354,7 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udd25 Sharp steam detected",
-        "\ud83d\udca4 NYK fatigued (B2B) \u2014 source: ESPN"
+        "\ud83d\udcca 3.4pt probability edge"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -403,9 +391,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "PHI on Back-to-Back \u26a0\ufe0f per ESPN schedule data. NYK on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "trend": "Philadelphia 76ers hold a 51.7% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -110 to -118 (8pt move) \u2014 heavy professional action on Philadelphia 76ers.",
+        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -419,22 +407,16 @@
       },
       "news": [
         {
-          "title": "Timberwolves vs. Spurs odds, prediction, time: 2026 NBA playoff picks, Game 2 best bets from proven model",
-          "source": "CBS Sports",
-          "link": "https://www.cbssports.com/nba/news/timberwolves-spurs-odds-spread-line-prediction-start-time-2026-nba-playoff-picks-game-2-best-bets/",
-          "published": "2026-05-06T23:00:46Z"
+          "title": "Utah Jazz roll the dice with Keyonte George at the NBA Draft Lottery",
+          "source": "Slcdunk.com",
+          "link": "https://www.slcdunk.com/jazz-draft-rumors-news/68199/utah-jazz-roll-the-dice-with-keyonte-george-at-the-nba-draft-lottery",
+          "published": "2026-05-07T00:09:01Z"
         },
         {
-          "title": "Jaylen Brown Twitch stream live updates, highlights from Celtics star's latest online comments",
-          "source": "Sporting News",
-          "link": "https://www.sportingnews.com/us/nba/news/jaylen-brown-twitch-stream-celtics-comments/9bbc0bbe4a1516ea5ae79e98",
-          "published": "2026-05-06T23:00:02Z"
-        },
-        {
-          "title": "NYT Connections hints and answers for Thursday, May 7 (game #1061)",
-          "source": "TechRadar",
-          "link": "https://www.techradar.com/gaming/nyt-connections-today-answers-hints-7-may-2026",
-          "published": "2026-05-06T23:00:00Z"
+          "title": "Luka Doncic's Lakers-Thunder Game 2 status officially revealed",
+          "source": "USA Today",
+          "link": "https://okcthunderwire.usatoday.com/story/sports/nba/thunder/2026/05/06/luka-doncics-lakers-thunder-game-2-status-officially-revealed/89969586007/",
+          "published": "2026-05-07T00:00:43Z"
         }
       ]
     },
@@ -461,49 +443,49 @@
       "commence_time": "2026-05-09T01:40:00Z",
       "line_movement": {
         "home": {
-          "direction": "longer",
-          "points_moved": 19,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM +164 \u2190 +145",
-          "old_ml": "+145",
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "No movement",
+          "old_ml": "+164",
           "new_ml": "+164"
         },
         "away": {
-          "direction": "shorter",
-          "points_moved": 23,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -198 \u2190 -175",
-          "old_ml": "-175",
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "No movement",
+          "old_ml": "-198",
           "new_ml": "-198"
         },
         "pick": {
-          "direction": "shorter",
-          "points_moved": 23,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -198 \u2190 -175",
-          "old_ml": "-175",
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "No movement",
+          "old_ml": "-198",
           "new_ml": "-198"
         },
-        "snapshot_time": "May 07, 2026 at 03:17 PM UTC"
+        "snapshot_time": "May 07, 2026 at 11:01 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
           "last_game": "May 06",
-          "days_rest": 1,
+          "days_rest": 2,
           "games_last_4d": 2,
           "travel_miles": 1111,
           "travel_desc": "1,111 mi road trip",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
           "last_game": "May 06",
-          "days_rest": 1,
+          "days_rest": 2,
           "games_last_4d": 2,
           "travel_miles": 0,
           "travel_desc": "",
@@ -511,8 +493,7 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udd25 Sharp steam detected",
-        "\ud83d\udca4 MIN fatigued (B2B) \u2014 source: ESPN"
+        "\ud83d\udcca 27.4pt probability edge"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -549,9 +530,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "MIN on Back-to-Back \u26a0\ufe0f per ESPN schedule data. SAS on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "trend": "San Antonio Spurs hold a 63.7% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -175 to -198 (23pt move) \u2014 heavy professional action on San Antonio Spurs.",
+        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -565,22 +546,16 @@
       },
       "news": [
         {
-          "title": "Timberwolves vs. Spurs odds, prediction, time: 2026 NBA playoff picks, Game 2 best bets from proven model",
-          "source": "CBS Sports",
-          "link": "https://www.cbssports.com/nba/news/timberwolves-spurs-odds-spread-line-prediction-start-time-2026-nba-playoff-picks-game-2-best-bets/",
-          "published": "2026-05-06T23:00:46Z"
+          "title": "Utah Jazz roll the dice with Keyonte George at the NBA Draft Lottery",
+          "source": "Slcdunk.com",
+          "link": "https://www.slcdunk.com/jazz-draft-rumors-news/68199/utah-jazz-roll-the-dice-with-keyonte-george-at-the-nba-draft-lottery",
+          "published": "2026-05-07T00:09:01Z"
         },
         {
-          "title": "Jaylen Brown Twitch stream live updates, highlights from Celtics star's latest online comments",
-          "source": "Sporting News",
-          "link": "https://www.sportingnews.com/us/nba/news/jaylen-brown-twitch-stream-celtics-comments/9bbc0bbe4a1516ea5ae79e98",
-          "published": "2026-05-06T23:00:02Z"
-        },
-        {
-          "title": "NYT Connections hints and answers for Thursday, May 7 (game #1061)",
-          "source": "TechRadar",
-          "link": "https://www.techradar.com/gaming/nyt-connections-today-answers-hints-7-may-2026",
-          "published": "2026-05-06T23:00:00Z"
+          "title": "Luka Doncic's Lakers-Thunder Game 2 status officially revealed",
+          "source": "USA Today",
+          "link": "https://okcthunderwire.usatoday.com/story/sports/nba/thunder/2026/05/06/luka-doncics-lakers-thunder-game-2-status-officially-revealed/89969586007/",
+          "published": "2026-05-07T00:00:43Z"
         }
       ]
     }
