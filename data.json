@@ -1,221 +1,82 @@
 {
-  "last_updated": "May 08, 2026 at 12:11 AM UTC",
+  "last_updated": "May 08, 2026 at 03:31 AM UTC",
   "total_games": 4,
   "games": [
-    {
-      "game": "Cleveland Cavaliers @ Detroit Pistons",
-      "home_team": "Detroit Pistons",
-      "away_team": "Cleveland Cavaliers",
-      "home_abbr": "DET",
-      "away_abbr": "CLE",
-      "home_ml": "-580",
-      "away_ml": "+380",
-      "home_ml_raw": -580,
-      "away_ml_raw": 380,
-      "home_prob": 80.4,
-      "away_prob": 19.6,
-      "spread": "DET -9.5",
-      "favorite": "Detroit Pistons",
-      "pick": "Detroit Pistons",
-      "pick_abbr": "DET",
-      "moneyline": "-580",
-      "win_probability": 80.4,
-      "confidence": "HIGH",
-      "confidence_stars": "\u2605\u2605\u2605",
-      "commence_time": "2026-05-07T23:11:00Z",
-      "line_movement": {
-        "home": {
-          "direction": "shorter",
-          "points_moved": 418,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -580 \u2190 -162",
-          "old_ml": "-162",
-          "new_ml": "-580"
-        },
-        "away": {
-          "direction": "longer",
-          "points_moved": 244,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM +380 \u2190 +136",
-          "old_ml": "+136",
-          "new_ml": "+380"
-        },
-        "pick": {
-          "direction": "shorter",
-          "points_moved": 418,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -580 \u2190 -162",
-          "old_ml": "-162",
-          "new_ml": "-580"
-        },
-        "snapshot_time": "May 07, 2026 at 11:01 PM UTC"
-      },
-      "fatigue": {
-        "home": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
-          "last_game": "May 07",
-          "days_rest": 1,
-          "games_last_4d": 2,
-          "travel_miles": 0,
-          "travel_desc": "",
-          "source": "ESPN Scoreboard API"
-        },
-        "away": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
-          "last_game": "May 07",
-          "days_rest": 1,
-          "games_last_4d": 2,
-          "travel_miles": 91,
-          "travel_desc": "91 mi road trip",
-          "source": "ESPN Scoreboard API"
-        }
-      },
-      "edge_factors": [
-        "\ud83d\udd25 Sharp steam detected",
-        "\ud83d\udca4 CLE fatigued (B2B) \u2014 source: ESPN"
-      ],
-      "injury_notes": "No key injuries.",
-      "sharp": {
-        "away_t": null,
-        "home_t": null,
-        "source": null,
-        "sharp_signal": null,
-        "sharp_label": "Pending \u2014 check closer to tip-off",
-        "rlm": false
-      },
-      "form": {
-        "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        },
-        "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        }
-      },
-      "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
-      },
-      "briefing": {
-        "trend": "DET on Back-to-Back \u26a0\ufe0f per ESPN schedule data. CLE on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -162 to -580 (418pt move) \u2014 heavy professional action on Detroit Pistons.",
-        "injury_notes": "No key injuries."
-      },
-      "live": {
-        "status": "pre",
-        "status_detail": "Upcoming",
-        "period": 0,
-        "clock": "",
-        "home_score": 0,
-        "away_score": 0,
-        "spread_alert": null
-      },
-      "news": [
-        {
-          "title": "Utah Jazz roll the dice with Keyonte George at the NBA Draft Lottery",
-          "source": "Slcdunk.com",
-          "link": "https://www.slcdunk.com/jazz-draft-rumors-news/68199/utah-jazz-roll-the-dice-with-keyonte-george-at-the-nba-draft-lottery",
-          "published": "2026-05-07T00:09:01Z"
-        },
-        {
-          "title": "Luka Doncic's Lakers-Thunder Game 2 status officially revealed",
-          "source": "USA Today",
-          "link": "https://okcthunderwire.usatoday.com/story/sports/nba/thunder/2026/05/06/luka-doncics-lakers-thunder-game-2-status-officially-revealed/89969586007/",
-          "published": "2026-05-07T00:00:43Z"
-        }
-      ]
-    },
     {
       "game": "Los Angeles Lakers @ Oklahoma City Thunder",
       "home_team": "Oklahoma City Thunder",
       "away_team": "Los Angeles Lakers",
       "home_abbr": "OKC",
       "away_abbr": "LAL",
-      "home_ml": "-900",
-      "away_ml": "+600",
-      "home_ml_raw": -900,
-      "away_ml_raw": 600,
-      "home_prob": 86.3,
-      "away_prob": 13.7,
-      "spread": "OKC -15.5",
+      "home_ml": "-4000",
+      "away_ml": "+1500",
+      "home_ml_raw": -4000,
+      "away_ml_raw": 1500,
+      "home_prob": 94.0,
+      "away_prob": 6.0,
+      "spread": "OKC -13.5",
       "favorite": "Oklahoma City Thunder",
       "pick": "Oklahoma City Thunder",
       "pick_abbr": "OKC",
-      "moneyline": "-900",
-      "win_probability": 86.3,
+      "moneyline": "-4000",
+      "win_probability": 94.0,
       "confidence": "HIGH",
       "confidence_stars": "\u2605\u2605\u2605",
-      "commence_time": "2026-05-08T01:40:00Z",
+      "commence_time": "2026-05-08T01:45:52Z",
       "line_movement": {
         "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "shorter",
+          "points_moved": 3100,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -4000 \u2190 -900",
           "old_ml": "-900",
-          "new_ml": "-900"
+          "new_ml": "-4000"
         },
         "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "longer",
+          "points_moved": 900,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM +1500 \u2190 +600",
           "old_ml": "+600",
-          "new_ml": "+600"
+          "new_ml": "+1500"
         },
         "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "shorter",
+          "points_moved": 3100,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -4000 \u2190 -900",
           "old_ml": "-900",
-          "new_ml": "-900"
+          "new_ml": "-4000"
         },
-        "snapshot_time": "May 07, 2026 at 11:01 PM UTC"
+        "snapshot_time": "May 08, 2026 at 12:11 AM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "RESTED",
-          "label": "2 days rest \u2705",
-          "battery": 88,
-          "last_game": "May 05",
-          "days_rest": 3,
-          "games_last_4d": 1,
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "May 07",
+          "days_rest": 1,
+          "games_last_4d": 2,
           "travel_miles": 0,
           "travel_desc": "",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "RESTED",
-          "label": "2 days rest \u2705",
-          "battery": 88,
-          "last_game": "May 05",
-          "days_rest": 3,
-          "games_last_4d": 1,
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "May 07",
+          "days_rest": 1,
+          "games_last_4d": 2,
           "travel_miles": 1180,
           "travel_desc": "1,180 mi road trip",
           "source": "ESPN Scoreboard API"
         }
       },
       "edge_factors": [
-        "\ud83d\udcca 72.6pt probability edge"
+        "\ud83d\udd25 Sharp steam detected",
+        "\ud83d\udca4 LAL fatigued (B2B) \u2014 source: ESPN"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -252,9 +113,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "Oklahoma City Thunder hold a 86.3% edge.",
+        "trend": "OKC on Back-to-Back \u26a0\ufe0f per ESPN schedule data. LAL on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "steam": "Line steamed from -900 to -4000 (3100pt move) \u2014 heavy professional action on Oklahoma City Thunder.",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -268,16 +129,22 @@
       },
       "news": [
         {
-          "title": "Utah Jazz roll the dice with Keyonte George at the NBA Draft Lottery",
-          "source": "Slcdunk.com",
-          "link": "https://www.slcdunk.com/jazz-draft-rumors-news/68199/utah-jazz-roll-the-dice-with-keyonte-george-at-the-nba-draft-lottery",
-          "published": "2026-05-07T00:09:01Z"
+          "title": "Follow live: Lakers, Thunder exchange buckets in t...",
+          "source": "www.espn.com - NBA",
+          "link": "https://www.espn.com/nba/game/_/gameId/401871327/lakers-thunder",
+          "published": "Thu, 7 May 2026 23:24:09 EST"
         },
         {
-          "title": "Luka Doncic's Lakers-Thunder Game 2 status officially revealed",
-          "source": "USA Today",
-          "link": "https://okcthunderwire.usatoday.com/story/sports/nba/thunder/2026/05/06/luka-doncics-lakers-thunder-game-2-status-officially-revealed/89969586007/",
-          "published": "2026-05-07T00:00:43Z"
+          "title": "'Frustrating': Luka still unsure when he'll return...",
+          "source": "www.espn.com - NBA",
+          "link": "https://www.espn.com/nba/story/_/id/48695018/lakers-luka-doncic-unsure-return-injury",
+          "published": "Thu, 7 May 2026 22:09:52 EST"
+        },
+        {
+          "title": "NBA Futures: Lakers' title odds move to 45-1 to wi...",
+          "source": "www.espn.com - NBA",
+          "link": "https://www.espn.com/espn/betting/story/_/id/45539787/2026-nba-finals-odds-mvp-2025-26-championship-betting",
+          "published": "Thu, 7 May 2026 12:55:52 EST"
         }
       ]
     },
@@ -327,7 +194,7 @@
           "old_ml": "-118",
           "new_ml": "-118"
         },
-        "snapshot_time": "May 07, 2026 at 11:01 PM UTC"
+        "snapshot_time": "May 08, 2026 at 12:11 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -356,7 +223,7 @@
       "edge_factors": [
         "\ud83d\udcca 3.4pt probability edge"
       ],
-      "injury_notes": "No key injuries.",
+      "injury_notes": "Joel Embiid (C); Josh Hart (G); Mitchell Robinson (C); OG Anunoby (F)",
       "sharp": {
         "away_t": null,
         "home_t": null,
@@ -394,7 +261,7 @@
         "trend": "Philadelphia 76ers hold a 51.7% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
         "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
-        "injury_notes": "No key injuries."
+        "injury_notes": "Joel Embiid (C); Josh Hart (G); Mitchell Robinson (C); OG Anunoby (F)"
       },
       "live": {
         "status": "pre",
@@ -407,16 +274,16 @@
       },
       "news": [
         {
-          "title": "Utah Jazz roll the dice with Keyonte George at the NBA Draft Lottery",
-          "source": "Slcdunk.com",
-          "link": "https://www.slcdunk.com/jazz-draft-rumors-news/68199/utah-jazz-roll-the-dice-with-keyonte-george-at-the-nba-draft-lottery",
-          "published": "2026-05-07T00:09:01Z"
+          "title": "Sources: Knicks' Anunoby has hamstring strain",
+          "source": "www.espn.com - NBA",
+          "link": "https://www.espn.com/nba/story/_/id/48704042/sources-knicks-og-anunoby-hamstring-strain-day-day",
+          "published": "Thu, 7 May 2026 22:09:52 EST"
         },
         {
-          "title": "Luka Doncic's Lakers-Thunder Game 2 status officially revealed",
-          "source": "USA Today",
-          "link": "https://okcthunderwire.usatoday.com/story/sports/nba/thunder/2026/05/06/luka-doncics-lakers-thunder-game-2-status-officially-revealed/89969586007/",
-          "published": "2026-05-07T00:00:43Z"
+          "title": "Brunson, Knicks pull out win, go up 2-0 on 76ers",
+          "source": "www.espn.com - NBA",
+          "link": "https://www.espn.com/nba/story/_/id/48699103/jalen-brunson-knicks-pull-win-2-0-lead-vs-76ers",
+          "published": "Thu, 7 May 2026 22:09:52 EST"
         }
       ]
     },
@@ -466,7 +333,7 @@
           "old_ml": "-198",
           "new_ml": "-198"
         },
-        "snapshot_time": "May 07, 2026 at 11:01 PM UTC"
+        "snapshot_time": "May 08, 2026 at 12:11 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -495,7 +362,7 @@
       "edge_factors": [
         "\ud83d\udcca 27.4pt probability edge"
       ],
-      "injury_notes": "No key injuries.",
+      "injury_notes": "Ayo Dosunmu (G); Anthony Edwards (G)",
       "sharp": {
         "away_t": null,
         "home_t": null,
@@ -533,6 +400,145 @@
         "trend": "San Antonio Spurs hold a 63.7% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
         "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "injury_notes": "Ayo Dosunmu (G); Anthony Edwards (G)"
+      },
+      "live": {
+        "status": "pre",
+        "status_detail": "Upcoming",
+        "period": 0,
+        "clock": "",
+        "home_score": 0,
+        "away_score": 0,
+        "spread_alert": null
+      },
+      "news": [
+        {
+          "title": "Spurs rebound, hand Wolves largest playoff defeat",
+          "source": "www.espn.com - NBA",
+          "link": "https://www.espn.com/nba/story/_/id/48700056/spurs-rebound-game-2-hand-timberwolves-their-worst-postseason-loss-franchise-history",
+          "published": "Thu, 7 May 2026 22:09:52 EST"
+        },
+        {
+          "title": "Finch: Wolves 'got punked' in 38-point blowout",
+          "source": "www.espn.com - NBA",
+          "link": "https://www.espn.com/nba/story/_/id/48700497/wolves-fail-heed-edwards-warning-come-cool-rout",
+          "published": "Thu, 7 May 2026 22:09:52 EST"
+        }
+      ]
+    },
+    {
+      "game": "Detroit Pistons @ Cleveland Cavaliers",
+      "home_team": "Cleveland Cavaliers",
+      "away_team": "Detroit Pistons",
+      "home_abbr": "CLE",
+      "away_abbr": "DET",
+      "home_ml": "-175",
+      "away_ml": "+145",
+      "home_ml_raw": -175,
+      "away_ml_raw": 145,
+      "home_prob": 60.9,
+      "away_prob": 39.1,
+      "spread": "CLE -4.5",
+      "favorite": "Cleveland Cavaliers",
+      "pick": "Cleveland Cavaliers",
+      "pick_abbr": "CLE",
+      "moneyline": "-175",
+      "win_probability": 60.9,
+      "confidence": "MEDIUM",
+      "confidence_stars": "\u2605\u2605\u2606",
+      "commence_time": "2026-05-09T19:10:00Z",
+      "line_movement": {
+        "home": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "away": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "pick": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "snapshot_time": "\u2014"
+      },
+      "fatigue": {
+        "home": {
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "May 07",
+          "days_rest": 1,
+          "games_last_4d": 2,
+          "travel_miles": 91,
+          "travel_desc": "91 mi road trip",
+          "source": "ESPN Scoreboard API"
+        },
+        "away": {
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "May 07",
+          "days_rest": 1,
+          "games_last_4d": 2,
+          "travel_miles": 0,
+          "travel_desc": "",
+          "source": "ESPN Scoreboard API"
+        }
+      },
+      "edge_factors": [
+        "\ud83d\udca4 DET fatigued (B2B) \u2014 source: ESPN"
+      ],
+      "injury_notes": "No key injuries.",
+      "sharp": {
+        "away_t": null,
+        "home_t": null,
+        "source": null,
+        "sharp_signal": null,
+        "sharp_label": "Pending \u2014 check closer to tip-off",
+        "rlm": false
+      },
+      "form": {
+        "home": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        },
+        "away": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        }
+      },
+      "h2h": {
+        "total_meetings": 0,
+        "home_wins": 0,
+        "away_wins": 0,
+        "meetings": [],
+        "source": "\u2014"
+      },
+      "briefing": {
+        "trend": "CLE on Back-to-Back \u26a0\ufe0f per ESPN schedule data. DET on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "matchup": "Both rosters appear healthy \u2014 clean line.",
+        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -546,16 +552,16 @@
       },
       "news": [
         {
-          "title": "Utah Jazz roll the dice with Keyonte George at the NBA Draft Lottery",
-          "source": "Slcdunk.com",
-          "link": "https://www.slcdunk.com/jazz-draft-rumors-news/68199/utah-jazz-roll-the-dice-with-keyonte-george-at-the-nba-draft-lottery",
-          "published": "2026-05-07T00:09:01Z"
+          "title": "Cunningham, Pistons pull away, take G2 vs. Cavs",
+          "source": "www.espn.com - NBA",
+          "link": "https://www.espn.com/nba/story/_/id/48708023/cunningham-pistons-pull-away-take-2-0-lead-cavaliers",
+          "published": "Thu, 7 May 2026 22:09:52 EST"
         },
         {
-          "title": "Luka Doncic's Lakers-Thunder Game 2 status officially revealed",
-          "source": "USA Today",
-          "link": "https://okcthunderwire.usatoday.com/story/sports/nba/thunder/2026/05/06/luka-doncics-lakers-thunder-game-2-status-officially-revealed/89969586007/",
-          "published": "2026-05-07T00:00:43Z"
+          "title": "Takeaways as Pistons take 2-0 series lead",
+          "source": "www.espn.com - NBA",
+          "link": "https://www.espn.com/nba/story/_/id/48676289/2026-nba-playoffs-conference-semifinals-round-2-takeaways",
+          "published": "Thu, 7 May 2026 22:13:27 EST"
         }
       ]
     }
