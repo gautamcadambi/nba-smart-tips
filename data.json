@@ -1,153 +1,7 @@
 {
-  "last_updated": "May 08, 2026 at 03:31 AM UTC",
+  "last_updated": "May 08, 2026 at 05:48 AM UTC",
   "total_games": 4,
   "games": [
-    {
-      "game": "Los Angeles Lakers @ Oklahoma City Thunder",
-      "home_team": "Oklahoma City Thunder",
-      "away_team": "Los Angeles Lakers",
-      "home_abbr": "OKC",
-      "away_abbr": "LAL",
-      "home_ml": "-4000",
-      "away_ml": "+1500",
-      "home_ml_raw": -4000,
-      "away_ml_raw": 1500,
-      "home_prob": 94.0,
-      "away_prob": 6.0,
-      "spread": "OKC -13.5",
-      "favorite": "Oklahoma City Thunder",
-      "pick": "Oklahoma City Thunder",
-      "pick_abbr": "OKC",
-      "moneyline": "-4000",
-      "win_probability": 94.0,
-      "confidence": "HIGH",
-      "confidence_stars": "\u2605\u2605\u2605",
-      "commence_time": "2026-05-08T01:45:52Z",
-      "line_movement": {
-        "home": {
-          "direction": "shorter",
-          "points_moved": 3100,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -4000 \u2190 -900",
-          "old_ml": "-900",
-          "new_ml": "-4000"
-        },
-        "away": {
-          "direction": "longer",
-          "points_moved": 900,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM +1500 \u2190 +600",
-          "old_ml": "+600",
-          "new_ml": "+1500"
-        },
-        "pick": {
-          "direction": "shorter",
-          "points_moved": 3100,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -4000 \u2190 -900",
-          "old_ml": "-900",
-          "new_ml": "-4000"
-        },
-        "snapshot_time": "May 08, 2026 at 12:11 AM UTC"
-      },
-      "fatigue": {
-        "home": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
-          "last_game": "May 07",
-          "days_rest": 1,
-          "games_last_4d": 2,
-          "travel_miles": 0,
-          "travel_desc": "",
-          "source": "ESPN Scoreboard API"
-        },
-        "away": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
-          "last_game": "May 07",
-          "days_rest": 1,
-          "games_last_4d": 2,
-          "travel_miles": 1180,
-          "travel_desc": "1,180 mi road trip",
-          "source": "ESPN Scoreboard API"
-        }
-      },
-      "edge_factors": [
-        "\ud83d\udd25 Sharp steam detected",
-        "\ud83d\udca4 LAL fatigued (B2B) \u2014 source: ESPN"
-      ],
-      "injury_notes": "No key injuries.",
-      "sharp": {
-        "away_t": null,
-        "home_t": null,
-        "source": null,
-        "sharp_signal": null,
-        "sharp_label": "Pending \u2014 check closer to tip-off",
-        "rlm": false
-      },
-      "form": {
-        "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        },
-        "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        }
-      },
-      "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
-      },
-      "briefing": {
-        "trend": "OKC on Back-to-Back \u26a0\ufe0f per ESPN schedule data. LAL on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -900 to -4000 (3100pt move) \u2014 heavy professional action on Oklahoma City Thunder.",
-        "injury_notes": "No key injuries."
-      },
-      "live": {
-        "status": "pre",
-        "status_detail": "Upcoming",
-        "period": 0,
-        "clock": "",
-        "home_score": 0,
-        "away_score": 0,
-        "spread_alert": null
-      },
-      "news": [
-        {
-          "title": "Follow live: Lakers, Thunder exchange buckets in t...",
-          "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/nba/game/_/gameId/401871327/lakers-thunder",
-          "published": "Thu, 7 May 2026 23:24:09 EST"
-        },
-        {
-          "title": "'Frustrating': Luka still unsure when he'll return...",
-          "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/nba/story/_/id/48695018/lakers-luka-doncic-unsure-return-injury",
-          "published": "Thu, 7 May 2026 22:09:52 EST"
-        },
-        {
-          "title": "NBA Futures: Lakers' title odds move to 45-1 to wi...",
-          "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/espn/betting/story/_/id/45539787/2026-nba-finals-odds-mvp-2025-26-championship-betting",
-          "published": "Thu, 7 May 2026 12:55:52 EST"
-        }
-      ]
-    },
     {
       "game": "New York Knicks @ Philadelphia 76ers",
       "home_team": "Philadelphia 76ers",
@@ -194,7 +48,7 @@
           "old_ml": "-118",
           "new_ml": "-118"
         },
-        "snapshot_time": "May 08, 2026 at 12:11 AM UTC"
+        "snapshot_time": "May 08, 2026 at 03:31 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -223,7 +77,7 @@
       "edge_factors": [
         "\ud83d\udcca 3.4pt probability edge"
       ],
-      "injury_notes": "Joel Embiid (C); Josh Hart (G); Mitchell Robinson (C); OG Anunoby (F)",
+      "injury_notes": "No key injuries.",
       "sharp": {
         "away_t": null,
         "home_t": null,
@@ -261,7 +115,7 @@
         "trend": "Philadelphia 76ers hold a 51.7% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
         "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
-        "injury_notes": "Joel Embiid (C); Josh Hart (G); Mitchell Robinson (C); OG Anunoby (F)"
+        "injury_notes": "No key injuries."
       },
       "live": {
         "status": "pre",
@@ -274,16 +128,22 @@
       },
       "news": [
         {
-          "title": "Sources: Knicks' Anunoby has hamstring strain",
-          "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/nba/story/_/id/48704042/sources-knicks-og-anunoby-hamstring-strain-day-day",
-          "published": "Thu, 7 May 2026 22:09:52 EST"
+          "title": "Spurs respond to Game 1 loss with beatdown of Timberwolves in Game 2 - Yahoo Sports",
+          "source": "Slashdot.org",
+          "link": "https://slashdot.org/firehose.pl?op=view&amp;id=183147976",
+          "published": "2026-05-07T05:32:05Z"
         },
         {
-          "title": "Brunson, Knicks pull out win, go up 2-0 on 76ers",
-          "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/nba/story/_/id/48699103/jalen-brunson-knicks-pull-win-2-0-lead-vs-76ers",
-          "published": "Thu, 7 May 2026 22:09:52 EST"
+          "title": "NBA playoff winners and losers: Knicks overwhelm 76ers in crunch time, Spurs bounce back emphatically",
+          "source": "CBS Sports",
+          "link": "https://www.cbssports.com/nba/news/nba-playoff-winners-and-losers-knicks-76ers-spurs-timberwolves/",
+          "published": "2026-05-07T05:12:48Z"
+        },
+        {
+          "title": "Live Updates: Spurs host Timberwolves in crucial contest - NBA",
+          "source": "Slashdot.org",
+          "link": "https://slashdot.org/firehose.pl?op=view&amp;id=183147904",
+          "published": "2026-05-07T05:12:08Z"
         }
       ]
     },
@@ -333,7 +193,7 @@
           "old_ml": "-198",
           "new_ml": "-198"
         },
-        "snapshot_time": "May 08, 2026 at 12:11 AM UTC"
+        "snapshot_time": "May 08, 2026 at 03:31 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -362,7 +222,7 @@
       "edge_factors": [
         "\ud83d\udcca 27.4pt probability edge"
       ],
-      "injury_notes": "Ayo Dosunmu (G); Anthony Edwards (G)",
+      "injury_notes": "No key injuries.",
       "sharp": {
         "away_t": null,
         "home_t": null,
@@ -400,7 +260,7 @@
         "trend": "San Antonio Spurs hold a 63.7% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
         "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
-        "injury_notes": "Ayo Dosunmu (G); Anthony Edwards (G)"
+        "injury_notes": "No key injuries."
       },
       "live": {
         "status": "pre",
@@ -413,16 +273,22 @@
       },
       "news": [
         {
-          "title": "Spurs rebound, hand Wolves largest playoff defeat",
-          "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/nba/story/_/id/48700056/spurs-rebound-game-2-hand-timberwolves-their-worst-postseason-loss-franchise-history",
-          "published": "Thu, 7 May 2026 22:09:52 EST"
+          "title": "Spurs respond to Game 1 loss with beatdown of Timberwolves in Game 2 - Yahoo Sports",
+          "source": "Slashdot.org",
+          "link": "https://slashdot.org/firehose.pl?op=view&amp;id=183147976",
+          "published": "2026-05-07T05:32:05Z"
         },
         {
-          "title": "Finch: Wolves 'got punked' in 38-point blowout",
-          "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/nba/story/_/id/48700497/wolves-fail-heed-edwards-warning-come-cool-rout",
-          "published": "Thu, 7 May 2026 22:09:52 EST"
+          "title": "NBA playoff winners and losers: Knicks overwhelm 76ers in crunch time, Spurs bounce back emphatically",
+          "source": "CBS Sports",
+          "link": "https://www.cbssports.com/nba/news/nba-playoff-winners-and-losers-knicks-76ers-spurs-timberwolves/",
+          "published": "2026-05-07T05:12:48Z"
+        },
+        {
+          "title": "Live Updates: Spurs host Timberwolves in crucial contest - NBA",
+          "source": "Slashdot.org",
+          "link": "https://slashdot.org/firehose.pl?op=view&amp;id=183147904",
+          "published": "2026-05-07T05:12:08Z"
         }
       ]
     },
@@ -452,27 +318,27 @@
           "direction": "none",
           "points_moved": 0,
           "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "label": "No movement",
+          "old_ml": "-175",
+          "new_ml": "-175"
         },
         "away": {
           "direction": "none",
           "points_moved": 0,
           "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "label": "No movement",
+          "old_ml": "+145",
+          "new_ml": "+145"
         },
         "pick": {
           "direction": "none",
           "points_moved": 0,
           "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "label": "No movement",
+          "old_ml": "-175",
+          "new_ml": "-175"
         },
-        "snapshot_time": "\u2014"
+        "snapshot_time": "May 08, 2026 at 03:31 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -552,16 +418,167 @@
       },
       "news": [
         {
-          "title": "Cunningham, Pistons pull away, take G2 vs. Cavs",
-          "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/nba/story/_/id/48708023/cunningham-pistons-pull-away-take-2-0-lead-cavaliers",
-          "published": "Thu, 7 May 2026 22:09:52 EST"
+          "title": "Spurs respond to Game 1 loss with beatdown of Timberwolves in Game 2 - Yahoo Sports",
+          "source": "Slashdot.org",
+          "link": "https://slashdot.org/firehose.pl?op=view&amp;id=183147976",
+          "published": "2026-05-07T05:32:05Z"
         },
         {
-          "title": "Takeaways as Pistons take 2-0 series lead",
-          "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/nba/story/_/id/48676289/2026-nba-playoffs-conference-semifinals-round-2-takeaways",
-          "published": "Thu, 7 May 2026 22:13:27 EST"
+          "title": "NBA playoff winners and losers: Knicks overwhelm 76ers in crunch time, Spurs bounce back emphatically",
+          "source": "CBS Sports",
+          "link": "https://www.cbssports.com/nba/news/nba-playoff-winners-and-losers-knicks-76ers-spurs-timberwolves/",
+          "published": "2026-05-07T05:12:48Z"
+        },
+        {
+          "title": "Live Updates: Spurs host Timberwolves in crucial contest - NBA",
+          "source": "Slashdot.org",
+          "link": "https://slashdot.org/firehose.pl?op=view&amp;id=183147904",
+          "published": "2026-05-07T05:12:08Z"
+        }
+      ]
+    },
+    {
+      "game": "Oklahoma City Thunder @ Los Angeles Lakers",
+      "home_team": "Los Angeles Lakers",
+      "away_team": "Oklahoma City Thunder",
+      "home_abbr": "LAL",
+      "away_abbr": "OKC",
+      "home_ml": "+275",
+      "away_ml": "-345",
+      "home_ml_raw": 275,
+      "away_ml_raw": -345,
+      "home_prob": 25.6,
+      "away_prob": 74.4,
+      "spread": "LAL +8.5",
+      "favorite": "Oklahoma City Thunder",
+      "pick": "Oklahoma City Thunder",
+      "pick_abbr": "OKC",
+      "moneyline": "-345",
+      "win_probability": 74.4,
+      "confidence": "HIGH",
+      "confidence_stars": "\u2605\u2605\u2605",
+      "commence_time": "2026-05-10T00:40:00Z",
+      "line_movement": {
+        "home": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "away": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "pick": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "snapshot_time": "\u2014"
+      },
+      "fatigue": {
+        "home": {
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "May 07",
+          "days_rest": 1,
+          "games_last_4d": 2,
+          "travel_miles": 1180,
+          "travel_desc": "1,180 mi road trip",
+          "source": "ESPN Scoreboard API"
+        },
+        "away": {
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "May 07",
+          "days_rest": 1,
+          "games_last_4d": 2,
+          "travel_miles": 0,
+          "travel_desc": "",
+          "source": "ESPN Scoreboard API"
+        }
+      },
+      "edge_factors": [
+        "\ud83d\udca4 LAL fatigued (B2B) \u2014 source: ESPN"
+      ],
+      "injury_notes": "No key injuries.",
+      "sharp": {
+        "away_t": null,
+        "home_t": null,
+        "source": null,
+        "sharp_signal": null,
+        "sharp_label": "Pending \u2014 check closer to tip-off",
+        "rlm": false
+      },
+      "form": {
+        "home": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        },
+        "away": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        }
+      },
+      "h2h": {
+        "total_meetings": 0,
+        "home_wins": 0,
+        "away_wins": 0,
+        "meetings": [],
+        "source": "\u2014"
+      },
+      "briefing": {
+        "trend": "LAL on Back-to-Back \u26a0\ufe0f per ESPN schedule data. OKC on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "matchup": "Both rosters appear healthy \u2014 clean line.",
+        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "injury_notes": "No key injuries."
+      },
+      "live": {
+        "status": "pre",
+        "status_detail": "Upcoming",
+        "period": 0,
+        "clock": "",
+        "home_score": 0,
+        "away_score": 0,
+        "spread_alert": null
+      },
+      "news": [
+        {
+          "title": "Spurs respond to Game 1 loss with beatdown of Timberwolves in Game 2 - Yahoo Sports",
+          "source": "Slashdot.org",
+          "link": "https://slashdot.org/firehose.pl?op=view&amp;id=183147976",
+          "published": "2026-05-07T05:32:05Z"
+        },
+        {
+          "title": "NBA playoff winners and losers: Knicks overwhelm 76ers in crunch time, Spurs bounce back emphatically",
+          "source": "CBS Sports",
+          "link": "https://www.cbssports.com/nba/news/nba-playoff-winners-and-losers-knicks-76ers-spurs-timberwolves/",
+          "published": "2026-05-07T05:12:48Z"
+        },
+        {
+          "title": "Live Updates: Spurs host Timberwolves in crucial contest - NBA",
+          "source": "Slashdot.org",
+          "link": "https://slashdot.org/firehose.pl?op=view&amp;id=183147904",
+          "published": "2026-05-07T05:12:08Z"
         }
       ]
     }
