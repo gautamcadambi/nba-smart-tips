@@ -1,5 +1,5 @@
 {
-  "last_updated": "May 08, 2026 at 02:19 PM UTC",
+  "last_updated": "May 08, 2026 at 10:56 PM UTC",
   "total_games": 4,
   "games": [
     {
@@ -8,47 +8,47 @@
       "away_team": "New York Knicks",
       "home_abbr": "PHI",
       "away_abbr": "NYK",
-      "home_ml": "-118",
-      "away_ml": "-102",
-      "home_ml_raw": -118,
-      "away_ml_raw": -102,
-      "home_prob": 51.7,
-      "away_prob": 48.3,
-      "spread": "PHI -1.5",
+      "home_ml": "-155",
+      "away_ml": "+130",
+      "home_ml_raw": -155,
+      "away_ml_raw": 130,
+      "home_prob": 58.3,
+      "away_prob": 41.7,
+      "spread": "PHI -3.5",
       "favorite": "Philadelphia 76ers",
       "pick": "Philadelphia 76ers",
       "pick_abbr": "PHI",
-      "moneyline": "-118",
-      "win_probability": 51.7,
-      "confidence": "LOW",
-      "confidence_stars": "\u2605\u2606\u2606",
+      "moneyline": "-155",
+      "win_probability": 58.3,
+      "confidence": "MEDIUM",
+      "confidence_stars": "\u2605\u2605\u2606",
       "commence_time": "2026-05-08T23:10:00Z",
       "line_movement": {
         "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "shorter",
+          "points_moved": 37,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -155 \u2190 -118",
           "old_ml": "-118",
-          "new_ml": "-118"
+          "new_ml": "-155"
         },
         "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "longer",
+          "points_moved": 232,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM +130 \u2190 -102",
           "old_ml": "-102",
-          "new_ml": "-102"
+          "new_ml": "+130"
         },
         "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "shorter",
+          "points_moved": 37,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -155 \u2190 -118",
           "old_ml": "-118",
-          "new_ml": "-118"
+          "new_ml": "-155"
         },
-        "snapshot_time": "May 08, 2026 at 12:08 PM UTC"
+        "snapshot_time": "May 08, 2026 at 02:19 PM UTC"
       },
       "fatigue": {
         "home": {
@@ -75,9 +75,9 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udcca 3.4pt probability edge"
+        "\ud83d\udd25 Sharp steam detected"
       ],
-      "injury_notes": "Joel Embiid (C); Josh Hart (G); Mitchell Robinson (C); OG Anunoby (F)",
+      "injury_notes": "No key injuries.",
       "sharp": {
         "away_t": null,
         "home_t": null,
@@ -112,10 +112,10 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "Philadelphia 76ers hold a 51.7% edge.",
+        "trend": "Philadelphia 76ers hold a 58.3% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
-        "injury_notes": "Joel Embiid (C); Josh Hart (G); Mitchell Robinson (C); OG Anunoby (F)"
+        "steam": "Line steamed from -118 to -155 (37pt move) \u2014 heavy professional action on Philadelphia 76ers.",
+        "injury_notes": "No key injuries."
       },
       "live": {
         "status": "pre",
@@ -128,16 +128,22 @@
       },
       "news": [
         {
-          "title": "Sources: Knicks' Anunoby has hamstring strain",
-          "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/nba/story/_/id/48704042/sources-knicks-og-anunoby-hamstring-strain-day-day",
-          "published": "Fri, 8 May 2026 10:07:55 EST"
+          "title": "Is Sam Merrill playing tonight? Injury status for Cavaliers guard",
+          "source": "USA Today",
+          "link": "https://www.usatoday.com/story/sports/nba/cavaliers/2026/05/07/sam-merrill-injury-update-status-cavaliers-pistons-game-2/89985125007/",
+          "published": "2026-05-07T22:54:48Z"
         },
         {
-          "title": "Five questions that will decide Knicks-76ers Game ...",
-          "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/nba/story/_/id/48705360/nba-playoffs-2026-knicks-76ers-game-3-keys-anunoby-embiid-towns",
-          "published": "Fri, 8 May 2026 08:21:04 EST"
+          "title": "Cavaliers vs. Pistons live score, updates, highlights from 2026 NBA playoffs second-round series",
+          "source": "Sporting News",
+          "link": "https://www.sportingnews.com/us/nba/detroit-pistons/news/cavaliers-vs-pistons-live-score-updates-highlights-2026-nba-playoffs-second-round-series/52328a1c3becd62b1aa96a17",
+          "published": "2026-05-07T22:45:08Z"
+        },
+        {
+          "title": "Cavs guard Sam Merrill out with hamstring injury versus Pistons in Game 2 of their 2nd-round series",
+          "source": "Yahoo Entertainment",
+          "link": "https://sports.yahoo.com/articles/cavs-guard-sam-merrill-hamstring-224224034.html",
+          "published": "2026-05-07T22:42:24Z"
         }
       ]
     },
@@ -147,47 +153,47 @@
       "away_team": "San Antonio Spurs",
       "home_abbr": "MIN",
       "away_abbr": "SAS",
-      "home_ml": "+164",
-      "away_ml": "-198",
-      "home_ml_raw": 164,
-      "away_ml_raw": -198,
-      "home_prob": 36.3,
-      "away_prob": 63.7,
-      "spread": "MIN +4.5",
+      "home_ml": "+180",
+      "away_ml": "-218",
+      "home_ml_raw": 180,
+      "away_ml_raw": -218,
+      "home_prob": 34.3,
+      "away_prob": 65.7,
+      "spread": "MIN +5.5",
       "favorite": "San Antonio Spurs",
       "pick": "San Antonio Spurs",
       "pick_abbr": "SAS",
-      "moneyline": "-198",
-      "win_probability": 63.7,
+      "moneyline": "-218",
+      "win_probability": 65.7,
       "confidence": "MEDIUM",
       "confidence_stars": "\u2605\u2605\u2606",
       "commence_time": "2026-05-09T01:40:00Z",
       "line_movement": {
         "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "longer",
+          "points_moved": 16,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM +180 \u2190 +164",
           "old_ml": "+164",
-          "new_ml": "+164"
+          "new_ml": "+180"
         },
         "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "shorter",
+          "points_moved": 20,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -218 \u2190 -198",
           "old_ml": "-198",
-          "new_ml": "-198"
+          "new_ml": "-218"
         },
         "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "shorter",
+          "points_moved": 20,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -218 \u2190 -198",
           "old_ml": "-198",
-          "new_ml": "-198"
+          "new_ml": "-218"
         },
-        "snapshot_time": "May 08, 2026 at 12:08 PM UTC"
+        "snapshot_time": "May 08, 2026 at 02:19 PM UTC"
       },
       "fatigue": {
         "home": {
@@ -214,9 +220,9 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udcca 27.4pt probability edge"
+        "\ud83d\udd25 Sharp steam detected"
       ],
-      "injury_notes": "Ayo Dosunmu (G); Anthony Edwards (G)",
+      "injury_notes": "No key injuries.",
       "sharp": {
         "away_t": null,
         "home_t": null,
@@ -251,10 +257,10 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "San Antonio Spurs hold a 63.7% edge.",
+        "trend": "San Antonio Spurs hold a 65.7% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
-        "injury_notes": "Ayo Dosunmu (G); Anthony Edwards (G)"
+        "steam": "Line steamed from -198 to -218 (20pt move) \u2014 heavy professional action on San Antonio Spurs.",
+        "injury_notes": "No key injuries."
       },
       "live": {
         "status": "pre",
@@ -267,10 +273,22 @@
       },
       "news": [
         {
-          "title": "Spurs rebound, hand Wolves largest playoff defeat",
-          "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/nba/story/_/id/48700056/spurs-rebound-game-2-hand-timberwolves-their-worst-postseason-loss-franchise-history",
-          "published": "Fri, 8 May 2026 10:07:55 EST"
+          "title": "Is Sam Merrill playing tonight? Injury status for Cavaliers guard",
+          "source": "USA Today",
+          "link": "https://www.usatoday.com/story/sports/nba/cavaliers/2026/05/07/sam-merrill-injury-update-status-cavaliers-pistons-game-2/89985125007/",
+          "published": "2026-05-07T22:54:48Z"
+        },
+        {
+          "title": "Cavaliers vs. Pistons live score, updates, highlights from 2026 NBA playoffs second-round series",
+          "source": "Sporting News",
+          "link": "https://www.sportingnews.com/us/nba/detroit-pistons/news/cavaliers-vs-pistons-live-score-updates-highlights-2026-nba-playoffs-second-round-series/52328a1c3becd62b1aa96a17",
+          "published": "2026-05-07T22:45:08Z"
+        },
+        {
+          "title": "Cavs guard Sam Merrill out with hamstring injury versus Pistons in Game 2 of their 2nd-round series",
+          "source": "Yahoo Entertainment",
+          "link": "https://sports.yahoo.com/articles/cavs-guard-sam-merrill-hamstring-224224034.html",
+          "published": "2026-05-07T22:42:24Z"
         }
       ]
     },
@@ -280,47 +298,47 @@
       "away_team": "Detroit Pistons",
       "home_abbr": "CLE",
       "away_abbr": "DET",
-      "home_ml": "-175",
-      "away_ml": "+145",
-      "home_ml_raw": -175,
-      "away_ml_raw": 145,
-      "home_prob": 60.9,
-      "away_prob": 39.1,
+      "home_ml": "-180",
+      "away_ml": "+150",
+      "home_ml_raw": -180,
+      "away_ml_raw": 150,
+      "home_prob": 61.6,
+      "away_prob": 38.4,
       "spread": "CLE -4.5",
       "favorite": "Cleveland Cavaliers",
       "pick": "Cleveland Cavaliers",
       "pick_abbr": "CLE",
-      "moneyline": "-175",
-      "win_probability": 60.9,
+      "moneyline": "-180",
+      "win_probability": 61.6,
       "confidence": "MEDIUM",
       "confidence_stars": "\u2605\u2605\u2606",
       "commence_time": "2026-05-09T19:10:00Z",
       "line_movement": {
         "home": {
-          "direction": "none",
-          "points_moved": 0,
+          "direction": "shorter",
+          "points_moved": 5,
           "steam": false,
-          "label": "No movement",
+          "label": "\ud83d\udfe2 -180 \u2190 -175",
           "old_ml": "-175",
-          "new_ml": "-175"
+          "new_ml": "-180"
         },
         "away": {
-          "direction": "none",
-          "points_moved": 0,
+          "direction": "longer",
+          "points_moved": 5,
           "steam": false,
-          "label": "No movement",
+          "label": "\ud83d\udd34 +150 \u2190 +145",
           "old_ml": "+145",
-          "new_ml": "+145"
+          "new_ml": "+150"
         },
         "pick": {
-          "direction": "none",
-          "points_moved": 0,
+          "direction": "shorter",
+          "points_moved": 5,
           "steam": false,
-          "label": "No movement",
+          "label": "\ud83d\udfe2 -180 \u2190 -175",
           "old_ml": "-175",
-          "new_ml": "-175"
+          "new_ml": "-180"
         },
-        "snapshot_time": "May 08, 2026 at 12:08 PM UTC"
+        "snapshot_time": "May 08, 2026 at 02:19 PM UTC"
       },
       "fatigue": {
         "home": {
@@ -349,7 +367,7 @@
       "edge_factors": [
         "\ud83d\udca4 DET fatigued (B2B) \u2014 source: ESPN"
       ],
-      "injury_notes": "Sam Merrill (G)",
+      "injury_notes": "No key injuries.",
       "sharp": {
         "away_t": null,
         "home_t": null,
@@ -386,8 +404,8 @@
       "briefing": {
         "trend": "CLE on Back-to-Back \u26a0\ufe0f per ESPN schedule data. DET on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
-        "injury_notes": "Sam Merrill (G)"
+        "steam": "Line moved -175\u2192-180 (5pts). Pending \u2014 check closer to tip-off",
+        "injury_notes": "No key injuries."
       },
       "live": {
         "status": "pre",
@@ -400,16 +418,22 @@
       },
       "news": [
         {
-          "title": "Cunningham, Pistons pull away, take G2 vs. Cavs",
-          "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/nba/story/_/id/48708023/cunningham-pistons-pull-away-take-2-0-lead-cavaliers",
-          "published": "Fri, 8 May 2026 10:07:54 EST"
+          "title": "Is Sam Merrill playing tonight? Injury status for Cavaliers guard",
+          "source": "USA Today",
+          "link": "https://www.usatoday.com/story/sports/nba/cavaliers/2026/05/07/sam-merrill-injury-update-status-cavaliers-pistons-game-2/89985125007/",
+          "published": "2026-05-07T22:54:48Z"
         },
         {
-          "title": "Cavs plan to 'figure it out' after Harden struggle...",
-          "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/nba/story/_/id/48708669/cavs-not-worried-james-harden-struggles-2nd-straight-game",
-          "published": "Fri, 8 May 2026 10:07:55 EST"
+          "title": "Cavaliers vs. Pistons live score, updates, highlights from 2026 NBA playoffs second-round series",
+          "source": "Sporting News",
+          "link": "https://www.sportingnews.com/us/nba/detroit-pistons/news/cavaliers-vs-pistons-live-score-updates-highlights-2026-nba-playoffs-second-round-series/52328a1c3becd62b1aa96a17",
+          "published": "2026-05-07T22:45:08Z"
+        },
+        {
+          "title": "Cavs guard Sam Merrill out with hamstring injury versus Pistons in Game 2 of their 2nd-round series",
+          "source": "Yahoo Entertainment",
+          "link": "https://sports.yahoo.com/articles/cavs-guard-sam-merrill-hamstring-224224034.html",
+          "published": "2026-05-07T22:42:24Z"
         }
       ]
     },
@@ -459,7 +483,7 @@
           "old_ml": "-375",
           "new_ml": "-375"
         },
-        "snapshot_time": "May 08, 2026 at 12:08 PM UTC"
+        "snapshot_time": "May 08, 2026 at 02:19 PM UTC"
       },
       "fatigue": {
         "home": {
@@ -488,7 +512,7 @@
       "edge_factors": [
         "\ud83d\udca4 LAL fatigued (B2B) \u2014 source: ESPN"
       ],
-      "injury_notes": "Jarred Vanderbilt (F)",
+      "injury_notes": "No key injuries.",
       "sharp": {
         "away_t": null,
         "home_t": null,
@@ -526,7 +550,7 @@
         "trend": "LAL on Back-to-Back \u26a0\ufe0f per ESPN schedule data. OKC on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
         "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
-        "injury_notes": "Jarred Vanderbilt (F)"
+        "injury_notes": "No key injuries."
       },
       "live": {
         "status": "pre",
@@ -539,22 +563,22 @@
       },
       "news": [
         {
-          "title": "Takeaways as Thunder take down Lakers in Game 2",
-          "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/nba/story/_/id/48676289/2026-nba-playoffs-conference-semifinals-round-2-takeaways",
-          "published": "Fri, 8 May 2026 01:16:35 EST"
+          "title": "Is Sam Merrill playing tonight? Injury status for Cavaliers guard",
+          "source": "USA Today",
+          "link": "https://www.usatoday.com/story/sports/nba/cavaliers/2026/05/07/sam-merrill-injury-update-status-cavaliers-pistons-game-2/89985125007/",
+          "published": "2026-05-07T22:54:48Z"
         },
         {
-          "title": "OKC up 2-0 on Lakers as Holmgren, SGA score 22",
-          "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/nba/story/_/id/48708989/chet-holmgren-shai-gilgeous-alexander-lead-thunder-lakers",
-          "published": "Fri, 8 May 2026 10:07:55 EST"
+          "title": "Cavaliers vs. Pistons live score, updates, highlights from 2026 NBA playoffs second-round series",
+          "source": "Sporting News",
+          "link": "https://www.sportingnews.com/us/nba/detroit-pistons/news/cavaliers-vs-pistons-live-score-updates-highlights-2026-nba-playoffs-second-round-series/52328a1c3becd62b1aa96a17",
+          "published": "2026-05-07T22:45:08Z"
         },
         {
-          "title": "Lakers' Redick rips refs; Reaves takes issue, too",
-          "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/nba/story/_/id/48709627/lakers-redick-rips-officiating-reaves-feels-disrespected",
-          "published": "Fri, 8 May 2026 10:07:54 EST"
+          "title": "Cavs guard Sam Merrill out with hamstring injury versus Pistons in Game 2 of their 2nd-round series",
+          "source": "Yahoo Entertainment",
+          "link": "https://sports.yahoo.com/articles/cavs-guard-sam-merrill-hamstring-224224034.html",
+          "published": "2026-05-07T22:42:24Z"
         }
       ]
     }
