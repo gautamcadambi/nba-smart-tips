@@ -1,5 +1,5 @@
 {
-  "last_updated": "May 09, 2026 at 10:46 PM UTC",
+  "last_updated": "May 09, 2026 at 11:51 PM UTC",
   "total_games": 4,
   "games": [
     {
@@ -8,47 +8,47 @@
       "away_team": "Oklahoma City Thunder",
       "home_abbr": "LAL",
       "away_abbr": "OKC",
-      "home_ml": "+295",
-      "away_ml": "-375",
-      "home_ml_raw": 295,
-      "away_ml_raw": -375,
-      "home_prob": 24.3,
-      "away_prob": 75.7,
-      "spread": "LAL +8.5",
+      "home_ml": "+310",
+      "away_ml": "-395",
+      "home_ml_raw": 310,
+      "away_ml_raw": -395,
+      "home_prob": 23.4,
+      "away_prob": 76.6,
+      "spread": "LAL +9.5",
       "favorite": "Oklahoma City Thunder",
       "pick": "Oklahoma City Thunder",
       "pick_abbr": "OKC",
-      "moneyline": "-375",
-      "win_probability": 75.7,
+      "moneyline": "-395",
+      "win_probability": 76.6,
       "confidence": "HIGH",
       "confidence_stars": "\u2605\u2605\u2605",
       "commence_time": "2026-05-10T00:40:00Z",
       "line_movement": {
         "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "longer",
+          "points_moved": 15,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM +310 \u2190 +295",
           "old_ml": "+295",
-          "new_ml": "+295"
+          "new_ml": "+310"
         },
         "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "shorter",
+          "points_moved": 20,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -395 \u2190 -375",
           "old_ml": "-375",
-          "new_ml": "-375"
+          "new_ml": "-395"
         },
         "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "shorter",
+          "points_moved": 20,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -395 \u2190 -375",
           "old_ml": "-375",
-          "new_ml": "-375"
+          "new_ml": "-395"
         },
-        "snapshot_time": "May 09, 2026 at 02:32 PM UTC"
+        "snapshot_time": "May 09, 2026 at 10:46 PM UTC"
       },
       "fatigue": {
         "home": {
@@ -75,9 +75,9 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udcca 51.4pt probability edge"
+        "\ud83d\udd25 Sharp steam detected"
       ],
-      "injury_notes": "Jarred Vanderbilt (F)",
+      "injury_notes": "No key injuries.",
       "sharp": {
         "away_t": null,
         "home_t": null,
@@ -112,10 +112,10 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "Oklahoma City Thunder hold a 75.7% edge.",
+        "trend": "Oklahoma City Thunder hold a 76.6% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
-        "injury_notes": "Jarred Vanderbilt (F)"
+        "steam": "Line steamed from -375 to -395 (20pt move) \u2014 heavy professional action on Oklahoma City Thunder.",
+        "injury_notes": "No key injuries."
       },
       "live": {
         "status": "pre",
@@ -128,10 +128,16 @@
       },
       "news": [
         {
-          "title": "NBA Futures: Pistons' title odds move to 15-1; Cav...",
-          "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/espn/betting/story/_/id/45539787/2026-nba-finals-odds-mvp-2025-26-championship-betting",
-          "published": "Fri, 8 May 2026 16:32:59 EST"
+          "title": "Charles Barkley: \u2018If Golden State was relevant, [Draymond Green] wouldn\u2019t be in the studio with me\u2019",
+          "source": "Awful Announcing",
+          "link": "https://awfulannouncing.com/nba/charles-barkley-golden-state-relevant-draymond-green-studio-with-me.html",
+          "published": "2026-05-08T23:50:58Z"
+        },
+        {
+          "title": "Cavs vs. Pistons Game 3: How to watch, odds, and injury report",
+          "source": "Fear the Sword",
+          "link": "https://www.fearthesword.com/cavs-injury-report/49101/cavs-vs-pistons-game-3-how-to-watch-odds-and-injury-report",
+          "published": "2026-05-08T23:49:44Z"
         }
       ]
     },
@@ -181,7 +187,7 @@
           "old_ml": "-115",
           "new_ml": "-115"
         },
-        "snapshot_time": "May 09, 2026 at 02:32 PM UTC"
+        "snapshot_time": "May 09, 2026 at 10:46 PM UTC"
       },
       "fatigue": {
         "home": {
@@ -210,7 +216,7 @@
       "edge_factors": [
         "\ud83d\udca4 PHI fatigued (B2B) \u2014 source: ESPN"
       ],
-      "injury_notes": "Joel Embiid (C); OG Anunoby (F)",
+      "injury_notes": "No key injuries.",
       "sharp": {
         "away_t": null,
         "home_t": null,
@@ -248,7 +254,7 @@
         "trend": "PHI on Back-to-Back \u26a0\ufe0f per ESPN schedule data. NYK on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
         "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
-        "injury_notes": "Joel Embiid (C); OG Anunoby (F)"
+        "injury_notes": "No key injuries."
       },
       "live": {
         "status": "pre",
@@ -261,16 +267,16 @@
       },
       "news": [
         {
-          "title": "Brunson shuts door on 76ers as Knicks go up 3-0",
-          "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/nba/story/_/id/48717062/jalen-brunson-shuts-door-76ers-knicks-go-3-0",
-          "published": "Sat, 9 May 2026 18:29:05 EST"
+          "title": "Charles Barkley: \u2018If Golden State was relevant, [Draymond Green] wouldn\u2019t be in the studio with me\u2019",
+          "source": "Awful Announcing",
+          "link": "https://awfulannouncing.com/nba/charles-barkley-golden-state-relevant-draymond-green-studio-with-me.html",
+          "published": "2026-05-08T23:50:58Z"
         },
         {
-          "title": "Embiid's return not enough as 76ers dig 0-3 hole",
-          "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/nba/story/_/id/48717906/joel-embiid-return-not-enough-sixers-pushed-brink-elimination",
-          "published": "Sat, 9 May 2026 18:29:05 EST"
+          "title": "Cavs vs. Pistons Game 3: How to watch, odds, and injury report",
+          "source": "Fear the Sword",
+          "link": "https://www.fearthesword.com/cavs-injury-report/49101/cavs-vs-pistons-game-3-how-to-watch-odds-and-injury-report",
+          "published": "2026-05-08T23:49:44Z"
         }
       ]
     },
@@ -320,7 +326,7 @@
           "old_ml": "-192",
           "new_ml": "-192"
         },
-        "snapshot_time": "May 09, 2026 at 02:32 PM UTC"
+        "snapshot_time": "May 09, 2026 at 10:46 PM UTC"
       },
       "fatigue": {
         "home": {
@@ -400,10 +406,16 @@
       },
       "news": [
         {
-          "title": "Finch calls out Brothers' 'unprofessional behavior...",
-          "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/nba/story/_/id/48718625/timberwolves-chris-finch-calls-tony-brothers-game-3-confrontation-completely-unprofessional-behavior",
-          "published": "Sat, 9 May 2026 18:29:05 EST"
+          "title": "Charles Barkley: \u2018If Golden State was relevant, [Draymond Green] wouldn\u2019t be in the studio with me\u2019",
+          "source": "Awful Announcing",
+          "link": "https://awfulannouncing.com/nba/charles-barkley-golden-state-relevant-draymond-green-studio-with-me.html",
+          "published": "2026-05-08T23:50:58Z"
+        },
+        {
+          "title": "Cavs vs. Pistons Game 3: How to watch, odds, and injury report",
+          "source": "Fear the Sword",
+          "link": "https://www.fearthesword.com/cavs-injury-report/49101/cavs-vs-pistons-game-3-how-to-watch-odds-and-injury-report",
+          "published": "2026-05-08T23:49:44Z"
         }
       ]
     },
@@ -430,30 +442,30 @@
       "commence_time": "2026-05-12T00:00:00Z",
       "line_movement": {
         "home": {
-          "direction": "longer",
-          "points_moved": 18,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -162 \u2190 -180",
-          "old_ml": "-180",
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "No movement",
+          "old_ml": "-162",
           "new_ml": "-162"
         },
         "away": {
-          "direction": "shorter",
-          "points_moved": 14,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM +136 \u2190 +150",
-          "old_ml": "+150",
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "No movement",
+          "old_ml": "+136",
           "new_ml": "+136"
         },
         "pick": {
-          "direction": "longer",
-          "points_moved": 18,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -162 \u2190 -180",
-          "old_ml": "-180",
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "No movement",
+          "old_ml": "-162",
           "new_ml": "-162"
         },
-        "snapshot_time": "May 09, 2026 at 02:32 PM UTC"
+        "snapshot_time": "May 09, 2026 at 10:46 PM UTC"
       },
       "fatigue": {
         "home": {
@@ -480,7 +492,7 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udd25 Sharp steam detected"
+        "\ud83d\udcca 18.6pt probability edge"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -519,7 +531,7 @@
       "briefing": {
         "trend": "Cleveland Cavaliers hold a 59.3% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -180 to -162 (18pt move) \u2014 heavy professional action on Cleveland Cavaliers.",
+        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -533,16 +545,16 @@
       },
       "news": [
         {
-          "title": "Harden's clutch shots help Cavaliers down Pistons",
-          "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/nba/story/_/id/48724867/james-harden-donovan-mitchell-help-cavaliers-pistons",
-          "published": "Sat, 9 May 2026 18:29:04 EST"
+          "title": "Charles Barkley: \u2018If Golden State was relevant, [Draymond Green] wouldn\u2019t be in the studio with me\u2019",
+          "source": "Awful Announcing",
+          "link": "https://awfulannouncing.com/nba/charles-barkley-golden-state-relevant-draymond-green-studio-with-me.html",
+          "published": "2026-05-08T23:50:58Z"
         },
         {
-          "title": "NBA Futures: Pistons' title odds move to 15-1; Cav...",
-          "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/espn/betting/story/_/id/45539787/2026-nba-finals-odds-mvp-2025-26-championship-betting",
-          "published": "Fri, 8 May 2026 16:32:59 EST"
+          "title": "Cavs vs. Pistons Game 3: How to watch, odds, and injury report",
+          "source": "Fear the Sword",
+          "link": "https://www.fearthesword.com/cavs-injury-report/49101/cavs-vs-pistons-game-3-how-to-watch-odds-and-injury-report",
+          "published": "2026-05-08T23:49:44Z"
         }
       ]
     }
