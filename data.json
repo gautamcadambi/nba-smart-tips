@@ -1,226 +1,82 @@
 {
-  "last_updated": "May 08, 2026 at 11:57 PM UTC",
+  "last_updated": "May 09, 2026 at 03:30 AM UTC",
   "total_games": 4,
   "games": [
-    {
-      "game": "New York Knicks @ Philadelphia 76ers",
-      "home_team": "Philadelphia 76ers",
-      "away_team": "New York Knicks",
-      "home_abbr": "PHI",
-      "away_abbr": "NYK",
-      "home_ml": "+130",
-      "away_ml": "-166",
-      "home_ml_raw": 130,
-      "away_ml_raw": -166,
-      "home_prob": 41.1,
-      "away_prob": 58.9,
-      "spread": "PHI +3.5",
-      "favorite": "New York Knicks",
-      "pick": "New York Knicks",
-      "pick_abbr": "NYK",
-      "moneyline": "-166",
-      "win_probability": 58.9,
-      "confidence": "MEDIUM",
-      "confidence_stars": "\u2605\u2605\u2606",
-      "commence_time": "2026-05-08T23:12:00Z",
-      "line_movement": {
-        "home": {
-          "direction": "longer",
-          "points_moved": 285,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM +130 \u2190 -155",
-          "old_ml": "-155",
-          "new_ml": "+130"
-        },
-        "away": {
-          "direction": "shorter",
-          "points_moved": 296,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -166 \u2190 +130",
-          "old_ml": "+130",
-          "new_ml": "-166"
-        },
-        "pick": {
-          "direction": "shorter",
-          "points_moved": 296,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -166 \u2190 +130",
-          "old_ml": "+130",
-          "new_ml": "-166"
-        },
-        "snapshot_time": "May 08, 2026 at 10:56 PM UTC"
-      },
-      "fatigue": {
-        "home": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "May 06",
-          "days_rest": 2,
-          "games_last_4d": 2,
-          "travel_miles": 85,
-          "travel_desc": "85 mi road trip",
-          "source": "ESPN Scoreboard API"
-        },
-        "away": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "May 06",
-          "days_rest": 2,
-          "games_last_4d": 2,
-          "travel_miles": 0,
-          "travel_desc": "",
-          "source": "ESPN Scoreboard API"
-        }
-      },
-      "edge_factors": [
-        "\ud83d\udd25 Sharp steam detected"
-      ],
-      "injury_notes": "No key injuries.",
-      "sharp": {
-        "away_t": null,
-        "home_t": null,
-        "source": null,
-        "sharp_signal": null,
-        "sharp_label": "Pending \u2014 check closer to tip-off",
-        "rlm": false
-      },
-      "form": {
-        "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        },
-        "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        }
-      },
-      "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
-      },
-      "briefing": {
-        "trend": "New York Knicks hold a 58.9% edge.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from +130 to -166 (296pt move) \u2014 heavy professional action on New York Knicks.",
-        "injury_notes": "No key injuries."
-      },
-      "live": {
-        "status": "pre",
-        "status_detail": "Upcoming",
-        "period": 0,
-        "clock": "",
-        "home_score": 0,
-        "away_score": 0,
-        "spread_alert": null
-      },
-      "news": [
-        {
-          "title": "Lakers vs. Thunder odds, prediction, time: 2026 NBA playoff picks, Game 2 best bets from proven model",
-          "source": "CBS Sports",
-          "link": "https://www.cbssports.com/nba/news/lakers-thunder-odds-prediction-time-2026-nba-playoff-picks-line-game-2-best-bets/",
-          "published": "2026-05-07T23:55:30Z"
-        },
-        {
-          "title": "Dan Gilbert paid for army of Cavs fans to take over Pistons playoff game",
-          "source": "Detroit Free Press",
-          "link": "https://www.freep.com/story/sports/nba/pistons/2026/05/07/pistons-cavaliers-dan-gilbert-game-2-playoffs/89985237007/",
-          "published": "2026-05-07T23:36:56Z"
-        },
-        {
-          "title": "Lamar Odom celebrates huge sobriety milestone",
-          "source": "New York Post",
-          "link": "https://nypost.com/2026/05/07/sports/lamar-odom-celebrates-sobriety-milestone/",
-          "published": "2026-05-07T23:31:22Z"
-        }
-      ]
-    },
     {
       "game": "San Antonio Spurs @ Minnesota Timberwolves",
       "home_team": "Minnesota Timberwolves",
       "away_team": "San Antonio Spurs",
       "home_abbr": "MIN",
       "away_abbr": "SAS",
-      "home_ml": "+180",
-      "away_ml": "-218",
-      "home_ml_raw": 180,
-      "away_ml_raw": -218,
-      "home_prob": 34.3,
-      "away_prob": 65.7,
-      "spread": "MIN +5.5",
+      "home_ml": "+310",
+      "away_ml": "-445",
+      "home_ml_raw": 310,
+      "away_ml_raw": -445,
+      "home_prob": 23.0,
+      "away_prob": 77.0,
+      "spread": "MIN +6.5",
       "favorite": "San Antonio Spurs",
       "pick": "San Antonio Spurs",
       "pick_abbr": "SAS",
-      "moneyline": "-218",
-      "win_probability": 65.7,
-      "confidence": "MEDIUM",
-      "confidence_stars": "\u2605\u2605\u2606",
-      "commence_time": "2026-05-09T01:40:00Z",
+      "moneyline": "-445",
+      "win_probability": 77.0,
+      "confidence": "HIGH",
+      "confidence_stars": "\u2605\u2605\u2605",
+      "commence_time": "2026-05-09T01:48:00Z",
       "line_movement": {
         "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "longer",
+          "points_moved": 130,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM +310 \u2190 +180",
           "old_ml": "+180",
-          "new_ml": "+180"
+          "new_ml": "+310"
         },
         "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "shorter",
+          "points_moved": 227,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -445 \u2190 -218",
           "old_ml": "-218",
-          "new_ml": "-218"
+          "new_ml": "-445"
         },
         "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "shorter",
+          "points_moved": 227,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -445 \u2190 -218",
           "old_ml": "-218",
-          "new_ml": "-218"
+          "new_ml": "-445"
         },
-        "snapshot_time": "May 08, 2026 at 10:56 PM UTC"
+        "snapshot_time": "May 08, 2026 at 11:57 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "May 06",
-          "days_rest": 2,
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "May 08",
+          "days_rest": 1,
           "games_last_4d": 2,
           "travel_miles": 1111,
           "travel_desc": "1,111 mi road trip",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "May 06",
-          "days_rest": 2,
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "May 08",
+          "days_rest": 1,
           "games_last_4d": 2,
-          "travel_miles": 0,
-          "travel_desc": "",
+          "travel_miles": 1111,
+          "travel_desc": "1,111 mi road trip",
           "source": "ESPN Scoreboard API"
         }
       },
       "edge_factors": [
-        "\ud83d\udcca 31.4pt probability edge"
+        "\ud83d\udd25 Sharp steam detected",
+        "\ud83d\udca4 MIN fatigued (B2B) \u2014 source: ESPN"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -257,9 +113,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "San Antonio Spurs hold a 65.7% edge.",
+        "trend": "MIN on Back-to-Back \u26a0\ufe0f per ESPN schedule data. SAS on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "steam": "Line steamed from -218 to -445 (227pt move) \u2014 heavy professional action on San Antonio Spurs.",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -273,22 +129,22 @@
       },
       "news": [
         {
-          "title": "Lakers vs. Thunder odds, prediction, time: 2026 NBA playoff picks, Game 2 best bets from proven model",
-          "source": "CBS Sports",
-          "link": "https://www.cbssports.com/nba/news/lakers-thunder-odds-prediction-time-2026-nba-playoff-picks-line-game-2-best-bets/",
-          "published": "2026-05-07T23:55:30Z"
+          "title": "1 Ted Turner Fact Braves Fans May Not Know",
+          "source": "Roundtable.io",
+          "link": "https://roundtable.io/sports/mlb/braves/opinion/1-ted-turner-fact-braves-fans-may-not-know",
+          "published": "2026-05-08T03:26:30Z"
         },
         {
-          "title": "Dan Gilbert paid for army of Cavs fans to take over Pistons playoff game",
-          "source": "Detroit Free Press",
-          "link": "https://www.freep.com/story/sports/nba/pistons/2026/05/07/pistons-cavaliers-dan-gilbert-game-2-playoffs/89985237007/",
-          "published": "2026-05-07T23:36:56Z"
+          "title": "11-year NBA veteran challenges Draymond Green to 1-on-1",
+          "source": "Yahoo Entertainment",
+          "link": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_01e88ab3-7314-47f3-8aed-2de580534a0f",
+          "published": "2026-05-08T03:23:53Z"
         },
         {
-          "title": "Lamar Odom celebrates huge sobriety milestone",
-          "source": "New York Post",
-          "link": "https://nypost.com/2026/05/07/sports/lamar-odom-celebrates-sobriety-milestone/",
-          "published": "2026-05-07T23:31:22Z"
+          "title": "Cavaliers explored trade for Bucks' Giannis Antetokounmpo before deadline, per report",
+          "source": "Sporting News",
+          "link": "https://www.sportingnews.com/us/nba/cleveland-cavaliers/news/cavaliers-explored-trade-bucks-giannis-antetokounmpo-deadline-report/b7d76f966cc7190b4ddbceb3",
+          "published": "2026-05-08T03:15:18Z"
         }
       ]
     },
@@ -298,66 +154,66 @@
       "away_team": "Detroit Pistons",
       "home_abbr": "CLE",
       "away_abbr": "DET",
-      "home_ml": "-180",
-      "away_ml": "+150",
-      "home_ml_raw": -180,
-      "away_ml_raw": 150,
-      "home_prob": 61.6,
-      "away_prob": 38.4,
+      "home_ml": "-175",
+      "away_ml": "+145",
+      "home_ml_raw": -175,
+      "away_ml_raw": 145,
+      "home_prob": 60.9,
+      "away_prob": 39.1,
       "spread": "CLE -4.5",
       "favorite": "Cleveland Cavaliers",
       "pick": "Cleveland Cavaliers",
       "pick_abbr": "CLE",
-      "moneyline": "-180",
-      "win_probability": 61.6,
+      "moneyline": "-175",
+      "win_probability": 60.9,
       "confidence": "MEDIUM",
       "confidence_stars": "\u2605\u2605\u2606",
       "commence_time": "2026-05-09T19:10:00Z",
       "line_movement": {
         "home": {
-          "direction": "none",
-          "points_moved": 0,
+          "direction": "longer",
+          "points_moved": 5,
           "steam": false,
-          "label": "No movement",
+          "label": "\ud83d\udd34 -175 \u2190 -180",
           "old_ml": "-180",
-          "new_ml": "-180"
+          "new_ml": "-175"
         },
         "away": {
-          "direction": "none",
-          "points_moved": 0,
+          "direction": "shorter",
+          "points_moved": 5,
           "steam": false,
-          "label": "No movement",
+          "label": "\ud83d\udfe2 +145 \u2190 +150",
           "old_ml": "+150",
-          "new_ml": "+150"
+          "new_ml": "+145"
         },
         "pick": {
-          "direction": "none",
-          "points_moved": 0,
+          "direction": "longer",
+          "points_moved": 5,
           "steam": false,
-          "label": "No movement",
+          "label": "\ud83d\udd34 -175 \u2190 -180",
           "old_ml": "-180",
-          "new_ml": "-180"
+          "new_ml": "-175"
         },
-        "snapshot_time": "May 08, 2026 at 10:56 PM UTC"
+        "snapshot_time": "May 08, 2026 at 11:57 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
           "last_game": "May 07",
-          "days_rest": 1,
+          "days_rest": 2,
           "games_last_4d": 2,
           "travel_miles": 91,
           "travel_desc": "91 mi road trip",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
           "last_game": "May 07",
-          "days_rest": 1,
+          "days_rest": 2,
           "games_last_4d": 2,
           "travel_miles": 0,
           "travel_desc": "",
@@ -365,9 +221,9 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udca4 DET fatigued (B2B) \u2014 source: ESPN"
+        "\ud83d\udcca 21.8pt probability edge"
       ],
-      "injury_notes": "No key injuries.",
+      "injury_notes": "Sam Merrill (G)",
       "sharp": {
         "away_t": null,
         "home_t": null,
@@ -402,10 +258,10 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "CLE on Back-to-Back \u26a0\ufe0f per ESPN schedule data. DET on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "trend": "Cleveland Cavaliers hold a 60.9% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
-        "injury_notes": "No key injuries."
+        "steam": "Line moved -180\u2192-175 (5pts). Pending \u2014 check closer to tip-off",
+        "injury_notes": "Sam Merrill (G)"
       },
       "live": {
         "status": "pre",
@@ -418,22 +274,10 @@
       },
       "news": [
         {
-          "title": "Lakers vs. Thunder odds, prediction, time: 2026 NBA playoff picks, Game 2 best bets from proven model",
-          "source": "CBS Sports",
-          "link": "https://www.cbssports.com/nba/news/lakers-thunder-odds-prediction-time-2026-nba-playoff-picks-line-game-2-best-bets/",
-          "published": "2026-05-07T23:55:30Z"
-        },
-        {
-          "title": "Dan Gilbert paid for army of Cavs fans to take over Pistons playoff game",
-          "source": "Detroit Free Press",
-          "link": "https://www.freep.com/story/sports/nba/pistons/2026/05/07/pistons-cavaliers-dan-gilbert-game-2-playoffs/89985237007/",
-          "published": "2026-05-07T23:36:56Z"
-        },
-        {
-          "title": "Lamar Odom celebrates huge sobriety milestone",
-          "source": "New York Post",
-          "link": "https://nypost.com/2026/05/07/sports/lamar-odom-celebrates-sobriety-milestone/",
-          "published": "2026-05-07T23:31:22Z"
+          "title": "NBA Futures: Pistons' title odds move to 15-1; Cav...",
+          "source": "www.espn.com - NBA",
+          "link": "https://www.espn.com/espn/betting/story/_/id/45539787/2026-nba-finals-odds-mvp-2025-26-championship-betting",
+          "published": "Fri, 8 May 2026 16:32:59 EST"
         }
       ]
     },
@@ -483,26 +327,26 @@
           "old_ml": "-375",
           "new_ml": "-375"
         },
-        "snapshot_time": "May 08, 2026 at 10:56 PM UTC"
+        "snapshot_time": "May 08, 2026 at 11:57 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
           "last_game": "May 07",
-          "days_rest": 1,
+          "days_rest": 2,
           "games_last_4d": 2,
           "travel_miles": 1180,
           "travel_desc": "1,180 mi road trip",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
           "last_game": "May 07",
-          "days_rest": 1,
+          "days_rest": 2,
           "games_last_4d": 2,
           "travel_miles": 0,
           "travel_desc": "",
@@ -510,7 +354,147 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udca4 LAL fatigued (B2B) \u2014 source: ESPN"
+        "\ud83d\udcca 51.4pt probability edge"
+      ],
+      "injury_notes": "Jarred Vanderbilt (F)",
+      "sharp": {
+        "away_t": null,
+        "home_t": null,
+        "source": null,
+        "sharp_signal": null,
+        "sharp_label": "Pending \u2014 check closer to tip-off",
+        "rlm": false
+      },
+      "form": {
+        "home": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        },
+        "away": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        }
+      },
+      "h2h": {
+        "total_meetings": 0,
+        "home_wins": 0,
+        "away_wins": 0,
+        "meetings": [],
+        "source": "\u2014"
+      },
+      "briefing": {
+        "trend": "Oklahoma City Thunder hold a 75.7% edge.",
+        "matchup": "Both rosters appear healthy \u2014 clean line.",
+        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "injury_notes": "Jarred Vanderbilt (F)"
+      },
+      "live": {
+        "status": "pre",
+        "status_detail": "Upcoming",
+        "period": 0,
+        "clock": "",
+        "home_score": 0,
+        "away_score": 0,
+        "spread_alert": null
+      },
+      "news": [
+        {
+          "title": "OKC up 2-0 on Lakers as Holmgren, SGA score 22",
+          "source": "www.espn.com - NBA",
+          "link": "https://www.espn.com/nba/story/_/id/48708989/chet-holmgren-shai-gilgeous-alexander-lead-thunder-lakers",
+          "published": "Fri, 8 May 2026 22:09:47 EST"
+        },
+        {
+          "title": "Lakers' Redick rips refs; Reaves takes issue, too",
+          "source": "www.espn.com - NBA",
+          "link": "https://www.espn.com/nba/story/_/id/48709627/lakers-redick-rips-officiating-reaves-feels-disrespected",
+          "published": "Fri, 8 May 2026 22:09:46 EST"
+        }
+      ]
+    },
+    {
+      "game": "New York Knicks @ Philadelphia 76ers",
+      "home_team": "Philadelphia 76ers",
+      "away_team": "New York Knicks",
+      "home_abbr": "PHI",
+      "away_abbr": "NYK",
+      "home_ml": "-105",
+      "away_ml": "-115",
+      "home_ml_raw": -105,
+      "away_ml_raw": -115,
+      "home_prob": 48.9,
+      "away_prob": 51.1,
+      "spread": "PHI +1.5",
+      "favorite": "New York Knicks",
+      "pick": "New York Knicks",
+      "pick_abbr": "NYK",
+      "moneyline": "-115",
+      "win_probability": 51.1,
+      "confidence": "LOW",
+      "confidence_stars": "\u2605\u2606\u2606",
+      "commence_time": "2026-05-10T19:40:00Z",
+      "line_movement": {
+        "home": {
+          "direction": "shorter",
+          "points_moved": 235,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -105 \u2190 +130",
+          "old_ml": "+130",
+          "new_ml": "-105"
+        },
+        "away": {
+          "direction": "longer",
+          "points_moved": 51,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -115 \u2190 -166",
+          "old_ml": "-166",
+          "new_ml": "-115"
+        },
+        "pick": {
+          "direction": "longer",
+          "points_moved": 51,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -115 \u2190 -166",
+          "old_ml": "-166",
+          "new_ml": "-115"
+        },
+        "snapshot_time": "May 08, 2026 at 11:57 PM UTC"
+      },
+      "fatigue": {
+        "home": {
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "May 08",
+          "days_rest": 1,
+          "games_last_4d": 2,
+          "travel_miles": 85,
+          "travel_desc": "85 mi road trip",
+          "source": "ESPN Scoreboard API"
+        },
+        "away": {
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "May 08",
+          "days_rest": 1,
+          "games_last_4d": 2,
+          "travel_miles": 85,
+          "travel_desc": "85 mi road trip",
+          "source": "ESPN Scoreboard API"
+        }
+      },
+      "edge_factors": [
+        "\ud83d\udd25 Sharp steam detected",
+        "\ud83d\udca4 PHI fatigued (B2B) \u2014 source: ESPN"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -547,9 +531,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "LAL on Back-to-Back \u26a0\ufe0f per ESPN schedule data. OKC on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "trend": "PHI on Back-to-Back \u26a0\ufe0f per ESPN schedule data. NYK on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "steam": "Line steamed from -166 to -115 (51pt move) \u2014 heavy professional action on New York Knicks.",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -563,34 +547,34 @@
       },
       "news": [
         {
-          "title": "Lakers vs. Thunder odds, prediction, time: 2026 NBA playoff picks, Game 2 best bets from proven model",
-          "source": "CBS Sports",
-          "link": "https://www.cbssports.com/nba/news/lakers-thunder-odds-prediction-time-2026-nba-playoff-picks-line-game-2-best-bets/",
-          "published": "2026-05-07T23:55:30Z"
+          "title": "Brunson shuts door on 76ers as Knicks go up 3-0",
+          "source": "www.espn.com - NBA",
+          "link": "https://www.espn.com/nba/story/_/id/48717062/jalen-brunson-shuts-door-76ers-knicks-go-3-0",
+          "published": "Fri, 8 May 2026 22:09:47 EST"
         },
         {
-          "title": "Dan Gilbert paid for army of Cavs fans to take over Pistons playoff game",
-          "source": "Detroit Free Press",
-          "link": "https://www.freep.com/story/sports/nba/pistons/2026/05/07/pistons-cavaliers-dan-gilbert-game-2-playoffs/89985237007/",
-          "published": "2026-05-07T23:36:56Z"
+          "title": "Sixers donate playoff tix to evade Knicks fans",
+          "source": "www.espn.com - NBA",
+          "link": "https://www.espn.com/nba/story/_/id/48712113/76ers-donating-playoff-tickets-keep-knicks-fans",
+          "published": "Fri, 8 May 2026 22:09:47 EST"
         },
         {
-          "title": "Lamar Odom celebrates huge sobriety milestone",
-          "source": "New York Post",
-          "link": "https://nypost.com/2026/05/07/sports/lamar-odom-celebrates-sobriety-milestone/",
-          "published": "2026-05-07T23:31:22Z"
+          "title": "Takeaways: Knicks take commanding series lead",
+          "source": "www.espn.com - NBA",
+          "link": "https://www.espn.com/nba/story/_/id/48676289/2026-nba-playoffs-conference-semifinals-round-2-takeaways",
+          "published": "Fri, 8 May 2026 23:05:01 EST"
         }
       ]
     }
   ],
   "track_record": {
     "LOW": {
-      "wins": 22,
+      "wins": 23,
       "losses": 21,
-      "total": 43,
-      "win_pct": 51.2,
-      "roi": -2.8,
-      "profit": -119.31
+      "total": 44,
+      "win_pct": 52.3,
+      "roi": -0.7,
+      "profit": -32.35
     },
     "HIGH": {
       "wins": 41,
@@ -609,20 +593,20 @@
       "profit": 186.06
     },
     "overall_7d": {
-      "wins": 2,
-      "losses": 1,
+      "wins": 3,
+      "losses": 0,
       "total": 3,
-      "win_pct": 66.7,
-      "roi": 1.1,
-      "profit": 3.28
+      "win_pct": 100.0,
+      "roi": 63.4,
+      "profit": 190.24
     },
     "overall_30d": {
-      "wins": 52,
-      "losses": 21,
-      "total": 73,
-      "win_pct": 71.2,
-      "roi": -1.4,
-      "profit": -99.76
+      "wins": 38,
+      "losses": 17,
+      "total": 55,
+      "win_pct": 69.1,
+      "roi": -4.4,
+      "profit": -243.17
     }
   }
 }

@@ -2074,9 +2074,11 @@
       "win_probability": 51.1,
       "commence_time": "2026-05-08T23:10:00Z",
       "date": "2026-05-07T03:36:24.630522+00:00",
-      "graded": false,
-      "result": null,
-      "profit": null
+      "graded": true,
+      "result": "WIN",
+      "profit": 86.96,
+      "home_score": 94,
+      "away_score": 108
     },
     {
       "game": "San Antonio Spurs @ Minnesota Timberwolves",
@@ -2109,12 +2111,12 @@
   ],
   "summary": {
     "LOW": {
-      "wins": 22,
+      "wins": 23,
       "losses": 21,
-      "total": 43,
-      "win_pct": 51.2,
-      "roi": -2.8,
-      "profit": -119.31
+      "total": 44,
+      "win_pct": 52.3,
+      "roi": -0.7,
+      "profit": -32.35
     },
     "HIGH": {
       "wins": 41,
@@ -2133,21 +2135,21 @@
       "profit": 186.06
     },
     "overall_7d": {
-      "wins": 2,
-      "losses": 1,
+      "wins": 3,
+      "losses": 0,
       "total": 3,
-      "win_pct": 66.7,
-      "roi": 1.1,
-      "profit": 3.28
+      "win_pct": 100.0,
+      "roi": 63.4,
+      "profit": 190.24
     },
     "overall_30d": {
-      "wins": 52,
-      "losses": 21,
-      "total": 73,
-      "win_pct": 71.2,
-      "roi": -1.4,
-      "profit": -99.76
+      "wins": 38,
+      "losses": 17,
+      "total": 55,
+      "win_pct": 69.1,
+      "roi": -4.4,
+      "profit": -243.17
     }
   },
-  "last_graded": "2026-05-06T03:35:28.981334+00:00"
+  "last_graded": "2026-05-09T03:30:07.417688+00:00"
 }
