@@ -1,212 +1,73 @@
 {
-  "last_updated": "May 09, 2026 at 11:51 PM UTC",
+  "last_updated": "May 10, 2026 at 03:43 AM UTC",
   "total_games": 4,
   "games": [
-    {
-      "game": "Oklahoma City Thunder @ Los Angeles Lakers",
-      "home_team": "Los Angeles Lakers",
-      "away_team": "Oklahoma City Thunder",
-      "home_abbr": "LAL",
-      "away_abbr": "OKC",
-      "home_ml": "+310",
-      "away_ml": "-395",
-      "home_ml_raw": 310,
-      "away_ml_raw": -395,
-      "home_prob": 23.4,
-      "away_prob": 76.6,
-      "spread": "LAL +9.5",
-      "favorite": "Oklahoma City Thunder",
-      "pick": "Oklahoma City Thunder",
-      "pick_abbr": "OKC",
-      "moneyline": "-395",
-      "win_probability": 76.6,
-      "confidence": "HIGH",
-      "confidence_stars": "\u2605\u2605\u2605",
-      "commence_time": "2026-05-10T00:40:00Z",
-      "line_movement": {
-        "home": {
-          "direction": "longer",
-          "points_moved": 15,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM +310 \u2190 +295",
-          "old_ml": "+295",
-          "new_ml": "+310"
-        },
-        "away": {
-          "direction": "shorter",
-          "points_moved": 20,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -395 \u2190 -375",
-          "old_ml": "-375",
-          "new_ml": "-395"
-        },
-        "pick": {
-          "direction": "shorter",
-          "points_moved": 20,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -395 \u2190 -375",
-          "old_ml": "-375",
-          "new_ml": "-395"
-        },
-        "snapshot_time": "May 09, 2026 at 10:46 PM UTC"
-      },
-      "fatigue": {
-        "home": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "May 07",
-          "days_rest": 2,
-          "games_last_4d": 2,
-          "travel_miles": 1180,
-          "travel_desc": "1,180 mi road trip",
-          "source": "ESPN Scoreboard API"
-        },
-        "away": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "May 07",
-          "days_rest": 2,
-          "games_last_4d": 2,
-          "travel_miles": 0,
-          "travel_desc": "",
-          "source": "ESPN Scoreboard API"
-        }
-      },
-      "edge_factors": [
-        "\ud83d\udd25 Sharp steam detected"
-      ],
-      "injury_notes": "No key injuries.",
-      "sharp": {
-        "away_t": null,
-        "home_t": null,
-        "source": null,
-        "sharp_signal": null,
-        "sharp_label": "Pending \u2014 check closer to tip-off",
-        "rlm": false
-      },
-      "form": {
-        "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        },
-        "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        }
-      },
-      "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
-      },
-      "briefing": {
-        "trend": "Oklahoma City Thunder hold a 76.6% edge.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -375 to -395 (20pt move) \u2014 heavy professional action on Oklahoma City Thunder.",
-        "injury_notes": "No key injuries."
-      },
-      "live": {
-        "status": "pre",
-        "status_detail": "Upcoming",
-        "period": 0,
-        "clock": "",
-        "home_score": 0,
-        "away_score": 0,
-        "spread_alert": null
-      },
-      "news": [
-        {
-          "title": "Charles Barkley: \u2018If Golden State was relevant, [Draymond Green] wouldn\u2019t be in the studio with me\u2019",
-          "source": "Awful Announcing",
-          "link": "https://awfulannouncing.com/nba/charles-barkley-golden-state-relevant-draymond-green-studio-with-me.html",
-          "published": "2026-05-08T23:50:58Z"
-        },
-        {
-          "title": "Cavs vs. Pistons Game 3: How to watch, odds, and injury report",
-          "source": "Fear the Sword",
-          "link": "https://www.fearthesword.com/cavs-injury-report/49101/cavs-vs-pistons-game-3-how-to-watch-odds-and-injury-report",
-          "published": "2026-05-08T23:49:44Z"
-        }
-      ]
-    },
     {
       "game": "New York Knicks @ Philadelphia 76ers",
       "home_team": "Philadelphia 76ers",
       "away_team": "New York Knicks",
       "home_abbr": "PHI",
       "away_abbr": "NYK",
-      "home_ml": "-105",
-      "away_ml": "-115",
-      "home_ml_raw": -105,
-      "away_ml_raw": -115,
-      "home_prob": 48.9,
-      "away_prob": 51.1,
+      "home_ml": "-102",
+      "away_ml": "-118",
+      "home_ml_raw": -102,
+      "away_ml_raw": -118,
+      "home_prob": 48.3,
+      "away_prob": 51.7,
       "spread": "PHI +1.5",
       "favorite": "New York Knicks",
       "pick": "New York Knicks",
       "pick_abbr": "NYK",
-      "moneyline": "-115",
-      "win_probability": 51.1,
+      "moneyline": "-118",
+      "win_probability": 51.7,
       "confidence": "LOW",
       "confidence_stars": "\u2605\u2606\u2606",
       "commence_time": "2026-05-10T19:40:00Z",
       "line_movement": {
         "home": {
-          "direction": "none",
-          "points_moved": 0,
+          "direction": "longer",
+          "points_moved": 3,
           "steam": false,
-          "label": "No movement",
+          "label": "\ud83d\udd34 -102 \u2190 -105",
           "old_ml": "-105",
-          "new_ml": "-105"
+          "new_ml": "-102"
         },
         "away": {
-          "direction": "none",
-          "points_moved": 0,
+          "direction": "shorter",
+          "points_moved": 3,
           "steam": false,
-          "label": "No movement",
+          "label": "\ud83d\udfe2 -118 \u2190 -115",
           "old_ml": "-115",
-          "new_ml": "-115"
+          "new_ml": "-118"
         },
         "pick": {
-          "direction": "none",
-          "points_moved": 0,
+          "direction": "shorter",
+          "points_moved": 3,
           "steam": false,
-          "label": "No movement",
+          "label": "\ud83d\udfe2 -118 \u2190 -115",
           "old_ml": "-115",
-          "new_ml": "-115"
+          "new_ml": "-118"
         },
-        "snapshot_time": "May 09, 2026 at 10:46 PM UTC"
+        "snapshot_time": "May 09, 2026 at 11:51 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
           "last_game": "May 08",
-          "days_rest": 1,
+          "days_rest": 2,
           "games_last_4d": 2,
           "travel_miles": 85,
           "travel_desc": "85 mi road trip",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
           "last_game": "May 08",
-          "days_rest": 1,
+          "days_rest": 2,
           "games_last_4d": 2,
           "travel_miles": 85,
           "travel_desc": "85 mi road trip",
@@ -214,7 +75,7 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udca4 PHI fatigued (B2B) \u2014 source: ESPN"
+        "\ud83d\udcca 3.4pt probability edge"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -251,9 +112,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "PHI on Back-to-Back \u26a0\ufe0f per ESPN schedule data. NYK on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "trend": "New York Knicks hold a 51.7% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "steam": "Line moved -115\u2192-118 (3pts). Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -267,16 +128,22 @@
       },
       "news": [
         {
-          "title": "Charles Barkley: \u2018If Golden State was relevant, [Draymond Green] wouldn\u2019t be in the studio with me\u2019",
-          "source": "Awful Announcing",
-          "link": "https://awfulannouncing.com/nba/charles-barkley-golden-state-relevant-draymond-green-studio-with-me.html",
-          "published": "2026-05-08T23:50:58Z"
+          "title": "Sixers Bell Ringer: Sixers start hot and finish ice cold in season-crushing loss",
+          "source": "Libertyballers.com",
+          "link": "https://www.libertyballers.com/nba-rumors-news/93000/2026-nba-playoffs-sixers-bell-ringer-sixers-knicks-game-3-kelly-oubre-joel-embiid-tyrese-maxey",
+          "published": "2026-05-09T03:34:00Z"
         },
         {
-          "title": "Cavs vs. Pistons Game 3: How to watch, odds, and injury report",
-          "source": "Fear the Sword",
-          "link": "https://www.fearthesword.com/cavs-injury-report/49101/cavs-vs-pistons-game-3-how-to-watch-odds-and-injury-report",
-          "published": "2026-05-08T23:49:44Z"
+          "title": "3 things to watch in Knicks-76ers Game 3 - NBA",
+          "source": "Slashdot.org",
+          "link": "https://slashdot.org/firehose.pl?op=view&amp;id=183164982",
+          "published": "2026-05-09T03:32:04Z"
+        },
+        {
+          "title": "LeBron James on the two big issues the Lakers need to focus on",
+          "source": "USA Today",
+          "link": "https://lebronwire.usatoday.com/story/sports/nba/2026/05/08/lebron-james-on-the-two-big-issues-the-lakers-need-to-focus-on/90005496007/",
+          "published": "2026-05-09T03:22:08Z"
         }
       ]
     },
@@ -286,66 +153,66 @@
       "away_team": "San Antonio Spurs",
       "home_abbr": "MIN",
       "away_abbr": "SAS",
-      "home_ml": "+160",
-      "away_ml": "-192",
-      "home_ml_raw": 160,
-      "away_ml_raw": -192,
-      "home_prob": 36.9,
-      "away_prob": 63.1,
+      "home_ml": "+154",
+      "away_ml": "-185",
+      "home_ml_raw": 154,
+      "away_ml_raw": -185,
+      "home_prob": 37.8,
+      "away_prob": 62.2,
       "spread": "MIN +4.5",
       "favorite": "San Antonio Spurs",
       "pick": "San Antonio Spurs",
       "pick_abbr": "SAS",
-      "moneyline": "-192",
-      "win_probability": 63.1,
+      "moneyline": "-185",
+      "win_probability": 62.2,
       "confidence": "MEDIUM",
       "confidence_stars": "\u2605\u2605\u2606",
       "commence_time": "2026-05-10T23:40:00Z",
       "line_movement": {
         "home": {
-          "direction": "none",
-          "points_moved": 0,
+          "direction": "shorter",
+          "points_moved": 6,
           "steam": false,
-          "label": "No movement",
+          "label": "\ud83d\udfe2 +154 \u2190 +160",
           "old_ml": "+160",
-          "new_ml": "+160"
+          "new_ml": "+154"
         },
         "away": {
-          "direction": "none",
-          "points_moved": 0,
+          "direction": "longer",
+          "points_moved": 7,
           "steam": false,
-          "label": "No movement",
+          "label": "\ud83d\udd34 -185 \u2190 -192",
           "old_ml": "-192",
-          "new_ml": "-192"
+          "new_ml": "-185"
         },
         "pick": {
-          "direction": "none",
-          "points_moved": 0,
+          "direction": "longer",
+          "points_moved": 7,
           "steam": false,
-          "label": "No movement",
+          "label": "\ud83d\udd34 -185 \u2190 -192",
           "old_ml": "-192",
-          "new_ml": "-192"
+          "new_ml": "-185"
         },
-        "snapshot_time": "May 09, 2026 at 10:46 PM UTC"
+        "snapshot_time": "May 09, 2026 at 11:51 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
           "last_game": "May 08",
-          "days_rest": 1,
+          "days_rest": 2,
           "games_last_4d": 2,
           "travel_miles": 1111,
           "travel_desc": "1,111 mi road trip",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
           "last_game": "May 08",
-          "days_rest": 1,
+          "days_rest": 2,
           "games_last_4d": 2,
           "travel_miles": 1111,
           "travel_desc": "1,111 mi road trip",
@@ -353,7 +220,7 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udca4 MIN fatigued (B2B) \u2014 source: ESPN"
+        "\ud83d\udcca 24.4pt probability edge"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -390,9 +257,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "MIN on Back-to-Back \u26a0\ufe0f per ESPN schedule data. SAS on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "trend": "San Antonio Spurs hold a 62.2% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "steam": "Line moved -192\u2192-185 (7pts). Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -406,16 +273,22 @@
       },
       "news": [
         {
-          "title": "Charles Barkley: \u2018If Golden State was relevant, [Draymond Green] wouldn\u2019t be in the studio with me\u2019",
-          "source": "Awful Announcing",
-          "link": "https://awfulannouncing.com/nba/charles-barkley-golden-state-relevant-draymond-green-studio-with-me.html",
-          "published": "2026-05-08T23:50:58Z"
+          "title": "Sixers Bell Ringer: Sixers start hot and finish ice cold in season-crushing loss",
+          "source": "Libertyballers.com",
+          "link": "https://www.libertyballers.com/nba-rumors-news/93000/2026-nba-playoffs-sixers-bell-ringer-sixers-knicks-game-3-kelly-oubre-joel-embiid-tyrese-maxey",
+          "published": "2026-05-09T03:34:00Z"
         },
         {
-          "title": "Cavs vs. Pistons Game 3: How to watch, odds, and injury report",
-          "source": "Fear the Sword",
-          "link": "https://www.fearthesword.com/cavs-injury-report/49101/cavs-vs-pistons-game-3-how-to-watch-odds-and-injury-report",
-          "published": "2026-05-08T23:49:44Z"
+          "title": "3 things to watch in Knicks-76ers Game 3 - NBA",
+          "source": "Slashdot.org",
+          "link": "https://slashdot.org/firehose.pl?op=view&amp;id=183164982",
+          "published": "2026-05-09T03:32:04Z"
+        },
+        {
+          "title": "LeBron James on the two big issues the Lakers need to focus on",
+          "source": "USA Today",
+          "link": "https://lebronwire.usatoday.com/story/sports/nba/2026/05/08/lebron-james-on-the-two-big-issues-the-lakers-need-to-focus-on/90005496007/",
+          "published": "2026-05-09T03:22:08Z"
         }
       ]
     },
@@ -465,34 +338,34 @@
           "old_ml": "-162",
           "new_ml": "-162"
         },
-        "snapshot_time": "May 09, 2026 at 10:46 PM UTC"
+        "snapshot_time": "May 09, 2026 at 11:51 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "May 07",
-          "days_rest": 2,
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "May 09",
+          "days_rest": 1,
           "games_last_4d": 2,
           "travel_miles": 91,
           "travel_desc": "91 mi road trip",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "May 07",
-          "days_rest": 2,
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "May 09",
+          "days_rest": 1,
           "games_last_4d": 2,
-          "travel_miles": 0,
-          "travel_desc": "",
+          "travel_miles": 91,
+          "travel_desc": "91 mi road trip",
           "source": "ESPN Scoreboard API"
         }
       },
       "edge_factors": [
-        "\ud83d\udcca 18.6pt probability edge"
+        "\ud83d\udca4 DET fatigued (B2B) \u2014 source: ESPN"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -529,7 +402,7 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "Cleveland Cavaliers hold a 59.3% edge.",
+        "trend": "CLE on Back-to-Back \u26a0\ufe0f per ESPN schedule data. DET on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
         "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
@@ -545,16 +418,168 @@
       },
       "news": [
         {
-          "title": "Charles Barkley: \u2018If Golden State was relevant, [Draymond Green] wouldn\u2019t be in the studio with me\u2019",
-          "source": "Awful Announcing",
-          "link": "https://awfulannouncing.com/nba/charles-barkley-golden-state-relevant-draymond-green-studio-with-me.html",
-          "published": "2026-05-08T23:50:58Z"
+          "title": "Sixers Bell Ringer: Sixers start hot and finish ice cold in season-crushing loss",
+          "source": "Libertyballers.com",
+          "link": "https://www.libertyballers.com/nba-rumors-news/93000/2026-nba-playoffs-sixers-bell-ringer-sixers-knicks-game-3-kelly-oubre-joel-embiid-tyrese-maxey",
+          "published": "2026-05-09T03:34:00Z"
         },
         {
-          "title": "Cavs vs. Pistons Game 3: How to watch, odds, and injury report",
-          "source": "Fear the Sword",
-          "link": "https://www.fearthesword.com/cavs-injury-report/49101/cavs-vs-pistons-game-3-how-to-watch-odds-and-injury-report",
-          "published": "2026-05-08T23:49:44Z"
+          "title": "3 things to watch in Knicks-76ers Game 3 - NBA",
+          "source": "Slashdot.org",
+          "link": "https://slashdot.org/firehose.pl?op=view&amp;id=183164982",
+          "published": "2026-05-09T03:32:04Z"
+        },
+        {
+          "title": "LeBron James on the two big issues the Lakers need to focus on",
+          "source": "USA Today",
+          "link": "https://lebronwire.usatoday.com/story/sports/nba/2026/05/08/lebron-james-on-the-two-big-issues-the-lakers-need-to-focus-on/90005496007/",
+          "published": "2026-05-09T03:22:08Z"
+        }
+      ]
+    },
+    {
+      "game": "Oklahoma City Thunder @ Los Angeles Lakers",
+      "home_team": "Los Angeles Lakers",
+      "away_team": "Oklahoma City Thunder",
+      "home_abbr": "LAL",
+      "away_abbr": "OKC",
+      "home_ml": "+380",
+      "away_ml": "-500",
+      "home_ml_raw": 380,
+      "away_ml_raw": -500,
+      "home_prob": 20.0,
+      "away_prob": 80.0,
+      "spread": "LAL +10.5",
+      "favorite": "Oklahoma City Thunder",
+      "pick": "Oklahoma City Thunder",
+      "pick_abbr": "OKC",
+      "moneyline": "-500",
+      "win_probability": 80.0,
+      "confidence": "HIGH",
+      "confidence_stars": "\u2605\u2605\u2605",
+      "commence_time": "2026-05-12T02:40:00Z",
+      "line_movement": {
+        "home": {
+          "direction": "longer",
+          "points_moved": 70,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM +380 \u2190 +310",
+          "old_ml": "+310",
+          "new_ml": "+380"
+        },
+        "away": {
+          "direction": "shorter",
+          "points_moved": 105,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -500 \u2190 -395",
+          "old_ml": "-395",
+          "new_ml": "-500"
+        },
+        "pick": {
+          "direction": "shorter",
+          "points_moved": 105,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -500 \u2190 -395",
+          "old_ml": "-395",
+          "new_ml": "-500"
+        },
+        "snapshot_time": "May 09, 2026 at 11:51 PM UTC"
+      },
+      "fatigue": {
+        "home": {
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "May 09",
+          "days_rest": 1,
+          "games_last_4d": 2,
+          "travel_miles": 1180,
+          "travel_desc": "1,180 mi road trip",
+          "source": "ESPN Scoreboard API"
+        },
+        "away": {
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "May 09",
+          "days_rest": 1,
+          "games_last_4d": 2,
+          "travel_miles": 1180,
+          "travel_desc": "1,180 mi road trip",
+          "source": "ESPN Scoreboard API"
+        }
+      },
+      "edge_factors": [
+        "\ud83d\udd25 Sharp steam detected",
+        "\ud83d\udca4 LAL fatigued (B2B) \u2014 source: ESPN"
+      ],
+      "injury_notes": "No key injuries.",
+      "sharp": {
+        "away_t": null,
+        "home_t": null,
+        "source": null,
+        "sharp_signal": null,
+        "sharp_label": "Pending \u2014 check closer to tip-off",
+        "rlm": false
+      },
+      "form": {
+        "home": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        },
+        "away": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        }
+      },
+      "h2h": {
+        "total_meetings": 0,
+        "home_wins": 0,
+        "away_wins": 0,
+        "meetings": [],
+        "source": "\u2014"
+      },
+      "briefing": {
+        "trend": "LAL on Back-to-Back \u26a0\ufe0f per ESPN schedule data. OKC on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "matchup": "Both rosters appear healthy \u2014 clean line.",
+        "steam": "Line steamed from -395 to -500 (105pt move) \u2014 heavy professional action on Oklahoma City Thunder.",
+        "injury_notes": "No key injuries."
+      },
+      "live": {
+        "status": "pre",
+        "status_detail": "Upcoming",
+        "period": 0,
+        "clock": "",
+        "home_score": 0,
+        "away_score": 0,
+        "spread_alert": null
+      },
+      "news": [
+        {
+          "title": "Sixers Bell Ringer: Sixers start hot and finish ice cold in season-crushing loss",
+          "source": "Libertyballers.com",
+          "link": "https://www.libertyballers.com/nba-rumors-news/93000/2026-nba-playoffs-sixers-bell-ringer-sixers-knicks-game-3-kelly-oubre-joel-embiid-tyrese-maxey",
+          "published": "2026-05-09T03:34:00Z"
+        },
+        {
+          "title": "3 things to watch in Knicks-76ers Game 3 - NBA",
+          "source": "Slashdot.org",
+          "link": "https://slashdot.org/firehose.pl?op=view&amp;id=183164982",
+          "published": "2026-05-09T03:32:04Z"
+        },
+        {
+          "title": "LeBron James on the two big issues the Lakers need to focus on",
+          "source": "USA Today",
+          "link": "https://lebronwire.usatoday.com/story/sports/nba/2026/05/08/lebron-james-on-the-two-big-issues-the-lakers-need-to-focus-on/90005496007/",
+          "published": "2026-05-09T03:22:08Z"
         }
       ]
     }
