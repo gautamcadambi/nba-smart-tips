@@ -1,5 +1,5 @@
 {
-  "last_updated": "May 10, 2026 at 06:37 AM UTC",
+  "last_updated": "May 10, 2026 at 11:51 AM UTC",
   "total_games": 4,
   "games": [
     {
@@ -25,30 +25,30 @@
       "commence_time": "2026-05-10T19:40:00Z",
       "line_movement": {
         "home": {
-          "direction": "longer",
-          "points_moved": 204,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM +102 \u2190 -102",
-          "old_ml": "-102",
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "No movement",
+          "old_ml": "+102",
           "new_ml": "+102"
         },
         "away": {
-          "direction": "shorter",
-          "points_moved": 4,
+          "direction": "none",
+          "points_moved": 0,
           "steam": false,
-          "label": "\ud83d\udfe2 -122 \u2190 -118",
-          "old_ml": "-118",
+          "label": "No movement",
+          "old_ml": "-122",
           "new_ml": "-122"
         },
         "pick": {
-          "direction": "shorter",
-          "points_moved": 4,
+          "direction": "none",
+          "points_moved": 0,
           "steam": false,
-          "label": "\ud83d\udfe2 -122 \u2190 -118",
-          "old_ml": "-118",
+          "label": "No movement",
+          "old_ml": "-122",
           "new_ml": "-122"
         },
-        "snapshot_time": "May 10, 2026 at 03:43 AM UTC"
+        "snapshot_time": "May 10, 2026 at 06:37 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -75,7 +75,7 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udd25 Sharp steam detected"
+        "\ud83d\udcca 5.2pt probability edge"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -114,7 +114,7 @@
       "briefing": {
         "trend": "New York Knicks hold a 52.6% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line moved -118\u2192-122 (4pts). Pending \u2014 check closer to tip-off",
+        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -128,22 +128,22 @@
       },
       "news": [
         {
-          "title": "Spike Lee was there! Director gleefully recalls attendance at Game 7 of Knicks' 1970 NBA title",
-          "source": "Abcnews.com",
-          "link": "https://abcnews.com/Entertainment/wireStory/spike-lee-director-gleefully-recalls-attendance-game-7-132798959",
-          "published": "2026-05-09T06:36:16Z"
+          "title": "The Toronto Tempo's inaugural game was a kaleidoscope of emotions",
+          "source": "CBC News",
+          "link": "https://www.cbc.ca/sports/basketball/toronto-tempo-wnba-debut-9.7193912",
+          "published": "2026-05-09T11:51:21Z"
         },
         {
-          "title": "Victor Wembanyama comes up big again to propel Spurs to key Game 3 win over Timberwolves",
-          "source": "New York Post",
-          "link": "https://nypost.com/2026/05/09/sports/victor-wembanyama-propels-spurs-to-game-3-win-over-timberwolves/?utm_source=yahoo&amp;utm_campaign=nypost&amp;utm_medium=referral",
-          "published": "2026-05-09T06:35:00Z"
+          "title": "Timberwolves coach slams NBA ref for confrontation: 'Completely unprofessional behavior'",
+          "source": "USA Today",
+          "link": "https://ftw.usatoday.com/story/sports/nba/2026/05/09/timberwolves-chris-finch-nba-ref-tony-brothers-confrontation/90008342007/",
+          "published": "2026-05-09T11:50:30Z"
         },
         {
-          "title": "Victor Wembanyama comes up big again to propel Spurs to key Game 3 win over Timberwolves",
-          "source": "New York Post",
-          "link": "https://nypost.com/2026/05/09/sports/victor-wembanyama-propels-spurs-to-game-3-win-over-timberwolves/",
-          "published": "2026-05-09T06:35:00Z"
+          "title": "Salman Khan\u2019s heroine became an overnight superstar. However one decision destroyed her career. Where\u2019s Chandni today?",
+          "source": "The Times of India",
+          "link": "https://economictimes.indiatimes.com/magazines/panache/salman-khans-heroine-became-an-overnight-superstar-however-one-decision-destroyed-her-career-wheres-chandni-today/articleshow/130976171.cms",
+          "published": "2026-05-09T11:49:44Z"
         }
       ]
     },
@@ -153,47 +153,47 @@
       "away_team": "San Antonio Spurs",
       "home_abbr": "MIN",
       "away_abbr": "SAS",
-      "home_ml": "+160",
-      "away_ml": "-192",
-      "home_ml_raw": 160,
-      "away_ml_raw": -192,
-      "home_prob": 36.9,
-      "away_prob": 63.1,
+      "home_ml": "+154",
+      "away_ml": "-185",
+      "home_ml_raw": 154,
+      "away_ml_raw": -185,
+      "home_prob": 37.8,
+      "away_prob": 62.2,
       "spread": "MIN +4.5",
       "favorite": "San Antonio Spurs",
       "pick": "San Antonio Spurs",
       "pick_abbr": "SAS",
-      "moneyline": "-192",
-      "win_probability": 63.1,
+      "moneyline": "-185",
+      "win_probability": 62.2,
       "confidence": "MEDIUM",
       "confidence_stars": "\u2605\u2605\u2606",
       "commence_time": "2026-05-10T23:40:00Z",
       "line_movement": {
         "home": {
-          "direction": "longer",
+          "direction": "shorter",
           "points_moved": 6,
           "steam": false,
-          "label": "\ud83d\udd34 +160 \u2190 +154",
-          "old_ml": "+154",
-          "new_ml": "+160"
+          "label": "\ud83d\udfe2 +154 \u2190 +160",
+          "old_ml": "+160",
+          "new_ml": "+154"
         },
         "away": {
-          "direction": "shorter",
+          "direction": "longer",
           "points_moved": 7,
           "steam": false,
-          "label": "\ud83d\udfe2 -192 \u2190 -185",
-          "old_ml": "-185",
-          "new_ml": "-192"
+          "label": "\ud83d\udd34 -185 \u2190 -192",
+          "old_ml": "-192",
+          "new_ml": "-185"
         },
         "pick": {
-          "direction": "shorter",
+          "direction": "longer",
           "points_moved": 7,
           "steam": false,
-          "label": "\ud83d\udfe2 -192 \u2190 -185",
-          "old_ml": "-185",
-          "new_ml": "-192"
+          "label": "\ud83d\udd34 -185 \u2190 -192",
+          "old_ml": "-192",
+          "new_ml": "-185"
         },
-        "snapshot_time": "May 10, 2026 at 03:43 AM UTC"
+        "snapshot_time": "May 10, 2026 at 06:37 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -220,7 +220,7 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udcca 26.2pt probability edge"
+        "\ud83d\udcca 24.4pt probability edge"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -257,9 +257,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "San Antonio Spurs hold a 63.1% edge.",
+        "trend": "San Antonio Spurs hold a 62.2% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line moved -185\u2192-192 (7pts). Pending \u2014 check closer to tip-off",
+        "steam": "Line moved -192\u2192-185 (7pts). Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -273,22 +273,22 @@
       },
       "news": [
         {
-          "title": "Spike Lee was there! Director gleefully recalls attendance at Game 7 of Knicks' 1970 NBA title",
-          "source": "Abcnews.com",
-          "link": "https://abcnews.com/Entertainment/wireStory/spike-lee-director-gleefully-recalls-attendance-game-7-132798959",
-          "published": "2026-05-09T06:36:16Z"
+          "title": "The Toronto Tempo's inaugural game was a kaleidoscope of emotions",
+          "source": "CBC News",
+          "link": "https://www.cbc.ca/sports/basketball/toronto-tempo-wnba-debut-9.7193912",
+          "published": "2026-05-09T11:51:21Z"
         },
         {
-          "title": "Victor Wembanyama comes up big again to propel Spurs to key Game 3 win over Timberwolves",
-          "source": "New York Post",
-          "link": "https://nypost.com/2026/05/09/sports/victor-wembanyama-propels-spurs-to-game-3-win-over-timberwolves/?utm_source=yahoo&amp;utm_campaign=nypost&amp;utm_medium=referral",
-          "published": "2026-05-09T06:35:00Z"
+          "title": "Timberwolves coach slams NBA ref for confrontation: 'Completely unprofessional behavior'",
+          "source": "USA Today",
+          "link": "https://ftw.usatoday.com/story/sports/nba/2026/05/09/timberwolves-chris-finch-nba-ref-tony-brothers-confrontation/90008342007/",
+          "published": "2026-05-09T11:50:30Z"
         },
         {
-          "title": "Victor Wembanyama comes up big again to propel Spurs to key Game 3 win over Timberwolves",
-          "source": "New York Post",
-          "link": "https://nypost.com/2026/05/09/sports/victor-wembanyama-propels-spurs-to-game-3-win-over-timberwolves/",
-          "published": "2026-05-09T06:35:00Z"
+          "title": "Salman Khan\u2019s heroine became an overnight superstar. However one decision destroyed her career. Where\u2019s Chandni today?",
+          "source": "The Times of India",
+          "link": "https://economictimes.indiatimes.com/magazines/panache/salman-khans-heroine-became-an-overnight-superstar-however-one-decision-destroyed-her-career-wheres-chandni-today/articleshow/130976171.cms",
+          "published": "2026-05-09T11:49:44Z"
         }
       ]
     },
@@ -338,7 +338,7 @@
           "old_ml": "-162",
           "new_ml": "-162"
         },
-        "snapshot_time": "May 10, 2026 at 03:43 AM UTC"
+        "snapshot_time": "May 10, 2026 at 06:37 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -418,22 +418,22 @@
       },
       "news": [
         {
-          "title": "Spike Lee was there! Director gleefully recalls attendance at Game 7 of Knicks' 1970 NBA title",
-          "source": "Abcnews.com",
-          "link": "https://abcnews.com/Entertainment/wireStory/spike-lee-director-gleefully-recalls-attendance-game-7-132798959",
-          "published": "2026-05-09T06:36:16Z"
+          "title": "The Toronto Tempo's inaugural game was a kaleidoscope of emotions",
+          "source": "CBC News",
+          "link": "https://www.cbc.ca/sports/basketball/toronto-tempo-wnba-debut-9.7193912",
+          "published": "2026-05-09T11:51:21Z"
         },
         {
-          "title": "Victor Wembanyama comes up big again to propel Spurs to key Game 3 win over Timberwolves",
-          "source": "New York Post",
-          "link": "https://nypost.com/2026/05/09/sports/victor-wembanyama-propels-spurs-to-game-3-win-over-timberwolves/?utm_source=yahoo&amp;utm_campaign=nypost&amp;utm_medium=referral",
-          "published": "2026-05-09T06:35:00Z"
+          "title": "Timberwolves coach slams NBA ref for confrontation: 'Completely unprofessional behavior'",
+          "source": "USA Today",
+          "link": "https://ftw.usatoday.com/story/sports/nba/2026/05/09/timberwolves-chris-finch-nba-ref-tony-brothers-confrontation/90008342007/",
+          "published": "2026-05-09T11:50:30Z"
         },
         {
-          "title": "Victor Wembanyama comes up big again to propel Spurs to key Game 3 win over Timberwolves",
-          "source": "New York Post",
-          "link": "https://nypost.com/2026/05/09/sports/victor-wembanyama-propels-spurs-to-game-3-win-over-timberwolves/",
-          "published": "2026-05-09T06:35:00Z"
+          "title": "Salman Khan\u2019s heroine became an overnight superstar. However one decision destroyed her career. Where\u2019s Chandni today?",
+          "source": "The Times of India",
+          "link": "https://economictimes.indiatimes.com/magazines/panache/salman-khans-heroine-became-an-overnight-superstar-however-one-decision-destroyed-her-career-wheres-chandni-today/articleshow/130976171.cms",
+          "published": "2026-05-09T11:49:44Z"
         }
       ]
     },
@@ -483,7 +483,7 @@
           "old_ml": "-500",
           "new_ml": "-500"
         },
-        "snapshot_time": "May 10, 2026 at 03:43 AM UTC"
+        "snapshot_time": "May 10, 2026 at 06:37 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -563,22 +563,22 @@
       },
       "news": [
         {
-          "title": "Spike Lee was there! Director gleefully recalls attendance at Game 7 of Knicks' 1970 NBA title",
-          "source": "Abcnews.com",
-          "link": "https://abcnews.com/Entertainment/wireStory/spike-lee-director-gleefully-recalls-attendance-game-7-132798959",
-          "published": "2026-05-09T06:36:16Z"
+          "title": "The Toronto Tempo's inaugural game was a kaleidoscope of emotions",
+          "source": "CBC News",
+          "link": "https://www.cbc.ca/sports/basketball/toronto-tempo-wnba-debut-9.7193912",
+          "published": "2026-05-09T11:51:21Z"
         },
         {
-          "title": "Victor Wembanyama comes up big again to propel Spurs to key Game 3 win over Timberwolves",
-          "source": "New York Post",
-          "link": "https://nypost.com/2026/05/09/sports/victor-wembanyama-propels-spurs-to-game-3-win-over-timberwolves/?utm_source=yahoo&amp;utm_campaign=nypost&amp;utm_medium=referral",
-          "published": "2026-05-09T06:35:00Z"
+          "title": "Timberwolves coach slams NBA ref for confrontation: 'Completely unprofessional behavior'",
+          "source": "USA Today",
+          "link": "https://ftw.usatoday.com/story/sports/nba/2026/05/09/timberwolves-chris-finch-nba-ref-tony-brothers-confrontation/90008342007/",
+          "published": "2026-05-09T11:50:30Z"
         },
         {
-          "title": "Victor Wembanyama comes up big again to propel Spurs to key Game 3 win over Timberwolves",
-          "source": "New York Post",
-          "link": "https://nypost.com/2026/05/09/sports/victor-wembanyama-propels-spurs-to-game-3-win-over-timberwolves/",
-          "published": "2026-05-09T06:35:00Z"
+          "title": "Salman Khan\u2019s heroine became an overnight superstar. However one decision destroyed her career. Where\u2019s Chandni today?",
+          "source": "The Times of India",
+          "link": "https://economictimes.indiatimes.com/magazines/panache/salman-khans-heroine-became-an-overnight-superstar-however-one-decision-destroyed-her-career-wheres-chandni-today/articleshow/130976171.cms",
+          "published": "2026-05-09T11:49:44Z"
         }
       ]
     }
