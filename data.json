@@ -1,199 +1,54 @@
 {
-  "last_updated": "May 10, 2026 at 02:34 PM UTC",
-  "total_games": 4,
+  "last_updated": "May 10, 2026 at 10:50 PM UTC",
+  "total_games": 3,
   "games": [
-    {
-      "game": "New York Knicks @ Philadelphia 76ers",
-      "home_team": "Philadelphia 76ers",
-      "away_team": "New York Knicks",
-      "home_abbr": "PHI",
-      "away_abbr": "NYK",
-      "home_ml": "+100",
-      "away_ml": "-120",
-      "home_ml_raw": 100,
-      "away_ml_raw": -120,
-      "home_prob": 47.8,
-      "away_prob": 52.2,
-      "spread": "PHI +1.5",
-      "favorite": "New York Knicks",
-      "pick": "New York Knicks",
-      "pick_abbr": "NYK",
-      "moneyline": "-120",
-      "win_probability": 52.2,
-      "confidence": "LOW",
-      "confidence_stars": "\u2605\u2606\u2606",
-      "commence_time": "2026-05-10T19:40:00Z",
-      "line_movement": {
-        "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
-          "old_ml": "+100",
-          "new_ml": "+100"
-        },
-        "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
-          "old_ml": "-120",
-          "new_ml": "-120"
-        },
-        "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
-          "old_ml": "-120",
-          "new_ml": "-120"
-        },
-        "snapshot_time": "May 10, 2026 at 01:17 PM UTC"
-      },
-      "fatigue": {
-        "home": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "May 08",
-          "days_rest": 2,
-          "games_last_4d": 2,
-          "travel_miles": 85,
-          "travel_desc": "85 mi road trip",
-          "source": "ESPN Scoreboard API"
-        },
-        "away": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "May 08",
-          "days_rest": 2,
-          "games_last_4d": 2,
-          "travel_miles": 85,
-          "travel_desc": "85 mi road trip",
-          "source": "ESPN Scoreboard API"
-        }
-      },
-      "edge_factors": [
-        "\ud83d\udcca 4.4pt probability edge"
-      ],
-      "injury_notes": "No key injuries.",
-      "sharp": {
-        "away_t": null,
-        "home_t": null,
-        "source": null,
-        "sharp_signal": null,
-        "sharp_label": "Pending \u2014 check closer to tip-off",
-        "rlm": false
-      },
-      "form": {
-        "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        },
-        "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        }
-      },
-      "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
-      },
-      "briefing": {
-        "trend": "New York Knicks hold a 52.2% edge.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
-        "injury_notes": "No key injuries."
-      },
-      "live": {
-        "status": "pre",
-        "status_detail": "Upcoming",
-        "period": 0,
-        "clock": "",
-        "home_score": 0,
-        "away_score": 0,
-        "spread_alert": null
-      },
-      "news": [
-        {
-          "title": "Joel Embiid miffed by FT disparity in 76ers' Game 3 loss to Knicks: 'I guess it's good when New York wins'",
-          "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/nba/article/joel-embiid-miffed-by-ft-disparity-in-76ers-game-3-loss-to-knicks-i-guess-its-good-when-new-york-wins-141454662.html",
-          "published": "2026-05-09T14:14:54Z"
-        },
-        {
-          "title": "NBA Playoffs Game 3 pick: Why the Cavaliers can cover the spread against red-hot Detroit Pistons",
-          "source": "Fox News",
-          "link": "https://www.foxnews.com/outkick-sports/nba-playoffs-game-3-pick-cavaliers-cover-spread-red-hot-detroit-pistons",
-          "published": "2026-05-09T14:12:38Z"
-        },
-        {
-          "title": "Manpower shortage dooms Sixers; reinforcements needed",
-          "source": "Libertyballers.com",
-          "link": "https://www.libertyballers.com/76ers-analysis/93115/2026-nba-playoffs-sixers-knicks-game-3-joel-embiid-tyrese-maxey-paul-george-mikal-bridges-landry-shamet",
-          "published": "2026-05-09T14:09:05Z"
-        }
-      ]
-    },
     {
       "game": "San Antonio Spurs @ Minnesota Timberwolves",
       "home_team": "Minnesota Timberwolves",
       "away_team": "San Antonio Spurs",
       "home_abbr": "MIN",
       "away_abbr": "SAS",
-      "home_ml": "+160",
-      "away_ml": "-192",
-      "home_ml_raw": 160,
-      "away_ml_raw": -192,
-      "home_prob": 36.9,
-      "away_prob": 63.1,
-      "spread": "MIN +4.5",
+      "home_ml": "+164",
+      "away_ml": "-198",
+      "home_ml_raw": 164,
+      "away_ml_raw": -198,
+      "home_prob": 36.3,
+      "away_prob": 63.7,
+      "spread": "MIN +5.5",
       "favorite": "San Antonio Spurs",
       "pick": "San Antonio Spurs",
       "pick_abbr": "SAS",
-      "moneyline": "-192",
-      "win_probability": 63.1,
+      "moneyline": "-198",
+      "win_probability": 63.7,
       "confidence": "MEDIUM",
       "confidence_stars": "\u2605\u2605\u2606",
       "commence_time": "2026-05-10T23:40:00Z",
       "line_movement": {
         "home": {
-          "direction": "none",
-          "points_moved": 0,
+          "direction": "longer",
+          "points_moved": 4,
           "steam": false,
-          "label": "No movement",
+          "label": "\ud83d\udd34 +164 \u2190 +160",
           "old_ml": "+160",
-          "new_ml": "+160"
+          "new_ml": "+164"
         },
         "away": {
-          "direction": "none",
-          "points_moved": 0,
+          "direction": "shorter",
+          "points_moved": 6,
           "steam": false,
-          "label": "No movement",
+          "label": "\ud83d\udfe2 -198 \u2190 -192",
           "old_ml": "-192",
-          "new_ml": "-192"
+          "new_ml": "-198"
         },
         "pick": {
-          "direction": "none",
-          "points_moved": 0,
+          "direction": "shorter",
+          "points_moved": 6,
           "steam": false,
-          "label": "No movement",
+          "label": "\ud83d\udfe2 -198 \u2190 -192",
           "old_ml": "-192",
-          "new_ml": "-192"
+          "new_ml": "-198"
         },
-        "snapshot_time": "May 10, 2026 at 01:17 PM UTC"
+        "snapshot_time": "May 10, 2026 at 02:34 PM UTC"
       },
       "fatigue": {
         "home": {
@@ -220,7 +75,7 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udcca 26.2pt probability edge"
+        "\ud83d\udcca 27.4pt probability edge"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -233,33 +88,191 @@
       },
       "form": {
         "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
+          "last_10": [
+            {
+              "date": "May 10",
+              "result": "W",
+              "pts": 112,
+              "opp": "OKC",
+              "away": false
+            },
+            {
+              "date": "May 10",
+              "result": "W",
+              "pts": 103,
+              "opp": "MIL",
+              "away": false
+            },
+            {
+              "date": "May 10",
+              "result": "L",
+              "pts": 110,
+              "opp": "MEM",
+              "away": false
+            },
+            {
+              "date": "May 10",
+              "result": "L",
+              "pts": 138,
+              "opp": "DEN",
+              "away": false
+            },
+            {
+              "date": "May 10",
+              "result": "W",
+              "pts": 115,
+              "opp": "NYK",
+              "away": false
+            },
+            {
+              "date": "May 10",
+              "result": "W",
+              "pts": 109,
+              "opp": "LAC",
+              "away": false
+            },
+            {
+              "date": "May 10",
+              "result": "W",
+              "pts": 149,
+              "opp": "NOP",
+              "away": false
+            },
+            {
+              "date": "May 10",
+              "result": "W",
+              "pts": 125,
+              "opp": "NOP",
+              "away": false
+            },
+            {
+              "date": "May 10",
+              "result": "W",
+              "pts": 127,
+              "opp": "GSW",
+              "away": false
+            },
+            {
+              "date": "May 10",
+              "result": "W",
+              "pts": 117,
+              "opp": "SAC",
+              "away": false
+            }
+          ],
+          "wins": 8,
+          "losses": 2,
+          "streak": "W2",
+          "form_str": "WWLLWWWWWW",
+          "source": "NBA.com via nba_api"
         },
         "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
+          "last_10": [
+            {
+              "date": "May 10",
+              "result": "W",
+              "pts": 124,
+              "opp": "WAS",
+              "away": false
+            },
+            {
+              "date": "May 10",
+              "result": "W",
+              "pts": 119,
+              "opp": "WAS",
+              "away": false
+            },
+            {
+              "date": "May 10",
+              "result": "W",
+              "pts": 126,
+              "opp": "ATL",
+              "away": false
+            },
+            {
+              "date": "May 10",
+              "result": "W",
+              "pts": 117,
+              "opp": "OKC",
+              "away": false
+            },
+            {
+              "date": "May 10",
+              "result": "W",
+              "pts": 130,
+              "opp": "OKC",
+              "away": false
+            },
+            {
+              "date": "May 10",
+              "result": "L",
+              "pts": 117,
+              "opp": "CLE",
+              "away": false
+            },
+            {
+              "date": "May 10",
+              "result": "W",
+              "pts": 126,
+              "opp": "MEM",
+              "away": false
+            },
+            {
+              "date": "May 10",
+              "result": "W",
+              "pts": 114,
+              "opp": "ORL",
+              "away": false
+            },
+            {
+              "date": "May 10",
+              "result": "W",
+              "pts": 111,
+              "opp": "OKC",
+              "away": false
+            },
+            {
+              "date": "May 10",
+              "result": "W",
+              "pts": 135,
+              "opp": "NOP",
+              "away": false
+            }
+          ],
+          "wins": 9,
+          "losses": 1,
+          "streak": "W5",
+          "form_str": "WWWWWLWWWW",
+          "source": "NBA.com via nba_api"
         }
       },
       "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
+        "total_meetings": 3,
+        "home_wins": 2,
+        "away_wins": 1,
+        "meetings": [
+          {
+            "date": "2026-01-11",
+            "home_result": "W",
+            "pts": 104
+          },
+          {
+            "date": "2025-11-30",
+            "home_result": "W",
+            "pts": 125
+          },
+          {
+            "date": "2026-01-17",
+            "home_result": "L",
+            "pts": 123
+          }
+        ],
+        "source": "NBA.com via nba_api"
       },
       "briefing": {
-        "trend": "San Antonio Spurs hold a 63.1% edge.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "trend": "MIN are 8-2 in their last 10 (streak: W2). SAS are 9-1 in their last 10 (streak: W5).",
+        "matchup": "Season series: MIN 2-1 vs SAS in 3 meetings. Both rosters appear healthy \u2014 clean line.",
+        "steam": "Line moved -192\u2192-198 (6pts). Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -273,22 +286,22 @@
       },
       "news": [
         {
-          "title": "Joel Embiid miffed by FT disparity in 76ers' Game 3 loss to Knicks: 'I guess it's good when New York wins'",
+          "title": "Paige Bueckers showed why she holds keys to Dallas Wings\u2019 season in win over Indiana Fever",
           "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/nba/article/joel-embiid-miffed-by-ft-disparity-in-76ers-game-3-loss-to-knicks-i-guess-its-good-when-new-york-wins-141454662.html",
-          "published": "2026-05-09T14:14:54Z"
+          "link": "https://sports.yahoo.com/articles/paige-bueckers-showed-why-she-224605947.html",
+          "published": "2026-05-09T22:46:05Z"
         },
         {
-          "title": "NBA Playoffs Game 3 pick: Why the Cavaliers can cover the spread against red-hot Detroit Pistons",
-          "source": "Fox News",
-          "link": "https://www.foxnews.com/outkick-sports/nba-playoffs-game-3-pick-cavaliers-cover-spread-red-hot-detroit-pistons",
-          "published": "2026-05-09T14:12:38Z"
+          "title": "Harden hits clutch shots, Mitchell scores 35 and the Cavaliers beat the Pistons 116-109 in Game 3",
+          "source": "NBCSports.com",
+          "link": "https://www.nbcsports.com/nba/news/harden-hits-clutch-shots-mitchell-scores-35-and-the-cavaliers-beat-the-pistons-116-109-in-game-3",
+          "published": "2026-05-09T22:41:09Z"
         },
         {
-          "title": "Manpower shortage dooms Sixers; reinforcements needed",
-          "source": "Libertyballers.com",
-          "link": "https://www.libertyballers.com/76ers-analysis/93115/2026-nba-playoffs-sixers-knicks-game-3-joel-embiid-tyrese-maxey-paul-george-mikal-bridges-landry-shamet",
-          "published": "2026-05-09T14:09:05Z"
+          "title": "Novig Promo Code TSNEWS50: Claim $50 Bonus for NBA, UFC 328 Predictions",
+          "source": "Yahoo Entertainment",
+          "link": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_de49d3df-0360-4dc1-875c-e85853db02f5",
+          "published": "2026-05-09T22:40:01Z"
         }
       ]
     },
@@ -338,7 +351,7 @@
           "old_ml": "-162",
           "new_ml": "-162"
         },
-        "snapshot_time": "May 10, 2026 at 01:17 PM UTC"
+        "snapshot_time": "May 10, 2026 at 02:34 PM UTC"
       },
       "fatigue": {
         "home": {
@@ -378,32 +391,195 @@
       },
       "form": {
         "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
+          "last_10": [
+            {
+              "date": "May 10",
+              "result": "L",
+              "pts": 125,
+              "opp": "CHI",
+              "away": false
+            },
+            {
+              "date": "May 10",
+              "result": "L",
+              "pts": 111,
+              "opp": "CHI",
+              "away": false
+            },
+            {
+              "date": "May 10",
+              "result": "W",
+              "pts": 139,
+              "opp": "CHA",
+              "away": false
+            },
+            {
+              "date": "May 10",
+              "result": "L",
+              "pts": 124,
+              "opp": "NYK",
+              "away": false
+            },
+            {
+              "date": "May 10",
+              "result": "L",
+              "pts": 100,
+              "opp": "HOU",
+              "away": false
+            },
+            {
+              "date": "May 10",
+              "result": "W",
+              "pts": 141,
+              "opp": "NOP",
+              "away": false
+            },
+            {
+              "date": "May 10",
+              "result": "L",
+              "pts": 94,
+              "opp": "GSW",
+              "away": false
+            },
+            {
+              "date": "May 10",
+              "result": "W",
+              "pts": 130,
+              "opp": "SAS",
+              "away": false
+            },
+            {
+              "date": "May 10",
+              "result": "L",
+              "pts": 110,
+              "opp": "POR",
+              "away": false
+            },
+            {
+              "date": "May 10",
+              "result": "W",
+              "pts": 130,
+              "opp": "WAS",
+              "away": false
+            }
+          ],
+          "wins": 4,
+          "losses": 6,
+          "streak": "L2",
+          "form_str": "LLWLLWLWLW",
+          "source": "NBA.com via nba_api"
         },
         "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
+          "last_10": [
+            {
+              "date": "May 10",
+              "result": "W",
+              "pts": 112,
+              "opp": "CHA",
+              "away": false
+            },
+            {
+              "date": "May 10",
+              "result": "L",
+              "pts": 114,
+              "opp": "DAL",
+              "away": false
+            },
+            {
+              "date": "May 10",
+              "result": "L",
+              "pts": 129,
+              "opp": "UTA",
+              "away": false
+            },
+            {
+              "date": "May 10",
+              "result": "W",
+              "pts": 110,
+              "opp": "POR",
+              "away": false
+            },
+            {
+              "date": "May 10",
+              "result": "W",
+              "pts": 136,
+              "opp": "SAC",
+              "away": false
+            },
+            {
+              "date": "May 10",
+              "result": "W",
+              "pts": 122,
+              "opp": "POR",
+              "away": false
+            },
+            {
+              "date": "May 10",
+              "result": "W",
+              "pts": 124,
+              "opp": "MIL",
+              "away": false
+            },
+            {
+              "date": "May 10",
+              "result": "L",
+              "pts": 109,
+              "opp": "MIL",
+              "away": false
+            },
+            {
+              "date": "May 10",
+              "result": "W",
+              "pts": 142,
+              "opp": "ATL",
+              "away": false
+            },
+            {
+              "date": "May 10",
+              "result": "W",
+              "pts": 112,
+              "opp": "BOS",
+              "away": false
+            }
+          ],
+          "wins": 7,
+          "losses": 3,
+          "streak": "W1",
+          "form_str": "WLLWWWWLWW",
+          "source": "NBA.com via nba_api"
         }
       },
       "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
+        "total_meetings": 4,
+        "home_wins": 2,
+        "away_wins": 2,
+        "meetings": [
+          {
+            "date": "2026-01-04",
+            "home_result": "L",
+            "pts": 110
+          },
+          {
+            "date": "2025-10-27",
+            "home_result": "W",
+            "pts": 116
+          },
+          {
+            "date": "2026-03-03",
+            "home_result": "W",
+            "pts": 113
+          },
+          {
+            "date": "2026-02-27",
+            "home_result": "L",
+            "pts": 119
+          }
+        ],
+        "source": "NBA.com via nba_api"
       },
       "briefing": {
-        "trend": "CLE on Back-to-Back \u26a0\ufe0f per ESPN schedule data. DET on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
+        "trend": "CLE are 4-6 in their last 10 (streak: L2). DET are 7-3 in their last 10 (streak: W1). CLE on Back-to-Back \u26a0\ufe0f per ESPN schedule data. DET on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "matchup": "Season series: CLE 2-2 vs DET in 4 meetings. Both rosters appear healthy \u2014 clean line.",
         "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
       },
@@ -418,22 +594,22 @@
       },
       "news": [
         {
-          "title": "Joel Embiid miffed by FT disparity in 76ers' Game 3 loss to Knicks: 'I guess it's good when New York wins'",
+          "title": "Paige Bueckers showed why she holds keys to Dallas Wings\u2019 season in win over Indiana Fever",
           "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/nba/article/joel-embiid-miffed-by-ft-disparity-in-76ers-game-3-loss-to-knicks-i-guess-its-good-when-new-york-wins-141454662.html",
-          "published": "2026-05-09T14:14:54Z"
+          "link": "https://sports.yahoo.com/articles/paige-bueckers-showed-why-she-224605947.html",
+          "published": "2026-05-09T22:46:05Z"
         },
         {
-          "title": "NBA Playoffs Game 3 pick: Why the Cavaliers can cover the spread against red-hot Detroit Pistons",
-          "source": "Fox News",
-          "link": "https://www.foxnews.com/outkick-sports/nba-playoffs-game-3-pick-cavaliers-cover-spread-red-hot-detroit-pistons",
-          "published": "2026-05-09T14:12:38Z"
+          "title": "Harden hits clutch shots, Mitchell scores 35 and the Cavaliers beat the Pistons 116-109 in Game 3",
+          "source": "NBCSports.com",
+          "link": "https://www.nbcsports.com/nba/news/harden-hits-clutch-shots-mitchell-scores-35-and-the-cavaliers-beat-the-pistons-116-109-in-game-3",
+          "published": "2026-05-09T22:41:09Z"
         },
         {
-          "title": "Manpower shortage dooms Sixers; reinforcements needed",
-          "source": "Libertyballers.com",
-          "link": "https://www.libertyballers.com/76ers-analysis/93115/2026-nba-playoffs-sixers-knicks-game-3-joel-embiid-tyrese-maxey-paul-george-mikal-bridges-landry-shamet",
-          "published": "2026-05-09T14:09:05Z"
+          "title": "Novig Promo Code TSNEWS50: Claim $50 Bonus for NBA, UFC 328 Predictions",
+          "source": "Yahoo Entertainment",
+          "link": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_de49d3df-0360-4dc1-875c-e85853db02f5",
+          "published": "2026-05-09T22:40:01Z"
         }
       ]
     },
@@ -483,7 +659,7 @@
           "old_ml": "-500",
           "new_ml": "-500"
         },
-        "snapshot_time": "May 10, 2026 at 01:17 PM UTC"
+        "snapshot_time": "May 10, 2026 at 02:34 PM UTC"
       },
       "fatigue": {
         "home": {
@@ -523,32 +699,195 @@
       },
       "form": {
         "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
+          "last_10": [
+            {
+              "date": "May 10",
+              "result": "L",
+              "pts": 88,
+              "opp": "LAC",
+              "away": false
+            },
+            {
+              "date": "May 10",
+              "result": "W",
+              "pts": 143,
+              "opp": "UTA",
+              "away": false
+            },
+            {
+              "date": "May 10",
+              "result": "L",
+              "pts": 96,
+              "opp": "HOU",
+              "away": false
+            },
+            {
+              "date": "May 10",
+              "result": "L",
+              "pts": 108,
+              "opp": "PHX",
+              "away": false
+            },
+            {
+              "date": "May 10",
+              "result": "L",
+              "pts": 105,
+              "opp": "BOS",
+              "away": false
+            },
+            {
+              "date": "May 10",
+              "result": "W",
+              "pts": 123,
+              "opp": "TOR",
+              "away": false
+            },
+            {
+              "date": "May 10",
+              "result": "W",
+              "pts": 116,
+              "opp": "PHX",
+              "away": false
+            },
+            {
+              "date": "May 10",
+              "result": "W",
+              "pts": 112,
+              "opp": "PHI",
+              "away": false
+            },
+            {
+              "date": "May 10",
+              "result": "L",
+              "pts": 119,
+              "opp": "SAS",
+              "away": false
+            },
+            {
+              "date": "May 10",
+              "result": "L",
+              "pts": 101,
+              "opp": "MIL",
+              "away": false
+            }
+          ],
+          "wins": 4,
+          "losses": 6,
+          "streak": "L1",
+          "form_str": "LWLLLWWWLL",
+          "source": "NBA.com via nba_api"
         },
         "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
+          "last_10": [
+            {
+              "date": "May 10",
+              "result": "L",
+              "pts": 107,
+              "opp": "MIN",
+              "away": false
+            },
+            {
+              "date": "May 10",
+              "result": "W",
+              "pts": 122,
+              "opp": "LAC",
+              "away": false
+            },
+            {
+              "date": "May 10",
+              "result": "L",
+              "pts": 102,
+              "opp": "SAS",
+              "away": false
+            },
+            {
+              "date": "May 10",
+              "result": "L",
+              "pts": 110,
+              "opp": "SAS",
+              "away": false
+            },
+            {
+              "date": "May 10",
+              "result": "W",
+              "pts": 119,
+              "opp": "MEM",
+              "away": false
+            },
+            {
+              "date": "May 10",
+              "result": "W",
+              "pts": 132,
+              "opp": "DAL",
+              "away": false
+            },
+            {
+              "date": "May 10",
+              "result": "W",
+              "pts": 124,
+              "opp": "GSW",
+              "away": false
+            },
+            {
+              "date": "May 10",
+              "result": "L",
+              "pts": 109,
+              "opp": "OKC",
+              "away": true
+            },
+            {
+              "date": "May 10",
+              "result": "W",
+              "pts": 131,
+              "opp": "UTA",
+              "away": false
+            },
+            {
+              "date": "May 10",
+              "result": "W",
+              "pts": 138,
+              "opp": "PHX",
+              "away": false
+            }
+          ],
+          "wins": 6,
+          "losses": 4,
+          "streak": "L1",
+          "form_str": "LWLLWWWLWW",
+          "source": "NBA.com via nba_api"
         }
       },
       "h2h": {
-        "total_meetings": 0,
+        "total_meetings": 4,
         "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
+        "away_wins": 4,
+        "meetings": [
+          {
+            "date": "2025-11-12",
+            "home_result": "L",
+            "pts": 92
+          },
+          {
+            "date": "2026-04-07",
+            "home_result": "L",
+            "pts": 87
+          },
+          {
+            "date": "2026-04-02",
+            "home_result": "L",
+            "pts": 96
+          },
+          {
+            "date": "2026-02-09",
+            "home_result": "L",
+            "pts": 110
+          }
+        ],
+        "source": "NBA.com via nba_api"
       },
       "briefing": {
-        "trend": "LAL on Back-to-Back \u26a0\ufe0f per ESPN schedule data. OKC on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
+        "trend": "LAL are 4-6 in their last 10 (streak: L1). OKC are 6-4 in their last 10 (streak: L1). LAL on Back-to-Back \u26a0\ufe0f per ESPN schedule data. OKC on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "matchup": "Season series: LAL 0-4 vs OKC in 4 meetings. Both rosters appear healthy \u2014 clean line.",
         "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
       },
@@ -563,22 +902,22 @@
       },
       "news": [
         {
-          "title": "Joel Embiid miffed by FT disparity in 76ers' Game 3 loss to Knicks: 'I guess it's good when New York wins'",
+          "title": "Paige Bueckers showed why she holds keys to Dallas Wings\u2019 season in win over Indiana Fever",
           "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/nba/article/joel-embiid-miffed-by-ft-disparity-in-76ers-game-3-loss-to-knicks-i-guess-its-good-when-new-york-wins-141454662.html",
-          "published": "2026-05-09T14:14:54Z"
+          "link": "https://sports.yahoo.com/articles/paige-bueckers-showed-why-she-224605947.html",
+          "published": "2026-05-09T22:46:05Z"
         },
         {
-          "title": "NBA Playoffs Game 3 pick: Why the Cavaliers can cover the spread against red-hot Detroit Pistons",
-          "source": "Fox News",
-          "link": "https://www.foxnews.com/outkick-sports/nba-playoffs-game-3-pick-cavaliers-cover-spread-red-hot-detroit-pistons",
-          "published": "2026-05-09T14:12:38Z"
+          "title": "Harden hits clutch shots, Mitchell scores 35 and the Cavaliers beat the Pistons 116-109 in Game 3",
+          "source": "NBCSports.com",
+          "link": "https://www.nbcsports.com/nba/news/harden-hits-clutch-shots-mitchell-scores-35-and-the-cavaliers-beat-the-pistons-116-109-in-game-3",
+          "published": "2026-05-09T22:41:09Z"
         },
         {
-          "title": "Manpower shortage dooms Sixers; reinforcements needed",
-          "source": "Libertyballers.com",
-          "link": "https://www.libertyballers.com/76ers-analysis/93115/2026-nba-playoffs-sixers-knicks-game-3-joel-embiid-tyrese-maxey-paul-george-mikal-bridges-landry-shamet",
-          "published": "2026-05-09T14:09:05Z"
+          "title": "Novig Promo Code TSNEWS50: Claim $50 Bonus for NBA, UFC 328 Predictions",
+          "source": "Yahoo Entertainment",
+          "link": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_de49d3df-0360-4dc1-875c-e85853db02f5",
+          "published": "2026-05-09T22:40:01Z"
         }
       ]
     }
