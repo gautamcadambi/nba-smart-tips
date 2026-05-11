@@ -1,5 +1,5 @@
 {
-  "last_updated": "May 11, 2026 at 03:56 AM UTC",
+  "last_updated": "May 11, 2026 at 07:50 AM UTC",
   "total_games": 3,
   "games": [
     {
@@ -48,7 +48,7 @@
           "old_ml": "-162",
           "new_ml": "-162"
         },
-        "snapshot_time": "May 10, 2026 at 11:53 PM UTC"
+        "snapshot_time": "May 11, 2026 at 03:56 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -88,32 +88,195 @@
       },
       "form": {
         "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
+          "last_10": [
+            {
+              "date": "May 11",
+              "result": "L",
+              "pts": 125,
+              "opp": "CHI",
+              "away": false
+            },
+            {
+              "date": "May 11",
+              "result": "L",
+              "pts": 111,
+              "opp": "CHI",
+              "away": false
+            },
+            {
+              "date": "May 11",
+              "result": "W",
+              "pts": 139,
+              "opp": "CHA",
+              "away": false
+            },
+            {
+              "date": "May 11",
+              "result": "L",
+              "pts": 124,
+              "opp": "NYK",
+              "away": false
+            },
+            {
+              "date": "May 11",
+              "result": "L",
+              "pts": 100,
+              "opp": "HOU",
+              "away": false
+            },
+            {
+              "date": "May 11",
+              "result": "W",
+              "pts": 141,
+              "opp": "NOP",
+              "away": false
+            },
+            {
+              "date": "May 11",
+              "result": "L",
+              "pts": 94,
+              "opp": "GSW",
+              "away": false
+            },
+            {
+              "date": "May 11",
+              "result": "W",
+              "pts": 130,
+              "opp": "SAS",
+              "away": false
+            },
+            {
+              "date": "May 11",
+              "result": "L",
+              "pts": 110,
+              "opp": "POR",
+              "away": false
+            },
+            {
+              "date": "May 11",
+              "result": "W",
+              "pts": 130,
+              "opp": "WAS",
+              "away": false
+            }
+          ],
+          "wins": 4,
+          "losses": 6,
+          "streak": "L2",
+          "form_str": "LLWLLWLWLW",
+          "source": "NBA.com via nba_api"
         },
         "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
+          "last_10": [
+            {
+              "date": "May 11",
+              "result": "W",
+              "pts": 112,
+              "opp": "CHA",
+              "away": false
+            },
+            {
+              "date": "May 11",
+              "result": "L",
+              "pts": 114,
+              "opp": "DAL",
+              "away": false
+            },
+            {
+              "date": "May 11",
+              "result": "L",
+              "pts": 129,
+              "opp": "UTA",
+              "away": false
+            },
+            {
+              "date": "May 11",
+              "result": "W",
+              "pts": 110,
+              "opp": "POR",
+              "away": false
+            },
+            {
+              "date": "May 11",
+              "result": "W",
+              "pts": 136,
+              "opp": "SAC",
+              "away": false
+            },
+            {
+              "date": "May 11",
+              "result": "W",
+              "pts": 122,
+              "opp": "POR",
+              "away": false
+            },
+            {
+              "date": "May 11",
+              "result": "W",
+              "pts": 124,
+              "opp": "MIL",
+              "away": false
+            },
+            {
+              "date": "May 11",
+              "result": "L",
+              "pts": 109,
+              "opp": "MIL",
+              "away": false
+            },
+            {
+              "date": "May 11",
+              "result": "W",
+              "pts": 142,
+              "opp": "ATL",
+              "away": false
+            },
+            {
+              "date": "May 11",
+              "result": "W",
+              "pts": 112,
+              "opp": "BOS",
+              "away": false
+            }
+          ],
+          "wins": 7,
+          "losses": 3,
+          "streak": "W1",
+          "form_str": "WLLWWWWLWW",
+          "source": "NBA.com via nba_api"
         }
       },
       "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
+        "total_meetings": 4,
+        "home_wins": 2,
+        "away_wins": 2,
+        "meetings": [
+          {
+            "date": "2026-01-04",
+            "home_result": "L",
+            "pts": 110
+          },
+          {
+            "date": "2025-10-27",
+            "home_result": "W",
+            "pts": 116
+          },
+          {
+            "date": "2026-03-03",
+            "home_result": "W",
+            "pts": 113
+          },
+          {
+            "date": "2026-02-27",
+            "home_result": "L",
+            "pts": 119
+          }
+        ],
+        "source": "NBA.com via nba_api"
       },
       "briefing": {
-        "trend": "Cleveland Cavaliers hold a 59.3% edge.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
+        "trend": "CLE are 4-6 in their last 10 (streak: L2). DET are 7-3 in their last 10 (streak: W1).",
+        "matchup": "Season series: CLE 2-2 vs DET in 4 meetings. Both rosters appear healthy \u2014 clean line.",
         "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
       },
@@ -128,22 +291,22 @@
       },
       "news": [
         {
-          "title": "Thunder bury Lakers in second half to take 3-0 series lead",
-          "source": "The Detroit News",
-          "link": "https://www.detroitnews.com/story/sports/other/2026/05/09/thunder-bury-lakers-in-second-half-to-take-3-0-series-lead/90017950007/",
-          "published": "2026-05-10T03:38:08Z"
+          "title": "Marcus Smart compares the Thunder to the Warriors' dynasty teams",
+          "source": "USA Today",
+          "link": "https://lebronwire.usatoday.com/story/sports/nba/2026/05/10/marcus-smart-compares-the-thunder-to-the-warriors-dynasty-teams/90019634007/",
+          "published": "2026-05-10T07:14:35Z"
         },
         {
-          "title": "Thunder vs Lakers score, live updates: Highlights, how to watch Game 3 - USA Today",
+          "title": "Giannis Antetokounmpo reportedly wants to stay in East: Which teams make most sense for Bucks star? - CBS Sports",
           "source": "Slashdot.org",
-          "link": "https://slashdot.org/firehose.pl?op=view&amp;id=183171562",
-          "published": "2026-05-10T03:32:10Z"
+          "link": "https://slashdot.org/firehose.pl?op=view&amp;id=183172526",
+          "published": "2026-05-10T07:12:12Z"
         },
         {
-          "title": "Lakers drop Game 3 to Thunder; now one loss from elimination",
-          "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/articles/lakers-drop-game-3-thunder-032235297.html",
-          "published": "2026-05-10T03:22:35Z"
+          "title": "What channel is 76ers vs. Knicks on today? Time, TV schedule, live stream to watch Game 4 of NBA Playoffs series",
+          "source": "Sporting News",
+          "link": "https://www.sportingnews.com/us/nba/news/what-channel-76ers-knicks-time-schedule-stream-watch-game-4/cabb1df1b4e4be42ae3520e6",
+          "published": "2026-05-10T07:00:01Z"
         }
       ]
     },
@@ -153,47 +316,47 @@
       "away_team": "Oklahoma City Thunder",
       "home_abbr": "LAL",
       "away_abbr": "OKC",
-      "home_ml": "+380",
-      "away_ml": "-500",
-      "home_ml_raw": 380,
-      "away_ml_raw": -500,
-      "home_prob": 20.0,
-      "away_prob": 80.0,
+      "home_ml": "+370",
+      "away_ml": "-485",
+      "home_ml_raw": 370,
+      "away_ml_raw": -485,
+      "home_prob": 20.4,
+      "away_prob": 79.6,
       "spread": "LAL +10.5",
       "favorite": "Oklahoma City Thunder",
       "pick": "Oklahoma City Thunder",
       "pick_abbr": "OKC",
-      "moneyline": "-500",
-      "win_probability": 80.0,
+      "moneyline": "-485",
+      "win_probability": 79.6,
       "confidence": "HIGH",
       "confidence_stars": "\u2605\u2605\u2605",
       "commence_time": "2026-05-12T02:40:00Z",
       "line_movement": {
         "home": {
-          "direction": "longer",
+          "direction": "shorter",
           "points_moved": 10,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM +380 \u2190 +370",
-          "old_ml": "+370",
-          "new_ml": "+380"
+          "label": "\ud83d\udd25 STEAM +370 \u2190 +380",
+          "old_ml": "+380",
+          "new_ml": "+370"
         },
         "away": {
-          "direction": "shorter",
+          "direction": "longer",
           "points_moved": 15,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM -500 \u2190 -485",
-          "old_ml": "-485",
-          "new_ml": "-500"
+          "label": "\ud83d\udd25 STEAM -485 \u2190 -500",
+          "old_ml": "-500",
+          "new_ml": "-485"
         },
         "pick": {
-          "direction": "shorter",
+          "direction": "longer",
           "points_moved": 15,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM -500 \u2190 -485",
-          "old_ml": "-485",
-          "new_ml": "-500"
+          "label": "\ud83d\udd25 STEAM -485 \u2190 -500",
+          "old_ml": "-500",
+          "new_ml": "-485"
         },
-        "snapshot_time": "May 10, 2026 at 11:53 PM UTC"
+        "snapshot_time": "May 11, 2026 at 03:56 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -233,33 +396,196 @@
       },
       "form": {
         "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
+          "last_10": [
+            {
+              "date": "May 11",
+              "result": "L",
+              "pts": 88,
+              "opp": "LAC",
+              "away": false
+            },
+            {
+              "date": "May 11",
+              "result": "W",
+              "pts": 143,
+              "opp": "UTA",
+              "away": false
+            },
+            {
+              "date": "May 11",
+              "result": "L",
+              "pts": 96,
+              "opp": "HOU",
+              "away": false
+            },
+            {
+              "date": "May 11",
+              "result": "L",
+              "pts": 108,
+              "opp": "PHX",
+              "away": false
+            },
+            {
+              "date": "May 11",
+              "result": "L",
+              "pts": 105,
+              "opp": "BOS",
+              "away": false
+            },
+            {
+              "date": "May 11",
+              "result": "W",
+              "pts": 123,
+              "opp": "TOR",
+              "away": false
+            },
+            {
+              "date": "May 11",
+              "result": "W",
+              "pts": 116,
+              "opp": "PHX",
+              "away": false
+            },
+            {
+              "date": "May 11",
+              "result": "W",
+              "pts": 112,
+              "opp": "PHI",
+              "away": false
+            },
+            {
+              "date": "May 11",
+              "result": "L",
+              "pts": 119,
+              "opp": "SAS",
+              "away": false
+            },
+            {
+              "date": "May 11",
+              "result": "L",
+              "pts": 101,
+              "opp": "MIL",
+              "away": false
+            }
+          ],
+          "wins": 4,
+          "losses": 6,
+          "streak": "L1",
+          "form_str": "LWLLLWWWLL",
+          "source": "NBA.com via nba_api"
         },
         "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
+          "last_10": [
+            {
+              "date": "May 11",
+              "result": "L",
+              "pts": 107,
+              "opp": "MIN",
+              "away": false
+            },
+            {
+              "date": "May 11",
+              "result": "W",
+              "pts": 122,
+              "opp": "LAC",
+              "away": false
+            },
+            {
+              "date": "May 11",
+              "result": "L",
+              "pts": 102,
+              "opp": "SAS",
+              "away": false
+            },
+            {
+              "date": "May 11",
+              "result": "L",
+              "pts": 110,
+              "opp": "SAS",
+              "away": false
+            },
+            {
+              "date": "May 11",
+              "result": "W",
+              "pts": 119,
+              "opp": "MEM",
+              "away": false
+            },
+            {
+              "date": "May 11",
+              "result": "W",
+              "pts": 132,
+              "opp": "DAL",
+              "away": false
+            },
+            {
+              "date": "May 11",
+              "result": "W",
+              "pts": 124,
+              "opp": "GSW",
+              "away": false
+            },
+            {
+              "date": "May 11",
+              "result": "L",
+              "pts": 109,
+              "opp": "OKC",
+              "away": true
+            },
+            {
+              "date": "May 11",
+              "result": "W",
+              "pts": 131,
+              "opp": "UTA",
+              "away": false
+            },
+            {
+              "date": "May 11",
+              "result": "W",
+              "pts": 138,
+              "opp": "PHX",
+              "away": false
+            }
+          ],
+          "wins": 6,
+          "losses": 4,
+          "streak": "L1",
+          "form_str": "LWLLWWWLWW",
+          "source": "NBA.com via nba_api"
         }
       },
       "h2h": {
-        "total_meetings": 0,
+        "total_meetings": 4,
         "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
+        "away_wins": 4,
+        "meetings": [
+          {
+            "date": "2025-11-12",
+            "home_result": "L",
+            "pts": 92
+          },
+          {
+            "date": "2026-04-07",
+            "home_result": "L",
+            "pts": 87
+          },
+          {
+            "date": "2026-04-02",
+            "home_result": "L",
+            "pts": 96
+          },
+          {
+            "date": "2026-02-09",
+            "home_result": "L",
+            "pts": 110
+          }
+        ],
+        "source": "NBA.com via nba_api"
       },
       "briefing": {
-        "trend": "Oklahoma City Thunder hold a 80.0% edge.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -485 to -500 (15pt move) \u2014 heavy professional action on Oklahoma City Thunder.",
+        "trend": "LAL are 4-6 in their last 10 (streak: L1). OKC are 6-4 in their last 10 (streak: L1).",
+        "matchup": "Season series: LAL 0-4 vs OKC in 4 meetings. Both rosters appear healthy \u2014 clean line.",
+        "steam": "Line steamed from -500 to -485 (15pt move) \u2014 heavy professional action on Oklahoma City Thunder.",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -273,22 +599,22 @@
       },
       "news": [
         {
-          "title": "Thunder bury Lakers in second half to take 3-0 series lead",
-          "source": "The Detroit News",
-          "link": "https://www.detroitnews.com/story/sports/other/2026/05/09/thunder-bury-lakers-in-second-half-to-take-3-0-series-lead/90017950007/",
-          "published": "2026-05-10T03:38:08Z"
+          "title": "Marcus Smart compares the Thunder to the Warriors' dynasty teams",
+          "source": "USA Today",
+          "link": "https://lebronwire.usatoday.com/story/sports/nba/2026/05/10/marcus-smart-compares-the-thunder-to-the-warriors-dynasty-teams/90019634007/",
+          "published": "2026-05-10T07:14:35Z"
         },
         {
-          "title": "Thunder vs Lakers score, live updates: Highlights, how to watch Game 3 - USA Today",
+          "title": "Giannis Antetokounmpo reportedly wants to stay in East: Which teams make most sense for Bucks star? - CBS Sports",
           "source": "Slashdot.org",
-          "link": "https://slashdot.org/firehose.pl?op=view&amp;id=183171562",
-          "published": "2026-05-10T03:32:10Z"
+          "link": "https://slashdot.org/firehose.pl?op=view&amp;id=183172526",
+          "published": "2026-05-10T07:12:12Z"
         },
         {
-          "title": "Lakers drop Game 3 to Thunder; now one loss from elimination",
-          "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/articles/lakers-drop-game-3-thunder-032235297.html",
-          "published": "2026-05-10T03:22:35Z"
+          "title": "What channel is 76ers vs. Knicks on today? Time, TV schedule, live stream to watch Game 4 of NBA Playoffs series",
+          "source": "Sporting News",
+          "link": "https://www.sportingnews.com/us/nba/news/what-channel-76ers-knicks-time-schedule-stream-watch-game-4/cabb1df1b4e4be42ae3520e6",
+          "published": "2026-05-10T07:00:01Z"
         }
       ]
     },
@@ -318,27 +644,27 @@
           "direction": "none",
           "points_moved": 0,
           "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "label": "No movement",
+          "old_ml": "-410",
+          "new_ml": "-410"
         },
         "away": {
           "direction": "none",
           "points_moved": 0,
           "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "label": "No movement",
+          "old_ml": "+320",
+          "new_ml": "+320"
         },
         "pick": {
           "direction": "none",
           "points_moved": 0,
           "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "label": "No movement",
+          "old_ml": "-410",
+          "new_ml": "-410"
         },
-        "snapshot_time": "\u2014"
+        "snapshot_time": "May 11, 2026 at 03:56 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -378,32 +704,190 @@
       },
       "form": {
         "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
+          "last_10": [
+            {
+              "date": "May 11",
+              "result": "W",
+              "pts": 124,
+              "opp": "WAS",
+              "away": false
+            },
+            {
+              "date": "May 11",
+              "result": "W",
+              "pts": 119,
+              "opp": "WAS",
+              "away": false
+            },
+            {
+              "date": "May 11",
+              "result": "W",
+              "pts": 126,
+              "opp": "ATL",
+              "away": false
+            },
+            {
+              "date": "May 11",
+              "result": "W",
+              "pts": 117,
+              "opp": "OKC",
+              "away": false
+            },
+            {
+              "date": "May 11",
+              "result": "W",
+              "pts": 130,
+              "opp": "OKC",
+              "away": false
+            },
+            {
+              "date": "May 11",
+              "result": "L",
+              "pts": 117,
+              "opp": "CLE",
+              "away": false
+            },
+            {
+              "date": "May 11",
+              "result": "W",
+              "pts": 126,
+              "opp": "MEM",
+              "away": false
+            },
+            {
+              "date": "May 11",
+              "result": "W",
+              "pts": 114,
+              "opp": "ORL",
+              "away": false
+            },
+            {
+              "date": "May 11",
+              "result": "W",
+              "pts": 111,
+              "opp": "OKC",
+              "away": false
+            },
+            {
+              "date": "May 11",
+              "result": "W",
+              "pts": 135,
+              "opp": "NOP",
+              "away": false
+            }
+          ],
+          "wins": 9,
+          "losses": 1,
+          "streak": "W5",
+          "form_str": "WWWWWLWWWW",
+          "source": "NBA.com via nba_api"
         },
         "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
+          "last_10": [
+            {
+              "date": "May 11",
+              "result": "W",
+              "pts": 112,
+              "opp": "OKC",
+              "away": false
+            },
+            {
+              "date": "May 11",
+              "result": "W",
+              "pts": 103,
+              "opp": "MIL",
+              "away": false
+            },
+            {
+              "date": "May 11",
+              "result": "L",
+              "pts": 110,
+              "opp": "MEM",
+              "away": false
+            },
+            {
+              "date": "May 11",
+              "result": "L",
+              "pts": 138,
+              "opp": "DEN",
+              "away": false
+            },
+            {
+              "date": "May 11",
+              "result": "W",
+              "pts": 115,
+              "opp": "NYK",
+              "away": false
+            },
+            {
+              "date": "May 11",
+              "result": "W",
+              "pts": 109,
+              "opp": "LAC",
+              "away": false
+            },
+            {
+              "date": "May 11",
+              "result": "W",
+              "pts": 149,
+              "opp": "NOP",
+              "away": false
+            },
+            {
+              "date": "May 11",
+              "result": "W",
+              "pts": 125,
+              "opp": "NOP",
+              "away": false
+            },
+            {
+              "date": "May 11",
+              "result": "W",
+              "pts": 127,
+              "opp": "GSW",
+              "away": false
+            },
+            {
+              "date": "May 11",
+              "result": "W",
+              "pts": 117,
+              "opp": "SAC",
+              "away": false
+            }
+          ],
+          "wins": 8,
+          "losses": 2,
+          "streak": "W2",
+          "form_str": "WWLLWWWWWW",
+          "source": "NBA.com via nba_api"
         }
       },
       "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
+        "total_meetings": 3,
+        "home_wins": 1,
+        "away_wins": 2,
+        "meetings": [
+          {
+            "date": "2026-01-11",
+            "home_result": "L",
+            "pts": 103
+          },
+          {
+            "date": "2025-11-30",
+            "home_result": "L",
+            "pts": 112
+          },
+          {
+            "date": "2026-01-17",
+            "home_result": "W",
+            "pts": 126
+          }
+        ],
+        "source": "NBA.com via nba_api"
       },
       "briefing": {
-        "trend": "SAS on Back-to-Back \u26a0\ufe0f per ESPN schedule data. MIN on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
+        "trend": "SAS are 9-1 in their last 10 (streak: W5). MIN are 8-2 in their last 10 (streak: W2). SAS on Back-to-Back \u26a0\ufe0f per ESPN schedule data. MIN on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "matchup": "Season series: SAS 1-2 vs MIN in 3 meetings. Both rosters appear healthy \u2014 clean line.",
         "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
       },
@@ -418,22 +902,22 @@
       },
       "news": [
         {
-          "title": "Thunder bury Lakers in second half to take 3-0 series lead",
-          "source": "The Detroit News",
-          "link": "https://www.detroitnews.com/story/sports/other/2026/05/09/thunder-bury-lakers-in-second-half-to-take-3-0-series-lead/90017950007/",
-          "published": "2026-05-10T03:38:08Z"
+          "title": "Marcus Smart compares the Thunder to the Warriors' dynasty teams",
+          "source": "USA Today",
+          "link": "https://lebronwire.usatoday.com/story/sports/nba/2026/05/10/marcus-smart-compares-the-thunder-to-the-warriors-dynasty-teams/90019634007/",
+          "published": "2026-05-10T07:14:35Z"
         },
         {
-          "title": "Thunder vs Lakers score, live updates: Highlights, how to watch Game 3 - USA Today",
+          "title": "Giannis Antetokounmpo reportedly wants to stay in East: Which teams make most sense for Bucks star? - CBS Sports",
           "source": "Slashdot.org",
-          "link": "https://slashdot.org/firehose.pl?op=view&amp;id=183171562",
-          "published": "2026-05-10T03:32:10Z"
+          "link": "https://slashdot.org/firehose.pl?op=view&amp;id=183172526",
+          "published": "2026-05-10T07:12:12Z"
         },
         {
-          "title": "Lakers drop Game 3 to Thunder; now one loss from elimination",
-          "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/articles/lakers-drop-game-3-thunder-032235297.html",
-          "published": "2026-05-10T03:22:35Z"
+          "title": "What channel is 76ers vs. Knicks on today? Time, TV schedule, live stream to watch Game 4 of NBA Playoffs series",
+          "source": "Sporting News",
+          "link": "https://www.sportingnews.com/us/nba/news/what-channel-76ers-knicks-time-schedule-stream-watch-game-4/cabb1df1b4e4be42ae3520e6",
+          "published": "2026-05-10T07:00:01Z"
         }
       ]
     }
