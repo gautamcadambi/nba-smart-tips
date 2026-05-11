@@ -1,140 +1,7 @@
 {
-  "last_updated": "May 10, 2026 at 11:53 PM UTC",
+  "last_updated": "May 11, 2026 at 03:56 AM UTC",
   "total_games": 3,
   "games": [
-    {
-      "game": "San Antonio Spurs @ Minnesota Timberwolves",
-      "home_team": "Minnesota Timberwolves",
-      "away_team": "San Antonio Spurs",
-      "home_abbr": "MIN",
-      "away_abbr": "SAS",
-      "home_ml": "+180",
-      "away_ml": "-238",
-      "home_ml_raw": 180,
-      "away_ml_raw": -238,
-      "home_prob": 33.7,
-      "away_prob": 66.3,
-      "spread": "MIN +5.5",
-      "favorite": "San Antonio Spurs",
-      "pick": "San Antonio Spurs",
-      "pick_abbr": "SAS",
-      "moneyline": "-238",
-      "win_probability": 66.3,
-      "confidence": "MEDIUM",
-      "confidence_stars": "\u2605\u2605\u2606",
-      "commence_time": "2026-05-10T23:43:00Z",
-      "line_movement": {
-        "home": {
-          "direction": "longer",
-          "points_moved": 16,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM +180 \u2190 +164",
-          "old_ml": "+164",
-          "new_ml": "+180"
-        },
-        "away": {
-          "direction": "shorter",
-          "points_moved": 40,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -238 \u2190 -198",
-          "old_ml": "-198",
-          "new_ml": "-238"
-        },
-        "pick": {
-          "direction": "shorter",
-          "points_moved": 40,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -238 \u2190 -198",
-          "old_ml": "-198",
-          "new_ml": "-238"
-        },
-        "snapshot_time": "May 10, 2026 at 10:50 PM UTC"
-      },
-      "fatigue": {
-        "home": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "May 08",
-          "days_rest": 2,
-          "games_last_4d": 2,
-          "travel_miles": 1111,
-          "travel_desc": "1,111 mi road trip",
-          "source": "ESPN Scoreboard API"
-        },
-        "away": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "May 08",
-          "days_rest": 2,
-          "games_last_4d": 2,
-          "travel_miles": 1111,
-          "travel_desc": "1,111 mi road trip",
-          "source": "ESPN Scoreboard API"
-        }
-      },
-      "edge_factors": [
-        "\ud83d\udd25 Sharp steam detected"
-      ],
-      "injury_notes": "No key injuries.",
-      "sharp": {
-        "away_t": null,
-        "home_t": null,
-        "source": null,
-        "sharp_signal": null,
-        "sharp_label": "Pending \u2014 check closer to tip-off",
-        "rlm": false
-      },
-      "form": {
-        "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        },
-        "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        }
-      },
-      "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
-      },
-      "briefing": {
-        "trend": "San Antonio Spurs hold a 66.3% edge.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -198 to -238 (40pt move) \u2014 heavy professional action on San Antonio Spurs.",
-        "injury_notes": "No key injuries."
-      },
-      "live": {
-        "status": "pre",
-        "status_detail": "Upcoming",
-        "period": 0,
-        "clock": "",
-        "home_score": 0,
-        "away_score": 0,
-        "spread_alert": null
-      },
-      "news": [
-        {
-          "title": "Follow live: Timberwolves look to even series vs. ...",
-          "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/nba/game/_/gameId/401871155/spurs-timberwolves",
-          "published": "Sun, 10 May 2026 19:43:21 EST"
-        }
-      ]
-    },
     {
       "game": "Detroit Pistons @ Cleveland Cavaliers",
       "home_team": "Cleveland Cavaliers",
@@ -181,26 +48,26 @@
           "old_ml": "-162",
           "new_ml": "-162"
         },
-        "snapshot_time": "May 10, 2026 at 10:50 PM UTC"
+        "snapshot_time": "May 10, 2026 at 11:53 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
           "last_game": "May 09",
-          "days_rest": 1,
+          "days_rest": 2,
           "games_last_4d": 2,
           "travel_miles": 91,
           "travel_desc": "91 mi road trip",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
           "last_game": "May 09",
-          "days_rest": 1,
+          "days_rest": 2,
           "games_last_4d": 2,
           "travel_miles": 91,
           "travel_desc": "91 mi road trip",
@@ -208,141 +75,7 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udca4 DET fatigued (B2B) \u2014 source: ESPN"
-      ],
-      "injury_notes": "Caris LeVert (G)",
-      "sharp": {
-        "away_t": null,
-        "home_t": null,
-        "source": null,
-        "sharp_signal": null,
-        "sharp_label": "Pending \u2014 check closer to tip-off",
-        "rlm": false
-      },
-      "form": {
-        "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        },
-        "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        }
-      },
-      "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
-      },
-      "briefing": {
-        "trend": "CLE on Back-to-Back \u26a0\ufe0f per ESPN schedule data. DET on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
-        "injury_notes": "Caris LeVert (G)"
-      },
-      "live": {
-        "status": "pre",
-        "status_detail": "Upcoming",
-        "period": 0,
-        "clock": "",
-        "home_score": 0,
-        "away_score": 0,
-        "spread_alert": null
-      },
-      "news": [
-        {
-          "title": "Harden's clutch shots help Cavaliers down Pistons",
-          "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/nba/story/_/id/48724867/james-harden-donovan-mitchell-help-cavaliers-pistons",
-          "published": "Sun, 10 May 2026 19:34:39 EST"
-        }
-      ]
-    },
-    {
-      "game": "Oklahoma City Thunder @ Los Angeles Lakers",
-      "home_team": "Los Angeles Lakers",
-      "away_team": "Oklahoma City Thunder",
-      "home_abbr": "LAL",
-      "away_abbr": "OKC",
-      "home_ml": "+370",
-      "away_ml": "-485",
-      "home_ml_raw": 370,
-      "away_ml_raw": -485,
-      "home_prob": 20.4,
-      "away_prob": 79.6,
-      "spread": "LAL +10.5",
-      "favorite": "Oklahoma City Thunder",
-      "pick": "Oklahoma City Thunder",
-      "pick_abbr": "OKC",
-      "moneyline": "-485",
-      "win_probability": 79.6,
-      "confidence": "HIGH",
-      "confidence_stars": "\u2605\u2605\u2605",
-      "commence_time": "2026-05-12T02:40:00Z",
-      "line_movement": {
-        "home": {
-          "direction": "shorter",
-          "points_moved": 10,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM +370 \u2190 +380",
-          "old_ml": "+380",
-          "new_ml": "+370"
-        },
-        "away": {
-          "direction": "longer",
-          "points_moved": 15,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -485 \u2190 -500",
-          "old_ml": "-500",
-          "new_ml": "-485"
-        },
-        "pick": {
-          "direction": "longer",
-          "points_moved": 15,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -485 \u2190 -500",
-          "old_ml": "-500",
-          "new_ml": "-485"
-        },
-        "snapshot_time": "May 10, 2026 at 10:50 PM UTC"
-      },
-      "fatigue": {
-        "home": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
-          "last_game": "May 09",
-          "days_rest": 1,
-          "games_last_4d": 2,
-          "travel_miles": 1180,
-          "travel_desc": "1,180 mi road trip",
-          "source": "ESPN Scoreboard API"
-        },
-        "away": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
-          "last_game": "May 09",
-          "days_rest": 1,
-          "games_last_4d": 2,
-          "travel_miles": 1180,
-          "travel_desc": "1,180 mi road trip",
-          "source": "ESPN Scoreboard API"
-        }
-      },
-      "edge_factors": [
-        "\ud83d\udd25 Sharp steam detected",
-        "\ud83d\udca4 LAL fatigued (B2B) \u2014 source: ESPN"
+        "\ud83d\udcca 18.6pt probability edge"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -379,9 +112,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "LAL on Back-to-Back \u26a0\ufe0f per ESPN schedule data. OKC on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "trend": "Cleveland Cavaliers hold a 59.3% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -500 to -485 (15pt move) \u2014 heavy professional action on Oklahoma City Thunder.",
+        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -395,10 +128,312 @@
       },
       "news": [
         {
-          "title": "OKC improves to 7-0 after blitzing L.A. in Game 3",
-          "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/nba/story/_/id/48727515/thunder-blow-lakers-game-3-improve-7-0-playoffs",
-          "published": "Sun, 10 May 2026 19:34:39 EST"
+          "title": "Thunder bury Lakers in second half to take 3-0 series lead",
+          "source": "The Detroit News",
+          "link": "https://www.detroitnews.com/story/sports/other/2026/05/09/thunder-bury-lakers-in-second-half-to-take-3-0-series-lead/90017950007/",
+          "published": "2026-05-10T03:38:08Z"
+        },
+        {
+          "title": "Thunder vs Lakers score, live updates: Highlights, how to watch Game 3 - USA Today",
+          "source": "Slashdot.org",
+          "link": "https://slashdot.org/firehose.pl?op=view&amp;id=183171562",
+          "published": "2026-05-10T03:32:10Z"
+        },
+        {
+          "title": "Lakers drop Game 3 to Thunder; now one loss from elimination",
+          "source": "Yahoo Entertainment",
+          "link": "https://sports.yahoo.com/articles/lakers-drop-game-3-thunder-032235297.html",
+          "published": "2026-05-10T03:22:35Z"
+        }
+      ]
+    },
+    {
+      "game": "Oklahoma City Thunder @ Los Angeles Lakers",
+      "home_team": "Los Angeles Lakers",
+      "away_team": "Oklahoma City Thunder",
+      "home_abbr": "LAL",
+      "away_abbr": "OKC",
+      "home_ml": "+380",
+      "away_ml": "-500",
+      "home_ml_raw": 380,
+      "away_ml_raw": -500,
+      "home_prob": 20.0,
+      "away_prob": 80.0,
+      "spread": "LAL +10.5",
+      "favorite": "Oklahoma City Thunder",
+      "pick": "Oklahoma City Thunder",
+      "pick_abbr": "OKC",
+      "moneyline": "-500",
+      "win_probability": 80.0,
+      "confidence": "HIGH",
+      "confidence_stars": "\u2605\u2605\u2605",
+      "commence_time": "2026-05-12T02:40:00Z",
+      "line_movement": {
+        "home": {
+          "direction": "longer",
+          "points_moved": 10,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM +380 \u2190 +370",
+          "old_ml": "+370",
+          "new_ml": "+380"
+        },
+        "away": {
+          "direction": "shorter",
+          "points_moved": 15,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -500 \u2190 -485",
+          "old_ml": "-485",
+          "new_ml": "-500"
+        },
+        "pick": {
+          "direction": "shorter",
+          "points_moved": 15,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -500 \u2190 -485",
+          "old_ml": "-485",
+          "new_ml": "-500"
+        },
+        "snapshot_time": "May 10, 2026 at 11:53 PM UTC"
+      },
+      "fatigue": {
+        "home": {
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
+          "last_game": "May 09",
+          "days_rest": 2,
+          "games_last_4d": 2,
+          "travel_miles": 1180,
+          "travel_desc": "1,180 mi road trip",
+          "source": "ESPN Scoreboard API"
+        },
+        "away": {
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
+          "last_game": "May 09",
+          "days_rest": 2,
+          "games_last_4d": 2,
+          "travel_miles": 1180,
+          "travel_desc": "1,180 mi road trip",
+          "source": "ESPN Scoreboard API"
+        }
+      },
+      "edge_factors": [
+        "\ud83d\udd25 Sharp steam detected"
+      ],
+      "injury_notes": "No key injuries.",
+      "sharp": {
+        "away_t": null,
+        "home_t": null,
+        "source": null,
+        "sharp_signal": null,
+        "sharp_label": "Pending \u2014 check closer to tip-off",
+        "rlm": false
+      },
+      "form": {
+        "home": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        },
+        "away": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        }
+      },
+      "h2h": {
+        "total_meetings": 0,
+        "home_wins": 0,
+        "away_wins": 0,
+        "meetings": [],
+        "source": "\u2014"
+      },
+      "briefing": {
+        "trend": "Oklahoma City Thunder hold a 80.0% edge.",
+        "matchup": "Both rosters appear healthy \u2014 clean line.",
+        "steam": "Line steamed from -485 to -500 (15pt move) \u2014 heavy professional action on Oklahoma City Thunder.",
+        "injury_notes": "No key injuries."
+      },
+      "live": {
+        "status": "pre",
+        "status_detail": "Upcoming",
+        "period": 0,
+        "clock": "",
+        "home_score": 0,
+        "away_score": 0,
+        "spread_alert": null
+      },
+      "news": [
+        {
+          "title": "Thunder bury Lakers in second half to take 3-0 series lead",
+          "source": "The Detroit News",
+          "link": "https://www.detroitnews.com/story/sports/other/2026/05/09/thunder-bury-lakers-in-second-half-to-take-3-0-series-lead/90017950007/",
+          "published": "2026-05-10T03:38:08Z"
+        },
+        {
+          "title": "Thunder vs Lakers score, live updates: Highlights, how to watch Game 3 - USA Today",
+          "source": "Slashdot.org",
+          "link": "https://slashdot.org/firehose.pl?op=view&amp;id=183171562",
+          "published": "2026-05-10T03:32:10Z"
+        },
+        {
+          "title": "Lakers drop Game 3 to Thunder; now one loss from elimination",
+          "source": "Yahoo Entertainment",
+          "link": "https://sports.yahoo.com/articles/lakers-drop-game-3-thunder-032235297.html",
+          "published": "2026-05-10T03:22:35Z"
+        }
+      ]
+    },
+    {
+      "game": "Minnesota Timberwolves @ San Antonio Spurs",
+      "home_team": "San Antonio Spurs",
+      "away_team": "Minnesota Timberwolves",
+      "home_abbr": "SAS",
+      "away_abbr": "MIN",
+      "home_ml": "-410",
+      "away_ml": "+320",
+      "home_ml_raw": -410,
+      "away_ml_raw": 320,
+      "home_prob": 77.2,
+      "away_prob": 22.8,
+      "spread": "SAS -9.5",
+      "favorite": "San Antonio Spurs",
+      "pick": "San Antonio Spurs",
+      "pick_abbr": "SAS",
+      "moneyline": "-410",
+      "win_probability": 77.2,
+      "confidence": "HIGH",
+      "confidence_stars": "\u2605\u2605\u2605",
+      "commence_time": "2026-05-13T02:00:00Z",
+      "line_movement": {
+        "home": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "away": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "pick": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "snapshot_time": "\u2014"
+      },
+      "fatigue": {
+        "home": {
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "May 10",
+          "days_rest": 1,
+          "games_last_4d": 2,
+          "travel_miles": 1111,
+          "travel_desc": "1,111 mi road trip",
+          "source": "ESPN Scoreboard API"
+        },
+        "away": {
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "May 10",
+          "days_rest": 1,
+          "games_last_4d": 2,
+          "travel_miles": 0,
+          "travel_desc": "",
+          "source": "ESPN Scoreboard API"
+        }
+      },
+      "edge_factors": [
+        "\ud83d\udca4 MIN fatigued (B2B) \u2014 source: ESPN"
+      ],
+      "injury_notes": "No key injuries.",
+      "sharp": {
+        "away_t": null,
+        "home_t": null,
+        "source": null,
+        "sharp_signal": null,
+        "sharp_label": "Pending \u2014 check closer to tip-off",
+        "rlm": false
+      },
+      "form": {
+        "home": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        },
+        "away": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        }
+      },
+      "h2h": {
+        "total_meetings": 0,
+        "home_wins": 0,
+        "away_wins": 0,
+        "meetings": [],
+        "source": "\u2014"
+      },
+      "briefing": {
+        "trend": "SAS on Back-to-Back \u26a0\ufe0f per ESPN schedule data. MIN on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "matchup": "Both rosters appear healthy \u2014 clean line.",
+        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "injury_notes": "No key injuries."
+      },
+      "live": {
+        "status": "pre",
+        "status_detail": "Upcoming",
+        "period": 0,
+        "clock": "",
+        "home_score": 0,
+        "away_score": 0,
+        "spread_alert": null
+      },
+      "news": [
+        {
+          "title": "Thunder bury Lakers in second half to take 3-0 series lead",
+          "source": "The Detroit News",
+          "link": "https://www.detroitnews.com/story/sports/other/2026/05/09/thunder-bury-lakers-in-second-half-to-take-3-0-series-lead/90017950007/",
+          "published": "2026-05-10T03:38:08Z"
+        },
+        {
+          "title": "Thunder vs Lakers score, live updates: Highlights, how to watch Game 3 - USA Today",
+          "source": "Slashdot.org",
+          "link": "https://slashdot.org/firehose.pl?op=view&amp;id=183171562",
+          "published": "2026-05-10T03:32:10Z"
+        },
+        {
+          "title": "Lakers drop Game 3 to Thunder; now one loss from elimination",
+          "source": "Yahoo Entertainment",
+          "link": "https://sports.yahoo.com/articles/lakers-drop-game-3-thunder-032235297.html",
+          "published": "2026-05-10T03:22:35Z"
         }
       ]
     }
