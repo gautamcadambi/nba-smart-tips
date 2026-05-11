@@ -1,5 +1,5 @@
 {
-  "last_updated": "May 11, 2026 at 01:48 PM UTC",
+  "last_updated": "May 11, 2026 at 10:55 PM UTC",
   "total_games": 3,
   "games": [
     {
@@ -8,47 +8,47 @@
       "away_team": "Detroit Pistons",
       "home_abbr": "CLE",
       "away_abbr": "DET",
-      "home_ml": "-166",
-      "away_ml": "+140",
-      "home_ml_raw": -166,
-      "away_ml_raw": 140,
-      "home_prob": 60.0,
-      "away_prob": 40.0,
+      "home_ml": "-162",
+      "away_ml": "+136",
+      "home_ml_raw": -162,
+      "away_ml_raw": 136,
+      "home_prob": 59.3,
+      "away_prob": 40.7,
       "spread": "CLE -3.5",
       "favorite": "Cleveland Cavaliers",
       "pick": "Cleveland Cavaliers",
       "pick_abbr": "CLE",
-      "moneyline": "-166",
-      "win_probability": 60.0,
+      "moneyline": "-162",
+      "win_probability": 59.3,
       "confidence": "MEDIUM",
       "confidence_stars": "\u2605\u2605\u2606",
       "commence_time": "2026-05-12T00:10:00Z",
       "line_movement": {
         "home": {
-          "direction": "shorter",
-          "points_moved": 4,
-          "steam": false,
-          "label": "\ud83d\udfe2 -166 \u2190 -162",
-          "old_ml": "-162",
-          "new_ml": "-166"
-        },
-        "away": {
           "direction": "longer",
           "points_moved": 4,
           "steam": false,
-          "label": "\ud83d\udd34 +140 \u2190 +136",
-          "old_ml": "+136",
-          "new_ml": "+140"
+          "label": "\ud83d\udd34 -162 \u2190 -166",
+          "old_ml": "-166",
+          "new_ml": "-162"
         },
-        "pick": {
+        "away": {
           "direction": "shorter",
           "points_moved": 4,
           "steam": false,
-          "label": "\ud83d\udfe2 -166 \u2190 -162",
-          "old_ml": "-162",
-          "new_ml": "-166"
+          "label": "\ud83d\udfe2 +136 \u2190 +140",
+          "old_ml": "+140",
+          "new_ml": "+136"
         },
-        "snapshot_time": "May 11, 2026 at 07:50 AM UTC"
+        "pick": {
+          "direction": "longer",
+          "points_moved": 4,
+          "steam": false,
+          "label": "\ud83d\udd34 -162 \u2190 -166",
+          "old_ml": "-166",
+          "new_ml": "-162"
+        },
+        "snapshot_time": "May 11, 2026 at 01:48 PM UTC"
       },
       "fatigue": {
         "home": {
@@ -75,9 +75,9 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udcca 20.0pt probability edge"
+        "\ud83d\udcca 18.6pt probability edge"
       ],
-      "injury_notes": "No key injuries.",
+      "injury_notes": "Thomas Bryant (C); Caris LeVert (G)",
       "sharp": {
         "away_t": null,
         "home_t": null,
@@ -112,10 +112,10 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "Cleveland Cavaliers hold a 60.0% edge.",
+        "trend": "Cleveland Cavaliers hold a 59.3% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line moved -162\u2192-166 (4pts). Pending \u2014 check closer to tip-off",
-        "injury_notes": "No key injuries."
+        "steam": "Line moved -166\u2192-162 (4pts). Pending \u2014 check closer to tip-off",
+        "injury_notes": "Thomas Bryant (C); Caris LeVert (G)"
       },
       "live": {
         "status": "pre",
@@ -128,22 +128,22 @@
       },
       "news": [
         {
-          "title": "Tobias Harris by the numbers in Pistons-Cavaliers Game 3",
-          "source": "USA Today",
-          "link": "https://volswire.usatoday.com/story/sports/college/volunteers/mens-basketball/2026/05/10/tobias-harris-detroit-pistons-game-3-cleveland-nba-playoffs/90020571007/",
-          "published": "2026-05-10T13:45:35Z"
-        },
-        {
-          "title": "Knicks vs 76ers \u2013 Game 4 Round 2 NBA Playoffs \u2013 predictions: Odds, recent stats, trends, best bets for May 10",
-          "source": "NBCSports.com",
-          "link": "https://www.nbcsports.com/betting/nba/news/knicks-vs-76ers-game-4-round-2-nba-playoffs-predictions-odds-recent-stats-trends-best-bets-for-may-10",
-          "published": "2026-05-10T13:43:39Z"
-        },
-        {
-          "title": "NBA player prop picks, odds: Model reveals three best 2026 NBA Playoffs prop bets for Sunday, May 10",
+          "title": "The NBA Draft Lottery will change the trade market, and these five teams could all make blockbusters",
           "source": "CBS Sports",
-          "link": "https://www.cbssports.com/nba/news/nba-player-prop-picks-odds-model-reveals-three-best-2026-nba-playoffs-prop-bets-for-sunday-may-10/",
-          "published": "2026-05-10T13:40:53Z"
+          "link": "https://www.cbssports.com/nba/news/nba-draft-lottery-trade-market/",
+          "published": "2026-05-10T22:53:34Z"
+        },
+        {
+          "title": "Why Cameron Boozer Is the perfect draft fit for the Memphis Grizzlies",
+          "source": "Sporting News",
+          "link": "https://www.sportingnews.com/us/nba/memphis-grizzlies/news/why-cameron-boozer-perfect-draft-fit-memphis-grizzlies/c39a32d683ba56336c9ef516",
+          "published": "2026-05-10T22:52:17Z"
+        },
+        {
+          "title": "Wizards win draft lottery; Jazz, Grizz, Bulls round out top 4 - ESPN",
+          "source": "Slashdot.org",
+          "link": "https://slashdot.org/firehose.pl?op=view&amp;id=183177070",
+          "published": "2026-05-10T22:52:04Z"
         }
       ]
     },
@@ -153,47 +153,47 @@
       "away_team": "Oklahoma City Thunder",
       "home_abbr": "LAL",
       "away_abbr": "OKC",
-      "home_ml": "+390",
-      "away_ml": "-520",
-      "home_ml_raw": 390,
-      "away_ml_raw": -520,
-      "home_prob": 19.6,
-      "away_prob": 80.4,
-      "spread": "LAL +10.5",
+      "home_ml": "+425",
+      "away_ml": "-575",
+      "home_ml_raw": 425,
+      "away_ml_raw": -575,
+      "home_prob": 18.3,
+      "away_prob": 81.7,
+      "spread": "LAL +12.5",
       "favorite": "Oklahoma City Thunder",
       "pick": "Oklahoma City Thunder",
       "pick_abbr": "OKC",
-      "moneyline": "-520",
-      "win_probability": 80.4,
+      "moneyline": "-575",
+      "win_probability": 81.7,
       "confidence": "HIGH",
       "confidence_stars": "\u2605\u2605\u2605",
       "commence_time": "2026-05-12T02:40:00Z",
       "line_movement": {
         "home": {
           "direction": "longer",
-          "points_moved": 20,
+          "points_moved": 35,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM +390 \u2190 +370",
-          "old_ml": "+370",
-          "new_ml": "+390"
+          "label": "\ud83d\udd25 STEAM +425 \u2190 +390",
+          "old_ml": "+390",
+          "new_ml": "+425"
         },
         "away": {
           "direction": "shorter",
-          "points_moved": 35,
+          "points_moved": 55,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM -520 \u2190 -485",
-          "old_ml": "-485",
-          "new_ml": "-520"
+          "label": "\ud83d\udd25 STEAM -575 \u2190 -520",
+          "old_ml": "-520",
+          "new_ml": "-575"
         },
         "pick": {
           "direction": "shorter",
-          "points_moved": 35,
+          "points_moved": 55,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM -520 \u2190 -485",
-          "old_ml": "-485",
-          "new_ml": "-520"
+          "label": "\ud83d\udd25 STEAM -575 \u2190 -520",
+          "old_ml": "-520",
+          "new_ml": "-575"
         },
-        "snapshot_time": "May 11, 2026 at 07:50 AM UTC"
+        "snapshot_time": "May 11, 2026 at 01:48 PM UTC"
       },
       "fatigue": {
         "home": {
@@ -257,9 +257,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "Oklahoma City Thunder hold a 80.4% edge.",
+        "trend": "Oklahoma City Thunder hold a 81.7% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -485 to -520 (35pt move) \u2014 heavy professional action on Oklahoma City Thunder.",
+        "steam": "Line steamed from -520 to -575 (55pt move) \u2014 heavy professional action on Oklahoma City Thunder.",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -273,22 +273,16 @@
       },
       "news": [
         {
-          "title": "Tobias Harris by the numbers in Pistons-Cavaliers Game 3",
-          "source": "USA Today",
-          "link": "https://volswire.usatoday.com/story/sports/college/volunteers/mens-basketball/2026/05/10/tobias-harris-detroit-pistons-game-3-cleveland-nba-playoffs/90020571007/",
-          "published": "2026-05-10T13:45:35Z"
+          "title": "Everybody wants to complain about the Thunder: 'I ...",
+          "source": "www.espn.com - NBA",
+          "link": "https://www.espn.com/nba/story/_/id/48737208/how-oklahoma-city-thunder-became-nba-newest-villains",
+          "published": "Mon, 11 May 2026 18:02:49 EST"
         },
         {
-          "title": "Knicks vs 76ers \u2013 Game 4 Round 2 NBA Playoffs \u2013 predictions: Odds, recent stats, trends, best bets for May 10",
-          "source": "NBCSports.com",
-          "link": "https://www.nbcsports.com/betting/nba/news/knicks-vs-76ers-game-4-round-2-nba-playoffs-predictions-odds-recent-stats-trends-best-bets-for-may-10",
-          "published": "2026-05-10T13:43:39Z"
-        },
-        {
-          "title": "NBA player prop picks, odds: Model reveals three best 2026 NBA Playoffs prop bets for Sunday, May 10",
-          "source": "CBS Sports",
-          "link": "https://www.cbssports.com/nba/news/nba-player-prop-picks-odds-model-reveals-three-best-2026-nba-playoffs-prop-bets-for-sunday-may-10/",
-          "published": "2026-05-10T13:40:53Z"
+          "title": "The uncomfortable lesson for the Lakers down 3-0 t...",
+          "source": "www.espn.com - NBA",
+          "link": "https://www.espn.com/nba/story/_/id/48734191/the-uncomfortable-lesson-los-angeles-lakers-3-0-oklahoma-city-thunder-nba-playoffs",
+          "published": "Mon, 11 May 2026 18:02:49 EST"
         }
       ]
     },
@@ -304,7 +298,7 @@
       "away_ml_raw": 320,
       "home_prob": 77.2,
       "away_prob": 22.8,
-      "spread": "SAS -9.5",
+      "spread": "SAS -10.5",
       "favorite": "San Antonio Spurs",
       "pick": "San Antonio Spurs",
       "pick_abbr": "SAS",
@@ -338,7 +332,7 @@
           "old_ml": "-410",
           "new_ml": "-410"
         },
-        "snapshot_time": "May 11, 2026 at 07:50 AM UTC"
+        "snapshot_time": "May 11, 2026 at 01:48 PM UTC"
       },
       "fatigue": {
         "home": {
@@ -418,22 +412,16 @@
       },
       "news": [
         {
-          "title": "Tobias Harris by the numbers in Pistons-Cavaliers Game 3",
-          "source": "USA Today",
-          "link": "https://volswire.usatoday.com/story/sports/college/volunteers/mens-basketball/2026/05/10/tobias-harris-detroit-pistons-game-3-cleveland-nba-playoffs/90020571007/",
-          "published": "2026-05-10T13:45:35Z"
+          "title": "No discipline for Wemby elbow; he'll play Game 5",
+          "source": "www.espn.com - NBA",
+          "link": "https://www.espn.com/nba/story/_/id/48742211/no-discipline-wembanyama-reid-elbow-play-game-5",
+          "published": "Mon, 11 May 2026 18:02:30 EST"
         },
         {
-          "title": "Knicks vs 76ers \u2013 Game 4 Round 2 NBA Playoffs \u2013 predictions: Odds, recent stats, trends, best bets for May 10",
-          "source": "NBCSports.com",
-          "link": "https://www.nbcsports.com/betting/nba/news/knicks-vs-76ers-game-4-round-2-nba-playoffs-predictions-odds-recent-stats-trends-best-bets-for-may-10",
-          "published": "2026-05-10T13:43:39Z"
-        },
-        {
-          "title": "NBA player prop picks, odds: Model reveals three best 2026 NBA Playoffs prop bets for Sunday, May 10",
-          "source": "CBS Sports",
-          "link": "https://www.cbssports.com/nba/news/nba-player-prop-picks-odds-model-reveals-three-best-2026-nba-playoffs-prop-bets-for-sunday-may-10/",
-          "published": "2026-05-10T13:40:53Z"
+          "title": "Edwards rallies Wolves to even series with Spurs",
+          "source": "www.espn.com - NBA",
+          "link": "https://www.espn.com/nba/story/_/id/48737913/anthony-edwards-rallies-timberwolves-even-series-spurs",
+          "published": "Mon, 11 May 2026 18:02:30 EST"
         }
       ]
     }
