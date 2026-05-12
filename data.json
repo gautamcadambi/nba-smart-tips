@@ -1,5 +1,5 @@
 {
-  "last_updated": "May 12, 2026 at 01:04 PM UTC",
+  "last_updated": "May 12, 2026 at 03:47 PM UTC",
   "total_games": 2,
   "games": [
     {
@@ -8,47 +8,47 @@
       "away_team": "Minnesota Timberwolves",
       "home_abbr": "SAS",
       "away_abbr": "MIN",
-      "home_ml": "-410",
-      "away_ml": "+320",
-      "home_ml_raw": -410,
-      "away_ml_raw": 320,
-      "home_prob": 77.2,
-      "away_prob": 22.8,
-      "spread": "SAS -10.5",
+      "home_ml": "-380",
+      "away_ml": "+300",
+      "home_ml_raw": -380,
+      "away_ml_raw": 300,
+      "home_prob": 76.0,
+      "away_prob": 24.0,
+      "spread": "SAS -9.5",
       "favorite": "San Antonio Spurs",
       "pick": "San Antonio Spurs",
       "pick_abbr": "SAS",
-      "moneyline": "-410",
-      "win_probability": 77.2,
+      "moneyline": "-380",
+      "win_probability": 76.0,
       "confidence": "HIGH",
       "confidence_stars": "\u2605\u2605\u2605",
       "commence_time": "2026-05-13T00:10:00Z",
       "line_movement": {
         "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "longer",
+          "points_moved": 30,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -380 \u2190 -410",
           "old_ml": "-410",
-          "new_ml": "-410"
+          "new_ml": "-380"
         },
         "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "shorter",
+          "points_moved": 20,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM +300 \u2190 +320",
           "old_ml": "+320",
-          "new_ml": "+320"
+          "new_ml": "+300"
         },
         "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "longer",
+          "points_moved": 30,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -380 \u2190 -410",
           "old_ml": "-410",
-          "new_ml": "-410"
+          "new_ml": "-380"
         },
-        "snapshot_time": "May 12, 2026 at 06:29 AM UTC"
+        "snapshot_time": "May 12, 2026 at 01:04 PM UTC"
       },
       "fatigue": {
         "home": {
@@ -75,9 +75,9 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udcca 54.4pt probability edge"
+        "\ud83d\udd25 Sharp steam detected"
       ],
-      "injury_notes": "De'Aaron Fox (G)",
+      "injury_notes": "No key injuries.",
       "sharp": {
         "away_t": null,
         "home_t": null,
@@ -112,10 +112,10 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "San Antonio Spurs hold a 77.2% edge.",
+        "trend": "San Antonio Spurs hold a 76.0% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
-        "injury_notes": "De'Aaron Fox (G)"
+        "steam": "Line steamed from -410 to -380 (30pt move) \u2014 heavy professional action on San Antonio Spurs.",
+        "injury_notes": "No key injuries."
       },
       "live": {
         "status": "pre",
@@ -128,22 +128,22 @@
       },
       "news": [
         {
-          "title": "Takeaways from Thunder-Lakers Game 4",
-          "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/nba/story/_/id/48676289/2026-nba-playoffs-conference-semifinals-round-2-takeaways",
-          "published": "Tue, 12 May 2026 02:05:06 EST"
+          "title": "Badgers star drafted in latest post-lottery mock draft",
+          "source": "Bucky's 5th Quarter",
+          "link": "https://www.buckys5thquarter.com/wisconsin-badgers-mens-basketball/89857/wisconsin-badgers-basketball-news-star-nick-boyd-draft-latest-post-lottery-mock-draft-nba",
+          "published": "2026-05-11T15:45:25Z"
         },
         {
-          "title": "No discipline for Wemby elbow; he'll play Game 5",
-          "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/nba/story/_/id/48742211/no-discipline-wembanyama-reid-elbow-play-game-5",
-          "published": "Tue, 12 May 2026 04:21:10 EST"
+          "title": "Ex-Lakers champion tells LeBron James to leave so Luka Doncic, Austin Reaves can lead",
+          "source": "Sporting News",
+          "link": "https://www.sportingnews.com/us/nba/los-angeles-lakers/news/byron-scott-lebron-james-leave-lakers-luka-doncic-build-future/b88eb433872a4ab1e81faae8",
+          "published": "2026-05-11T15:40:14Z"
         },
         {
-          "title": "Spurs' Fox (ankle) questionable for Game 5",
-          "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/nba/story/_/id/48746586/spurs-deaaron-fox-dealing-right-ankle-soreness",
-          "published": "Tue, 12 May 2026 04:21:10 EST"
+          "title": "Storm spoil the Sun\u2019s last home opener; Former MIT women\u2019s coach wins first WNBA game",
+          "source": "MassLive.com",
+          "link": "https://www.masslive.com/sports/2026/05/storm-spoil-the-suns-last-home-opener-former-mit-womens-coach-wins-first-wnba-game.html",
+          "published": "2026-05-11T15:38:36Z"
         }
       ]
     },
@@ -153,47 +153,47 @@
       "away_team": "Cleveland Cavaliers",
       "home_abbr": "DET",
       "away_abbr": "CLE",
-      "home_ml": "-170",
-      "away_ml": "+142",
-      "home_ml_raw": -170,
-      "away_ml_raw": 142,
-      "home_prob": 60.4,
-      "away_prob": 39.6,
+      "home_ml": "-166",
+      "away_ml": "+140",
+      "home_ml_raw": -166,
+      "away_ml_raw": 140,
+      "home_prob": 60.0,
+      "away_prob": 40.0,
       "spread": "DET -3.5",
       "favorite": "Detroit Pistons",
       "pick": "Detroit Pistons",
       "pick_abbr": "DET",
-      "moneyline": "-170",
-      "win_probability": 60.4,
+      "moneyline": "-166",
+      "win_probability": 60.0,
       "confidence": "MEDIUM",
       "confidence_stars": "\u2605\u2605\u2606",
       "commence_time": "2026-05-14T00:10:00Z",
       "line_movement": {
         "home": {
-          "direction": "shorter",
-          "points_moved": 8,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -170 \u2190 -162",
-          "old_ml": "-162",
-          "new_ml": "-170"
+          "direction": "longer",
+          "points_moved": 4,
+          "steam": false,
+          "label": "\ud83d\udd34 -166 \u2190 -170",
+          "old_ml": "-170",
+          "new_ml": "-166"
         },
         "away": {
-          "direction": "longer",
-          "points_moved": 6,
+          "direction": "shorter",
+          "points_moved": 2,
           "steam": false,
-          "label": "\ud83d\udd34 +142 \u2190 +136",
-          "old_ml": "+136",
-          "new_ml": "+142"
+          "label": "\ud83d\udfe2 +140 \u2190 +142",
+          "old_ml": "+142",
+          "new_ml": "+140"
         },
         "pick": {
-          "direction": "shorter",
-          "points_moved": 8,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -170 \u2190 -162",
-          "old_ml": "-162",
-          "new_ml": "-170"
+          "direction": "longer",
+          "points_moved": 4,
+          "steam": false,
+          "label": "\ud83d\udd34 -166 \u2190 -170",
+          "old_ml": "-170",
+          "new_ml": "-166"
         },
-        "snapshot_time": "May 12, 2026 at 06:29 AM UTC"
+        "snapshot_time": "May 12, 2026 at 01:04 PM UTC"
       },
       "fatigue": {
         "home": {
@@ -220,7 +220,6 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udd25 Sharp steam detected",
         "\ud83d\udca4 CLE fatigued (B2B) \u2014 source: ESPN"
       ],
       "injury_notes": "No key injuries.",
@@ -260,7 +259,7 @@
       "briefing": {
         "trend": "DET on Back-to-Back \u26a0\ufe0f per ESPN schedule data. CLE on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -162 to -170 (8pt move) \u2014 heavy professional action on Detroit Pistons.",
+        "steam": "Line moved -170\u2192-166 (4pts). Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -274,22 +273,22 @@
       },
       "news": [
         {
-          "title": "Takeaways from Thunder-Lakers Game 4",
-          "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/nba/story/_/id/48676289/2026-nba-playoffs-conference-semifinals-round-2-takeaways",
-          "published": "Tue, 12 May 2026 02:05:06 EST"
+          "title": "Badgers star drafted in latest post-lottery mock draft",
+          "source": "Bucky's 5th Quarter",
+          "link": "https://www.buckys5thquarter.com/wisconsin-badgers-mens-basketball/89857/wisconsin-badgers-basketball-news-star-nick-boyd-draft-latest-post-lottery-mock-draft-nba",
+          "published": "2026-05-11T15:45:25Z"
         },
         {
-          "title": "Mitchell's record-tying 2nd half evens East semis",
-          "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/nba/story/_/id/48746487/donovan-mitchell-ties-nba-playoff-record-39-points-second-half-cavaliers-even-series-vs-pistons",
-          "published": "Tue, 12 May 2026 04:21:10 EST"
+          "title": "Ex-Lakers champion tells LeBron James to leave so Luka Doncic, Austin Reaves can lead",
+          "source": "Sporting News",
+          "link": "https://www.sportingnews.com/us/nba/los-angeles-lakers/news/byron-scott-lebron-james-leave-lakers-luka-doncic-build-future/b88eb433872a4ab1e81faae8",
+          "published": "2026-05-11T15:40:14Z"
         },
         {
-          "title": "Bickerstaff calls FT disparity in loss 'unacceptab...",
-          "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/nba/story/_/id/48747058/bickerstaff-calls-ft-disparity-game-4-loss-unacceptable",
-          "published": "Tue, 12 May 2026 04:21:10 EST"
+          "title": "Storm spoil the Sun\u2019s last home opener; Former MIT women\u2019s coach wins first WNBA game",
+          "source": "MassLive.com",
+          "link": "https://www.masslive.com/sports/2026/05/storm-spoil-the-suns-last-home-opener-former-mit-womens-coach-wins-first-wnba-game.html",
+          "published": "2026-05-11T15:38:36Z"
         }
       ]
     }
