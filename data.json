@@ -1,218 +1,73 @@
 {
-  "last_updated": "May 11, 2026 at 11:59 PM UTC",
+  "last_updated": "May 12, 2026 at 03:40 AM UTC",
   "total_games": 3,
   "games": [
-    {
-      "game": "Detroit Pistons @ Cleveland Cavaliers",
-      "home_team": "Cleveland Cavaliers",
-      "away_team": "Detroit Pistons",
-      "home_abbr": "CLE",
-      "away_abbr": "DET",
-      "home_ml": "-166",
-      "away_ml": "+140",
-      "home_ml_raw": -166,
-      "away_ml_raw": 140,
-      "home_prob": 60.0,
-      "away_prob": 40.0,
-      "spread": "CLE -3.5",
-      "favorite": "Cleveland Cavaliers",
-      "pick": "Cleveland Cavaliers",
-      "pick_abbr": "CLE",
-      "moneyline": "-166",
-      "win_probability": 60.0,
-      "confidence": "MEDIUM",
-      "confidence_stars": "\u2605\u2605\u2606",
-      "commence_time": "2026-05-12T00:10:00Z",
-      "line_movement": {
-        "home": {
-          "direction": "shorter",
-          "points_moved": 4,
-          "steam": false,
-          "label": "\ud83d\udfe2 -166 \u2190 -162",
-          "old_ml": "-162",
-          "new_ml": "-166"
-        },
-        "away": {
-          "direction": "longer",
-          "points_moved": 4,
-          "steam": false,
-          "label": "\ud83d\udd34 +140 \u2190 +136",
-          "old_ml": "+136",
-          "new_ml": "+140"
-        },
-        "pick": {
-          "direction": "shorter",
-          "points_moved": 4,
-          "steam": false,
-          "label": "\ud83d\udfe2 -166 \u2190 -162",
-          "old_ml": "-162",
-          "new_ml": "-166"
-        },
-        "snapshot_time": "May 11, 2026 at 10:55 PM UTC"
-      },
-      "fatigue": {
-        "home": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "May 09",
-          "days_rest": 2,
-          "games_last_4d": 2,
-          "travel_miles": 91,
-          "travel_desc": "91 mi road trip",
-          "source": "ESPN Scoreboard API"
-        },
-        "away": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "May 09",
-          "days_rest": 2,
-          "games_last_4d": 2,
-          "travel_miles": 91,
-          "travel_desc": "91 mi road trip",
-          "source": "ESPN Scoreboard API"
-        }
-      },
-      "edge_factors": [
-        "\ud83d\udcca 20.0pt probability edge"
-      ],
-      "injury_notes": "Thomas Bryant (C); Caris LeVert (G)",
-      "sharp": {
-        "away_t": null,
-        "home_t": null,
-        "source": null,
-        "sharp_signal": null,
-        "sharp_label": "Pending \u2014 check closer to tip-off",
-        "rlm": false
-      },
-      "form": {
-        "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        },
-        "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        }
-      },
-      "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
-      },
-      "briefing": {
-        "trend": "Cleveland Cavaliers hold a 60.0% edge.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line moved -162\u2192-166 (4pts). Pending \u2014 check closer to tip-off",
-        "injury_notes": "Thomas Bryant (C); Caris LeVert (G)"
-      },
-      "live": {
-        "status": "pre",
-        "status_detail": "Upcoming",
-        "period": 0,
-        "clock": "",
-        "home_score": 0,
-        "away_score": 0,
-        "spread_alert": null
-      },
-      "news": [
-        {
-          "title": "Fraternizing with the Enemy: A Deeply Pessimistic Conversation with Pounding the Rock\u2019s JR Wilco",
-          "source": "Canis Hoopus",
-          "link": "https://www.canishoopus.com/timberwolves-analysis/66484/fraternizing-with-the-enemy-a-deeply-pessimistic-conversation-with-pounding-the-rocks-jr-wilco",
-          "published": "2026-05-10T23:58:22Z"
-        },
-        {
-          "title": "Expectations already sky-high for the NBA's draft class of 2026, and the picks are still weeks away",
-          "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/articles/expectations-already-sky-high-nbas-235810054.html",
-          "published": "2026-05-10T23:58:10Z"
-        },
-        {
-          "title": "Spurs vs. Timberwolves Game 4 live score, updates, highlights from 2026 NBA playoffs second-round series",
-          "source": "Sporting News",
-          "link": "https://www.sportingnews.com/us/nba/san-antonio-spurs/news/spurs-vs-timberwolves-game-4-live-score-updates-highlights-2026-nba-playoffs-second-round-series/7276a648980b1a8860588c34",
-          "published": "2026-05-10T23:55:45Z"
-        }
-      ]
-    },
     {
       "game": "Oklahoma City Thunder @ Los Angeles Lakers",
       "home_team": "Los Angeles Lakers",
       "away_team": "Oklahoma City Thunder",
       "home_abbr": "LAL",
       "away_abbr": "OKC",
-      "home_ml": "+425",
-      "away_ml": "-575",
-      "home_ml_raw": 425,
-      "away_ml_raw": -575,
-      "home_prob": 18.3,
-      "away_prob": 81.7,
-      "spread": "LAL +12.5",
+      "home_ml": "+850",
+      "away_ml": "-1750",
+      "home_ml_raw": 850,
+      "away_ml_raw": -1750,
+      "home_prob": 10.0,
+      "away_prob": 90.0,
+      "spread": "LAL +15.5",
       "favorite": "Oklahoma City Thunder",
       "pick": "Oklahoma City Thunder",
       "pick_abbr": "OKC",
-      "moneyline": "-575",
-      "win_probability": 81.7,
+      "moneyline": "-1750",
+      "win_probability": 90.0,
       "confidence": "HIGH",
       "confidence_stars": "\u2605\u2605\u2605",
-      "commence_time": "2026-05-12T02:40:00Z",
+      "commence_time": "2026-05-12T02:48:00Z",
       "line_movement": {
         "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "longer",
+          "points_moved": 425,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM +850 \u2190 +425",
           "old_ml": "+425",
-          "new_ml": "+425"
+          "new_ml": "+850"
         },
         "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "shorter",
+          "points_moved": 1175,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -1750 \u2190 -575",
           "old_ml": "-575",
-          "new_ml": "-575"
+          "new_ml": "-1750"
         },
         "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "shorter",
+          "points_moved": 1175,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -1750 \u2190 -575",
           "old_ml": "-575",
-          "new_ml": "-575"
+          "new_ml": "-1750"
         },
-        "snapshot_time": "May 11, 2026 at 10:55 PM UTC"
+        "snapshot_time": "May 11, 2026 at 11:59 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "May 09",
-          "days_rest": 2,
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "May 11",
+          "days_rest": 1,
           "games_last_4d": 2,
-          "travel_miles": 1180,
-          "travel_desc": "1,180 mi road trip",
+          "travel_miles": 0,
+          "travel_desc": "",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "May 09",
-          "days_rest": 2,
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "May 11",
+          "days_rest": 1,
           "games_last_4d": 2,
           "travel_miles": 1180,
           "travel_desc": "1,180 mi road trip",
@@ -220,7 +75,8 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udcca 63.4pt probability edge"
+        "\ud83d\udd25 Sharp steam detected",
+        "\ud83d\udca4 LAL fatigued (B2B) \u2014 source: ESPN"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -257,9 +113,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "Oklahoma City Thunder hold a 81.7% edge.",
+        "trend": "LAL on Back-to-Back \u26a0\ufe0f per ESPN schedule data. OKC on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "steam": "Line steamed from -575 to -1750 (1175pt move) \u2014 heavy professional action on Oklahoma City Thunder.",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -273,16 +129,22 @@
       },
       "news": [
         {
-          "title": "Everybody wants to complain about the Thunder: 'I ...",
-          "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/nba/story/_/id/48737208/how-oklahoma-city-thunder-became-nba-newest-villains",
-          "published": "Mon, 11 May 2026 18:02:49 EST"
+          "title": "JJ Redick on Deandre Ayton's passive sequence in Game 3",
+          "source": "USA Today",
+          "link": "https://lebronwire.usatoday.com/story/sports/nba/2026/05/10/jj-redick-on-deandre-aytons-passive-sequence-in-game-3/90024947007/",
+          "published": "2026-05-11T03:26:03Z"
         },
         {
-          "title": "The uncomfortable lesson for the Lakers down 3-0 t...",
-          "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/nba/story/_/id/48734191/the-uncomfortable-lesson-los-angeles-lakers-3-0-oklahoma-city-thunder-nba-playoffs",
-          "published": "Mon, 11 May 2026 18:02:49 EST"
+          "title": "Knicks Complete Sweep And Advance To 2nd Straight Conference Finals",
+          "source": "Forbes",
+          "link": "https://www.forbes.com/sites/timcasey/2026/05/10/knicks-complete-sweep-and-advance-to-2nd-straight-conference-finals/",
+          "published": "2026-05-11T03:20:09Z"
+        },
+        {
+          "title": "Spurs star Wembanyama ejected for elbowing Wolves' Reid",
+          "source": "Yahoo Entertainment",
+          "link": "https://sports.yahoo.com/articles/spurs-star-wembanyama-ejected-elbowing-031911190.html",
+          "published": "2026-05-11T03:19:11Z"
         }
       ]
     },
@@ -332,26 +194,26 @@
           "old_ml": "-410",
           "new_ml": "-410"
         },
-        "snapshot_time": "May 11, 2026 at 10:55 PM UTC"
+        "snapshot_time": "May 11, 2026 at 11:59 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
           "last_game": "May 10",
-          "days_rest": 1,
+          "days_rest": 2,
           "games_last_4d": 2,
           "travel_miles": 1111,
           "travel_desc": "1,111 mi road trip",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
           "last_game": "May 10",
-          "days_rest": 1,
+          "days_rest": 2,
           "games_last_4d": 2,
           "travel_miles": 0,
           "travel_desc": "",
@@ -359,9 +221,9 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udca4 MIN fatigued (B2B) \u2014 source: ESPN"
+        "\ud83d\udcca 54.4pt probability edge"
       ],
-      "injury_notes": "De'Aaron Fox (G)",
+      "injury_notes": "No key injuries.",
       "sharp": {
         "away_t": null,
         "home_t": null,
@@ -396,10 +258,10 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "SAS on Back-to-Back \u26a0\ufe0f per ESPN schedule data. MIN on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "trend": "San Antonio Spurs hold a 77.2% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
         "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
-        "injury_notes": "De'Aaron Fox (G)"
+        "injury_notes": "No key injuries."
       },
       "live": {
         "status": "pre",
@@ -412,16 +274,167 @@
       },
       "news": [
         {
-          "title": "No discipline for Wemby elbow; he'll play Game 5",
-          "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/nba/story/_/id/48742211/no-discipline-wembanyama-reid-elbow-play-game-5",
-          "published": "Mon, 11 May 2026 18:02:30 EST"
+          "title": "JJ Redick on Deandre Ayton's passive sequence in Game 3",
+          "source": "USA Today",
+          "link": "https://lebronwire.usatoday.com/story/sports/nba/2026/05/10/jj-redick-on-deandre-aytons-passive-sequence-in-game-3/90024947007/",
+          "published": "2026-05-11T03:26:03Z"
         },
         {
-          "title": "Edwards rallies Wolves to even series with Spurs",
-          "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/nba/story/_/id/48737913/anthony-edwards-rallies-timberwolves-even-series-spurs",
-          "published": "Mon, 11 May 2026 18:02:30 EST"
+          "title": "Knicks Complete Sweep And Advance To 2nd Straight Conference Finals",
+          "source": "Forbes",
+          "link": "https://www.forbes.com/sites/timcasey/2026/05/10/knicks-complete-sweep-and-advance-to-2nd-straight-conference-finals/",
+          "published": "2026-05-11T03:20:09Z"
+        },
+        {
+          "title": "Spurs star Wembanyama ejected for elbowing Wolves' Reid",
+          "source": "Yahoo Entertainment",
+          "link": "https://sports.yahoo.com/articles/spurs-star-wembanyama-ejected-elbowing-031911190.html",
+          "published": "2026-05-11T03:19:11Z"
+        }
+      ]
+    },
+    {
+      "game": "Cleveland Cavaliers @ Detroit Pistons",
+      "home_team": "Detroit Pistons",
+      "away_team": "Cleveland Cavaliers",
+      "home_abbr": "DET",
+      "away_abbr": "CLE",
+      "home_ml": "-162",
+      "away_ml": "+136",
+      "home_ml_raw": -162,
+      "away_ml_raw": 136,
+      "home_prob": 59.3,
+      "away_prob": 40.7,
+      "spread": "DET -3.5",
+      "favorite": "Detroit Pistons",
+      "pick": "Detroit Pistons",
+      "pick_abbr": "DET",
+      "moneyline": "-162",
+      "win_probability": 59.3,
+      "confidence": "MEDIUM",
+      "confidence_stars": "\u2605\u2605\u2606",
+      "commence_time": "2026-05-13T23:10:00Z",
+      "line_movement": {
+        "home": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "away": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "pick": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "snapshot_time": "\u2014"
+      },
+      "fatigue": {
+        "home": {
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "May 11",
+          "days_rest": 1,
+          "games_last_4d": 2,
+          "travel_miles": 91,
+          "travel_desc": "91 mi road trip",
+          "source": "ESPN Scoreboard API"
+        },
+        "away": {
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "May 11",
+          "days_rest": 1,
+          "games_last_4d": 2,
+          "travel_miles": 0,
+          "travel_desc": "",
+          "source": "ESPN Scoreboard API"
+        }
+      },
+      "edge_factors": [
+        "\ud83d\udca4 CLE fatigued (B2B) \u2014 source: ESPN"
+      ],
+      "injury_notes": "No key injuries.",
+      "sharp": {
+        "away_t": null,
+        "home_t": null,
+        "source": null,
+        "sharp_signal": null,
+        "sharp_label": "Pending \u2014 check closer to tip-off",
+        "rlm": false
+      },
+      "form": {
+        "home": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        },
+        "away": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        }
+      },
+      "h2h": {
+        "total_meetings": 0,
+        "home_wins": 0,
+        "away_wins": 0,
+        "meetings": [],
+        "source": "\u2014"
+      },
+      "briefing": {
+        "trend": "DET on Back-to-Back \u26a0\ufe0f per ESPN schedule data. CLE on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "matchup": "Both rosters appear healthy \u2014 clean line.",
+        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "injury_notes": "No key injuries."
+      },
+      "live": {
+        "status": "pre",
+        "status_detail": "Upcoming",
+        "period": 0,
+        "clock": "",
+        "home_score": 0,
+        "away_score": 0,
+        "spread_alert": null
+      },
+      "news": [
+        {
+          "title": "JJ Redick on Deandre Ayton's passive sequence in Game 3",
+          "source": "USA Today",
+          "link": "https://lebronwire.usatoday.com/story/sports/nba/2026/05/10/jj-redick-on-deandre-aytons-passive-sequence-in-game-3/90024947007/",
+          "published": "2026-05-11T03:26:03Z"
+        },
+        {
+          "title": "Knicks Complete Sweep And Advance To 2nd Straight Conference Finals",
+          "source": "Forbes",
+          "link": "https://www.forbes.com/sites/timcasey/2026/05/10/knicks-complete-sweep-and-advance-to-2nd-straight-conference-finals/",
+          "published": "2026-05-11T03:20:09Z"
+        },
+        {
+          "title": "Spurs star Wembanyama ejected for elbowing Wolves' Reid",
+          "source": "Yahoo Entertainment",
+          "link": "https://sports.yahoo.com/articles/spurs-star-wembanyama-ejected-elbowing-031911190.html",
+          "published": "2026-05-11T03:19:11Z"
         }
       ]
     }
