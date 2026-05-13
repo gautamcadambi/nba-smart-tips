@@ -1,5 +1,5 @@
 {
-  "last_updated": "May 13, 2026 at 04:00 PM UTC",
+  "last_updated": "May 13, 2026 at 11:06 PM UTC",
   "total_games": 2,
   "games": [
     {
@@ -8,47 +8,47 @@
       "away_team": "Cleveland Cavaliers",
       "home_abbr": "DET",
       "away_abbr": "CLE",
-      "home_ml": "-180",
-      "away_ml": "+150",
-      "home_ml_raw": -180,
-      "away_ml_raw": 150,
-      "home_prob": 61.6,
-      "away_prob": 38.4,
+      "home_ml": "-170",
+      "away_ml": "+142",
+      "home_ml_raw": -170,
+      "away_ml_raw": 142,
+      "home_prob": 60.4,
+      "away_prob": 39.6,
       "spread": "DET -4.5",
       "favorite": "Detroit Pistons",
       "pick": "Detroit Pistons",
       "pick_abbr": "DET",
-      "moneyline": "-180",
-      "win_probability": 61.6,
+      "moneyline": "-170",
+      "win_probability": 60.4,
       "confidence": "MEDIUM",
       "confidence_stars": "\u2605\u2605\u2606",
       "commence_time": "2026-05-14T00:10:00Z",
       "line_movement": {
         "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "longer",
+          "points_moved": 10,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -170 \u2190 -180",
           "old_ml": "-180",
-          "new_ml": "-180"
+          "new_ml": "-170"
         },
         "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "shorter",
+          "points_moved": 8,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM +142 \u2190 +150",
           "old_ml": "+150",
-          "new_ml": "+150"
+          "new_ml": "+142"
         },
         "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "longer",
+          "points_moved": 10,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -170 \u2190 -180",
           "old_ml": "-180",
-          "new_ml": "-180"
+          "new_ml": "-170"
         },
-        "snapshot_time": "May 13, 2026 at 01:11 PM UTC"
+        "snapshot_time": "May 13, 2026 at 04:00 PM UTC"
       },
       "fatigue": {
         "home": {
@@ -75,7 +75,7 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udcca 23.2pt probability edge"
+        "\ud83d\udd25 Sharp steam detected"
       ],
       "injury_notes": "Caris LeVert (G); Duncan Robinson (F)",
       "sharp": {
@@ -112,9 +112,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "Detroit Pistons hold a 61.6% edge.",
+        "trend": "Detroit Pistons hold a 60.4% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "steam": "Line steamed from -180 to -170 (10pt move) \u2014 heavy professional action on Detroit Pistons.",
         "injury_notes": "Caris LeVert (G); Duncan Robinson (F)"
       },
       "live": {
@@ -131,7 +131,7 @@
           "title": "Everything you need to know for Pistons-Cavs Game ...",
           "source": "www.espn.com - NBA",
           "link": "https://www.espn.com/nba/story/_/id/48752802/2026-nba-playoffs-watch-game-5-cavaliers-pistons",
-          "published": "Wed, 13 May 2026 10:53:09 EST"
+          "published": "Wed, 13 May 2026 18:00:20 EST"
         }
       ]
     },
@@ -181,7 +181,7 @@
           "old_ml": "-192",
           "new_ml": "-192"
         },
-        "snapshot_time": "May 13, 2026 at 01:11 PM UTC"
+        "snapshot_time": "May 13, 2026 at 04:00 PM UTC"
       },
       "fatigue": {
         "home": {
@@ -264,13 +264,13 @@
           "title": "Wemby's bounce-back fuels rout; Spurs lead 3-2",
           "source": "www.espn.com - NBA",
           "link": "https://www.espn.com/nba/story/_/id/48755713/wemby-bounce-back-fuels-rout-spurs-take-3-2-series-lead",
-          "published": "Wed, 13 May 2026 09:22:49 EST"
+          "published": "Wed, 13 May 2026 18:00:14 EST"
         },
         {
           "title": "Defiant Edwards says Wolves not worried down 3-2",
           "source": "www.espn.com - NBA",
           "link": "https://www.espn.com/nba/story/_/id/48756174/defiant-edwards-says-wolves-not-worried-season-brink",
-          "published": "Wed, 13 May 2026 09:22:49 EST"
+          "published": "Wed, 13 May 2026 18:00:14 EST"
         }
       ]
     }
