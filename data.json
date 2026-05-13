@@ -1,5 +1,5 @@
 {
-  "last_updated": "May 12, 2026 at 11:03 PM UTC",
+  "last_updated": "May 13, 2026 at 12:16 AM UTC",
   "total_games": 2,
   "games": [
     {
@@ -8,76 +8,77 @@
       "away_team": "Minnesota Timberwolves",
       "home_abbr": "SAS",
       "away_abbr": "MIN",
-      "home_ml": "-380",
-      "away_ml": "+300",
-      "home_ml_raw": -380,
-      "away_ml_raw": 300,
-      "home_prob": 76.0,
-      "away_prob": 24.0,
-      "spread": "SAS -9.5",
+      "home_ml": "-500",
+      "away_ml": "+340",
+      "home_ml_raw": -500,
+      "away_ml_raw": 340,
+      "home_prob": 78.6,
+      "away_prob": 21.4,
+      "spread": "SAS -10.5",
       "favorite": "San Antonio Spurs",
       "pick": "San Antonio Spurs",
       "pick_abbr": "SAS",
-      "moneyline": "-380",
-      "win_probability": 76.0,
+      "moneyline": "-500",
+      "win_probability": 78.6,
       "confidence": "HIGH",
       "confidence_stars": "\u2605\u2605\u2605",
-      "commence_time": "2026-05-13T00:10:00Z",
+      "commence_time": "2026-05-13T00:13:52Z",
       "line_movement": {
         "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "shorter",
+          "points_moved": 120,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -500 \u2190 -380",
           "old_ml": "-380",
-          "new_ml": "-380"
+          "new_ml": "-500"
         },
         "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "longer",
+          "points_moved": 40,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM +340 \u2190 +300",
           "old_ml": "+300",
-          "new_ml": "+300"
+          "new_ml": "+340"
         },
         "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "shorter",
+          "points_moved": 120,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -500 \u2190 -380",
           "old_ml": "-380",
-          "new_ml": "-380"
+          "new_ml": "-500"
         },
-        "snapshot_time": "May 12, 2026 at 03:47 PM UTC"
+        "snapshot_time": "May 12, 2026 at 11:03 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "May 10",
-          "days_rest": 2,
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "May 12",
+          "days_rest": 1,
           "games_last_4d": 2,
           "travel_miles": 1111,
           "travel_desc": "1,111 mi road trip",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "May 10",
-          "days_rest": 2,
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "May 12",
+          "days_rest": 1,
           "games_last_4d": 2,
-          "travel_miles": 0,
-          "travel_desc": "",
+          "travel_miles": 1111,
+          "travel_desc": "1,111 mi road trip",
           "source": "ESPN Scoreboard API"
         }
       },
       "edge_factors": [
-        "\ud83d\udcca 52.0pt probability edge"
+        "\ud83d\udd25 Sharp steam detected",
+        "\ud83d\udca4 MIN fatigued (B2B) \u2014 source: ESPN"
       ],
-      "injury_notes": "De'Aaron Fox (G); Dylan Harper (G)",
+      "injury_notes": "No key injuries.",
       "sharp": {
         "away_t": null,
         "home_t": null,
@@ -112,10 +113,10 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "San Antonio Spurs hold a 76.0% edge.",
+        "trend": "SAS on Back-to-Back \u26a0\ufe0f per ESPN schedule data. MIN on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
-        "injury_notes": "De'Aaron Fox (G); Dylan Harper (G)"
+        "steam": "Line steamed from -380 to -500 (120pt move) \u2014 heavy professional action on San Antonio Spurs.",
+        "injury_notes": "No key injuries."
       },
       "live": {
         "status": "pre",
@@ -128,16 +129,22 @@
       },
       "news": [
         {
-          "title": "No discipline for Wemby elbow; he'll play Game 5",
-          "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/nba/story/_/id/48742211/no-discipline-wembanyama-reid-elbow-play-game-5",
-          "published": "Tue, 12 May 2026 18:38:52 EST"
+          "title": "Thunder vs. Lakers odds, prediction, time: 2026 NBA playoff picks, Game 4 best bets from proven model",
+          "source": "CBS Sports",
+          "link": "https://www.cbssports.com/nba/news/thunder-lakers-odds-prediction-spread-line-start-time-2026-nba-playoff-picks-game-4-best-bets/",
+          "published": "2026-05-12T00:15:36Z"
         },
         {
-          "title": "Spurs' Fox (ankle) questionable for Game 5",
-          "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/nba/story/_/id/48746586/spurs-deaaron-fox-dealing-right-ankle-soreness",
-          "published": "Tue, 12 May 2026 18:38:52 EST"
+          "title": "Social media reacts to Nets falling to No. 6 pick in 2026 NBA Draft",
+          "source": "USA Today",
+          "link": "https://netswire.usatoday.com/story/sports/nba/nets/2026/05/11/social-media-reacts-to-nets-falling-to-no-6-pick-in-2026-nba-draft/90035476007/",
+          "published": "2026-05-12T00:04:23Z"
+        },
+        {
+          "title": "How to watch Thunder vs. Lakers Game 4 for free: Start time, livestream",
+          "source": "New York Post",
+          "link": "https://nypost.com/2026/05/11/sports/heres-how-to-watch-thunder-vs-lakers-game-4-live-for-free/",
+          "published": "2026-05-12T00:00:00Z"
         }
       ]
     },
@@ -164,49 +171,49 @@
       "commence_time": "2026-05-14T00:10:00Z",
       "line_movement": {
         "home": {
-          "direction": "shorter",
-          "points_moved": 4,
+          "direction": "none",
+          "points_moved": 0,
           "steam": false,
-          "label": "\ud83d\udfe2 -170 \u2190 -166",
-          "old_ml": "-166",
+          "label": "No movement",
+          "old_ml": "-170",
           "new_ml": "-170"
         },
         "away": {
-          "direction": "longer",
-          "points_moved": 2,
+          "direction": "none",
+          "points_moved": 0,
           "steam": false,
-          "label": "\ud83d\udd34 +142 \u2190 +140",
-          "old_ml": "+140",
+          "label": "No movement",
+          "old_ml": "+142",
           "new_ml": "+142"
         },
         "pick": {
-          "direction": "shorter",
-          "points_moved": 4,
+          "direction": "none",
+          "points_moved": 0,
           "steam": false,
-          "label": "\ud83d\udfe2 -170 \u2190 -166",
-          "old_ml": "-166",
+          "label": "No movement",
+          "old_ml": "-170",
           "new_ml": "-170"
         },
-        "snapshot_time": "May 12, 2026 at 03:47 PM UTC"
+        "snapshot_time": "May 12, 2026 at 11:03 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
           "last_game": "May 11",
-          "days_rest": 1,
+          "days_rest": 2,
           "games_last_4d": 2,
           "travel_miles": 91,
           "travel_desc": "91 mi road trip",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
           "last_game": "May 11",
-          "days_rest": 1,
+          "days_rest": 2,
           "games_last_4d": 2,
           "travel_miles": 0,
           "travel_desc": "",
@@ -214,9 +221,9 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udca4 CLE fatigued (B2B) \u2014 source: ESPN"
+        "\ud83d\udcca 20.8pt probability edge"
       ],
-      "injury_notes": "Caris LeVert (G); Duncan Robinson (F)",
+      "injury_notes": "No key injuries.",
       "sharp": {
         "away_t": null,
         "home_t": null,
@@ -251,10 +258,10 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "DET on Back-to-Back \u26a0\ufe0f per ESPN schedule data. CLE on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "trend": "Detroit Pistons hold a 60.4% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line moved -166\u2192-170 (4pts). Pending \u2014 check closer to tip-off",
-        "injury_notes": "Caris LeVert (G); Duncan Robinson (F)"
+        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "injury_notes": "No key injuries."
       },
       "live": {
         "status": "pre",
@@ -267,10 +274,22 @@
       },
       "news": [
         {
-          "title": "Bickerstaff calls FT disparity in loss 'unacceptab...",
-          "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/nba/story/_/id/48747058/bickerstaff-calls-ft-disparity-game-4-loss-unacceptable",
-          "published": "Tue, 12 May 2026 18:38:51 EST"
+          "title": "Thunder vs. Lakers odds, prediction, time: 2026 NBA playoff picks, Game 4 best bets from proven model",
+          "source": "CBS Sports",
+          "link": "https://www.cbssports.com/nba/news/thunder-lakers-odds-prediction-spread-line-start-time-2026-nba-playoff-picks-game-4-best-bets/",
+          "published": "2026-05-12T00:15:36Z"
+        },
+        {
+          "title": "Social media reacts to Nets falling to No. 6 pick in 2026 NBA Draft",
+          "source": "USA Today",
+          "link": "https://netswire.usatoday.com/story/sports/nba/nets/2026/05/11/social-media-reacts-to-nets-falling-to-no-6-pick-in-2026-nba-draft/90035476007/",
+          "published": "2026-05-12T00:04:23Z"
+        },
+        {
+          "title": "How to watch Thunder vs. Lakers Game 4 for free: Start time, livestream",
+          "source": "New York Post",
+          "link": "https://nypost.com/2026/05/11/sports/heres-how-to-watch-thunder-vs-lakers-game-4-live-for-free/",
+          "published": "2026-05-12T00:00:00Z"
         }
       ]
     }
