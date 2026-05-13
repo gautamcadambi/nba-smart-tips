@@ -1,5 +1,5 @@
 {
-  "last_updated": "May 13, 2026 at 03:50 AM UTC",
+  "last_updated": "May 13, 2026 at 06:51 AM UTC",
   "total_games": 2,
   "games": [
     {
@@ -8,47 +8,47 @@
       "away_team": "Cleveland Cavaliers",
       "home_abbr": "DET",
       "away_abbr": "CLE",
-      "home_ml": "-170",
-      "away_ml": "+142",
-      "home_ml_raw": -170,
-      "away_ml_raw": 142,
-      "home_prob": 60.4,
-      "away_prob": 39.6,
-      "spread": "DET -3.5",
+      "home_ml": "-180",
+      "away_ml": "+150",
+      "home_ml_raw": -180,
+      "away_ml_raw": 150,
+      "home_prob": 61.6,
+      "away_prob": 38.4,
+      "spread": "DET -4.5",
       "favorite": "Detroit Pistons",
       "pick": "Detroit Pistons",
       "pick_abbr": "DET",
-      "moneyline": "-170",
-      "win_probability": 60.4,
+      "moneyline": "-180",
+      "win_probability": 61.6,
       "confidence": "MEDIUM",
       "confidence_stars": "\u2605\u2605\u2606",
       "commence_time": "2026-05-14T00:10:00Z",
       "line_movement": {
         "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "shorter",
+          "points_moved": 10,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -180 \u2190 -170",
           "old_ml": "-170",
-          "new_ml": "-170"
+          "new_ml": "-180"
         },
         "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "longer",
+          "points_moved": 8,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM +150 \u2190 +142",
           "old_ml": "+142",
-          "new_ml": "+142"
+          "new_ml": "+150"
         },
         "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "shorter",
+          "points_moved": 10,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -180 \u2190 -170",
           "old_ml": "-170",
-          "new_ml": "-170"
+          "new_ml": "-180"
         },
-        "snapshot_time": "May 13, 2026 at 12:16 AM UTC"
+        "snapshot_time": "May 13, 2026 at 03:50 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -75,7 +75,7 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udcca 20.8pt probability edge"
+        "\ud83d\udd25 Sharp steam detected"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -112,9 +112,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "Detroit Pistons hold a 60.4% edge.",
+        "trend": "Detroit Pistons hold a 61.6% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "steam": "Line steamed from -170 to -180 (10pt move) \u2014 heavy professional action on Detroit Pistons.",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -128,22 +128,22 @@
       },
       "news": [
         {
-          "title": "Player Grades: Cavs vs Pistons Game 4 \u2013 Cleveland ties the series",
-          "source": "Fear the Sword",
-          "link": "https://www.fearthesword.com/cavs-analysis/49272/player-grades-cavs-vs-pistons-game-4-cleveland-ties-the-series",
-          "published": "2026-05-12T03:30:00Z"
+          "title": "Longhorns Daily News: SEC commissioner Greg Sankey reportedly worries of CFP expansion \u2018tipping point\u2019",
+          "source": "Burnt Orange Nation",
+          "link": "https://www.burntorangenation.com/general/24480976/longhorns-daily-news-sec-commissioner-greg-sankey-reportedly-worries-of-cfp-expansion-tipping-point",
+          "published": "2026-05-12T06:51:14Z"
         },
         {
-          "title": "Donovan Mitchell ties NBA playoff scoring record as Cavaliers even series",
-          "source": "USA Today",
-          "link": "https://www.usatoday.com/story/sports/nba/playoffs/2026/05/11/donovan-mitchell-cavaliers-pistons-game-4-scoring-record/90039025007/",
-          "published": "2026-05-12T03:21:38Z"
+          "title": "What might LeBron James do next? He has plenty of options for next season and beyond",
+          "source": "Yahoo Entertainment",
+          "link": "https://sports.yahoo.com/articles/might-lebron-james-next-plenty-064954760.html",
+          "published": "2026-05-12T06:49:54Z"
         },
         {
-          "title": "J.B. Bickerstaff flames refs for free throw gap after Pistons' Game 4 loss",
-          "source": "Detroit Free Press",
-          "link": "https://www.freep.com/story/sports/nba/pistons/2026/05/11/jb-bickerstaff-pistons-cavs-game-4-refs/90039171007/",
-          "published": "2026-05-12T03:18:17Z"
+          "title": "James future unclear as Thunder eliminate Lakers",
+          "source": "BBC News",
+          "link": "https://www.bbc.com/sport/basketball/articles/cg7p5jer8jmo",
+          "published": "2026-05-12T06:49:10Z"
         }
       ]
     },
@@ -153,47 +153,47 @@
       "away_team": "San Antonio Spurs",
       "home_abbr": "MIN",
       "away_abbr": "SAS",
-      "home_ml": "+160",
-      "away_ml": "-192",
-      "home_ml_raw": 160,
-      "away_ml_raw": -192,
-      "home_prob": 36.9,
-      "away_prob": 63.1,
+      "home_ml": "+164",
+      "away_ml": "-198",
+      "home_ml_raw": 164,
+      "away_ml_raw": -198,
+      "home_prob": 36.3,
+      "away_prob": 63.7,
       "spread": "MIN +4.5",
       "favorite": "San Antonio Spurs",
       "pick": "San Antonio Spurs",
       "pick_abbr": "SAS",
-      "moneyline": "-192",
-      "win_probability": 63.1,
+      "moneyline": "-198",
+      "win_probability": 63.7,
       "confidence": "MEDIUM",
       "confidence_stars": "\u2605\u2605\u2606",
       "commence_time": "2026-05-16T01:40:00Z",
       "line_movement": {
         "home": {
-          "direction": "none",
-          "points_moved": 0,
+          "direction": "longer",
+          "points_moved": 4,
           "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "label": "\ud83d\udd34 +164 \u2190 +160",
+          "old_ml": "+160",
+          "new_ml": "+164"
         },
         "away": {
-          "direction": "none",
-          "points_moved": 0,
+          "direction": "shorter",
+          "points_moved": 6,
           "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "label": "\ud83d\udfe2 -198 \u2190 -192",
+          "old_ml": "-192",
+          "new_ml": "-198"
         },
         "pick": {
-          "direction": "none",
-          "points_moved": 0,
+          "direction": "shorter",
+          "points_moved": 6,
           "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "label": "\ud83d\udfe2 -198 \u2190 -192",
+          "old_ml": "-192",
+          "new_ml": "-198"
         },
-        "snapshot_time": "\u2014"
+        "snapshot_time": "May 13, 2026 at 03:50 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -259,7 +259,7 @@
       "briefing": {
         "trend": "MIN on Back-to-Back \u26a0\ufe0f per ESPN schedule data. SAS on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "steam": "Line moved -192\u2192-198 (6pts). Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -273,22 +273,22 @@
       },
       "news": [
         {
-          "title": "Player Grades: Cavs vs Pistons Game 4 \u2013 Cleveland ties the series",
-          "source": "Fear the Sword",
-          "link": "https://www.fearthesword.com/cavs-analysis/49272/player-grades-cavs-vs-pistons-game-4-cleveland-ties-the-series",
-          "published": "2026-05-12T03:30:00Z"
+          "title": "Longhorns Daily News: SEC commissioner Greg Sankey reportedly worries of CFP expansion \u2018tipping point\u2019",
+          "source": "Burnt Orange Nation",
+          "link": "https://www.burntorangenation.com/general/24480976/longhorns-daily-news-sec-commissioner-greg-sankey-reportedly-worries-of-cfp-expansion-tipping-point",
+          "published": "2026-05-12T06:51:14Z"
         },
         {
-          "title": "Donovan Mitchell ties NBA playoff scoring record as Cavaliers even series",
-          "source": "USA Today",
-          "link": "https://www.usatoday.com/story/sports/nba/playoffs/2026/05/11/donovan-mitchell-cavaliers-pistons-game-4-scoring-record/90039025007/",
-          "published": "2026-05-12T03:21:38Z"
+          "title": "What might LeBron James do next? He has plenty of options for next season and beyond",
+          "source": "Yahoo Entertainment",
+          "link": "https://sports.yahoo.com/articles/might-lebron-james-next-plenty-064954760.html",
+          "published": "2026-05-12T06:49:54Z"
         },
         {
-          "title": "J.B. Bickerstaff flames refs for free throw gap after Pistons' Game 4 loss",
-          "source": "Detroit Free Press",
-          "link": "https://www.freep.com/story/sports/nba/pistons/2026/05/11/jb-bickerstaff-pistons-cavs-game-4-refs/90039171007/",
-          "published": "2026-05-12T03:18:17Z"
+          "title": "James future unclear as Thunder eliminate Lakers",
+          "source": "BBC News",
+          "link": "https://www.bbc.com/sport/basketball/articles/cg7p5jer8jmo",
+          "published": "2026-05-12T06:49:10Z"
         }
       ]
     }
