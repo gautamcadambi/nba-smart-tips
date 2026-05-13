@@ -1,153 +1,7 @@
 {
-  "last_updated": "May 13, 2026 at 12:16 AM UTC",
+  "last_updated": "May 13, 2026 at 03:50 AM UTC",
   "total_games": 2,
   "games": [
-    {
-      "game": "Minnesota Timberwolves @ San Antonio Spurs",
-      "home_team": "San Antonio Spurs",
-      "away_team": "Minnesota Timberwolves",
-      "home_abbr": "SAS",
-      "away_abbr": "MIN",
-      "home_ml": "-500",
-      "away_ml": "+340",
-      "home_ml_raw": -500,
-      "away_ml_raw": 340,
-      "home_prob": 78.6,
-      "away_prob": 21.4,
-      "spread": "SAS -10.5",
-      "favorite": "San Antonio Spurs",
-      "pick": "San Antonio Spurs",
-      "pick_abbr": "SAS",
-      "moneyline": "-500",
-      "win_probability": 78.6,
-      "confidence": "HIGH",
-      "confidence_stars": "\u2605\u2605\u2605",
-      "commence_time": "2026-05-13T00:13:52Z",
-      "line_movement": {
-        "home": {
-          "direction": "shorter",
-          "points_moved": 120,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -500 \u2190 -380",
-          "old_ml": "-380",
-          "new_ml": "-500"
-        },
-        "away": {
-          "direction": "longer",
-          "points_moved": 40,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM +340 \u2190 +300",
-          "old_ml": "+300",
-          "new_ml": "+340"
-        },
-        "pick": {
-          "direction": "shorter",
-          "points_moved": 120,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -500 \u2190 -380",
-          "old_ml": "-380",
-          "new_ml": "-500"
-        },
-        "snapshot_time": "May 12, 2026 at 11:03 PM UTC"
-      },
-      "fatigue": {
-        "home": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
-          "last_game": "May 12",
-          "days_rest": 1,
-          "games_last_4d": 2,
-          "travel_miles": 1111,
-          "travel_desc": "1,111 mi road trip",
-          "source": "ESPN Scoreboard API"
-        },
-        "away": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
-          "last_game": "May 12",
-          "days_rest": 1,
-          "games_last_4d": 2,
-          "travel_miles": 1111,
-          "travel_desc": "1,111 mi road trip",
-          "source": "ESPN Scoreboard API"
-        }
-      },
-      "edge_factors": [
-        "\ud83d\udd25 Sharp steam detected",
-        "\ud83d\udca4 MIN fatigued (B2B) \u2014 source: ESPN"
-      ],
-      "injury_notes": "No key injuries.",
-      "sharp": {
-        "away_t": null,
-        "home_t": null,
-        "source": null,
-        "sharp_signal": null,
-        "sharp_label": "Pending \u2014 check closer to tip-off",
-        "rlm": false
-      },
-      "form": {
-        "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        },
-        "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        }
-      },
-      "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
-      },
-      "briefing": {
-        "trend": "SAS on Back-to-Back \u26a0\ufe0f per ESPN schedule data. MIN on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -380 to -500 (120pt move) \u2014 heavy professional action on San Antonio Spurs.",
-        "injury_notes": "No key injuries."
-      },
-      "live": {
-        "status": "pre",
-        "status_detail": "Upcoming",
-        "period": 0,
-        "clock": "",
-        "home_score": 0,
-        "away_score": 0,
-        "spread_alert": null
-      },
-      "news": [
-        {
-          "title": "Thunder vs. Lakers odds, prediction, time: 2026 NBA playoff picks, Game 4 best bets from proven model",
-          "source": "CBS Sports",
-          "link": "https://www.cbssports.com/nba/news/thunder-lakers-odds-prediction-spread-line-start-time-2026-nba-playoff-picks-game-4-best-bets/",
-          "published": "2026-05-12T00:15:36Z"
-        },
-        {
-          "title": "Social media reacts to Nets falling to No. 6 pick in 2026 NBA Draft",
-          "source": "USA Today",
-          "link": "https://netswire.usatoday.com/story/sports/nba/nets/2026/05/11/social-media-reacts-to-nets-falling-to-no-6-pick-in-2026-nba-draft/90035476007/",
-          "published": "2026-05-12T00:04:23Z"
-        },
-        {
-          "title": "How to watch Thunder vs. Lakers Game 4 for free: Start time, livestream",
-          "source": "New York Post",
-          "link": "https://nypost.com/2026/05/11/sports/heres-how-to-watch-thunder-vs-lakers-game-4-live-for-free/",
-          "published": "2026-05-12T00:00:00Z"
-        }
-      ]
-    },
     {
       "game": "Cleveland Cavaliers @ Detroit Pistons",
       "home_team": "Detroit Pistons",
@@ -194,7 +48,7 @@
           "old_ml": "-170",
           "new_ml": "-170"
         },
-        "snapshot_time": "May 12, 2026 at 11:03 PM UTC"
+        "snapshot_time": "May 13, 2026 at 12:16 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -274,22 +128,167 @@
       },
       "news": [
         {
-          "title": "Thunder vs. Lakers odds, prediction, time: 2026 NBA playoff picks, Game 4 best bets from proven model",
-          "source": "CBS Sports",
-          "link": "https://www.cbssports.com/nba/news/thunder-lakers-odds-prediction-spread-line-start-time-2026-nba-playoff-picks-game-4-best-bets/",
-          "published": "2026-05-12T00:15:36Z"
+          "title": "Player Grades: Cavs vs Pistons Game 4 \u2013 Cleveland ties the series",
+          "source": "Fear the Sword",
+          "link": "https://www.fearthesword.com/cavs-analysis/49272/player-grades-cavs-vs-pistons-game-4-cleveland-ties-the-series",
+          "published": "2026-05-12T03:30:00Z"
         },
         {
-          "title": "Social media reacts to Nets falling to No. 6 pick in 2026 NBA Draft",
+          "title": "Donovan Mitchell ties NBA playoff scoring record as Cavaliers even series",
           "source": "USA Today",
-          "link": "https://netswire.usatoday.com/story/sports/nba/nets/2026/05/11/social-media-reacts-to-nets-falling-to-no-6-pick-in-2026-nba-draft/90035476007/",
-          "published": "2026-05-12T00:04:23Z"
+          "link": "https://www.usatoday.com/story/sports/nba/playoffs/2026/05/11/donovan-mitchell-cavaliers-pistons-game-4-scoring-record/90039025007/",
+          "published": "2026-05-12T03:21:38Z"
         },
         {
-          "title": "How to watch Thunder vs. Lakers Game 4 for free: Start time, livestream",
-          "source": "New York Post",
-          "link": "https://nypost.com/2026/05/11/sports/heres-how-to-watch-thunder-vs-lakers-game-4-live-for-free/",
-          "published": "2026-05-12T00:00:00Z"
+          "title": "J.B. Bickerstaff flames refs for free throw gap after Pistons' Game 4 loss",
+          "source": "Detroit Free Press",
+          "link": "https://www.freep.com/story/sports/nba/pistons/2026/05/11/jb-bickerstaff-pistons-cavs-game-4-refs/90039171007/",
+          "published": "2026-05-12T03:18:17Z"
+        }
+      ]
+    },
+    {
+      "game": "San Antonio Spurs @ Minnesota Timberwolves",
+      "home_team": "Minnesota Timberwolves",
+      "away_team": "San Antonio Spurs",
+      "home_abbr": "MIN",
+      "away_abbr": "SAS",
+      "home_ml": "+160",
+      "away_ml": "-192",
+      "home_ml_raw": 160,
+      "away_ml_raw": -192,
+      "home_prob": 36.9,
+      "away_prob": 63.1,
+      "spread": "MIN +4.5",
+      "favorite": "San Antonio Spurs",
+      "pick": "San Antonio Spurs",
+      "pick_abbr": "SAS",
+      "moneyline": "-192",
+      "win_probability": 63.1,
+      "confidence": "MEDIUM",
+      "confidence_stars": "\u2605\u2605\u2606",
+      "commence_time": "2026-05-16T01:40:00Z",
+      "line_movement": {
+        "home": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "away": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "pick": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "snapshot_time": "\u2014"
+      },
+      "fatigue": {
+        "home": {
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "May 12",
+          "days_rest": 1,
+          "games_last_4d": 2,
+          "travel_miles": 1111,
+          "travel_desc": "1,111 mi road trip",
+          "source": "ESPN Scoreboard API"
+        },
+        "away": {
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "May 12",
+          "days_rest": 1,
+          "games_last_4d": 2,
+          "travel_miles": 1111,
+          "travel_desc": "1,111 mi road trip",
+          "source": "ESPN Scoreboard API"
+        }
+      },
+      "edge_factors": [
+        "\ud83d\udca4 MIN fatigued (B2B) \u2014 source: ESPN"
+      ],
+      "injury_notes": "No key injuries.",
+      "sharp": {
+        "away_t": null,
+        "home_t": null,
+        "source": null,
+        "sharp_signal": null,
+        "sharp_label": "Pending \u2014 check closer to tip-off",
+        "rlm": false
+      },
+      "form": {
+        "home": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        },
+        "away": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        }
+      },
+      "h2h": {
+        "total_meetings": 0,
+        "home_wins": 0,
+        "away_wins": 0,
+        "meetings": [],
+        "source": "\u2014"
+      },
+      "briefing": {
+        "trend": "MIN on Back-to-Back \u26a0\ufe0f per ESPN schedule data. SAS on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "matchup": "Both rosters appear healthy \u2014 clean line.",
+        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "injury_notes": "No key injuries."
+      },
+      "live": {
+        "status": "pre",
+        "status_detail": "Upcoming",
+        "period": 0,
+        "clock": "",
+        "home_score": 0,
+        "away_score": 0,
+        "spread_alert": null
+      },
+      "news": [
+        {
+          "title": "Player Grades: Cavs vs Pistons Game 4 \u2013 Cleveland ties the series",
+          "source": "Fear the Sword",
+          "link": "https://www.fearthesword.com/cavs-analysis/49272/player-grades-cavs-vs-pistons-game-4-cleveland-ties-the-series",
+          "published": "2026-05-12T03:30:00Z"
+        },
+        {
+          "title": "Donovan Mitchell ties NBA playoff scoring record as Cavaliers even series",
+          "source": "USA Today",
+          "link": "https://www.usatoday.com/story/sports/nba/playoffs/2026/05/11/donovan-mitchell-cavaliers-pistons-game-4-scoring-record/90039025007/",
+          "published": "2026-05-12T03:21:38Z"
+        },
+        {
+          "title": "J.B. Bickerstaff flames refs for free throw gap after Pistons' Game 4 loss",
+          "source": "Detroit Free Press",
+          "link": "https://www.freep.com/story/sports/nba/pistons/2026/05/11/jb-bickerstaff-pistons-cavs-game-4-refs/90039171007/",
+          "published": "2026-05-12T03:18:17Z"
         }
       ]
     }
