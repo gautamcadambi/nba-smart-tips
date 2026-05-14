@@ -1,5 +1,5 @@
 {
-  "last_updated": "May 13, 2026 at 11:06 PM UTC",
+  "last_updated": "May 14, 2026 at 12:18 AM UTC",
   "total_games": 2,
   "games": [
     {
@@ -8,74 +8,75 @@
       "away_team": "Cleveland Cavaliers",
       "home_abbr": "DET",
       "away_abbr": "CLE",
-      "home_ml": "-170",
-      "away_ml": "+142",
-      "home_ml_raw": -170,
-      "away_ml_raw": 142,
-      "home_prob": 60.4,
-      "away_prob": 39.6,
-      "spread": "DET -4.5",
+      "home_ml": "-250",
+      "away_ml": "+190",
+      "home_ml_raw": -250,
+      "away_ml_raw": 190,
+      "home_prob": 67.4,
+      "away_prob": 32.6,
+      "spread": "DET -6.5",
       "favorite": "Detroit Pistons",
       "pick": "Detroit Pistons",
       "pick_abbr": "DET",
-      "moneyline": "-170",
-      "win_probability": 60.4,
+      "moneyline": "-250",
+      "win_probability": 67.4,
       "confidence": "MEDIUM",
       "confidence_stars": "\u2605\u2605\u2606",
-      "commence_time": "2026-05-14T00:10:00Z",
+      "commence_time": "2026-05-14T00:14:16Z",
       "line_movement": {
         "home": {
-          "direction": "longer",
-          "points_moved": 10,
+          "direction": "shorter",
+          "points_moved": 80,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM -170 \u2190 -180",
-          "old_ml": "-180",
-          "new_ml": "-170"
+          "label": "\ud83d\udd25 STEAM -250 \u2190 -170",
+          "old_ml": "-170",
+          "new_ml": "-250"
         },
         "away": {
-          "direction": "shorter",
-          "points_moved": 8,
+          "direction": "longer",
+          "points_moved": 48,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM +142 \u2190 +150",
-          "old_ml": "+150",
-          "new_ml": "+142"
+          "label": "\ud83d\udd25 STEAM +190 \u2190 +142",
+          "old_ml": "+142",
+          "new_ml": "+190"
         },
         "pick": {
-          "direction": "longer",
-          "points_moved": 10,
+          "direction": "shorter",
+          "points_moved": 80,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM -170 \u2190 -180",
-          "old_ml": "-180",
-          "new_ml": "-170"
+          "label": "\ud83d\udd25 STEAM -250 \u2190 -170",
+          "old_ml": "-170",
+          "new_ml": "-250"
         },
-        "snapshot_time": "May 13, 2026 at 04:00 PM UTC"
+        "snapshot_time": "May 13, 2026 at 11:06 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "May 11",
-          "days_rest": 2,
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "May 13",
+          "days_rest": 1,
           "games_last_4d": 2,
           "travel_miles": 91,
           "travel_desc": "91 mi road trip",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "May 11",
-          "days_rest": 2,
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "May 13",
+          "days_rest": 1,
           "games_last_4d": 2,
-          "travel_miles": 0,
-          "travel_desc": "",
+          "travel_miles": 91,
+          "travel_desc": "91 mi road trip",
           "source": "ESPN Scoreboard API"
         }
       },
       "edge_factors": [
-        "\ud83d\udd25 Sharp steam detected"
+        "\ud83d\udd25 Sharp steam detected",
+        "\ud83d\udca4 CLE fatigued (B2B) \u2014 source: ESPN"
       ],
       "injury_notes": "Caris LeVert (G); Duncan Robinson (F)",
       "sharp": {
@@ -112,9 +113,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "Detroit Pistons hold a 60.4% edge.",
+        "trend": "DET on Back-to-Back \u26a0\ufe0f per ESPN schedule data. CLE on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -180 to -170 (10pt move) \u2014 heavy professional action on Detroit Pistons.",
+        "steam": "Line steamed from -170 to -250 (80pt move) \u2014 heavy professional action on Detroit Pistons.",
         "injury_notes": "Caris LeVert (G); Duncan Robinson (F)"
       },
       "live": {
@@ -128,10 +129,16 @@
       },
       "news": [
         {
+          "title": "Pistons' Robinson out for Game 5 with sore back",
+          "source": "www.espn.com - NBA",
+          "link": "https://www.espn.com/nba/story/_/id/48763474/pistons-robinson-game-5-vs-cavs-due-sore-back",
+          "published": "Wed, 13 May 2026 20:00:23 EST"
+        },
+        {
           "title": "Everything you need to know for Pistons-Cavs Game ...",
           "source": "www.espn.com - NBA",
           "link": "https://www.espn.com/nba/story/_/id/48752802/2026-nba-playoffs-watch-game-5-cavaliers-pistons",
-          "published": "Wed, 13 May 2026 18:00:20 EST"
+          "published": "Wed, 13 May 2026 20:00:58 EST"
         }
       ]
     },
@@ -181,26 +188,26 @@
           "old_ml": "-192",
           "new_ml": "-192"
         },
-        "snapshot_time": "May 13, 2026 at 04:00 PM UTC"
+        "snapshot_time": "May 13, 2026 at 11:06 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
           "last_game": "May 12",
-          "days_rest": 1,
+          "days_rest": 2,
           "games_last_4d": 2,
           "travel_miles": 1111,
           "travel_desc": "1,111 mi road trip",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
           "last_game": "May 12",
-          "days_rest": 1,
+          "days_rest": 2,
           "games_last_4d": 2,
           "travel_miles": 1111,
           "travel_desc": "1,111 mi road trip",
@@ -208,7 +215,7 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udca4 MIN fatigued (B2B) \u2014 source: ESPN"
+        "\ud83d\udcca 26.2pt probability edge"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -245,7 +252,7 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "MIN on Back-to-Back \u26a0\ufe0f per ESPN schedule data. SAS on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "trend": "San Antonio Spurs hold a 63.1% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
         "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
@@ -261,16 +268,10 @@
       },
       "news": [
         {
-          "title": "Wemby's bounce-back fuels rout; Spurs lead 3-2",
-          "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/nba/story/_/id/48755713/wemby-bounce-back-fuels-rout-spurs-take-3-2-series-lead",
-          "published": "Wed, 13 May 2026 18:00:14 EST"
-        },
-        {
           "title": "Defiant Edwards says Wolves not worried down 3-2",
           "source": "www.espn.com - NBA",
           "link": "https://www.espn.com/nba/story/_/id/48756174/defiant-edwards-says-wolves-not-worried-season-brink",
-          "published": "Wed, 13 May 2026 18:00:14 EST"
+          "published": "Wed, 13 May 2026 20:00:23 EST"
         }
       ]
     }
