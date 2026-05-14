@@ -1,54 +1,54 @@
 {
-  "last_updated": "May 14, 2026 at 12:18 AM UTC",
+  "last_updated": "May 14, 2026 at 03:49 AM UTC",
   "total_games": 2,
   "games": [
     {
-      "game": "Cleveland Cavaliers @ Detroit Pistons",
-      "home_team": "Detroit Pistons",
-      "away_team": "Cleveland Cavaliers",
-      "home_abbr": "DET",
-      "away_abbr": "CLE",
-      "home_ml": "-250",
-      "away_ml": "+190",
-      "home_ml_raw": -250,
-      "away_ml_raw": 190,
-      "home_prob": 67.4,
-      "away_prob": 32.6,
-      "spread": "DET -6.5",
-      "favorite": "Detroit Pistons",
-      "pick": "Detroit Pistons",
-      "pick_abbr": "DET",
-      "moneyline": "-250",
-      "win_probability": 67.4,
+      "game": "Detroit Pistons @ Cleveland Cavaliers",
+      "home_team": "Cleveland Cavaliers",
+      "away_team": "Detroit Pistons",
+      "home_abbr": "CLE",
+      "away_abbr": "DET",
+      "home_ml": "-170",
+      "away_ml": "+142",
+      "home_ml_raw": -170,
+      "away_ml_raw": 142,
+      "home_prob": 60.4,
+      "away_prob": 39.6,
+      "spread": "CLE -3.5",
+      "favorite": "Cleveland Cavaliers",
+      "pick": "Cleveland Cavaliers",
+      "pick_abbr": "CLE",
+      "moneyline": "-170",
+      "win_probability": 60.4,
       "confidence": "MEDIUM",
       "confidence_stars": "\u2605\u2605\u2606",
-      "commence_time": "2026-05-14T00:14:16Z",
+      "commence_time": "2026-05-15T23:10:00Z",
       "line_movement": {
         "home": {
-          "direction": "shorter",
-          "points_moved": 80,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -250 \u2190 -170",
-          "old_ml": "-170",
-          "new_ml": "-250"
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
         },
         "away": {
-          "direction": "longer",
-          "points_moved": 48,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM +190 \u2190 +142",
-          "old_ml": "+142",
-          "new_ml": "+190"
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
         },
         "pick": {
-          "direction": "shorter",
-          "points_moved": 80,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -250 \u2190 -170",
-          "old_ml": "-170",
-          "new_ml": "-250"
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
         },
-        "snapshot_time": "May 13, 2026 at 11:06 PM UTC"
+        "snapshot_time": "\u2014"
       },
       "fatigue": {
         "home": {
@@ -75,10 +75,9 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udd25 Sharp steam detected",
-        "\ud83d\udca4 CLE fatigued (B2B) \u2014 source: ESPN"
+        "\ud83d\udca4 DET fatigued (B2B) \u2014 source: ESPN"
       ],
-      "injury_notes": "Caris LeVert (G); Duncan Robinson (F)",
+      "injury_notes": "No key injuries.",
       "sharp": {
         "away_t": null,
         "home_t": null,
@@ -113,10 +112,10 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "DET on Back-to-Back \u26a0\ufe0f per ESPN schedule data. CLE on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "trend": "CLE on Back-to-Back \u26a0\ufe0f per ESPN schedule data. DET on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -170 to -250 (80pt move) \u2014 heavy professional action on Detroit Pistons.",
-        "injury_notes": "Caris LeVert (G); Duncan Robinson (F)"
+        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "injury_notes": "No key injuries."
       },
       "live": {
         "status": "pre",
@@ -129,16 +128,22 @@
       },
       "news": [
         {
-          "title": "Pistons' Robinson out for Game 5 with sore back",
-          "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/nba/story/_/id/48763474/pistons-robinson-game-5-vs-cavs-due-sore-back",
-          "published": "Wed, 13 May 2026 20:00:23 EST"
+          "title": "Jason Collins changed the game, all games, with his courage to come out",
+          "source": "USA Today",
+          "link": "https://www.usatoday.com/story/sports/columnist/nancy-armour/2026/05/12/jason-collins-broke-barriers-nba-sports-impact/90055829007/",
+          "published": "2026-05-13T03:45:36Z"
         },
         {
-          "title": "Everything you need to know for Pistons-Cavs Game ...",
-          "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/nba/story/_/id/48752802/2026-nba-playoffs-watch-game-5-cavaliers-pistons",
-          "published": "Wed, 13 May 2026 20:00:58 EST"
+          "title": "First openly gay active NBA player, Collins dies at 47",
+          "source": "Rediff.com",
+          "link": "https://www.rediff.com/sports/report/first-openly-gay-active-nba-player-jason-collins-dies-at-47/20260513.htm",
+          "published": "2026-05-13T03:45:07Z"
+        },
+        {
+          "title": "Anthony Edwards admits the Timberwolves had no answer to Victor Wembanyama's dominance",
+          "source": "Sporting News",
+          "link": "https://www.sportingnews.com/us/nba/san-antonio-spurs/news/ant-edwards-admits-twolves-had-no-answer-wembanyama-dominate/9a52ad9cffff48a091078478",
+          "published": "2026-05-13T03:43:23Z"
         }
       ]
     },
@@ -188,7 +193,7 @@
           "old_ml": "-192",
           "new_ml": "-192"
         },
-        "snapshot_time": "May 13, 2026 at 11:06 PM UTC"
+        "snapshot_time": "May 14, 2026 at 12:18 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -268,10 +273,22 @@
       },
       "news": [
         {
-          "title": "Defiant Edwards says Wolves not worried down 3-2",
-          "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/nba/story/_/id/48756174/defiant-edwards-says-wolves-not-worried-season-brink",
-          "published": "Wed, 13 May 2026 20:00:23 EST"
+          "title": "Jason Collins changed the game, all games, with his courage to come out",
+          "source": "USA Today",
+          "link": "https://www.usatoday.com/story/sports/columnist/nancy-armour/2026/05/12/jason-collins-broke-barriers-nba-sports-impact/90055829007/",
+          "published": "2026-05-13T03:45:36Z"
+        },
+        {
+          "title": "First openly gay active NBA player, Collins dies at 47",
+          "source": "Rediff.com",
+          "link": "https://www.rediff.com/sports/report/first-openly-gay-active-nba-player-jason-collins-dies-at-47/20260513.htm",
+          "published": "2026-05-13T03:45:07Z"
+        },
+        {
+          "title": "Anthony Edwards admits the Timberwolves had no answer to Victor Wembanyama's dominance",
+          "source": "Sporting News",
+          "link": "https://www.sportingnews.com/us/nba/san-antonio-spurs/news/ant-edwards-admits-twolves-had-no-answer-wembanyama-dominate/9a52ad9cffff48a091078478",
+          "published": "2026-05-13T03:43:23Z"
         }
       ]
     }
