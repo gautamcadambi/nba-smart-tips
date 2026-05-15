@@ -1,5 +1,5 @@
 {
-  "last_updated": "May 15, 2026 at 10:56 PM UTC",
+  "last_updated": "May 15, 2026 at 11:55 PM UTC",
   "total_games": 2,
   "games": [
     {
@@ -8,47 +8,47 @@
       "away_team": "Detroit Pistons",
       "home_abbr": "CLE",
       "away_abbr": "DET",
-      "home_ml": "-180",
-      "away_ml": "+150",
-      "home_ml_raw": -180,
-      "away_ml_raw": 150,
-      "home_prob": 61.6,
-      "away_prob": 38.4,
-      "spread": "CLE -4.5",
-      "favorite": "Cleveland Cavaliers",
-      "pick": "Cleveland Cavaliers",
-      "pick_abbr": "CLE",
+      "home_ml": "+140",
+      "away_ml": "-180",
+      "home_ml_raw": 140,
+      "away_ml_raw": -180,
+      "home_prob": 39.3,
+      "away_prob": 60.7,
+      "spread": "CLE +3.5",
+      "favorite": "Detroit Pistons",
+      "pick": "Detroit Pistons",
+      "pick_abbr": "DET",
       "moneyline": "-180",
-      "win_probability": 61.6,
+      "win_probability": 60.7,
       "confidence": "MEDIUM",
       "confidence_stars": "\u2605\u2605\u2606",
-      "commence_time": "2026-05-15T23:10:00Z",
+      "commence_time": "2026-05-15T23:12:00Z",
       "line_movement": {
         "home": {
-          "direction": "shorter",
-          "points_moved": 5,
-          "steam": false,
-          "label": "\ud83d\udfe2 -180 \u2190 -175",
-          "old_ml": "-175",
-          "new_ml": "-180"
+          "direction": "longer",
+          "points_moved": 320,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM +140 \u2190 -180",
+          "old_ml": "-180",
+          "new_ml": "+140"
         },
         "away": {
-          "direction": "longer",
-          "points_moved": 5,
-          "steam": false,
-          "label": "\ud83d\udd34 +150 \u2190 +145",
-          "old_ml": "+145",
-          "new_ml": "+150"
+          "direction": "shorter",
+          "points_moved": 330,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -180 \u2190 +150",
+          "old_ml": "+150",
+          "new_ml": "-180"
         },
         "pick": {
           "direction": "shorter",
-          "points_moved": 5,
-          "steam": false,
-          "label": "\ud83d\udfe2 -180 \u2190 -175",
-          "old_ml": "-175",
+          "points_moved": 330,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -180 \u2190 +150",
+          "old_ml": "+150",
           "new_ml": "-180"
         },
-        "snapshot_time": "May 15, 2026 at 03:13 PM UTC"
+        "snapshot_time": "May 15, 2026 at 10:56 PM UTC"
       },
       "fatigue": {
         "home": {
@@ -75,7 +75,7 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udcca 23.2pt probability edge"
+        "\ud83d\udd25 Sharp steam detected"
       ],
       "injury_notes": "Duncan Robinson (F); Kevin Huerter (G); Caris LeVert (G)",
       "sharp": {
@@ -112,9 +112,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "Cleveland Cavaliers hold a 61.6% edge.",
+        "trend": "Detroit Pistons hold a 60.7% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line moved -175\u2192-180 (5pts). Pending \u2014 check closer to tip-off",
+        "steam": "Line steamed from +150 to -180 (330pt move) \u2014 heavy professional action on Detroit Pistons.",
         "injury_notes": "Duncan Robinson (F); Kevin Huerter (G); Caris LeVert (G)"
       },
       "live": {
@@ -127,6 +127,12 @@
         "spread_alert": null
       },
       "news": [
+        {
+          "title": "Follow live: Pistons in close contest vs. Cavs wit...",
+          "source": "www.espn.com - NBA",
+          "link": "https://www.espn.com/nba/game/_/gameId/401871338/pistons-cavaliers",
+          "published": "Fri, 15 May 2026 19:36:17 EST"
+        },
         {
           "title": "NBA: Refs right in no-call at end of Cavs-Pistons",
           "source": "www.espn.com - NBA",
@@ -153,7 +159,7 @@
       "away_ml_raw": -230,
       "home_prob": 33.1,
       "away_prob": 66.9,
-      "spread": "MIN +6.5",
+      "spread": "MIN +5.5",
       "favorite": "San Antonio Spurs",
       "pick": "San Antonio Spurs",
       "pick_abbr": "SAS",
@@ -164,30 +170,30 @@
       "commence_time": "2026-05-16T01:40:00Z",
       "line_movement": {
         "home": {
-          "direction": "longer",
-          "points_moved": 10,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM +190 \u2190 +180",
-          "old_ml": "+180",
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "No movement",
+          "old_ml": "+190",
           "new_ml": "+190"
         },
         "away": {
-          "direction": "shorter",
-          "points_moved": 12,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -230 \u2190 -218",
-          "old_ml": "-218",
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "No movement",
+          "old_ml": "-230",
           "new_ml": "-230"
         },
         "pick": {
-          "direction": "shorter",
-          "points_moved": 12,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -230 \u2190 -218",
-          "old_ml": "-218",
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "No movement",
+          "old_ml": "-230",
           "new_ml": "-230"
         },
-        "snapshot_time": "May 15, 2026 at 03:13 PM UTC"
+        "snapshot_time": "May 15, 2026 at 10:56 PM UTC"
       },
       "fatigue": {
         "home": {
@@ -214,7 +220,7 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udd25 Sharp steam detected"
+        "\ud83d\udcca 33.8pt probability edge"
       ],
       "injury_notes": "Terrence Shannon Jr. (G)",
       "sharp": {
@@ -253,7 +259,7 @@
       "briefing": {
         "trend": "San Antonio Spurs hold a 66.9% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -218 to -230 (12pt move) \u2014 heavy professional action on San Antonio Spurs.",
+        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "Terrence Shannon Jr. (G)"
       },
       "live": {
@@ -270,7 +276,7 @@
           "title": "Copy of The familiar legends teaching the young Spurs: Why...",
           "source": "www.espn.com - NBA",
           "link": "https://www.espn.com/nba/story/_/id/48770686/spurs-young-team-learns-san-antonio-legends-nba-playoffs",
-          "published": "Fri, 15 May 2026 13:47:06 EST"
+          "published": "Fri, 15 May 2026 19:03:42 EST"
         }
       ]
     }
