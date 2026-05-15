@@ -1,5 +1,5 @@
 {
-  "last_updated": "May 15, 2026 at 03:13 PM UTC",
+  "last_updated": "May 15, 2026 at 10:56 PM UTC",
   "total_games": 2,
   "games": [
     {
@@ -8,47 +8,47 @@
       "away_team": "Detroit Pistons",
       "home_abbr": "CLE",
       "away_abbr": "DET",
-      "home_ml": "-175",
-      "away_ml": "+145",
-      "home_ml_raw": -175,
-      "away_ml_raw": 145,
-      "home_prob": 60.9,
-      "away_prob": 39.1,
-      "spread": "CLE -3.5",
+      "home_ml": "-180",
+      "away_ml": "+150",
+      "home_ml_raw": -180,
+      "away_ml_raw": 150,
+      "home_prob": 61.6,
+      "away_prob": 38.4,
+      "spread": "CLE -4.5",
       "favorite": "Cleveland Cavaliers",
       "pick": "Cleveland Cavaliers",
       "pick_abbr": "CLE",
-      "moneyline": "-175",
-      "win_probability": 60.9,
+      "moneyline": "-180",
+      "win_probability": 61.6,
       "confidence": "MEDIUM",
       "confidence_stars": "\u2605\u2605\u2606",
       "commence_time": "2026-05-15T23:10:00Z",
       "line_movement": {
         "home": {
-          "direction": "none",
-          "points_moved": 0,
+          "direction": "shorter",
+          "points_moved": 5,
           "steam": false,
-          "label": "No movement",
+          "label": "\ud83d\udfe2 -180 \u2190 -175",
           "old_ml": "-175",
-          "new_ml": "-175"
+          "new_ml": "-180"
         },
         "away": {
-          "direction": "none",
-          "points_moved": 0,
+          "direction": "longer",
+          "points_moved": 5,
           "steam": false,
-          "label": "No movement",
+          "label": "\ud83d\udd34 +150 \u2190 +145",
           "old_ml": "+145",
-          "new_ml": "+145"
+          "new_ml": "+150"
         },
         "pick": {
-          "direction": "none",
-          "points_moved": 0,
+          "direction": "shorter",
+          "points_moved": 5,
           "steam": false,
-          "label": "No movement",
+          "label": "\ud83d\udfe2 -180 \u2190 -175",
           "old_ml": "-175",
-          "new_ml": "-175"
+          "new_ml": "-180"
         },
-        "snapshot_time": "May 15, 2026 at 12:53 PM UTC"
+        "snapshot_time": "May 15, 2026 at 03:13 PM UTC"
       },
       "fatigue": {
         "home": {
@@ -75,9 +75,9 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udcca 21.8pt probability edge"
+        "\ud83d\udcca 23.2pt probability edge"
       ],
-      "injury_notes": "No key injuries.",
+      "injury_notes": "Duncan Robinson (F); Kevin Huerter (G); Caris LeVert (G)",
       "sharp": {
         "away_t": null,
         "home_t": null,
@@ -112,10 +112,10 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "Cleveland Cavaliers hold a 60.9% edge.",
+        "trend": "Cleveland Cavaliers hold a 61.6% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
-        "injury_notes": "No key injuries."
+        "steam": "Line moved -175\u2192-180 (5pts). Pending \u2014 check closer to tip-off",
+        "injury_notes": "Duncan Robinson (F); Kevin Huerter (G); Caris LeVert (G)"
       },
       "live": {
         "status": "pre",
@@ -128,22 +128,16 @@
       },
       "news": [
         {
-          "title": "NBA The Run Officially Confirmed For June 2026 Release Date",
-          "source": "Bleeding Cool News",
-          "link": "https://bleedingcool.com/games/nba-the-run-officially-confirmed-for-june-2026-release-date/",
-          "published": "2026-05-14T15:11:42Z"
+          "title": "NBA: Refs right in no-call at end of Cavs-Pistons",
+          "source": "www.espn.com - NBA",
+          "link": "https://www.espn.com/nba/story/_/id/48772434/nba-officials-no-call-cavs-pistons-game-5-was-correct",
+          "published": "Fri, 15 May 2026 18:42:21 EST"
         },
         {
-          "title": "CONFIRMED: 3 NEW Stores Are Coming To Disney Springs",
-          "source": "allears.net",
-          "link": "https://allears.net/2026/05/14/confirmed-3-new-stores-are-coming-to-disney-springs/",
-          "published": "2026-05-14T15:10:07Z"
-        },
-        {
-          "title": "Patrick Beverley delivers highly controversial Victor Wembanyama elbow verdict",
-          "source": "HITC - Football, Gaming, Movies, TV, Music",
-          "link": "https://www.hitc.com/patrick-beverley-delivers-highly-controversial-victor-wembanyama-elbow-verdict/",
-          "published": "2026-05-14T15:09:28Z"
+          "title": "NBA Futures: Pistons now 60-1 long shots after Gam...",
+          "source": "www.espn.com - NBA",
+          "link": "https://www.espn.com/espn/betting/story/_/id/45539787/2026-nba-finals-odds-mvp-2025-26-championship-betting",
+          "published": "Fri, 15 May 2026 12:56:03 EST"
         }
       ]
     },
@@ -153,47 +147,47 @@
       "away_team": "San Antonio Spurs",
       "home_abbr": "MIN",
       "away_abbr": "SAS",
-      "home_ml": "+180",
-      "away_ml": "-218",
-      "home_ml_raw": 180,
-      "away_ml_raw": -218,
-      "home_prob": 34.3,
-      "away_prob": 65.7,
-      "spread": "MIN +5.5",
+      "home_ml": "+190",
+      "away_ml": "-230",
+      "home_ml_raw": 190,
+      "away_ml_raw": -230,
+      "home_prob": 33.1,
+      "away_prob": 66.9,
+      "spread": "MIN +6.5",
       "favorite": "San Antonio Spurs",
       "pick": "San Antonio Spurs",
       "pick_abbr": "SAS",
-      "moneyline": "-218",
-      "win_probability": 65.7,
+      "moneyline": "-230",
+      "win_probability": 66.9,
       "confidence": "MEDIUM",
       "confidence_stars": "\u2605\u2605\u2606",
       "commence_time": "2026-05-16T01:40:00Z",
       "line_movement": {
         "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "longer",
+          "points_moved": 10,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM +190 \u2190 +180",
           "old_ml": "+180",
-          "new_ml": "+180"
+          "new_ml": "+190"
         },
         "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "shorter",
+          "points_moved": 12,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -230 \u2190 -218",
           "old_ml": "-218",
-          "new_ml": "-218"
+          "new_ml": "-230"
         },
         "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "shorter",
+          "points_moved": 12,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -230 \u2190 -218",
           "old_ml": "-218",
-          "new_ml": "-218"
+          "new_ml": "-230"
         },
-        "snapshot_time": "May 15, 2026 at 12:53 PM UTC"
+        "snapshot_time": "May 15, 2026 at 03:13 PM UTC"
       },
       "fatigue": {
         "home": {
@@ -220,9 +214,9 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udcca 31.4pt probability edge"
+        "\ud83d\udd25 Sharp steam detected"
       ],
-      "injury_notes": "No key injuries.",
+      "injury_notes": "Terrence Shannon Jr. (G)",
       "sharp": {
         "away_t": null,
         "home_t": null,
@@ -257,10 +251,10 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "San Antonio Spurs hold a 65.7% edge.",
+        "trend": "San Antonio Spurs hold a 66.9% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
-        "injury_notes": "No key injuries."
+        "steam": "Line steamed from -218 to -230 (12pt move) \u2014 heavy professional action on San Antonio Spurs.",
+        "injury_notes": "Terrence Shannon Jr. (G)"
       },
       "live": {
         "status": "pre",
@@ -273,22 +267,10 @@
       },
       "news": [
         {
-          "title": "NBA The Run Officially Confirmed For June 2026 Release Date",
-          "source": "Bleeding Cool News",
-          "link": "https://bleedingcool.com/games/nba-the-run-officially-confirmed-for-june-2026-release-date/",
-          "published": "2026-05-14T15:11:42Z"
-        },
-        {
-          "title": "CONFIRMED: 3 NEW Stores Are Coming To Disney Springs",
-          "source": "allears.net",
-          "link": "https://allears.net/2026/05/14/confirmed-3-new-stores-are-coming-to-disney-springs/",
-          "published": "2026-05-14T15:10:07Z"
-        },
-        {
-          "title": "Patrick Beverley delivers highly controversial Victor Wembanyama elbow verdict",
-          "source": "HITC - Football, Gaming, Movies, TV, Music",
-          "link": "https://www.hitc.com/patrick-beverley-delivers-highly-controversial-victor-wembanyama-elbow-verdict/",
-          "published": "2026-05-14T15:09:28Z"
+          "title": "Copy of The familiar legends teaching the young Spurs: Why...",
+          "source": "www.espn.com - NBA",
+          "link": "https://www.espn.com/nba/story/_/id/48770686/spurs-young-team-learns-san-antonio-legends-nba-playoffs",
+          "published": "Fri, 15 May 2026 13:47:06 EST"
         }
       ]
     }
