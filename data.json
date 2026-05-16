@@ -1,228 +1,84 @@
 {
-  "last_updated": "May 15, 2026 at 11:55 PM UTC",
+  "last_updated": "May 16, 2026 at 03:35 AM UTC",
   "total_games": 2,
   "games": [
-    {
-      "game": "Detroit Pistons @ Cleveland Cavaliers",
-      "home_team": "Cleveland Cavaliers",
-      "away_team": "Detroit Pistons",
-      "home_abbr": "CLE",
-      "away_abbr": "DET",
-      "home_ml": "+140",
-      "away_ml": "-180",
-      "home_ml_raw": 140,
-      "away_ml_raw": -180,
-      "home_prob": 39.3,
-      "away_prob": 60.7,
-      "spread": "CLE +3.5",
-      "favorite": "Detroit Pistons",
-      "pick": "Detroit Pistons",
-      "pick_abbr": "DET",
-      "moneyline": "-180",
-      "win_probability": 60.7,
-      "confidence": "MEDIUM",
-      "confidence_stars": "\u2605\u2605\u2606",
-      "commence_time": "2026-05-15T23:12:00Z",
-      "line_movement": {
-        "home": {
-          "direction": "longer",
-          "points_moved": 320,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM +140 \u2190 -180",
-          "old_ml": "-180",
-          "new_ml": "+140"
-        },
-        "away": {
-          "direction": "shorter",
-          "points_moved": 330,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -180 \u2190 +150",
-          "old_ml": "+150",
-          "new_ml": "-180"
-        },
-        "pick": {
-          "direction": "shorter",
-          "points_moved": 330,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -180 \u2190 +150",
-          "old_ml": "+150",
-          "new_ml": "-180"
-        },
-        "snapshot_time": "May 15, 2026 at 10:56 PM UTC"
-      },
-      "fatigue": {
-        "home": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "May 13",
-          "days_rest": 2,
-          "games_last_4d": 2,
-          "travel_miles": 91,
-          "travel_desc": "91 mi road trip",
-          "source": "ESPN Scoreboard API"
-        },
-        "away": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "May 13",
-          "days_rest": 2,
-          "games_last_4d": 2,
-          "travel_miles": 91,
-          "travel_desc": "91 mi road trip",
-          "source": "ESPN Scoreboard API"
-        }
-      },
-      "edge_factors": [
-        "\ud83d\udd25 Sharp steam detected"
-      ],
-      "injury_notes": "Duncan Robinson (F); Kevin Huerter (G); Caris LeVert (G)",
-      "sharp": {
-        "away_t": null,
-        "home_t": null,
-        "source": null,
-        "sharp_signal": null,
-        "sharp_label": "Pending \u2014 check closer to tip-off",
-        "rlm": false
-      },
-      "form": {
-        "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        },
-        "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        }
-      },
-      "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
-      },
-      "briefing": {
-        "trend": "Detroit Pistons hold a 60.7% edge.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from +150 to -180 (330pt move) \u2014 heavy professional action on Detroit Pistons.",
-        "injury_notes": "Duncan Robinson (F); Kevin Huerter (G); Caris LeVert (G)"
-      },
-      "live": {
-        "status": "pre",
-        "status_detail": "Upcoming",
-        "period": 0,
-        "clock": "",
-        "home_score": 0,
-        "away_score": 0,
-        "spread_alert": null
-      },
-      "news": [
-        {
-          "title": "Follow live: Pistons in close contest vs. Cavs wit...",
-          "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/nba/game/_/gameId/401871338/pistons-cavaliers",
-          "published": "Fri, 15 May 2026 19:36:17 EST"
-        },
-        {
-          "title": "NBA: Refs right in no-call at end of Cavs-Pistons",
-          "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/nba/story/_/id/48772434/nba-officials-no-call-cavs-pistons-game-5-was-correct",
-          "published": "Fri, 15 May 2026 18:42:21 EST"
-        },
-        {
-          "title": "NBA Futures: Pistons now 60-1 long shots after Gam...",
-          "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/espn/betting/story/_/id/45539787/2026-nba-finals-odds-mvp-2025-26-championship-betting",
-          "published": "Fri, 15 May 2026 12:56:03 EST"
-        }
-      ]
-    },
     {
       "game": "San Antonio Spurs @ Minnesota Timberwolves",
       "home_team": "Minnesota Timberwolves",
       "away_team": "San Antonio Spurs",
       "home_abbr": "MIN",
       "away_abbr": "SAS",
-      "home_ml": "+190",
-      "away_ml": "-230",
-      "home_ml_raw": 190,
-      "away_ml_raw": -230,
-      "home_prob": 33.1,
-      "away_prob": 66.9,
-      "spread": "MIN +5.5",
+      "home_ml": "+3000",
+      "away_ml": "-20000",
+      "home_ml_raw": 3000,
+      "away_ml_raw": -20000,
+      "home_prob": 3.1,
+      "away_prob": 96.9,
+      "spread": "MIN +19.5",
       "favorite": "San Antonio Spurs",
       "pick": "San Antonio Spurs",
       "pick_abbr": "SAS",
-      "moneyline": "-230",
-      "win_probability": 66.9,
-      "confidence": "MEDIUM",
-      "confidence_stars": "\u2605\u2605\u2606",
-      "commence_time": "2026-05-16T01:40:00Z",
+      "moneyline": "-20000",
+      "win_probability": 96.9,
+      "confidence": "HIGH",
+      "confidence_stars": "\u2605\u2605\u2605",
+      "commence_time": "2026-05-16T01:49:00Z",
       "line_movement": {
         "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "longer",
+          "points_moved": 2810,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM +3000 \u2190 +190",
           "old_ml": "+190",
-          "new_ml": "+190"
+          "new_ml": "+3000"
         },
         "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "shorter",
+          "points_moved": 19770,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -20000 \u2190 -230",
           "old_ml": "-230",
-          "new_ml": "-230"
+          "new_ml": "-20000"
         },
         "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "shorter",
+          "points_moved": 19770,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -20000 \u2190 -230",
           "old_ml": "-230",
-          "new_ml": "-230"
+          "new_ml": "-20000"
         },
-        "snapshot_time": "May 15, 2026 at 10:56 PM UTC"
+        "snapshot_time": "May 15, 2026 at 11:55 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "RESTED",
-          "label": "2 days rest \u2705",
-          "battery": 88,
-          "last_game": "May 12",
-          "days_rest": 3,
-          "games_last_4d": 1,
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "May 15",
+          "days_rest": 1,
+          "games_last_4d": 2,
           "travel_miles": 1111,
           "travel_desc": "1,111 mi road trip",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "RESTED",
-          "label": "2 days rest \u2705",
-          "battery": 88,
-          "last_game": "May 12",
-          "days_rest": 3,
-          "games_last_4d": 1,
-          "travel_miles": 0,
-          "travel_desc": "",
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "May 15",
+          "days_rest": 1,
+          "games_last_4d": 2,
+          "travel_miles": 1111,
+          "travel_desc": "1,111 mi road trip",
           "source": "ESPN Scoreboard API"
         }
       },
       "edge_factors": [
-        "\ud83d\udcca 33.8pt probability edge"
+        "\ud83d\udd25 Sharp steam detected",
+        "\ud83d\udca4 MIN fatigued (B2B) \u2014 source: ESPN"
       ],
-      "injury_notes": "Terrence Shannon Jr. (G)",
+      "injury_notes": "No key injuries.",
       "sharp": {
         "away_t": null,
         "home_t": null,
@@ -257,10 +113,10 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "San Antonio Spurs hold a 66.9% edge.",
+        "trend": "MIN on Back-to-Back \u26a0\ufe0f per ESPN schedule data. SAS on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
-        "injury_notes": "Terrence Shannon Jr. (G)"
+        "steam": "Line steamed from -230 to -20000 (19770pt move) \u2014 heavy professional action on San Antonio Spurs.",
+        "injury_notes": "No key injuries."
       },
       "live": {
         "status": "pre",
@@ -273,10 +129,167 @@
       },
       "news": [
         {
-          "title": "Copy of The familiar legends teaching the young Spurs: Why...",
-          "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/nba/story/_/id/48770686/spurs-young-team-learns-san-antonio-legends-nba-playoffs",
-          "published": "Fri, 15 May 2026 19:03:42 EST"
+          "title": "WATCH: How a new drug could lengthen lives of pancreatic cancer patients",
+          "source": "Abcnews.com",
+          "link": "https://abcnews.com/video/132985052/",
+          "published": "2026-05-15T03:32:05Z"
+        },
+        {
+          "title": "Lakers rumor involving Mavericks is great news for Luka Doncic",
+          "source": "Sporting News",
+          "link": "https://www.sportingnews.com/us/nba/los-angeles-lakers/news/lakers-trade-rumor-involving-mavericks-great-news-luka-doncic/6a772285f2b330e1dc392ed9",
+          "published": "2026-05-15T03:22:59Z"
+        },
+        {
+          "title": "Warriors cut ties with 68-year-old NBA champion coach after missing playoffs",
+          "source": "Sporting News",
+          "link": "https://www.sportingnews.com/us/nba/golden-state-warriors/news/warriors-cut-ties-68-year-old-nba-champion-coach-after-missing-playoffs/b7d1408b3affd99ce4a4c4a4",
+          "published": "2026-05-15T02:50:35Z"
+        }
+      ]
+    },
+    {
+      "game": "Cleveland Cavaliers @ Detroit Pistons",
+      "home_team": "Detroit Pistons",
+      "away_team": "Cleveland Cavaliers",
+      "home_abbr": "DET",
+      "away_abbr": "CLE",
+      "home_ml": "-185",
+      "away_ml": "+154",
+      "home_ml_raw": -185,
+      "away_ml_raw": 154,
+      "home_prob": 62.2,
+      "away_prob": 37.8,
+      "spread": "DET -4.5",
+      "favorite": "Detroit Pistons",
+      "pick": "Detroit Pistons",
+      "pick_abbr": "DET",
+      "moneyline": "-185",
+      "win_probability": 62.2,
+      "confidence": "MEDIUM",
+      "confidence_stars": "\u2605\u2605\u2606",
+      "commence_time": "2026-05-17T22:10:00Z",
+      "line_movement": {
+        "home": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "away": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "pick": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "snapshot_time": "\u2014"
+      },
+      "fatigue": {
+        "home": {
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "May 15",
+          "days_rest": 1,
+          "games_last_4d": 2,
+          "travel_miles": 91,
+          "travel_desc": "91 mi road trip",
+          "source": "ESPN Scoreboard API"
+        },
+        "away": {
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "May 15",
+          "days_rest": 1,
+          "games_last_4d": 2,
+          "travel_miles": 91,
+          "travel_desc": "91 mi road trip",
+          "source": "ESPN Scoreboard API"
+        }
+      },
+      "edge_factors": [
+        "\ud83d\udca4 CLE fatigued (B2B) \u2014 source: ESPN"
+      ],
+      "injury_notes": "No key injuries.",
+      "sharp": {
+        "away_t": null,
+        "home_t": null,
+        "source": null,
+        "sharp_signal": null,
+        "sharp_label": "Pending \u2014 check closer to tip-off",
+        "rlm": false
+      },
+      "form": {
+        "home": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        },
+        "away": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        }
+      },
+      "h2h": {
+        "total_meetings": 0,
+        "home_wins": 0,
+        "away_wins": 0,
+        "meetings": [],
+        "source": "\u2014"
+      },
+      "briefing": {
+        "trend": "DET on Back-to-Back \u26a0\ufe0f per ESPN schedule data. CLE on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "matchup": "Both rosters appear healthy \u2014 clean line.",
+        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "injury_notes": "No key injuries."
+      },
+      "live": {
+        "status": "pre",
+        "status_detail": "Upcoming",
+        "period": 0,
+        "clock": "",
+        "home_score": 0,
+        "away_score": 0,
+        "spread_alert": null
+      },
+      "news": [
+        {
+          "title": "WATCH: How a new drug could lengthen lives of pancreatic cancer patients",
+          "source": "Abcnews.com",
+          "link": "https://abcnews.com/video/132985052/",
+          "published": "2026-05-15T03:32:05Z"
+        },
+        {
+          "title": "Lakers rumor involving Mavericks is great news for Luka Doncic",
+          "source": "Sporting News",
+          "link": "https://www.sportingnews.com/us/nba/los-angeles-lakers/news/lakers-trade-rumor-involving-mavericks-great-news-luka-doncic/6a772285f2b330e1dc392ed9",
+          "published": "2026-05-15T03:22:59Z"
+        },
+        {
+          "title": "Warriors cut ties with 68-year-old NBA champion coach after missing playoffs",
+          "source": "Sporting News",
+          "link": "https://www.sportingnews.com/us/nba/golden-state-warriors/news/warriors-cut-ties-68-year-old-nba-champion-coach-after-missing-playoffs/b7d1408b3affd99ce4a4c4a4",
+          "published": "2026-05-15T02:50:35Z"
         }
       ]
     }
