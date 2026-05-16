@@ -1,200 +1,54 @@
 {
-  "last_updated": "May 16, 2026 at 03:35 AM UTC",
+  "last_updated": "May 16, 2026 at 06:13 AM UTC",
   "total_games": 2,
   "games": [
-    {
-      "game": "San Antonio Spurs @ Minnesota Timberwolves",
-      "home_team": "Minnesota Timberwolves",
-      "away_team": "San Antonio Spurs",
-      "home_abbr": "MIN",
-      "away_abbr": "SAS",
-      "home_ml": "+3000",
-      "away_ml": "-20000",
-      "home_ml_raw": 3000,
-      "away_ml_raw": -20000,
-      "home_prob": 3.1,
-      "away_prob": 96.9,
-      "spread": "MIN +19.5",
-      "favorite": "San Antonio Spurs",
-      "pick": "San Antonio Spurs",
-      "pick_abbr": "SAS",
-      "moneyline": "-20000",
-      "win_probability": 96.9,
-      "confidence": "HIGH",
-      "confidence_stars": "\u2605\u2605\u2605",
-      "commence_time": "2026-05-16T01:49:00Z",
-      "line_movement": {
-        "home": {
-          "direction": "longer",
-          "points_moved": 2810,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM +3000 \u2190 +190",
-          "old_ml": "+190",
-          "new_ml": "+3000"
-        },
-        "away": {
-          "direction": "shorter",
-          "points_moved": 19770,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -20000 \u2190 -230",
-          "old_ml": "-230",
-          "new_ml": "-20000"
-        },
-        "pick": {
-          "direction": "shorter",
-          "points_moved": 19770,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -20000 \u2190 -230",
-          "old_ml": "-230",
-          "new_ml": "-20000"
-        },
-        "snapshot_time": "May 15, 2026 at 11:55 PM UTC"
-      },
-      "fatigue": {
-        "home": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
-          "last_game": "May 15",
-          "days_rest": 1,
-          "games_last_4d": 2,
-          "travel_miles": 1111,
-          "travel_desc": "1,111 mi road trip",
-          "source": "ESPN Scoreboard API"
-        },
-        "away": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
-          "last_game": "May 15",
-          "days_rest": 1,
-          "games_last_4d": 2,
-          "travel_miles": 1111,
-          "travel_desc": "1,111 mi road trip",
-          "source": "ESPN Scoreboard API"
-        }
-      },
-      "edge_factors": [
-        "\ud83d\udd25 Sharp steam detected",
-        "\ud83d\udca4 MIN fatigued (B2B) \u2014 source: ESPN"
-      ],
-      "injury_notes": "No key injuries.",
-      "sharp": {
-        "away_t": null,
-        "home_t": null,
-        "source": null,
-        "sharp_signal": null,
-        "sharp_label": "Pending \u2014 check closer to tip-off",
-        "rlm": false
-      },
-      "form": {
-        "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        },
-        "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        }
-      },
-      "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
-      },
-      "briefing": {
-        "trend": "MIN on Back-to-Back \u26a0\ufe0f per ESPN schedule data. SAS on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -230 to -20000 (19770pt move) \u2014 heavy professional action on San Antonio Spurs.",
-        "injury_notes": "No key injuries."
-      },
-      "live": {
-        "status": "pre",
-        "status_detail": "Upcoming",
-        "period": 0,
-        "clock": "",
-        "home_score": 0,
-        "away_score": 0,
-        "spread_alert": null
-      },
-      "news": [
-        {
-          "title": "WATCH: How a new drug could lengthen lives of pancreatic cancer patients",
-          "source": "Abcnews.com",
-          "link": "https://abcnews.com/video/132985052/",
-          "published": "2026-05-15T03:32:05Z"
-        },
-        {
-          "title": "Lakers rumor involving Mavericks is great news for Luka Doncic",
-          "source": "Sporting News",
-          "link": "https://www.sportingnews.com/us/nba/los-angeles-lakers/news/lakers-trade-rumor-involving-mavericks-great-news-luka-doncic/6a772285f2b330e1dc392ed9",
-          "published": "2026-05-15T03:22:59Z"
-        },
-        {
-          "title": "Warriors cut ties with 68-year-old NBA champion coach after missing playoffs",
-          "source": "Sporting News",
-          "link": "https://www.sportingnews.com/us/nba/golden-state-warriors/news/warriors-cut-ties-68-year-old-nba-champion-coach-after-missing-playoffs/b7d1408b3affd99ce4a4c4a4",
-          "published": "2026-05-15T02:50:35Z"
-        }
-      ]
-    },
     {
       "game": "Cleveland Cavaliers @ Detroit Pistons",
       "home_team": "Detroit Pistons",
       "away_team": "Cleveland Cavaliers",
       "home_abbr": "DET",
       "away_abbr": "CLE",
-      "home_ml": "-185",
-      "away_ml": "+154",
-      "home_ml_raw": -185,
-      "away_ml_raw": 154,
-      "home_prob": 62.2,
-      "away_prob": 37.8,
+      "home_ml": "-180",
+      "away_ml": "+150",
+      "home_ml_raw": -180,
+      "away_ml_raw": 150,
+      "home_prob": 61.6,
+      "away_prob": 38.4,
       "spread": "DET -4.5",
       "favorite": "Detroit Pistons",
       "pick": "Detroit Pistons",
       "pick_abbr": "DET",
-      "moneyline": "-185",
-      "win_probability": 62.2,
+      "moneyline": "-180",
+      "win_probability": 61.6,
       "confidence": "MEDIUM",
       "confidence_stars": "\u2605\u2605\u2606",
-      "commence_time": "2026-05-17T22:10:00Z",
+      "commence_time": "2026-05-18T00:10:00Z",
       "line_movement": {
         "home": {
-          "direction": "none",
-          "points_moved": 0,
+          "direction": "longer",
+          "points_moved": 5,
           "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "label": "\ud83d\udd34 -180 \u2190 -185",
+          "old_ml": "-185",
+          "new_ml": "-180"
         },
         "away": {
-          "direction": "none",
-          "points_moved": 0,
+          "direction": "shorter",
+          "points_moved": 4,
           "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "label": "\ud83d\udfe2 +150 \u2190 +154",
+          "old_ml": "+154",
+          "new_ml": "+150"
         },
         "pick": {
-          "direction": "none",
-          "points_moved": 0,
+          "direction": "longer",
+          "points_moved": 5,
           "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "label": "\ud83d\udd34 -180 \u2190 -185",
+          "old_ml": "-185",
+          "new_ml": "-180"
         },
-        "snapshot_time": "\u2014"
+        "snapshot_time": "May 16, 2026 at 03:35 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -260,6 +114,151 @@
       "briefing": {
         "trend": "DET on Back-to-Back \u26a0\ufe0f per ESPN schedule data. CLE on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
+        "steam": "Line moved -185\u2192-180 (5pts). Pending \u2014 check closer to tip-off",
+        "injury_notes": "No key injuries."
+      },
+      "live": {
+        "status": "pre",
+        "status_detail": "Upcoming",
+        "period": 0,
+        "clock": "",
+        "home_score": 0,
+        "away_score": 0,
+        "spread_alert": null
+      },
+      "news": [
+        {
+          "title": "US-born teen Buddhist lama balances monastic life and pop culture in Himalayan foothills",
+          "source": "The Times of India",
+          "link": "https://economictimes.indiatimes.com/news/international/world-news/us-born-teen-buddhist-lama-balances-monastic-life-and-pop-culture-in-himalayan-foothills/articleshow/131109552.cms",
+          "published": "2026-05-15T06:02:32Z"
+        },
+        {
+          "title": "3 things to watch in Pistons-Cavaliers Game 6 - NBA",
+          "source": "Slashdot.org",
+          "link": "https://slashdot.org/firehose.pl?op=view&amp;id=183220243",
+          "published": "2026-05-15T05:32:30Z"
+        },
+        {
+          "title": "Isaiah Thomas Reunites With Celtics After Bitter Exit, Takes on New Role Ahead of 2027 Season",
+          "source": "Essentially Sports",
+          "link": "https://www.essentiallysports.com/nba-active-basketball-news-isaiah-thomas-reunites-with-boston-celtics-after-bitter-exit-takes-on-new-role-ahead-of-twenty-twenty-seven-season/",
+          "published": "2026-05-15T05:21:14Z"
+        }
+      ]
+    },
+    {
+      "game": "San Antonio Spurs @ Oklahoma City Thunder",
+      "home_team": "Oklahoma City Thunder",
+      "away_team": "San Antonio Spurs",
+      "home_abbr": "OKC",
+      "away_abbr": "SAS",
+      "home_ml": "-238",
+      "away_ml": "+195",
+      "home_ml_raw": -238,
+      "away_ml_raw": 195,
+      "home_prob": 67.5,
+      "away_prob": 32.5,
+      "spread": "OKC -6.5",
+      "favorite": "Oklahoma City Thunder",
+      "pick": "Oklahoma City Thunder",
+      "pick_abbr": "OKC",
+      "moneyline": "-238",
+      "win_probability": 67.5,
+      "confidence": "MEDIUM",
+      "confidence_stars": "\u2605\u2605\u2606",
+      "commence_time": "2026-05-19T00:40:00Z",
+      "line_movement": {
+        "home": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "away": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "pick": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "snapshot_time": "\u2014"
+      },
+      "fatigue": {
+        "home": {
+          "status": "FRESH",
+          "label": "Well rested \u2705",
+          "battery": 100,
+          "last_game": "\u2014",
+          "days_rest": 99,
+          "games_last_4d": 0,
+          "travel_miles": 0,
+          "travel_desc": "",
+          "source": "ESPN Scoreboard API"
+        },
+        "away": {
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "May 15",
+          "days_rest": 1,
+          "games_last_4d": 2,
+          "travel_miles": 1111,
+          "travel_desc": "1,111 mi road trip",
+          "source": "ESPN Scoreboard API"
+        }
+      },
+      "edge_factors": [
+        "\ud83d\udca4 SAS fatigued (B2B) \u2014 source: ESPN"
+      ],
+      "injury_notes": "No key injuries.",
+      "sharp": {
+        "away_t": null,
+        "home_t": null,
+        "source": null,
+        "sharp_signal": null,
+        "sharp_label": "Pending \u2014 check closer to tip-off",
+        "rlm": false
+      },
+      "form": {
+        "home": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        },
+        "away": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        }
+      },
+      "h2h": {
+        "total_meetings": 0,
+        "home_wins": 0,
+        "away_wins": 0,
+        "meetings": [],
+        "source": "\u2014"
+      },
+      "briefing": {
+        "trend": "SAS on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "matchup": "Both rosters appear healthy \u2014 clean line.",
         "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
       },
@@ -274,22 +273,22 @@
       },
       "news": [
         {
-          "title": "WATCH: How a new drug could lengthen lives of pancreatic cancer patients",
-          "source": "Abcnews.com",
-          "link": "https://abcnews.com/video/132985052/",
-          "published": "2026-05-15T03:32:05Z"
+          "title": "US-born teen Buddhist lama balances monastic life and pop culture in Himalayan foothills",
+          "source": "The Times of India",
+          "link": "https://economictimes.indiatimes.com/news/international/world-news/us-born-teen-buddhist-lama-balances-monastic-life-and-pop-culture-in-himalayan-foothills/articleshow/131109552.cms",
+          "published": "2026-05-15T06:02:32Z"
         },
         {
-          "title": "Lakers rumor involving Mavericks is great news for Luka Doncic",
-          "source": "Sporting News",
-          "link": "https://www.sportingnews.com/us/nba/los-angeles-lakers/news/lakers-trade-rumor-involving-mavericks-great-news-luka-doncic/6a772285f2b330e1dc392ed9",
-          "published": "2026-05-15T03:22:59Z"
+          "title": "3 things to watch in Pistons-Cavaliers Game 6 - NBA",
+          "source": "Slashdot.org",
+          "link": "https://slashdot.org/firehose.pl?op=view&amp;id=183220243",
+          "published": "2026-05-15T05:32:30Z"
         },
         {
-          "title": "Warriors cut ties with 68-year-old NBA champion coach after missing playoffs",
-          "source": "Sporting News",
-          "link": "https://www.sportingnews.com/us/nba/golden-state-warriors/news/warriors-cut-ties-68-year-old-nba-champion-coach-after-missing-playoffs/b7d1408b3affd99ce4a4c4a4",
-          "published": "2026-05-15T02:50:35Z"
+          "title": "Isaiah Thomas Reunites With Celtics After Bitter Exit, Takes on New Role Ahead of 2027 Season",
+          "source": "Essentially Sports",
+          "link": "https://www.essentiallysports.com/nba-active-basketball-news-isaiah-thomas-reunites-with-boston-celtics-after-bitter-exit-takes-on-new-role-ahead-of-twenty-twenty-seven-season/",
+          "published": "2026-05-15T05:21:14Z"
         }
       ]
     }
