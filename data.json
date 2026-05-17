@@ -1,5 +1,5 @@
 {
-  "last_updated": "May 17, 2026 at 01:50 PM UTC",
+  "last_updated": "May 17, 2026 at 10:55 PM UTC",
   "total_games": 2,
   "games": [
     {
@@ -8,47 +8,47 @@
       "away_team": "Cleveland Cavaliers",
       "home_abbr": "DET",
       "away_abbr": "CLE",
-      "home_ml": "-180",
-      "away_ml": "+150",
-      "home_ml_raw": -180,
-      "away_ml_raw": 150,
-      "home_prob": 61.6,
-      "away_prob": 38.4,
+      "home_ml": "-192",
+      "away_ml": "+160",
+      "home_ml_raw": -192,
+      "away_ml_raw": 160,
+      "home_prob": 63.1,
+      "away_prob": 36.9,
       "spread": "DET -4.5",
       "favorite": "Detroit Pistons",
       "pick": "Detroit Pistons",
       "pick_abbr": "DET",
-      "moneyline": "-180",
-      "win_probability": 61.6,
+      "moneyline": "-192",
+      "win_probability": 63.1,
       "confidence": "MEDIUM",
       "confidence_stars": "\u2605\u2605\u2606",
       "commence_time": "2026-05-18T00:10:00Z",
       "line_movement": {
         "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "shorter",
+          "points_moved": 12,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -192 \u2190 -180",
           "old_ml": "-180",
-          "new_ml": "-180"
+          "new_ml": "-192"
         },
         "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "longer",
+          "points_moved": 10,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM +160 \u2190 +150",
           "old_ml": "+150",
-          "new_ml": "+150"
+          "new_ml": "+160"
         },
         "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "shorter",
+          "points_moved": 12,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -192 \u2190 -180",
           "old_ml": "-180",
-          "new_ml": "-180"
+          "new_ml": "-192"
         },
-        "snapshot_time": "May 17, 2026 at 11:59 AM UTC"
+        "snapshot_time": "May 17, 2026 at 01:50 PM UTC"
       },
       "fatigue": {
         "home": {
@@ -75,7 +75,7 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udcca 23.2pt probability edge"
+        "\ud83d\udd25 Sharp steam detected"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -88,196 +88,33 @@
       },
       "form": {
         "home": {
-          "last_10": [
-            {
-              "date": "May 17",
-              "result": "W",
-              "pts": 112,
-              "opp": "CHA",
-              "away": false
-            },
-            {
-              "date": "May 17",
-              "result": "W",
-              "pts": 112,
-              "opp": "BOS",
-              "away": false
-            },
-            {
-              "date": "May 17",
-              "result": "L",
-              "pts": 114,
-              "opp": "DAL",
-              "away": false
-            },
-            {
-              "date": "May 17",
-              "result": "L",
-              "pts": 129,
-              "opp": "UTA",
-              "away": false
-            },
-            {
-              "date": "May 17",
-              "result": "W",
-              "pts": 136,
-              "opp": "SAC",
-              "away": false
-            },
-            {
-              "date": "May 17",
-              "result": "W",
-              "pts": 110,
-              "opp": "POR",
-              "away": false
-            },
-            {
-              "date": "May 17",
-              "result": "W",
-              "pts": 122,
-              "opp": "POR",
-              "away": false
-            },
-            {
-              "date": "May 17",
-              "result": "W",
-              "pts": 124,
-              "opp": "MIL",
-              "away": false
-            },
-            {
-              "date": "May 17",
-              "result": "L",
-              "pts": 109,
-              "opp": "MIL",
-              "away": false
-            },
-            {
-              "date": "May 17",
-              "result": "W",
-              "pts": 142,
-              "opp": "ATL",
-              "away": false
-            }
-          ],
-          "wins": 7,
-          "losses": 3,
-          "streak": "W2",
-          "form_str": "WWLLWWWWLW",
-          "source": "NBA.com via nba_api"
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
         },
         "away": {
-          "last_10": [
-            {
-              "date": "May 17",
-              "result": "L",
-              "pts": 111,
-              "opp": "CHI",
-              "away": false
-            },
-            {
-              "date": "May 17",
-              "result": "L",
-              "pts": 125,
-              "opp": "CHI",
-              "away": false
-            },
-            {
-              "date": "May 17",
-              "result": "L",
-              "pts": 124,
-              "opp": "NYK",
-              "away": false
-            },
-            {
-              "date": "May 17",
-              "result": "W",
-              "pts": 141,
-              "opp": "NOP",
-              "away": false
-            },
-            {
-              "date": "May 17",
-              "result": "W",
-              "pts": 139,
-              "opp": "CHA",
-              "away": false
-            },
-            {
-              "date": "May 17",
-              "result": "W",
-              "pts": 130,
-              "opp": "SAS",
-              "away": false
-            },
-            {
-              "date": "May 17",
-              "result": "L",
-              "pts": 94,
-              "opp": "GSW",
-              "away": false
-            },
-            {
-              "date": "May 17",
-              "result": "L",
-              "pts": 110,
-              "opp": "POR",
-              "away": false
-            },
-            {
-              "date": "May 17",
-              "result": "W",
-              "pts": 130,
-              "opp": "WAS",
-              "away": false
-            },
-            {
-              "date": "May 17",
-              "result": "L",
-              "pts": 111,
-              "opp": "CHA",
-              "away": false
-            }
-          ],
-          "wins": 4,
-          "losses": 6,
-          "streak": "L3",
-          "form_str": "LLLWWWLLWL",
-          "source": "NBA.com via nba_api"
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
         }
       },
       "h2h": {
-        "total_meetings": 4,
-        "home_wins": 2,
-        "away_wins": 2,
-        "meetings": [
-          {
-            "date": "2026-01-04",
-            "home_result": "W",
-            "pts": 114
-          },
-          {
-            "date": "2025-10-27",
-            "home_result": "L",
-            "pts": 95
-          },
-          {
-            "date": "2026-03-03",
-            "home_result": "L",
-            "pts": 109
-          },
-          {
-            "date": "2026-02-27",
-            "home_result": "W",
-            "pts": 122
-          }
-        ],
-        "source": "NBA.com via nba_api"
+        "total_meetings": 0,
+        "home_wins": 0,
+        "away_wins": 0,
+        "meetings": [],
+        "source": "\u2014"
       },
       "briefing": {
-        "trend": "DET are 7-3 in their last 10 (streak: W2). CLE are 4-6 in their last 10 (streak: L3).",
-        "matchup": "Season series: DET 2-2 vs CLE in 4 meetings. Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "trend": "Detroit Pistons hold a 63.1% edge.",
+        "matchup": "Both rosters appear healthy \u2014 clean line.",
+        "steam": "Line steamed from -180 to -192 (12pt move) \u2014 heavy professional action on Detroit Pistons.",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -291,22 +128,22 @@
       },
       "news": [
         {
-          "title": "FCS Throwbacks: Flanders Runs Wild in Albuquerque, Lifts Sam Houston to Upset over New Mexico",
-          "source": "Underdogdynasty.com",
-          "link": "https://www.underdogdynasty.com/fcs-football/43315/fcs-throwbacks-flanders-runs-wild-in-albuquerque-lifts-sam-houston-to-upset-over-new-mexico",
-          "published": "2026-05-16T13:44:30Z"
+          "title": "One area of improvement for each member of the Celtics this offseason",
+          "source": "Celtics Blog",
+          "link": "https://www.celticsblog.com/celtics-analysis/140663/one-area-of-improvement-for-each-member-of-the-celtics-this-offseason",
+          "published": "2026-05-16T22:20:00Z"
         },
         {
-          "title": "Rudy Gobert drops Timberwolves' mindsets after NBA Playoffs elimination by Spurs",
-          "source": "Sporting News",
-          "link": "https://www.sportingnews.com/us/nba/minnesota-timberwolves/news/rudy-gobert-drops-timberwolves-mindsets-after-nba-playoffs-elimination-spurs/06ba8b58c52ba69316b28a5b",
-          "published": "2026-05-16T13:31:18Z"
+          "title": "Spurs vs. Timberwolves player grades: Stephon Castle shines in series clencher",
+          "source": "Pounding The Rock ",
+          "link": "https://www.poundingtherock.com/spurs-analysis/102101/spurs-vs-timberwolves-player-grades-stephon-castle-shines-in-series-clencher",
+          "published": "2026-05-16T22:18:10Z"
         },
         {
-          "title": "Wembanyama, SGA headline ,must-see Western Conference Finals matchup",
+          "title": "Thunder vs. Spurs schedule: Dates, times, TV channels, scores for NBA Western Conference Finals series",
           "source": "Sporting News",
-          "link": "https://www.sportingnews.com/us/nba/san-antonio-spurs/news/wembanyama-sga-headline-must-see-western-conference-finals/a8ceba147be83e4cb370e36b",
-          "published": "2026-05-16T13:31:03Z"
+          "link": "https://www.sportingnews.com/us/nba/news/thunder-spurs-schedule-times-channels-scores-nba/aa55a081b2179e64cb2dca14",
+          "published": "2026-05-16T21:42:16Z"
         }
       ]
     },
@@ -356,7 +193,7 @@
           "old_ml": "-265",
           "new_ml": "-265"
         },
-        "snapshot_time": "May 17, 2026 at 11:59 AM UTC"
+        "snapshot_time": "May 17, 2026 at 01:50 PM UTC"
       },
       "fatigue": {
         "home": {
@@ -396,195 +233,32 @@
       },
       "form": {
         "home": {
-          "last_10": [
-            {
-              "date": "May 17",
-              "result": "L",
-              "pts": 107,
-              "opp": "MIN",
-              "away": false
-            },
-            {
-              "date": "May 17",
-              "result": "W",
-              "pts": 122,
-              "opp": "LAC",
-              "away": false
-            },
-            {
-              "date": "May 17",
-              "result": "L",
-              "pts": 102,
-              "opp": "SAS",
-              "away": false
-            },
-            {
-              "date": "May 17",
-              "result": "W",
-              "pts": 119,
-              "opp": "MEM",
-              "away": false
-            },
-            {
-              "date": "May 17",
-              "result": "L",
-              "pts": 110,
-              "opp": "SAS",
-              "away": false
-            },
-            {
-              "date": "May 17",
-              "result": "W",
-              "pts": 132,
-              "opp": "DAL",
-              "away": false
-            },
-            {
-              "date": "May 17",
-              "result": "W",
-              "pts": 124,
-              "opp": "GSW",
-              "away": false
-            },
-            {
-              "date": "May 17",
-              "result": "L",
-              "pts": 109,
-              "opp": "OKC",
-              "away": true
-            },
-            {
-              "date": "May 17",
-              "result": "W",
-              "pts": 131,
-              "opp": "UTA",
-              "away": false
-            },
-            {
-              "date": "May 17",
-              "result": "W",
-              "pts": 138,
-              "opp": "PHX",
-              "away": false
-            }
-          ],
-          "wins": 6,
-          "losses": 4,
-          "streak": "L1",
-          "form_str": "LWLWLWWLWW",
-          "source": "NBA.com via nba_api"
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
         },
         "away": {
-          "last_10": [
-            {
-              "date": "May 17",
-              "result": "W",
-              "pts": 124,
-              "opp": "WAS",
-              "away": false
-            },
-            {
-              "date": "May 17",
-              "result": "W",
-              "pts": 126,
-              "opp": "ATL",
-              "away": false
-            },
-            {
-              "date": "May 17",
-              "result": "W",
-              "pts": 119,
-              "opp": "WAS",
-              "away": false
-            },
-            {
-              "date": "May 17",
-              "result": "W",
-              "pts": 117,
-              "opp": "OKC",
-              "away": false
-            },
-            {
-              "date": "May 17",
-              "result": "W",
-              "pts": 130,
-              "opp": "OKC",
-              "away": false
-            },
-            {
-              "date": "May 17",
-              "result": "L",
-              "pts": 114,
-              "opp": "UTA",
-              "away": false
-            },
-            {
-              "date": "May 17",
-              "result": "L",
-              "pts": 117,
-              "opp": "CLE",
-              "away": false
-            },
-            {
-              "date": "May 17",
-              "result": "W",
-              "pts": 126,
-              "opp": "MEM",
-              "away": false
-            },
-            {
-              "date": "May 17",
-              "result": "W",
-              "pts": 114,
-              "opp": "ORL",
-              "away": false
-            },
-            {
-              "date": "May 17",
-              "result": "W",
-              "pts": 111,
-              "opp": "OKC",
-              "away": false
-            }
-          ],
-          "wins": 8,
-          "losses": 2,
-          "streak": "W5",
-          "form_str": "WWWWWLLWWW",
-          "source": "NBA.com via nba_api"
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
         }
       },
       "h2h": {
-        "total_meetings": 5,
-        "home_wins": 1,
-        "away_wins": 4,
-        "meetings": [
-          {
-            "date": "2025-12-25",
-            "home_result": "L",
-            "pts": 102
-          },
-          {
-            "date": "2025-12-23",
-            "home_result": "L",
-            "pts": 110
-          },
-          {
-            "date": "2025-12-13",
-            "home_result": "L",
-            "pts": 109
-          },
-          {
-            "date": "2026-01-13",
-            "home_result": "W",
-            "pts": 119
-          }
-        ],
-        "source": "NBA.com via nba_api"
+        "total_meetings": 0,
+        "home_wins": 0,
+        "away_wins": 0,
+        "meetings": [],
+        "source": "\u2014"
       },
       "briefing": {
-        "trend": "OKC are 6-4 in their last 10 (streak: L1). SAS are 8-2 in their last 10 (streak: W5).",
-        "matchup": "Season series: OKC 1-4 vs SAS in 5 meetings. Both rosters appear healthy \u2014 clean line.",
+        "trend": "Oklahoma City Thunder hold a 69.6% edge.",
+        "matchup": "Both rosters appear healthy \u2014 clean line.",
         "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
       },
@@ -599,22 +273,22 @@
       },
       "news": [
         {
-          "title": "FCS Throwbacks: Flanders Runs Wild in Albuquerque, Lifts Sam Houston to Upset over New Mexico",
-          "source": "Underdogdynasty.com",
-          "link": "https://www.underdogdynasty.com/fcs-football/43315/fcs-throwbacks-flanders-runs-wild-in-albuquerque-lifts-sam-houston-to-upset-over-new-mexico",
-          "published": "2026-05-16T13:44:30Z"
+          "title": "One area of improvement for each member of the Celtics this offseason",
+          "source": "Celtics Blog",
+          "link": "https://www.celticsblog.com/celtics-analysis/140663/one-area-of-improvement-for-each-member-of-the-celtics-this-offseason",
+          "published": "2026-05-16T22:20:00Z"
         },
         {
-          "title": "Rudy Gobert drops Timberwolves' mindsets after NBA Playoffs elimination by Spurs",
-          "source": "Sporting News",
-          "link": "https://www.sportingnews.com/us/nba/minnesota-timberwolves/news/rudy-gobert-drops-timberwolves-mindsets-after-nba-playoffs-elimination-spurs/06ba8b58c52ba69316b28a5b",
-          "published": "2026-05-16T13:31:18Z"
+          "title": "Spurs vs. Timberwolves player grades: Stephon Castle shines in series clencher",
+          "source": "Pounding The Rock ",
+          "link": "https://www.poundingtherock.com/spurs-analysis/102101/spurs-vs-timberwolves-player-grades-stephon-castle-shines-in-series-clencher",
+          "published": "2026-05-16T22:18:10Z"
         },
         {
-          "title": "Wembanyama, SGA headline ,must-see Western Conference Finals matchup",
+          "title": "Thunder vs. Spurs schedule: Dates, times, TV channels, scores for NBA Western Conference Finals series",
           "source": "Sporting News",
-          "link": "https://www.sportingnews.com/us/nba/san-antonio-spurs/news/wembanyama-sga-headline-must-see-western-conference-finals/a8ceba147be83e4cb370e36b",
-          "published": "2026-05-16T13:31:03Z"
+          "link": "https://www.sportingnews.com/us/nba/news/thunder-spurs-schedule-times-channels-scores-nba/aa55a081b2179e64cb2dca14",
+          "published": "2026-05-16T21:42:16Z"
         }
       ]
     }
