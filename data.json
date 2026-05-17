@@ -1,5 +1,5 @@
 {
-  "last_updated": "May 17, 2026 at 10:55 PM UTC",
+  "last_updated": "May 17, 2026 at 11:59 PM UTC",
   "total_games": 2,
   "games": [
     {
@@ -25,30 +25,30 @@
       "commence_time": "2026-05-18T00:10:00Z",
       "line_movement": {
         "home": {
-          "direction": "shorter",
-          "points_moved": 12,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -192 \u2190 -180",
-          "old_ml": "-180",
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "No movement",
+          "old_ml": "-192",
           "new_ml": "-192"
         },
         "away": {
-          "direction": "longer",
-          "points_moved": 10,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM +160 \u2190 +150",
-          "old_ml": "+150",
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "No movement",
+          "old_ml": "+160",
           "new_ml": "+160"
         },
         "pick": {
-          "direction": "shorter",
-          "points_moved": 12,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -192 \u2190 -180",
-          "old_ml": "-180",
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "No movement",
+          "old_ml": "-192",
           "new_ml": "-192"
         },
-        "snapshot_time": "May 17, 2026 at 01:50 PM UTC"
+        "snapshot_time": "May 17, 2026 at 10:55 PM UTC"
       },
       "fatigue": {
         "home": {
@@ -75,7 +75,7 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udd25 Sharp steam detected"
+        "\ud83d\udcca 26.2pt probability edge"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -114,7 +114,7 @@
       "briefing": {
         "trend": "Detroit Pistons hold a 63.1% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -180 to -192 (12pt move) \u2014 heavy professional action on Detroit Pistons.",
+        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -128,6 +128,12 @@
       },
       "news": [
         {
+          "title": "Celtics Legend Paul Pierce Shares Thoughts On Potential Jaylen Brown-Giannis Antetokounmpo Trade",
+          "source": "NESN",
+          "link": "https://nesn.com/boston-celtics/news/celtics-legend-paul-pierce-shares-thoughts-potential-jaylen-brown-giannis-antetokounmpo-trade/533661c7529bea8e300d7e37",
+          "published": "2026-05-16T23:03:27Z"
+        },
+        {
           "title": "One area of improvement for each member of the Celtics this offseason",
           "source": "Celtics Blog",
           "link": "https://www.celticsblog.com/celtics-analysis/140663/one-area-of-improvement-for-each-member-of-the-celtics-this-offseason",
@@ -138,12 +144,6 @@
           "source": "Pounding The Rock ",
           "link": "https://www.poundingtherock.com/spurs-analysis/102101/spurs-vs-timberwolves-player-grades-stephon-castle-shines-in-series-clencher",
           "published": "2026-05-16T22:18:10Z"
-        },
-        {
-          "title": "Thunder vs. Spurs schedule: Dates, times, TV channels, scores for NBA Western Conference Finals series",
-          "source": "Sporting News",
-          "link": "https://www.sportingnews.com/us/nba/news/thunder-spurs-schedule-times-channels-scores-nba/aa55a081b2179e64cb2dca14",
-          "published": "2026-05-16T21:42:16Z"
         }
       ]
     },
@@ -193,7 +193,7 @@
           "old_ml": "-265",
           "new_ml": "-265"
         },
-        "snapshot_time": "May 17, 2026 at 01:50 PM UTC"
+        "snapshot_time": "May 17, 2026 at 10:55 PM UTC"
       },
       "fatigue": {
         "home": {
@@ -273,6 +273,12 @@
       },
       "news": [
         {
+          "title": "Celtics Legend Paul Pierce Shares Thoughts On Potential Jaylen Brown-Giannis Antetokounmpo Trade",
+          "source": "NESN",
+          "link": "https://nesn.com/boston-celtics/news/celtics-legend-paul-pierce-shares-thoughts-potential-jaylen-brown-giannis-antetokounmpo-trade/533661c7529bea8e300d7e37",
+          "published": "2026-05-16T23:03:27Z"
+        },
+        {
           "title": "One area of improvement for each member of the Celtics this offseason",
           "source": "Celtics Blog",
           "link": "https://www.celticsblog.com/celtics-analysis/140663/one-area-of-improvement-for-each-member-of-the-celtics-this-offseason",
@@ -283,12 +289,6 @@
           "source": "Pounding The Rock ",
           "link": "https://www.poundingtherock.com/spurs-analysis/102101/spurs-vs-timberwolves-player-grades-stephon-castle-shines-in-series-clencher",
           "published": "2026-05-16T22:18:10Z"
-        },
-        {
-          "title": "Thunder vs. Spurs schedule: Dates, times, TV channels, scores for NBA Western Conference Finals series",
-          "source": "Sporting News",
-          "link": "https://www.sportingnews.com/us/nba/news/thunder-spurs-schedule-times-channels-scores-nba/aa55a081b2179e64cb2dca14",
-          "published": "2026-05-16T21:42:16Z"
         }
       ]
     }
