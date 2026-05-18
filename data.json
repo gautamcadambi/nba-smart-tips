@@ -1,199 +1,54 @@
 {
-  "last_updated": "May 17, 2026 at 11:59 PM UTC",
+  "last_updated": "May 18, 2026 at 04:05 AM UTC",
   "total_games": 2,
   "games": [
-    {
-      "game": "Cleveland Cavaliers @ Detroit Pistons",
-      "home_team": "Detroit Pistons",
-      "away_team": "Cleveland Cavaliers",
-      "home_abbr": "DET",
-      "away_abbr": "CLE",
-      "home_ml": "-192",
-      "away_ml": "+160",
-      "home_ml_raw": -192,
-      "away_ml_raw": 160,
-      "home_prob": 63.1,
-      "away_prob": 36.9,
-      "spread": "DET -4.5",
-      "favorite": "Detroit Pistons",
-      "pick": "Detroit Pistons",
-      "pick_abbr": "DET",
-      "moneyline": "-192",
-      "win_probability": 63.1,
-      "confidence": "MEDIUM",
-      "confidence_stars": "\u2605\u2605\u2606",
-      "commence_time": "2026-05-18T00:10:00Z",
-      "line_movement": {
-        "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
-          "old_ml": "-192",
-          "new_ml": "-192"
-        },
-        "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
-          "old_ml": "+160",
-          "new_ml": "+160"
-        },
-        "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
-          "old_ml": "-192",
-          "new_ml": "-192"
-        },
-        "snapshot_time": "May 17, 2026 at 10:55 PM UTC"
-      },
-      "fatigue": {
-        "home": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "May 15",
-          "days_rest": 2,
-          "games_last_4d": 2,
-          "travel_miles": 91,
-          "travel_desc": "91 mi road trip",
-          "source": "ESPN Scoreboard API"
-        },
-        "away": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "May 15",
-          "days_rest": 2,
-          "games_last_4d": 2,
-          "travel_miles": 91,
-          "travel_desc": "91 mi road trip",
-          "source": "ESPN Scoreboard API"
-        }
-      },
-      "edge_factors": [
-        "\ud83d\udcca 26.2pt probability edge"
-      ],
-      "injury_notes": "No key injuries.",
-      "sharp": {
-        "away_t": null,
-        "home_t": null,
-        "source": null,
-        "sharp_signal": null,
-        "sharp_label": "Pending \u2014 check closer to tip-off",
-        "rlm": false
-      },
-      "form": {
-        "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        },
-        "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        }
-      },
-      "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
-      },
-      "briefing": {
-        "trend": "Detroit Pistons hold a 63.1% edge.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
-        "injury_notes": "No key injuries."
-      },
-      "live": {
-        "status": "pre",
-        "status_detail": "Upcoming",
-        "period": 0,
-        "clock": "",
-        "home_score": 0,
-        "away_score": 0,
-        "spread_alert": null
-      },
-      "news": [
-        {
-          "title": "Celtics Legend Paul Pierce Shares Thoughts On Potential Jaylen Brown-Giannis Antetokounmpo Trade",
-          "source": "NESN",
-          "link": "https://nesn.com/boston-celtics/news/celtics-legend-paul-pierce-shares-thoughts-potential-jaylen-brown-giannis-antetokounmpo-trade/533661c7529bea8e300d7e37",
-          "published": "2026-05-16T23:03:27Z"
-        },
-        {
-          "title": "One area of improvement for each member of the Celtics this offseason",
-          "source": "Celtics Blog",
-          "link": "https://www.celticsblog.com/celtics-analysis/140663/one-area-of-improvement-for-each-member-of-the-celtics-this-offseason",
-          "published": "2026-05-16T22:20:00Z"
-        },
-        {
-          "title": "Spurs vs. Timberwolves player grades: Stephon Castle shines in series clencher",
-          "source": "Pounding The Rock ",
-          "link": "https://www.poundingtherock.com/spurs-analysis/102101/spurs-vs-timberwolves-player-grades-stephon-castle-shines-in-series-clencher",
-          "published": "2026-05-16T22:18:10Z"
-        }
-      ]
-    },
     {
       "game": "San Antonio Spurs @ Oklahoma City Thunder",
       "home_team": "Oklahoma City Thunder",
       "away_team": "San Antonio Spurs",
       "home_abbr": "OKC",
       "away_abbr": "SAS",
-      "home_ml": "-265",
-      "away_ml": "+215",
-      "home_ml_raw": -265,
-      "away_ml_raw": 215,
-      "home_prob": 69.6,
-      "away_prob": 30.4,
+      "home_ml": "-245",
+      "away_ml": "+200",
+      "home_ml_raw": -245,
+      "away_ml_raw": 200,
+      "home_prob": 68.1,
+      "away_prob": 31.9,
       "spread": "OKC -6.5",
       "favorite": "Oklahoma City Thunder",
       "pick": "Oklahoma City Thunder",
       "pick_abbr": "OKC",
-      "moneyline": "-265",
-      "win_probability": 69.6,
+      "moneyline": "-245",
+      "win_probability": 68.1,
       "confidence": "MEDIUM",
       "confidence_stars": "\u2605\u2605\u2606",
       "commence_time": "2026-05-19T00:40:00Z",
       "line_movement": {
         "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "longer",
+          "points_moved": 20,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -245 \u2190 -265",
           "old_ml": "-265",
-          "new_ml": "-265"
+          "new_ml": "-245"
         },
         "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "shorter",
+          "points_moved": 15,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM +200 \u2190 +215",
           "old_ml": "+215",
-          "new_ml": "+215"
+          "new_ml": "+200"
         },
         "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "longer",
+          "points_moved": 20,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -245 \u2190 -265",
           "old_ml": "-265",
-          "new_ml": "-265"
+          "new_ml": "-245"
         },
-        "snapshot_time": "May 17, 2026 at 10:55 PM UTC"
+        "snapshot_time": "May 17, 2026 at 11:59 PM UTC"
       },
       "fatigue": {
         "home": {
@@ -208,11 +63,11 @@
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
+          "status": "RESTED",
+          "label": "2 days rest \u2705",
+          "battery": 88,
           "last_game": "May 15",
-          "days_rest": 2,
+          "days_rest": 3,
           "games_last_4d": 1,
           "travel_miles": 1111,
           "travel_desc": "1,111 mi road trip",
@@ -220,7 +75,152 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udcca 39.2pt probability edge"
+        "\ud83d\udd25 Sharp steam detected"
+      ],
+      "injury_notes": "Luke Kornet (C); De'Aaron Fox (G)",
+      "sharp": {
+        "away_t": null,
+        "home_t": null,
+        "source": null,
+        "sharp_signal": null,
+        "sharp_label": "Pending \u2014 check closer to tip-off",
+        "rlm": false
+      },
+      "form": {
+        "home": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        },
+        "away": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        }
+      },
+      "h2h": {
+        "total_meetings": 0,
+        "home_wins": 0,
+        "away_wins": 0,
+        "meetings": [],
+        "source": "\u2014"
+      },
+      "briefing": {
+        "trend": "Oklahoma City Thunder hold a 68.1% edge.",
+        "matchup": "Both rosters appear healthy \u2014 clean line.",
+        "steam": "Line steamed from -265 to -245 (20pt move) \u2014 heavy professional action on Oklahoma City Thunder.",
+        "injury_notes": "Luke Kornet (C); De'Aaron Fox (G)"
+      },
+      "live": {
+        "status": "pre",
+        "status_detail": "Upcoming",
+        "period": 0,
+        "clock": "",
+        "home_score": 0,
+        "away_score": 0,
+        "spread_alert": null
+      },
+      "news": [
+        {
+          "title": "Sources: SGA wins MVP for second straight year",
+          "source": "www.espn.com - NBA",
+          "link": "https://www.espn.com/nba/story/_/id/48795765/sources-thunder-shai-gilgeous-alexander-repeats-nba-mvp",
+          "published": "Sun, 17 May 2026 23:07:14 EST"
+        },
+        {
+          "title": "Spurs oust Wolves in rout, set up clash with OKC",
+          "source": "www.espn.com - NBA",
+          "link": "https://www.espn.com/nba/story/_/id/48783917/spurs-oust-wolves-game-6-blowout-get-okc-conference-finals",
+          "published": "Sun, 17 May 2026 23:07:14 EST"
+        },
+        {
+          "title": "Edwards tips his hat to Spurs as 'the better team'...",
+          "source": "www.espn.com - NBA",
+          "link": "https://www.espn.com/nba/story/_/id/48784500/edwards-unsure-how-wolves-get-hump-loss-spurs",
+          "published": "Sun, 17 May 2026 23:07:14 EST"
+        }
+      ]
+    },
+    {
+      "game": "Cleveland Cavaliers @ New York Knicks",
+      "home_team": "New York Knicks",
+      "away_team": "Cleveland Cavaliers",
+      "home_abbr": "NYK",
+      "away_abbr": "CLE",
+      "home_ml": "-258",
+      "away_ml": "+210",
+      "home_ml_raw": -258,
+      "away_ml_raw": 210,
+      "home_prob": 69.1,
+      "away_prob": 30.9,
+      "spread": "NYK -6.5",
+      "favorite": "New York Knicks",
+      "pick": "New York Knicks",
+      "pick_abbr": "NYK",
+      "moneyline": "-258",
+      "win_probability": 69.1,
+      "confidence": "MEDIUM",
+      "confidence_stars": "\u2605\u2605\u2606",
+      "commence_time": "2026-05-20T00:10:00Z",
+      "line_movement": {
+        "home": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "away": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "pick": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "snapshot_time": "\u2014"
+      },
+      "fatigue": {
+        "home": {
+          "status": "FRESH",
+          "label": "Well rested \u2705",
+          "battery": 100,
+          "last_game": "\u2014",
+          "days_rest": 99,
+          "games_last_4d": 0,
+          "travel_miles": 0,
+          "travel_desc": "",
+          "source": "ESPN Scoreboard API"
+        },
+        "away": {
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "May 17",
+          "days_rest": 1,
+          "games_last_4d": 2,
+          "travel_miles": 91,
+          "travel_desc": "91 mi road trip",
+          "source": "ESPN Scoreboard API"
+        }
+      },
+      "edge_factors": [
+        "\ud83d\udca4 CLE fatigued (B2B) \u2014 source: ESPN"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -257,7 +257,7 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "Oklahoma City Thunder hold a 69.6% edge.",
+        "trend": "CLE on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
         "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
@@ -273,22 +273,22 @@
       },
       "news": [
         {
-          "title": "Celtics Legend Paul Pierce Shares Thoughts On Potential Jaylen Brown-Giannis Antetokounmpo Trade",
-          "source": "NESN",
-          "link": "https://nesn.com/boston-celtics/news/celtics-legend-paul-pierce-shares-thoughts-potential-jaylen-brown-giannis-antetokounmpo-trade/533661c7529bea8e300d7e37",
-          "published": "2026-05-16T23:03:27Z"
+          "title": "NBA playoff takeaways: Cavaliers close out Pistons...",
+          "source": "www.espn.com - NBA",
+          "link": "https://www.espn.com/nba/story/_/id/48676289/2026-nba-playoffs-conference-semifinals-round-2-takeaways",
+          "published": "Mon, 18 May 2026 00:00:36 EST"
         },
         {
-          "title": "One area of improvement for each member of the Celtics this offseason",
-          "source": "Celtics Blog",
-          "link": "https://www.celticsblog.com/celtics-analysis/140663/one-area-of-improvement-for-each-member-of-the-celtics-this-offseason",
-          "published": "2026-05-16T22:20:00Z"
+          "title": "Mitchell, Cavs break through, rout Pistons in G7",
+          "source": "www.espn.com - NBA",
+          "link": "https://www.espn.com/nba/story/_/id/48802182/mitchell-cavs-break-dispatch-pistons-make-ecf",
+          "published": "Sun, 17 May 2026 23:07:14 EST"
         },
         {
-          "title": "Spurs vs. Timberwolves player grades: Stephon Castle shines in series clencher",
-          "source": "Pounding The Rock ",
-          "link": "https://www.poundingtherock.com/spurs-analysis/102101/spurs-vs-timberwolves-player-grades-stephon-castle-shines-in-series-clencher",
-          "published": "2026-05-16T22:18:10Z"
+          "title": "Knicks' Anunoby: hamstring not as bad as in past",
+          "source": "www.espn.com - NBA",
+          "link": "https://www.espn.com/nba/story/_/id/48788650/knicks-anunoby-practices-again-says-hamstring-not-bad-24",
+          "published": "Sun, 17 May 2026 23:07:14 EST"
         }
       ]
     }
