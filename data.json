@@ -1,5 +1,5 @@
 {
-  "last_updated": "May 18, 2026 at 11:02 PM UTC",
+  "last_updated": "May 19, 2026 at 01:26 AM UTC",
   "total_games": 2,
   "games": [
     {
@@ -8,74 +8,75 @@
       "away_team": "San Antonio Spurs",
       "home_abbr": "OKC",
       "away_abbr": "SAS",
-      "home_ml": "-230",
-      "away_ml": "+190",
-      "home_ml_raw": -230,
-      "away_ml_raw": 190,
-      "home_prob": 66.9,
-      "away_prob": 33.1,
-      "spread": "OKC -6.5",
+      "home_ml": "-135",
+      "away_ml": "+105",
+      "home_ml_raw": -135,
+      "away_ml_raw": 105,
+      "home_prob": 54.1,
+      "away_prob": 45.9,
+      "spread": "OKC -1.5",
       "favorite": "Oklahoma City Thunder",
       "pick": "Oklahoma City Thunder",
       "pick_abbr": "OKC",
-      "moneyline": "-230",
-      "win_probability": 66.9,
-      "confidence": "MEDIUM",
-      "confidence_stars": "\u2605\u2605\u2606",
-      "commence_time": "2026-05-19T00:40:00Z",
+      "moneyline": "-135",
+      "win_probability": 54.1,
+      "confidence": "LOW",
+      "confidence_stars": "\u2605\u2606\u2606",
+      "commence_time": "2026-05-19T00:37:11Z",
       "line_movement": {
         "home": {
           "direction": "longer",
-          "points_moved": 15,
+          "points_moved": 95,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM -230 \u2190 -245",
-          "old_ml": "-245",
-          "new_ml": "-230"
+          "label": "\ud83d\udd25 STEAM -135 \u2190 -230",
+          "old_ml": "-230",
+          "new_ml": "-135"
         },
         "away": {
           "direction": "shorter",
-          "points_moved": 10,
+          "points_moved": 85,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM +190 \u2190 +200",
-          "old_ml": "+200",
-          "new_ml": "+190"
+          "label": "\ud83d\udd25 STEAM +105 \u2190 +190",
+          "old_ml": "+190",
+          "new_ml": "+105"
         },
         "pick": {
           "direction": "longer",
-          "points_moved": 15,
+          "points_moved": 95,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM -230 \u2190 -245",
-          "old_ml": "-245",
-          "new_ml": "-230"
+          "label": "\ud83d\udd25 STEAM -135 \u2190 -230",
+          "old_ml": "-230",
+          "new_ml": "-135"
         },
-        "snapshot_time": "May 18, 2026 at 02:29 PM UTC"
+        "snapshot_time": "May 18, 2026 at 11:02 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "FRESH",
-          "label": "Well rested \u2705",
-          "battery": 100,
-          "last_game": "\u2014",
-          "days_rest": 99,
-          "games_last_4d": 0,
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "May 18",
+          "days_rest": 1,
+          "games_last_4d": 1,
           "travel_miles": 0,
           "travel_desc": "",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "RESTED",
-          "label": "2 days rest \u2705",
-          "battery": 88,
-          "last_game": "May 15",
-          "days_rest": 3,
-          "games_last_4d": 1,
-          "travel_miles": 1111,
-          "travel_desc": "1,111 mi road trip",
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "May 18",
+          "days_rest": 1,
+          "games_last_4d": 2,
+          "travel_miles": 421,
+          "travel_desc": "421 mi road trip",
           "source": "ESPN Scoreboard API"
         }
       },
       "edge_factors": [
-        "\ud83d\udd25 Sharp steam detected"
+        "\ud83d\udd25 Sharp steam detected",
+        "\ud83d\udca4 SAS fatigued (B2B) \u2014 source: ESPN"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -112,9 +113,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "Oklahoma City Thunder hold a 66.9% edge.",
+        "trend": "OKC on Back-to-Back \u26a0\ufe0f per ESPN schedule data. SAS on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -245 to -230 (15pt move) \u2014 heavy professional action on Oklahoma City Thunder.",
+        "steam": "Line steamed from -230 to -135 (95pt move) \u2014 heavy professional action on Oklahoma City Thunder.",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -128,22 +129,22 @@
       },
       "news": [
         {
-          "title": "Gen Z high school grad tapped as reincarnated Buddhist lama balances love for NFL with religious studies: \u2018Dudes are dudes!\u2019",
-          "source": "New York Post",
-          "link": "https://nypost.com/2026/05/17/world-news/gen-z-high-school-grad-tapped-as-reincarnated-buddhist-lama-balances-love-for-nfl-with-religious-studies-dudes-are-dudes/",
-          "published": "2026-05-17T23:00:35Z"
+          "title": "Lakers' Dalton Knecht brings about a clear and obvious question",
+          "source": "Sporting News",
+          "link": "https://www.sportingnews.com/us/nba/los-angeles-lakers/news/lakers-dalton-knecht-clear-obvious-question/a2fddde4a1aec550f1d96eb3",
+          "published": "2026-05-18T01:13:29Z"
         },
         {
-          "title": "How to live stream Cavaliers vs Pistons: Game 7 NBA Playoffs, TV channel",
-          "source": "The Big Lead",
-          "link": "https://www.thebiglead.com/how-to-live-stream-cavaliers-vs-pistons-game-7-nba-playoffs-tv-channel/",
-          "published": "2026-05-17T23:00:00Z"
-        },
-        {
-          "title": "Henri Veesaar projected to slip into second round of NBA draft",
+          "title": "How did Luka Doncic do in the final balloting for the NBA MVP?",
           "source": "USA Today",
-          "link": "https://tarheelswire.usatoday.com/story/sports/college/tarheels/mens-basketball/2026/05/17/unc-basketball-latest-mock-has-henri-veesaar-falling-to-second-round/90127930007/",
-          "published": "2026-05-17T22:55:55Z"
+          "link": "https://lebronwire.usatoday.com/story/sports/nba/2026/05/17/how-did-luka-doncic-do-in-the-final-balloting-for-the-nba-mvp/90136192007/",
+          "published": "2026-05-18T01:11:13Z"
+        },
+        {
+          "title": "Thunder's Shai Gilgeous-Alexander wins back-to-back NBA MVP awards",
+          "source": "Dpa-international.com",
+          "link": "https://dpa-international.com/sports/urn:newsml:dpa.com:20090101:260518-99-458392/",
+          "published": "2026-05-18T01:08:19Z"
         }
       ]
     },
@@ -193,7 +194,7 @@
           "old_ml": "-265",
           "new_ml": "-265"
         },
-        "snapshot_time": "May 18, 2026 at 02:29 PM UTC"
+        "snapshot_time": "May 18, 2026 at 11:02 PM UTC"
       },
       "fatigue": {
         "home": {
@@ -208,11 +209,11 @@
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
           "last_game": "May 17",
-          "days_rest": 1,
+          "days_rest": 2,
           "games_last_4d": 2,
           "travel_miles": 91,
           "travel_desc": "91 mi road trip",
@@ -220,7 +221,7 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udca4 CLE fatigued (B2B) \u2014 source: ESPN"
+        "\ud83d\udcca 39.2pt probability edge"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -257,7 +258,7 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "CLE on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "trend": "New York Knicks hold a 69.6% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
         "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
@@ -273,22 +274,22 @@
       },
       "news": [
         {
-          "title": "Gen Z high school grad tapped as reincarnated Buddhist lama balances love for NFL with religious studies: \u2018Dudes are dudes!\u2019",
-          "source": "New York Post",
-          "link": "https://nypost.com/2026/05/17/world-news/gen-z-high-school-grad-tapped-as-reincarnated-buddhist-lama-balances-love-for-nfl-with-religious-studies-dudes-are-dudes/",
-          "published": "2026-05-17T23:00:35Z"
+          "title": "Lakers' Dalton Knecht brings about a clear and obvious question",
+          "source": "Sporting News",
+          "link": "https://www.sportingnews.com/us/nba/los-angeles-lakers/news/lakers-dalton-knecht-clear-obvious-question/a2fddde4a1aec550f1d96eb3",
+          "published": "2026-05-18T01:13:29Z"
         },
         {
-          "title": "How to live stream Cavaliers vs Pistons: Game 7 NBA Playoffs, TV channel",
-          "source": "The Big Lead",
-          "link": "https://www.thebiglead.com/how-to-live-stream-cavaliers-vs-pistons-game-7-nba-playoffs-tv-channel/",
-          "published": "2026-05-17T23:00:00Z"
-        },
-        {
-          "title": "Henri Veesaar projected to slip into second round of NBA draft",
+          "title": "How did Luka Doncic do in the final balloting for the NBA MVP?",
           "source": "USA Today",
-          "link": "https://tarheelswire.usatoday.com/story/sports/college/tarheels/mens-basketball/2026/05/17/unc-basketball-latest-mock-has-henri-veesaar-falling-to-second-round/90127930007/",
-          "published": "2026-05-17T22:55:55Z"
+          "link": "https://lebronwire.usatoday.com/story/sports/nba/2026/05/17/how-did-luka-doncic-do-in-the-final-balloting-for-the-nba-mvp/90136192007/",
+          "published": "2026-05-18T01:11:13Z"
+        },
+        {
+          "title": "Thunder's Shai Gilgeous-Alexander wins back-to-back NBA MVP awards",
+          "source": "Dpa-international.com",
+          "link": "https://dpa-international.com/sports/urn:newsml:dpa.com:20090101:260518-99-458392/",
+          "published": "2026-05-18T01:08:19Z"
         }
       ]
     }
