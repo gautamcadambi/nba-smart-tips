@@ -2122,9 +2122,11 @@
       "win_probability": 67.5,
       "commence_time": "2026-05-19T00:40:00Z",
       "date": "2026-05-16T06:13:24.335696+00:00",
-      "graded": false,
-      "result": null,
-      "profit": null
+      "graded": true,
+      "result": "LOSS",
+      "profit": -100,
+      "home_score": 115,
+      "away_score": 122
     },
     {
       "game": "Cleveland Cavaliers @ New York Knicks",
@@ -2160,28 +2162,28 @@
     },
     "MEDIUM": {
       "wins": 30,
-      "losses": 11,
-      "total": 41,
-      "win_pct": 73.2,
-      "roi": 7.4,
-      "profit": 304.93
+      "losses": 12,
+      "total": 42,
+      "win_pct": 71.4,
+      "roi": 4.9,
+      "profit": 204.93
     },
     "overall_7d": {
-      "wins": 5,
-      "losses": 0,
-      "total": 5,
-      "win_pct": 100.0,
-      "roi": 61.8,
-      "profit": 309.11
+      "wins": 0,
+      "losses": 1,
+      "total": 1,
+      "win_pct": 0.0,
+      "roi": -100.0,
+      "profit": -100
     },
     "overall_30d": {
-      "wins": 37,
-      "losses": 16,
-      "total": 53,
-      "win_pct": 69.8,
-      "roi": -3.8,
-      "profit": -200.31
+      "wins": 8,
+      "losses": 5,
+      "total": 13,
+      "win_pct": 61.5,
+      "roi": -4.2,
+      "profit": -54.43
     }
   },
-  "last_graded": "2026-05-09T22:45:19.967641+00:00"
+  "last_graded": "2026-05-19T03:58:24.200281+00:00"
 }
