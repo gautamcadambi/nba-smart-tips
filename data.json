@@ -1,5 +1,5 @@
 {
-  "last_updated": "May 20, 2026 at 11:14 PM UTC",
+  "last_updated": "May 21, 2026 at 01:29 AM UTC",
   "total_games": 2,
   "games": [
     {
@@ -8,74 +8,75 @@
       "away_team": "San Antonio Spurs",
       "home_abbr": "OKC",
       "away_abbr": "SAS",
-      "home_ml": "-270",
-      "away_ml": "+220",
-      "home_ml_raw": -270,
-      "away_ml_raw": 220,
-      "home_prob": 70.0,
-      "away_prob": 30.0,
-      "spread": "OKC -7.5",
+      "home_ml": "-395",
+      "away_ml": "+280",
+      "home_ml_raw": -395,
+      "away_ml_raw": 280,
+      "home_prob": 75.2,
+      "away_prob": 24.8,
+      "spread": "OKC -8.5",
       "favorite": "Oklahoma City Thunder",
       "pick": "Oklahoma City Thunder",
       "pick_abbr": "OKC",
-      "moneyline": "-270",
-      "win_probability": 70.0,
-      "confidence": "MEDIUM",
-      "confidence_stars": "\u2605\u2605\u2606",
-      "commence_time": "2026-05-21T00:40:00Z",
+      "moneyline": "-395",
+      "win_probability": 75.2,
+      "confidence": "HIGH",
+      "confidence_stars": "\u2605\u2605\u2605",
+      "commence_time": "2026-05-21T00:37:00Z",
       "line_movement": {
         "home": {
           "direction": "shorter",
-          "points_moved": 32,
+          "points_moved": 125,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM -270 \u2190 -238",
-          "old_ml": "-238",
-          "new_ml": "-270"
+          "label": "\ud83d\udd25 STEAM -395 \u2190 -270",
+          "old_ml": "-270",
+          "new_ml": "-395"
         },
         "away": {
           "direction": "longer",
-          "points_moved": 25,
+          "points_moved": 60,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM +220 \u2190 +195",
-          "old_ml": "+195",
-          "new_ml": "+220"
+          "label": "\ud83d\udd25 STEAM +280 \u2190 +220",
+          "old_ml": "+220",
+          "new_ml": "+280"
         },
         "pick": {
           "direction": "shorter",
-          "points_moved": 32,
+          "points_moved": 125,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM -270 \u2190 -238",
-          "old_ml": "-238",
-          "new_ml": "-270"
+          "label": "\ud83d\udd25 STEAM -395 \u2190 -270",
+          "old_ml": "-270",
+          "new_ml": "-395"
         },
-        "snapshot_time": "May 20, 2026 at 04:38 PM UTC"
+        "snapshot_time": "May 20, 2026 at 11:14 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "May 18",
-          "days_rest": 2,
-          "games_last_4d": 1,
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "May 20",
+          "days_rest": 1,
+          "games_last_4d": 2,
           "travel_miles": 0,
           "travel_desc": "",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "May 18",
-          "days_rest": 2,
-          "games_last_4d": 1,
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "May 20",
+          "days_rest": 1,
+          "games_last_4d": 2,
           "travel_miles": 421,
           "travel_desc": "421 mi road trip",
           "source": "ESPN Scoreboard API"
         }
       },
       "edge_factors": [
-        "\ud83d\udd25 Sharp steam detected"
+        "\ud83d\udd25 Sharp steam detected",
+        "\ud83d\udca4 SAS fatigued (B2B) \u2014 source: ESPN"
       ],
       "injury_notes": "De'Aaron Fox (G)",
       "sharp": {
@@ -112,9 +113,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "Oklahoma City Thunder hold a 70.0% edge.",
+        "trend": "OKC on Back-to-Back \u26a0\ufe0f per ESPN schedule data. SAS on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -238 to -270 (32pt move) \u2014 heavy professional action on Oklahoma City Thunder.",
+        "steam": "Line steamed from -270 to -395 (125pt move) \u2014 heavy professional action on Oklahoma City Thunder.",
         "injury_notes": "De'Aaron Fox (G)"
       },
       "live": {
@@ -128,10 +129,22 @@
       },
       "news": [
         {
-          "title": "Spurs, Wemby return to Paris in '27 vs. Pelicans",
+          "title": "Follow live: Spurs, Thunder battling in Game 2",
           "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/nba/story/_/id/48825584/spurs-pelicans-play-paris-manchester-2027",
-          "published": "Wed, 20 May 2026 17:45:12 EST"
+          "link": "https://www.espn.com/nba/story/_/id/48820854/oklahoma-city-thunder-san-antonio-spurs-game-2-nba-playoffs-2026-live-updates",
+          "published": "Wed, 20 May 2026 21:14:33 EST"
+        },
+        {
+          "title": "Spurs' Fox (ankle) out again for Game 2 vs. OKC",
+          "source": "www.espn.com - NBA",
+          "link": "https://www.espn.com/nba/story/_/id/48830269/spurs-deaaron-fox-ankle-again-game-2-vs-thunder",
+          "published": "Wed, 20 May 2026 21:02:18 EST"
+        },
+        {
+          "title": "Spurs-Thunder Game 1 peaked at 12M viewers",
+          "source": "www.espn.com - NBA",
+          "link": "https://www.espn.com/nba/story/_/id/48830526/spurs-thunder-deliver-most-watched-west-finals-game-1-nba-history",
+          "published": "Wed, 20 May 2026 21:02:18 EST"
         }
       ]
     },
@@ -141,66 +154,66 @@
       "away_team": "Cleveland Cavaliers",
       "home_abbr": "NYK",
       "away_abbr": "CLE",
-      "home_ml": "-218",
-      "away_ml": "+180",
-      "home_ml_raw": -218,
-      "away_ml_raw": 180,
-      "home_prob": 65.7,
-      "away_prob": 34.3,
+      "home_ml": "-225",
+      "away_ml": "+185",
+      "home_ml_raw": -225,
+      "away_ml_raw": 185,
+      "home_prob": 66.4,
+      "away_prob": 33.6,
       "spread": "NYK -6.5",
       "favorite": "New York Knicks",
       "pick": "New York Knicks",
       "pick_abbr": "NYK",
-      "moneyline": "-218",
-      "win_probability": 65.7,
+      "moneyline": "-225",
+      "win_probability": 66.4,
       "confidence": "MEDIUM",
       "confidence_stars": "\u2605\u2605\u2606",
       "commence_time": "2026-05-22T00:10:00Z",
       "line_movement": {
         "home": {
-          "direction": "none",
-          "points_moved": 0,
+          "direction": "shorter",
+          "points_moved": 7,
           "steam": false,
-          "label": "No movement",
+          "label": "\ud83d\udfe2 -225 \u2190 -218",
           "old_ml": "-218",
-          "new_ml": "-218"
+          "new_ml": "-225"
         },
         "away": {
-          "direction": "none",
-          "points_moved": 0,
+          "direction": "longer",
+          "points_moved": 5,
           "steam": false,
-          "label": "No movement",
+          "label": "\ud83d\udd34 +185 \u2190 +180",
           "old_ml": "+180",
-          "new_ml": "+180"
+          "new_ml": "+185"
         },
         "pick": {
-          "direction": "none",
-          "points_moved": 0,
+          "direction": "shorter",
+          "points_moved": 7,
           "steam": false,
-          "label": "No movement",
+          "label": "\ud83d\udfe2 -225 \u2190 -218",
           "old_ml": "-218",
-          "new_ml": "-218"
+          "new_ml": "-225"
         },
-        "snapshot_time": "May 20, 2026 at 04:38 PM UTC"
+        "snapshot_time": "May 20, 2026 at 11:14 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
           "last_game": "May 19",
-          "days_rest": 1,
+          "days_rest": 2,
           "games_last_4d": 1,
           "travel_miles": 0,
           "travel_desc": "",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
           "last_game": "May 19",
-          "days_rest": 1,
+          "days_rest": 2,
           "games_last_4d": 2,
           "travel_miles": 404,
           "travel_desc": "404 mi road trip",
@@ -208,7 +221,7 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udca4 CLE fatigued (B2B) \u2014 source: ESPN"
+        "\ud83d\udcca 32.8pt probability edge"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -245,9 +258,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "NYK on Back-to-Back \u26a0\ufe0f per ESPN schedule data. CLE on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "trend": "New York Knicks hold a 66.4% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "steam": "Line moved -218\u2192-225 (7pts). Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -260,12 +273,6 @@
         "spread_alert": null
       },
       "news": [
-        {
-          "title": "Knicks flip script, attack Harden to spark rally",
-          "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/nba/story/_/id/48822838/knicks-flip-script-attack-james-harden-spark-game-1-rally",
-          "published": "Wed, 20 May 2026 17:45:12 EST"
-        },
         {
           "title": "A 0.1% chance to win: Key numbers of the Knicks' miraculous comeback against Cavs",
           "source": "www.espn.com - NBA",
