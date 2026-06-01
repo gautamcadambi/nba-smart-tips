@@ -1,5 +1,5 @@
 {
-  "last_updated": "June 01, 2026 at 10:24 AM UTC",
+  "last_updated": "June 01, 2026 at 04:36 PM UTC",
   "total_games": 1,
   "games": [
     {
@@ -48,7 +48,7 @@
           "old_ml": "-198",
           "new_ml": "-198"
         },
-        "snapshot_time": "June 01, 2026 at 04:43 AM UTC"
+        "snapshot_time": "June 01, 2026 at 10:24 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -77,7 +77,7 @@
       "edge_factors": [
         "\ud83d\udcca 27.4pt probability edge"
       ],
-      "injury_notes": "Mitchell Robinson (C)",
+      "injury_notes": "No key injuries.",
       "sharp": {
         "away_t": null,
         "home_t": null,
@@ -88,34 +88,187 @@
       },
       "form": {
         "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
+          "last_10": [
+            {
+              "date": "Jun 01",
+              "result": "W",
+              "pts": 124,
+              "opp": "WAS",
+              "away": false
+            },
+            {
+              "date": "Jun 01",
+              "result": "W",
+              "pts": 126,
+              "opp": "ATL",
+              "away": false
+            },
+            {
+              "date": "Jun 01",
+              "result": "W",
+              "pts": 119,
+              "opp": "WAS",
+              "away": false
+            },
+            {
+              "date": "Jun 01",
+              "result": "W",
+              "pts": 117,
+              "opp": "OKC",
+              "away": false
+            },
+            {
+              "date": "Jun 01",
+              "result": "W",
+              "pts": 130,
+              "opp": "OKC",
+              "away": false
+            },
+            {
+              "date": "Jun 01",
+              "result": "L",
+              "pts": 114,
+              "opp": "UTA",
+              "away": false
+            },
+            {
+              "date": "Jun 01",
+              "result": "L",
+              "pts": 117,
+              "opp": "CLE",
+              "away": false
+            },
+            {
+              "date": "Jun 01",
+              "result": "W",
+              "pts": 126,
+              "opp": "MEM",
+              "away": false
+            },
+            {
+              "date": "Jun 01",
+              "result": "W",
+              "pts": 114,
+              "opp": "ORL",
+              "away": false
+            },
+            {
+              "date": "Jun 01",
+              "result": "W",
+              "pts": 111,
+              "opp": "OKC",
+              "away": false
+            }
+          ],
+          "wins": 8,
+          "losses": 2,
+          "streak": "W5",
+          "form_str": "WWWWWLLWWW",
+          "source": "NBA.com via nba_api"
         },
         "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
+          "last_10": [
+            {
+              "date": "Jun 01",
+              "result": "L",
+              "pts": 107,
+              "opp": "PHI",
+              "away": false
+            },
+            {
+              "date": "Jun 01",
+              "result": "W",
+              "pts": 132,
+              "opp": "MIA",
+              "away": false
+            },
+            {
+              "date": "Jun 01",
+              "result": "W",
+              "pts": 114,
+              "opp": "IND",
+              "away": false
+            },
+            {
+              "date": "Jun 01",
+              "result": "W",
+              "pts": 126,
+              "opp": "CLE",
+              "away": false
+            },
+            {
+              "date": "Jun 01",
+              "result": "L",
+              "pts": 104,
+              "opp": "MIN",
+              "away": false
+            },
+            {
+              "date": "Jun 01",
+              "result": "W",
+              "pts": 146,
+              "opp": "UTA",
+              "away": false
+            },
+            {
+              "date": "Jun 01",
+              "result": "L",
+              "pts": 117,
+              "opp": "BOS",
+              "away": false
+            },
+            {
+              "date": "Jun 01",
+              "result": "W",
+              "pts": 119,
+              "opp": "CHA",
+              "away": false
+            },
+            {
+              "date": "Jun 01",
+              "result": "W",
+              "pts": 132,
+              "opp": "ORL",
+              "away": false
+            },
+            {
+              "date": "Jun 01",
+              "result": "W",
+              "pts": 106,
+              "opp": "ORL",
+              "away": false
+            }
+          ],
+          "wins": 7,
+          "losses": 3,
+          "streak": "L1",
+          "form_str": "LWWWLWLWWW",
+          "source": "NBA.com via nba_api"
         }
       },
       "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
+        "total_meetings": 2,
+        "home_wins": 1,
+        "away_wins": 1,
+        "meetings": [
+          {
+            "date": "2025-12-31",
+            "home_result": "W",
+            "pts": 134
+          },
+          {
+            "date": "2026-03-01",
+            "home_result": "L",
+            "pts": 89
+          }
+        ],
+        "source": "NBA.com via nba_api"
       },
       "briefing": {
-        "trend": "San Antonio Spurs hold a 63.7% edge.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
+        "trend": "SAS are 8-2 in their last 10 (streak: W5). NYK are 7-3 in their last 10 (streak: L1).",
+        "matchup": "Season series: SAS 1-1 vs NYK in 2 meetings. Both rosters appear healthy \u2014 clean line.",
         "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
-        "injury_notes": "Mitchell Robinson (C)"
+        "injury_notes": "No key injuries."
       },
       "live": {
         "status": "pre",
@@ -128,22 +281,22 @@
       },
       "news": [
         {
-          "title": "NBA Finals preview: Everything that will decide Knicks-Spurs",
-          "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/nba/story/_/id/48906595/nba-finals-2026-preview-knicks-spurs-wemby-brunson-towns-castle-stats-schedule-predictions",
-          "published": "Sun, 31 May 2026 08:08:49 EST"
+          "title": "How the World Looked Last Time Knicks Made Finals: 'Sopranos,' Eminem, More",
+          "source": "Complex",
+          "link": "https://www.complex.com/sports/a/tracewilliamcowen/knicks-nba-1999-finals-sopranos-eminem",
+          "published": "2026-05-31T16:33:55Z"
         },
         {
-          "title": "Bettors heavily invested in Knicks to win Finals",
-          "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/nba/story/_/id/48929879/bettors-heavily-invested-knicks-win-nba-finals",
-          "published": "Sun, 31 May 2026 22:58:33 EST"
+          "title": "How the 2000 Yankees Created the Blueprint for the Dodgers",
+          "source": "Complex",
+          "link": "https://www.complex.com/bets/a/matt-burke/2000-yankees-blueprint-2026-dodgers",
+          "published": "2026-05-31T16:32:41Z"
         },
         {
-          "title": "WCF win moves Wemby closer to 'childhood dream'",
-          "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/nba/story/_/id/48926783/emotional-victor-wembanyama-leads-spurs-back-nba-finals",
-          "published": "Sun, 31 May 2026 22:58:33 EST"
+          "title": "Knicks NBA title run bittersweet for NYC mom of slain teen hoops fan as murder remains unsolved",
+          "source": "New York Post",
+          "link": "https://nypost.com/2026/05/31/us-news/knicks-nba-title-run-bittersweet-for-nyc-mom-of-slain-teen-hoops-fan-as-murder-remains-unsolved/",
+          "published": "2026-05-31T16:24:21Z"
         }
       ]
     }
