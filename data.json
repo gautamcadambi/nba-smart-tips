@@ -1,5 +1,5 @@
 {
-  "last_updated": "June 03, 2026 at 03:26 PM UTC",
+  "last_updated": "June 03, 2026 at 11:44 PM UTC",
   "total_games": 1,
   "games": [
     {
@@ -8,47 +8,47 @@
       "away_team": "New York Knicks",
       "home_abbr": "SAS",
       "away_abbr": "NYK",
-      "home_ml": "-185",
-      "away_ml": "+154",
-      "home_ml_raw": -185,
-      "away_ml_raw": 154,
-      "home_prob": 62.2,
-      "away_prob": 37.8,
-      "spread": "SAS -4.5",
+      "home_ml": "N/A",
+      "away_ml": "N/A",
+      "home_ml_raw": null,
+      "away_ml_raw": null,
+      "home_prob": 50.0,
+      "away_prob": 50.0,
+      "spread": "N/A",
       "favorite": "San Antonio Spurs",
       "pick": "San Antonio Spurs",
       "pick_abbr": "SAS",
-      "moneyline": "-185",
-      "win_probability": 62.2,
-      "confidence": "MEDIUM",
-      "confidence_stars": "\u2605\u2605\u2606",
+      "moneyline": "N/A",
+      "win_probability": 50.0,
+      "confidence": "LOW",
+      "confidence_stars": "\u2605\u2606\u2606",
       "commence_time": "2026-06-04T00:30:00Z",
       "line_movement": {
         "home": {
           "direction": "none",
           "points_moved": 0,
           "steam": false,
-          "label": "No movement",
-          "old_ml": "-185",
-          "new_ml": "-185"
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
         },
         "away": {
           "direction": "none",
           "points_moved": 0,
           "steam": false,
-          "label": "No movement",
-          "old_ml": "+154",
-          "new_ml": "+154"
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
         },
         "pick": {
           "direction": "none",
           "points_moved": 0,
           "steam": false,
-          "label": "No movement",
-          "old_ml": "-185",
-          "new_ml": "-185"
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
         },
-        "snapshot_time": "June 03, 2026 at 09:56 AM UTC"
+        "snapshot_time": "June 03, 2026 at 03:26 PM UTC"
       },
       "fatigue": {
         "home": {
@@ -75,7 +75,7 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udcca 24.4pt probability edge"
+        "\ud83d\udcca 0.0pt probability edge"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -88,185 +88,32 @@
       },
       "form": {
         "home": {
-          "last_10": [
-            {
-              "date": "Jun 03",
-              "result": "W",
-              "pts": 124,
-              "opp": "WAS",
-              "away": false
-            },
-            {
-              "date": "Jun 03",
-              "result": "W",
-              "pts": 119,
-              "opp": "WAS",
-              "away": false
-            },
-            {
-              "date": "Jun 03",
-              "result": "W",
-              "pts": 126,
-              "opp": "ATL",
-              "away": false
-            },
-            {
-              "date": "Jun 03",
-              "result": "W",
-              "pts": 117,
-              "opp": "OKC",
-              "away": false
-            },
-            {
-              "date": "Jun 03",
-              "result": "W",
-              "pts": 130,
-              "opp": "OKC",
-              "away": false
-            },
-            {
-              "date": "Jun 03",
-              "result": "L",
-              "pts": 117,
-              "opp": "CLE",
-              "away": false
-            },
-            {
-              "date": "Jun 03",
-              "result": "W",
-              "pts": 126,
-              "opp": "MEM",
-              "away": false
-            },
-            {
-              "date": "Jun 03",
-              "result": "W",
-              "pts": 114,
-              "opp": "ORL",
-              "away": false
-            },
-            {
-              "date": "Jun 03",
-              "result": "W",
-              "pts": 111,
-              "opp": "OKC",
-              "away": false
-            },
-            {
-              "date": "Jun 03",
-              "result": "W",
-              "pts": 135,
-              "opp": "NOP",
-              "away": false
-            }
-          ],
-          "wins": 9,
-          "losses": 1,
-          "streak": "W5",
-          "form_str": "WWWWWLWWWW",
-          "source": "NBA.com via nba_api"
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
         },
         "away": {
-          "last_10": [
-            {
-              "date": "Jun 03",
-              "result": "W",
-              "pts": 132,
-              "opp": "MIA",
-              "away": false
-            },
-            {
-              "date": "Jun 03",
-              "result": "L",
-              "pts": 107,
-              "opp": "PHI",
-              "away": false
-            },
-            {
-              "date": "Jun 03",
-              "result": "W",
-              "pts": 114,
-              "opp": "IND",
-              "away": false
-            },
-            {
-              "date": "Jun 03",
-              "result": "W",
-              "pts": 126,
-              "opp": "CLE",
-              "away": false
-            },
-            {
-              "date": "Jun 03",
-              "result": "L",
-              "pts": 104,
-              "opp": "MIN",
-              "away": false
-            },
-            {
-              "date": "Jun 03",
-              "result": "W",
-              "pts": 146,
-              "opp": "UTA",
-              "away": false
-            },
-            {
-              "date": "Jun 03",
-              "result": "L",
-              "pts": 117,
-              "opp": "BOS",
-              "away": false
-            },
-            {
-              "date": "Jun 03",
-              "result": "W",
-              "pts": 119,
-              "opp": "CHA",
-              "away": false
-            },
-            {
-              "date": "Jun 03",
-              "result": "W",
-              "pts": 132,
-              "opp": "ORL",
-              "away": false
-            },
-            {
-              "date": "Jun 03",
-              "result": "W",
-              "pts": 106,
-              "opp": "ORL",
-              "away": false
-            }
-          ],
-          "wins": 7,
-          "losses": 3,
-          "streak": "W1",
-          "form_str": "WLWWLWLWWW",
-          "source": "NBA.com via nba_api"
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
         }
       },
       "h2h": {
-        "total_meetings": 2,
-        "home_wins": 1,
-        "away_wins": 1,
-        "meetings": [
-          {
-            "date": "2025-12-31",
-            "home_result": "W",
-            "pts": 134
-          },
-          {
-            "date": "2026-03-01",
-            "home_result": "L",
-            "pts": 89
-          }
-        ],
-        "source": "NBA.com via nba_api"
+        "total_meetings": 0,
+        "home_wins": 0,
+        "away_wins": 0,
+        "meetings": [],
+        "source": "\u2014"
       },
       "briefing": {
-        "trend": "SAS are 9-1 in their last 10 (streak: W5). NYK are 7-3 in their last 10 (streak: W1).",
-        "matchup": "Season series: SAS 1-1 vs NYK in 2 meetings. Both rosters appear healthy \u2014 clean line.",
+        "trend": "San Antonio Spurs hold a 50.0% edge.",
+        "matchup": "Both rosters appear healthy \u2014 clean line.",
         "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
       },
@@ -281,22 +128,22 @@
       },
       "news": [
         {
-          "title": "Does Maxi Kleber still have a role with the Lakers?",
-          "source": "Silver Screen and Roll ",
-          "link": "https://www.silverscreenandroll.com/lakers-analysis/118333/maxi-kleber-lakers-season-review-recap",
-          "published": "2026-06-02T15:24:00Z"
+          "title": "Knicks\u2019 Jalen Brunson\u2019s final boss isn\u2019t Spurs\u2019 Victor Wembanyama, it\u2019s Stephon Castle",
+          "source": "New York Daily News",
+          "link": "https://www.nydailynews.com/2026/06/02/knicks-jalen-brunson-victor-wembanyama-stephone-castle-nba-finals-game-1-mitchell-robinson/",
+          "published": "2026-06-02T23:44:00Z"
         },
         {
-          "title": "Charles Barkley's NBA Finals prediction might surprise Spurs and Knicks fans",
-          "source": "Sporting News",
-          "link": "https://www.sportingnews.com/us/nba/san-antonio-spurs/news/charles-barkley-bold-nba-finals-prediction-spurs-knicks/c1b6391440b6126d50ade4ca",
-          "published": "2026-06-02T15:19:19Z"
+          "title": "Spurs\u2019 Julian Champagnie Embraces Hometown Villain Role Against Knicks",
+          "source": "Newsweek",
+          "link": "https://www.newsweek.com/sports/nba/spurs-julian-champagnie-embraces-hometown-villain-role-against-knicks-12022964",
+          "published": "2026-06-02T23:42:13Z"
         },
         {
-          "title": "Arkansas and Arizona agree to multi-year non-conference series",
-          "source": "USA Today",
-          "link": "https://collegesportswire.usatoday.com/story/sports/college/college-basketball/2026/06/02/arizona-basketball-arkansas-multi-year-nonconference-series/90368576007/",
-          "published": "2026-06-02T15:19:19Z"
+          "title": "What New York Knicks, San Antonio Spurs players said at media day before start of NBA Finals",
+          "source": "NBCSports.com",
+          "link": "https://www.nbcsports.com/nba/news/what-new-york-knicks-san-antonio-spurs-players-said-at-media-day-before-start-of-nba-finals",
+          "published": "2026-06-02T23:41:36Z"
         }
       ]
     }
