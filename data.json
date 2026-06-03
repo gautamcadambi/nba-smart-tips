@@ -1,5 +1,5 @@
 {
-  "last_updated": "June 03, 2026 at 09:56 AM UTC",
+  "last_updated": "June 03, 2026 at 03:26 PM UTC",
   "total_games": 1,
   "games": [
     {
@@ -48,7 +48,7 @@
           "old_ml": "-185",
           "new_ml": "-185"
         },
-        "snapshot_time": "June 03, 2026 at 04:42 AM UTC"
+        "snapshot_time": "June 03, 2026 at 09:56 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -77,7 +77,7 @@
       "edge_factors": [
         "\ud83d\udcca 24.4pt probability edge"
       ],
-      "injury_notes": "Mitchell Robinson (C)",
+      "injury_notes": "No key injuries.",
       "sharp": {
         "away_t": null,
         "home_t": null,
@@ -88,34 +88,187 @@
       },
       "form": {
         "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
+          "last_10": [
+            {
+              "date": "Jun 03",
+              "result": "W",
+              "pts": 124,
+              "opp": "WAS",
+              "away": false
+            },
+            {
+              "date": "Jun 03",
+              "result": "W",
+              "pts": 119,
+              "opp": "WAS",
+              "away": false
+            },
+            {
+              "date": "Jun 03",
+              "result": "W",
+              "pts": 126,
+              "opp": "ATL",
+              "away": false
+            },
+            {
+              "date": "Jun 03",
+              "result": "W",
+              "pts": 117,
+              "opp": "OKC",
+              "away": false
+            },
+            {
+              "date": "Jun 03",
+              "result": "W",
+              "pts": 130,
+              "opp": "OKC",
+              "away": false
+            },
+            {
+              "date": "Jun 03",
+              "result": "L",
+              "pts": 117,
+              "opp": "CLE",
+              "away": false
+            },
+            {
+              "date": "Jun 03",
+              "result": "W",
+              "pts": 126,
+              "opp": "MEM",
+              "away": false
+            },
+            {
+              "date": "Jun 03",
+              "result": "W",
+              "pts": 114,
+              "opp": "ORL",
+              "away": false
+            },
+            {
+              "date": "Jun 03",
+              "result": "W",
+              "pts": 111,
+              "opp": "OKC",
+              "away": false
+            },
+            {
+              "date": "Jun 03",
+              "result": "W",
+              "pts": 135,
+              "opp": "NOP",
+              "away": false
+            }
+          ],
+          "wins": 9,
+          "losses": 1,
+          "streak": "W5",
+          "form_str": "WWWWWLWWWW",
+          "source": "NBA.com via nba_api"
         },
         "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
+          "last_10": [
+            {
+              "date": "Jun 03",
+              "result": "W",
+              "pts": 132,
+              "opp": "MIA",
+              "away": false
+            },
+            {
+              "date": "Jun 03",
+              "result": "L",
+              "pts": 107,
+              "opp": "PHI",
+              "away": false
+            },
+            {
+              "date": "Jun 03",
+              "result": "W",
+              "pts": 114,
+              "opp": "IND",
+              "away": false
+            },
+            {
+              "date": "Jun 03",
+              "result": "W",
+              "pts": 126,
+              "opp": "CLE",
+              "away": false
+            },
+            {
+              "date": "Jun 03",
+              "result": "L",
+              "pts": 104,
+              "opp": "MIN",
+              "away": false
+            },
+            {
+              "date": "Jun 03",
+              "result": "W",
+              "pts": 146,
+              "opp": "UTA",
+              "away": false
+            },
+            {
+              "date": "Jun 03",
+              "result": "L",
+              "pts": 117,
+              "opp": "BOS",
+              "away": false
+            },
+            {
+              "date": "Jun 03",
+              "result": "W",
+              "pts": 119,
+              "opp": "CHA",
+              "away": false
+            },
+            {
+              "date": "Jun 03",
+              "result": "W",
+              "pts": 132,
+              "opp": "ORL",
+              "away": false
+            },
+            {
+              "date": "Jun 03",
+              "result": "W",
+              "pts": 106,
+              "opp": "ORL",
+              "away": false
+            }
+          ],
+          "wins": 7,
+          "losses": 3,
+          "streak": "W1",
+          "form_str": "WLWWLWLWWW",
+          "source": "NBA.com via nba_api"
         }
       },
       "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
+        "total_meetings": 2,
+        "home_wins": 1,
+        "away_wins": 1,
+        "meetings": [
+          {
+            "date": "2025-12-31",
+            "home_result": "W",
+            "pts": 134
+          },
+          {
+            "date": "2026-03-01",
+            "home_result": "L",
+            "pts": 89
+          }
+        ],
+        "source": "NBA.com via nba_api"
       },
       "briefing": {
-        "trend": "San Antonio Spurs hold a 62.2% edge.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
+        "trend": "SAS are 9-1 in their last 10 (streak: W5). NYK are 7-3 in their last 10 (streak: W1).",
+        "matchup": "Season series: SAS 1-1 vs NYK in 2 meetings. Both rosters appear healthy \u2014 clean line.",
         "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
-        "injury_notes": "Mitchell Robinson (C)"
+        "injury_notes": "No key injuries."
       },
       "live": {
         "status": "pre",
@@ -128,22 +281,22 @@
       },
       "news": [
         {
-          "title": "NBA execs debate five questions on Knicks-Spurs: W...",
-          "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/nba/story/_/id/48939238/nba-finals-2026-spurs-knicks-preview-keys-executives-coaches-scouts",
-          "published": "Tue, 2 Jun 2026 19:08:31 EST"
+          "title": "Does Maxi Kleber still have a role with the Lakers?",
+          "source": "Silver Screen and Roll ",
+          "link": "https://www.silverscreenandroll.com/lakers-analysis/118333/maxi-kleber-lakers-season-review-recap",
+          "published": "2026-06-02T15:24:00Z"
         },
         {
-          "title": "Who's guarding Wemby? Can the Knicks stay hot? How...",
-          "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/nba/story/_/id/48929293/the-storylines-matchups-define-2026-nba-finals-spurs-knicks-wembanyama-brunson",
-          "published": "Tue, 2 Jun 2026 19:08:31 EST"
+          "title": "Charles Barkley's NBA Finals prediction might surprise Spurs and Knicks fans",
+          "source": "Sporting News",
+          "link": "https://www.sportingnews.com/us/nba/san-antonio-spurs/news/charles-barkley-bold-nba-finals-prediction-spurs-knicks/c1b6391440b6126d50ade4ca",
+          "published": "2026-06-02T15:19:19Z"
         },
         {
-          "title": "Knicks mum on Robinson's status for Game 1",
-          "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/nba/story/_/id/48950555/knicks-mum-status-mitchell-robinson-finger-game-1",
-          "published": "Tue, 2 Jun 2026 20:45:58 EST"
+          "title": "Arkansas and Arizona agree to multi-year non-conference series",
+          "source": "USA Today",
+          "link": "https://collegesportswire.usatoday.com/story/sports/college/college-basketball/2026/06/02/arizona-basketball-arkansas-multi-year-nonconference-series/90368576007/",
+          "published": "2026-06-02T15:19:19Z"
         }
       ]
     }
