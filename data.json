@@ -1,5 +1,5 @@
 {
-  "last_updated": "June 03, 2026 at 11:44 PM UTC",
+  "last_updated": "June 04, 2026 at 04:27 AM UTC",
   "total_games": 1,
   "games": [
     {
@@ -8,21 +8,21 @@
       "away_team": "New York Knicks",
       "home_abbr": "SAS",
       "away_abbr": "NYK",
-      "home_ml": "N/A",
-      "away_ml": "N/A",
-      "home_ml_raw": null,
-      "away_ml_raw": null,
-      "home_prob": 50.0,
-      "away_prob": 50.0,
-      "spread": "N/A",
+      "home_ml": "-218",
+      "away_ml": "+180",
+      "home_ml_raw": -218,
+      "away_ml_raw": 180,
+      "home_prob": 65.7,
+      "away_prob": 34.3,
+      "spread": "SAS -5.5",
       "favorite": "San Antonio Spurs",
       "pick": "San Antonio Spurs",
       "pick_abbr": "SAS",
-      "moneyline": "N/A",
-      "win_probability": 50.0,
-      "confidence": "LOW",
-      "confidence_stars": "\u2605\u2606\u2606",
-      "commence_time": "2026-06-04T00:30:00Z",
+      "moneyline": "-218",
+      "win_probability": 65.7,
+      "confidence": "MEDIUM",
+      "confidence_stars": "\u2605\u2605\u2606",
+      "commence_time": "2026-06-06T00:40:00Z",
       "line_movement": {
         "home": {
           "direction": "none",
@@ -48,34 +48,34 @@
           "old_ml": "\u2014",
           "new_ml": "\u2014"
         },
-        "snapshot_time": "June 03, 2026 at 03:26 PM UTC"
+        "snapshot_time": "June 03, 2026 at 11:44 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "FRESH",
-          "label": "Well rested \u2705",
-          "battery": 100,
-          "last_game": "May 30",
-          "days_rest": 4,
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Jun 03",
+          "days_rest": 1,
           "games_last_4d": 1,
-          "travel_miles": 421,
-          "travel_desc": "421 mi road trip",
+          "travel_miles": 0,
+          "travel_desc": "",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "FRESH",
-          "label": "Well rested \u2705",
-          "battery": 100,
-          "last_game": "\u2014",
-          "days_rest": 99,
-          "games_last_4d": 0,
-          "travel_miles": 0,
-          "travel_desc": "",
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Jun 03",
+          "days_rest": 1,
+          "games_last_4d": 1,
+          "travel_miles": 1580,
+          "travel_desc": "1,580 mi road trip",
           "source": "ESPN Scoreboard API"
         }
       },
       "edge_factors": [
-        "\ud83d\udcca 0.0pt probability edge"
+        "\ud83d\udca4 NYK fatigued (B2B) \u2014 source: ESPN"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -112,7 +112,7 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "San Antonio Spurs hold a 50.0% edge.",
+        "trend": "SAS on Back-to-Back \u26a0\ufe0f per ESPN schedule data. NYK on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
         "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
@@ -128,22 +128,22 @@
       },
       "news": [
         {
-          "title": "Knicks\u2019 Jalen Brunson\u2019s final boss isn\u2019t Spurs\u2019 Victor Wembanyama, it\u2019s Stephon Castle",
-          "source": "New York Daily News",
-          "link": "https://www.nydailynews.com/2026/06/02/knicks-jalen-brunson-victor-wembanyama-stephone-castle-nba-finals-game-1-mitchell-robinson/",
-          "published": "2026-06-02T23:44:00Z"
+          "title": "Spurs vs Knicks 2026 NBA Finals Preview: Wembanyama Faces Brunson in Historic Rematch",
+          "source": "Ibtimes.com.au",
+          "link": "https://www.ibtimes.com.au/2026-nba-finals-spurs-vs-knicks-rematch-1869999",
+          "published": "2026-06-03T04:26:13Z"
         },
         {
-          "title": "Spurs\u2019 Julian Champagnie Embraces Hometown Villain Role Against Knicks",
+          "title": "\u2018Final Boss Cutscene Monologue\u2019 \u2013 Victor Wembanyama Comes Up With Another Striking Quote to Flip Narratives About Their Lack of Experience",
+          "source": "Yahoo Entertainment",
+          "link": "https://sports.yahoo.com/articles/final-boss-cutscene-monologue-victor-041855287.html",
+          "published": "2026-06-03T04:18:55Z"
+        },
+        {
+          "title": "The Ascension of Wembanyama: The 3 Biggest Storylines of the NBA Finals",
           "source": "Newsweek",
-          "link": "https://www.newsweek.com/sports/nba/spurs-julian-champagnie-embraces-hometown-villain-role-against-knicks-12022964",
-          "published": "2026-06-02T23:42:13Z"
-        },
-        {
-          "title": "What New York Knicks, San Antonio Spurs players said at media day before start of NBA Finals",
-          "source": "NBCSports.com",
-          "link": "https://www.nbcsports.com/nba/news/what-new-york-knicks-san-antonio-spurs-players-said-at-media-day-before-start-of-nba-finals",
-          "published": "2026-06-02T23:41:36Z"
+          "link": "https://www.newsweek.com/sports/nba/the-ascension-of-wembanyama-the-3-biggest-storylines-of-the-nba-finals-12024580",
+          "published": "2026-06-03T04:17:46Z"
         }
       ]
     }
@@ -167,27 +167,27 @@
     },
     "MEDIUM": {
       "wins": 31,
-      "losses": 12,
-      "total": 43,
-      "win_pct": 72.1,
-      "roi": 5.7,
-      "profit": 243.69
+      "losses": 13,
+      "total": 44,
+      "win_pct": 70.5,
+      "roi": 3.3,
+      "profit": 143.69
     },
     "overall_7d": {
-      "wins": 1,
+      "wins": 0,
       "losses": 1,
-      "total": 2,
-      "win_pct": 50.0,
-      "roi": -30.6,
-      "profit": -61.24
+      "total": 1,
+      "win_pct": 0.0,
+      "roi": -100.0,
+      "profit": -100
     },
     "overall_30d": {
-      "wins": 9,
-      "losses": 5,
-      "total": 14,
-      "win_pct": 64.3,
-      "roi": -1.1,
-      "profit": -15.67
+      "wins": 4,
+      "losses": 2,
+      "total": 6,
+      "win_pct": 66.7,
+      "roi": 7.4,
+      "profit": 44.59
     }
   }
 }

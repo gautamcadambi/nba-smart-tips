@@ -2168,9 +2168,11 @@
       "win_probability": 63.7,
       "commence_time": "2026-06-04T00:40:00Z",
       "date": "2026-06-01T00:13:00.499836+00:00",
-      "graded": false,
-      "result": null,
-      "profit": null
+      "graded": true,
+      "result": "LOSS",
+      "profit": -100,
+      "home_score": 95,
+      "away_score": 105
     }
   ],
   "summary": {
@@ -2192,28 +2194,28 @@
     },
     "MEDIUM": {
       "wins": 31,
-      "losses": 12,
-      "total": 43,
-      "win_pct": 72.1,
-      "roi": 5.7,
-      "profit": 243.69
+      "losses": 13,
+      "total": 44,
+      "win_pct": 70.5,
+      "roi": 3.3,
+      "profit": 143.69
     },
     "overall_7d": {
-      "wins": 1,
+      "wins": 0,
       "losses": 1,
-      "total": 2,
-      "win_pct": 50.0,
-      "roi": -30.6,
-      "profit": -61.24
+      "total": 1,
+      "win_pct": 0.0,
+      "roi": -100.0,
+      "profit": -100
     },
     "overall_30d": {
-      "wins": 9,
-      "losses": 5,
-      "total": 14,
-      "win_pct": 64.3,
-      "roi": -1.1,
-      "profit": -15.67
+      "wins": 4,
+      "losses": 2,
+      "total": 6,
+      "win_pct": 66.7,
+      "roi": 7.4,
+      "profit": 44.59
     }
   },
-  "last_graded": "2026-05-20T03:59:06.679189+00:00"
+  "last_graded": "2026-06-04T04:27:01.141412+00:00"
 }
