@@ -1,5 +1,5 @@
 {
-  "last_updated": "June 04, 2026 at 04:27 AM UTC",
+  "last_updated": "June 04, 2026 at 08:40 AM UTC",
   "total_games": 1,
   "games": [
     {
@@ -8,47 +8,47 @@
       "away_team": "New York Knicks",
       "home_abbr": "SAS",
       "away_abbr": "NYK",
-      "home_ml": "-218",
-      "away_ml": "+180",
-      "home_ml_raw": -218,
-      "away_ml_raw": 180,
-      "home_prob": 65.7,
-      "away_prob": 34.3,
-      "spread": "SAS -5.5",
+      "home_ml": "-230",
+      "away_ml": "+190",
+      "home_ml_raw": -230,
+      "away_ml_raw": 190,
+      "home_prob": 66.9,
+      "away_prob": 33.1,
+      "spread": "SAS -6.5",
       "favorite": "San Antonio Spurs",
       "pick": "San Antonio Spurs",
       "pick_abbr": "SAS",
-      "moneyline": "-218",
-      "win_probability": 65.7,
+      "moneyline": "-230",
+      "win_probability": 66.9,
       "confidence": "MEDIUM",
       "confidence_stars": "\u2605\u2605\u2606",
       "commence_time": "2026-06-06T00:40:00Z",
       "line_movement": {
         "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "direction": "shorter",
+          "points_moved": 12,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -230 \u2190 -218",
+          "old_ml": "-218",
+          "new_ml": "-230"
         },
         "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "direction": "longer",
+          "points_moved": 10,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM +190 \u2190 +180",
+          "old_ml": "+180",
+          "new_ml": "+190"
         },
         "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "direction": "shorter",
+          "points_moved": 12,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -230 \u2190 -218",
+          "old_ml": "-218",
+          "new_ml": "-230"
         },
-        "snapshot_time": "June 03, 2026 at 11:44 PM UTC"
+        "snapshot_time": "June 04, 2026 at 04:27 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -75,6 +75,7 @@
         }
       },
       "edge_factors": [
+        "\ud83d\udd25 Sharp steam detected",
         "\ud83d\udca4 NYK fatigued (B2B) \u2014 source: ESPN"
       ],
       "injury_notes": "No key injuries.",
@@ -114,7 +115,7 @@
       "briefing": {
         "trend": "SAS on Back-to-Back \u26a0\ufe0f per ESPN schedule data. NYK on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "steam": "Line steamed from -218 to -230 (12pt move) \u2014 heavy professional action on San Antonio Spurs.",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -128,22 +129,22 @@
       },
       "news": [
         {
-          "title": "Spurs vs Knicks 2026 NBA Finals Preview: Wembanyama Faces Brunson in Historic Rematch",
-          "source": "Ibtimes.com.au",
-          "link": "https://www.ibtimes.com.au/2026-nba-finals-spurs-vs-knicks-rematch-1869999",
-          "published": "2026-06-03T04:26:13Z"
+          "title": "Mitchell Robinson practices, listed as questionable for Game 1 of NBA Finals",
+          "source": "New York Post",
+          "link": "https://nypost.com/2026/06/03/sports/mitchell-robinson-listed-as-questionable-for-game-1-of-nba-finals/?utm_source=yahoo&amp;utm_campaign=nypost&amp;utm_medium=referral",
+          "published": "2026-06-03T08:24:15Z"
         },
         {
-          "title": "\u2018Final Boss Cutscene Monologue\u2019 \u2013 Victor Wembanyama Comes Up With Another Striking Quote to Flip Narratives About Their Lack of Experience",
-          "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/articles/final-boss-cutscene-monologue-victor-041855287.html",
-          "published": "2026-06-03T04:18:55Z"
+          "title": "Mitchell Robinson practices, listed as questionable for Game 1 of NBA Finals",
+          "source": "New York Post",
+          "link": "https://nypost.com/2026/06/03/sports/mitchell-robinson-listed-as-questionable-for-game-1-of-nba-finals/",
+          "published": "2026-06-03T08:24:15Z"
         },
         {
-          "title": "The Ascension of Wembanyama: The 3 Biggest Storylines of the NBA Finals",
-          "source": "Newsweek",
-          "link": "https://www.newsweek.com/sports/nba/the-ascension-of-wembanyama-the-3-biggest-storylines-of-the-nba-finals-12024580",
-          "published": "2026-06-03T04:17:46Z"
+          "title": "Knicks Bulletin: \u2018I\u2019m always ready. Always stay ready\u2019",
+          "source": "Posting and Toasting",
+          "link": "https://www.postingandtoasting.com/knicks-news/83714/knicks-bulletin",
+          "published": "2026-06-03T08:17:43Z"
         }
       ]
     }
