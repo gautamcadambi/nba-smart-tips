@@ -1,5 +1,5 @@
 {
-  "last_updated": "June 05, 2026 at 04:10 AM UTC",
+  "last_updated": "June 05, 2026 at 08:27 AM UTC",
   "total_games": 1,
   "games": [
     {
@@ -25,30 +25,30 @@
       "commence_time": "2026-06-06T00:40:00Z",
       "line_movement": {
         "home": {
-          "direction": "longer",
-          "points_moved": 7,
+          "direction": "none",
+          "points_moved": 0,
           "steam": false,
-          "label": "\ud83d\udd34 -218 \u2190 -225",
-          "old_ml": "-225",
+          "label": "No movement",
+          "old_ml": "-218",
           "new_ml": "-218"
         },
         "away": {
-          "direction": "shorter",
-          "points_moved": 5,
+          "direction": "none",
+          "points_moved": 0,
           "steam": false,
-          "label": "\ud83d\udfe2 +180 \u2190 +185",
-          "old_ml": "+185",
+          "label": "No movement",
+          "old_ml": "+180",
           "new_ml": "+180"
         },
         "pick": {
-          "direction": "longer",
-          "points_moved": 7,
+          "direction": "none",
+          "points_moved": 0,
           "steam": false,
-          "label": "\ud83d\udd34 -218 \u2190 -225",
-          "old_ml": "-225",
+          "label": "No movement",
+          "old_ml": "-218",
           "new_ml": "-218"
         },
-        "snapshot_time": "June 05, 2026 at 01:32 AM UTC"
+        "snapshot_time": "June 05, 2026 at 04:10 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -88,33 +88,186 @@
       },
       "form": {
         "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
+          "last_10": [
+            {
+              "date": "Jun 05",
+              "result": "W",
+              "pts": 124,
+              "opp": "WAS",
+              "away": false
+            },
+            {
+              "date": "Jun 05",
+              "result": "W",
+              "pts": 126,
+              "opp": "ATL",
+              "away": false
+            },
+            {
+              "date": "Jun 05",
+              "result": "W",
+              "pts": 119,
+              "opp": "WAS",
+              "away": false
+            },
+            {
+              "date": "Jun 05",
+              "result": "W",
+              "pts": 117,
+              "opp": "OKC",
+              "away": false
+            },
+            {
+              "date": "Jun 05",
+              "result": "L",
+              "pts": 114,
+              "opp": "UTA",
+              "away": false
+            },
+            {
+              "date": "Jun 05",
+              "result": "W",
+              "pts": 130,
+              "opp": "OKC",
+              "away": false
+            },
+            {
+              "date": "Jun 05",
+              "result": "L",
+              "pts": 117,
+              "opp": "CLE",
+              "away": false
+            },
+            {
+              "date": "Jun 05",
+              "result": "W",
+              "pts": 114,
+              "opp": "ORL",
+              "away": false
+            },
+            {
+              "date": "Jun 05",
+              "result": "W",
+              "pts": 126,
+              "opp": "MEM",
+              "away": false
+            },
+            {
+              "date": "Jun 05",
+              "result": "W",
+              "pts": 111,
+              "opp": "OKC",
+              "away": false
+            }
+          ],
+          "wins": 8,
+          "losses": 2,
+          "streak": "W4",
+          "form_str": "WWWWLWLWWW",
+          "source": "NBA.com via nba_api"
         },
         "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
+          "last_10": [
+            {
+              "date": "Jun 05",
+              "result": "W",
+              "pts": 132,
+              "opp": "MIA",
+              "away": false
+            },
+            {
+              "date": "Jun 05",
+              "result": "L",
+              "pts": 107,
+              "opp": "PHI",
+              "away": false
+            },
+            {
+              "date": "Jun 05",
+              "result": "W",
+              "pts": 114,
+              "opp": "IND",
+              "away": false
+            },
+            {
+              "date": "Jun 05",
+              "result": "W",
+              "pts": 126,
+              "opp": "CLE",
+              "away": false
+            },
+            {
+              "date": "Jun 05",
+              "result": "L",
+              "pts": 104,
+              "opp": "MIN",
+              "away": false
+            },
+            {
+              "date": "Jun 05",
+              "result": "W",
+              "pts": 146,
+              "opp": "UTA",
+              "away": false
+            },
+            {
+              "date": "Jun 05",
+              "result": "L",
+              "pts": 117,
+              "opp": "BOS",
+              "away": false
+            },
+            {
+              "date": "Jun 05",
+              "result": "W",
+              "pts": 119,
+              "opp": "CHA",
+              "away": false
+            },
+            {
+              "date": "Jun 05",
+              "result": "W",
+              "pts": 132,
+              "opp": "ORL",
+              "away": false
+            },
+            {
+              "date": "Jun 05",
+              "result": "W",
+              "pts": 106,
+              "opp": "ORL",
+              "away": false
+            }
+          ],
+          "wins": 7,
+          "losses": 3,
+          "streak": "W1",
+          "form_str": "WLWWLWLWWW",
+          "source": "NBA.com via nba_api"
         }
       },
       "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
+        "total_meetings": 2,
+        "home_wins": 1,
+        "away_wins": 1,
+        "meetings": [
+          {
+            "date": "2025-12-31",
+            "home_result": "W",
+            "pts": 134
+          },
+          {
+            "date": "2026-03-01",
+            "home_result": "L",
+            "pts": 89
+          }
+        ],
+        "source": "NBA.com via nba_api"
       },
       "briefing": {
-        "trend": "San Antonio Spurs hold a 65.7% edge.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line moved -225\u2192-218 (7pts). Pending \u2014 check closer to tip-off",
+        "trend": "SAS are 8-2 in their last 10 (streak: W4). NYK are 7-3 in their last 10 (streak: W1).",
+        "matchup": "Season series: SAS 1-1 vs NYK in 2 meetings. Both rosters appear healthy \u2014 clean line.",
+        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -128,22 +281,22 @@
       },
       "news": [
         {
-          "title": "Knicks beat Spurs 105-95 in Game 1 of NBA Finals",
-          "source": "Japan Today",
-          "link": "https://japantoday.com/category/sports/game-1-spurs-and-knicks-set-to-open-the-nba-finals-on-wednesday-night-in-san-antonio",
-          "published": "2026-06-04T04:09:39Z"
+          "title": "Knicks vs. Spurs player grades: KAT leads New York to NBA Finals Game 1 win",
+          "source": "Posting and Toasting",
+          "link": "https://www.postingandtoasting.com/knicks-analysis/83887/knicks-spurs-nba-finals-game-1-player-grades-brunson-towns-bridges-anunoby-mcbride-hart",
+          "published": "2026-06-04T08:25:00Z"
         },
         {
-          "title": "Questlove, Earth,\u00a0Wind & Fire Electrify Tribeca Festival Opening Night, Founders Reflect On 25th Anniversary \u2013 \u201cIt Just Kept Rolling And Rolling, And Here We Are\u201d",
-          "source": "Deadline",
-          "link": "http://deadline.com/2026/06/tribeca-festival-25th-edition-questlove-earth-wind-fire-1236940280/",
-          "published": "2026-06-04T04:07:31Z"
+          "title": "Knicks Fans Erupt After Josh Hart Becomes First Player Since Larry Bird to Reach Rare Finals Feat in Game 1",
+          "source": "Yahoo Entertainment",
+          "link": "https://sports.yahoo.com/articles/knicks-fans-erupt-josh-hart-081820079.html",
+          "published": "2026-06-04T08:18:20Z"
         },
         {
-          "title": "Duke vs. Michigan ditching Madison Square Garden for an MLB stadium. Here's why",
-          "source": "Sporting News",
-          "link": "https://www.sportingnews.com/us/ncaa-basketball/duke/news/duke-vs-michigan-ditching-madison-square-garden-mlb-stadium-heres-why/ddd346edc2841f5b5259d544",
-          "published": "2026-06-04T04:07:30Z"
+          "title": "Brunson scores 30 as Knicks upset Spurs in NBA Finals opener",
+          "source": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/sports/2026/6/4/brunson-scores-30-as-knicks-upset-spurs-in-nba-finals-opener",
+          "published": "2026-06-04T08:12:02Z"
         }
       ]
     }
