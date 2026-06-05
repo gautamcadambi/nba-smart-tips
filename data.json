@@ -1,5 +1,5 @@
 {
-  "last_updated": "June 04, 2026 at 11:10 PM UTC",
+  "last_updated": "June 05, 2026 at 01:32 AM UTC",
   "total_games": 1,
   "games": [
     {
@@ -25,49 +25,49 @@
       "commence_time": "2026-06-06T00:40:00Z",
       "line_movement": {
         "home": {
-          "direction": "longer",
-          "points_moved": 5,
+          "direction": "none",
+          "points_moved": 0,
           "steam": false,
-          "label": "\ud83d\udd34 -225 \u2190 -230",
-          "old_ml": "-230",
+          "label": "No movement",
+          "old_ml": "-225",
           "new_ml": "-225"
         },
         "away": {
-          "direction": "shorter",
-          "points_moved": 5,
+          "direction": "none",
+          "points_moved": 0,
           "steam": false,
-          "label": "\ud83d\udfe2 +185 \u2190 +190",
-          "old_ml": "+190",
+          "label": "No movement",
+          "old_ml": "+185",
           "new_ml": "+185"
         },
         "pick": {
-          "direction": "longer",
-          "points_moved": 5,
+          "direction": "none",
+          "points_moved": 0,
           "steam": false,
-          "label": "\ud83d\udd34 -225 \u2190 -230",
-          "old_ml": "-230",
+          "label": "No movement",
+          "old_ml": "-225",
           "new_ml": "-225"
         },
-        "snapshot_time": "June 04, 2026 at 01:58 PM UTC"
+        "snapshot_time": "June 04, 2026 at 11:10 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
           "last_game": "Jun 03",
-          "days_rest": 1,
+          "days_rest": 2,
           "games_last_4d": 1,
           "travel_miles": 0,
           "travel_desc": "",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
           "last_game": "Jun 03",
-          "days_rest": 1,
+          "days_rest": 2,
           "games_last_4d": 1,
           "travel_miles": 1580,
           "travel_desc": "1,580 mi road trip",
@@ -75,7 +75,7 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udca4 NYK fatigued (B2B) \u2014 source: ESPN"
+        "\ud83d\udcca 32.8pt probability edge"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -112,9 +112,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "SAS on Back-to-Back \u26a0\ufe0f per ESPN schedule data. NYK on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "trend": "San Antonio Spurs hold a 66.4% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line moved -230\u2192-225 (5pts). Pending \u2014 check closer to tip-off",
+        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -128,22 +128,22 @@
       },
       "news": [
         {
-          "title": "From Patrick Ewing to Jalen Brunson, the Knicks' Finals run connects two eras",
-          "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/nba/story/_/id/48957570/patrick-ewing-90s-knicks-believe-jalen-brunson-new-york-team-win-all",
-          "published": "Thu, 4 Jun 2026 15:13:12 EST"
+          "title": "Knicks vs. Spurs Game 1 live takeaways: Brunson hobbled early; Wembanyama sets tone",
+          "source": "USA Today",
+          "link": "https://www.usatoday.com/story/sports/nba/playoffs/2026/06/03/nba-finals-game-1-knicks-spurs-takeaways-analysis/90394149007/",
+          "published": "2026-06-04T01:31:24Z"
         },
         {
-          "title": "Sources: NBA investigating Brunson-fan incident",
-          "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/nba/story/_/id/48967648/sources-nba-eyes-interaction-jalen-brunson-fans-game-1",
-          "published": "Thu, 4 Jun 2026 17:45:38 EST"
+          "title": "Knicks seemingly survive major Jalen Brunson injury scare",
+          "source": "Sporting News",
+          "link": "https://www.sportingnews.com/us/nba/new-york-knicks/news/knicks-seemingly-survive-major-jalen-brunson-injury-scare/b31eb443bad6ad43efd806a8",
+          "published": "2026-06-04T01:30:38Z"
         },
         {
-          "title": "Trump to attend NBA Finals Game 3 in New York",
-          "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/nba/story/_/id/48969036/trump-accepts-invite-attend-nba-finals-game-3-new-york",
-          "published": "Thu, 4 Jun 2026 17:45:39 EST"
+          "title": "Greatly improved NBA Finals presentation answers prayers of basketball fans",
+          "source": "Awful Announcing",
+          "link": "https://awfulannouncing.com/espn/greatly-improved-nba-finals-presentation-answers-prayers-of-basketball-fans.html",
+          "published": "2026-06-04T01:30:25Z"
         }
       ]
     }
