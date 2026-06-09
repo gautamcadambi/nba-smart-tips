@@ -1,5 +1,5 @@
 {
-  "last_updated": "June 09, 2026 at 12:17 AM UTC",
+  "last_updated": "June 09, 2026 at 03:56 AM UTC",
   "total_games": 1,
   "games": [
     {
@@ -22,7 +22,7 @@
       "win_probability": 53.2,
       "confidence": "LOW",
       "confidence_stars": "\u2605\u2606\u2606",
-      "commence_time": "2026-06-09T00:40:00Z",
+      "commence_time": "2026-06-11T00:40:00Z",
       "line_movement": {
         "home": {
           "direction": "none",
@@ -48,34 +48,34 @@
           "old_ml": "-125",
           "new_ml": "-125"
         },
-        "snapshot_time": "June 08, 2026 at 11:12 PM UTC"
+        "snapshot_time": "June 09, 2026 at 12:17 AM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "FRESH",
-          "label": "Well rested \u2705",
-          "battery": 100,
-          "last_game": "Jun 05",
-          "days_rest": 4,
-          "games_last_4d": 1,
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Jun 08",
+          "days_rest": 1,
+          "games_last_4d": 2,
           "travel_miles": 1580,
           "travel_desc": "1,580 mi road trip",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "FRESH",
-          "label": "Well rested \u2705",
-          "battery": 100,
-          "last_game": "Jun 05",
-          "days_rest": 4,
-          "games_last_4d": 1,
-          "travel_miles": 0,
-          "travel_desc": "",
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Jun 08",
+          "days_rest": 1,
+          "games_last_4d": 2,
+          "travel_miles": 1580,
+          "travel_desc": "1,580 mi road trip",
           "source": "ESPN Scoreboard API"
         }
       },
       "edge_factors": [
-        "\ud83d\udcca 6.4pt probability edge"
+        "\ud83d\udca4 SAS fatigued (B2B) \u2014 source: ESPN"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -112,7 +112,7 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "New York Knicks hold a 53.2% edge.",
+        "trend": "NYK on Back-to-Back \u26a0\ufe0f per ESPN schedule data. SAS on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
         "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
@@ -128,22 +128,22 @@
       },
       "news": [
         {
-          "title": "Elton Brand out as GM, Jameer Nelson promoted in 76ers shakeup",
-          "source": "New York Post",
-          "link": "https://nypost.com/2026/06/07/sports/elton-brand-out-as-gm-jameer-nelson-promoted-in-76ers-shakeup/",
-          "published": "2026-06-08T00:08:38Z"
+          "title": "\u2019Outrageous,\u2019 \u2019Makes Zero Sense\u2019 \u2014 NBA World Rips Puzzling Finals Schedule As Anticipation Mounts for Spurs-Knicks Game 3",
+          "source": "Pro Football Network",
+          "link": "https://www.profootballnetwork.com/nba/outrageous-makes-zero-sense-nba-world-rips-puzzling-finals-schedule-anticipation-mounts-spurs-knicks-game-3-june-2026/?utm_medium=rss&amp;utm_source=nordot",
+          "published": "2026-06-08T03:47:42Z"
         },
         {
-          "title": "Elton Brand out as GM, Jameer Nelson promoted in 76ers shakeup",
-          "source": "New York Post",
-          "link": "https://nypost.com/2026/06/07/sports/elton-brand-out-as-gm-jameer-nelson-promoted-in-76ers-shakeup/?utm_source=yahoo&amp;utm_campaign=nypost&amp;utm_medium=referral",
-          "published": "2026-06-08T00:08:38Z"
+          "title": "Penn State student is shot and killed while trying to get his phone back from robbers",
+          "source": "Dailymail.com",
+          "link": "https://www.dailymail.com/news/article-15881311/Penn-State-student-shot-killed-phone-robbery-Billy-Schmidt.html",
+          "published": "2026-06-08T03:38:59Z"
         },
         {
-          "title": "Knicks star Jalen Brunson talks strategy ahead of Game 3 of NBA Finals",
-          "source": "Abcnews.com",
-          "link": "https://abcnews.com/GMA/Culture/knicks-star-jalen-brunson-talks-strategy-ahead-game/story?id=133669941",
-          "published": "2026-06-08T00:03:35Z"
+          "title": "Stabbing wounds six at New York's Penn Station",
+          "source": "RTE",
+          "link": "https://www.rte.ie/news/us/2026/0608/1577263-stabbing-wounds-six-at-new-yorks-penn-station/",
+          "published": "2026-06-08T03:37:17Z"
         }
       ]
     }
@@ -151,11 +151,11 @@
   "track_record": {
     "LOW": {
       "wins": 23,
-      "losses": 21,
-      "total": 44,
-      "win_pct": 52.3,
-      "roi": -0.7,
-      "profit": -32.35
+      "losses": 22,
+      "total": 45,
+      "win_pct": 51.1,
+      "roi": -2.9,
+      "profit": -132.35
     },
     "HIGH": {
       "wins": 41,
@@ -182,12 +182,12 @@
       "profit": -100
     },
     "overall_30d": {
-      "wins": 4,
-      "losses": 2,
-      "total": 6,
-      "win_pct": 66.7,
-      "roi": 7.4,
-      "profit": 44.59
+      "wins": 1,
+      "losses": 3,
+      "total": 4,
+      "win_pct": 25.0,
+      "roi": -65.3,
+      "profit": -261.24
     }
   }
 }
