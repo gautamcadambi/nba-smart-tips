@@ -1,5 +1,5 @@
 {
-  "last_updated": "June 09, 2026 at 11:17 PM UTC",
+  "last_updated": "June 10, 2026 at 01:34 AM UTC",
   "total_games": 1,
   "games": [
     {
@@ -25,57 +25,57 @@
       "commence_time": "2026-06-11T00:40:00Z",
       "line_movement": {
         "home": {
-          "direction": "shorter",
-          "points_moved": 5,
+          "direction": "none",
+          "points_moved": 0,
           "steam": false,
-          "label": "\ud83d\udfe2 -130 \u2190 -125",
-          "old_ml": "-125",
+          "label": "No movement",
+          "old_ml": "-130",
           "new_ml": "-130"
         },
         "away": {
-          "direction": "longer",
-          "points_moved": 5,
+          "direction": "none",
+          "points_moved": 0,
           "steam": false,
-          "label": "\ud83d\udd34 +110 \u2190 +105",
-          "old_ml": "+105",
+          "label": "No movement",
+          "old_ml": "+110",
           "new_ml": "+110"
         },
         "pick": {
-          "direction": "shorter",
-          "points_moved": 5,
+          "direction": "none",
+          "points_moved": 0,
           "steam": false,
-          "label": "\ud83d\udfe2 -130 \u2190 -125",
-          "old_ml": "-125",
+          "label": "No movement",
+          "old_ml": "-130",
           "new_ml": "-130"
         },
-        "snapshot_time": "June 09, 2026 at 01:44 PM UTC"
+        "snapshot_time": "June 09, 2026 at 11:17 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
           "last_game": "Jun 08",
-          "days_rest": 1,
-          "games_last_4d": 2,
-          "travel_miles": 1580,
-          "travel_desc": "1,580 mi road trip",
+          "days_rest": 2,
+          "games_last_4d": 1,
+          "travel_miles": 0,
+          "travel_desc": "",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
           "last_game": "Jun 08",
-          "days_rest": 1,
-          "games_last_4d": 2,
+          "days_rest": 2,
+          "games_last_4d": 1,
           "travel_miles": 1580,
           "travel_desc": "1,580 mi road trip",
           "source": "ESPN Scoreboard API"
         }
       },
       "edge_factors": [
-        "\ud83d\udca4 SAS fatigued (B2B) \u2014 source: ESPN"
+        "\ud83d\udcca 8.6pt probability edge"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -88,33 +88,186 @@
       },
       "form": {
         "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
+          "last_10": [
+            {
+              "date": "Jun 10",
+              "result": "W",
+              "pts": 132,
+              "opp": "MIA",
+              "away": false
+            },
+            {
+              "date": "Jun 10",
+              "result": "L",
+              "pts": 107,
+              "opp": "PHI",
+              "away": false
+            },
+            {
+              "date": "Jun 10",
+              "result": "W",
+              "pts": 114,
+              "opp": "IND",
+              "away": false
+            },
+            {
+              "date": "Jun 10",
+              "result": "W",
+              "pts": 126,
+              "opp": "CLE",
+              "away": false
+            },
+            {
+              "date": "Jun 10",
+              "result": "L",
+              "pts": 104,
+              "opp": "MIN",
+              "away": false
+            },
+            {
+              "date": "Jun 10",
+              "result": "W",
+              "pts": 146,
+              "opp": "UTA",
+              "away": false
+            },
+            {
+              "date": "Jun 10",
+              "result": "L",
+              "pts": 117,
+              "opp": "BOS",
+              "away": false
+            },
+            {
+              "date": "Jun 10",
+              "result": "W",
+              "pts": 119,
+              "opp": "CHA",
+              "away": false
+            },
+            {
+              "date": "Jun 10",
+              "result": "W",
+              "pts": 132,
+              "opp": "ORL",
+              "away": false
+            },
+            {
+              "date": "Jun 10",
+              "result": "W",
+              "pts": 106,
+              "opp": "ORL",
+              "away": false
+            }
+          ],
+          "wins": 7,
+          "losses": 3,
+          "streak": "W1",
+          "form_str": "WLWWLWLWWW",
+          "source": "NBA.com via nba_api"
         },
         "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
+          "last_10": [
+            {
+              "date": "Jun 10",
+              "result": "W",
+              "pts": 124,
+              "opp": "WAS",
+              "away": false
+            },
+            {
+              "date": "Jun 10",
+              "result": "W",
+              "pts": 119,
+              "opp": "WAS",
+              "away": false
+            },
+            {
+              "date": "Jun 10",
+              "result": "W",
+              "pts": 126,
+              "opp": "ATL",
+              "away": false
+            },
+            {
+              "date": "Jun 10",
+              "result": "W",
+              "pts": 117,
+              "opp": "OKC",
+              "away": false
+            },
+            {
+              "date": "Jun 10",
+              "result": "W",
+              "pts": 130,
+              "opp": "OKC",
+              "away": false
+            },
+            {
+              "date": "Jun 10",
+              "result": "L",
+              "pts": 117,
+              "opp": "CLE",
+              "away": false
+            },
+            {
+              "date": "Jun 10",
+              "result": "W",
+              "pts": 126,
+              "opp": "MEM",
+              "away": false
+            },
+            {
+              "date": "Jun 10",
+              "result": "W",
+              "pts": 114,
+              "opp": "ORL",
+              "away": false
+            },
+            {
+              "date": "Jun 10",
+              "result": "W",
+              "pts": 111,
+              "opp": "OKC",
+              "away": false
+            },
+            {
+              "date": "Jun 10",
+              "result": "W",
+              "pts": 135,
+              "opp": "NOP",
+              "away": false
+            }
+          ],
+          "wins": 9,
+          "losses": 1,
+          "streak": "W5",
+          "form_str": "WWWWWLWWWW",
+          "source": "NBA.com via nba_api"
         }
       },
       "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
+        "total_meetings": 2,
+        "home_wins": 1,
+        "away_wins": 1,
+        "meetings": [
+          {
+            "date": "2025-12-31",
+            "home_result": "L",
+            "pts": 132
+          },
+          {
+            "date": "2026-03-01",
+            "home_result": "W",
+            "pts": 114
+          }
+        ],
+        "source": "NBA.com via nba_api"
       },
       "briefing": {
-        "trend": "NYK on Back-to-Back \u26a0\ufe0f per ESPN schedule data. SAS on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line moved -125\u2192-130 (5pts). Pending \u2014 check closer to tip-off",
+        "trend": "NYK are 7-3 in their last 10 (streak: W1). SAS are 9-1 in their last 10 (streak: W5).",
+        "matchup": "Season series: NYK 1-1 vs SAS in 2 meetings. Both rosters appear healthy \u2014 clean line.",
+        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -128,22 +281,22 @@
       },
       "news": [
         {
-          "title": "2026 NBA mock draft: Sixers take Koa Peat with the No. 22 overall pick",
-          "source": "USA Today",
-          "link": "https://sixerswire.usatoday.com/story/sports/nba/sixers/2026/06/08/2026-nba-mock-draft-sixers-take-koa-peat-with-the-no-22-overall-pick/90463420007/",
-          "published": "2026-06-08T23:17:07Z"
+          "title": "Trump booed at Madison Square Garden before Knicks, Spurs finals game - CNBC",
+          "source": "Slashdot.org",
+          "link": "https://slashdot.org/firehose.pl?op=view&amp;id=183689968",
+          "published": "2026-06-09T01:32:23Z"
         },
         {
-          "title": "\u2018I\u2019m Deeply Saddened\u2019 \u2014 Michael Jordan Reacts to Ex-Bulls Teammate Stacey King\u2019s Tragic Passing at 59 Years Old",
-          "source": "Pro Football Network",
-          "link": "https://www.profootballnetwork.com/nba/michael-jordan-reacts-to-ex-bulls-teammate-stacey-kings-tragic-passing-at-59-years-old/?utm_medium=rss&amp;utm_source=nordot",
-          "published": "2026-06-08T23:16:54Z"
+          "title": "NBA Commissioner Adam Silver: Trump is 'Genuine' New York Knicks Fan",
+          "source": "Breitbart News",
+          "link": "https://www.breitbart.com/sports/2026/06/08/nba-commissioner-adam-silver-trump-is-genuine-new-york-knicks-fan/",
+          "published": "2026-06-09T01:32:18Z"
         },
         {
-          "title": "Boston Celtics short-timer big man Stacey King passes",
-          "source": "USA Today",
-          "link": "https://celticswire.usatoday.com/story/sports/nba/celtics/2026/06/08/celtics-short-timer-big-man-stacey-king-passes/90466375007/",
-          "published": "2026-06-08T23:15:51Z"
+          "title": "Trump astounds analyst as his 'Manhattan project' blows up in his face",
+          "source": "Raw Story",
+          "link": "https://www.rawstory.com/trump-nba-finals/",
+          "published": "2026-06-09T01:30:47Z"
         }
       ]
     }
