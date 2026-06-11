@@ -1,6 +1,6 @@
 {
-  "last_updated": "June 10, 2026 at 11:26 PM UTC",
-  "total_games": 1,
+  "last_updated": "June 11, 2026 at 02:03 AM UTC",
+  "total_games": 2,
   "games": [
     {
       "game": "San Antonio Spurs @ New York Knicks",
@@ -8,74 +8,75 @@
       "away_team": "San Antonio Spurs",
       "home_abbr": "NYK",
       "away_abbr": "SAS",
-      "home_ml": "-135",
-      "away_ml": "+114",
-      "home_ml_raw": -135,
-      "away_ml_raw": 114,
-      "home_prob": 55.1,
-      "away_prob": 44.9,
-      "spread": "NYK -2.5",
-      "favorite": "New York Knicks",
-      "pick": "New York Knicks",
-      "pick_abbr": "NYK",
-      "moneyline": "-135",
-      "win_probability": 55.1,
-      "confidence": "LOW",
-      "confidence_stars": "\u2605\u2606\u2606",
-      "commence_time": "2026-06-11T00:40:00Z",
+      "home_ml": "+1600",
+      "away_ml": "-4800",
+      "home_ml_raw": 1600,
+      "away_ml_raw": -4800,
+      "home_prob": 5.7,
+      "away_prob": 94.3,
+      "spread": "NYK +19.5",
+      "favorite": "San Antonio Spurs",
+      "pick": "San Antonio Spurs",
+      "pick_abbr": "SAS",
+      "moneyline": "-4800",
+      "win_probability": 94.3,
+      "confidence": "HIGH",
+      "confidence_stars": "\u2605\u2605\u2605",
+      "commence_time": "2026-06-11T00:43:00Z",
       "line_movement": {
         "home": {
-          "direction": "shorter",
-          "points_moved": 5,
-          "steam": false,
-          "label": "\ud83d\udfe2 -135 \u2190 -130",
-          "old_ml": "-130",
-          "new_ml": "-135"
+          "direction": "longer",
+          "points_moved": 1735,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM +1600 \u2190 -135",
+          "old_ml": "-135",
+          "new_ml": "+1600"
         },
         "away": {
-          "direction": "longer",
-          "points_moved": 4,
-          "steam": false,
-          "label": "\ud83d\udd34 +114 \u2190 +110",
-          "old_ml": "+110",
-          "new_ml": "+114"
+          "direction": "shorter",
+          "points_moved": 4914,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -4800 \u2190 +114",
+          "old_ml": "+114",
+          "new_ml": "-4800"
         },
         "pick": {
           "direction": "shorter",
-          "points_moved": 5,
-          "steam": false,
-          "label": "\ud83d\udfe2 -135 \u2190 -130",
-          "old_ml": "-130",
-          "new_ml": "-135"
+          "points_moved": 4914,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -4800 \u2190 +114",
+          "old_ml": "+114",
+          "new_ml": "-4800"
         },
-        "snapshot_time": "June 10, 2026 at 02:22 PM UTC"
+        "snapshot_time": "June 10, 2026 at 11:26 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "Jun 08",
-          "days_rest": 2,
-          "games_last_4d": 1,
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Jun 10",
+          "days_rest": 1,
+          "games_last_4d": 2,
           "travel_miles": 0,
           "travel_desc": "",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "Jun 08",
-          "days_rest": 2,
-          "games_last_4d": 1,
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Jun 10",
+          "days_rest": 1,
+          "games_last_4d": 2,
           "travel_miles": 1580,
           "travel_desc": "1,580 mi road trip",
           "source": "ESPN Scoreboard API"
         }
       },
       "edge_factors": [
-        "\ud83d\udcca 10.2pt probability edge"
+        "\ud83d\udd25 Sharp steam detected",
+        "\ud83d\udca4 NYK fatigued (B2B) \u2014 source: ESPN"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -112,9 +113,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "New York Knicks hold a 55.1% edge.",
+        "trend": "NYK on Back-to-Back \u26a0\ufe0f per ESPN schedule data. SAS on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line moved -130\u2192-135 (5pts). Pending \u2014 check closer to tip-off",
+        "steam": "Line steamed from +114 to -4800 (4914pt move) \u2014 heavy professional action on San Antonio Spurs.",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -128,22 +129,167 @@
       },
       "news": [
         {
-          "title": "Blockbuster NBA trade proposal has Bulls adding 2-time All-Star",
-          "source": "Sporting News",
-          "link": "https://www.sportingnews.com/us/nba/chicago-bulls/news/blockbuster-nba-trade-proposal-has-bulls-adding-ja-morant/d1e7da253d0d078465997403",
-          "published": "2026-06-09T23:18:20Z"
+          "title": "Gonzaga to face John Calipari, Arkansas in road exhibition game",
+          "source": "The Spokesman-Review",
+          "link": "http://www.spokesman.com/stories/2026/jun/09/gonzaga-to-face-john-calipari-arkansas-in-road-exh/",
+          "published": "2026-06-10T02:02:00Z"
         },
         {
-          "title": "Why Angel Reese was traded from Sky to Dream",
-          "source": "Sporting News",
-          "link": "https://www.sportingnews.com/us/wnba/news/why-angel-reese-was-traded-sky-dream/53e14c00cab3bb16b46e8bd0",
-          "published": "2026-06-09T23:18:16Z"
+          "title": "Adrien Brody holds hands with girlfriend Georgina Chapman's son, 13, in NYC\u2026 after jailed Harvey Weinstein reacted to the actor raising his kids",
+          "source": "Dailymail.com",
+          "link": "https://www.dailymail.com/tvshowbiz/article-15887431/Adrien-Brody-Georgina-Chapman-son-Harvey-Weinstein.html",
+          "published": "2026-06-10T02:00:53Z"
         },
         {
-          "title": "Nate Green's No. 4 heading to Hulman Center rafters",
-          "source": "Tribstar.com",
-          "link": "https://www.tribstar.com/sports/nate-greens-no-4-heading-to-hulman-center-rafters/article_9bd45aa5-a326-4b02-a16d-893fa898b39a.html",
-          "published": "2026-06-09T23:18:00Z"
+          "title": "Every Notre Dame player drafted by the Brooklyn Nets",
+          "source": "USA Today",
+          "link": "https://netswire.usatoday.com/story/sports/nba/nets/2026/06/09/every-notre-dame-player-drafted-by-the-nets/90306442007/",
+          "published": "2026-06-10T02:00:26Z"
+        }
+      ]
+    },
+    {
+      "game": "New York Knicks @ San Antonio Spurs",
+      "home_team": "San Antonio Spurs",
+      "away_team": "New York Knicks",
+      "home_abbr": "SAS",
+      "away_abbr": "NYK",
+      "home_ml": "N/A",
+      "away_ml": "N/A",
+      "home_ml_raw": null,
+      "away_ml_raw": null,
+      "home_prob": 50.0,
+      "away_prob": 50.0,
+      "spread": "N/A",
+      "favorite": "San Antonio Spurs",
+      "pick": "San Antonio Spurs",
+      "pick_abbr": "SAS",
+      "moneyline": "N/A",
+      "win_probability": 50.0,
+      "confidence": "LOW",
+      "confidence_stars": "\u2605\u2606\u2606",
+      "commence_time": "2026-06-14T00:40:00Z",
+      "line_movement": {
+        "home": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "away": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "pick": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "snapshot_time": "\u2014"
+      },
+      "fatigue": {
+        "home": {
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Jun 10",
+          "days_rest": 1,
+          "games_last_4d": 2,
+          "travel_miles": 1580,
+          "travel_desc": "1,580 mi road trip",
+          "source": "ESPN Scoreboard API"
+        },
+        "away": {
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Jun 10",
+          "days_rest": 1,
+          "games_last_4d": 2,
+          "travel_miles": 0,
+          "travel_desc": "",
+          "source": "ESPN Scoreboard API"
+        }
+      },
+      "edge_factors": [
+        "\ud83d\udca4 NYK fatigued (B2B) \u2014 source: ESPN"
+      ],
+      "injury_notes": "No key injuries.",
+      "sharp": {
+        "away_t": null,
+        "home_t": null,
+        "source": null,
+        "sharp_signal": null,
+        "sharp_label": "Pending \u2014 check closer to tip-off",
+        "rlm": false
+      },
+      "form": {
+        "home": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        },
+        "away": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        }
+      },
+      "h2h": {
+        "total_meetings": 0,
+        "home_wins": 0,
+        "away_wins": 0,
+        "meetings": [],
+        "source": "\u2014"
+      },
+      "briefing": {
+        "trend": "SAS on Back-to-Back \u26a0\ufe0f per ESPN schedule data. NYK on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "matchup": "Both rosters appear healthy \u2014 clean line.",
+        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "injury_notes": "No key injuries."
+      },
+      "live": {
+        "status": "pre",
+        "status_detail": "Upcoming",
+        "period": 0,
+        "clock": "",
+        "home_score": 0,
+        "away_score": 0,
+        "spread_alert": null
+      },
+      "news": [
+        {
+          "title": "Gonzaga to face John Calipari, Arkansas in road exhibition game",
+          "source": "The Spokesman-Review",
+          "link": "http://www.spokesman.com/stories/2026/jun/09/gonzaga-to-face-john-calipari-arkansas-in-road-exh/",
+          "published": "2026-06-10T02:02:00Z"
+        },
+        {
+          "title": "Adrien Brody holds hands with girlfriend Georgina Chapman's son, 13, in NYC\u2026 after jailed Harvey Weinstein reacted to the actor raising his kids",
+          "source": "Dailymail.com",
+          "link": "https://www.dailymail.com/tvshowbiz/article-15887431/Adrien-Brody-Georgina-Chapman-son-Harvey-Weinstein.html",
+          "published": "2026-06-10T02:00:53Z"
+        },
+        {
+          "title": "Every Notre Dame player drafted by the Brooklyn Nets",
+          "source": "USA Today",
+          "link": "https://netswire.usatoday.com/story/sports/nba/nets/2026/06/09/every-notre-dame-player-drafted-by-the-nets/90306442007/",
+          "published": "2026-06-10T02:00:26Z"
         }
       ]
     }
