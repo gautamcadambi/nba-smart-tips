@@ -1,5 +1,5 @@
 {
-  "last_updated": "June 11, 2026 at 09:04 AM UTC",
+  "last_updated": "June 11, 2026 at 02:36 PM UTC",
   "total_games": 1,
   "games": [
     {
@@ -25,30 +25,30 @@
       "commence_time": "2026-06-14T00:40:00Z",
       "line_movement": {
         "home": {
-          "direction": "longer",
-          "points_moved": 7,
+          "direction": "none",
+          "points_moved": 0,
           "steam": false,
-          "label": "\ud83d\udd34 -198 \u2190 -205",
-          "old_ml": "-205",
+          "label": "No movement",
+          "old_ml": "-198",
           "new_ml": "-198"
         },
         "away": {
-          "direction": "shorter",
-          "points_moved": 6,
+          "direction": "none",
+          "points_moved": 0,
           "steam": false,
-          "label": "\ud83d\udfe2 +164 \u2190 +170",
-          "old_ml": "+170",
+          "label": "No movement",
+          "old_ml": "+164",
           "new_ml": "+164"
         },
         "pick": {
-          "direction": "longer",
-          "points_moved": 7,
+          "direction": "none",
+          "points_moved": 0,
           "steam": false,
-          "label": "\ud83d\udd34 -198 \u2190 -205",
-          "old_ml": "-205",
+          "label": "No movement",
+          "old_ml": "-198",
           "new_ml": "-198"
         },
-        "snapshot_time": "June 11, 2026 at 04:21 AM UTC"
+        "snapshot_time": "June 11, 2026 at 09:04 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -88,186 +88,33 @@
       },
       "form": {
         "home": {
-          "last_10": [
-            {
-              "date": "Jun 11",
-              "result": "W",
-              "pts": 126,
-              "opp": "ATL",
-              "away": false
-            },
-            {
-              "date": "Jun 11",
-              "result": "W",
-              "pts": 119,
-              "opp": "WAS",
-              "away": false
-            },
-            {
-              "date": "Jun 11",
-              "result": "W",
-              "pts": 124,
-              "opp": "WAS",
-              "away": false
-            },
-            {
-              "date": "Jun 11",
-              "result": "W",
-              "pts": 117,
-              "opp": "OKC",
-              "away": false
-            },
-            {
-              "date": "Jun 11",
-              "result": "W",
-              "pts": 130,
-              "opp": "OKC",
-              "away": false
-            },
-            {
-              "date": "Jun 11",
-              "result": "L",
-              "pts": 117,
-              "opp": "CLE",
-              "away": false
-            },
-            {
-              "date": "Jun 11",
-              "result": "W",
-              "pts": 126,
-              "opp": "MEM",
-              "away": false
-            },
-            {
-              "date": "Jun 11",
-              "result": "W",
-              "pts": 114,
-              "opp": "ORL",
-              "away": false
-            },
-            {
-              "date": "Jun 11",
-              "result": "W",
-              "pts": 111,
-              "opp": "OKC",
-              "away": false
-            },
-            {
-              "date": "Jun 11",
-              "result": "W",
-              "pts": 135,
-              "opp": "NOP",
-              "away": false
-            }
-          ],
-          "wins": 9,
-          "losses": 1,
-          "streak": "W5",
-          "form_str": "WWWWWLWWWW",
-          "source": "NBA.com via nba_api"
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
         },
         "away": {
-          "last_10": [
-            {
-              "date": "Jun 11",
-              "result": "W",
-              "pts": 132,
-              "opp": "MIA",
-              "away": false
-            },
-            {
-              "date": "Jun 11",
-              "result": "L",
-              "pts": 107,
-              "opp": "PHI",
-              "away": false
-            },
-            {
-              "date": "Jun 11",
-              "result": "W",
-              "pts": 114,
-              "opp": "IND",
-              "away": false
-            },
-            {
-              "date": "Jun 11",
-              "result": "W",
-              "pts": 126,
-              "opp": "CLE",
-              "away": false
-            },
-            {
-              "date": "Jun 11",
-              "result": "W",
-              "pts": 128,
-              "opp": "ATL",
-              "away": false
-            },
-            {
-              "date": "Jun 11",
-              "result": "L",
-              "pts": 104,
-              "opp": "MIN",
-              "away": false
-            },
-            {
-              "date": "Jun 11",
-              "result": "W",
-              "pts": 146,
-              "opp": "UTA",
-              "away": false
-            },
-            {
-              "date": "Jun 11",
-              "result": "L",
-              "pts": 117,
-              "opp": "BOS",
-              "away": false
-            },
-            {
-              "date": "Jun 11",
-              "result": "W",
-              "pts": 119,
-              "opp": "CHA",
-              "away": false
-            },
-            {
-              "date": "Jun 11",
-              "result": "W",
-              "pts": 132,
-              "opp": "ORL",
-              "away": false
-            }
-          ],
-          "wins": 7,
-          "losses": 3,
-          "streak": "W1",
-          "form_str": "WLWWWLWLWW",
-          "source": "NBA.com via nba_api"
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
         }
       },
       "h2h": {
-        "total_meetings": 2,
-        "home_wins": 1,
-        "away_wins": 1,
-        "meetings": [
-          {
-            "date": "2025-12-31",
-            "home_result": "W",
-            "pts": 134
-          },
-          {
-            "date": "2026-03-01",
-            "home_result": "L",
-            "pts": 89
-          }
-        ],
-        "source": "NBA.com via nba_api"
+        "total_meetings": 0,
+        "home_wins": 0,
+        "away_wins": 0,
+        "meetings": [],
+        "source": "\u2014"
       },
       "briefing": {
-        "trend": "SAS are 9-1 in their last 10 (streak: W5). NYK are 7-3 in their last 10 (streak: W1). SAS on Back-to-Back \u26a0\ufe0f per ESPN schedule data. NYK on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
-        "matchup": "Season series: SAS 1-1 vs NYK in 2 meetings. Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line moved -205\u2192-198 (7pts). Pending \u2014 check closer to tip-off",
+        "trend": "SAS on Back-to-Back \u26a0\ufe0f per ESPN schedule data. NYK on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "matchup": "Both rosters appear healthy \u2014 clean line.",
+        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -281,22 +128,22 @@
       },
       "news": [
         {
-          "title": "Today's NYT Connections: Sports Edition Answers for June 10, #625",
-          "source": "CNET",
-          "link": "https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-answers-for-june-10-625/",
-          "published": "2026-06-10T09:01:14Z"
+          "title": "How did the Knicks win that game? The layers to an...",
+          "source": "www.espn.com - NBA",
+          "link": "https://www.espn.com/nba/story/_/id/49024906/2026-nba-finals-game-4-playoffs-new-york-knicks-san-antonio-spurs-comeback-collapse-wembanyama-brunson-anunoby",
+          "published": "Thu, 11 Jun 2026 10:12:00 EST"
         },
         {
-          "title": "Ohio State men\u2019s basketball will have multiple All-Big Ten players in 2026-27",
-          "source": "Land-Grant Holy Land",
-          "link": "https://www.landgrantholyland.com/ohio-state-mens-basketball/117705/ohio-state-mens-basketball-will-have-multiple-all-big-ten-players-in-2026-27",
-          "published": "2026-06-10T09:01:00Z"
+          "title": "The win -- and moment -- now etched in Knicks lore...",
+          "source": "www.espn.com - NBA",
+          "link": "https://www.espn.com/nba/story/_/id/49027853/i-even-put-words-knicks-one-win-long-awaited-title-game-4-comeback-nba-finals-history",
+          "published": "Thu, 11 Jun 2026 10:12:00 EST"
         },
         {
-          "title": "Adele's fianc\u00e9 Rich Paul gives a rare insight into their five-year relationship as he reveals how the couple met and what turned their 'cordial' bond into romance",
-          "source": "Dailymail.com",
-          "link": "https://www.dailymail.com/tvshowbiz/article-15887961/Adele-fiance-Rich-Paul-relationship-met-cordial-bond-romance.html",
-          "published": "2026-06-10T08:50:00Z"
+          "title": "Knicks stage historic comeback, on brink of title",
+          "source": "www.espn.com - NBA",
+          "link": "https://www.espn.com/nba/story/_/id/49025502/knicks-brink-title-historic-comeback-vs-spurs",
+          "published": "Thu, 11 Jun 2026 09:58:16 EST"
         }
       ]
     }
