@@ -1,5 +1,5 @@
 {
-  "last_updated": "June 12, 2026 at 11:18 PM UTC",
+  "last_updated": "June 13, 2026 at 01:36 AM UTC",
   "total_games": 1,
   "games": [
     {
@@ -25,50 +25,50 @@
       "commence_time": "2026-06-14T00:40:00Z",
       "line_movement": {
         "home": {
-          "direction": "longer",
-          "points_moved": 6,
+          "direction": "none",
+          "points_moved": 0,
           "steam": false,
-          "label": "\ud83d\udd34 -192 \u2190 -198",
-          "old_ml": "-198",
+          "label": "No movement",
+          "old_ml": "-192",
           "new_ml": "-192"
         },
         "away": {
-          "direction": "shorter",
-          "points_moved": 4,
+          "direction": "none",
+          "points_moved": 0,
           "steam": false,
-          "label": "\ud83d\udfe2 +160 \u2190 +164",
-          "old_ml": "+164",
+          "label": "No movement",
+          "old_ml": "+160",
           "new_ml": "+160"
         },
         "pick": {
-          "direction": "longer",
-          "points_moved": 6,
+          "direction": "none",
+          "points_moved": 0,
           "steam": false,
-          "label": "\ud83d\udd34 -192 \u2190 -198",
-          "old_ml": "-198",
+          "label": "No movement",
+          "old_ml": "-192",
           "new_ml": "-192"
         },
-        "snapshot_time": "June 12, 2026 at 02:10 PM UTC"
+        "snapshot_time": "June 12, 2026 at 11:18 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
+          "status": "RESTED",
+          "label": "2 days rest \u2705",
+          "battery": 88,
           "last_game": "Jun 10",
-          "days_rest": 2,
-          "games_last_4d": 2,
+          "days_rest": 3,
+          "games_last_4d": 1,
           "travel_miles": 1580,
           "travel_desc": "1,580 mi road trip",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
+          "status": "RESTED",
+          "label": "2 days rest \u2705",
+          "battery": 88,
           "last_game": "Jun 10",
-          "days_rest": 2,
-          "games_last_4d": 2,
+          "days_rest": 3,
+          "games_last_4d": 1,
           "travel_miles": 0,
           "travel_desc": "",
           "source": "ESPN Scoreboard API"
@@ -77,7 +77,7 @@
       "edge_factors": [
         "\ud83d\udcca 26.2pt probability edge"
       ],
-      "injury_notes": "No key injuries.",
+      "injury_notes": "Luke Kornet (C)",
       "sharp": {
         "away_t": null,
         "home_t": null,
@@ -114,8 +114,8 @@
       "briefing": {
         "trend": "San Antonio Spurs hold a 63.1% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line moved -198\u2192-192 (6pts). Pending \u2014 check closer to tip-off",
-        "injury_notes": "No key injuries."
+        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "injury_notes": "Luke Kornet (C)"
       },
       "live": {
         "status": "pre",
@@ -128,22 +128,22 @@
       },
       "news": [
         {
-          "title": "Sixers rising star VJ Edgecombe gives his all-time starting lineup",
-          "source": "USA Today",
-          "link": "https://sixerswire.usatoday.com/story/sports/nba/sixers/2026/06/11/sixers-rising-star-vj-edgecombe-gives-his-all-time-starting-lineup/90507492007/",
-          "published": "2026-06-11T23:17:20Z"
+          "title": "Knicks in five or Spurs survive? What you need to ...",
+          "source": "www.espn.com - NBA",
+          "link": "https://www.espn.com/nba/story/_/id/49029549/2026-nba-finals-game-5-preview-predictions-new-york-knicks-san-antonio-spurs-wembanyama-brunson-mvp",
+          "published": "Fri, 12 Jun 2026 17:22:05 EST"
         },
         {
-          "title": "Knicks just proved it: Never count New York out",
-          "source": "New York Post",
-          "link": "https://nypost.com/2026/06/11/opinion/knicks-just-proved-it-never-count-new-york-out/",
-          "published": "2026-06-11T23:14:40Z"
+          "title": "Spurs' Johnson believes in Fox ahead of Game 5",
+          "source": "www.espn.com - NBA",
+          "link": "https://www.espn.com/nba/story/_/id/49042941/mitch-johnson-emphasizes-belief-deaaron-fox-ahead-game-5",
+          "published": "Fri, 12 Jun 2026 15:35:39 EST"
         },
         {
-          "title": "\u2018Taylor Swift\u2026 I\u2019m sick of her\u2019: Dave Portnoy does not hold back after Game 4 of Finals",
-          "source": "The Comeback",
-          "link": "https://thecomeback.com/nba/dave-portnoy-hates-new-york-sports-fans.html",
-          "published": "2026-06-11T23:14:14Z"
+          "title": "Knicks fans target Wemby with egg, jeers at hotel",
+          "source": "www.espn.com - NBA",
+          "link": "https://www.espn.com/nba/story/_/id/49031479/knicks-fans-direct-jeers-flying-egg-spurs-victor-wembanyama",
+          "published": "Fri, 12 Jun 2026 15:35:39 EST"
         }
       ]
     }
