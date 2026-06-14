@@ -1,5 +1,5 @@
 {
-  "last_updated": "June 13, 2026 at 11:05 PM UTC",
+  "last_updated": "June 14, 2026 at 01:39 AM UTC",
   "total_games": 1,
   "games": [
     {
@@ -8,74 +8,75 @@
       "away_team": "New York Knicks",
       "home_abbr": "SAS",
       "away_abbr": "NYK",
-      "home_ml": "-198",
-      "away_ml": "+164",
-      "home_ml_raw": -198,
-      "away_ml_raw": 164,
-      "home_prob": 63.7,
-      "away_prob": 36.3,
-      "spread": "SAS -5.5",
+      "home_ml": "-260",
+      "away_ml": "+195",
+      "home_ml_raw": -260,
+      "away_ml_raw": 195,
+      "home_prob": 68.1,
+      "away_prob": 31.9,
+      "spread": "SAS -7.5",
       "favorite": "San Antonio Spurs",
       "pick": "San Antonio Spurs",
       "pick_abbr": "SAS",
-      "moneyline": "-198",
-      "win_probability": 63.7,
+      "moneyline": "-260",
+      "win_probability": 68.1,
       "confidence": "MEDIUM",
       "confidence_stars": "\u2605\u2605\u2606",
-      "commence_time": "2026-06-14T00:40:00Z",
+      "commence_time": "2026-06-14T00:44:00Z",
       "line_movement": {
         "home": {
           "direction": "shorter",
-          "points_moved": 6,
-          "steam": false,
-          "label": "\ud83d\udfe2 -198 \u2190 -192",
-          "old_ml": "-192",
-          "new_ml": "-198"
+          "points_moved": 62,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -260 \u2190 -198",
+          "old_ml": "-198",
+          "new_ml": "-260"
         },
         "away": {
           "direction": "longer",
-          "points_moved": 4,
-          "steam": false,
-          "label": "\ud83d\udd34 +164 \u2190 +160",
-          "old_ml": "+160",
-          "new_ml": "+164"
+          "points_moved": 31,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM +195 \u2190 +164",
+          "old_ml": "+164",
+          "new_ml": "+195"
         },
         "pick": {
           "direction": "shorter",
-          "points_moved": 6,
-          "steam": false,
-          "label": "\ud83d\udfe2 -198 \u2190 -192",
-          "old_ml": "-192",
-          "new_ml": "-198"
+          "points_moved": 62,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -260 \u2190 -198",
+          "old_ml": "-198",
+          "new_ml": "-260"
         },
-        "snapshot_time": "June 13, 2026 at 02:53 PM UTC"
+        "snapshot_time": "June 13, 2026 at 11:05 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "RESTED",
-          "label": "2 days rest \u2705",
-          "battery": 88,
-          "last_game": "Jun 10",
-          "days_rest": 3,
-          "games_last_4d": 1,
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Jun 13",
+          "days_rest": 1,
+          "games_last_4d": 2,
           "travel_miles": 1580,
           "travel_desc": "1,580 mi road trip",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "RESTED",
-          "label": "2 days rest \u2705",
-          "battery": 88,
-          "last_game": "Jun 10",
-          "days_rest": 3,
-          "games_last_4d": 1,
-          "travel_miles": 0,
-          "travel_desc": "",
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Jun 13",
+          "days_rest": 1,
+          "games_last_4d": 2,
+          "travel_miles": 1580,
+          "travel_desc": "1,580 mi road trip",
           "source": "ESPN Scoreboard API"
         }
       },
       "edge_factors": [
-        "\ud83d\udcca 27.4pt probability edge"
+        "\ud83d\udd25 Sharp steam detected",
+        "\ud83d\udca4 NYK fatigued (B2B) \u2014 source: ESPN"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -112,9 +113,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "San Antonio Spurs hold a 63.7% edge.",
+        "trend": "SAS on Back-to-Back \u26a0\ufe0f per ESPN schedule data. NYK on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line moved -192\u2192-198 (6pts). Pending \u2014 check closer to tip-off",
+        "steam": "Line steamed from -198 to -260 (62pt move) \u2014 heavy professional action on San Antonio Spurs.",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -128,22 +129,16 @@
       },
       "news": [
         {
-          "title": "When Is Game 5 of the NBA Finals?",
-          "source": "Decider",
-          "link": "https://decider.com/2026/06/12/when-is-game-5-nba-finals-nba-games-on-tonight/",
-          "published": "2026-06-12T23:00:00Z"
-        },
-        {
-          "title": "Spurs confident in De\u2019Aaron Fox despite Game 4 blunders: \u2018He will have the ball at the end of the game\u2019",
-          "source": "New York Daily News",
-          "link": "https://www.nydailynews.com/2026/06/12/spurs-confident-in-deaaron-fox-despite-game-4-blunders-he-will-have-the-ball-at-the-end-of-the-game/",
-          "published": "2026-06-12T22:58:00Z"
-        },
-        {
-          "title": "Knicks drawing heavy betting action to clinch NBA title in Game 5",
+          "title": "Knicks relying on their greatest strength with glory just one win away",
           "source": "New York Post",
-          "link": "https://nypost.com/2026/06/12/betting/knicks-drawing-heavy-betting-action-to-clinch-nba-title-in-game-5/",
-          "published": "2026-06-12T22:56:55Z"
+          "link": "https://nypost.com/2026/06/12/sports/knicks-relying-on-their-greatest-strength-with-glory-just-one-win-away/?utm_source=yahoo&amp;utm_campaign=nypost&amp;utm_medium=referral",
+          "published": "2026-06-13T01:29:22Z"
+        },
+        {
+          "title": "Knicks relying on their greatest strength with glory just one win away",
+          "source": "New York Post",
+          "link": "https://nypost.com/2026/06/12/sports/knicks-relying-on-their-greatest-strength-with-glory-just-one-win-away/",
+          "published": "2026-06-13T01:29:22Z"
         }
       ]
     }
