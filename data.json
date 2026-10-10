@@ -1,5 +1,5 @@
 {
-  "last_updated": "October 09, 2026 at 05:20 PM UTC",
+  "last_updated": "October 10, 2026 at 01:33 AM UTC",
   "total_games": 46,
   "games": [
     {
@@ -48,26 +48,26 @@
           "old_ml": "-125",
           "new_ml": "-125"
         },
-        "snapshot_time": "October 09, 2026 at 12:06 PM UTC"
+        "snapshot_time": "October 09, 2026 at 05:20 PM UTC"
       },
       "fatigue": {
         "home": {
           "status": "FRESH",
           "label": "Well rested \u2705",
           "battery": 100,
-          "last_game": "Oct 05",
-          "days_rest": 4,
-          "games_last_4d": 1,
+          "last_game": "\u2014",
+          "days_rest": 99,
+          "games_last_4d": 0,
           "travel_miles": 0,
           "travel_desc": "",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
           "last_game": "Oct 08",
-          "days_rest": 1,
+          "days_rest": 2,
           "games_last_4d": 1,
           "travel_miles": 549,
           "travel_desc": "549 mi road trip",
@@ -75,7 +75,7 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udca4 BOS fatigued (B2B) \u2014 source: ESPN"
+        "\ud83d\udcca 6.4pt probability edge"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -112,7 +112,7 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "BOS on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "trend": "Detroit Pistons hold a 53.2% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
         "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
@@ -174,34 +174,34 @@
           "old_ml": "-185",
           "new_ml": "-185"
         },
-        "snapshot_time": "October 09, 2026 at 12:06 PM UTC"
+        "snapshot_time": "October 09, 2026 at 05:20 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
           "last_game": "Oct 08",
-          "days_rest": 1,
-          "games_last_4d": 2,
-          "travel_miles": 85,
-          "travel_desc": "85 mi road trip",
+          "days_rest": 2,
+          "games_last_4d": 1,
+          "travel_miles": 0,
+          "travel_desc": "",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
           "last_game": "Oct 08",
-          "days_rest": 1,
-          "games_last_4d": 2,
+          "days_rest": 2,
+          "games_last_4d": 1,
           "travel_miles": 83,
           "travel_desc": "83 mi road trip",
           "source": "ESPN Scoreboard API"
         }
       },
       "edge_factors": [
-        "\ud83d\udca4 PHI fatigued (B2B) \u2014 source: ESPN"
+        "\ud83d\udcca 24.4pt probability edge"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -238,7 +238,7 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "NYK on Back-to-Back \u26a0\ufe0f per ESPN schedule data. PHI on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "trend": "New York Knicks hold a 62.2% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
         "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
@@ -300,26 +300,26 @@
           "old_ml": "-125",
           "new_ml": "-125"
         },
-        "snapshot_time": "October 09, 2026 at 12:06 PM UTC"
+        "snapshot_time": "October 09, 2026 at 05:20 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
           "last_game": "Oct 08",
-          "days_rest": 1,
+          "days_rest": 2,
           "games_last_4d": 1,
           "travel_miles": 0,
           "travel_desc": "",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
+          "status": "RESTED",
+          "label": "2 days rest \u2705",
+          "battery": 88,
           "last_game": "Oct 07",
-          "days_rest": 2,
+          "days_rest": 3,
           "games_last_4d": 2,
           "travel_miles": 0,
           "travel_desc": "",
@@ -364,7 +364,7 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "SAS on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "trend": "San Antonio Spurs hold a 53.2% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
         "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
@@ -426,27 +426,27 @@
           "old_ml": "-198",
           "new_ml": "-198"
         },
-        "snapshot_time": "October 09, 2026 at 12:06 PM UTC"
+        "snapshot_time": "October 09, 2026 at 05:20 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
           "last_game": "Oct 08",
-          "days_rest": 1,
+          "days_rest": 2,
           "games_last_4d": 1,
           "travel_miles": 205,
           "travel_desc": "205 mi road trip",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
+          "status": "RESTED",
+          "label": "2 days rest \u2705",
+          "battery": 88,
           "last_game": "Oct 07",
-          "days_rest": 2,
-          "games_last_4d": 2,
+          "days_rest": 3,
+          "games_last_4d": 1,
           "travel_miles": 733,
           "travel_desc": "733 mi road trip",
           "source": "ESPN Scoreboard API"
@@ -490,7 +490,7 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "WAS on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "trend": "Washington Wizards hold a 63.7% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
         "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
@@ -552,34 +552,34 @@
           "old_ml": "-130",
           "new_ml": "-130"
         },
-        "snapshot_time": "October 09, 2026 at 12:06 PM UTC"
+        "snapshot_time": "October 09, 2026 at 05:20 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
+          "status": "RESTED",
+          "label": "2 days rest \u2705",
+          "battery": 88,
           "last_game": "Oct 07",
-          "days_rest": 2,
+          "days_rest": 3,
           "games_last_4d": 1,
           "travel_miles": 683,
           "travel_desc": "683 mi road trip",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
           "last_game": "Oct 08",
-          "days_rest": 1,
-          "games_last_4d": 2,
+          "days_rest": 2,
+          "games_last_4d": 1,
           "travel_miles": 878,
           "travel_desc": "878 mi road trip",
           "source": "ESPN Scoreboard API"
         }
       },
       "edge_factors": [
-        "\ud83d\udca4 ATL fatigued (B2B) \u2014 source: ESPN"
+        "\ud83d\udcca 8.6pt probability edge"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -616,7 +616,7 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "ATL on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "trend": "Orlando Magic hold a 54.3% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
         "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
@@ -678,26 +678,26 @@
           "old_ml": "-130",
           "new_ml": "-130"
         },
-        "snapshot_time": "October 09, 2026 at 12:06 PM UTC"
+        "snapshot_time": "October 09, 2026 at 05:20 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
           "last_game": "Oct 08",
-          "days_rest": 1,
+          "days_rest": 2,
           "games_last_4d": 2,
           "travel_miles": 531,
           "travel_desc": "531 mi road trip",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "RESTED",
-          "label": "2 days rest \u2705",
-          "battery": 88,
+          "status": "FRESH",
+          "label": "Well rested \u2705",
+          "battery": 100,
           "last_game": "Oct 06",
-          "days_rest": 3,
+          "days_rest": 4,
           "games_last_4d": 1,
           "travel_miles": 0,
           "travel_desc": "",
@@ -705,7 +705,7 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udca4 BKN fatigued (B2B) \u2014 source: ESPN"
+        "\ud83d\udcca 8.6pt probability edge"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -742,7 +742,7 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "BKN on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "trend": "Charlotte Hornets hold a 54.3% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
         "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
@@ -804,7 +804,7 @@
           "old_ml": "-345",
           "new_ml": "-345"
         },
-        "snapshot_time": "October 09, 2026 at 12:06 PM UTC"
+        "snapshot_time": "October 09, 2026 at 05:20 PM UTC"
       },
       "fatigue": {
         "home": {
@@ -819,19 +819,19 @@
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "Oct 07",
-          "days_rest": 2,
-          "games_last_4d": 1,
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Oct 09",
+          "days_rest": 1,
+          "games_last_4d": 2,
           "travel_miles": 0,
           "travel_desc": "",
           "source": "ESPN Scoreboard API"
         }
       },
       "edge_factors": [
-        "\ud83d\udcca 48.8pt probability edge"
+        "\ud83d\udca4 CHI fatigued (B2B) \u2014 source: ESPN"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -868,7 +868,7 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "Toronto Raptors hold a 74.4% edge.",
+        "trend": "CHI on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
         "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
@@ -930,27 +930,27 @@
           "old_ml": "-125",
           "new_ml": "-125"
         },
-        "snapshot_time": "October 09, 2026 at 12:06 PM UTC"
+        "snapshot_time": "October 09, 2026 at 05:20 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
           "last_game": "Oct 08",
-          "days_rest": 1,
+          "days_rest": 2,
           "games_last_4d": 1,
           "travel_miles": 0,
           "travel_desc": "",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
+          "status": "RESTED",
+          "label": "2 days rest \u2705",
+          "battery": 88,
           "last_game": "Oct 07",
-          "days_rest": 2,
-          "games_last_4d": 2,
+          "days_rest": 3,
+          "games_last_4d": 1,
           "travel_miles": 511,
           "travel_desc": "511 mi road trip",
           "source": "ESPN Scoreboard API"
@@ -994,7 +994,7 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "MIA on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "trend": "Miami Heat hold a 53.2% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
         "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
@@ -1022,7 +1022,7 @@
       "away_ml_raw": -155,
       "home_prob": 41.7,
       "away_prob": 58.3,
-      "spread": "NOP +3.5",
+      "spread": "NOP +4.5",
       "favorite": "Indiana Pacers",
       "pick": "Indiana Pacers",
       "pick_abbr": "IND",
@@ -1056,26 +1056,26 @@
           "old_ml": "-155",
           "new_ml": "-155"
         },
-        "snapshot_time": "October 09, 2026 at 12:06 PM UTC"
+        "snapshot_time": "October 09, 2026 at 05:20 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
           "last_game": "Oct 08",
-          "days_rest": 1,
+          "days_rest": 2,
           "games_last_4d": 2,
           "travel_miles": 669,
           "travel_desc": "669 mi road trip",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
+          "status": "RESTED",
+          "label": "2 days rest \u2705",
+          "battery": 88,
           "last_game": "Oct 07",
-          "days_rest": 2,
+          "days_rest": 3,
           "games_last_4d": 1,
           "travel_miles": 0,
           "travel_desc": "",
@@ -1083,7 +1083,7 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udca4 NOP fatigued (B2B) \u2014 source: ESPN"
+        "\ud83d\udcca 16.6pt probability edge"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -1120,7 +1120,7 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "NOP on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "trend": "Indiana Pacers hold a 58.3% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
         "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
@@ -1182,18 +1182,18 @@
           "old_ml": "-130",
           "new_ml": "-130"
         },
-        "snapshot_time": "October 09, 2026 at 12:06 PM UTC"
+        "snapshot_time": "October 09, 2026 at 05:20 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "Oct 07",
-          "days_rest": 2,
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Oct 09",
+          "days_rest": 1,
           "games_last_4d": 2,
-          "travel_miles": 336,
-          "travel_desc": "336 mi road trip",
+          "travel_miles": 483,
+          "travel_desc": "483 mi road trip",
           "source": "ESPN Scoreboard API"
         },
         "away": {
@@ -1209,7 +1209,7 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udcca 8.6pt probability edge"
+        "\ud83d\udca4 MEM fatigued (B2B) \u2014 source: ESPN"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -1246,7 +1246,7 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "Utah Jazz hold a 54.3% edge.",
+        "trend": "MEM on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
         "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
@@ -1308,34 +1308,34 @@
           "old_ml": "-310",
           "new_ml": "-310"
         },
-        "snapshot_time": "October 09, 2026 at 12:06 PM UTC"
+        "snapshot_time": "October 09, 2026 at 05:20 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "FRESH",
-          "label": "Well rested \u2705",
-          "battery": 100,
-          "last_game": "\u2014",
-          "days_rest": 99,
-          "games_last_4d": 0,
-          "travel_miles": 0,
-          "travel_desc": "",
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Oct 09",
+          "days_rest": 1,
+          "games_last_4d": 1,
+          "travel_miles": 227,
+          "travel_desc": "227 mi road trip",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "FRESH",
-          "label": "Well rested \u2705",
-          "battery": 100,
-          "last_game": "\u2014",
-          "days_rest": 99,
-          "games_last_4d": 0,
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Oct 09",
+          "days_rest": 1,
+          "games_last_4d": 1,
           "travel_miles": 0,
           "travel_desc": "",
           "source": "ESPN Scoreboard API"
         }
       },
       "edge_factors": [
-        "\ud83d\udcca 45.2pt probability edge"
+        "\ud83d\udca4 DAL fatigued (B2B) \u2014 source: ESPN"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -1372,7 +1372,7 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "Houston Rockets hold a 72.6% edge.",
+        "trend": "HOU on Back-to-Back \u26a0\ufe0f per ESPN schedule data. DAL on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
         "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
@@ -1434,26 +1434,26 @@
           "old_ml": "-175",
           "new_ml": "-175"
         },
-        "snapshot_time": "October 09, 2026 at 12:06 PM UTC"
+        "snapshot_time": "October 09, 2026 at 05:20 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
           "last_game": "Oct 08",
-          "days_rest": 1,
-          "games_last_4d": 3,
+          "days_rest": 2,
+          "games_last_4d": 2,
           "travel_miles": 346,
           "travel_desc": "346 mi road trip",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
+          "status": "RESTED",
+          "label": "2 days rest \u2705",
+          "battery": 88,
           "last_game": "Oct 07",
-          "days_rest": 2,
+          "days_rest": 3,
           "games_last_4d": 2,
           "travel_miles": 537,
           "travel_desc": "537 mi road trip",
@@ -1498,7 +1498,7 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "LAL on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "trend": "Los Angeles Lakers hold a 60.9% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
         "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
@@ -1560,27 +1560,27 @@
           "old_ml": "-162",
           "new_ml": "-162"
         },
-        "snapshot_time": "October 09, 2026 at 12:06 PM UTC"
+        "snapshot_time": "October 09, 2026 at 05:20 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
+          "status": "RESTED",
+          "label": "2 days rest \u2705",
+          "battery": 88,
           "last_game": "Oct 07",
-          "days_rest": 2,
+          "days_rest": 3,
           "games_last_4d": 1,
           "travel_miles": 0,
           "travel_desc": "",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
+          "status": "RESTED",
+          "label": "2 days rest \u2705",
+          "battery": 88,
           "last_game": "Oct 07",
-          "days_rest": 2,
-          "games_last_4d": 2,
+          "days_rest": 3,
+          "games_last_4d": 1,
           "travel_miles": 1450,
           "travel_desc": "1,450 mi road trip",
           "source": "ESPN Scoreboard API"
@@ -1686,7 +1686,7 @@
           "old_ml": "-155",
           "new_ml": "-155"
         },
-        "snapshot_time": "October 09, 2026 at 12:06 PM UTC"
+        "snapshot_time": "October 09, 2026 at 05:20 PM UTC"
       },
       "fatigue": {
         "home": {
@@ -1701,19 +1701,19 @@
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
           "last_game": "Oct 08",
-          "days_rest": 1,
-          "games_last_4d": 2,
+          "days_rest": 2,
+          "games_last_4d": 1,
           "travel_miles": 361,
           "travel_desc": "361 mi road trip",
           "source": "ESPN Scoreboard API"
         }
       },
       "edge_factors": [
-        "\ud83d\udca4 SAC fatigued (B2B) \u2014 source: ESPN"
+        "\ud83d\udcca 16.6pt probability edge"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -1750,7 +1750,7 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "SAC on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "trend": "Los Angeles Clippers hold a 58.3% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
         "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
@@ -1812,26 +1812,26 @@
           "old_ml": "-155",
           "new_ml": "-155"
         },
-        "snapshot_time": "October 09, 2026 at 12:06 PM UTC"
+        "snapshot_time": "October 09, 2026 at 05:20 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
           "last_game": "Oct 08",
-          "days_rest": 1,
-          "games_last_4d": 2,
+          "days_rest": 2,
+          "games_last_4d": 1,
           "travel_miles": 83,
           "travel_desc": "83 mi road trip",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
           "last_game": "Oct 08",
-          "days_rest": 1,
+          "days_rest": 2,
           "games_last_4d": 1,
           "travel_miles": 0,
           "travel_desc": "",
@@ -1839,7 +1839,7 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udca4 CLE fatigued (B2B) \u2014 source: ESPN"
+        "\ud83d\udcca 16.6pt probability edge"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -1876,7 +1876,7 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "PHI on Back-to-Back \u26a0\ufe0f per ESPN schedule data. CLE on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "trend": "Philadelphia 76ers hold a 58.3% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
         "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
@@ -1938,26 +1938,26 @@
           "old_ml": "-278",
           "new_ml": "-278"
         },
-        "snapshot_time": "October 09, 2026 at 12:06 PM UTC"
+        "snapshot_time": "October 09, 2026 at 05:20 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
+          "status": "RESTED",
+          "label": "2 days rest \u2705",
+          "battery": 88,
           "last_game": "Oct 07",
-          "days_rest": 2,
+          "days_rest": 3,
           "games_last_4d": 2,
           "travel_miles": 0,
           "travel_desc": "",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "RESTED",
-          "label": "2 days rest \u2705",
-          "battery": 88,
+          "status": "FRESH",
+          "label": "Well rested \u2705",
+          "battery": 100,
           "last_game": "Oct 06",
-          "days_rest": 3,
+          "days_rest": 4,
           "games_last_4d": 1,
           "travel_miles": 0,
           "travel_desc": "",
@@ -2064,34 +2064,34 @@
           "old_ml": "-130",
           "new_ml": "-130"
         },
-        "snapshot_time": "October 09, 2026 at 12:06 PM UTC"
+        "snapshot_time": "October 09, 2026 at 05:20 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
           "last_game": "Oct 08",
-          "days_rest": 1,
+          "days_rest": 2,
           "games_last_4d": 1,
           "travel_miles": 549,
           "travel_desc": "549 mi road trip",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
           "last_game": "Oct 08",
-          "days_rest": 1,
-          "games_last_4d": 2,
-          "travel_miles": 85,
-          "travel_desc": "85 mi road trip",
+          "days_rest": 2,
+          "games_last_4d": 1,
+          "travel_miles": 0,
+          "travel_desc": "",
           "source": "ESPN Scoreboard API"
         }
       },
       "edge_factors": [
-        "\ud83d\udca4 NYK fatigued (B2B) \u2014 source: ESPN"
+        "\ud83d\udcca 8.6pt probability edge"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -2128,7 +2128,7 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "BOS on Back-to-Back \u26a0\ufe0f per ESPN schedule data. NYK on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "trend": "Boston Celtics hold a 54.3% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
         "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
@@ -2150,74 +2150,75 @@
       "away_team": "Houston Rockets",
       "home_abbr": "SAS",
       "away_abbr": "HOU",
-      "home_ml": "-238",
-      "away_ml": "+195",
-      "home_ml_raw": -238,
-      "away_ml_raw": 195,
-      "home_prob": 67.5,
-      "away_prob": 32.5,
+      "home_ml": "-230",
+      "away_ml": "+190",
+      "home_ml_raw": -230,
+      "away_ml_raw": 190,
+      "home_prob": 66.9,
+      "away_prob": 33.1,
       "spread": "SAS -6.5",
       "favorite": "San Antonio Spurs",
       "pick": "San Antonio Spurs",
       "pick_abbr": "SAS",
-      "moneyline": "-238",
-      "win_probability": 67.5,
+      "moneyline": "-230",
+      "win_probability": 66.9,
       "confidence": "MEDIUM",
       "confidence_stars": "\u2605\u2605\u2606",
       "commence_time": "2026-10-24T01:40:00Z",
       "line_movement": {
         "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "longer",
+          "points_moved": 8,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -230 \u2190 -238",
           "old_ml": "-238",
-          "new_ml": "-238"
+          "new_ml": "-230"
         },
         "away": {
-          "direction": "none",
-          "points_moved": 0,
+          "direction": "shorter",
+          "points_moved": 5,
           "steam": false,
-          "label": "No movement",
+          "label": "\ud83d\udfe2 +190 \u2190 +195",
           "old_ml": "+195",
-          "new_ml": "+195"
+          "new_ml": "+190"
         },
         "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "longer",
+          "points_moved": 8,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -230 \u2190 -238",
           "old_ml": "-238",
-          "new_ml": "-238"
+          "new_ml": "-230"
         },
-        "snapshot_time": "October 09, 2026 at 12:06 PM UTC"
+        "snapshot_time": "October 09, 2026 at 05:20 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
           "last_game": "Oct 08",
-          "days_rest": 1,
+          "days_rest": 2,
           "games_last_4d": 1,
           "travel_miles": 0,
           "travel_desc": "",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "FRESH",
-          "label": "Well rested \u2705",
-          "battery": 100,
-          "last_game": "\u2014",
-          "days_rest": 99,
-          "games_last_4d": 0,
-          "travel_miles": 0,
-          "travel_desc": "",
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Oct 09",
+          "days_rest": 1,
+          "games_last_4d": 1,
+          "travel_miles": 227,
+          "travel_desc": "227 mi road trip",
           "source": "ESPN Scoreboard API"
         }
       },
       "edge_factors": [
-        "\ud83d\udcca 35.0pt probability edge"
+        "\ud83d\udd25 Sharp steam detected",
+        "\ud83d\udca4 HOU fatigued (B2B) \u2014 source: ESPN"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -2254,9 +2255,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "SAS on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "trend": "HOU on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "steam": "Line steamed from -238 to -230 (8pt move) \u2014 heavy professional action on San Antonio Spurs.",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -2316,26 +2317,26 @@
           "old_ml": "-115",
           "new_ml": "-115"
         },
-        "snapshot_time": "October 09, 2026 at 12:06 PM UTC"
+        "snapshot_time": "October 09, 2026 at 05:20 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
           "last_game": "Oct 08",
-          "days_rest": 1,
+          "days_rest": 2,
           "games_last_4d": 1,
           "travel_miles": 205,
           "travel_desc": "205 mi road trip",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "RESTED",
-          "label": "2 days rest \u2705",
-          "battery": 88,
+          "status": "FRESH",
+          "label": "Well rested \u2705",
+          "battery": 100,
           "last_game": "Oct 06",
-          "days_rest": 3,
+          "days_rest": 4,
           "games_last_4d": 1,
           "travel_miles": 0,
           "travel_desc": "",
@@ -2343,7 +2344,7 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udca4 WAS fatigued (B2B) \u2014 source: ESPN"
+        "\ud83d\udcca 2.2pt probability edge"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -2380,7 +2381,7 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "WAS on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "trend": "Charlotte Hornets hold a 51.1% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
         "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
@@ -2442,34 +2443,34 @@
           "old_ml": "-575",
           "new_ml": "-575"
         },
-        "snapshot_time": "October 09, 2026 at 12:06 PM UTC"
+        "snapshot_time": "October 09, 2026 at 05:20 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
           "last_game": "Oct 08",
-          "days_rest": 1,
+          "days_rest": 2,
           "games_last_4d": 1,
           "travel_miles": 549,
           "travel_desc": "549 mi road trip",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "Oct 07",
-          "days_rest": 2,
-          "games_last_4d": 1,
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Oct 09",
+          "days_rest": 1,
+          "games_last_4d": 2,
           "travel_miles": 0,
           "travel_desc": "",
           "source": "ESPN Scoreboard API"
         }
       },
       "edge_factors": [
-        "\ud83d\udcca 63.4pt probability edge"
+        "\ud83d\udca4 CHI fatigued (B2B) \u2014 source: ESPN"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -2506,7 +2507,7 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "BOS on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "trend": "CHI on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
         "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
@@ -2568,15 +2569,15 @@
           "old_ml": "-310",
           "new_ml": "-310"
         },
-        "snapshot_time": "October 09, 2026 at 12:06 PM UTC"
+        "snapshot_time": "October 09, 2026 at 05:20 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
           "last_game": "Oct 08",
-          "days_rest": 1,
+          "days_rest": 2,
           "games_last_4d": 2,
           "travel_miles": 531,
           "travel_desc": "531 mi road trip",
@@ -2586,16 +2587,16 @@
           "status": "FRESH",
           "label": "Well rested \u2705",
           "battery": 100,
-          "last_game": "Oct 05",
-          "days_rest": 4,
-          "games_last_4d": 1,
+          "last_game": "\u2014",
+          "days_rest": 99,
+          "games_last_4d": 0,
           "travel_miles": 0,
           "travel_desc": "",
           "source": "ESPN Scoreboard API"
         }
       },
       "edge_factors": [
-        "\ud83d\udca4 BKN fatigued (B2B) \u2014 source: ESPN"
+        "\ud83d\udcca 45.2pt probability edge"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -2632,7 +2633,7 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "BKN on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "trend": "Detroit Pistons hold a 72.6% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
         "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
@@ -2694,34 +2695,34 @@
           "old_ml": "-125",
           "new_ml": "-125"
         },
-        "snapshot_time": "October 09, 2026 at 12:06 PM UTC"
+        "snapshot_time": "October 09, 2026 at 05:20 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
           "last_game": "Oct 08",
-          "days_rest": 1,
-          "games_last_4d": 2,
+          "days_rest": 2,
+          "games_last_4d": 1,
           "travel_miles": 83,
           "travel_desc": "83 mi road trip",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
           "last_game": "Oct 08",
-          "days_rest": 1,
-          "games_last_4d": 2,
-          "travel_miles": 85,
-          "travel_desc": "85 mi road trip",
+          "days_rest": 2,
+          "games_last_4d": 1,
+          "travel_miles": 0,
+          "travel_desc": "",
           "source": "ESPN Scoreboard API"
         }
       },
       "edge_factors": [
-        "\ud83d\udca4 NYK fatigued (B2B) \u2014 source: ESPN"
+        "\ud83d\udcca 6.4pt probability edge"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -2758,7 +2759,7 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "PHI on Back-to-Back \u26a0\ufe0f per ESPN schedule data. NYK on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "trend": "Philadelphia 76ers hold a 53.2% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
         "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
@@ -2820,7 +2821,7 @@
           "old_ml": "-148",
           "new_ml": "-148"
         },
-        "snapshot_time": "October 09, 2026 at 12:06 PM UTC"
+        "snapshot_time": "October 09, 2026 at 05:20 PM UTC"
       },
       "fatigue": {
         "home": {
@@ -2835,11 +2836,11 @@
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
+          "status": "RESTED",
+          "label": "2 days rest \u2705",
+          "battery": 88,
           "last_game": "Oct 07",
-          "days_rest": 2,
+          "days_rest": 3,
           "games_last_4d": 1,
           "travel_miles": 683,
           "travel_desc": "683 mi road trip",
@@ -2946,34 +2947,34 @@
           "old_ml": "-166",
           "new_ml": "-166"
         },
-        "snapshot_time": "October 09, 2026 at 12:06 PM UTC"
+        "snapshot_time": "October 09, 2026 at 05:20 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "FRESH",
-          "label": "Well rested \u2705",
-          "battery": 100,
-          "last_game": "\u2014",
-          "days_rest": 99,
-          "games_last_4d": 0,
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Oct 09",
+          "days_rest": 1,
+          "games_last_4d": 1,
           "travel_miles": 0,
           "travel_desc": "",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "FRESH",
-          "label": "Well rested \u2705",
-          "battery": 100,
-          "last_game": "\u2014",
-          "days_rest": 99,
-          "games_last_4d": 0,
-          "travel_miles": 0,
-          "travel_desc": "",
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Oct 09",
+          "days_rest": 1,
+          "games_last_4d": 1,
+          "travel_miles": 227,
+          "travel_desc": "227 mi road trip",
           "source": "ESPN Scoreboard API"
         }
       },
       "edge_factors": [
-        "\ud83d\udcca 20.0pt probability edge"
+        "\ud83d\udca4 DAL fatigued (B2B) \u2014 source: ESPN"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -3010,7 +3011,7 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "Houston Rockets hold a 60.0% edge.",
+        "trend": "DAL on Back-to-Back \u26a0\ufe0f per ESPN schedule data. HOU on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
         "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
@@ -3072,26 +3073,26 @@
           "old_ml": "-148",
           "new_ml": "-148"
         },
-        "snapshot_time": "October 09, 2026 at 12:06 PM UTC"
+        "snapshot_time": "October 09, 2026 at 05:20 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
           "last_game": "Oct 08",
-          "days_rest": 1,
+          "days_rest": 2,
           "games_last_4d": 1,
           "travel_miles": 0,
           "travel_desc": "",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
+          "status": "RESTED",
+          "label": "2 days rest \u2705",
+          "battery": 88,
           "last_game": "Oct 07",
-          "days_rest": 2,
+          "days_rest": 3,
           "games_last_4d": 1,
           "travel_miles": 0,
           "travel_desc": "",
@@ -3136,7 +3137,7 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "MIA on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "trend": "Miami Heat hold a 57.2% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
         "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
@@ -3198,16 +3199,16 @@
           "old_ml": "-325",
           "new_ml": "-325"
         },
-        "snapshot_time": "October 09, 2026 at 12:06 PM UTC"
+        "snapshot_time": "October 09, 2026 at 05:20 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
+          "status": "RESTED",
+          "label": "2 days rest \u2705",
+          "battery": 88,
           "last_game": "Oct 07",
-          "days_rest": 2,
-          "games_last_4d": 2,
+          "days_rest": 3,
+          "games_last_4d": 1,
           "travel_miles": 511,
           "travel_desc": "511 mi road trip",
           "source": "ESPN Scoreboard API"
@@ -3324,26 +3325,26 @@
           "old_ml": "-130",
           "new_ml": "-130"
         },
-        "snapshot_time": "October 09, 2026 at 12:06 PM UTC"
+        "snapshot_time": "October 09, 2026 at 05:20 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
+          "status": "RESTED",
+          "label": "2 days rest \u2705",
+          "battery": 88,
           "last_game": "Oct 07",
-          "days_rest": 2,
-          "games_last_4d": 2,
+          "days_rest": 3,
+          "games_last_4d": 1,
           "travel_miles": 1450,
           "travel_desc": "1,450 mi road trip",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "RESTED",
-          "label": "2 days rest \u2705",
-          "battery": 88,
+          "status": "FRESH",
+          "label": "Well rested \u2705",
+          "battery": 100,
           "last_game": "Oct 06",
-          "days_rest": 3,
+          "days_rest": 4,
           "games_last_4d": 1,
           "travel_miles": 0,
           "travel_desc": "",
@@ -3450,34 +3451,34 @@
           "old_ml": "-110",
           "new_ml": "-110"
         },
-        "snapshot_time": "October 09, 2026 at 12:06 PM UTC"
+        "snapshot_time": "October 09, 2026 at 05:20 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
+          "status": "RESTED",
+          "label": "2 days rest \u2705",
+          "battery": 88,
           "last_game": "Oct 07",
-          "days_rest": 2,
+          "days_rest": 3,
           "games_last_4d": 2,
           "travel_miles": 537,
           "travel_desc": "537 mi road trip",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
           "last_game": "Oct 08",
-          "days_rest": 1,
-          "games_last_4d": 3,
+          "days_rest": 2,
+          "games_last_4d": 2,
           "travel_miles": 346,
           "travel_desc": "346 mi road trip",
           "source": "ESPN Scoreboard API"
         }
       },
       "edge_factors": [
-        "\ud83d\udca4 LAL fatigued (B2B) \u2014 source: ESPN"
+        "\ud83d\udcca 0.0pt probability edge"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -3514,7 +3515,7 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "LAL on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "trend": "Golden State Warriors hold a 50.0% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
         "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
@@ -3536,74 +3537,74 @@
       "away_team": "Philadelphia 76ers",
       "home_abbr": "CLE",
       "away_abbr": "PHI",
-      "home_ml": "-118",
-      "away_ml": "-102",
-      "home_ml_raw": -118,
-      "away_ml_raw": -102,
-      "home_prob": 51.7,
-      "away_prob": 48.3,
+      "home_ml": "-120",
+      "away_ml": "+100",
+      "home_ml_raw": -120,
+      "away_ml_raw": 100,
+      "home_prob": 52.2,
+      "away_prob": 47.8,
       "spread": "CLE -1.5",
       "favorite": "Cleveland Cavaliers",
       "pick": "Cleveland Cavaliers",
       "pick_abbr": "CLE",
-      "moneyline": "-118",
-      "win_probability": 51.7,
+      "moneyline": "-120",
+      "win_probability": 52.2,
       "confidence": "LOW",
       "confidence_stars": "\u2605\u2606\u2606",
       "commence_time": "2026-11-07T00:40:00Z",
       "line_movement": {
         "home": {
-          "direction": "none",
-          "points_moved": 0,
+          "direction": "shorter",
+          "points_moved": 2,
           "steam": false,
-          "label": "No movement",
+          "label": "\ud83d\udfe2 -120 \u2190 -118",
           "old_ml": "-118",
-          "new_ml": "-118"
+          "new_ml": "-120"
         },
         "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "longer",
+          "points_moved": 202,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM +100 \u2190 -102",
           "old_ml": "-102",
-          "new_ml": "-102"
+          "new_ml": "+100"
         },
         "pick": {
-          "direction": "none",
-          "points_moved": 0,
+          "direction": "shorter",
+          "points_moved": 2,
           "steam": false,
-          "label": "No movement",
+          "label": "\ud83d\udfe2 -120 \u2190 -118",
           "old_ml": "-118",
-          "new_ml": "-118"
+          "new_ml": "-120"
         },
-        "snapshot_time": "October 09, 2026 at 12:06 PM UTC"
+        "snapshot_time": "October 09, 2026 at 05:20 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
           "last_game": "Oct 08",
-          "days_rest": 1,
+          "days_rest": 2,
           "games_last_4d": 1,
           "travel_miles": 0,
           "travel_desc": "",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
           "last_game": "Oct 08",
-          "days_rest": 1,
-          "games_last_4d": 2,
+          "days_rest": 2,
+          "games_last_4d": 1,
           "travel_miles": 83,
           "travel_desc": "83 mi road trip",
           "source": "ESPN Scoreboard API"
         }
       },
       "edge_factors": [
-        "\ud83d\udca4 PHI fatigued (B2B) \u2014 source: ESPN"
+        "\ud83d\udd25 Sharp steam detected"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -3640,9 +3641,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "CLE on Back-to-Back \u26a0\ufe0f per ESPN schedule data. PHI on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "trend": "Cleveland Cavaliers hold a 52.2% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "steam": "Line moved -118\u2192-120 (2pts). Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -3702,26 +3703,26 @@
           "old_ml": "-155",
           "new_ml": "-155"
         },
-        "snapshot_time": "October 09, 2026 at 12:06 PM UTC"
+        "snapshot_time": "October 09, 2026 at 05:20 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
           "last_game": "Oct 08",
-          "days_rest": 1,
-          "games_last_4d": 3,
+          "days_rest": 2,
+          "games_last_4d": 2,
           "travel_miles": 346,
           "travel_desc": "346 mi road trip",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
+          "status": "RESTED",
+          "label": "2 days rest \u2705",
+          "battery": 88,
           "last_game": "Oct 07",
-          "days_rest": 2,
+          "days_rest": 3,
           "games_last_4d": 1,
           "travel_miles": 0,
           "travel_desc": "",
@@ -3766,7 +3767,7 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "LAL on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "trend": "Los Angeles Lakers hold a 58.3% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
         "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
@@ -3828,29 +3829,29 @@
           "old_ml": "-125",
           "new_ml": "-125"
         },
-        "snapshot_time": "October 09, 2026 at 12:06 PM UTC"
+        "snapshot_time": "October 09, 2026 at 05:20 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
+          "status": "RESTED",
+          "label": "2 days rest \u2705",
+          "battery": 88,
           "last_game": "Oct 07",
-          "days_rest": 2,
+          "days_rest": 3,
           "games_last_4d": 1,
           "travel_miles": 0,
           "travel_desc": "",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
           "last_game": "Oct 08",
-          "days_rest": 1,
-          "games_last_4d": 2,
-          "travel_miles": 85,
-          "travel_desc": "85 mi road trip",
+          "days_rest": 2,
+          "games_last_4d": 1,
+          "travel_miles": 0,
+          "travel_desc": "",
           "source": "ESPN Scoreboard API"
         }
       },
@@ -3892,7 +3893,7 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "NYK on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "trend": "New York Knicks hold a 53.2% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
         "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
@@ -3954,26 +3955,26 @@
           "old_ml": "-520",
           "new_ml": "-520"
         },
-        "snapshot_time": "October 09, 2026 at 12:06 PM UTC"
+        "snapshot_time": "October 09, 2026 at 05:20 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
           "last_game": "Oct 08",
-          "days_rest": 1,
+          "days_rest": 2,
           "games_last_4d": 1,
           "travel_miles": 0,
           "travel_desc": "",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
+          "status": "RESTED",
+          "label": "2 days rest \u2705",
+          "battery": 88,
           "last_game": "Oct 07",
-          "days_rest": 2,
+          "days_rest": 3,
           "games_last_4d": 2,
           "travel_miles": 537,
           "travel_desc": "537 mi road trip",
@@ -4018,7 +4019,7 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "SAS on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "trend": "San Antonio Spurs hold a 80.4% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
         "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
@@ -4057,39 +4058,39 @@
       "commence_time": "2026-11-21T00:40:00Z",
       "line_movement": {
         "home": {
-          "direction": "longer",
-          "points_moved": 3,
+          "direction": "none",
+          "points_moved": 0,
           "steam": false,
-          "label": "\ud83d\udd34 -112 \u2190 -115",
-          "old_ml": "-115",
+          "label": "No movement",
+          "old_ml": "-112",
           "new_ml": "-112"
         },
         "away": {
-          "direction": "shorter",
-          "points_moved": 3,
+          "direction": "none",
+          "points_moved": 0,
           "steam": false,
-          "label": "\ud83d\udfe2 -108 \u2190 -105",
-          "old_ml": "-105",
+          "label": "No movement",
+          "old_ml": "-108",
           "new_ml": "-108"
         },
         "pick": {
-          "direction": "longer",
-          "points_moved": 3,
+          "direction": "none",
+          "points_moved": 0,
           "steam": false,
-          "label": "\ud83d\udd34 -112 \u2190 -115",
-          "old_ml": "-115",
+          "label": "No movement",
+          "old_ml": "-112",
           "new_ml": "-112"
         },
-        "snapshot_time": "October 09, 2026 at 12:06 PM UTC"
+        "snapshot_time": "October 09, 2026 at 05:20 PM UTC"
       },
       "fatigue": {
         "home": {
           "status": "FRESH",
           "label": "Well rested \u2705",
           "battery": 100,
-          "last_game": "Oct 05",
-          "days_rest": 4,
-          "games_last_4d": 1,
+          "last_game": "\u2014",
+          "days_rest": 99,
+          "games_last_4d": 0,
           "travel_miles": 0,
           "travel_desc": "",
           "source": "ESPN Scoreboard API"
@@ -4146,7 +4147,7 @@
       "briefing": {
         "trend": "Detroit Pistons hold a 50.4% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line moved -115\u2192-112 (3pts). Pending \u2014 check closer to tip-off",
+        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -4206,34 +4207,34 @@
           "old_ml": "-148",
           "new_ml": "-148"
         },
-        "snapshot_time": "October 09, 2026 at 12:06 PM UTC"
+        "snapshot_time": "October 09, 2026 at 05:20 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "RESTED",
-          "label": "2 days rest \u2705",
-          "battery": 88,
+          "status": "FRESH",
+          "label": "Well rested \u2705",
+          "battery": 100,
           "last_game": "Oct 06",
-          "days_rest": 3,
+          "days_rest": 4,
           "games_last_4d": 1,
           "travel_miles": 0,
           "travel_desc": "",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "FRESH",
-          "label": "Well rested \u2705",
-          "battery": 100,
-          "last_game": "\u2014",
-          "days_rest": 99,
-          "games_last_4d": 0,
-          "travel_miles": 0,
-          "travel_desc": "",
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Oct 09",
+          "days_rest": 1,
+          "games_last_4d": 1,
+          "travel_miles": 227,
+          "travel_desc": "227 mi road trip",
           "source": "ESPN Scoreboard API"
         }
       },
       "edge_factors": [
-        "\ud83d\udcca 14.4pt probability edge"
+        "\ud83d\udca4 HOU fatigued (B2B) \u2014 source: ESPN"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -4270,7 +4271,7 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "Denver Nuggets hold a 57.2% edge.",
+        "trend": "HOU on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
         "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
@@ -4332,26 +4333,26 @@
           "old_ml": "-180",
           "new_ml": "-180"
         },
-        "snapshot_time": "October 09, 2026 at 12:06 PM UTC"
+        "snapshot_time": "October 09, 2026 at 05:20 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
           "last_game": "Oct 08",
-          "days_rest": 1,
+          "days_rest": 2,
           "games_last_4d": 1,
           "travel_miles": 205,
           "travel_desc": "205 mi road trip",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
           "last_game": "Oct 08",
-          "days_rest": 1,
+          "days_rest": 2,
           "games_last_4d": 1,
           "travel_miles": 549,
           "travel_desc": "549 mi road trip",
@@ -4359,7 +4360,7 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udca4 WAS fatigued (B2B) \u2014 source: ESPN"
+        "\ud83d\udcca 23.2pt probability edge"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -4396,7 +4397,7 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "WAS on Back-to-Back \u26a0\ufe0f per ESPN schedule data. BOS on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "trend": "Boston Celtics hold a 61.6% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
         "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
@@ -4458,34 +4459,34 @@
           "old_ml": "-345",
           "new_ml": "-345"
         },
-        "snapshot_time": "October 09, 2026 at 12:06 PM UTC"
+        "snapshot_time": "October 09, 2026 at 05:20 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "RESTED",
-          "label": "2 days rest \u2705",
-          "battery": 88,
+          "status": "FRESH",
+          "label": "Well rested \u2705",
+          "battery": 100,
           "last_game": "Oct 06",
-          "days_rest": 3,
+          "days_rest": 4,
           "games_last_4d": 1,
           "travel_miles": 0,
           "travel_desc": "",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "FRESH",
-          "label": "Well rested \u2705",
-          "battery": 100,
-          "last_game": "\u2014",
-          "days_rest": 99,
-          "games_last_4d": 0,
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Oct 09",
+          "days_rest": 1,
+          "games_last_4d": 1,
           "travel_miles": 0,
           "travel_desc": "",
           "source": "ESPN Scoreboard API"
         }
       },
       "edge_factors": [
-        "\ud83d\udcca 48.8pt probability edge"
+        "\ud83d\udca4 DAL fatigued (B2B) \u2014 source: ESPN"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -4522,7 +4523,7 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "Denver Nuggets hold a 74.4% edge.",
+        "trend": "DAL on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
         "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
@@ -4584,26 +4585,26 @@
           "old_ml": "-155",
           "new_ml": "-155"
         },
-        "snapshot_time": "October 09, 2026 at 12:06 PM UTC"
+        "snapshot_time": "October 09, 2026 at 05:20 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
           "last_game": "Oct 08",
-          "days_rest": 1,
-          "games_last_4d": 2,
+          "days_rest": 2,
+          "games_last_4d": 1,
           "travel_miles": 83,
           "travel_desc": "83 mi road trip",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
           "last_game": "Oct 08",
-          "days_rest": 1,
+          "days_rest": 2,
           "games_last_4d": 1,
           "travel_miles": 0,
           "travel_desc": "",
@@ -4611,7 +4612,7 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udca4 MIA fatigued (B2B) \u2014 source: ESPN"
+        "\ud83d\udcca 16.6pt probability edge"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -4648,7 +4649,7 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "PHI on Back-to-Back \u26a0\ufe0f per ESPN schedule data. MIA on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "trend": "Philadelphia 76ers hold a 58.3% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
         "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
@@ -4710,27 +4711,27 @@
           "old_ml": "-375",
           "new_ml": "-375"
         },
-        "snapshot_time": "October 09, 2026 at 12:06 PM UTC"
+        "snapshot_time": "October 09, 2026 at 05:20 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
+          "status": "RESTED",
+          "label": "2 days rest \u2705",
+          "battery": 88,
           "last_game": "Oct 07",
-          "days_rest": 2,
+          "days_rest": 3,
           "games_last_4d": 2,
           "travel_miles": 0,
           "travel_desc": "",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
+          "status": "RESTED",
+          "label": "2 days rest \u2705",
+          "battery": 88,
           "last_game": "Oct 07",
-          "days_rest": 2,
-          "games_last_4d": 2,
+          "days_rest": 3,
+          "games_last_4d": 1,
           "travel_miles": 511,
           "travel_desc": "511 mi road trip",
           "source": "ESPN Scoreboard API"
@@ -4836,26 +4837,26 @@
           "old_ml": "-162",
           "new_ml": "-162"
         },
-        "snapshot_time": "October 09, 2026 at 12:06 PM UTC"
+        "snapshot_time": "October 09, 2026 at 05:20 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
+          "status": "RESTED",
+          "label": "2 days rest \u2705",
+          "battery": 88,
           "last_game": "Oct 07",
-          "days_rest": 2,
+          "days_rest": 3,
           "games_last_4d": 1,
           "travel_miles": 0,
           "travel_desc": "",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
           "last_game": "Oct 08",
-          "days_rest": 1,
+          "days_rest": 2,
           "games_last_4d": 1,
           "travel_miles": 0,
           "travel_desc": "",
@@ -4900,7 +4901,7 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "SAS on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "trend": "San Antonio Spurs hold a 59.3% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
         "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
@@ -4962,26 +4963,26 @@
           "old_ml": "-185",
           "new_ml": "-185"
         },
-        "snapshot_time": "October 09, 2026 at 12:06 PM UTC"
+        "snapshot_time": "October 09, 2026 at 05:20 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
           "last_game": "Oct 08",
-          "days_rest": 1,
-          "games_last_4d": 2,
-          "travel_miles": 85,
-          "travel_desc": "85 mi road trip",
+          "days_rest": 2,
+          "games_last_4d": 1,
+          "travel_miles": 0,
+          "travel_desc": "",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
           "last_game": "Oct 08",
-          "days_rest": 1,
+          "days_rest": 2,
           "games_last_4d": 1,
           "travel_miles": 0,
           "travel_desc": "",
@@ -4989,7 +4990,7 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udca4 MIA fatigued (B2B) \u2014 source: ESPN"
+        "\ud83d\udcca 24.4pt probability edge"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -5026,7 +5027,7 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "NYK on Back-to-Back \u26a0\ufe0f per ESPN schedule data. MIA on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "trend": "New York Knicks hold a 62.2% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
         "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
@@ -5048,74 +5049,74 @@
       "away_team": "Los Angeles Lakers",
       "home_abbr": "SAS",
       "away_abbr": "LAL",
-      "home_ml": "-250",
-      "away_ml": "+205",
-      "home_ml_raw": -250,
-      "away_ml_raw": 205,
-      "home_prob": 68.5,
-      "away_prob": 31.5,
-      "spread": "SAS -8.5",
+      "home_ml": "-258",
+      "away_ml": "+210",
+      "home_ml_raw": -258,
+      "away_ml_raw": 210,
+      "home_prob": 69.1,
+      "away_prob": 30.9,
+      "spread": "SAS -7.5",
       "favorite": "San Antonio Spurs",
       "pick": "San Antonio Spurs",
       "pick_abbr": "SAS",
-      "moneyline": "-250",
-      "win_probability": 68.5,
+      "moneyline": "-258",
+      "win_probability": 69.1,
       "confidence": "MEDIUM",
       "confidence_stars": "\u2605\u2605\u2606",
       "commence_time": "2026-11-28T02:40:00Z",
       "line_movement": {
         "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "shorter",
+          "points_moved": 8,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -258 \u2190 -250",
           "old_ml": "-250",
-          "new_ml": "-250"
+          "new_ml": "-258"
         },
         "away": {
-          "direction": "none",
-          "points_moved": 0,
+          "direction": "longer",
+          "points_moved": 5,
           "steam": false,
-          "label": "No movement",
+          "label": "\ud83d\udd34 +210 \u2190 +205",
           "old_ml": "+205",
-          "new_ml": "+205"
+          "new_ml": "+210"
         },
         "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "shorter",
+          "points_moved": 8,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -258 \u2190 -250",
           "old_ml": "-250",
-          "new_ml": "-250"
+          "new_ml": "-258"
         },
-        "snapshot_time": "October 09, 2026 at 12:06 PM UTC"
+        "snapshot_time": "October 09, 2026 at 05:20 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
           "last_game": "Oct 08",
-          "days_rest": 1,
+          "days_rest": 2,
           "games_last_4d": 1,
           "travel_miles": 0,
           "travel_desc": "",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
           "last_game": "Oct 08",
-          "days_rest": 1,
-          "games_last_4d": 3,
+          "days_rest": 2,
+          "games_last_4d": 2,
           "travel_miles": 346,
           "travel_desc": "346 mi road trip",
           "source": "ESPN Scoreboard API"
         }
       },
       "edge_factors": [
-        "\ud83d\udca4 LAL fatigued (B2B) \u2014 source: ESPN"
+        "\ud83d\udd25 Sharp steam detected"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -5152,9 +5153,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "SAS on Back-to-Back \u26a0\ufe0f per ESPN schedule data. LAL on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "trend": "San Antonio Spurs hold a 69.1% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "steam": "Line steamed from -250 to -258 (8pt move) \u2014 heavy professional action on San Antonio Spurs.",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -5214,26 +5215,26 @@
           "old_ml": "-115",
           "new_ml": "-115"
         },
-        "snapshot_time": "October 09, 2026 at 12:06 PM UTC"
+        "snapshot_time": "October 09, 2026 at 05:20 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
           "last_game": "Oct 08",
-          "days_rest": 1,
-          "games_last_4d": 2,
-          "travel_miles": 85,
-          "travel_desc": "85 mi road trip",
+          "days_rest": 2,
+          "games_last_4d": 1,
+          "travel_miles": 0,
+          "travel_desc": "",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
           "last_game": "Oct 08",
-          "days_rest": 1,
+          "days_rest": 2,
           "games_last_4d": 1,
           "travel_miles": 0,
           "travel_desc": "",
@@ -5241,7 +5242,7 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udca4 SAS fatigued (B2B) \u2014 source: ESPN"
+        "\ud83d\udcca 2.2pt probability edge"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -5278,7 +5279,7 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "NYK on Back-to-Back \u26a0\ufe0f per ESPN schedule data. SAS on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "trend": "New York Knicks hold a 51.1% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
         "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
@@ -5340,26 +5341,26 @@
           "old_ml": "-185",
           "new_ml": "-185"
         },
-        "snapshot_time": "October 09, 2026 at 12:06 PM UTC"
+        "snapshot_time": "October 09, 2026 at 05:20 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
           "last_game": "Oct 08",
-          "days_rest": 1,
+          "days_rest": 2,
           "games_last_4d": 1,
           "travel_miles": 549,
           "travel_desc": "549 mi road trip",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
           "last_game": "Oct 08",
-          "days_rest": 1,
+          "days_rest": 2,
           "games_last_4d": 1,
           "travel_miles": 0,
           "travel_desc": "",
@@ -5367,7 +5368,7 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udca4 MIA fatigued (B2B) \u2014 source: ESPN"
+        "\ud83d\udcca 24.4pt probability edge"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -5404,7 +5405,7 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "BOS on Back-to-Back \u26a0\ufe0f per ESPN schedule data. MIA on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "trend": "Boston Celtics hold a 62.2% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
         "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
@@ -5466,34 +5467,34 @@
           "old_ml": "-115",
           "new_ml": "-115"
         },
-        "snapshot_time": "October 09, 2026 at 12:06 PM UTC"
+        "snapshot_time": "October 09, 2026 at 05:20 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
           "last_game": "Oct 08",
-          "days_rest": 1,
-          "games_last_4d": 3,
+          "days_rest": 2,
+          "games_last_4d": 2,
           "travel_miles": 346,
           "travel_desc": "346 mi road trip",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
           "last_game": "Oct 08",
-          "days_rest": 1,
-          "games_last_4d": 2,
+          "days_rest": 2,
+          "games_last_4d": 1,
           "travel_miles": 83,
           "travel_desc": "83 mi road trip",
           "source": "ESPN Scoreboard API"
         }
       },
       "edge_factors": [
-        "\ud83d\udca4 PHI fatigued (B2B) \u2014 source: ESPN"
+        "\ud83d\udcca 2.2pt probability edge"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -5530,7 +5531,7 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "LAL on Back-to-Back \u26a0\ufe0f per ESPN schedule data. PHI on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "trend": "Los Angeles Lakers hold a 51.1% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
         "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
@@ -5558,7 +5559,7 @@
       "away_ml_raw": -155,
       "home_prob": 41.7,
       "away_prob": 58.3,
-      "spread": "MIN +4.5",
+      "spread": "MIN +3.5",
       "favorite": "Oklahoma City Thunder",
       "pick": "Oklahoma City Thunder",
       "pick_abbr": "OKC",
@@ -5592,26 +5593,26 @@
           "old_ml": "-155",
           "new_ml": "-155"
         },
-        "snapshot_time": "October 09, 2026 at 12:06 PM UTC"
+        "snapshot_time": "October 09, 2026 at 05:20 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
+          "status": "RESTED",
+          "label": "2 days rest \u2705",
+          "battery": 88,
           "last_game": "Oct 07",
-          "days_rest": 2,
-          "games_last_4d": 2,
+          "days_rest": 3,
+          "games_last_4d": 1,
           "travel_miles": 511,
           "travel_desc": "511 mi road trip",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
+          "status": "RESTED",
+          "label": "2 days rest \u2705",
+          "battery": 88,
           "last_game": "Oct 07",
-          "days_rest": 2,
+          "days_rest": 3,
           "games_last_4d": 2,
           "travel_miles": 0,
           "travel_desc": "",
@@ -5718,26 +5719,26 @@
           "old_ml": "-130",
           "new_ml": "-130"
         },
-        "snapshot_time": "October 09, 2026 at 12:06 PM UTC"
+        "snapshot_time": "October 09, 2026 at 05:20 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
+          "status": "RESTED",
+          "label": "2 days rest \u2705",
+          "battery": 88,
           "last_game": "Oct 07",
-          "days_rest": 2,
+          "days_rest": 3,
           "games_last_4d": 2,
           "travel_miles": 537,
           "travel_desc": "537 mi road trip",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "RESTED",
-          "label": "2 days rest \u2705",
-          "battery": 88,
+          "status": "FRESH",
+          "label": "Well rested \u2705",
+          "battery": 100,
           "last_game": "Oct 06",
-          "days_rest": 3,
+          "days_rest": 4,
           "games_last_4d": 1,
           "travel_miles": 0,
           "travel_desc": "",
