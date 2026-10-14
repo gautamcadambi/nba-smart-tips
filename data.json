@@ -1,5 +1,5 @@
 {
-  "last_updated": "October 14, 2026 at 09:36 AM UTC",
+  "last_updated": "October 14, 2026 at 03:42 PM UTC",
   "total_games": 46,
   "games": [
     {
@@ -8,47 +8,47 @@
       "away_team": "Boston Celtics",
       "home_abbr": "DET",
       "away_abbr": "BOS",
-      "home_ml": "-118",
-      "away_ml": "-102",
-      "home_ml_raw": -118,
-      "away_ml_raw": -102,
-      "home_prob": 51.7,
-      "away_prob": 48.3,
+      "home_ml": "-115",
+      "away_ml": "-105",
+      "home_ml_raw": -115,
+      "away_ml_raw": -105,
+      "home_prob": 51.1,
+      "away_prob": 48.9,
       "spread": "DET -1.5",
       "favorite": "Detroit Pistons",
       "pick": "Detroit Pistons",
       "pick_abbr": "DET",
-      "moneyline": "-118",
-      "win_probability": 51.7,
+      "moneyline": "-115",
+      "win_probability": 51.1,
       "confidence": "LOW",
       "confidence_stars": "\u2605\u2606\u2606",
       "commence_time": "2026-10-20T19:00:00Z",
       "line_movement": {
         "home": {
           "direction": "longer",
-          "points_moved": 7,
+          "points_moved": 3,
           "steam": false,
-          "label": "\ud83d\udd34 -118 \u2190 -125",
-          "old_ml": "-125",
-          "new_ml": "-118"
+          "label": "\ud83d\udd34 -115 \u2190 -118",
+          "old_ml": "-118",
+          "new_ml": "-115"
         },
         "away": {
           "direction": "shorter",
-          "points_moved": 207,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -102 \u2190 +105",
-          "old_ml": "+105",
-          "new_ml": "-102"
+          "points_moved": 3,
+          "steam": false,
+          "label": "\ud83d\udfe2 -105 \u2190 -102",
+          "old_ml": "-102",
+          "new_ml": "-105"
         },
         "pick": {
           "direction": "longer",
-          "points_moved": 7,
+          "points_moved": 3,
           "steam": false,
-          "label": "\ud83d\udd34 -118 \u2190 -125",
-          "old_ml": "-125",
-          "new_ml": "-118"
+          "label": "\ud83d\udd34 -115 \u2190 -118",
+          "old_ml": "-118",
+          "new_ml": "-115"
         },
-        "snapshot_time": "October 14, 2026 at 04:13 AM UTC"
+        "snapshot_time": "October 14, 2026 at 09:36 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -71,6 +71,132 @@
           "games_last_4d": 1,
           "travel_miles": 0,
           "travel_desc": "",
+          "source": "ESPN Scoreboard API"
+        }
+      },
+      "edge_factors": [
+        "\ud83d\udcca 2.2pt probability edge"
+      ],
+      "injury_notes": "No key injuries.",
+      "sharp": {
+        "away_t": null,
+        "home_t": null,
+        "source": null,
+        "sharp_signal": null,
+        "sharp_label": "Pending \u2014 check closer to tip-off",
+        "rlm": false
+      },
+      "form": {
+        "home": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        },
+        "away": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        }
+      },
+      "h2h": {
+        "total_meetings": 0,
+        "home_wins": 0,
+        "away_wins": 0,
+        "meetings": [],
+        "source": "\u2014"
+      },
+      "briefing": {
+        "trend": "Detroit Pistons hold a 51.1% edge.",
+        "matchup": "Both rosters appear healthy \u2014 clean line.",
+        "steam": "Line moved -118\u2192-115 (3pts). Pending \u2014 check closer to tip-off",
+        "injury_notes": "No key injuries."
+      },
+      "live": {
+        "status": "pre",
+        "status_detail": "Upcoming",
+        "period": 0,
+        "clock": "",
+        "home_score": 0,
+        "away_score": 0,
+        "spread_alert": null
+      },
+      "news": []
+    },
+    {
+      "game": "Philadelphia 76ers @ New York Knicks",
+      "home_team": "New York Knicks",
+      "away_team": "Philadelphia 76ers",
+      "home_abbr": "NYK",
+      "away_abbr": "PHI",
+      "home_ml": "-218",
+      "away_ml": "+180",
+      "home_ml_raw": -218,
+      "away_ml_raw": 180,
+      "home_prob": 65.7,
+      "away_prob": 34.3,
+      "spread": "NYK -5.5",
+      "favorite": "New York Knicks",
+      "pick": "New York Knicks",
+      "pick_abbr": "NYK",
+      "moneyline": "-218",
+      "win_probability": 65.7,
+      "confidence": "MEDIUM",
+      "confidence_stars": "\u2605\u2605\u2606",
+      "commence_time": "2026-10-20T23:00:00Z",
+      "line_movement": {
+        "home": {
+          "direction": "shorter",
+          "points_moved": 33,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -218 \u2190 -185",
+          "old_ml": "-185",
+          "new_ml": "-218"
+        },
+        "away": {
+          "direction": "longer",
+          "points_moved": 26,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM +180 \u2190 +154",
+          "old_ml": "+154",
+          "new_ml": "+180"
+        },
+        "pick": {
+          "direction": "shorter",
+          "points_moved": 33,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -218 \u2190 -185",
+          "old_ml": "-185",
+          "new_ml": "-218"
+        },
+        "snapshot_time": "October 14, 2026 at 09:36 AM UTC"
+      },
+      "fatigue": {
+        "home": {
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Oct 13",
+          "days_rest": 1,
+          "games_last_4d": 2,
+          "travel_miles": 340,
+          "travel_desc": "340 mi road trip",
+          "source": "ESPN Scoreboard API"
+        },
+        "away": {
+          "status": "FRESH",
+          "label": "Well rested \u2705",
+          "battery": 100,
+          "last_game": "Oct 10",
+          "days_rest": 4,
+          "games_last_4d": 1,
+          "travel_miles": 273,
+          "travel_desc": "273 mi road trip",
           "source": "ESPN Scoreboard API"
         }
       },
@@ -112,154 +238,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "Detroit Pistons hold a 51.7% edge.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line moved -125\u2192-118 (7pts). Pending \u2014 check closer to tip-off",
-        "injury_notes": "No key injuries."
-      },
-      "live": {
-        "status": "pre",
-        "status_detail": "Upcoming",
-        "period": 0,
-        "clock": "",
-        "home_score": 0,
-        "away_score": 0,
-        "spread_alert": null
-      },
-      "news": [
-        {
-          "title": "Could the Rockets trade Kevin Durant this year?",
-          "source": "The Dream Shake",
-          "link": "https://www.thedreamshake.com/rockets-rumors/41815/could-the-rockets-trade-kevin-durant-this-year",
-          "published": "2026-10-13T09:14:48Z"
-        },
-        {
-          "title": "Did Michigan's basketball title finally change the Big Ten narrative?",
-          "source": "Fci Academy",
-          "link": "https://www.dispatch.com/story/sports/college/basketball/2026/10/13/what-michigans-hoops-national-title-means-for-ohio-state-the-big-ten/92214454007/",
-          "published": "2026-10-13T09:10:03Z"
-        },
-        {
-          "title": "Texas A&M transfer guard named to the Preseason All-SEC Third Team",
-          "source": "USA Today",
-          "link": "https://aggieswire.usatoday.com/story/sports/college/aggies/mens-basketball/2026/10/13/texas-aggies-basketblal-pj-haggerty-named-to-the-preseason-all-sec-third-team/92225172007/",
-          "published": "2026-10-13T09:07:55Z"
-        }
-      ]
-    },
-    {
-      "game": "Philadelphia 76ers @ New York Knicks",
-      "home_team": "New York Knicks",
-      "away_team": "Philadelphia 76ers",
-      "home_abbr": "NYK",
-      "away_abbr": "PHI",
-      "home_ml": "-185",
-      "away_ml": "+154",
-      "home_ml_raw": -185,
-      "away_ml_raw": 154,
-      "home_prob": 62.2,
-      "away_prob": 37.8,
-      "spread": "NYK -5.5",
-      "favorite": "New York Knicks",
-      "pick": "New York Knicks",
-      "pick_abbr": "NYK",
-      "moneyline": "-185",
-      "win_probability": 62.2,
-      "confidence": "MEDIUM",
-      "confidence_stars": "\u2605\u2605\u2606",
-      "commence_time": "2026-10-20T23:00:00Z",
-      "line_movement": {
-        "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
-          "old_ml": "-185",
-          "new_ml": "-185"
-        },
-        "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
-          "old_ml": "+154",
-          "new_ml": "+154"
-        },
-        "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
-          "old_ml": "-185",
-          "new_ml": "-185"
-        },
-        "snapshot_time": "October 14, 2026 at 04:13 AM UTC"
-      },
-      "fatigue": {
-        "home": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
-          "last_game": "Oct 13",
-          "days_rest": 1,
-          "games_last_4d": 2,
-          "travel_miles": 340,
-          "travel_desc": "340 mi road trip",
-          "source": "ESPN Scoreboard API"
-        },
-        "away": {
-          "status": "FRESH",
-          "label": "Well rested \u2705",
-          "battery": 100,
-          "last_game": "Oct 10",
-          "days_rest": 4,
-          "games_last_4d": 1,
-          "travel_miles": 273,
-          "travel_desc": "273 mi road trip",
-          "source": "ESPN Scoreboard API"
-        }
-      },
-      "edge_factors": [
-        "\ud83d\udcca 24.4pt probability edge"
-      ],
-      "injury_notes": "No key injuries.",
-      "sharp": {
-        "away_t": null,
-        "home_t": null,
-        "source": null,
-        "sharp_signal": null,
-        "sharp_label": "Pending \u2014 check closer to tip-off",
-        "rlm": false
-      },
-      "form": {
-        "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        },
-        "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        }
-      },
-      "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
-      },
-      "briefing": {
         "trend": "NYK on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "steam": "Line steamed from -185 to -218 (33pt move) \u2014 heavy professional action on New York Knicks.",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -271,26 +252,7 @@
         "away_score": 0,
         "spread_alert": null
       },
-      "news": [
-        {
-          "title": "Could the Rockets trade Kevin Durant this year?",
-          "source": "The Dream Shake",
-          "link": "https://www.thedreamshake.com/rockets-rumors/41815/could-the-rockets-trade-kevin-durant-this-year",
-          "published": "2026-10-13T09:14:48Z"
-        },
-        {
-          "title": "Did Michigan's basketball title finally change the Big Ten narrative?",
-          "source": "Fci Academy",
-          "link": "https://www.dispatch.com/story/sports/college/basketball/2026/10/13/what-michigans-hoops-national-title-means-for-ohio-state-the-big-ten/92214454007/",
-          "published": "2026-10-13T09:10:03Z"
-        },
-        {
-          "title": "Texas A&M transfer guard named to the Preseason All-SEC Third Team",
-          "source": "USA Today",
-          "link": "https://aggieswire.usatoday.com/story/sports/college/aggies/mens-basketball/2026/10/13/texas-aggies-basketblal-pj-haggerty-named-to-the-preseason-all-sec-third-team/92225172007/",
-          "published": "2026-10-13T09:07:55Z"
-        }
-      ]
+      "news": []
     },
     {
       "game": "Oklahoma City Thunder @ San Antonio Spurs",
@@ -298,47 +260,47 @@
       "away_team": "Oklahoma City Thunder",
       "home_abbr": "SAS",
       "away_abbr": "OKC",
-      "home_ml": "-125",
-      "away_ml": "+105",
-      "home_ml_raw": -125,
-      "away_ml_raw": 105,
-      "home_prob": 53.2,
-      "away_prob": 46.8,
+      "home_ml": "-130",
+      "away_ml": "+110",
+      "home_ml_raw": -130,
+      "away_ml_raw": 110,
+      "home_prob": 54.3,
+      "away_prob": 45.7,
       "spread": "SAS -2.5",
       "favorite": "San Antonio Spurs",
       "pick": "San Antonio Spurs",
       "pick_abbr": "SAS",
-      "moneyline": "-125",
-      "win_probability": 53.2,
+      "moneyline": "-130",
+      "win_probability": 54.3,
       "confidence": "LOW",
       "confidence_stars": "\u2605\u2606\u2606",
       "commence_time": "2026-10-21T01:30:00Z",
       "line_movement": {
         "home": {
-          "direction": "none",
-          "points_moved": 0,
+          "direction": "shorter",
+          "points_moved": 5,
           "steam": false,
-          "label": "No movement",
+          "label": "\ud83d\udfe2 -130 \u2190 -125",
           "old_ml": "-125",
-          "new_ml": "-125"
+          "new_ml": "-130"
         },
         "away": {
-          "direction": "none",
-          "points_moved": 0,
+          "direction": "longer",
+          "points_moved": 5,
           "steam": false,
-          "label": "No movement",
+          "label": "\ud83d\udd34 +110 \u2190 +105",
           "old_ml": "+105",
-          "new_ml": "+105"
+          "new_ml": "+110"
         },
         "pick": {
-          "direction": "none",
-          "points_moved": 0,
+          "direction": "shorter",
+          "points_moved": 5,
           "steam": false,
-          "label": "No movement",
+          "label": "\ud83d\udfe2 -130 \u2190 -125",
           "old_ml": "-125",
-          "new_ml": "-125"
+          "new_ml": "-130"
         },
-        "snapshot_time": "October 14, 2026 at 04:13 AM UTC"
+        "snapshot_time": "October 14, 2026 at 09:36 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -404,7 +366,7 @@
       "briefing": {
         "trend": "OKC on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "steam": "Line moved -125\u2192-130 (5pts). Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -416,26 +378,7 @@
         "away_score": 0,
         "spread_alert": null
       },
-      "news": [
-        {
-          "title": "Could the Rockets trade Kevin Durant this year?",
-          "source": "The Dream Shake",
-          "link": "https://www.thedreamshake.com/rockets-rumors/41815/could-the-rockets-trade-kevin-durant-this-year",
-          "published": "2026-10-13T09:14:48Z"
-        },
-        {
-          "title": "Did Michigan's basketball title finally change the Big Ten narrative?",
-          "source": "Fci Academy",
-          "link": "https://www.dispatch.com/story/sports/college/basketball/2026/10/13/what-michigans-hoops-national-title-means-for-ohio-state-the-big-ten/92214454007/",
-          "published": "2026-10-13T09:10:03Z"
-        },
-        {
-          "title": "Texas A&M transfer guard named to the Preseason All-SEC Third Team",
-          "source": "USA Today",
-          "link": "https://aggieswire.usatoday.com/story/sports/college/aggies/mens-basketball/2026/10/13/texas-aggies-basketblal-pj-haggerty-named-to-the-preseason-all-sec-third-team/92225172007/",
-          "published": "2026-10-13T09:07:55Z"
-        }
-      ]
+      "news": []
     },
     {
       "game": "Milwaukee Bucks @ Washington Wizards",
@@ -483,7 +426,7 @@
           "old_ml": "-198",
           "new_ml": "-198"
         },
-        "snapshot_time": "October 14, 2026 at 04:13 AM UTC"
+        "snapshot_time": "October 14, 2026 at 09:36 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -561,26 +504,7 @@
         "away_score": 0,
         "spread_alert": null
       },
-      "news": [
-        {
-          "title": "Could the Rockets trade Kevin Durant this year?",
-          "source": "The Dream Shake",
-          "link": "https://www.thedreamshake.com/rockets-rumors/41815/could-the-rockets-trade-kevin-durant-this-year",
-          "published": "2026-10-13T09:14:48Z"
-        },
-        {
-          "title": "Did Michigan's basketball title finally change the Big Ten narrative?",
-          "source": "Fci Academy",
-          "link": "https://www.dispatch.com/story/sports/college/basketball/2026/10/13/what-michigans-hoops-national-title-means-for-ohio-state-the-big-ten/92214454007/",
-          "published": "2026-10-13T09:10:03Z"
-        },
-        {
-          "title": "Texas A&M transfer guard named to the Preseason All-SEC Third Team",
-          "source": "USA Today",
-          "link": "https://aggieswire.usatoday.com/story/sports/college/aggies/mens-basketball/2026/10/13/texas-aggies-basketblal-pj-haggerty-named-to-the-preseason-all-sec-third-team/92225172007/",
-          "published": "2026-10-13T09:07:55Z"
-        }
-      ]
+      "news": []
     },
     {
       "game": "Atlanta Hawks @ Orlando Magic",
@@ -588,47 +512,47 @@
       "away_team": "Atlanta Hawks",
       "home_abbr": "ORL",
       "away_abbr": "ATL",
-      "home_ml": "-130",
-      "away_ml": "+110",
-      "home_ml_raw": -130,
-      "away_ml_raw": 110,
-      "home_prob": 54.3,
-      "away_prob": 45.7,
+      "home_ml": "-135",
+      "away_ml": "+114",
+      "home_ml_raw": -135,
+      "away_ml_raw": 114,
+      "home_prob": 55.1,
+      "away_prob": 44.9,
       "spread": "ORL -2.5",
       "favorite": "Orlando Magic",
       "pick": "Orlando Magic",
       "pick_abbr": "ORL",
-      "moneyline": "-130",
-      "win_probability": 54.3,
+      "moneyline": "-135",
+      "win_probability": 55.1,
       "confidence": "LOW",
       "confidence_stars": "\u2605\u2606\u2606",
       "commence_time": "2026-10-21T23:10:00Z",
       "line_movement": {
         "home": {
-          "direction": "none",
-          "points_moved": 0,
+          "direction": "shorter",
+          "points_moved": 5,
           "steam": false,
-          "label": "No movement",
+          "label": "\ud83d\udfe2 -135 \u2190 -130",
           "old_ml": "-130",
-          "new_ml": "-130"
+          "new_ml": "-135"
         },
         "away": {
-          "direction": "none",
-          "points_moved": 0,
+          "direction": "longer",
+          "points_moved": 4,
           "steam": false,
-          "label": "No movement",
+          "label": "\ud83d\udd34 +114 \u2190 +110",
           "old_ml": "+110",
-          "new_ml": "+110"
+          "new_ml": "+114"
         },
         "pick": {
-          "direction": "none",
-          "points_moved": 0,
+          "direction": "shorter",
+          "points_moved": 5,
           "steam": false,
-          "label": "No movement",
+          "label": "\ud83d\udfe2 -135 \u2190 -130",
           "old_ml": "-130",
-          "new_ml": "-130"
+          "new_ml": "-135"
         },
-        "snapshot_time": "October 14, 2026 at 04:13 AM UTC"
+        "snapshot_time": "October 14, 2026 at 09:36 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -655,7 +579,7 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udcca 8.6pt probability edge"
+        "\ud83d\udcca 10.2pt probability edge"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -694,7 +618,7 @@
       "briefing": {
         "trend": "ORL on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "steam": "Line moved -130\u2192-135 (5pts). Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -706,26 +630,7 @@
         "away_score": 0,
         "spread_alert": null
       },
-      "news": [
-        {
-          "title": "Could the Rockets trade Kevin Durant this year?",
-          "source": "The Dream Shake",
-          "link": "https://www.thedreamshake.com/rockets-rumors/41815/could-the-rockets-trade-kevin-durant-this-year",
-          "published": "2026-10-13T09:14:48Z"
-        },
-        {
-          "title": "Did Michigan's basketball title finally change the Big Ten narrative?",
-          "source": "Fci Academy",
-          "link": "https://www.dispatch.com/story/sports/college/basketball/2026/10/13/what-michigans-hoops-national-title-means-for-ohio-state-the-big-ten/92214454007/",
-          "published": "2026-10-13T09:10:03Z"
-        },
-        {
-          "title": "Texas A&M transfer guard named to the Preseason All-SEC Third Team",
-          "source": "USA Today",
-          "link": "https://aggieswire.usatoday.com/story/sports/college/aggies/mens-basketball/2026/10/13/texas-aggies-basketblal-pj-haggerty-named-to-the-preseason-all-sec-third-team/92225172007/",
-          "published": "2026-10-13T09:07:55Z"
-        }
-      ]
+      "news": []
     },
     {
       "game": "Charlotte Hornets @ Brooklyn Nets",
@@ -773,7 +678,7 @@
           "old_ml": "-130",
           "new_ml": "-130"
         },
-        "snapshot_time": "October 14, 2026 at 04:13 AM UTC"
+        "snapshot_time": "October 14, 2026 at 09:36 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -851,26 +756,7 @@
         "away_score": 0,
         "spread_alert": null
       },
-      "news": [
-        {
-          "title": "Could the Rockets trade Kevin Durant this year?",
-          "source": "The Dream Shake",
-          "link": "https://www.thedreamshake.com/rockets-rumors/41815/could-the-rockets-trade-kevin-durant-this-year",
-          "published": "2026-10-13T09:14:48Z"
-        },
-        {
-          "title": "Did Michigan's basketball title finally change the Big Ten narrative?",
-          "source": "Fci Academy",
-          "link": "https://www.dispatch.com/story/sports/college/basketball/2026/10/13/what-michigans-hoops-national-title-means-for-ohio-state-the-big-ten/92214454007/",
-          "published": "2026-10-13T09:10:03Z"
-        },
-        {
-          "title": "Texas A&M transfer guard named to the Preseason All-SEC Third Team",
-          "source": "USA Today",
-          "link": "https://aggieswire.usatoday.com/story/sports/college/aggies/mens-basketball/2026/10/13/texas-aggies-basketblal-pj-haggerty-named-to-the-preseason-all-sec-third-team/92225172007/",
-          "published": "2026-10-13T09:07:55Z"
-        }
-      ]
+      "news": []
     },
     {
       "game": "Chicago Bulls @ Toronto Raptors",
@@ -918,7 +804,7 @@
           "old_ml": "-345",
           "new_ml": "-345"
         },
-        "snapshot_time": "October 14, 2026 at 04:13 AM UTC"
+        "snapshot_time": "October 14, 2026 at 09:36 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -996,26 +882,7 @@
         "away_score": 0,
         "spread_alert": null
       },
-      "news": [
-        {
-          "title": "Could the Rockets trade Kevin Durant this year?",
-          "source": "The Dream Shake",
-          "link": "https://www.thedreamshake.com/rockets-rumors/41815/could-the-rockets-trade-kevin-durant-this-year",
-          "published": "2026-10-13T09:14:48Z"
-        },
-        {
-          "title": "Did Michigan's basketball title finally change the Big Ten narrative?",
-          "source": "Fci Academy",
-          "link": "https://www.dispatch.com/story/sports/college/basketball/2026/10/13/what-michigans-hoops-national-title-means-for-ohio-state-the-big-ten/92214454007/",
-          "published": "2026-10-13T09:10:03Z"
-        },
-        {
-          "title": "Texas A&M transfer guard named to the Preseason All-SEC Third Team",
-          "source": "USA Today",
-          "link": "https://aggieswire.usatoday.com/story/sports/college/aggies/mens-basketball/2026/10/13/texas-aggies-basketblal-pj-haggerty-named-to-the-preseason-all-sec-third-team/92225172007/",
-          "published": "2026-10-13T09:07:55Z"
-        }
-      ]
+      "news": []
     },
     {
       "game": "Minnesota Timberwolves @ Miami Heat",
@@ -1063,7 +930,7 @@
           "old_ml": "-125",
           "new_ml": "-125"
         },
-        "snapshot_time": "October 14, 2026 at 04:13 AM UTC"
+        "snapshot_time": "October 14, 2026 at 09:36 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -1141,26 +1008,7 @@
         "away_score": 0,
         "spread_alert": null
       },
-      "news": [
-        {
-          "title": "Could the Rockets trade Kevin Durant this year?",
-          "source": "The Dream Shake",
-          "link": "https://www.thedreamshake.com/rockets-rumors/41815/could-the-rockets-trade-kevin-durant-this-year",
-          "published": "2026-10-13T09:14:48Z"
-        },
-        {
-          "title": "Did Michigan's basketball title finally change the Big Ten narrative?",
-          "source": "Fci Academy",
-          "link": "https://www.dispatch.com/story/sports/college/basketball/2026/10/13/what-michigans-hoops-national-title-means-for-ohio-state-the-big-ten/92214454007/",
-          "published": "2026-10-13T09:10:03Z"
-        },
-        {
-          "title": "Texas A&M transfer guard named to the Preseason All-SEC Third Team",
-          "source": "USA Today",
-          "link": "https://aggieswire.usatoday.com/story/sports/college/aggies/mens-basketball/2026/10/13/texas-aggies-basketblal-pj-haggerty-named-to-the-preseason-all-sec-third-team/92225172007/",
-          "published": "2026-10-13T09:07:55Z"
-        }
-      ]
+      "news": []
     },
     {
       "game": "Indiana Pacers @ New Orleans Pelicans",
@@ -1174,7 +1022,7 @@
       "away_ml_raw": -155,
       "home_prob": 41.7,
       "away_prob": 58.3,
-      "spread": "NOP +4.5",
+      "spread": "NOP +3.5",
       "favorite": "Indiana Pacers",
       "pick": "Indiana Pacers",
       "pick_abbr": "IND",
@@ -1208,7 +1056,7 @@
           "old_ml": "-155",
           "new_ml": "-155"
         },
-        "snapshot_time": "October 14, 2026 at 04:13 AM UTC"
+        "snapshot_time": "October 14, 2026 at 09:36 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -1334,7 +1182,7 @@
           "old_ml": "-130",
           "new_ml": "-130"
         },
-        "snapshot_time": "October 14, 2026 at 04:13 AM UTC"
+        "snapshot_time": "October 14, 2026 at 09:36 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -1460,7 +1308,7 @@
           "old_ml": "-310",
           "new_ml": "-310"
         },
-        "snapshot_time": "October 14, 2026 at 04:13 AM UTC"
+        "snapshot_time": "October 14, 2026 at 09:36 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -1546,47 +1394,47 @@
       "away_team": "Golden State Warriors",
       "home_abbr": "LAL",
       "away_abbr": "GSW",
-      "home_ml": "-170",
-      "away_ml": "+142",
-      "home_ml_raw": -170,
-      "away_ml_raw": 142,
-      "home_prob": 60.4,
-      "away_prob": 39.6,
+      "home_ml": "-185",
+      "away_ml": "+154",
+      "home_ml_raw": -185,
+      "away_ml_raw": 154,
+      "home_prob": 62.2,
+      "away_prob": 37.8,
       "spread": "LAL -5.5",
       "favorite": "Los Angeles Lakers",
       "pick": "Los Angeles Lakers",
       "pick_abbr": "LAL",
-      "moneyline": "-170",
-      "win_probability": 60.4,
+      "moneyline": "-185",
+      "win_probability": 62.2,
       "confidence": "MEDIUM",
       "confidence_stars": "\u2605\u2605\u2606",
       "commence_time": "2026-10-22T02:00:00Z",
       "line_movement": {
         "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "shorter",
+          "points_moved": 15,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -185 \u2190 -170",
           "old_ml": "-170",
-          "new_ml": "-170"
+          "new_ml": "-185"
         },
         "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "longer",
+          "points_moved": 12,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM +154 \u2190 +142",
           "old_ml": "+142",
-          "new_ml": "+142"
+          "new_ml": "+154"
         },
         "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "shorter",
+          "points_moved": 15,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -185 \u2190 -170",
           "old_ml": "-170",
-          "new_ml": "-170"
+          "new_ml": "-185"
         },
-        "snapshot_time": "October 14, 2026 at 04:13 AM UTC"
+        "snapshot_time": "October 14, 2026 at 09:36 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -1613,6 +1461,7 @@
         }
       },
       "edge_factors": [
+        "\ud83d\udd25 Sharp steam detected",
         "\ud83d\udca4 GSW fatigued (B2B) \u2014 source: ESPN"
       ],
       "injury_notes": "No key injuries.",
@@ -1652,7 +1501,7 @@
       "briefing": {
         "trend": "LAL on Back-to-Back \u26a0\ufe0f per ESPN schedule data. GSW on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "steam": "Line steamed from -170 to -185 (15pt move) \u2014 heavy professional action on Los Angeles Lakers.",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -1672,47 +1521,47 @@
       "away_team": "Phoenix Suns",
       "home_abbr": "POR",
       "away_abbr": "PHX",
-      "home_ml": "-162",
-      "away_ml": "+136",
-      "home_ml_raw": -162,
-      "away_ml_raw": 136,
-      "home_prob": 59.3,
-      "away_prob": 40.7,
+      "home_ml": "-166",
+      "away_ml": "+140",
+      "home_ml_raw": -166,
+      "away_ml_raw": 140,
+      "home_prob": 60.0,
+      "away_prob": 40.0,
       "spread": "POR -4.5",
       "favorite": "Portland Trail Blazers",
       "pick": "Portland Trail Blazers",
       "pick_abbr": "POR",
-      "moneyline": "-162",
-      "win_probability": 59.3,
+      "moneyline": "-166",
+      "win_probability": 60.0,
       "confidence": "MEDIUM",
       "confidence_stars": "\u2605\u2605\u2606",
       "commence_time": "2026-10-22T02:10:00Z",
       "line_movement": {
         "home": {
-          "direction": "none",
-          "points_moved": 0,
+          "direction": "shorter",
+          "points_moved": 4,
           "steam": false,
-          "label": "No movement",
+          "label": "\ud83d\udfe2 -166 \u2190 -162",
           "old_ml": "-162",
-          "new_ml": "-162"
+          "new_ml": "-166"
         },
         "away": {
-          "direction": "none",
-          "points_moved": 0,
+          "direction": "longer",
+          "points_moved": 4,
           "steam": false,
-          "label": "No movement",
+          "label": "\ud83d\udd34 +140 \u2190 +136",
           "old_ml": "+136",
-          "new_ml": "+136"
+          "new_ml": "+140"
         },
         "pick": {
-          "direction": "none",
-          "points_moved": 0,
+          "direction": "shorter",
+          "points_moved": 4,
           "steam": false,
-          "label": "No movement",
+          "label": "\ud83d\udfe2 -166 \u2190 -162",
           "old_ml": "-162",
-          "new_ml": "-162"
+          "new_ml": "-166"
         },
-        "snapshot_time": "October 14, 2026 at 04:13 AM UTC"
+        "snapshot_time": "October 14, 2026 at 09:36 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -1739,7 +1588,7 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udcca 18.6pt probability edge"
+        "\ud83d\udcca 20.0pt probability edge"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -1778,7 +1627,7 @@
       "briefing": {
         "trend": "POR on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "steam": "Line moved -162\u2192-166 (4pts). Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -1838,7 +1687,7 @@
           "old_ml": "-155",
           "new_ml": "-155"
         },
-        "snapshot_time": "October 14, 2026 at 04:13 AM UTC"
+        "snapshot_time": "October 14, 2026 at 09:36 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -1930,7 +1779,7 @@
       "away_ml_raw": 130,
       "home_prob": 58.3,
       "away_prob": 41.7,
-      "spread": "PHI -3.5",
+      "spread": "PHI -4.5",
       "favorite": "Philadelphia 76ers",
       "pick": "Philadelphia 76ers",
       "pick_abbr": "PHI",
@@ -1964,7 +1813,7 @@
           "old_ml": "-155",
           "new_ml": "-155"
         },
-        "snapshot_time": "October 14, 2026 at 04:13 AM UTC"
+        "snapshot_time": "October 14, 2026 at 09:36 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -2090,7 +1939,7 @@
           "old_ml": "-278",
           "new_ml": "-278"
         },
-        "snapshot_time": "October 14, 2026 at 04:13 AM UTC"
+        "snapshot_time": "October 14, 2026 at 09:36 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -2216,7 +2065,7 @@
           "old_ml": "-130",
           "new_ml": "-130"
         },
-        "snapshot_time": "October 14, 2026 at 04:13 AM UTC"
+        "snapshot_time": "October 14, 2026 at 09:36 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -2342,7 +2191,7 @@
           "old_ml": "-230",
           "new_ml": "-230"
         },
-        "snapshot_time": "October 14, 2026 at 04:13 AM UTC"
+        "snapshot_time": "October 14, 2026 at 09:36 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -2468,7 +2317,7 @@
           "old_ml": "-115",
           "new_ml": "-115"
         },
-        "snapshot_time": "October 14, 2026 at 04:13 AM UTC"
+        "snapshot_time": "October 14, 2026 at 09:36 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -2594,7 +2443,7 @@
           "old_ml": "-575",
           "new_ml": "-575"
         },
-        "snapshot_time": "October 14, 2026 at 04:13 AM UTC"
+        "snapshot_time": "October 14, 2026 at 09:36 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -2686,7 +2535,7 @@
       "away_ml_raw": -310,
       "home_prob": 27.4,
       "away_prob": 72.6,
-      "spread": "BKN +8.5",
+      "spread": "BKN +7.5",
       "favorite": "Detroit Pistons",
       "pick": "Detroit Pistons",
       "pick_abbr": "DET",
@@ -2720,7 +2569,7 @@
           "old_ml": "-310",
           "new_ml": "-310"
         },
-        "snapshot_time": "October 14, 2026 at 04:13 AM UTC"
+        "snapshot_time": "October 14, 2026 at 09:36 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -2806,47 +2655,47 @@
       "away_team": "New York Knicks",
       "home_abbr": "PHI",
       "away_abbr": "NYK",
-      "home_ml": "-125",
-      "away_ml": "+105",
-      "home_ml_raw": -125,
-      "away_ml_raw": 105,
-      "home_prob": 53.2,
-      "away_prob": 46.8,
+      "home_ml": "-122",
+      "away_ml": "+102",
+      "home_ml_raw": -122,
+      "away_ml_raw": 102,
+      "home_prob": 52.6,
+      "away_prob": 47.4,
       "spread": "PHI -1.5",
       "favorite": "Philadelphia 76ers",
       "pick": "Philadelphia 76ers",
       "pick_abbr": "PHI",
-      "moneyline": "-125",
-      "win_probability": 53.2,
+      "moneyline": "-122",
+      "win_probability": 52.6,
       "confidence": "LOW",
       "confidence_stars": "\u2605\u2606\u2606",
       "commence_time": "2026-10-30T23:40:00Z",
       "line_movement": {
         "home": {
-          "direction": "none",
-          "points_moved": 0,
+          "direction": "longer",
+          "points_moved": 3,
           "steam": false,
-          "label": "No movement",
+          "label": "\ud83d\udd34 -122 \u2190 -125",
           "old_ml": "-125",
-          "new_ml": "-125"
+          "new_ml": "-122"
         },
         "away": {
-          "direction": "none",
-          "points_moved": 0,
+          "direction": "shorter",
+          "points_moved": 3,
           "steam": false,
-          "label": "No movement",
+          "label": "\ud83d\udfe2 +102 \u2190 +105",
           "old_ml": "+105",
-          "new_ml": "+105"
+          "new_ml": "+102"
         },
         "pick": {
-          "direction": "none",
-          "points_moved": 0,
+          "direction": "longer",
+          "points_moved": 3,
           "steam": false,
-          "label": "No movement",
+          "label": "\ud83d\udd34 -122 \u2190 -125",
           "old_ml": "-125",
-          "new_ml": "-125"
+          "new_ml": "-122"
         },
-        "snapshot_time": "October 14, 2026 at 04:13 AM UTC"
+        "snapshot_time": "October 14, 2026 at 09:36 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -2912,7 +2761,7 @@
       "briefing": {
         "trend": "NYK on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "steam": "Line moved -125\u2192-122 (3pts). Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -2972,7 +2821,7 @@
           "old_ml": "-148",
           "new_ml": "-148"
         },
-        "snapshot_time": "October 14, 2026 at 04:13 AM UTC"
+        "snapshot_time": "October 14, 2026 at 09:36 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -3098,7 +2947,7 @@
           "old_ml": "-166",
           "new_ml": "-166"
         },
-        "snapshot_time": "October 14, 2026 at 04:13 AM UTC"
+        "snapshot_time": "October 14, 2026 at 09:36 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -3224,7 +3073,7 @@
           "old_ml": "-148",
           "new_ml": "-148"
         },
-        "snapshot_time": "October 14, 2026 at 04:13 AM UTC"
+        "snapshot_time": "October 14, 2026 at 09:36 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -3310,47 +3159,47 @@
       "away_team": "Los Angeles Clippers",
       "home_abbr": "MIN",
       "away_abbr": "LAC",
-      "home_ml": "-310",
-      "away_ml": "+250",
-      "home_ml_raw": -310,
-      "away_ml_raw": 250,
-      "home_prob": 72.6,
-      "away_prob": 27.4,
+      "home_ml": "-325",
+      "away_ml": "+260",
+      "home_ml_raw": -325,
+      "away_ml_raw": 260,
+      "home_prob": 73.4,
+      "away_prob": 26.6,
       "spread": "MIN -9.5",
       "favorite": "Minnesota Timberwolves",
       "pick": "Minnesota Timberwolves",
       "pick_abbr": "MIN",
-      "moneyline": "-310",
-      "win_probability": 72.6,
+      "moneyline": "-325",
+      "win_probability": 73.4,
       "confidence": "HIGH",
       "confidence_stars": "\u2605\u2605\u2605",
       "commence_time": "2026-10-31T00:10:00Z",
       "line_movement": {
         "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "shorter",
+          "points_moved": 15,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -325 \u2190 -310",
           "old_ml": "-310",
-          "new_ml": "-310"
+          "new_ml": "-325"
         },
         "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "longer",
+          "points_moved": 10,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM +260 \u2190 +250",
           "old_ml": "+250",
-          "new_ml": "+250"
+          "new_ml": "+260"
         },
         "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "shorter",
+          "points_moved": 15,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -325 \u2190 -310",
           "old_ml": "-310",
-          "new_ml": "-310"
+          "new_ml": "-325"
         },
-        "snapshot_time": "October 14, 2026 at 04:13 AM UTC"
+        "snapshot_time": "October 14, 2026 at 09:36 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -3377,6 +3226,7 @@
         }
       },
       "edge_factors": [
+        "\ud83d\udd25 Sharp steam detected",
         "\u2708\ufe0f LAC traveled 2,173 mi"
       ],
       "injury_notes": "No key injuries.",
@@ -3414,9 +3264,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "Minnesota Timberwolves hold a 72.6% edge.",
+        "trend": "Minnesota Timberwolves hold a 73.4% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "steam": "Line steamed from -310 to -325 (15pt move) \u2014 heavy professional action on Minnesota Timberwolves.",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -3476,7 +3326,7 @@
           "old_ml": "-130",
           "new_ml": "-130"
         },
-        "snapshot_time": "October 14, 2026 at 04:13 AM UTC"
+        "snapshot_time": "October 14, 2026 at 09:36 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -3602,7 +3452,7 @@
           "old_ml": "-110",
           "new_ml": "-110"
         },
-        "snapshot_time": "October 14, 2026 at 04:13 AM UTC"
+        "snapshot_time": "October 14, 2026 at 09:36 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -3688,47 +3538,47 @@
       "away_team": "Philadelphia 76ers",
       "home_abbr": "CLE",
       "away_abbr": "PHI",
-      "home_ml": "-120",
-      "away_ml": "+100",
-      "home_ml_raw": -120,
-      "away_ml_raw": 100,
-      "home_prob": 52.2,
-      "away_prob": 47.8,
+      "home_ml": "-118",
+      "away_ml": "-102",
+      "home_ml_raw": -118,
+      "away_ml_raw": -102,
+      "home_prob": 51.7,
+      "away_prob": 48.3,
       "spread": "CLE -1.5",
       "favorite": "Cleveland Cavaliers",
       "pick": "Cleveland Cavaliers",
       "pick_abbr": "CLE",
-      "moneyline": "-120",
-      "win_probability": 52.2,
+      "moneyline": "-118",
+      "win_probability": 51.7,
       "confidence": "LOW",
       "confidence_stars": "\u2605\u2606\u2606",
       "commence_time": "2026-11-07T00:40:00Z",
       "line_movement": {
         "home": {
-          "direction": "none",
-          "points_moved": 0,
+          "direction": "longer",
+          "points_moved": 2,
           "steam": false,
-          "label": "No movement",
+          "label": "\ud83d\udd34 -118 \u2190 -120",
           "old_ml": "-120",
-          "new_ml": "-120"
+          "new_ml": "-118"
         },
         "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "shorter",
+          "points_moved": 202,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -102 \u2190 +100",
           "old_ml": "+100",
-          "new_ml": "+100"
+          "new_ml": "-102"
         },
         "pick": {
-          "direction": "none",
-          "points_moved": 0,
+          "direction": "longer",
+          "points_moved": 2,
           "steam": false,
-          "label": "No movement",
+          "label": "\ud83d\udd34 -118 \u2190 -120",
           "old_ml": "-120",
-          "new_ml": "-120"
+          "new_ml": "-118"
         },
-        "snapshot_time": "October 14, 2026 at 04:13 AM UTC"
+        "snapshot_time": "October 14, 2026 at 09:36 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -3755,7 +3605,7 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udcca 4.4pt probability edge"
+        "\ud83d\udd25 Sharp steam detected"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -3794,7 +3644,7 @@
       "briefing": {
         "trend": "CLE on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "steam": "Line moved -120\u2192-118 (2pts). Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -3820,7 +3670,7 @@
       "away_ml_raw": 130,
       "home_prob": 58.3,
       "away_prob": 41.7,
-      "spread": "LAL -3.5",
+      "spread": "LAL -4.5",
       "favorite": "Los Angeles Lakers",
       "pick": "Los Angeles Lakers",
       "pick_abbr": "LAL",
@@ -3854,7 +3704,7 @@
           "old_ml": "-155",
           "new_ml": "-155"
         },
-        "snapshot_time": "October 14, 2026 at 04:13 AM UTC"
+        "snapshot_time": "October 14, 2026 at 09:36 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -3980,7 +3830,7 @@
           "old_ml": "-125",
           "new_ml": "-125"
         },
-        "snapshot_time": "October 14, 2026 at 04:13 AM UTC"
+        "snapshot_time": "October 14, 2026 at 09:36 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -4106,7 +3956,7 @@
           "old_ml": "-520",
           "new_ml": "-520"
         },
-        "snapshot_time": "October 14, 2026 at 04:13 AM UTC"
+        "snapshot_time": "October 14, 2026 at 09:36 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -4232,7 +4082,7 @@
           "old_ml": "-112",
           "new_ml": "-112"
         },
-        "snapshot_time": "October 14, 2026 at 04:13 AM UTC"
+        "snapshot_time": "October 14, 2026 at 09:36 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -4358,7 +4208,7 @@
           "old_ml": "-148",
           "new_ml": "-148"
         },
-        "snapshot_time": "October 14, 2026 at 04:13 AM UTC"
+        "snapshot_time": "October 14, 2026 at 09:36 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -4484,7 +4334,7 @@
           "old_ml": "-185",
           "new_ml": "-185"
         },
-        "snapshot_time": "October 14, 2026 at 04:13 AM UTC"
+        "snapshot_time": "October 14, 2026 at 09:36 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -4610,7 +4460,7 @@
           "old_ml": "-345",
           "new_ml": "-345"
         },
-        "snapshot_time": "October 14, 2026 at 04:13 AM UTC"
+        "snapshot_time": "October 14, 2026 at 09:36 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -4736,7 +4586,7 @@
           "old_ml": "-155",
           "new_ml": "-155"
         },
-        "snapshot_time": "October 14, 2026 at 04:13 AM UTC"
+        "snapshot_time": "October 14, 2026 at 09:36 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -4862,7 +4712,7 @@
           "old_ml": "-375",
           "new_ml": "-375"
         },
-        "snapshot_time": "October 14, 2026 at 04:13 AM UTC"
+        "snapshot_time": "October 14, 2026 at 09:36 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -4988,7 +4838,7 @@
           "old_ml": "-162",
           "new_ml": "-162"
         },
-        "snapshot_time": "October 14, 2026 at 04:13 AM UTC"
+        "snapshot_time": "October 14, 2026 at 09:36 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -5114,7 +4964,7 @@
           "old_ml": "-185",
           "new_ml": "-185"
         },
-        "snapshot_time": "October 14, 2026 at 04:13 AM UTC"
+        "snapshot_time": "October 14, 2026 at 09:36 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -5240,7 +5090,7 @@
           "old_ml": "-250",
           "new_ml": "-250"
         },
-        "snapshot_time": "October 14, 2026 at 04:13 AM UTC"
+        "snapshot_time": "October 14, 2026 at 09:36 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -5366,7 +5216,7 @@
           "old_ml": "-115",
           "new_ml": "-115"
         },
-        "snapshot_time": "October 14, 2026 at 04:13 AM UTC"
+        "snapshot_time": "October 14, 2026 at 09:36 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -5492,7 +5342,7 @@
           "old_ml": "-185",
           "new_ml": "-185"
         },
-        "snapshot_time": "October 14, 2026 at 04:13 AM UTC"
+        "snapshot_time": "October 14, 2026 at 09:36 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -5618,7 +5468,7 @@
           "old_ml": "-115",
           "new_ml": "-115"
         },
-        "snapshot_time": "October 14, 2026 at 04:13 AM UTC"
+        "snapshot_time": "October 14, 2026 at 09:36 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -5744,7 +5594,7 @@
           "old_ml": "-155",
           "new_ml": "-155"
         },
-        "snapshot_time": "October 14, 2026 at 04:13 AM UTC"
+        "snapshot_time": "October 14, 2026 at 09:36 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -5870,7 +5720,7 @@
           "old_ml": "-130",
           "new_ml": "-130"
         },
-        "snapshot_time": "October 14, 2026 at 04:13 AM UTC"
+        "snapshot_time": "October 14, 2026 at 09:36 AM UTC"
       },
       "fatigue": {
         "home": {
