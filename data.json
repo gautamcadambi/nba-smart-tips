@@ -1,5 +1,5 @@
 {
-  "last_updated": "October 13, 2026 at 05:57 PM UTC",
+  "last_updated": "October 14, 2026 at 12:55 AM UTC",
   "total_games": 46,
   "games": [
     {
@@ -48,26 +48,26 @@
           "old_ml": "-125",
           "new_ml": "-125"
         },
-        "snapshot_time": "October 13, 2026 at 06:11 AM UTC"
+        "snapshot_time": "October 13, 2026 at 05:57 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "RESTED",
-          "label": "2 days rest \u2705",
-          "battery": 88,
+          "status": "FRESH",
+          "label": "Well rested \u2705",
+          "battery": 100,
           "last_game": "Oct 10",
-          "days_rest": 3,
+          "days_rest": 4,
           "games_last_4d": 1,
           "travel_miles": 396,
           "travel_desc": "396 mi road trip",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "RESTED",
-          "label": "2 days rest \u2705",
-          "battery": 88,
+          "status": "FRESH",
+          "label": "Well rested \u2705",
+          "battery": 100,
           "last_game": "Oct 10",
-          "days_rest": 3,
+          "days_rest": 4,
           "games_last_4d": 1,
           "travel_miles": 0,
           "travel_desc": "",
@@ -126,7 +126,26 @@
         "away_score": 0,
         "spread_alert": null
       },
-      "news": []
+      "news": [
+        {
+          "title": "Nuggets Make Roster Space, Waive Veteran Guard",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/denver-nuggets/waive-lonnie-walker-preseason-roster/",
+          "published": "2026-10-13T00:54:42Z"
+        },
+        {
+          "title": "Kawhi Leonard\u2019s Toronto debut gets final confirmation date",
+          "source": "ClutchPoints",
+          "link": "https://clutchpoints.com/nba/toronto-raptors/raptors-news-kawhi-leonard-toronto-debut-gets-final-confirmation-date",
+          "published": "2026-10-13T00:54:18Z"
+        },
+        {
+          "title": "LeBron James Should Stuff the Stat Sheet with 76ers",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/philadelphia-76ers/lebron-james-should-stuff-the-stat-sheet-with-76ers/",
+          "published": "2026-10-13T00:48:35Z"
+        }
+      ]
     },
     {
       "game": "Philadelphia 76ers @ New York Knicks",
@@ -174,26 +193,26 @@
           "old_ml": "-185",
           "new_ml": "-185"
         },
-        "snapshot_time": "October 13, 2026 at 06:11 AM UTC"
+        "snapshot_time": "October 13, 2026 at 05:57 PM UTC"
       },
       "fatigue": {
         "home": {
           "status": "B2B",
           "label": "Back-to-Back \u26a0\ufe0f",
           "battery": 20,
-          "last_game": "Oct 12",
+          "last_game": "Oct 13",
           "days_rest": 1,
-          "games_last_4d": 1,
-          "travel_miles": 0,
-          "travel_desc": "",
+          "games_last_4d": 2,
+          "travel_miles": 340,
+          "travel_desc": "340 mi road trip",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "RESTED",
-          "label": "2 days rest \u2705",
-          "battery": 88,
+          "status": "FRESH",
+          "label": "Well rested \u2705",
+          "battery": 100,
           "last_game": "Oct 10",
-          "days_rest": 3,
+          "days_rest": 4,
           "games_last_4d": 1,
           "travel_miles": 273,
           "travel_desc": "273 mi road trip",
@@ -252,7 +271,26 @@
         "away_score": 0,
         "spread_alert": null
       },
-      "news": []
+      "news": [
+        {
+          "title": "Nuggets Make Roster Space, Waive Veteran Guard",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/denver-nuggets/waive-lonnie-walker-preseason-roster/",
+          "published": "2026-10-13T00:54:42Z"
+        },
+        {
+          "title": "Kawhi Leonard\u2019s Toronto debut gets final confirmation date",
+          "source": "ClutchPoints",
+          "link": "https://clutchpoints.com/nba/toronto-raptors/raptors-news-kawhi-leonard-toronto-debut-gets-final-confirmation-date",
+          "published": "2026-10-13T00:54:18Z"
+        },
+        {
+          "title": "LeBron James Should Stuff the Stat Sheet with 76ers",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/philadelphia-76ers/lebron-james-should-stuff-the-stat-sheet-with-76ers/",
+          "published": "2026-10-13T00:48:35Z"
+        }
+      ]
     },
     {
       "game": "Oklahoma City Thunder @ San Antonio Spurs",
@@ -300,15 +338,15 @@
           "old_ml": "-125",
           "new_ml": "-125"
         },
-        "snapshot_time": "October 13, 2026 at 06:11 AM UTC"
+        "snapshot_time": "October 13, 2026 at 05:57 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
           "last_game": "Oct 12",
-          "days_rest": 1,
+          "days_rest": 2,
           "games_last_4d": 2,
           "travel_miles": 849,
           "travel_desc": "849 mi road trip",
@@ -318,9 +356,9 @@
           "status": "B2B",
           "label": "Back-to-Back \u26a0\ufe0f",
           "battery": 20,
-          "last_game": "Oct 12",
+          "last_game": "Oct 13",
           "days_rest": 1,
-          "games_last_4d": 1,
+          "games_last_4d": 2,
           "travel_miles": 755,
           "travel_desc": "755 mi road trip",
           "source": "ESPN Scoreboard API"
@@ -364,7 +402,7 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "SAS on Back-to-Back \u26a0\ufe0f per ESPN schedule data. OKC on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "trend": "OKC on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
         "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
@@ -378,7 +416,26 @@
         "away_score": 0,
         "spread_alert": null
       },
-      "news": []
+      "news": [
+        {
+          "title": "Nuggets Make Roster Space, Waive Veteran Guard",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/denver-nuggets/waive-lonnie-walker-preseason-roster/",
+          "published": "2026-10-13T00:54:42Z"
+        },
+        {
+          "title": "Kawhi Leonard\u2019s Toronto debut gets final confirmation date",
+          "source": "ClutchPoints",
+          "link": "https://clutchpoints.com/nba/toronto-raptors/raptors-news-kawhi-leonard-toronto-debut-gets-final-confirmation-date",
+          "published": "2026-10-13T00:54:18Z"
+        },
+        {
+          "title": "LeBron James Should Stuff the Stat Sheet with 76ers",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/philadelphia-76ers/lebron-james-should-stuff-the-stat-sheet-with-76ers/",
+          "published": "2026-10-13T00:48:35Z"
+        }
+      ]
     },
     {
       "game": "Milwaukee Bucks @ Washington Wizards",
@@ -426,26 +483,26 @@
           "old_ml": "-198",
           "new_ml": "-198"
         },
-        "snapshot_time": "October 13, 2026 at 06:11 AM UTC"
+        "snapshot_time": "October 13, 2026 at 05:57 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
           "last_game": "Oct 12",
-          "days_rest": 1,
+          "days_rest": 2,
           "games_last_4d": 2,
           "travel_miles": 0,
           "travel_desc": "",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
+          "status": "RESTED",
+          "label": "2 days rest \u2705",
+          "battery": 88,
           "last_game": "Oct 11",
-          "days_rest": 2,
+          "days_rest": 3,
           "games_last_4d": 1,
           "travel_miles": 660,
           "travel_desc": "660 mi road trip",
@@ -490,7 +547,7 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "WAS on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "trend": "Washington Wizards hold a 63.7% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
         "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
@@ -504,7 +561,26 @@
         "away_score": 0,
         "spread_alert": null
       },
-      "news": []
+      "news": [
+        {
+          "title": "Nuggets Make Roster Space, Waive Veteran Guard",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/denver-nuggets/waive-lonnie-walker-preseason-roster/",
+          "published": "2026-10-13T00:54:42Z"
+        },
+        {
+          "title": "Kawhi Leonard\u2019s Toronto debut gets final confirmation date",
+          "source": "ClutchPoints",
+          "link": "https://clutchpoints.com/nba/toronto-raptors/raptors-news-kawhi-leonard-toronto-debut-gets-final-confirmation-date",
+          "published": "2026-10-13T00:54:18Z"
+        },
+        {
+          "title": "LeBron James Should Stuff the Stat Sheet with 76ers",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/philadelphia-76ers/lebron-james-should-stuff-the-stat-sheet-with-76ers/",
+          "published": "2026-10-13T00:48:35Z"
+        }
+      ]
     },
     {
       "game": "Atlanta Hawks @ Orlando Magic",
@@ -512,66 +588,66 @@
       "away_team": "Atlanta Hawks",
       "home_abbr": "ORL",
       "away_abbr": "ATL",
-      "home_ml": "-135",
-      "away_ml": "+114",
-      "home_ml_raw": -135,
-      "away_ml_raw": 114,
-      "home_prob": 55.1,
-      "away_prob": 44.9,
+      "home_ml": "-130",
+      "away_ml": "+110",
+      "home_ml_raw": -130,
+      "away_ml_raw": 110,
+      "home_prob": 54.3,
+      "away_prob": 45.7,
       "spread": "ORL -2.5",
       "favorite": "Orlando Magic",
       "pick": "Orlando Magic",
       "pick_abbr": "ORL",
-      "moneyline": "-135",
-      "win_probability": 55.1,
+      "moneyline": "-130",
+      "win_probability": 54.3,
       "confidence": "LOW",
       "confidence_stars": "\u2605\u2606\u2606",
       "commence_time": "2026-10-21T23:10:00Z",
       "line_movement": {
         "home": {
-          "direction": "none",
-          "points_moved": 0,
+          "direction": "longer",
+          "points_moved": 5,
           "steam": false,
-          "label": "No movement",
+          "label": "\ud83d\udd34 -130 \u2190 -135",
           "old_ml": "-135",
-          "new_ml": "-135"
+          "new_ml": "-130"
         },
         "away": {
-          "direction": "none",
-          "points_moved": 0,
+          "direction": "shorter",
+          "points_moved": 4,
           "steam": false,
-          "label": "No movement",
+          "label": "\ud83d\udfe2 +110 \u2190 +114",
           "old_ml": "+114",
-          "new_ml": "+114"
+          "new_ml": "+110"
         },
         "pick": {
-          "direction": "none",
-          "points_moved": 0,
+          "direction": "longer",
+          "points_moved": 5,
           "steam": false,
-          "label": "No movement",
+          "label": "\ud83d\udd34 -130 \u2190 -135",
           "old_ml": "-135",
-          "new_ml": "-135"
+          "new_ml": "-130"
         },
-        "snapshot_time": "October 13, 2026 at 06:11 AM UTC"
+        "snapshot_time": "October 13, 2026 at 05:57 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "Oct 11",
-          "days_rest": 2,
-          "games_last_4d": 1,
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Oct 13",
+          "days_rest": 1,
+          "games_last_4d": 2,
           "travel_miles": 895,
           "travel_desc": "895 mi road trip",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
           "last_game": "Oct 12",
-          "days_rest": 1,
+          "days_rest": 2,
           "games_last_4d": 2,
           "travel_miles": 426,
           "travel_desc": "426 mi road trip",
@@ -579,7 +655,7 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udca4 ATL fatigued (B2B) \u2014 source: ESPN"
+        "\ud83d\udcca 8.6pt probability edge"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -616,9 +692,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "ATL on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "trend": "ORL on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "steam": "Line moved -135\u2192-130 (5pts). Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -630,7 +706,26 @@
         "away_score": 0,
         "spread_alert": null
       },
-      "news": []
+      "news": [
+        {
+          "title": "Nuggets Make Roster Space, Waive Veteran Guard",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/denver-nuggets/waive-lonnie-walker-preseason-roster/",
+          "published": "2026-10-13T00:54:42Z"
+        },
+        {
+          "title": "Kawhi Leonard\u2019s Toronto debut gets final confirmation date",
+          "source": "ClutchPoints",
+          "link": "https://clutchpoints.com/nba/toronto-raptors/raptors-news-kawhi-leonard-toronto-debut-gets-final-confirmation-date",
+          "published": "2026-10-13T00:54:18Z"
+        },
+        {
+          "title": "LeBron James Should Stuff the Stat Sheet with 76ers",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/philadelphia-76ers/lebron-james-should-stuff-the-stat-sheet-with-76ers/",
+          "published": "2026-10-13T00:48:35Z"
+        }
+      ]
     },
     {
       "game": "Charlotte Hornets @ Brooklyn Nets",
@@ -678,26 +773,26 @@
           "old_ml": "-130",
           "new_ml": "-130"
         },
-        "snapshot_time": "October 13, 2026 at 06:11 AM UTC"
+        "snapshot_time": "October 13, 2026 at 05:57 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
           "last_game": "Oct 12",
-          "days_rest": 1,
+          "days_rest": 2,
           "games_last_4d": 1,
           "travel_miles": 203,
           "travel_desc": "203 mi road trip",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
+          "status": "RESTED",
+          "label": "2 days rest \u2705",
+          "battery": 88,
           "last_game": "Oct 11",
-          "days_rest": 2,
+          "days_rest": 3,
           "games_last_4d": 1,
           "travel_miles": 0,
           "travel_desc": "",
@@ -705,7 +800,7 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udca4 BKN fatigued (B2B) \u2014 source: ESPN"
+        "\ud83d\udcca 8.6pt probability edge"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -742,7 +837,7 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "BKN on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "trend": "Charlotte Hornets hold a 54.3% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
         "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
@@ -756,7 +851,26 @@
         "away_score": 0,
         "spread_alert": null
       },
-      "news": []
+      "news": [
+        {
+          "title": "Nuggets Make Roster Space, Waive Veteran Guard",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/denver-nuggets/waive-lonnie-walker-preseason-roster/",
+          "published": "2026-10-13T00:54:42Z"
+        },
+        {
+          "title": "Kawhi Leonard\u2019s Toronto debut gets final confirmation date",
+          "source": "ClutchPoints",
+          "link": "https://clutchpoints.com/nba/toronto-raptors/raptors-news-kawhi-leonard-toronto-debut-gets-final-confirmation-date",
+          "published": "2026-10-13T00:54:18Z"
+        },
+        {
+          "title": "LeBron James Should Stuff the Stat Sheet with 76ers",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/philadelphia-76ers/lebron-james-should-stuff-the-stat-sheet-with-76ers/",
+          "published": "2026-10-13T00:48:35Z"
+        }
+      ]
     },
     {
       "game": "Chicago Bulls @ Toronto Raptors",
@@ -804,27 +918,27 @@
           "old_ml": "-345",
           "new_ml": "-345"
         },
-        "snapshot_time": "October 13, 2026 at 06:11 AM UTC"
+        "snapshot_time": "October 13, 2026 at 05:57 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "RESTED",
-          "label": "2 days rest \u2705",
-          "battery": 88,
-          "last_game": "Oct 10",
-          "days_rest": 3,
-          "games_last_4d": 1,
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Oct 13",
+          "days_rest": 1,
+          "games_last_4d": 2,
           "travel_miles": 0,
           "travel_desc": "",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
+          "status": "RESTED",
+          "label": "2 days rest \u2705",
+          "battery": 88,
           "last_game": "Oct 11",
-          "days_rest": 2,
-          "games_last_4d": 2,
+          "days_rest": 3,
+          "games_last_4d": 1,
           "travel_miles": 917,
           "travel_desc": "917 mi road trip",
           "source": "ESPN Scoreboard API"
@@ -868,7 +982,7 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "Toronto Raptors hold a 74.4% edge.",
+        "trend": "TOR on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
         "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
@@ -882,7 +996,26 @@
         "away_score": 0,
         "spread_alert": null
       },
-      "news": []
+      "news": [
+        {
+          "title": "Nuggets Make Roster Space, Waive Veteran Guard",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/denver-nuggets/waive-lonnie-walker-preseason-roster/",
+          "published": "2026-10-13T00:54:42Z"
+        },
+        {
+          "title": "Kawhi Leonard\u2019s Toronto debut gets final confirmation date",
+          "source": "ClutchPoints",
+          "link": "https://clutchpoints.com/nba/toronto-raptors/raptors-news-kawhi-leonard-toronto-debut-gets-final-confirmation-date",
+          "published": "2026-10-13T00:54:18Z"
+        },
+        {
+          "title": "LeBron James Should Stuff the Stat Sheet with 76ers",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/philadelphia-76ers/lebron-james-should-stuff-the-stat-sheet-with-76ers/",
+          "published": "2026-10-13T00:48:35Z"
+        }
+      ]
     },
     {
       "game": "Minnesota Timberwolves @ Miami Heat",
@@ -930,26 +1063,26 @@
           "old_ml": "-125",
           "new_ml": "-125"
         },
-        "snapshot_time": "October 13, 2026 at 06:11 AM UTC"
+        "snapshot_time": "October 13, 2026 at 05:57 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "RESTED",
-          "label": "2 days rest \u2705",
-          "battery": 88,
+          "status": "FRESH",
+          "label": "Well rested \u2705",
+          "battery": 100,
           "last_game": "Oct 10",
-          "days_rest": 3,
+          "days_rest": 4,
           "games_last_4d": 1,
           "travel_miles": 0,
           "travel_desc": "",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
           "last_game": "Oct 12",
-          "days_rest": 1,
+          "days_rest": 2,
           "games_last_4d": 2,
           "travel_miles": 1016,
           "travel_desc": "1,016 mi road trip",
@@ -957,7 +1090,7 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udca4 MIN fatigued (B2B) \u2014 source: ESPN"
+        "\ud83d\udcca 6.4pt probability edge"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -994,7 +1127,7 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "MIN on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "trend": "Miami Heat hold a 53.2% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
         "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
@@ -1008,7 +1141,26 @@
         "away_score": 0,
         "spread_alert": null
       },
-      "news": []
+      "news": [
+        {
+          "title": "Nuggets Make Roster Space, Waive Veteran Guard",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/denver-nuggets/waive-lonnie-walker-preseason-roster/",
+          "published": "2026-10-13T00:54:42Z"
+        },
+        {
+          "title": "Kawhi Leonard\u2019s Toronto debut gets final confirmation date",
+          "source": "ClutchPoints",
+          "link": "https://clutchpoints.com/nba/toronto-raptors/raptors-news-kawhi-leonard-toronto-debut-gets-final-confirmation-date",
+          "published": "2026-10-13T00:54:18Z"
+        },
+        {
+          "title": "LeBron James Should Stuff the Stat Sheet with 76ers",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/philadelphia-76ers/lebron-james-should-stuff-the-stat-sheet-with-76ers/",
+          "published": "2026-10-13T00:48:35Z"
+        }
+      ]
     },
     {
       "game": "Indiana Pacers @ New Orleans Pelicans",
@@ -1056,7 +1208,7 @@
           "old_ml": "-155",
           "new_ml": "-155"
         },
-        "snapshot_time": "October 13, 2026 at 06:11 AM UTC"
+        "snapshot_time": "October 13, 2026 at 05:57 PM UTC"
       },
       "fatigue": {
         "home": {
@@ -1071,14 +1223,14 @@
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "RESTED",
-          "label": "2 days rest \u2705",
-          "battery": 88,
-          "last_game": "Oct 10",
-          "days_rest": 3,
-          "games_last_4d": 1,
-          "travel_miles": 0,
-          "travel_desc": "",
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Oct 13",
+          "days_rest": 1,
+          "games_last_4d": 2,
+          "travel_miles": 688,
+          "travel_desc": "688 mi road trip",
           "source": "ESPN Scoreboard API"
         }
       },
@@ -1120,7 +1272,7 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "Indiana Pacers hold a 58.3% edge.",
+        "trend": "IND on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
         "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
@@ -1134,7 +1286,26 @@
         "away_score": 0,
         "spread_alert": null
       },
-      "news": []
+      "news": [
+        {
+          "title": "Nuggets Make Roster Space, Waive Veteran Guard",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/denver-nuggets/waive-lonnie-walker-preseason-roster/",
+          "published": "2026-10-13T00:54:42Z"
+        },
+        {
+          "title": "Kawhi Leonard\u2019s Toronto debut gets final confirmation date",
+          "source": "ClutchPoints",
+          "link": "https://clutchpoints.com/nba/toronto-raptors/raptors-news-kawhi-leonard-toronto-debut-gets-final-confirmation-date",
+          "published": "2026-10-13T00:54:18Z"
+        },
+        {
+          "title": "LeBron James Should Stuff the Stat Sheet with 76ers",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/philadelphia-76ers/lebron-james-should-stuff-the-stat-sheet-with-76ers/",
+          "published": "2026-10-13T00:48:35Z"
+        }
+      ]
     },
     {
       "game": "Utah Jazz @ Memphis Grizzlies",
@@ -1182,18 +1353,18 @@
           "old_ml": "-130",
           "new_ml": "-130"
         },
-        "snapshot_time": "October 13, 2026 at 06:11 AM UTC"
+        "snapshot_time": "October 13, 2026 at 05:57 PM UTC"
       },
       "fatigue": {
         "home": {
           "status": "FRESH",
           "label": "Well rested \u2705",
           "battery": 100,
-          "last_game": "Oct 09",
-          "days_rest": 4,
-          "games_last_4d": 1,
-          "travel_miles": 483,
-          "travel_desc": "483 mi road trip",
+          "last_game": "\u2014",
+          "days_rest": 99,
+          "games_last_4d": 0,
+          "travel_miles": 0,
+          "travel_desc": "",
           "source": "ESPN Scoreboard API"
         },
         "away": {
@@ -1260,7 +1431,26 @@
         "away_score": 0,
         "spread_alert": null
       },
-      "news": []
+      "news": [
+        {
+          "title": "Nuggets Make Roster Space, Waive Veteran Guard",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/denver-nuggets/waive-lonnie-walker-preseason-roster/",
+          "published": "2026-10-13T00:54:42Z"
+        },
+        {
+          "title": "Kawhi Leonard\u2019s Toronto debut gets final confirmation date",
+          "source": "ClutchPoints",
+          "link": "https://clutchpoints.com/nba/toronto-raptors/raptors-news-kawhi-leonard-toronto-debut-gets-final-confirmation-date",
+          "published": "2026-10-13T00:54:18Z"
+        },
+        {
+          "title": "LeBron James Should Stuff the Stat Sheet with 76ers",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/philadelphia-76ers/lebron-james-should-stuff-the-stat-sheet-with-76ers/",
+          "published": "2026-10-13T00:48:35Z"
+        }
+      ]
     },
     {
       "game": "Dallas Mavericks @ Houston Rockets",
@@ -1274,7 +1464,7 @@
       "away_ml_raw": 250,
       "home_prob": 72.6,
       "away_prob": 27.4,
-      "spread": "HOU -7.5",
+      "spread": "HOU -8.5",
       "favorite": "Houston Rockets",
       "pick": "Houston Rockets",
       "pick_abbr": "HOU",
@@ -1308,27 +1498,27 @@
           "old_ml": "-310",
           "new_ml": "-310"
         },
-        "snapshot_time": "October 13, 2026 at 06:11 AM UTC"
+        "snapshot_time": "October 13, 2026 at 05:57 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
+          "status": "RESTED",
+          "label": "2 days rest \u2705",
+          "battery": 88,
           "last_game": "Oct 11",
-          "days_rest": 2,
-          "games_last_4d": 2,
-          "travel_miles": 227,
-          "travel_desc": "227 mi road trip",
+          "days_rest": 3,
+          "games_last_4d": 1,
+          "travel_miles": 0,
+          "travel_desc": "",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
+          "status": "RESTED",
+          "label": "2 days rest \u2705",
+          "battery": 88,
           "last_game": "Oct 11",
-          "days_rest": 2,
-          "games_last_4d": 2,
+          "days_rest": 3,
+          "games_last_4d": 1,
           "travel_miles": 227,
           "travel_desc": "227 mi road trip",
           "source": "ESPN Scoreboard API"
@@ -1386,7 +1576,26 @@
         "away_score": 0,
         "spread_alert": null
       },
-      "news": []
+      "news": [
+        {
+          "title": "Nuggets Make Roster Space, Waive Veteran Guard",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/denver-nuggets/waive-lonnie-walker-preseason-roster/",
+          "published": "2026-10-13T00:54:42Z"
+        },
+        {
+          "title": "Kawhi Leonard\u2019s Toronto debut gets final confirmation date",
+          "source": "ClutchPoints",
+          "link": "https://clutchpoints.com/nba/toronto-raptors/raptors-news-kawhi-leonard-toronto-debut-gets-final-confirmation-date",
+          "published": "2026-10-13T00:54:18Z"
+        },
+        {
+          "title": "LeBron James Should Stuff the Stat Sheet with 76ers",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/philadelphia-76ers/lebron-james-should-stuff-the-stat-sheet-with-76ers/",
+          "published": "2026-10-13T00:48:35Z"
+        }
+      ]
     },
     {
       "game": "Golden State Warriors @ Los Angeles Lakers",
@@ -1394,47 +1603,47 @@
       "away_team": "Golden State Warriors",
       "home_abbr": "LAL",
       "away_abbr": "GSW",
-      "home_ml": "-175",
-      "away_ml": "+145",
-      "home_ml_raw": -175,
-      "away_ml_raw": 145,
-      "home_prob": 60.9,
-      "away_prob": 39.1,
+      "home_ml": "-170",
+      "away_ml": "+142",
+      "home_ml_raw": -170,
+      "away_ml_raw": 142,
+      "home_prob": 60.4,
+      "away_prob": 39.6,
       "spread": "LAL -5.5",
       "favorite": "Los Angeles Lakers",
       "pick": "Los Angeles Lakers",
       "pick_abbr": "LAL",
-      "moneyline": "-175",
-      "win_probability": 60.9,
+      "moneyline": "-170",
+      "win_probability": 60.4,
       "confidence": "MEDIUM",
       "confidence_stars": "\u2605\u2605\u2606",
       "commence_time": "2026-10-22T02:00:00Z",
       "line_movement": {
         "home": {
-          "direction": "none",
-          "points_moved": 0,
+          "direction": "longer",
+          "points_moved": 5,
           "steam": false,
-          "label": "No movement",
+          "label": "\ud83d\udd34 -170 \u2190 -175",
           "old_ml": "-175",
-          "new_ml": "-175"
+          "new_ml": "-170"
         },
         "away": {
-          "direction": "none",
-          "points_moved": 0,
+          "direction": "shorter",
+          "points_moved": 3,
           "steam": false,
-          "label": "No movement",
+          "label": "\ud83d\udfe2 +142 \u2190 +145",
           "old_ml": "+145",
-          "new_ml": "+145"
+          "new_ml": "+142"
         },
         "pick": {
-          "direction": "none",
-          "points_moved": 0,
+          "direction": "longer",
+          "points_moved": 5,
           "steam": false,
-          "label": "No movement",
+          "label": "\ud83d\udd34 -170 \u2190 -175",
           "old_ml": "-175",
-          "new_ml": "-175"
+          "new_ml": "-170"
         },
-        "snapshot_time": "October 13, 2026 at 06:11 AM UTC"
+        "snapshot_time": "October 13, 2026 at 05:57 PM UTC"
       },
       "fatigue": {
         "home": {
@@ -1449,11 +1658,11 @@
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "RESTED",
-          "label": "2 days rest \u2705",
-          "battery": 88,
+          "status": "FRESH",
+          "label": "Well rested \u2705",
+          "battery": 100,
           "last_game": "Oct 10",
-          "days_rest": 3,
+          "days_rest": 4,
           "games_last_4d": 1,
           "travel_miles": 0,
           "travel_desc": "",
@@ -1461,7 +1670,7 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udcca 21.8pt probability edge"
+        "\ud83d\udcca 20.8pt probability edge"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -1498,9 +1707,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "Los Angeles Lakers hold a 60.9% edge.",
+        "trend": "Los Angeles Lakers hold a 60.4% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "steam": "Line moved -175\u2192-170 (5pts). Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -1512,7 +1721,26 @@
         "away_score": 0,
         "spread_alert": null
       },
-      "news": []
+      "news": [
+        {
+          "title": "Nuggets Make Roster Space, Waive Veteran Guard",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/denver-nuggets/waive-lonnie-walker-preseason-roster/",
+          "published": "2026-10-13T00:54:42Z"
+        },
+        {
+          "title": "Kawhi Leonard\u2019s Toronto debut gets final confirmation date",
+          "source": "ClutchPoints",
+          "link": "https://clutchpoints.com/nba/toronto-raptors/raptors-news-kawhi-leonard-toronto-debut-gets-final-confirmation-date",
+          "published": "2026-10-13T00:54:18Z"
+        },
+        {
+          "title": "LeBron James Should Stuff the Stat Sheet with 76ers",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/philadelphia-76ers/lebron-james-should-stuff-the-stat-sheet-with-76ers/",
+          "published": "2026-10-13T00:48:35Z"
+        }
+      ]
     },
     {
       "game": "Phoenix Suns @ Portland Trail Blazers",
@@ -1560,26 +1788,26 @@
           "old_ml": "-162",
           "new_ml": "-162"
         },
-        "snapshot_time": "October 13, 2026 at 06:11 AM UTC"
+        "snapshot_time": "October 13, 2026 at 05:57 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
           "last_game": "Oct 12",
-          "days_rest": 1,
+          "days_rest": 2,
           "games_last_4d": 1,
           "travel_miles": 0,
           "travel_desc": "",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "RESTED",
-          "label": "2 days rest \u2705",
-          "battery": 88,
+          "status": "FRESH",
+          "label": "Well rested \u2705",
+          "battery": 100,
           "last_game": "Oct 10",
-          "days_rest": 3,
+          "days_rest": 4,
           "games_last_4d": 1,
           "travel_miles": 0,
           "travel_desc": "",
@@ -1624,7 +1852,7 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "POR on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "trend": "Portland Trail Blazers hold a 59.3% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
         "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
@@ -1638,7 +1866,26 @@
         "away_score": 0,
         "spread_alert": null
       },
-      "news": []
+      "news": [
+        {
+          "title": "Nuggets Make Roster Space, Waive Veteran Guard",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/denver-nuggets/waive-lonnie-walker-preseason-roster/",
+          "published": "2026-10-13T00:54:42Z"
+        },
+        {
+          "title": "Kawhi Leonard\u2019s Toronto debut gets final confirmation date",
+          "source": "ClutchPoints",
+          "link": "https://clutchpoints.com/nba/toronto-raptors/raptors-news-kawhi-leonard-toronto-debut-gets-final-confirmation-date",
+          "published": "2026-10-13T00:54:18Z"
+        },
+        {
+          "title": "LeBron James Should Stuff the Stat Sheet with 76ers",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/philadelphia-76ers/lebron-james-should-stuff-the-stat-sheet-with-76ers/",
+          "published": "2026-10-13T00:48:35Z"
+        }
+      ]
     },
     {
       "game": "Sacramento Kings @ Los Angeles Clippers",
@@ -1686,26 +1933,26 @@
           "old_ml": "-155",
           "new_ml": "-155"
         },
-        "snapshot_time": "October 13, 2026 at 06:11 AM UTC"
+        "snapshot_time": "October 13, 2026 at 05:57 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "RESTED",
-          "label": "2 days rest \u2705",
-          "battery": 88,
+          "status": "FRESH",
+          "label": "Well rested \u2705",
+          "battery": 100,
           "last_game": "Oct 10",
-          "days_rest": 3,
+          "days_rest": 4,
           "games_last_4d": 1,
           "travel_miles": 2173,
           "travel_desc": "2,173 mi road trip",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "RESTED",
-          "label": "2 days rest \u2705",
-          "battery": 88,
+          "status": "FRESH",
+          "label": "Well rested \u2705",
+          "battery": 100,
           "last_game": "Oct 10",
-          "days_rest": 3,
+          "days_rest": 4,
           "games_last_4d": 1,
           "travel_miles": 74,
           "travel_desc": "74 mi road trip",
@@ -1764,7 +2011,26 @@
         "away_score": 0,
         "spread_alert": null
       },
-      "news": []
+      "news": [
+        {
+          "title": "Nuggets Make Roster Space, Waive Veteran Guard",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/denver-nuggets/waive-lonnie-walker-preseason-roster/",
+          "published": "2026-10-13T00:54:42Z"
+        },
+        {
+          "title": "Kawhi Leonard\u2019s Toronto debut gets final confirmation date",
+          "source": "ClutchPoints",
+          "link": "https://clutchpoints.com/nba/toronto-raptors/raptors-news-kawhi-leonard-toronto-debut-gets-final-confirmation-date",
+          "published": "2026-10-13T00:54:18Z"
+        },
+        {
+          "title": "LeBron James Should Stuff the Stat Sheet with 76ers",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/philadelphia-76ers/lebron-james-should-stuff-the-stat-sheet-with-76ers/",
+          "published": "2026-10-13T00:48:35Z"
+        }
+      ]
     },
     {
       "game": "Cleveland Cavaliers @ Philadelphia 76ers",
@@ -1778,7 +2044,7 @@
       "away_ml_raw": 130,
       "home_prob": 58.3,
       "away_prob": 41.7,
-      "spread": "PHI -4.5",
+      "spread": "PHI -3.5",
       "favorite": "Philadelphia 76ers",
       "pick": "Philadelphia 76ers",
       "pick_abbr": "PHI",
@@ -1812,34 +2078,34 @@
           "old_ml": "-155",
           "new_ml": "-155"
         },
-        "snapshot_time": "October 13, 2026 at 06:11 AM UTC"
+        "snapshot_time": "October 13, 2026 at 05:57 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "RESTED",
-          "label": "2 days rest \u2705",
-          "battery": 88,
+          "status": "FRESH",
+          "label": "Well rested \u2705",
+          "battery": 100,
           "last_game": "Oct 10",
-          "days_rest": 3,
+          "days_rest": 4,
           "games_last_4d": 1,
           "travel_miles": 273,
           "travel_desc": "273 mi road trip",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "Oct 11",
-          "days_rest": 2,
-          "games_last_4d": 1,
-          "travel_miles": 0,
-          "travel_desc": "",
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Oct 13",
+          "days_rest": 1,
+          "games_last_4d": 2,
+          "travel_miles": 895,
+          "travel_desc": "895 mi road trip",
           "source": "ESPN Scoreboard API"
         }
       },
       "edge_factors": [
-        "\ud83d\udcca 16.6pt probability edge"
+        "\ud83d\udca4 CLE fatigued (B2B) \u2014 source: ESPN"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -1876,7 +2142,7 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "Philadelphia 76ers hold a 58.3% edge.",
+        "trend": "CLE on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
         "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
@@ -1890,7 +2156,26 @@
         "away_score": 0,
         "spread_alert": null
       },
-      "news": []
+      "news": [
+        {
+          "title": "Nuggets Make Roster Space, Waive Veteran Guard",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/denver-nuggets/waive-lonnie-walker-preseason-roster/",
+          "published": "2026-10-13T00:54:42Z"
+        },
+        {
+          "title": "Kawhi Leonard\u2019s Toronto debut gets final confirmation date",
+          "source": "ClutchPoints",
+          "link": "https://clutchpoints.com/nba/toronto-raptors/raptors-news-kawhi-leonard-toronto-debut-gets-final-confirmation-date",
+          "published": "2026-10-13T00:54:18Z"
+        },
+        {
+          "title": "LeBron James Should Stuff the Stat Sheet with 76ers",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/philadelphia-76ers/lebron-james-should-stuff-the-stat-sheet-with-76ers/",
+          "published": "2026-10-13T00:48:35Z"
+        }
+      ]
     },
     {
       "game": "Denver Nuggets @ Oklahoma City Thunder",
@@ -1938,26 +2223,26 @@
           "old_ml": "-278",
           "new_ml": "-278"
         },
-        "snapshot_time": "October 13, 2026 at 06:11 AM UTC"
+        "snapshot_time": "October 13, 2026 at 05:57 PM UTC"
       },
       "fatigue": {
         "home": {
           "status": "B2B",
           "label": "Back-to-Back \u26a0\ufe0f",
           "battery": 20,
-          "last_game": "Oct 12",
+          "last_game": "Oct 13",
           "days_rest": 1,
-          "games_last_4d": 1,
+          "games_last_4d": 2,
           "travel_miles": 755,
           "travel_desc": "755 mi road trip",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
+          "status": "RESTED",
+          "label": "2 days rest \u2705",
+          "battery": 88,
           "last_game": "Oct 11",
-          "days_rest": 2,
+          "days_rest": 3,
           "games_last_4d": 1,
           "travel_miles": 0,
           "travel_desc": "",
@@ -2016,7 +2301,26 @@
         "away_score": 0,
         "spread_alert": null
       },
-      "news": []
+      "news": [
+        {
+          "title": "Nuggets Make Roster Space, Waive Veteran Guard",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/denver-nuggets/waive-lonnie-walker-preseason-roster/",
+          "published": "2026-10-13T00:54:42Z"
+        },
+        {
+          "title": "Kawhi Leonard\u2019s Toronto debut gets final confirmation date",
+          "source": "ClutchPoints",
+          "link": "https://clutchpoints.com/nba/toronto-raptors/raptors-news-kawhi-leonard-toronto-debut-gets-final-confirmation-date",
+          "published": "2026-10-13T00:54:18Z"
+        },
+        {
+          "title": "LeBron James Should Stuff the Stat Sheet with 76ers",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/philadelphia-76ers/lebron-james-should-stuff-the-stat-sheet-with-76ers/",
+          "published": "2026-10-13T00:48:35Z"
+        }
+      ]
     },
     {
       "game": "New York Knicks @ Boston Celtics",
@@ -2064,15 +2368,15 @@
           "old_ml": "-130",
           "new_ml": "-130"
         },
-        "snapshot_time": "October 13, 2026 at 06:11 AM UTC"
+        "snapshot_time": "October 13, 2026 at 05:57 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "RESTED",
-          "label": "2 days rest \u2705",
-          "battery": 88,
+          "status": "FRESH",
+          "label": "Well rested \u2705",
+          "battery": 100,
           "last_game": "Oct 10",
-          "days_rest": 3,
+          "days_rest": 4,
           "games_last_4d": 1,
           "travel_miles": 0,
           "travel_desc": "",
@@ -2082,11 +2386,11 @@
           "status": "B2B",
           "label": "Back-to-Back \u26a0\ufe0f",
           "battery": 20,
-          "last_game": "Oct 12",
+          "last_game": "Oct 13",
           "days_rest": 1,
-          "games_last_4d": 1,
-          "travel_miles": 0,
-          "travel_desc": "",
+          "games_last_4d": 2,
+          "travel_miles": 340,
+          "travel_desc": "340 mi road trip",
           "source": "ESPN Scoreboard API"
         }
       },
@@ -2142,7 +2446,26 @@
         "away_score": 0,
         "spread_alert": null
       },
-      "news": []
+      "news": [
+        {
+          "title": "Nuggets Make Roster Space, Waive Veteran Guard",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/denver-nuggets/waive-lonnie-walker-preseason-roster/",
+          "published": "2026-10-13T00:54:42Z"
+        },
+        {
+          "title": "Kawhi Leonard\u2019s Toronto debut gets final confirmation date",
+          "source": "ClutchPoints",
+          "link": "https://clutchpoints.com/nba/toronto-raptors/raptors-news-kawhi-leonard-toronto-debut-gets-final-confirmation-date",
+          "published": "2026-10-13T00:54:18Z"
+        },
+        {
+          "title": "LeBron James Should Stuff the Stat Sheet with 76ers",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/philadelphia-76ers/lebron-james-should-stuff-the-stat-sheet-with-76ers/",
+          "published": "2026-10-13T00:48:35Z"
+        }
+      ]
     },
     {
       "game": "Houston Rockets @ San Antonio Spurs",
@@ -2190,29 +2513,29 @@
           "old_ml": "-238",
           "new_ml": "-238"
         },
-        "snapshot_time": "October 13, 2026 at 06:11 AM UTC"
+        "snapshot_time": "October 13, 2026 at 05:57 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
           "last_game": "Oct 12",
-          "days_rest": 1,
+          "days_rest": 2,
           "games_last_4d": 2,
           "travel_miles": 849,
           "travel_desc": "849 mi road trip",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
+          "status": "RESTED",
+          "label": "2 days rest \u2705",
+          "battery": 88,
           "last_game": "Oct 11",
-          "days_rest": 2,
-          "games_last_4d": 2,
-          "travel_miles": 227,
-          "travel_desc": "227 mi road trip",
+          "days_rest": 3,
+          "games_last_4d": 1,
+          "travel_miles": 0,
+          "travel_desc": "",
           "source": "ESPN Scoreboard API"
         }
       },
@@ -2254,7 +2577,7 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "SAS on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "trend": "San Antonio Spurs hold a 67.5% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
         "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
@@ -2268,7 +2591,26 @@
         "away_score": 0,
         "spread_alert": null
       },
-      "news": []
+      "news": [
+        {
+          "title": "Nuggets Make Roster Space, Waive Veteran Guard",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/denver-nuggets/waive-lonnie-walker-preseason-roster/",
+          "published": "2026-10-13T00:54:42Z"
+        },
+        {
+          "title": "Kawhi Leonard\u2019s Toronto debut gets final confirmation date",
+          "source": "ClutchPoints",
+          "link": "https://clutchpoints.com/nba/toronto-raptors/raptors-news-kawhi-leonard-toronto-debut-gets-final-confirmation-date",
+          "published": "2026-10-13T00:54:18Z"
+        },
+        {
+          "title": "LeBron James Should Stuff the Stat Sheet with 76ers",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/philadelphia-76ers/lebron-james-should-stuff-the-stat-sheet-with-76ers/",
+          "published": "2026-10-13T00:48:35Z"
+        }
+      ]
     },
     {
       "game": "Charlotte Hornets @ Washington Wizards",
@@ -2316,26 +2658,26 @@
           "old_ml": "-115",
           "new_ml": "-115"
         },
-        "snapshot_time": "October 13, 2026 at 06:11 AM UTC"
+        "snapshot_time": "October 13, 2026 at 05:57 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
           "last_game": "Oct 12",
-          "days_rest": 1,
+          "days_rest": 2,
           "games_last_4d": 2,
           "travel_miles": 0,
           "travel_desc": "",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
+          "status": "RESTED",
+          "label": "2 days rest \u2705",
+          "battery": 88,
           "last_game": "Oct 11",
-          "days_rest": 2,
+          "days_rest": 3,
           "games_last_4d": 1,
           "travel_miles": 0,
           "travel_desc": "",
@@ -2343,7 +2685,7 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udca4 WAS fatigued (B2B) \u2014 source: ESPN"
+        "\ud83d\udcca 2.2pt probability edge"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -2380,7 +2722,7 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "WAS on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "trend": "Charlotte Hornets hold a 51.1% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
         "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
@@ -2394,7 +2736,26 @@
         "away_score": 0,
         "spread_alert": null
       },
-      "news": []
+      "news": [
+        {
+          "title": "Nuggets Make Roster Space, Waive Veteran Guard",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/denver-nuggets/waive-lonnie-walker-preseason-roster/",
+          "published": "2026-10-13T00:54:42Z"
+        },
+        {
+          "title": "Kawhi Leonard\u2019s Toronto debut gets final confirmation date",
+          "source": "ClutchPoints",
+          "link": "https://clutchpoints.com/nba/toronto-raptors/raptors-news-kawhi-leonard-toronto-debut-gets-final-confirmation-date",
+          "published": "2026-10-13T00:54:18Z"
+        },
+        {
+          "title": "LeBron James Should Stuff the Stat Sheet with 76ers",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/philadelphia-76ers/lebron-james-should-stuff-the-stat-sheet-with-76ers/",
+          "published": "2026-10-13T00:48:35Z"
+        }
+      ]
     },
     {
       "game": "Chicago Bulls @ Boston Celtics",
@@ -2442,27 +2803,27 @@
           "old_ml": "-575",
           "new_ml": "-575"
         },
-        "snapshot_time": "October 13, 2026 at 06:11 AM UTC"
+        "snapshot_time": "October 13, 2026 at 05:57 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "RESTED",
-          "label": "2 days rest \u2705",
-          "battery": 88,
+          "status": "FRESH",
+          "label": "Well rested \u2705",
+          "battery": 100,
           "last_game": "Oct 10",
-          "days_rest": 3,
+          "days_rest": 4,
           "games_last_4d": 1,
           "travel_miles": 0,
           "travel_desc": "",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
+          "status": "RESTED",
+          "label": "2 days rest \u2705",
+          "battery": 88,
           "last_game": "Oct 11",
-          "days_rest": 2,
-          "games_last_4d": 2,
+          "days_rest": 3,
+          "games_last_4d": 1,
           "travel_miles": 917,
           "travel_desc": "917 mi road trip",
           "source": "ESPN Scoreboard API"
@@ -2520,7 +2881,26 @@
         "away_score": 0,
         "spread_alert": null
       },
-      "news": []
+      "news": [
+        {
+          "title": "Nuggets Make Roster Space, Waive Veteran Guard",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/denver-nuggets/waive-lonnie-walker-preseason-roster/",
+          "published": "2026-10-13T00:54:42Z"
+        },
+        {
+          "title": "Kawhi Leonard\u2019s Toronto debut gets final confirmation date",
+          "source": "ClutchPoints",
+          "link": "https://clutchpoints.com/nba/toronto-raptors/raptors-news-kawhi-leonard-toronto-debut-gets-final-confirmation-date",
+          "published": "2026-10-13T00:54:18Z"
+        },
+        {
+          "title": "LeBron James Should Stuff the Stat Sheet with 76ers",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/philadelphia-76ers/lebron-james-should-stuff-the-stat-sheet-with-76ers/",
+          "published": "2026-10-13T00:48:35Z"
+        }
+      ]
     },
     {
       "game": "Detroit Pistons @ Brooklyn Nets",
@@ -2568,26 +2948,26 @@
           "old_ml": "-310",
           "new_ml": "-310"
         },
-        "snapshot_time": "October 13, 2026 at 06:11 AM UTC"
+        "snapshot_time": "October 13, 2026 at 05:57 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
           "last_game": "Oct 12",
-          "days_rest": 1,
+          "days_rest": 2,
           "games_last_4d": 1,
           "travel_miles": 203,
           "travel_desc": "203 mi road trip",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "RESTED",
-          "label": "2 days rest \u2705",
-          "battery": 88,
+          "status": "FRESH",
+          "label": "Well rested \u2705",
+          "battery": 100,
           "last_game": "Oct 10",
-          "days_rest": 3,
+          "days_rest": 4,
           "games_last_4d": 1,
           "travel_miles": 396,
           "travel_desc": "396 mi road trip",
@@ -2595,7 +2975,7 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udca4 BKN fatigued (B2B) \u2014 source: ESPN"
+        "\ud83d\udcca 45.2pt probability edge"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -2632,7 +3012,7 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "BKN on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "trend": "Detroit Pistons hold a 72.6% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
         "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
@@ -2646,7 +3026,26 @@
         "away_score": 0,
         "spread_alert": null
       },
-      "news": []
+      "news": [
+        {
+          "title": "Nuggets Make Roster Space, Waive Veteran Guard",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/denver-nuggets/waive-lonnie-walker-preseason-roster/",
+          "published": "2026-10-13T00:54:42Z"
+        },
+        {
+          "title": "Kawhi Leonard\u2019s Toronto debut gets final confirmation date",
+          "source": "ClutchPoints",
+          "link": "https://clutchpoints.com/nba/toronto-raptors/raptors-news-kawhi-leonard-toronto-debut-gets-final-confirmation-date",
+          "published": "2026-10-13T00:54:18Z"
+        },
+        {
+          "title": "LeBron James Should Stuff the Stat Sheet with 76ers",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/philadelphia-76ers/lebron-james-should-stuff-the-stat-sheet-with-76ers/",
+          "published": "2026-10-13T00:48:35Z"
+        }
+      ]
     },
     {
       "game": "New York Knicks @ Philadelphia 76ers",
@@ -2694,15 +3093,15 @@
           "old_ml": "-125",
           "new_ml": "-125"
         },
-        "snapshot_time": "October 13, 2026 at 06:11 AM UTC"
+        "snapshot_time": "October 13, 2026 at 05:57 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "RESTED",
-          "label": "2 days rest \u2705",
-          "battery": 88,
+          "status": "FRESH",
+          "label": "Well rested \u2705",
+          "battery": 100,
           "last_game": "Oct 10",
-          "days_rest": 3,
+          "days_rest": 4,
           "games_last_4d": 1,
           "travel_miles": 273,
           "travel_desc": "273 mi road trip",
@@ -2712,11 +3111,11 @@
           "status": "B2B",
           "label": "Back-to-Back \u26a0\ufe0f",
           "battery": 20,
-          "last_game": "Oct 12",
+          "last_game": "Oct 13",
           "days_rest": 1,
-          "games_last_4d": 1,
-          "travel_miles": 0,
-          "travel_desc": "",
+          "games_last_4d": 2,
+          "travel_miles": 340,
+          "travel_desc": "340 mi road trip",
           "source": "ESPN Scoreboard API"
         }
       },
@@ -2772,7 +3171,26 @@
         "away_score": 0,
         "spread_alert": null
       },
-      "news": []
+      "news": [
+        {
+          "title": "Nuggets Make Roster Space, Waive Veteran Guard",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/denver-nuggets/waive-lonnie-walker-preseason-roster/",
+          "published": "2026-10-13T00:54:42Z"
+        },
+        {
+          "title": "Kawhi Leonard\u2019s Toronto debut gets final confirmation date",
+          "source": "ClutchPoints",
+          "link": "https://clutchpoints.com/nba/toronto-raptors/raptors-news-kawhi-leonard-toronto-debut-gets-final-confirmation-date",
+          "published": "2026-10-13T00:54:18Z"
+        },
+        {
+          "title": "LeBron James Should Stuff the Stat Sheet with 76ers",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/philadelphia-76ers/lebron-james-should-stuff-the-stat-sheet-with-76ers/",
+          "published": "2026-10-13T00:48:35Z"
+        }
+      ]
     },
     {
       "game": "Orlando Magic @ Toronto Raptors",
@@ -2820,34 +3238,34 @@
           "old_ml": "-148",
           "new_ml": "-148"
         },
-        "snapshot_time": "October 13, 2026 at 06:11 AM UTC"
+        "snapshot_time": "October 13, 2026 at 05:57 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "RESTED",
-          "label": "2 days rest \u2705",
-          "battery": 88,
-          "last_game": "Oct 10",
-          "days_rest": 3,
-          "games_last_4d": 1,
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Oct 13",
+          "days_rest": 1,
+          "games_last_4d": 2,
           "travel_miles": 0,
           "travel_desc": "",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "Oct 11",
-          "days_rest": 2,
-          "games_last_4d": 1,
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Oct 13",
+          "days_rest": 1,
+          "games_last_4d": 2,
           "travel_miles": 895,
           "travel_desc": "895 mi road trip",
           "source": "ESPN Scoreboard API"
         }
       },
       "edge_factors": [
-        "\ud83d\udcca 14.4pt probability edge"
+        "\ud83d\udca4 ORL fatigued (B2B) \u2014 source: ESPN"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -2884,7 +3302,7 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "Toronto Raptors hold a 57.2% edge.",
+        "trend": "TOR on Back-to-Back \u26a0\ufe0f per ESPN schedule data. ORL on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
         "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
@@ -2898,7 +3316,26 @@
         "away_score": 0,
         "spread_alert": null
       },
-      "news": []
+      "news": [
+        {
+          "title": "Nuggets Make Roster Space, Waive Veteran Guard",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/denver-nuggets/waive-lonnie-walker-preseason-roster/",
+          "published": "2026-10-13T00:54:42Z"
+        },
+        {
+          "title": "Kawhi Leonard\u2019s Toronto debut gets final confirmation date",
+          "source": "ClutchPoints",
+          "link": "https://clutchpoints.com/nba/toronto-raptors/raptors-news-kawhi-leonard-toronto-debut-gets-final-confirmation-date",
+          "published": "2026-10-13T00:54:18Z"
+        },
+        {
+          "title": "LeBron James Should Stuff the Stat Sheet with 76ers",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/philadelphia-76ers/lebron-james-should-stuff-the-stat-sheet-with-76ers/",
+          "published": "2026-10-13T00:48:35Z"
+        }
+      ]
     },
     {
       "game": "Houston Rockets @ Dallas Mavericks",
@@ -2946,29 +3383,29 @@
           "old_ml": "-166",
           "new_ml": "-166"
         },
-        "snapshot_time": "October 13, 2026 at 06:11 AM UTC"
+        "snapshot_time": "October 13, 2026 at 05:57 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
+          "status": "RESTED",
+          "label": "2 days rest \u2705",
+          "battery": 88,
           "last_game": "Oct 11",
-          "days_rest": 2,
-          "games_last_4d": 2,
+          "days_rest": 3,
+          "games_last_4d": 1,
           "travel_miles": 227,
           "travel_desc": "227 mi road trip",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
+          "status": "RESTED",
+          "label": "2 days rest \u2705",
+          "battery": 88,
           "last_game": "Oct 11",
-          "days_rest": 2,
-          "games_last_4d": 2,
-          "travel_miles": 227,
-          "travel_desc": "227 mi road trip",
+          "days_rest": 3,
+          "games_last_4d": 1,
+          "travel_miles": 0,
+          "travel_desc": "",
           "source": "ESPN Scoreboard API"
         }
       },
@@ -3024,7 +3461,26 @@
         "away_score": 0,
         "spread_alert": null
       },
-      "news": []
+      "news": [
+        {
+          "title": "Nuggets Make Roster Space, Waive Veteran Guard",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/denver-nuggets/waive-lonnie-walker-preseason-roster/",
+          "published": "2026-10-13T00:54:42Z"
+        },
+        {
+          "title": "Kawhi Leonard\u2019s Toronto debut gets final confirmation date",
+          "source": "ClutchPoints",
+          "link": "https://clutchpoints.com/nba/toronto-raptors/raptors-news-kawhi-leonard-toronto-debut-gets-final-confirmation-date",
+          "published": "2026-10-13T00:54:18Z"
+        },
+        {
+          "title": "LeBron James Should Stuff the Stat Sheet with 76ers",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/philadelphia-76ers/lebron-james-should-stuff-the-stat-sheet-with-76ers/",
+          "published": "2026-10-13T00:48:35Z"
+        }
+      ]
     },
     {
       "game": "Indiana Pacers @ Miami Heat",
@@ -3072,34 +3528,34 @@
           "old_ml": "-148",
           "new_ml": "-148"
         },
-        "snapshot_time": "October 13, 2026 at 06:11 AM UTC"
+        "snapshot_time": "October 13, 2026 at 05:57 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "RESTED",
-          "label": "2 days rest \u2705",
-          "battery": 88,
+          "status": "FRESH",
+          "label": "Well rested \u2705",
+          "battery": 100,
           "last_game": "Oct 10",
-          "days_rest": 3,
+          "days_rest": 4,
           "games_last_4d": 1,
           "travel_miles": 0,
           "travel_desc": "",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "RESTED",
-          "label": "2 days rest \u2705",
-          "battery": 88,
-          "last_game": "Oct 10",
-          "days_rest": 3,
-          "games_last_4d": 1,
-          "travel_miles": 0,
-          "travel_desc": "",
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Oct 13",
+          "days_rest": 1,
+          "games_last_4d": 2,
+          "travel_miles": 688,
+          "travel_desc": "688 mi road trip",
           "source": "ESPN Scoreboard API"
         }
       },
       "edge_factors": [
-        "\ud83d\udcca 14.4pt probability edge"
+        "\ud83d\udca4 IND fatigued (B2B) \u2014 source: ESPN"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -3136,7 +3592,7 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "Miami Heat hold a 57.2% edge.",
+        "trend": "IND on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
         "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
@@ -3150,7 +3606,26 @@
         "away_score": 0,
         "spread_alert": null
       },
-      "news": []
+      "news": [
+        {
+          "title": "Nuggets Make Roster Space, Waive Veteran Guard",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/denver-nuggets/waive-lonnie-walker-preseason-roster/",
+          "published": "2026-10-13T00:54:42Z"
+        },
+        {
+          "title": "Kawhi Leonard\u2019s Toronto debut gets final confirmation date",
+          "source": "ClutchPoints",
+          "link": "https://clutchpoints.com/nba/toronto-raptors/raptors-news-kawhi-leonard-toronto-debut-gets-final-confirmation-date",
+          "published": "2026-10-13T00:54:18Z"
+        },
+        {
+          "title": "LeBron James Should Stuff the Stat Sheet with 76ers",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/philadelphia-76ers/lebron-james-should-stuff-the-stat-sheet-with-76ers/",
+          "published": "2026-10-13T00:48:35Z"
+        }
+      ]
     },
     {
       "game": "Los Angeles Clippers @ Minnesota Timberwolves",
@@ -3198,26 +3673,26 @@
           "old_ml": "-310",
           "new_ml": "-310"
         },
-        "snapshot_time": "October 13, 2026 at 06:11 AM UTC"
+        "snapshot_time": "October 13, 2026 at 05:57 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
           "last_game": "Oct 12",
-          "days_rest": 1,
+          "days_rest": 2,
           "games_last_4d": 2,
           "travel_miles": 1016,
           "travel_desc": "1,016 mi road trip",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "RESTED",
-          "label": "2 days rest \u2705",
-          "battery": 88,
+          "status": "FRESH",
+          "label": "Well rested \u2705",
+          "battery": 100,
           "last_game": "Oct 10",
-          "days_rest": 3,
+          "days_rest": 4,
           "games_last_4d": 1,
           "travel_miles": 2173,
           "travel_desc": "2,173 mi road trip",
@@ -3262,7 +3737,7 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "MIN on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "trend": "Minnesota Timberwolves hold a 72.6% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
         "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
@@ -3276,7 +3751,26 @@
         "away_score": 0,
         "spread_alert": null
       },
-      "news": []
+      "news": [
+        {
+          "title": "Nuggets Make Roster Space, Waive Veteran Guard",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/denver-nuggets/waive-lonnie-walker-preseason-roster/",
+          "published": "2026-10-13T00:54:42Z"
+        },
+        {
+          "title": "Kawhi Leonard\u2019s Toronto debut gets final confirmation date",
+          "source": "ClutchPoints",
+          "link": "https://clutchpoints.com/nba/toronto-raptors/raptors-news-kawhi-leonard-toronto-debut-gets-final-confirmation-date",
+          "published": "2026-10-13T00:54:18Z"
+        },
+        {
+          "title": "LeBron James Should Stuff the Stat Sheet with 76ers",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/philadelphia-76ers/lebron-james-should-stuff-the-stat-sheet-with-76ers/",
+          "published": "2026-10-13T00:48:35Z"
+        }
+      ]
     },
     {
       "game": "Denver Nuggets @ Phoenix Suns",
@@ -3324,26 +3818,26 @@
           "old_ml": "-130",
           "new_ml": "-130"
         },
-        "snapshot_time": "October 13, 2026 at 06:11 AM UTC"
+        "snapshot_time": "October 13, 2026 at 05:57 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "RESTED",
-          "label": "2 days rest \u2705",
-          "battery": 88,
+          "status": "FRESH",
+          "label": "Well rested \u2705",
+          "battery": 100,
           "last_game": "Oct 10",
-          "days_rest": 3,
+          "days_rest": 4,
           "games_last_4d": 1,
           "travel_miles": 0,
           "travel_desc": "",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
+          "status": "RESTED",
+          "label": "2 days rest \u2705",
+          "battery": 88,
           "last_game": "Oct 11",
-          "days_rest": 2,
+          "days_rest": 3,
           "games_last_4d": 1,
           "travel_miles": 0,
           "travel_desc": "",
@@ -3402,7 +3896,26 @@
         "away_score": 0,
         "spread_alert": null
       },
-      "news": []
+      "news": [
+        {
+          "title": "Nuggets Make Roster Space, Waive Veteran Guard",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/denver-nuggets/waive-lonnie-walker-preseason-roster/",
+          "published": "2026-10-13T00:54:42Z"
+        },
+        {
+          "title": "Kawhi Leonard\u2019s Toronto debut gets final confirmation date",
+          "source": "ClutchPoints",
+          "link": "https://clutchpoints.com/nba/toronto-raptors/raptors-news-kawhi-leonard-toronto-debut-gets-final-confirmation-date",
+          "published": "2026-10-13T00:54:18Z"
+        },
+        {
+          "title": "LeBron James Should Stuff the Stat Sheet with 76ers",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/philadelphia-76ers/lebron-james-should-stuff-the-stat-sheet-with-76ers/",
+          "published": "2026-10-13T00:48:35Z"
+        }
+      ]
     },
     {
       "game": "Los Angeles Lakers @ Golden State Warriors",
@@ -3450,15 +3963,15 @@
           "old_ml": "-110",
           "new_ml": "-110"
         },
-        "snapshot_time": "October 13, 2026 at 06:11 AM UTC"
+        "snapshot_time": "October 13, 2026 at 05:57 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "RESTED",
-          "label": "2 days rest \u2705",
-          "battery": 88,
+          "status": "FRESH",
+          "label": "Well rested \u2705",
+          "battery": 100,
           "last_game": "Oct 10",
-          "days_rest": 3,
+          "days_rest": 4,
           "games_last_4d": 1,
           "travel_miles": 0,
           "travel_desc": "",
@@ -3528,7 +4041,26 @@
         "away_score": 0,
         "spread_alert": null
       },
-      "news": []
+      "news": [
+        {
+          "title": "Nuggets Make Roster Space, Waive Veteran Guard",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/denver-nuggets/waive-lonnie-walker-preseason-roster/",
+          "published": "2026-10-13T00:54:42Z"
+        },
+        {
+          "title": "Kawhi Leonard\u2019s Toronto debut gets final confirmation date",
+          "source": "ClutchPoints",
+          "link": "https://clutchpoints.com/nba/toronto-raptors/raptors-news-kawhi-leonard-toronto-debut-gets-final-confirmation-date",
+          "published": "2026-10-13T00:54:18Z"
+        },
+        {
+          "title": "LeBron James Should Stuff the Stat Sheet with 76ers",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/philadelphia-76ers/lebron-james-should-stuff-the-stat-sheet-with-76ers/",
+          "published": "2026-10-13T00:48:35Z"
+        }
+      ]
     },
     {
       "game": "Philadelphia 76ers @ Cleveland Cavaliers",
@@ -3576,26 +4108,26 @@
           "old_ml": "-120",
           "new_ml": "-120"
         },
-        "snapshot_time": "October 13, 2026 at 06:11 AM UTC"
+        "snapshot_time": "October 13, 2026 at 05:57 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "Oct 11",
-          "days_rest": 2,
-          "games_last_4d": 1,
-          "travel_miles": 0,
-          "travel_desc": "",
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Oct 13",
+          "days_rest": 1,
+          "games_last_4d": 2,
+          "travel_miles": 895,
+          "travel_desc": "895 mi road trip",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "RESTED",
-          "label": "2 days rest \u2705",
-          "battery": 88,
+          "status": "FRESH",
+          "label": "Well rested \u2705",
+          "battery": 100,
           "last_game": "Oct 10",
-          "days_rest": 3,
+          "days_rest": 4,
           "games_last_4d": 1,
           "travel_miles": 273,
           "travel_desc": "273 mi road trip",
@@ -3640,7 +4172,7 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "Cleveland Cavaliers hold a 52.2% edge.",
+        "trend": "CLE on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
         "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
@@ -3654,7 +4186,26 @@
         "away_score": 0,
         "spread_alert": null
       },
-      "news": []
+      "news": [
+        {
+          "title": "Nuggets Make Roster Space, Waive Veteran Guard",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/denver-nuggets/waive-lonnie-walker-preseason-roster/",
+          "published": "2026-10-13T00:54:42Z"
+        },
+        {
+          "title": "Kawhi Leonard\u2019s Toronto debut gets final confirmation date",
+          "source": "ClutchPoints",
+          "link": "https://clutchpoints.com/nba/toronto-raptors/raptors-news-kawhi-leonard-toronto-debut-gets-final-confirmation-date",
+          "published": "2026-10-13T00:54:18Z"
+        },
+        {
+          "title": "LeBron James Should Stuff the Stat Sheet with 76ers",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/philadelphia-76ers/lebron-james-should-stuff-the-stat-sheet-with-76ers/",
+          "published": "2026-10-13T00:48:35Z"
+        }
+      ]
     },
     {
       "game": "Portland Trail Blazers @ Los Angeles Lakers",
@@ -3702,7 +4253,7 @@
           "old_ml": "-155",
           "new_ml": "-155"
         },
-        "snapshot_time": "October 13, 2026 at 06:11 AM UTC"
+        "snapshot_time": "October 13, 2026 at 05:57 PM UTC"
       },
       "fatigue": {
         "home": {
@@ -3717,11 +4268,11 @@
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
           "last_game": "Oct 12",
-          "days_rest": 1,
+          "days_rest": 2,
           "games_last_4d": 1,
           "travel_miles": 0,
           "travel_desc": "",
@@ -3729,7 +4280,7 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udca4 POR fatigued (B2B) \u2014 source: ESPN"
+        "\ud83d\udcca 16.6pt probability edge"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -3766,7 +4317,7 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "POR on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "trend": "Los Angeles Lakers hold a 58.3% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
         "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
@@ -3780,7 +4331,26 @@
         "away_score": 0,
         "spread_alert": null
       },
-      "news": []
+      "news": [
+        {
+          "title": "Nuggets Make Roster Space, Waive Veteran Guard",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/denver-nuggets/waive-lonnie-walker-preseason-roster/",
+          "published": "2026-10-13T00:54:42Z"
+        },
+        {
+          "title": "Kawhi Leonard\u2019s Toronto debut gets final confirmation date",
+          "source": "ClutchPoints",
+          "link": "https://clutchpoints.com/nba/toronto-raptors/raptors-news-kawhi-leonard-toronto-debut-gets-final-confirmation-date",
+          "published": "2026-10-13T00:54:18Z"
+        },
+        {
+          "title": "LeBron James Should Stuff the Stat Sheet with 76ers",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/philadelphia-76ers/lebron-james-should-stuff-the-stat-sheet-with-76ers/",
+          "published": "2026-10-13T00:48:35Z"
+        }
+      ]
     },
     {
       "game": "New York Knicks @ Indiana Pacers",
@@ -3828,34 +4398,34 @@
           "old_ml": "-125",
           "new_ml": "-125"
         },
-        "snapshot_time": "October 13, 2026 at 06:11 AM UTC"
+        "snapshot_time": "October 13, 2026 at 05:57 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "RESTED",
-          "label": "2 days rest \u2705",
-          "battery": 88,
-          "last_game": "Oct 10",
-          "days_rest": 3,
-          "games_last_4d": 1,
-          "travel_miles": 0,
-          "travel_desc": "",
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Oct 13",
+          "days_rest": 1,
+          "games_last_4d": 2,
+          "travel_miles": 688,
+          "travel_desc": "688 mi road trip",
           "source": "ESPN Scoreboard API"
         },
         "away": {
           "status": "B2B",
           "label": "Back-to-Back \u26a0\ufe0f",
           "battery": 20,
-          "last_game": "Oct 12",
+          "last_game": "Oct 13",
           "days_rest": 1,
-          "games_last_4d": 1,
-          "travel_miles": 0,
-          "travel_desc": "",
+          "games_last_4d": 2,
+          "travel_miles": 340,
+          "travel_desc": "340 mi road trip",
           "source": "ESPN Scoreboard API"
         }
       },
       "edge_factors": [
-        "\ud83d\udcca 6.4pt probability edge"
+        "\ud83d\udca4 IND fatigued (B2B) \u2014 source: ESPN"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -3892,7 +4462,7 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "NYK on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "trend": "IND on Back-to-Back \u26a0\ufe0f per ESPN schedule data. NYK on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
         "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
@@ -3906,7 +4476,26 @@
         "away_score": 0,
         "spread_alert": null
       },
-      "news": []
+      "news": [
+        {
+          "title": "Nuggets Make Roster Space, Waive Veteran Guard",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/denver-nuggets/waive-lonnie-walker-preseason-roster/",
+          "published": "2026-10-13T00:54:42Z"
+        },
+        {
+          "title": "Kawhi Leonard\u2019s Toronto debut gets final confirmation date",
+          "source": "ClutchPoints",
+          "link": "https://clutchpoints.com/nba/toronto-raptors/raptors-news-kawhi-leonard-toronto-debut-gets-final-confirmation-date",
+          "published": "2026-10-13T00:54:18Z"
+        },
+        {
+          "title": "LeBron James Should Stuff the Stat Sheet with 76ers",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/philadelphia-76ers/lebron-james-should-stuff-the-stat-sheet-with-76ers/",
+          "published": "2026-10-13T00:48:35Z"
+        }
+      ]
     },
     {
       "game": "Golden State Warriors @ San Antonio Spurs",
@@ -3954,26 +4543,26 @@
           "old_ml": "-520",
           "new_ml": "-520"
         },
-        "snapshot_time": "October 13, 2026 at 06:11 AM UTC"
+        "snapshot_time": "October 13, 2026 at 05:57 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
           "last_game": "Oct 12",
-          "days_rest": 1,
+          "days_rest": 2,
           "games_last_4d": 2,
           "travel_miles": 849,
           "travel_desc": "849 mi road trip",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "RESTED",
-          "label": "2 days rest \u2705",
-          "battery": 88,
+          "status": "FRESH",
+          "label": "Well rested \u2705",
+          "battery": 100,
           "last_game": "Oct 10",
-          "days_rest": 3,
+          "days_rest": 4,
           "games_last_4d": 1,
           "travel_miles": 0,
           "travel_desc": "",
@@ -4018,7 +4607,7 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "SAS on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "trend": "San Antonio Spurs hold a 80.4% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
         "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
@@ -4032,7 +4621,26 @@
         "away_score": 0,
         "spread_alert": null
       },
-      "news": []
+      "news": [
+        {
+          "title": "Nuggets Make Roster Space, Waive Veteran Guard",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/denver-nuggets/waive-lonnie-walker-preseason-roster/",
+          "published": "2026-10-13T00:54:42Z"
+        },
+        {
+          "title": "Kawhi Leonard\u2019s Toronto debut gets final confirmation date",
+          "source": "ClutchPoints",
+          "link": "https://clutchpoints.com/nba/toronto-raptors/raptors-news-kawhi-leonard-toronto-debut-gets-final-confirmation-date",
+          "published": "2026-10-13T00:54:18Z"
+        },
+        {
+          "title": "LeBron James Should Stuff the Stat Sheet with 76ers",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/philadelphia-76ers/lebron-james-should-stuff-the-stat-sheet-with-76ers/",
+          "published": "2026-10-13T00:48:35Z"
+        }
+      ]
     },
     {
       "game": "Toronto Raptors @ Detroit Pistons",
@@ -4040,74 +4648,74 @@
       "away_team": "Toronto Raptors",
       "home_abbr": "DET",
       "away_abbr": "TOR",
-      "home_ml": "-115",
-      "away_ml": "-105",
-      "home_ml_raw": -115,
-      "away_ml_raw": -105,
-      "home_prob": 51.1,
-      "away_prob": 48.9,
+      "home_ml": "-112",
+      "away_ml": "-108",
+      "home_ml_raw": -112,
+      "away_ml_raw": -108,
+      "home_prob": 50.4,
+      "away_prob": 49.6,
       "spread": "DET -1.5",
       "favorite": "Detroit Pistons",
       "pick": "Detroit Pistons",
       "pick_abbr": "DET",
-      "moneyline": "-115",
-      "win_probability": 51.1,
+      "moneyline": "-112",
+      "win_probability": 50.4,
       "confidence": "LOW",
       "confidence_stars": "\u2605\u2606\u2606",
       "commence_time": "2026-11-21T00:40:00Z",
       "line_movement": {
         "home": {
-          "direction": "none",
-          "points_moved": 0,
+          "direction": "longer",
+          "points_moved": 3,
           "steam": false,
-          "label": "No movement",
+          "label": "\ud83d\udd34 -112 \u2190 -115",
           "old_ml": "-115",
-          "new_ml": "-115"
+          "new_ml": "-112"
         },
         "away": {
-          "direction": "none",
-          "points_moved": 0,
+          "direction": "shorter",
+          "points_moved": 3,
           "steam": false,
-          "label": "No movement",
+          "label": "\ud83d\udfe2 -108 \u2190 -105",
           "old_ml": "-105",
-          "new_ml": "-105"
+          "new_ml": "-108"
         },
         "pick": {
-          "direction": "none",
-          "points_moved": 0,
+          "direction": "longer",
+          "points_moved": 3,
           "steam": false,
-          "label": "No movement",
+          "label": "\ud83d\udd34 -112 \u2190 -115",
           "old_ml": "-115",
-          "new_ml": "-115"
+          "new_ml": "-112"
         },
-        "snapshot_time": "October 13, 2026 at 06:11 AM UTC"
+        "snapshot_time": "October 13, 2026 at 05:57 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "RESTED",
-          "label": "2 days rest \u2705",
-          "battery": 88,
+          "status": "FRESH",
+          "label": "Well rested \u2705",
+          "battery": 100,
           "last_game": "Oct 10",
-          "days_rest": 3,
+          "days_rest": 4,
           "games_last_4d": 1,
           "travel_miles": 396,
           "travel_desc": "396 mi road trip",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "RESTED",
-          "label": "2 days rest \u2705",
-          "battery": 88,
-          "last_game": "Oct 10",
-          "days_rest": 3,
-          "games_last_4d": 1,
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Oct 13",
+          "days_rest": 1,
+          "games_last_4d": 2,
           "travel_miles": 0,
           "travel_desc": "",
           "source": "ESPN Scoreboard API"
         }
       },
       "edge_factors": [
-        "\ud83d\udcca 2.2pt probability edge"
+        "\ud83d\udca4 TOR fatigued (B2B) \u2014 source: ESPN"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -4144,9 +4752,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "Detroit Pistons hold a 51.1% edge.",
+        "trend": "TOR on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "steam": "Line moved -115\u2192-112 (3pts). Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -4158,7 +4766,26 @@
         "away_score": 0,
         "spread_alert": null
       },
-      "news": []
+      "news": [
+        {
+          "title": "Nuggets Make Roster Space, Waive Veteran Guard",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/denver-nuggets/waive-lonnie-walker-preseason-roster/",
+          "published": "2026-10-13T00:54:42Z"
+        },
+        {
+          "title": "Kawhi Leonard\u2019s Toronto debut gets final confirmation date",
+          "source": "ClutchPoints",
+          "link": "https://clutchpoints.com/nba/toronto-raptors/raptors-news-kawhi-leonard-toronto-debut-gets-final-confirmation-date",
+          "published": "2026-10-13T00:54:18Z"
+        },
+        {
+          "title": "LeBron James Should Stuff the Stat Sheet with 76ers",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/philadelphia-76ers/lebron-james-should-stuff-the-stat-sheet-with-76ers/",
+          "published": "2026-10-13T00:48:35Z"
+        }
+      ]
     },
     {
       "game": "Houston Rockets @ Denver Nuggets",
@@ -4206,29 +4833,29 @@
           "old_ml": "-148",
           "new_ml": "-148"
         },
-        "snapshot_time": "October 13, 2026 at 06:11 AM UTC"
+        "snapshot_time": "October 13, 2026 at 05:57 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
+          "status": "RESTED",
+          "label": "2 days rest \u2705",
+          "battery": 88,
           "last_game": "Oct 11",
-          "days_rest": 2,
+          "days_rest": 3,
           "games_last_4d": 1,
           "travel_miles": 0,
           "travel_desc": "",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
+          "status": "RESTED",
+          "label": "2 days rest \u2705",
+          "battery": 88,
           "last_game": "Oct 11",
-          "days_rest": 2,
-          "games_last_4d": 2,
-          "travel_miles": 227,
-          "travel_desc": "227 mi road trip",
+          "days_rest": 3,
+          "games_last_4d": 1,
+          "travel_miles": 0,
+          "travel_desc": "",
           "source": "ESPN Scoreboard API"
         }
       },
@@ -4284,7 +4911,26 @@
         "away_score": 0,
         "spread_alert": null
       },
-      "news": []
+      "news": [
+        {
+          "title": "Nuggets Make Roster Space, Waive Veteran Guard",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/denver-nuggets/waive-lonnie-walker-preseason-roster/",
+          "published": "2026-10-13T00:54:42Z"
+        },
+        {
+          "title": "Kawhi Leonard\u2019s Toronto debut gets final confirmation date",
+          "source": "ClutchPoints",
+          "link": "https://clutchpoints.com/nba/toronto-raptors/raptors-news-kawhi-leonard-toronto-debut-gets-final-confirmation-date",
+          "published": "2026-10-13T00:54:18Z"
+        },
+        {
+          "title": "LeBron James Should Stuff the Stat Sheet with 76ers",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/philadelphia-76ers/lebron-james-should-stuff-the-stat-sheet-with-76ers/",
+          "published": "2026-10-13T00:48:35Z"
+        }
+      ]
     },
     {
       "game": "Boston Celtics @ Washington Wizards",
@@ -4332,1034 +4978,26 @@
           "old_ml": "-185",
           "new_ml": "-185"
         },
-        "snapshot_time": "October 13, 2026 at 06:11 AM UTC"
-      },
-      "fatigue": {
-        "home": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
-          "last_game": "Oct 12",
-          "days_rest": 1,
-          "games_last_4d": 2,
-          "travel_miles": 0,
-          "travel_desc": "",
-          "source": "ESPN Scoreboard API"
-        },
-        "away": {
-          "status": "RESTED",
-          "label": "2 days rest \u2705",
-          "battery": 88,
-          "last_game": "Oct 10",
-          "days_rest": 3,
-          "games_last_4d": 1,
-          "travel_miles": 0,
-          "travel_desc": "",
-          "source": "ESPN Scoreboard API"
-        }
-      },
-      "edge_factors": [
-        "\ud83d\udca4 WAS fatigued (B2B) \u2014 source: ESPN"
-      ],
-      "injury_notes": "No key injuries.",
-      "sharp": {
-        "away_t": null,
-        "home_t": null,
-        "source": null,
-        "sharp_signal": null,
-        "sharp_label": "Pending \u2014 check closer to tip-off",
-        "rlm": false
-      },
-      "form": {
-        "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        },
-        "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        }
-      },
-      "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
-      },
-      "briefing": {
-        "trend": "WAS on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
-        "injury_notes": "No key injuries."
-      },
-      "live": {
-        "status": "pre",
-        "status_detail": "Upcoming",
-        "period": 0,
-        "clock": "",
-        "home_score": 0,
-        "away_score": 0,
-        "spread_alert": null
-      },
-      "news": []
-    },
-    {
-      "game": "Dallas Mavericks @ Denver Nuggets",
-      "home_team": "Denver Nuggets",
-      "away_team": "Dallas Mavericks",
-      "home_abbr": "DEN",
-      "away_abbr": "DAL",
-      "home_ml": "-345",
-      "away_ml": "+275",
-      "home_ml_raw": -345,
-      "away_ml_raw": 275,
-      "home_prob": 74.4,
-      "away_prob": 25.6,
-      "spread": "DEN -8.5",
-      "favorite": "Denver Nuggets",
-      "pick": "Denver Nuggets",
-      "pick_abbr": "DEN",
-      "moneyline": "-345",
-      "win_probability": 74.4,
-      "confidence": "HIGH",
-      "confidence_stars": "\u2605\u2605\u2605",
-      "commence_time": "2026-11-25T03:10:00Z",
-      "line_movement": {
-        "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
-          "old_ml": "-345",
-          "new_ml": "-345"
-        },
-        "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
-          "old_ml": "+275",
-          "new_ml": "+275"
-        },
-        "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
-          "old_ml": "-345",
-          "new_ml": "-345"
-        },
-        "snapshot_time": "October 13, 2026 at 06:11 AM UTC"
+        "snapshot_time": "October 13, 2026 at 05:57 PM UTC"
       },
       "fatigue": {
         "home": {
           "status": "SOME_REST",
           "label": "1 day rest",
           "battery": 68,
-          "last_game": "Oct 11",
-          "days_rest": 2,
-          "games_last_4d": 1,
-          "travel_miles": 0,
-          "travel_desc": "",
-          "source": "ESPN Scoreboard API"
-        },
-        "away": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "Oct 11",
+          "last_game": "Oct 12",
           "days_rest": 2,
           "games_last_4d": 2,
-          "travel_miles": 227,
-          "travel_desc": "227 mi road trip",
-          "source": "ESPN Scoreboard API"
-        }
-      },
-      "edge_factors": [
-        "\ud83d\udcca 48.8pt probability edge"
-      ],
-      "injury_notes": "No key injuries.",
-      "sharp": {
-        "away_t": null,
-        "home_t": null,
-        "source": null,
-        "sharp_signal": null,
-        "sharp_label": "Pending \u2014 check closer to tip-off",
-        "rlm": false
-      },
-      "form": {
-        "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        },
-        "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        }
-      },
-      "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
-      },
-      "briefing": {
-        "trend": "Denver Nuggets hold a 74.4% edge.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
-        "injury_notes": "No key injuries."
-      },
-      "live": {
-        "status": "pre",
-        "status_detail": "Upcoming",
-        "period": 0,
-        "clock": "",
-        "home_score": 0,
-        "away_score": 0,
-        "spread_alert": null
-      },
-      "news": []
-    },
-    {
-      "game": "Miami Heat @ Philadelphia 76ers",
-      "home_team": "Philadelphia 76ers",
-      "away_team": "Miami Heat",
-      "home_abbr": "PHI",
-      "away_abbr": "MIA",
-      "home_ml": "-155",
-      "away_ml": "+130",
-      "home_ml_raw": -155,
-      "away_ml_raw": 130,
-      "home_prob": 58.3,
-      "away_prob": 41.7,
-      "spread": "PHI -3.5",
-      "favorite": "Philadelphia 76ers",
-      "pick": "Philadelphia 76ers",
-      "pick_abbr": "PHI",
-      "moneyline": "-155",
-      "win_probability": 58.3,
-      "confidence": "MEDIUM",
-      "confidence_stars": "\u2605\u2605\u2606",
-      "commence_time": "2026-11-25T22:10:00Z",
-      "line_movement": {
-        "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
-          "old_ml": "-155",
-          "new_ml": "-155"
-        },
-        "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
-          "old_ml": "+130",
-          "new_ml": "+130"
-        },
-        "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
-          "old_ml": "-155",
-          "new_ml": "-155"
-        },
-        "snapshot_time": "October 13, 2026 at 06:11 AM UTC"
-      },
-      "fatigue": {
-        "home": {
-          "status": "RESTED",
-          "label": "2 days rest \u2705",
-          "battery": 88,
-          "last_game": "Oct 10",
-          "days_rest": 3,
-          "games_last_4d": 1,
-          "travel_miles": 273,
-          "travel_desc": "273 mi road trip",
-          "source": "ESPN Scoreboard API"
-        },
-        "away": {
-          "status": "RESTED",
-          "label": "2 days rest \u2705",
-          "battery": 88,
-          "last_game": "Oct 10",
-          "days_rest": 3,
-          "games_last_4d": 1,
           "travel_miles": 0,
           "travel_desc": "",
-          "source": "ESPN Scoreboard API"
-        }
-      },
-      "edge_factors": [
-        "\ud83d\udcca 16.6pt probability edge"
-      ],
-      "injury_notes": "No key injuries.",
-      "sharp": {
-        "away_t": null,
-        "home_t": null,
-        "source": null,
-        "sharp_signal": null,
-        "sharp_label": "Pending \u2014 check closer to tip-off",
-        "rlm": false
-      },
-      "form": {
-        "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        },
-        "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        }
-      },
-      "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
-      },
-      "briefing": {
-        "trend": "Philadelphia 76ers hold a 58.3% edge.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
-        "injury_notes": "No key injuries."
-      },
-      "live": {
-        "status": "pre",
-        "status_detail": "Upcoming",
-        "period": 0,
-        "clock": "",
-        "home_score": 0,
-        "away_score": 0,
-        "spread_alert": null
-      },
-      "news": []
-    },
-    {
-      "game": "Minnesota Timberwolves @ Oklahoma City Thunder",
-      "home_team": "Oklahoma City Thunder",
-      "away_team": "Minnesota Timberwolves",
-      "home_abbr": "OKC",
-      "away_abbr": "MIN",
-      "home_ml": "-375",
-      "away_ml": "+295",
-      "home_ml_raw": -375,
-      "away_ml_raw": 295,
-      "home_prob": 75.7,
-      "away_prob": 24.3,
-      "spread": "OKC -8.5",
-      "favorite": "Oklahoma City Thunder",
-      "pick": "Oklahoma City Thunder",
-      "pick_abbr": "OKC",
-      "moneyline": "-375",
-      "win_probability": 75.7,
-      "confidence": "HIGH",
-      "confidence_stars": "\u2605\u2605\u2605",
-      "commence_time": "2026-11-26T00:40:00Z",
-      "line_movement": {
-        "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
-          "old_ml": "-375",
-          "new_ml": "-375"
-        },
-        "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
-          "old_ml": "+295",
-          "new_ml": "+295"
-        },
-        "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
-          "old_ml": "-375",
-          "new_ml": "-375"
-        },
-        "snapshot_time": "October 13, 2026 at 06:11 AM UTC"
-      },
-      "fatigue": {
-        "home": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
-          "last_game": "Oct 12",
-          "days_rest": 1,
-          "games_last_4d": 1,
-          "travel_miles": 755,
-          "travel_desc": "755 mi road trip",
-          "source": "ESPN Scoreboard API"
-        },
-        "away": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
-          "last_game": "Oct 12",
-          "days_rest": 1,
-          "games_last_4d": 2,
-          "travel_miles": 1016,
-          "travel_desc": "1,016 mi road trip",
-          "source": "ESPN Scoreboard API"
-        }
-      },
-      "edge_factors": [
-        "\ud83d\udca4 MIN fatigued (B2B) \u2014 source: ESPN"
-      ],
-      "injury_notes": "No key injuries.",
-      "sharp": {
-        "away_t": null,
-        "home_t": null,
-        "source": null,
-        "sharp_signal": null,
-        "sharp_label": "Pending \u2014 check closer to tip-off",
-        "rlm": false
-      },
-      "form": {
-        "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        },
-        "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        }
-      },
-      "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
-      },
-      "briefing": {
-        "trend": "OKC on Back-to-Back \u26a0\ufe0f per ESPN schedule data. MIN on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
-        "injury_notes": "No key injuries."
-      },
-      "live": {
-        "status": "pre",
-        "status_detail": "Upcoming",
-        "period": 0,
-        "clock": "",
-        "home_score": 0,
-        "away_score": 0,
-        "spread_alert": null
-      },
-      "news": []
-    },
-    {
-      "game": "San Antonio Spurs @ Portland Trail Blazers",
-      "home_team": "Portland Trail Blazers",
-      "away_team": "San Antonio Spurs",
-      "home_abbr": "POR",
-      "away_abbr": "SAS",
-      "home_ml": "+136",
-      "away_ml": "-162",
-      "home_ml_raw": 136,
-      "away_ml_raw": -162,
-      "home_prob": 40.7,
-      "away_prob": 59.3,
-      "spread": "POR +4.5",
-      "favorite": "San Antonio Spurs",
-      "pick": "San Antonio Spurs",
-      "pick_abbr": "SAS",
-      "moneyline": "-162",
-      "win_probability": 59.3,
-      "confidence": "MEDIUM",
-      "confidence_stars": "\u2605\u2605\u2606",
-      "commence_time": "2026-11-26T03:10:00Z",
-      "line_movement": {
-        "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
-          "old_ml": "+136",
-          "new_ml": "+136"
-        },
-        "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
-          "old_ml": "-162",
-          "new_ml": "-162"
-        },
-        "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
-          "old_ml": "-162",
-          "new_ml": "-162"
-        },
-        "snapshot_time": "October 13, 2026 at 06:11 AM UTC"
-      },
-      "fatigue": {
-        "home": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
-          "last_game": "Oct 12",
-          "days_rest": 1,
-          "games_last_4d": 1,
-          "travel_miles": 0,
-          "travel_desc": "",
-          "source": "ESPN Scoreboard API"
-        },
-        "away": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
-          "last_game": "Oct 12",
-          "days_rest": 1,
-          "games_last_4d": 2,
-          "travel_miles": 849,
-          "travel_desc": "849 mi road trip",
-          "source": "ESPN Scoreboard API"
-        }
-      },
-      "edge_factors": [
-        "\ud83d\udca4 POR fatigued (B2B) \u2014 source: ESPN"
-      ],
-      "injury_notes": "No key injuries.",
-      "sharp": {
-        "away_t": null,
-        "home_t": null,
-        "source": null,
-        "sharp_signal": null,
-        "sharp_label": "Pending \u2014 check closer to tip-off",
-        "rlm": false
-      },
-      "form": {
-        "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        },
-        "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        }
-      },
-      "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
-      },
-      "briefing": {
-        "trend": "POR on Back-to-Back \u26a0\ufe0f per ESPN schedule data. SAS on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
-        "injury_notes": "No key injuries."
-      },
-      "live": {
-        "status": "pre",
-        "status_detail": "Upcoming",
-        "period": 0,
-        "clock": "",
-        "home_score": 0,
-        "away_score": 0,
-        "spread_alert": null
-      },
-      "news": []
-    },
-    {
-      "game": "Miami Heat @ New York Knicks",
-      "home_team": "New York Knicks",
-      "away_team": "Miami Heat",
-      "home_abbr": "NYK",
-      "away_abbr": "MIA",
-      "home_ml": "-185",
-      "away_ml": "+154",
-      "home_ml_raw": -185,
-      "away_ml_raw": 154,
-      "home_prob": 62.2,
-      "away_prob": 37.8,
-      "spread": "NYK -5.5",
-      "favorite": "New York Knicks",
-      "pick": "New York Knicks",
-      "pick_abbr": "NYK",
-      "moneyline": "-185",
-      "win_probability": 62.2,
-      "confidence": "MEDIUM",
-      "confidence_stars": "\u2605\u2605\u2606",
-      "commence_time": "2026-11-28T00:10:00Z",
-      "line_movement": {
-        "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
-          "old_ml": "-185",
-          "new_ml": "-185"
-        },
-        "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
-          "old_ml": "+154",
-          "new_ml": "+154"
-        },
-        "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
-          "old_ml": "-185",
-          "new_ml": "-185"
-        },
-        "snapshot_time": "October 13, 2026 at 06:11 AM UTC"
-      },
-      "fatigue": {
-        "home": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
-          "last_game": "Oct 12",
-          "days_rest": 1,
-          "games_last_4d": 1,
-          "travel_miles": 0,
-          "travel_desc": "",
-          "source": "ESPN Scoreboard API"
-        },
-        "away": {
-          "status": "RESTED",
-          "label": "2 days rest \u2705",
-          "battery": 88,
-          "last_game": "Oct 10",
-          "days_rest": 3,
-          "games_last_4d": 1,
-          "travel_miles": 0,
-          "travel_desc": "",
-          "source": "ESPN Scoreboard API"
-        }
-      },
-      "edge_factors": [
-        "\ud83d\udcca 24.4pt probability edge"
-      ],
-      "injury_notes": "No key injuries.",
-      "sharp": {
-        "away_t": null,
-        "home_t": null,
-        "source": null,
-        "sharp_signal": null,
-        "sharp_label": "Pending \u2014 check closer to tip-off",
-        "rlm": false
-      },
-      "form": {
-        "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        },
-        "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        }
-      },
-      "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
-      },
-      "briefing": {
-        "trend": "NYK on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
-        "injury_notes": "No key injuries."
-      },
-      "live": {
-        "status": "pre",
-        "status_detail": "Upcoming",
-        "period": 0,
-        "clock": "",
-        "home_score": 0,
-        "away_score": 0,
-        "spread_alert": null
-      },
-      "news": []
-    },
-    {
-      "game": "Los Angeles Lakers @ San Antonio Spurs",
-      "home_team": "San Antonio Spurs",
-      "away_team": "Los Angeles Lakers",
-      "home_abbr": "SAS",
-      "away_abbr": "LAL",
-      "home_ml": "-245",
-      "away_ml": "+200",
-      "home_ml_raw": -245,
-      "away_ml_raw": 200,
-      "home_prob": 68.1,
-      "away_prob": 31.9,
-      "spread": "SAS -7.5",
-      "favorite": "San Antonio Spurs",
-      "pick": "San Antonio Spurs",
-      "pick_abbr": "SAS",
-      "moneyline": "-245",
-      "win_probability": 68.1,
-      "confidence": "MEDIUM",
-      "confidence_stars": "\u2605\u2605\u2606",
-      "commence_time": "2026-11-28T02:40:00Z",
-      "line_movement": {
-        "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
-          "old_ml": "-245",
-          "new_ml": "-245"
-        },
-        "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
-          "old_ml": "+200",
-          "new_ml": "+200"
-        },
-        "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
-          "old_ml": "-245",
-          "new_ml": "-245"
-        },
-        "snapshot_time": "October 13, 2026 at 06:11 AM UTC"
-      },
-      "fatigue": {
-        "home": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
-          "last_game": "Oct 12",
-          "days_rest": 1,
-          "games_last_4d": 2,
-          "travel_miles": 849,
-          "travel_desc": "849 mi road trip",
           "source": "ESPN Scoreboard API"
         },
         "away": {
           "status": "FRESH",
           "label": "Well rested \u2705",
           "battery": 100,
-          "last_game": "\u2014",
-          "days_rest": 99,
-          "games_last_4d": 0,
-          "travel_miles": 0,
-          "travel_desc": "",
-          "source": "ESPN Scoreboard API"
-        }
-      },
-      "edge_factors": [
-        "\ud83d\udcca 36.2pt probability edge"
-      ],
-      "injury_notes": "No key injuries.",
-      "sharp": {
-        "away_t": null,
-        "home_t": null,
-        "source": null,
-        "sharp_signal": null,
-        "sharp_label": "Pending \u2014 check closer to tip-off",
-        "rlm": false
-      },
-      "form": {
-        "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        },
-        "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        }
-      },
-      "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
-      },
-      "briefing": {
-        "trend": "SAS on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
-        "injury_notes": "No key injuries."
-      },
-      "live": {
-        "status": "pre",
-        "status_detail": "Upcoming",
-        "period": 0,
-        "clock": "",
-        "home_score": 0,
-        "away_score": 0,
-        "spread_alert": null
-      },
-      "news": []
-    },
-    {
-      "game": "San Antonio Spurs @ New York Knicks",
-      "home_team": "New York Knicks",
-      "away_team": "San Antonio Spurs",
-      "home_abbr": "NYK",
-      "away_abbr": "SAS",
-      "home_ml": "-115",
-      "away_ml": "-105",
-      "home_ml_raw": -115,
-      "away_ml_raw": -105,
-      "home_prob": 51.1,
-      "away_prob": 48.9,
-      "spread": "NYK -1.5",
-      "favorite": "New York Knicks",
-      "pick": "New York Knicks",
-      "pick_abbr": "NYK",
-      "moneyline": "-115",
-      "win_probability": 51.1,
-      "confidence": "LOW",
-      "confidence_stars": "\u2605\u2606\u2606",
-      "commence_time": "2026-12-25T17:00:00Z",
-      "line_movement": {
-        "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
-          "old_ml": "-115",
-          "new_ml": "-115"
-        },
-        "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
-          "old_ml": "-105",
-          "new_ml": "-105"
-        },
-        "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
-          "old_ml": "-115",
-          "new_ml": "-115"
-        },
-        "snapshot_time": "October 13, 2026 at 06:11 AM UTC"
-      },
-      "fatigue": {
-        "home": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
-          "last_game": "Oct 12",
-          "days_rest": 1,
-          "games_last_4d": 1,
-          "travel_miles": 0,
-          "travel_desc": "",
-          "source": "ESPN Scoreboard API"
-        },
-        "away": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
-          "last_game": "Oct 12",
-          "days_rest": 1,
-          "games_last_4d": 2,
-          "travel_miles": 849,
-          "travel_desc": "849 mi road trip",
-          "source": "ESPN Scoreboard API"
-        }
-      },
-      "edge_factors": [
-        "\ud83d\udca4 SAS fatigued (B2B) \u2014 source: ESPN"
-      ],
-      "injury_notes": "No key injuries.",
-      "sharp": {
-        "away_t": null,
-        "home_t": null,
-        "source": null,
-        "sharp_signal": null,
-        "sharp_label": "Pending \u2014 check closer to tip-off",
-        "rlm": false
-      },
-      "form": {
-        "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        },
-        "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        }
-      },
-      "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
-      },
-      "briefing": {
-        "trend": "NYK on Back-to-Back \u26a0\ufe0f per ESPN schedule data. SAS on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
-        "injury_notes": "No key injuries."
-      },
-      "live": {
-        "status": "pre",
-        "status_detail": "Upcoming",
-        "period": 0,
-        "clock": "",
-        "home_score": 0,
-        "away_score": 0,
-        "spread_alert": null
-      },
-      "news": []
-    },
-    {
-      "game": "Miami Heat @ Boston Celtics",
-      "home_team": "Boston Celtics",
-      "away_team": "Miami Heat",
-      "home_abbr": "BOS",
-      "away_abbr": "MIA",
-      "home_ml": "-185",
-      "away_ml": "+154",
-      "home_ml_raw": -185,
-      "away_ml_raw": 154,
-      "home_prob": 62.2,
-      "away_prob": 37.8,
-      "spread": "BOS -5.5",
-      "favorite": "Boston Celtics",
-      "pick": "Boston Celtics",
-      "pick_abbr": "BOS",
-      "moneyline": "-185",
-      "win_probability": 62.2,
-      "confidence": "MEDIUM",
-      "confidence_stars": "\u2605\u2605\u2606",
-      "commence_time": "2026-12-25T19:30:00Z",
-      "line_movement": {
-        "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
-          "old_ml": "-185",
-          "new_ml": "-185"
-        },
-        "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
-          "old_ml": "+154",
-          "new_ml": "+154"
-        },
-        "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
-          "old_ml": "-185",
-          "new_ml": "-185"
-        },
-        "snapshot_time": "October 13, 2026 at 06:11 AM UTC"
-      },
-      "fatigue": {
-        "home": {
-          "status": "RESTED",
-          "label": "2 days rest \u2705",
-          "battery": 88,
           "last_game": "Oct 10",
-          "days_rest": 3,
-          "games_last_4d": 1,
-          "travel_miles": 0,
-          "travel_desc": "",
-          "source": "ESPN Scoreboard API"
-        },
-        "away": {
-          "status": "RESTED",
-          "label": "2 days rest \u2705",
-          "battery": 88,
-          "last_game": "Oct 10",
-          "days_rest": 3,
+          "days_rest": 4,
           "games_last_4d": 1,
           "travel_miles": 0,
           "travel_desc": "",
@@ -5418,7 +5056,1186 @@
         "away_score": 0,
         "spread_alert": null
       },
-      "news": []
+      "news": [
+        {
+          "title": "Nuggets Make Roster Space, Waive Veteran Guard",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/denver-nuggets/waive-lonnie-walker-preseason-roster/",
+          "published": "2026-10-13T00:54:42Z"
+        },
+        {
+          "title": "Kawhi Leonard\u2019s Toronto debut gets final confirmation date",
+          "source": "ClutchPoints",
+          "link": "https://clutchpoints.com/nba/toronto-raptors/raptors-news-kawhi-leonard-toronto-debut-gets-final-confirmation-date",
+          "published": "2026-10-13T00:54:18Z"
+        },
+        {
+          "title": "LeBron James Should Stuff the Stat Sheet with 76ers",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/philadelphia-76ers/lebron-james-should-stuff-the-stat-sheet-with-76ers/",
+          "published": "2026-10-13T00:48:35Z"
+        }
+      ]
+    },
+    {
+      "game": "Dallas Mavericks @ Denver Nuggets",
+      "home_team": "Denver Nuggets",
+      "away_team": "Dallas Mavericks",
+      "home_abbr": "DEN",
+      "away_abbr": "DAL",
+      "home_ml": "-345",
+      "away_ml": "+275",
+      "home_ml_raw": -345,
+      "away_ml_raw": 275,
+      "home_prob": 74.4,
+      "away_prob": 25.6,
+      "spread": "DEN -8.5",
+      "favorite": "Denver Nuggets",
+      "pick": "Denver Nuggets",
+      "pick_abbr": "DEN",
+      "moneyline": "-345",
+      "win_probability": 74.4,
+      "confidence": "HIGH",
+      "confidence_stars": "\u2605\u2605\u2605",
+      "commence_time": "2026-11-25T03:10:00Z",
+      "line_movement": {
+        "home": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "No movement",
+          "old_ml": "-345",
+          "new_ml": "-345"
+        },
+        "away": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "No movement",
+          "old_ml": "+275",
+          "new_ml": "+275"
+        },
+        "pick": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "No movement",
+          "old_ml": "-345",
+          "new_ml": "-345"
+        },
+        "snapshot_time": "October 13, 2026 at 05:57 PM UTC"
+      },
+      "fatigue": {
+        "home": {
+          "status": "RESTED",
+          "label": "2 days rest \u2705",
+          "battery": 88,
+          "last_game": "Oct 11",
+          "days_rest": 3,
+          "games_last_4d": 1,
+          "travel_miles": 0,
+          "travel_desc": "",
+          "source": "ESPN Scoreboard API"
+        },
+        "away": {
+          "status": "RESTED",
+          "label": "2 days rest \u2705",
+          "battery": 88,
+          "last_game": "Oct 11",
+          "days_rest": 3,
+          "games_last_4d": 1,
+          "travel_miles": 227,
+          "travel_desc": "227 mi road trip",
+          "source": "ESPN Scoreboard API"
+        }
+      },
+      "edge_factors": [
+        "\ud83d\udcca 48.8pt probability edge"
+      ],
+      "injury_notes": "No key injuries.",
+      "sharp": {
+        "away_t": null,
+        "home_t": null,
+        "source": null,
+        "sharp_signal": null,
+        "sharp_label": "Pending \u2014 check closer to tip-off",
+        "rlm": false
+      },
+      "form": {
+        "home": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        },
+        "away": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        }
+      },
+      "h2h": {
+        "total_meetings": 0,
+        "home_wins": 0,
+        "away_wins": 0,
+        "meetings": [],
+        "source": "\u2014"
+      },
+      "briefing": {
+        "trend": "Denver Nuggets hold a 74.4% edge.",
+        "matchup": "Both rosters appear healthy \u2014 clean line.",
+        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "injury_notes": "No key injuries."
+      },
+      "live": {
+        "status": "pre",
+        "status_detail": "Upcoming",
+        "period": 0,
+        "clock": "",
+        "home_score": 0,
+        "away_score": 0,
+        "spread_alert": null
+      },
+      "news": [
+        {
+          "title": "Nuggets Make Roster Space, Waive Veteran Guard",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/denver-nuggets/waive-lonnie-walker-preseason-roster/",
+          "published": "2026-10-13T00:54:42Z"
+        },
+        {
+          "title": "Kawhi Leonard\u2019s Toronto debut gets final confirmation date",
+          "source": "ClutchPoints",
+          "link": "https://clutchpoints.com/nba/toronto-raptors/raptors-news-kawhi-leonard-toronto-debut-gets-final-confirmation-date",
+          "published": "2026-10-13T00:54:18Z"
+        },
+        {
+          "title": "LeBron James Should Stuff the Stat Sheet with 76ers",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/philadelphia-76ers/lebron-james-should-stuff-the-stat-sheet-with-76ers/",
+          "published": "2026-10-13T00:48:35Z"
+        }
+      ]
+    },
+    {
+      "game": "Miami Heat @ Philadelphia 76ers",
+      "home_team": "Philadelphia 76ers",
+      "away_team": "Miami Heat",
+      "home_abbr": "PHI",
+      "away_abbr": "MIA",
+      "home_ml": "-155",
+      "away_ml": "+130",
+      "home_ml_raw": -155,
+      "away_ml_raw": 130,
+      "home_prob": 58.3,
+      "away_prob": 41.7,
+      "spread": "PHI -3.5",
+      "favorite": "Philadelphia 76ers",
+      "pick": "Philadelphia 76ers",
+      "pick_abbr": "PHI",
+      "moneyline": "-155",
+      "win_probability": 58.3,
+      "confidence": "MEDIUM",
+      "confidence_stars": "\u2605\u2605\u2606",
+      "commence_time": "2026-11-25T22:10:00Z",
+      "line_movement": {
+        "home": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "No movement",
+          "old_ml": "-155",
+          "new_ml": "-155"
+        },
+        "away": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "No movement",
+          "old_ml": "+130",
+          "new_ml": "+130"
+        },
+        "pick": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "No movement",
+          "old_ml": "-155",
+          "new_ml": "-155"
+        },
+        "snapshot_time": "October 13, 2026 at 05:57 PM UTC"
+      },
+      "fatigue": {
+        "home": {
+          "status": "FRESH",
+          "label": "Well rested \u2705",
+          "battery": 100,
+          "last_game": "Oct 10",
+          "days_rest": 4,
+          "games_last_4d": 1,
+          "travel_miles": 273,
+          "travel_desc": "273 mi road trip",
+          "source": "ESPN Scoreboard API"
+        },
+        "away": {
+          "status": "FRESH",
+          "label": "Well rested \u2705",
+          "battery": 100,
+          "last_game": "Oct 10",
+          "days_rest": 4,
+          "games_last_4d": 1,
+          "travel_miles": 0,
+          "travel_desc": "",
+          "source": "ESPN Scoreboard API"
+        }
+      },
+      "edge_factors": [
+        "\ud83d\udcca 16.6pt probability edge"
+      ],
+      "injury_notes": "No key injuries.",
+      "sharp": {
+        "away_t": null,
+        "home_t": null,
+        "source": null,
+        "sharp_signal": null,
+        "sharp_label": "Pending \u2014 check closer to tip-off",
+        "rlm": false
+      },
+      "form": {
+        "home": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        },
+        "away": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        }
+      },
+      "h2h": {
+        "total_meetings": 0,
+        "home_wins": 0,
+        "away_wins": 0,
+        "meetings": [],
+        "source": "\u2014"
+      },
+      "briefing": {
+        "trend": "Philadelphia 76ers hold a 58.3% edge.",
+        "matchup": "Both rosters appear healthy \u2014 clean line.",
+        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "injury_notes": "No key injuries."
+      },
+      "live": {
+        "status": "pre",
+        "status_detail": "Upcoming",
+        "period": 0,
+        "clock": "",
+        "home_score": 0,
+        "away_score": 0,
+        "spread_alert": null
+      },
+      "news": [
+        {
+          "title": "Nuggets Make Roster Space, Waive Veteran Guard",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/denver-nuggets/waive-lonnie-walker-preseason-roster/",
+          "published": "2026-10-13T00:54:42Z"
+        },
+        {
+          "title": "Kawhi Leonard\u2019s Toronto debut gets final confirmation date",
+          "source": "ClutchPoints",
+          "link": "https://clutchpoints.com/nba/toronto-raptors/raptors-news-kawhi-leonard-toronto-debut-gets-final-confirmation-date",
+          "published": "2026-10-13T00:54:18Z"
+        },
+        {
+          "title": "LeBron James Should Stuff the Stat Sheet with 76ers",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/philadelphia-76ers/lebron-james-should-stuff-the-stat-sheet-with-76ers/",
+          "published": "2026-10-13T00:48:35Z"
+        }
+      ]
+    },
+    {
+      "game": "Minnesota Timberwolves @ Oklahoma City Thunder",
+      "home_team": "Oklahoma City Thunder",
+      "away_team": "Minnesota Timberwolves",
+      "home_abbr": "OKC",
+      "away_abbr": "MIN",
+      "home_ml": "-375",
+      "away_ml": "+295",
+      "home_ml_raw": -375,
+      "away_ml_raw": 295,
+      "home_prob": 75.7,
+      "away_prob": 24.3,
+      "spread": "OKC -8.5",
+      "favorite": "Oklahoma City Thunder",
+      "pick": "Oklahoma City Thunder",
+      "pick_abbr": "OKC",
+      "moneyline": "-375",
+      "win_probability": 75.7,
+      "confidence": "HIGH",
+      "confidence_stars": "\u2605\u2605\u2605",
+      "commence_time": "2026-11-26T00:40:00Z",
+      "line_movement": {
+        "home": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "No movement",
+          "old_ml": "-375",
+          "new_ml": "-375"
+        },
+        "away": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "No movement",
+          "old_ml": "+295",
+          "new_ml": "+295"
+        },
+        "pick": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "No movement",
+          "old_ml": "-375",
+          "new_ml": "-375"
+        },
+        "snapshot_time": "October 13, 2026 at 05:57 PM UTC"
+      },
+      "fatigue": {
+        "home": {
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Oct 13",
+          "days_rest": 1,
+          "games_last_4d": 2,
+          "travel_miles": 755,
+          "travel_desc": "755 mi road trip",
+          "source": "ESPN Scoreboard API"
+        },
+        "away": {
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
+          "last_game": "Oct 12",
+          "days_rest": 2,
+          "games_last_4d": 2,
+          "travel_miles": 1016,
+          "travel_desc": "1,016 mi road trip",
+          "source": "ESPN Scoreboard API"
+        }
+      },
+      "edge_factors": [
+        "\ud83d\udcca 51.4pt probability edge"
+      ],
+      "injury_notes": "No key injuries.",
+      "sharp": {
+        "away_t": null,
+        "home_t": null,
+        "source": null,
+        "sharp_signal": null,
+        "sharp_label": "Pending \u2014 check closer to tip-off",
+        "rlm": false
+      },
+      "form": {
+        "home": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        },
+        "away": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        }
+      },
+      "h2h": {
+        "total_meetings": 0,
+        "home_wins": 0,
+        "away_wins": 0,
+        "meetings": [],
+        "source": "\u2014"
+      },
+      "briefing": {
+        "trend": "OKC on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "matchup": "Both rosters appear healthy \u2014 clean line.",
+        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "injury_notes": "No key injuries."
+      },
+      "live": {
+        "status": "pre",
+        "status_detail": "Upcoming",
+        "period": 0,
+        "clock": "",
+        "home_score": 0,
+        "away_score": 0,
+        "spread_alert": null
+      },
+      "news": [
+        {
+          "title": "Nuggets Make Roster Space, Waive Veteran Guard",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/denver-nuggets/waive-lonnie-walker-preseason-roster/",
+          "published": "2026-10-13T00:54:42Z"
+        },
+        {
+          "title": "Kawhi Leonard\u2019s Toronto debut gets final confirmation date",
+          "source": "ClutchPoints",
+          "link": "https://clutchpoints.com/nba/toronto-raptors/raptors-news-kawhi-leonard-toronto-debut-gets-final-confirmation-date",
+          "published": "2026-10-13T00:54:18Z"
+        },
+        {
+          "title": "LeBron James Should Stuff the Stat Sheet with 76ers",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/philadelphia-76ers/lebron-james-should-stuff-the-stat-sheet-with-76ers/",
+          "published": "2026-10-13T00:48:35Z"
+        }
+      ]
+    },
+    {
+      "game": "San Antonio Spurs @ Portland Trail Blazers",
+      "home_team": "Portland Trail Blazers",
+      "away_team": "San Antonio Spurs",
+      "home_abbr": "POR",
+      "away_abbr": "SAS",
+      "home_ml": "+136",
+      "away_ml": "-162",
+      "home_ml_raw": 136,
+      "away_ml_raw": -162,
+      "home_prob": 40.7,
+      "away_prob": 59.3,
+      "spread": "POR +4.5",
+      "favorite": "San Antonio Spurs",
+      "pick": "San Antonio Spurs",
+      "pick_abbr": "SAS",
+      "moneyline": "-162",
+      "win_probability": 59.3,
+      "confidence": "MEDIUM",
+      "confidence_stars": "\u2605\u2605\u2606",
+      "commence_time": "2026-11-26T03:10:00Z",
+      "line_movement": {
+        "home": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "No movement",
+          "old_ml": "+136",
+          "new_ml": "+136"
+        },
+        "away": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "No movement",
+          "old_ml": "-162",
+          "new_ml": "-162"
+        },
+        "pick": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "No movement",
+          "old_ml": "-162",
+          "new_ml": "-162"
+        },
+        "snapshot_time": "October 13, 2026 at 05:57 PM UTC"
+      },
+      "fatigue": {
+        "home": {
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
+          "last_game": "Oct 12",
+          "days_rest": 2,
+          "games_last_4d": 1,
+          "travel_miles": 0,
+          "travel_desc": "",
+          "source": "ESPN Scoreboard API"
+        },
+        "away": {
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
+          "last_game": "Oct 12",
+          "days_rest": 2,
+          "games_last_4d": 2,
+          "travel_miles": 849,
+          "travel_desc": "849 mi road trip",
+          "source": "ESPN Scoreboard API"
+        }
+      },
+      "edge_factors": [
+        "\ud83d\udcca 18.6pt probability edge"
+      ],
+      "injury_notes": "No key injuries.",
+      "sharp": {
+        "away_t": null,
+        "home_t": null,
+        "source": null,
+        "sharp_signal": null,
+        "sharp_label": "Pending \u2014 check closer to tip-off",
+        "rlm": false
+      },
+      "form": {
+        "home": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        },
+        "away": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        }
+      },
+      "h2h": {
+        "total_meetings": 0,
+        "home_wins": 0,
+        "away_wins": 0,
+        "meetings": [],
+        "source": "\u2014"
+      },
+      "briefing": {
+        "trend": "San Antonio Spurs hold a 59.3% edge.",
+        "matchup": "Both rosters appear healthy \u2014 clean line.",
+        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "injury_notes": "No key injuries."
+      },
+      "live": {
+        "status": "pre",
+        "status_detail": "Upcoming",
+        "period": 0,
+        "clock": "",
+        "home_score": 0,
+        "away_score": 0,
+        "spread_alert": null
+      },
+      "news": [
+        {
+          "title": "Nuggets Make Roster Space, Waive Veteran Guard",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/denver-nuggets/waive-lonnie-walker-preseason-roster/",
+          "published": "2026-10-13T00:54:42Z"
+        },
+        {
+          "title": "Kawhi Leonard\u2019s Toronto debut gets final confirmation date",
+          "source": "ClutchPoints",
+          "link": "https://clutchpoints.com/nba/toronto-raptors/raptors-news-kawhi-leonard-toronto-debut-gets-final-confirmation-date",
+          "published": "2026-10-13T00:54:18Z"
+        },
+        {
+          "title": "LeBron James Should Stuff the Stat Sheet with 76ers",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/philadelphia-76ers/lebron-james-should-stuff-the-stat-sheet-with-76ers/",
+          "published": "2026-10-13T00:48:35Z"
+        }
+      ]
+    },
+    {
+      "game": "Miami Heat @ New York Knicks",
+      "home_team": "New York Knicks",
+      "away_team": "Miami Heat",
+      "home_abbr": "NYK",
+      "away_abbr": "MIA",
+      "home_ml": "-185",
+      "away_ml": "+154",
+      "home_ml_raw": -185,
+      "away_ml_raw": 154,
+      "home_prob": 62.2,
+      "away_prob": 37.8,
+      "spread": "NYK -5.5",
+      "favorite": "New York Knicks",
+      "pick": "New York Knicks",
+      "pick_abbr": "NYK",
+      "moneyline": "-185",
+      "win_probability": 62.2,
+      "confidence": "MEDIUM",
+      "confidence_stars": "\u2605\u2605\u2606",
+      "commence_time": "2026-11-28T00:10:00Z",
+      "line_movement": {
+        "home": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "No movement",
+          "old_ml": "-185",
+          "new_ml": "-185"
+        },
+        "away": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "No movement",
+          "old_ml": "+154",
+          "new_ml": "+154"
+        },
+        "pick": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "No movement",
+          "old_ml": "-185",
+          "new_ml": "-185"
+        },
+        "snapshot_time": "October 13, 2026 at 05:57 PM UTC"
+      },
+      "fatigue": {
+        "home": {
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Oct 13",
+          "days_rest": 1,
+          "games_last_4d": 2,
+          "travel_miles": 340,
+          "travel_desc": "340 mi road trip",
+          "source": "ESPN Scoreboard API"
+        },
+        "away": {
+          "status": "FRESH",
+          "label": "Well rested \u2705",
+          "battery": 100,
+          "last_game": "Oct 10",
+          "days_rest": 4,
+          "games_last_4d": 1,
+          "travel_miles": 0,
+          "travel_desc": "",
+          "source": "ESPN Scoreboard API"
+        }
+      },
+      "edge_factors": [
+        "\ud83d\udcca 24.4pt probability edge"
+      ],
+      "injury_notes": "No key injuries.",
+      "sharp": {
+        "away_t": null,
+        "home_t": null,
+        "source": null,
+        "sharp_signal": null,
+        "sharp_label": "Pending \u2014 check closer to tip-off",
+        "rlm": false
+      },
+      "form": {
+        "home": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        },
+        "away": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        }
+      },
+      "h2h": {
+        "total_meetings": 0,
+        "home_wins": 0,
+        "away_wins": 0,
+        "meetings": [],
+        "source": "\u2014"
+      },
+      "briefing": {
+        "trend": "NYK on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "matchup": "Both rosters appear healthy \u2014 clean line.",
+        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "injury_notes": "No key injuries."
+      },
+      "live": {
+        "status": "pre",
+        "status_detail": "Upcoming",
+        "period": 0,
+        "clock": "",
+        "home_score": 0,
+        "away_score": 0,
+        "spread_alert": null
+      },
+      "news": [
+        {
+          "title": "Nuggets Make Roster Space, Waive Veteran Guard",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/denver-nuggets/waive-lonnie-walker-preseason-roster/",
+          "published": "2026-10-13T00:54:42Z"
+        },
+        {
+          "title": "Kawhi Leonard\u2019s Toronto debut gets final confirmation date",
+          "source": "ClutchPoints",
+          "link": "https://clutchpoints.com/nba/toronto-raptors/raptors-news-kawhi-leonard-toronto-debut-gets-final-confirmation-date",
+          "published": "2026-10-13T00:54:18Z"
+        },
+        {
+          "title": "LeBron James Should Stuff the Stat Sheet with 76ers",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/philadelphia-76ers/lebron-james-should-stuff-the-stat-sheet-with-76ers/",
+          "published": "2026-10-13T00:48:35Z"
+        }
+      ]
+    },
+    {
+      "game": "Los Angeles Lakers @ San Antonio Spurs",
+      "home_team": "San Antonio Spurs",
+      "away_team": "Los Angeles Lakers",
+      "home_abbr": "SAS",
+      "away_abbr": "LAL",
+      "home_ml": "-245",
+      "away_ml": "+200",
+      "home_ml_raw": -245,
+      "away_ml_raw": 200,
+      "home_prob": 68.1,
+      "away_prob": 31.9,
+      "spread": "SAS -7.5",
+      "favorite": "San Antonio Spurs",
+      "pick": "San Antonio Spurs",
+      "pick_abbr": "SAS",
+      "moneyline": "-245",
+      "win_probability": 68.1,
+      "confidence": "MEDIUM",
+      "confidence_stars": "\u2605\u2605\u2606",
+      "commence_time": "2026-11-28T02:40:00Z",
+      "line_movement": {
+        "home": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "No movement",
+          "old_ml": "-245",
+          "new_ml": "-245"
+        },
+        "away": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "No movement",
+          "old_ml": "+200",
+          "new_ml": "+200"
+        },
+        "pick": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "No movement",
+          "old_ml": "-245",
+          "new_ml": "-245"
+        },
+        "snapshot_time": "October 13, 2026 at 05:57 PM UTC"
+      },
+      "fatigue": {
+        "home": {
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
+          "last_game": "Oct 12",
+          "days_rest": 2,
+          "games_last_4d": 2,
+          "travel_miles": 849,
+          "travel_desc": "849 mi road trip",
+          "source": "ESPN Scoreboard API"
+        },
+        "away": {
+          "status": "FRESH",
+          "label": "Well rested \u2705",
+          "battery": 100,
+          "last_game": "\u2014",
+          "days_rest": 99,
+          "games_last_4d": 0,
+          "travel_miles": 0,
+          "travel_desc": "",
+          "source": "ESPN Scoreboard API"
+        }
+      },
+      "edge_factors": [
+        "\ud83d\udcca 36.2pt probability edge"
+      ],
+      "injury_notes": "No key injuries.",
+      "sharp": {
+        "away_t": null,
+        "home_t": null,
+        "source": null,
+        "sharp_signal": null,
+        "sharp_label": "Pending \u2014 check closer to tip-off",
+        "rlm": false
+      },
+      "form": {
+        "home": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        },
+        "away": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        }
+      },
+      "h2h": {
+        "total_meetings": 0,
+        "home_wins": 0,
+        "away_wins": 0,
+        "meetings": [],
+        "source": "\u2014"
+      },
+      "briefing": {
+        "trend": "San Antonio Spurs hold a 68.1% edge.",
+        "matchup": "Both rosters appear healthy \u2014 clean line.",
+        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "injury_notes": "No key injuries."
+      },
+      "live": {
+        "status": "pre",
+        "status_detail": "Upcoming",
+        "period": 0,
+        "clock": "",
+        "home_score": 0,
+        "away_score": 0,
+        "spread_alert": null
+      },
+      "news": [
+        {
+          "title": "Nuggets Make Roster Space, Waive Veteran Guard",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/denver-nuggets/waive-lonnie-walker-preseason-roster/",
+          "published": "2026-10-13T00:54:42Z"
+        },
+        {
+          "title": "Kawhi Leonard\u2019s Toronto debut gets final confirmation date",
+          "source": "ClutchPoints",
+          "link": "https://clutchpoints.com/nba/toronto-raptors/raptors-news-kawhi-leonard-toronto-debut-gets-final-confirmation-date",
+          "published": "2026-10-13T00:54:18Z"
+        },
+        {
+          "title": "LeBron James Should Stuff the Stat Sheet with 76ers",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/philadelphia-76ers/lebron-james-should-stuff-the-stat-sheet-with-76ers/",
+          "published": "2026-10-13T00:48:35Z"
+        }
+      ]
+    },
+    {
+      "game": "San Antonio Spurs @ New York Knicks",
+      "home_team": "New York Knicks",
+      "away_team": "San Antonio Spurs",
+      "home_abbr": "NYK",
+      "away_abbr": "SAS",
+      "home_ml": "-115",
+      "away_ml": "-105",
+      "home_ml_raw": -115,
+      "away_ml_raw": -105,
+      "home_prob": 51.1,
+      "away_prob": 48.9,
+      "spread": "NYK -1.5",
+      "favorite": "New York Knicks",
+      "pick": "New York Knicks",
+      "pick_abbr": "NYK",
+      "moneyline": "-115",
+      "win_probability": 51.1,
+      "confidence": "LOW",
+      "confidence_stars": "\u2605\u2606\u2606",
+      "commence_time": "2026-12-25T17:00:00Z",
+      "line_movement": {
+        "home": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "No movement",
+          "old_ml": "-115",
+          "new_ml": "-115"
+        },
+        "away": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "No movement",
+          "old_ml": "-105",
+          "new_ml": "-105"
+        },
+        "pick": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "No movement",
+          "old_ml": "-115",
+          "new_ml": "-115"
+        },
+        "snapshot_time": "October 13, 2026 at 05:57 PM UTC"
+      },
+      "fatigue": {
+        "home": {
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Oct 13",
+          "days_rest": 1,
+          "games_last_4d": 2,
+          "travel_miles": 340,
+          "travel_desc": "340 mi road trip",
+          "source": "ESPN Scoreboard API"
+        },
+        "away": {
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
+          "last_game": "Oct 12",
+          "days_rest": 2,
+          "games_last_4d": 2,
+          "travel_miles": 849,
+          "travel_desc": "849 mi road trip",
+          "source": "ESPN Scoreboard API"
+        }
+      },
+      "edge_factors": [
+        "\ud83d\udcca 2.2pt probability edge"
+      ],
+      "injury_notes": "No key injuries.",
+      "sharp": {
+        "away_t": null,
+        "home_t": null,
+        "source": null,
+        "sharp_signal": null,
+        "sharp_label": "Pending \u2014 check closer to tip-off",
+        "rlm": false
+      },
+      "form": {
+        "home": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        },
+        "away": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        }
+      },
+      "h2h": {
+        "total_meetings": 0,
+        "home_wins": 0,
+        "away_wins": 0,
+        "meetings": [],
+        "source": "\u2014"
+      },
+      "briefing": {
+        "trend": "NYK on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "matchup": "Both rosters appear healthy \u2014 clean line.",
+        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "injury_notes": "No key injuries."
+      },
+      "live": {
+        "status": "pre",
+        "status_detail": "Upcoming",
+        "period": 0,
+        "clock": "",
+        "home_score": 0,
+        "away_score": 0,
+        "spread_alert": null
+      },
+      "news": [
+        {
+          "title": "Nuggets Make Roster Space, Waive Veteran Guard",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/denver-nuggets/waive-lonnie-walker-preseason-roster/",
+          "published": "2026-10-13T00:54:42Z"
+        },
+        {
+          "title": "Kawhi Leonard\u2019s Toronto debut gets final confirmation date",
+          "source": "ClutchPoints",
+          "link": "https://clutchpoints.com/nba/toronto-raptors/raptors-news-kawhi-leonard-toronto-debut-gets-final-confirmation-date",
+          "published": "2026-10-13T00:54:18Z"
+        },
+        {
+          "title": "LeBron James Should Stuff the Stat Sheet with 76ers",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/philadelphia-76ers/lebron-james-should-stuff-the-stat-sheet-with-76ers/",
+          "published": "2026-10-13T00:48:35Z"
+        }
+      ]
+    },
+    {
+      "game": "Miami Heat @ Boston Celtics",
+      "home_team": "Boston Celtics",
+      "away_team": "Miami Heat",
+      "home_abbr": "BOS",
+      "away_abbr": "MIA",
+      "home_ml": "-185",
+      "away_ml": "+154",
+      "home_ml_raw": -185,
+      "away_ml_raw": 154,
+      "home_prob": 62.2,
+      "away_prob": 37.8,
+      "spread": "BOS -5.5",
+      "favorite": "Boston Celtics",
+      "pick": "Boston Celtics",
+      "pick_abbr": "BOS",
+      "moneyline": "-185",
+      "win_probability": 62.2,
+      "confidence": "MEDIUM",
+      "confidence_stars": "\u2605\u2605\u2606",
+      "commence_time": "2026-12-25T19:30:00Z",
+      "line_movement": {
+        "home": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "No movement",
+          "old_ml": "-185",
+          "new_ml": "-185"
+        },
+        "away": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "No movement",
+          "old_ml": "+154",
+          "new_ml": "+154"
+        },
+        "pick": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "No movement",
+          "old_ml": "-185",
+          "new_ml": "-185"
+        },
+        "snapshot_time": "October 13, 2026 at 05:57 PM UTC"
+      },
+      "fatigue": {
+        "home": {
+          "status": "FRESH",
+          "label": "Well rested \u2705",
+          "battery": 100,
+          "last_game": "Oct 10",
+          "days_rest": 4,
+          "games_last_4d": 1,
+          "travel_miles": 0,
+          "travel_desc": "",
+          "source": "ESPN Scoreboard API"
+        },
+        "away": {
+          "status": "FRESH",
+          "label": "Well rested \u2705",
+          "battery": 100,
+          "last_game": "Oct 10",
+          "days_rest": 4,
+          "games_last_4d": 1,
+          "travel_miles": 0,
+          "travel_desc": "",
+          "source": "ESPN Scoreboard API"
+        }
+      },
+      "edge_factors": [
+        "\ud83d\udcca 24.4pt probability edge"
+      ],
+      "injury_notes": "No key injuries.",
+      "sharp": {
+        "away_t": null,
+        "home_t": null,
+        "source": null,
+        "sharp_signal": null,
+        "sharp_label": "Pending \u2014 check closer to tip-off",
+        "rlm": false
+      },
+      "form": {
+        "home": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        },
+        "away": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        }
+      },
+      "h2h": {
+        "total_meetings": 0,
+        "home_wins": 0,
+        "away_wins": 0,
+        "meetings": [],
+        "source": "\u2014"
+      },
+      "briefing": {
+        "trend": "Boston Celtics hold a 62.2% edge.",
+        "matchup": "Both rosters appear healthy \u2014 clean line.",
+        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "injury_notes": "No key injuries."
+      },
+      "live": {
+        "status": "pre",
+        "status_detail": "Upcoming",
+        "period": 0,
+        "clock": "",
+        "home_score": 0,
+        "away_score": 0,
+        "spread_alert": null
+      },
+      "news": [
+        {
+          "title": "Nuggets Make Roster Space, Waive Veteran Guard",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/denver-nuggets/waive-lonnie-walker-preseason-roster/",
+          "published": "2026-10-13T00:54:42Z"
+        },
+        {
+          "title": "Kawhi Leonard\u2019s Toronto debut gets final confirmation date",
+          "source": "ClutchPoints",
+          "link": "https://clutchpoints.com/nba/toronto-raptors/raptors-news-kawhi-leonard-toronto-debut-gets-final-confirmation-date",
+          "published": "2026-10-13T00:54:18Z"
+        },
+        {
+          "title": "LeBron James Should Stuff the Stat Sheet with 76ers",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/philadelphia-76ers/lebron-james-should-stuff-the-stat-sheet-with-76ers/",
+          "published": "2026-10-13T00:48:35Z"
+        }
+      ]
     },
     {
       "game": "Philadelphia 76ers @ Los Angeles Lakers",
@@ -5466,7 +6283,7 @@
           "old_ml": "-115",
           "new_ml": "-115"
         },
-        "snapshot_time": "October 13, 2026 at 06:11 AM UTC"
+        "snapshot_time": "October 13, 2026 at 05:57 PM UTC"
       },
       "fatigue": {
         "home": {
@@ -5481,11 +6298,11 @@
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "RESTED",
-          "label": "2 days rest \u2705",
-          "battery": 88,
+          "status": "FRESH",
+          "label": "Well rested \u2705",
+          "battery": 100,
           "last_game": "Oct 10",
-          "days_rest": 3,
+          "days_rest": 4,
           "games_last_4d": 1,
           "travel_miles": 273,
           "travel_desc": "273 mi road trip",
@@ -5544,7 +6361,26 @@
         "away_score": 0,
         "spread_alert": null
       },
-      "news": []
+      "news": [
+        {
+          "title": "Nuggets Make Roster Space, Waive Veteran Guard",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/denver-nuggets/waive-lonnie-walker-preseason-roster/",
+          "published": "2026-10-13T00:54:42Z"
+        },
+        {
+          "title": "Kawhi Leonard\u2019s Toronto debut gets final confirmation date",
+          "source": "ClutchPoints",
+          "link": "https://clutchpoints.com/nba/toronto-raptors/raptors-news-kawhi-leonard-toronto-debut-gets-final-confirmation-date",
+          "published": "2026-10-13T00:54:18Z"
+        },
+        {
+          "title": "LeBron James Should Stuff the Stat Sheet with 76ers",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/philadelphia-76ers/lebron-james-should-stuff-the-stat-sheet-with-76ers/",
+          "published": "2026-10-13T00:48:35Z"
+        }
+      ]
     },
     {
       "game": "Oklahoma City Thunder @ Minnesota Timberwolves",
@@ -5592,15 +6428,15 @@
           "old_ml": "-155",
           "new_ml": "-155"
         },
-        "snapshot_time": "October 13, 2026 at 06:11 AM UTC"
+        "snapshot_time": "October 13, 2026 at 05:57 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
           "last_game": "Oct 12",
-          "days_rest": 1,
+          "days_rest": 2,
           "games_last_4d": 2,
           "travel_miles": 1016,
           "travel_desc": "1,016 mi road trip",
@@ -5610,16 +6446,16 @@
           "status": "B2B",
           "label": "Back-to-Back \u26a0\ufe0f",
           "battery": 20,
-          "last_game": "Oct 12",
+          "last_game": "Oct 13",
           "days_rest": 1,
-          "games_last_4d": 1,
+          "games_last_4d": 2,
           "travel_miles": 755,
           "travel_desc": "755 mi road trip",
           "source": "ESPN Scoreboard API"
         }
       },
       "edge_factors": [
-        "\ud83d\udca4 MIN fatigued (B2B) \u2014 source: ESPN"
+        "\ud83d\udcca 16.6pt probability edge"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -5656,7 +6492,7 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "MIN on Back-to-Back \u26a0\ufe0f per ESPN schedule data. OKC on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "trend": "OKC on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
         "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
@@ -5670,7 +6506,26 @@
         "away_score": 0,
         "spread_alert": null
       },
-      "news": []
+      "news": [
+        {
+          "title": "Nuggets Make Roster Space, Waive Veteran Guard",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/denver-nuggets/waive-lonnie-walker-preseason-roster/",
+          "published": "2026-10-13T00:54:42Z"
+        },
+        {
+          "title": "Kawhi Leonard\u2019s Toronto debut gets final confirmation date",
+          "source": "ClutchPoints",
+          "link": "https://clutchpoints.com/nba/toronto-raptors/raptors-news-kawhi-leonard-toronto-debut-gets-final-confirmation-date",
+          "published": "2026-10-13T00:54:18Z"
+        },
+        {
+          "title": "LeBron James Should Stuff the Stat Sheet with 76ers",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/philadelphia-76ers/lebron-james-should-stuff-the-stat-sheet-with-76ers/",
+          "published": "2026-10-13T00:48:35Z"
+        }
+      ]
     },
     {
       "game": "Denver Nuggets @ Golden State Warriors",
@@ -5718,26 +6573,26 @@
           "old_ml": "-130",
           "new_ml": "-130"
         },
-        "snapshot_time": "October 13, 2026 at 06:11 AM UTC"
+        "snapshot_time": "October 13, 2026 at 05:57 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "RESTED",
-          "label": "2 days rest \u2705",
-          "battery": 88,
+          "status": "FRESH",
+          "label": "Well rested \u2705",
+          "battery": 100,
           "last_game": "Oct 10",
-          "days_rest": 3,
+          "days_rest": 4,
           "games_last_4d": 1,
           "travel_miles": 0,
           "travel_desc": "",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
+          "status": "RESTED",
+          "label": "2 days rest \u2705",
+          "battery": 88,
           "last_game": "Oct 11",
-          "days_rest": 2,
+          "days_rest": 3,
           "games_last_4d": 1,
           "travel_miles": 0,
           "travel_desc": "",
@@ -5796,7 +6651,26 @@
         "away_score": 0,
         "spread_alert": null
       },
-      "news": []
+      "news": [
+        {
+          "title": "Nuggets Make Roster Space, Waive Veteran Guard",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/denver-nuggets/waive-lonnie-walker-preseason-roster/",
+          "published": "2026-10-13T00:54:42Z"
+        },
+        {
+          "title": "Kawhi Leonard\u2019s Toronto debut gets final confirmation date",
+          "source": "ClutchPoints",
+          "link": "https://clutchpoints.com/nba/toronto-raptors/raptors-news-kawhi-leonard-toronto-debut-gets-final-confirmation-date",
+          "published": "2026-10-13T00:54:18Z"
+        },
+        {
+          "title": "LeBron James Should Stuff the Stat Sheet with 76ers",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/philadelphia-76ers/lebron-james-should-stuff-the-stat-sheet-with-76ers/",
+          "published": "2026-10-13T00:48:35Z"
+        }
+      ]
     }
   ],
   "track_record": {
