@@ -560,9 +560,11 @@
       "win_probability": 52.2,
       "commence_time": "2026-10-21T01:30:00Z",
       "date": "2026-08-19T05:34:46.875909+00:00",
-      "graded": false,
-      "result": null,
-      "profit": null
+      "graded": true,
+      "result": "LOSS",
+      "profit": -100,
+      "home_score": 104,
+      "away_score": 116
     },
     {
       "game": "San Antonio Spurs @ New York Knicks",
@@ -652,11 +654,11 @@
   "summary": {
     "LOW": {
       "wins": 1,
-      "losses": 0,
-      "total": 1,
-      "win_pct": 100.0,
-      "roi": 80.0,
-      "profit": 80.0
+      "losses": 1,
+      "total": 2,
+      "win_pct": 50.0,
+      "roi": -10.0,
+      "profit": -20.0
     },
     "MEDIUM": {
       "wins": 0,
@@ -683,5 +685,5 @@
       "profit": 0
     }
   },
-  "last_graded": "2026-10-21T03:58:36.798864+00:00"
+  "last_graded": "2026-10-21T09:17:15.814562+00:00"
 }
