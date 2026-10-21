@@ -10,9 +10,11 @@
       "win_probability": 53.2,
       "commence_time": "2026-10-20T19:00:00Z",
       "date": "2026-08-11T22:41:54.716227+00:00",
-      "graded": false,
-      "result": null,
-      "profit": null
+      "graded": true,
+      "result": "WIN",
+      "profit": 80.0,
+      "home_score": 121,
+      "away_score": 113
     },
     {
       "game": "Philadelphia 76ers @ New York Knicks",
@@ -647,45 +649,29 @@
   ],
   "summary": {
     "LOW": {
-      "wins": 23,
-      "losses": 22,
-      "total": 45,
-      "win_pct": 51.1,
-      "roi": -2.9,
-      "profit": -132.35
-    },
-    "HIGH": {
-      "wins": 41,
-      "losses": 6,
-      "total": 47,
-      "win_pct": 87.2,
-      "roi": -2.7,
-      "profit": -125.3
-    },
-    "MEDIUM": {
-      "wins": 31,
-      "losses": 13,
-      "total": 44,
-      "win_pct": 70.5,
-      "roi": 3.3,
-      "profit": 143.69
+      "wins": 1,
+      "losses": 0,
+      "total": 1,
+      "win_pct": 100.0,
+      "roi": 80.0,
+      "profit": 80.0
     },
     "overall_7d": {
       "wins": 0,
-      "losses": 1,
-      "total": 1,
-      "win_pct": 0.0,
-      "roi": -100.0,
-      "profit": -100
+      "losses": 0,
+      "total": 0,
+      "win_pct": 0,
+      "roi": 0,
+      "profit": 0
     },
     "overall_30d": {
-      "wins": 1,
-      "losses": 3,
-      "total": 4,
-      "win_pct": 25.0,
-      "roi": -65.3,
-      "profit": -261.24
+      "wins": 0,
+      "losses": 0,
+      "total": 0,
+      "win_pct": 0,
+      "roi": 0,
+      "profit": 0
     }
   },
-  "last_graded": "2026-06-09T03:56:02.820767+00:00"
+  "last_graded": "2026-10-21T00:23:26.841041+00:00"
 }
