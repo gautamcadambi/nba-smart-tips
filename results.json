@@ -58,9 +58,11 @@
       "win_probability": 63.7,
       "commence_time": "2026-10-22T02:10:00Z",
       "date": "2026-08-11T22:41:54.716227+00:00",
-      "graded": false,
-      "result": null,
-      "profit": null
+      "graded": true,
+      "result": "WIN",
+      "profit": 50.51,
+      "home_score": 127,
+      "away_score": 105
     },
     {
       "game": "Cleveland Cavaliers @ Philadelphia 76ers",
@@ -560,9 +562,11 @@
       "win_probability": 60.0,
       "commence_time": "2026-10-22T02:10:00Z",
       "date": "2026-08-13T22:42:12.697611+00:00",
-      "graded": false,
-      "result": null,
-      "profit": null
+      "graded": true,
+      "result": "WIN",
+      "profit": 60.24,
+      "home_score": 124,
+      "away_score": 83
     },
     {
       "game": "Oklahoma City Thunder @ San Antonio Spurs",
@@ -662,9 +666,11 @@
       "win_probability": 50.0,
       "commence_time": "2026-10-22T02:40:00Z",
       "date": "2026-10-05T12:08:49.014340+00:00",
-      "graded": false,
-      "result": null,
-      "profit": null
+      "graded": true,
+      "result": "WIN",
+      "profit": 100,
+      "home_score": 121,
+      "away_score": 96
     },
     {
       "game": "Minnesota Timberwolves @ Orlando Magic",
@@ -693,24 +699,136 @@
       "graded": false,
       "result": null,
       "profit": null
+    },
+    {
+      "game": "Chicago Bulls @ Milwaukee Bucks",
+      "pick": "Milwaukee Bucks",
+      "pick_abbr": "MIL",
+      "moneyline": "-110",
+      "moneyline_raw": -110,
+      "confidence": "LOW",
+      "win_probability": 50.0,
+      "commence_time": "2026-10-23T20:10:00Z",
+      "date": "2026-10-22T09:21:23.061302+00:00",
+      "graded": false,
+      "result": null,
+      "profit": null
+    },
+    {
+      "game": "Atlanta Hawks @ Charlotte Hornets",
+      "pick": "Atlanta Hawks",
+      "pick_abbr": "ATL",
+      "moneyline": "-142",
+      "moneyline_raw": -142,
+      "confidence": "LOW",
+      "win_probability": 56.3,
+      "commence_time": "2026-10-23T23:10:00Z",
+      "date": "2026-10-22T09:21:23.061302+00:00",
+      "graded": false,
+      "result": null,
+      "profit": null
+    },
+    {
+      "game": "Dallas Mavericks @ Indiana Pacers",
+      "pick": "Indiana Pacers",
+      "pick_abbr": "IND",
+      "moneyline": "-218",
+      "moneyline_raw": -218,
+      "confidence": "MEDIUM",
+      "win_probability": 65.7,
+      "commence_time": "2026-10-23T23:10:00Z",
+      "date": "2026-10-22T09:21:23.061302+00:00",
+      "graded": false,
+      "result": null,
+      "profit": null
+    },
+    {
+      "game": "Toronto Raptors @ Washington Wizards",
+      "pick": "Toronto Raptors",
+      "pick_abbr": "TOR",
+      "moneyline": "-185",
+      "moneyline_raw": -185,
+      "confidence": "MEDIUM",
+      "win_probability": 62.2,
+      "commence_time": "2026-10-23T23:10:00Z",
+      "date": "2026-10-22T09:21:23.061302+00:00",
+      "graded": false,
+      "result": null,
+      "profit": null
+    },
+    {
+      "game": "New Orleans Pelicans @ Utah Jazz",
+      "pick": "Utah Jazz",
+      "pick_abbr": "UTA",
+      "moneyline": "-192",
+      "moneyline_raw": -192,
+      "confidence": "MEDIUM",
+      "win_probability": 63.1,
+      "commence_time": "2026-10-24T01:40:00Z",
+      "date": "2026-10-22T09:21:23.061302+00:00",
+      "graded": false,
+      "result": null,
+      "profit": null
+    },
+    {
+      "game": "Memphis Grizzlies @ Golden State Warriors",
+      "pick": "Golden State Warriors",
+      "pick_abbr": "GSW",
+      "moneyline": "-155",
+      "moneyline_raw": -155,
+      "confidence": "MEDIUM",
+      "win_probability": 58.3,
+      "commence_time": "2026-10-24T02:10:00Z",
+      "date": "2026-10-22T09:21:23.061302+00:00",
+      "graded": false,
+      "result": null,
+      "profit": null
+    },
+    {
+      "game": "Los Angeles Clippers @ Los Angeles Lakers",
+      "pick": "Los Angeles Lakers",
+      "pick_abbr": "LAL",
+      "moneyline": "-380",
+      "moneyline_raw": -380,
+      "confidence": "HIGH",
+      "win_probability": 76.0,
+      "commence_time": "2026-10-24T02:10:00Z",
+      "date": "2026-10-22T09:21:23.061302+00:00",
+      "graded": false,
+      "result": null,
+      "profit": null
+    },
+    {
+      "game": "Portland Trail Blazers @ Sacramento Kings",
+      "pick": "Portland Trail Blazers",
+      "pick_abbr": "POR",
+      "moneyline": "-258",
+      "moneyline_raw": -258,
+      "confidence": "MEDIUM",
+      "win_probability": 69.1,
+      "commence_time": "2026-10-24T02:10:00Z",
+      "date": "2026-10-22T09:21:23.061302+00:00",
+      "graded": false,
+      "result": null,
+      "profit": null
     }
   ],
   "summary": {
     "LOW": {
-      "wins": 2,
+      "wins": 3,
       "losses": 3,
-      "total": 5,
-      "win_pct": 40.0,
-      "roi": -24.0,
-      "profit": -120.0
+      "total": 6,
+      "win_pct": 50.0,
+      "roi": -3.3,
+      "profit": -20.0
     },
     "MEDIUM": {
-      "wins": 3,
+      "wins": 5,
       "losses": 2,
-      "total": 5,
-      "win_pct": 60.0,
-      "roi": -7.5,
-      "profit": -37.43
+      "total": 7,
+      "win_pct": 71.4,
+      "roi": 10.5,
+      "profit": 73.32
     },
     "HIGH": {
       "wins": 1,
@@ -729,13 +847,13 @@
       "profit": 0
     },
     "overall_30d": {
-      "wins": 1,
+      "wins": 2,
       "losses": 0,
-      "total": 1,
+      "total": 2,
       "win_pct": 100.0,
       "roi": 100.0,
-      "profit": 100
+      "profit": 200
     }
   },
-  "last_graded": "2026-10-22T03:59:04.041238+00:00"
+  "last_graded": "2026-10-22T09:20:23.010653+00:00"
 }
