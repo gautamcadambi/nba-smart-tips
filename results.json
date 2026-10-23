@@ -90,9 +90,11 @@
       "win_probability": 70.5,
       "commence_time": "2026-10-23T01:40:00Z",
       "date": "2026-08-11T22:41:54.716227+00:00",
-      "graded": false,
-      "result": null,
-      "profit": null
+      "graded": true,
+      "result": "WIN",
+      "profit": 35.97,
+      "home_score": 96,
+      "away_score": 84
     },
     {
       "game": "New York Knicks @ Boston Celtics",
@@ -825,12 +827,12 @@
       "profit": -20.0
     },
     "MEDIUM": {
-      "wins": 6,
+      "wins": 7,
       "losses": 2,
-      "total": 8,
-      "win_pct": 75.0,
-      "roi": 16.5,
-      "profit": 132.14
+      "total": 9,
+      "win_pct": 77.8,
+      "roi": 18.7,
+      "profit": 168.11
     },
     "HIGH": {
       "wins": 1,
@@ -857,5 +859,5 @@
       "profit": 200
     }
   },
-  "last_graded": "2026-10-23T04:02:15.846182+00:00"
+  "last_graded": "2026-10-23T09:24:51.441923+00:00"
 }
