@@ -74,9 +74,11 @@
       "win_probability": 60.4,
       "commence_time": "2026-10-22T23:10:00Z",
       "date": "2026-08-11T22:41:54.716227+00:00",
-      "graded": false,
-      "result": null,
-      "profit": null
+      "graded": true,
+      "result": "WIN",
+      "profit": 58.82,
+      "home_score": 114,
+      "away_score": 106
     },
     {
       "game": "Denver Nuggets @ Oklahoma City Thunder",
@@ -823,12 +825,12 @@
       "profit": -20.0
     },
     "MEDIUM": {
-      "wins": 5,
+      "wins": 6,
       "losses": 2,
-      "total": 7,
-      "win_pct": 71.4,
-      "roi": 10.5,
-      "profit": 73.32
+      "total": 8,
+      "win_pct": 75.0,
+      "roi": 16.5,
+      "profit": 132.14
     },
     "HIGH": {
       "wins": 1,
@@ -855,5 +857,5 @@
       "profit": 200
     }
   },
-  "last_graded": "2026-10-22T09:20:23.010653+00:00"
+  "last_graded": "2026-10-23T04:02:15.846182+00:00"
 }
