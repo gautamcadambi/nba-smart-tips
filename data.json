@@ -1,737 +1,7 @@
 {
-  "last_updated": "October 24, 2026 at 03:57 AM UTC",
-  "total_games": 18,
+  "last_updated": "October 24, 2026 at 08:48 AM UTC",
+  "total_games": 13,
   "games": [
-    {
-      "game": "New Orleans Pelicans @ Utah Jazz",
-      "home_team": "Utah Jazz",
-      "away_team": "New Orleans Pelicans",
-      "home_abbr": "UTA",
-      "away_abbr": "NOP",
-      "home_ml": "-250",
-      "away_ml": "+185",
-      "home_ml_raw": -250,
-      "away_ml_raw": 185,
-      "home_prob": 67.1,
-      "away_prob": 32.9,
-      "spread": "UTA -2.5",
-      "favorite": "Utah Jazz",
-      "pick": "Utah Jazz",
-      "pick_abbr": "UTA",
-      "moneyline": "-250",
-      "win_probability": 67.1,
-      "confidence": "MEDIUM",
-      "confidence_stars": "\u2605\u2605\u2606",
-      "commence_time": "2026-10-24T01:43:00Z",
-      "line_movement": {
-        "home": {
-          "direction": "shorter",
-          "points_moved": 138,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -250 \u2190 -112",
-          "old_ml": "-112",
-          "new_ml": "-250"
-        },
-        "away": {
-          "direction": "longer",
-          "points_moved": 293,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM +185 \u2190 -108",
-          "old_ml": "-108",
-          "new_ml": "+185"
-        },
-        "pick": {
-          "direction": "shorter",
-          "points_moved": 138,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -250 \u2190 -112",
-          "old_ml": "-112",
-          "new_ml": "-250"
-        },
-        "snapshot_time": "October 24, 2026 at 12:18 AM UTC"
-      },
-      "fatigue": {
-        "home": {
-          "status": "FRESH",
-          "label": "Well rested \u2705",
-          "battery": 100,
-          "last_game": "\u2014",
-          "days_rest": 99,
-          "games_last_4d": 0,
-          "travel_miles": 0,
-          "travel_desc": "",
-          "source": "ESPN Scoreboard API"
-        },
-        "away": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
-          "last_game": "Oct 23",
-          "days_rest": 1,
-          "games_last_4d": 2,
-          "travel_miles": 0,
-          "travel_desc": "",
-          "source": "ESPN Scoreboard API"
-        }
-      },
-      "edge_factors": [
-        "\ud83d\udd25 Sharp steam detected",
-        "\ud83d\udca4 NOP fatigued (B2B) \u2014 source: ESPN"
-      ],
-      "injury_notes": "No key injuries.",
-      "sharp": {
-        "away_t": null,
-        "home_t": null,
-        "source": null,
-        "sharp_signal": null,
-        "sharp_label": "Pending \u2014 check closer to tip-off",
-        "rlm": false
-      },
-      "form": {
-        "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        },
-        "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        }
-      },
-      "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
-      },
-      "briefing": {
-        "trend": "NOP on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -112 to -250 (138pt move) \u2014 heavy professional action on Utah Jazz.",
-        "injury_notes": "No key injuries."
-      },
-      "live": {
-        "status": "pre",
-        "status_detail": "Upcoming",
-        "period": 0,
-        "clock": "",
-        "home_score": 0,
-        "away_score": 0,
-        "spread_alert": null
-      },
-      "news": [
-        {
-          "title": "Tyrese Maxey celebrates Jaylen Brown's immediate impact for the Philadelphia 76ers",
-          "source": "Sporting News",
-          "link": "https://www.sportingnews.com/us/nba/philadelphia-76ers/news/tyrese-maxey-celebrates-jaylen-brown-instant-impact-76ers/45e328bd1dda66299d693693",
-          "published": "2026-10-23T03:49:17Z"
-        },
-        {
-          "title": "Watch Celtics\u2019 Jayson Tatum reveal his stunned reaction to the Jaylen Brown trade",
-          "source": "ClutchPoints",
-          "link": "https://clutchpoints.com/nba/boston-celtics/celtics-news-watch-jayson-tatum-reveal-stunned-reaction-the-jaylen-brown-trade",
-          "published": "2026-10-23T03:43:50Z"
-        },
-        {
-          "title": "Jaylen Brown Helps 76ers Complete Historic 29-Point Comeback",
-          "source": "NESN",
-          "link": "https://nesn.com/boston-celtics/news/jaylen-brown-76ers-historic-comeback-cavaliers/995fa29d21230ca5538d8cdd",
-          "published": "2026-10-23T03:43:18Z"
-        }
-      ]
-    },
-    {
-      "game": "Houston Rockets @ San Antonio Spurs",
-      "home_team": "San Antonio Spurs",
-      "away_team": "Houston Rockets",
-      "home_abbr": "SAS",
-      "away_abbr": "HOU",
-      "home_ml": "-180",
-      "away_ml": "+140",
-      "home_ml_raw": -180,
-      "away_ml_raw": 140,
-      "home_prob": 60.7,
-      "away_prob": 39.3,
-      "spread": "SAS -2.5",
-      "favorite": "San Antonio Spurs",
-      "pick": "San Antonio Spurs",
-      "pick_abbr": "SAS",
-      "moneyline": "-180",
-      "win_probability": 60.7,
-      "confidence": "MEDIUM",
-      "confidence_stars": "\u2605\u2605\u2606",
-      "commence_time": "2026-10-24T01:47:00Z",
-      "line_movement": {
-        "home": {
-          "direction": "longer",
-          "points_moved": 5,
-          "steam": false,
-          "label": "\ud83d\udd34 -180 \u2190 -185",
-          "old_ml": "-185",
-          "new_ml": "-180"
-        },
-        "away": {
-          "direction": "shorter",
-          "points_moved": 14,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM +140 \u2190 +154",
-          "old_ml": "+154",
-          "new_ml": "+140"
-        },
-        "pick": {
-          "direction": "longer",
-          "points_moved": 5,
-          "steam": false,
-          "label": "\ud83d\udd34 -180 \u2190 -185",
-          "old_ml": "-185",
-          "new_ml": "-180"
-        },
-        "snapshot_time": "October 24, 2026 at 12:18 AM UTC"
-      },
-      "fatigue": {
-        "home": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
-          "last_game": "Oct 23",
-          "days_rest": 1,
-          "games_last_4d": 2,
-          "travel_miles": 0,
-          "travel_desc": "",
-          "source": "ESPN Scoreboard API"
-        },
-        "away": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
-          "last_game": "Oct 23",
-          "days_rest": 1,
-          "games_last_4d": 2,
-          "travel_miles": 186,
-          "travel_desc": "186 mi road trip",
-          "source": "ESPN Scoreboard API"
-        }
-      },
-      "edge_factors": [
-        "\ud83d\udd25 Sharp steam detected",
-        "\ud83d\udca4 HOU fatigued (B2B) \u2014 source: ESPN"
-      ],
-      "injury_notes": "No key injuries.",
-      "sharp": {
-        "away_t": null,
-        "home_t": null,
-        "source": null,
-        "sharp_signal": null,
-        "sharp_label": "Pending \u2014 check closer to tip-off",
-        "rlm": false
-      },
-      "form": {
-        "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        },
-        "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        }
-      },
-      "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
-      },
-      "briefing": {
-        "trend": "SAS on Back-to-Back \u26a0\ufe0f per ESPN schedule data. HOU on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line moved -185\u2192-180 (5pts). Pending \u2014 check closer to tip-off",
-        "injury_notes": "No key injuries."
-      },
-      "live": {
-        "status": "pre",
-        "status_detail": "Upcoming",
-        "period": 0,
-        "clock": "",
-        "home_score": 0,
-        "away_score": 0,
-        "spread_alert": null
-      },
-      "news": [
-        {
-          "title": "Tyrese Maxey celebrates Jaylen Brown's immediate impact for the Philadelphia 76ers",
-          "source": "Sporting News",
-          "link": "https://www.sportingnews.com/us/nba/philadelphia-76ers/news/tyrese-maxey-celebrates-jaylen-brown-instant-impact-76ers/45e328bd1dda66299d693693",
-          "published": "2026-10-23T03:49:17Z"
-        },
-        {
-          "title": "Watch Celtics\u2019 Jayson Tatum reveal his stunned reaction to the Jaylen Brown trade",
-          "source": "ClutchPoints",
-          "link": "https://clutchpoints.com/nba/boston-celtics/celtics-news-watch-jayson-tatum-reveal-stunned-reaction-the-jaylen-brown-trade",
-          "published": "2026-10-23T03:43:50Z"
-        },
-        {
-          "title": "Jaylen Brown Helps 76ers Complete Historic 29-Point Comeback",
-          "source": "NESN",
-          "link": "https://nesn.com/boston-celtics/news/jaylen-brown-76ers-historic-comeback-cavaliers/995fa29d21230ca5538d8cdd",
-          "published": "2026-10-23T03:43:18Z"
-        }
-      ]
-    },
-    {
-      "game": "Los Angeles Clippers @ Los Angeles Lakers",
-      "home_team": "Los Angeles Lakers",
-      "away_team": "Los Angeles Clippers",
-      "home_abbr": "LAL",
-      "away_abbr": "LAC",
-      "home_ml": "-3000",
-      "away_ml": "+1200",
-      "home_ml_raw": -3000,
-      "away_ml_raw": 1200,
-      "home_prob": 92.6,
-      "away_prob": 7.4,
-      "spread": "LAL -12.5",
-      "favorite": "Los Angeles Lakers",
-      "pick": "Los Angeles Lakers",
-      "pick_abbr": "LAL",
-      "moneyline": "-3000",
-      "win_probability": 92.6,
-      "confidence": "HIGH",
-      "confidence_stars": "\u2605\u2605\u2605",
-      "commence_time": "2026-10-24T02:11:00Z",
-      "line_movement": {
-        "home": {
-          "direction": "shorter",
-          "points_moved": 2640,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -3000 \u2190 -360",
-          "old_ml": "-360",
-          "new_ml": "-3000"
-        },
-        "away": {
-          "direction": "longer",
-          "points_moved": 915,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM +1200 \u2190 +285",
-          "old_ml": "+285",
-          "new_ml": "+1200"
-        },
-        "pick": {
-          "direction": "shorter",
-          "points_moved": 2640,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -3000 \u2190 -360",
-          "old_ml": "-360",
-          "new_ml": "-3000"
-        },
-        "snapshot_time": "October 24, 2026 at 12:18 AM UTC"
-      },
-      "fatigue": {
-        "home": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
-          "last_game": "Oct 23",
-          "days_rest": 1,
-          "games_last_4d": 2,
-          "travel_miles": 0,
-          "travel_desc": "",
-          "source": "ESPN Scoreboard API"
-        },
-        "away": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
-          "last_game": "Oct 23",
-          "days_rest": 1,
-          "games_last_4d": 2,
-          "travel_miles": 0,
-          "travel_desc": "",
-          "source": "ESPN Scoreboard API"
-        }
-      },
-      "edge_factors": [
-        "\ud83d\udd25 Sharp steam detected",
-        "\ud83d\udca4 LAC fatigued (B2B) \u2014 source: ESPN"
-      ],
-      "injury_notes": "No key injuries.",
-      "sharp": {
-        "away_t": null,
-        "home_t": null,
-        "source": null,
-        "sharp_signal": null,
-        "sharp_label": "Pending \u2014 check closer to tip-off",
-        "rlm": false
-      },
-      "form": {
-        "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        },
-        "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        }
-      },
-      "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
-      },
-      "briefing": {
-        "trend": "LAL on Back-to-Back \u26a0\ufe0f per ESPN schedule data. LAC on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -360 to -3000 (2640pt move) \u2014 heavy professional action on Los Angeles Lakers.",
-        "injury_notes": "No key injuries."
-      },
-      "live": {
-        "status": "pre",
-        "status_detail": "Upcoming",
-        "period": 0,
-        "clock": "",
-        "home_score": 0,
-        "away_score": 0,
-        "spread_alert": null
-      },
-      "news": [
-        {
-          "title": "Tyrese Maxey celebrates Jaylen Brown's immediate impact for the Philadelphia 76ers",
-          "source": "Sporting News",
-          "link": "https://www.sportingnews.com/us/nba/philadelphia-76ers/news/tyrese-maxey-celebrates-jaylen-brown-instant-impact-76ers/45e328bd1dda66299d693693",
-          "published": "2026-10-23T03:49:17Z"
-        },
-        {
-          "title": "Watch Celtics\u2019 Jayson Tatum reveal his stunned reaction to the Jaylen Brown trade",
-          "source": "ClutchPoints",
-          "link": "https://clutchpoints.com/nba/boston-celtics/celtics-news-watch-jayson-tatum-reveal-stunned-reaction-the-jaylen-brown-trade",
-          "published": "2026-10-23T03:43:50Z"
-        },
-        {
-          "title": "Jaylen Brown Helps 76ers Complete Historic 29-Point Comeback",
-          "source": "NESN",
-          "link": "https://nesn.com/boston-celtics/news/jaylen-brown-76ers-historic-comeback-cavaliers/995fa29d21230ca5538d8cdd",
-          "published": "2026-10-23T03:43:18Z"
-        }
-      ]
-    },
-    {
-      "game": "Portland Trail Blazers @ Sacramento Kings",
-      "home_team": "Sacramento Kings",
-      "away_team": "Portland Trail Blazers",
-      "home_abbr": "SAC",
-      "away_abbr": "POR",
-      "home_ml": "+1100",
-      "away_ml": "-2500",
-      "home_ml_raw": 1100,
-      "away_ml_raw": -2500,
-      "home_prob": 8.0,
-      "away_prob": 92.0,
-      "spread": "SAC +12.5",
-      "favorite": "Portland Trail Blazers",
-      "pick": "Portland Trail Blazers",
-      "pick_abbr": "POR",
-      "moneyline": "-2500",
-      "win_probability": 92.0,
-      "confidence": "HIGH",
-      "confidence_stars": "\u2605\u2605\u2605",
-      "commence_time": "2026-10-24T02:11:00Z",
-      "line_movement": {
-        "home": {
-          "direction": "longer",
-          "points_moved": 740,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM +1100 \u2190 +360",
-          "old_ml": "+360",
-          "new_ml": "+1100"
-        },
-        "away": {
-          "direction": "shorter",
-          "points_moved": 2030,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -2500 \u2190 -470",
-          "old_ml": "-470",
-          "new_ml": "-2500"
-        },
-        "pick": {
-          "direction": "shorter",
-          "points_moved": 2030,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -2500 \u2190 -470",
-          "old_ml": "-470",
-          "new_ml": "-2500"
-        },
-        "snapshot_time": "October 24, 2026 at 12:18 AM UTC"
-      },
-      "fatigue": {
-        "home": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
-          "last_game": "Oct 23",
-          "days_rest": 1,
-          "games_last_4d": 2,
-          "travel_miles": 361,
-          "travel_desc": "361 mi road trip",
-          "source": "ESPN Scoreboard API"
-        },
-        "away": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
-          "last_game": "Oct 23",
-          "days_rest": 1,
-          "games_last_4d": 2,
-          "travel_miles": 484,
-          "travel_desc": "484 mi road trip",
-          "source": "ESPN Scoreboard API"
-        }
-      },
-      "edge_factors": [
-        "\ud83d\udd25 Sharp steam detected",
-        "\ud83d\udca4 SAC fatigued (B2B) \u2014 source: ESPN"
-      ],
-      "injury_notes": "No key injuries.",
-      "sharp": {
-        "away_t": null,
-        "home_t": null,
-        "source": null,
-        "sharp_signal": null,
-        "sharp_label": "Pending \u2014 check closer to tip-off",
-        "rlm": false
-      },
-      "form": {
-        "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        },
-        "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        }
-      },
-      "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
-      },
-      "briefing": {
-        "trend": "SAC on Back-to-Back \u26a0\ufe0f per ESPN schedule data. POR on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -470 to -2500 (2030pt move) \u2014 heavy professional action on Portland Trail Blazers.",
-        "injury_notes": "No key injuries."
-      },
-      "live": {
-        "status": "pre",
-        "status_detail": "Upcoming",
-        "period": 0,
-        "clock": "",
-        "home_score": 0,
-        "away_score": 0,
-        "spread_alert": null
-      },
-      "news": [
-        {
-          "title": "Tyrese Maxey celebrates Jaylen Brown's immediate impact for the Philadelphia 76ers",
-          "source": "Sporting News",
-          "link": "https://www.sportingnews.com/us/nba/philadelphia-76ers/news/tyrese-maxey-celebrates-jaylen-brown-instant-impact-76ers/45e328bd1dda66299d693693",
-          "published": "2026-10-23T03:49:17Z"
-        },
-        {
-          "title": "Watch Celtics\u2019 Jayson Tatum reveal his stunned reaction to the Jaylen Brown trade",
-          "source": "ClutchPoints",
-          "link": "https://clutchpoints.com/nba/boston-celtics/celtics-news-watch-jayson-tatum-reveal-stunned-reaction-the-jaylen-brown-trade",
-          "published": "2026-10-23T03:43:50Z"
-        },
-        {
-          "title": "Jaylen Brown Helps 76ers Complete Historic 29-Point Comeback",
-          "source": "NESN",
-          "link": "https://nesn.com/boston-celtics/news/jaylen-brown-76ers-historic-comeback-cavaliers/995fa29d21230ca5538d8cdd",
-          "published": "2026-10-23T03:43:18Z"
-        }
-      ]
-    },
-    {
-      "game": "Memphis Grizzlies @ Golden State Warriors",
-      "home_team": "Golden State Warriors",
-      "away_team": "Memphis Grizzlies",
-      "home_abbr": "GSW",
-      "away_abbr": "MEM",
-      "home_ml": "+200",
-      "away_ml": "-265",
-      "home_ml_raw": 200,
-      "away_ml_raw": -265,
-      "home_prob": 31.5,
-      "away_prob": 68.5,
-      "spread": "GSW +5.5",
-      "favorite": "Memphis Grizzlies",
-      "pick": "Memphis Grizzlies",
-      "pick_abbr": "MEM",
-      "moneyline": "-265",
-      "win_probability": 68.5,
-      "confidence": "MEDIUM",
-      "confidence_stars": "\u2605\u2605\u2606",
-      "commence_time": "2026-10-24T02:14:00Z",
-      "line_movement": {
-        "home": {
-          "direction": "longer",
-          "points_moved": 355,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM +200 \u2190 -155",
-          "old_ml": "-155",
-          "new_ml": "+200"
-        },
-        "away": {
-          "direction": "shorter",
-          "points_moved": 395,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -265 \u2190 +130",
-          "old_ml": "+130",
-          "new_ml": "-265"
-        },
-        "pick": {
-          "direction": "shorter",
-          "points_moved": 395,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -265 \u2190 +130",
-          "old_ml": "+130",
-          "new_ml": "-265"
-        },
-        "snapshot_time": "October 24, 2026 at 12:18 AM UTC"
-      },
-      "fatigue": {
-        "home": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
-          "last_game": "Oct 23",
-          "days_rest": 1,
-          "games_last_4d": 2,
-          "travel_miles": 346,
-          "travel_desc": "346 mi road trip",
-          "source": "ESPN Scoreboard API"
-        },
-        "away": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
-          "last_game": "Oct 23",
-          "days_rest": 1,
-          "games_last_4d": 2,
-          "travel_miles": 1797,
-          "travel_desc": "1,797 mi road trip",
-          "source": "ESPN Scoreboard API"
-        }
-      },
-      "edge_factors": [
-        "\ud83d\udd25 Sharp steam detected",
-        "\ud83d\udca4 GSW fatigued (B2B) \u2014 source: ESPN"
-      ],
-      "injury_notes": "No key injuries.",
-      "sharp": {
-        "away_t": null,
-        "home_t": null,
-        "source": null,
-        "sharp_signal": null,
-        "sharp_label": "Pending \u2014 check closer to tip-off",
-        "rlm": false
-      },
-      "form": {
-        "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        },
-        "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        }
-      },
-      "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
-      },
-      "briefing": {
-        "trend": "GSW on Back-to-Back \u26a0\ufe0f per ESPN schedule data. MEM on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from +130 to -265 (395pt move) \u2014 heavy professional action on Memphis Grizzlies.",
-        "injury_notes": "No key injuries."
-      },
-      "live": {
-        "status": "pre",
-        "status_detail": "Upcoming",
-        "period": 0,
-        "clock": "",
-        "home_score": 0,
-        "away_score": 0,
-        "spread_alert": null
-      },
-      "news": [
-        {
-          "title": "Tyrese Maxey celebrates Jaylen Brown's immediate impact for the Philadelphia 76ers",
-          "source": "Sporting News",
-          "link": "https://www.sportingnews.com/us/nba/philadelphia-76ers/news/tyrese-maxey-celebrates-jaylen-brown-instant-impact-76ers/45e328bd1dda66299d693693",
-          "published": "2026-10-23T03:49:17Z"
-        },
-        {
-          "title": "Watch Celtics\u2019 Jayson Tatum reveal his stunned reaction to the Jaylen Brown trade",
-          "source": "ClutchPoints",
-          "link": "https://clutchpoints.com/nba/boston-celtics/celtics-news-watch-jayson-tatum-reveal-stunned-reaction-the-jaylen-brown-trade",
-          "published": "2026-10-23T03:43:50Z"
-        },
-        {
-          "title": "Jaylen Brown Helps 76ers Complete Historic 29-Point Comeback",
-          "source": "NESN",
-          "link": "https://nesn.com/boston-celtics/news/jaylen-brown-76ers-historic-comeback-cavaliers/995fa29d21230ca5538d8cdd",
-          "published": "2026-10-23T03:43:18Z"
-        }
-      ]
-    },
     {
       "game": "Miami Heat @ Charlotte Hornets",
       "home_team": "Charlotte Hornets",
@@ -758,27 +28,27 @@
           "direction": "none",
           "points_moved": 0,
           "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "label": "No movement",
+          "old_ml": "+130",
+          "new_ml": "+130"
         },
         "away": {
           "direction": "none",
           "points_moved": 0,
           "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "label": "No movement",
+          "old_ml": "-155",
+          "new_ml": "-155"
         },
         "pick": {
           "direction": "none",
           "points_moved": 0,
           "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "label": "No movement",
+          "old_ml": "-155",
+          "new_ml": "-155"
         },
-        "snapshot_time": "\u2014"
+        "snapshot_time": "October 24, 2026 at 03:57 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -858,22 +128,22 @@
       },
       "news": [
         {
-          "title": "Tyrese Maxey celebrates Jaylen Brown's immediate impact for the Philadelphia 76ers",
-          "source": "Sporting News",
-          "link": "https://www.sportingnews.com/us/nba/philadelphia-76ers/news/tyrese-maxey-celebrates-jaylen-brown-instant-impact-76ers/45e328bd1dda66299d693693",
-          "published": "2026-10-23T03:49:17Z"
+          "title": "METRO Redux\u2019s Next-Gen Update Hides a DLSS 5 Surprise, as NVIDIA\u2019s Neural Rendering Gives Old Characters New Life",
+          "source": "Wccftech",
+          "link": "https://wccftech.com/metro-redux-next-gen-update-dlss-5-neural-rendering-character-upgrade/",
+          "published": "2026-10-23T08:45:54Z"
         },
         {
-          "title": "Watch Celtics\u2019 Jayson Tatum reveal his stunned reaction to the Jaylen Brown trade",
-          "source": "ClutchPoints",
-          "link": "https://clutchpoints.com/nba/boston-celtics/celtics-news-watch-jayson-tatum-reveal-stunned-reaction-the-jaylen-brown-trade",
-          "published": "2026-10-23T03:43:50Z"
+          "title": "LeBron shrugs off Trump blast in home debut win for Philadelphia 76ers",
+          "source": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/sports/2026/10/23/lebron-shrugs-off-trump-blast-in-home-debut-win-for-philadelphia-76ers",
+          "published": "2026-10-23T08:42:10Z"
         },
         {
-          "title": "Jaylen Brown Helps 76ers Complete Historic 29-Point Comeback",
-          "source": "NESN",
-          "link": "https://nesn.com/boston-celtics/news/jaylen-brown-76ers-historic-comeback-cavaliers/995fa29d21230ca5538d8cdd",
-          "published": "2026-10-23T03:43:18Z"
+          "title": "Cavaliers Make History in Opening Night Loss to 76ers",
+          "source": "Roundtable.io",
+          "link": "https://roundtable.io/sports/nba/cavaliers/news/cavaliers-make-history-in-opening-night-loss-to-76ers",
+          "published": "2026-10-23T08:38:51Z"
         }
       ]
     },
@@ -883,47 +153,47 @@
       "away_team": "Brooklyn Nets",
       "home_abbr": "CLE",
       "away_abbr": "BKN",
-      "home_ml": "-455",
-      "away_ml": "+350",
-      "home_ml_raw": -455,
-      "away_ml_raw": 350,
-      "home_prob": 78.7,
-      "away_prob": 21.3,
+      "home_ml": "-535",
+      "away_ml": "+400",
+      "home_ml_raw": -535,
+      "away_ml_raw": 400,
+      "home_prob": 80.8,
+      "away_prob": 19.2,
       "spread": "CLE -11.5",
       "favorite": "Cleveland Cavaliers",
       "pick": "Cleveland Cavaliers",
       "pick_abbr": "CLE",
-      "moneyline": "-455",
-      "win_probability": 78.7,
+      "moneyline": "-535",
+      "win_probability": 80.8,
       "confidence": "HIGH",
       "confidence_stars": "\u2605\u2605\u2605",
       "commence_time": "2026-10-24T23:40:00Z",
       "line_movement": {
         "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "direction": "shorter",
+          "points_moved": 80,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -535 \u2190 -455",
+          "old_ml": "-455",
+          "new_ml": "-535"
         },
         "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "direction": "longer",
+          "points_moved": 50,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM +400 \u2190 +350",
+          "old_ml": "+350",
+          "new_ml": "+400"
         },
         "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "direction": "shorter",
+          "points_moved": 80,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -535 \u2190 -455",
+          "old_ml": "-455",
+          "new_ml": "-535"
         },
-        "snapshot_time": "\u2014"
+        "snapshot_time": "October 24, 2026 at 03:57 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -950,7 +220,7 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udcca 57.4pt probability edge"
+        "\ud83d\udd25 Sharp steam detected"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -987,9 +257,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "Cleveland Cavaliers hold a 78.7% edge.",
+        "trend": "Cleveland Cavaliers hold a 80.8% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "steam": "Line steamed from -455 to -535 (80pt move) \u2014 heavy professional action on Cleveland Cavaliers.",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -1003,22 +273,22 @@
       },
       "news": [
         {
-          "title": "Tyrese Maxey celebrates Jaylen Brown's immediate impact for the Philadelphia 76ers",
-          "source": "Sporting News",
-          "link": "https://www.sportingnews.com/us/nba/philadelphia-76ers/news/tyrese-maxey-celebrates-jaylen-brown-instant-impact-76ers/45e328bd1dda66299d693693",
-          "published": "2026-10-23T03:49:17Z"
+          "title": "METRO Redux\u2019s Next-Gen Update Hides a DLSS 5 Surprise, as NVIDIA\u2019s Neural Rendering Gives Old Characters New Life",
+          "source": "Wccftech",
+          "link": "https://wccftech.com/metro-redux-next-gen-update-dlss-5-neural-rendering-character-upgrade/",
+          "published": "2026-10-23T08:45:54Z"
         },
         {
-          "title": "Watch Celtics\u2019 Jayson Tatum reveal his stunned reaction to the Jaylen Brown trade",
-          "source": "ClutchPoints",
-          "link": "https://clutchpoints.com/nba/boston-celtics/celtics-news-watch-jayson-tatum-reveal-stunned-reaction-the-jaylen-brown-trade",
-          "published": "2026-10-23T03:43:50Z"
+          "title": "LeBron shrugs off Trump blast in home debut win for Philadelphia 76ers",
+          "source": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/sports/2026/10/23/lebron-shrugs-off-trump-blast-in-home-debut-win-for-philadelphia-76ers",
+          "published": "2026-10-23T08:42:10Z"
         },
         {
-          "title": "Jaylen Brown Helps 76ers Complete Historic 29-Point Comeback",
-          "source": "NESN",
-          "link": "https://nesn.com/boston-celtics/news/jaylen-brown-76ers-historic-comeback-cavaliers/995fa29d21230ca5538d8cdd",
-          "published": "2026-10-23T03:43:18Z"
+          "title": "Cavaliers Make History in Opening Night Loss to 76ers",
+          "source": "Roundtable.io",
+          "link": "https://roundtable.io/sports/nba/cavaliers/news/cavaliers-make-history-in-opening-night-loss-to-76ers",
+          "published": "2026-10-23T08:38:51Z"
         }
       ]
     },
@@ -1028,47 +298,47 @@
       "away_team": "Milwaukee Bucks",
       "home_abbr": "PHI",
       "away_abbr": "MIL",
-      "home_ml": "-625",
-      "away_ml": "+455",
-      "home_ml_raw": -625,
-      "away_ml_raw": 455,
-      "home_prob": 82.7,
-      "away_prob": 17.3,
+      "home_ml": "-700",
+      "away_ml": "+500",
+      "home_ml_raw": -700,
+      "away_ml_raw": 500,
+      "home_prob": 84.0,
+      "away_prob": 16.0,
       "spread": "PHI -12.5",
       "favorite": "Philadelphia 76ers",
       "pick": "Philadelphia 76ers",
       "pick_abbr": "PHI",
-      "moneyline": "-625",
-      "win_probability": 82.7,
+      "moneyline": "-700",
+      "win_probability": 84.0,
       "confidence": "HIGH",
       "confidence_stars": "\u2605\u2605\u2605",
       "commence_time": "2026-10-24T23:40:00Z",
       "line_movement": {
         "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "direction": "shorter",
+          "points_moved": 75,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -700 \u2190 -625",
+          "old_ml": "-625",
+          "new_ml": "-700"
         },
         "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "direction": "longer",
+          "points_moved": 45,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM +500 \u2190 +455",
+          "old_ml": "+455",
+          "new_ml": "+500"
         },
         "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "direction": "shorter",
+          "points_moved": 75,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -700 \u2190 -625",
+          "old_ml": "-625",
+          "new_ml": "-700"
         },
-        "snapshot_time": "\u2014"
+        "snapshot_time": "October 24, 2026 at 03:57 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -1095,6 +365,7 @@
         }
       },
       "edge_factors": [
+        "\ud83d\udd25 Sharp steam detected",
         "\ud83d\udca4 MIL fatigued (B2B) \u2014 source: ESPN"
       ],
       "injury_notes": "No key injuries.",
@@ -1134,7 +405,7 @@
       "briefing": {
         "trend": "MIL on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "steam": "Line steamed from -625 to -700 (75pt move) \u2014 heavy professional action on Philadelphia 76ers.",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -1148,22 +419,22 @@
       },
       "news": [
         {
-          "title": "Tyrese Maxey celebrates Jaylen Brown's immediate impact for the Philadelphia 76ers",
-          "source": "Sporting News",
-          "link": "https://www.sportingnews.com/us/nba/philadelphia-76ers/news/tyrese-maxey-celebrates-jaylen-brown-instant-impact-76ers/45e328bd1dda66299d693693",
-          "published": "2026-10-23T03:49:17Z"
+          "title": "METRO Redux\u2019s Next-Gen Update Hides a DLSS 5 Surprise, as NVIDIA\u2019s Neural Rendering Gives Old Characters New Life",
+          "source": "Wccftech",
+          "link": "https://wccftech.com/metro-redux-next-gen-update-dlss-5-neural-rendering-character-upgrade/",
+          "published": "2026-10-23T08:45:54Z"
         },
         {
-          "title": "Watch Celtics\u2019 Jayson Tatum reveal his stunned reaction to the Jaylen Brown trade",
-          "source": "ClutchPoints",
-          "link": "https://clutchpoints.com/nba/boston-celtics/celtics-news-watch-jayson-tatum-reveal-stunned-reaction-the-jaylen-brown-trade",
-          "published": "2026-10-23T03:43:50Z"
+          "title": "LeBron shrugs off Trump blast in home debut win for Philadelphia 76ers",
+          "source": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/sports/2026/10/23/lebron-shrugs-off-trump-blast-in-home-debut-win-for-philadelphia-76ers",
+          "published": "2026-10-23T08:42:10Z"
         },
         {
-          "title": "Jaylen Brown Helps 76ers Complete Historic 29-Point Comeback",
-          "source": "NESN",
-          "link": "https://nesn.com/boston-celtics/news/jaylen-brown-76ers-historic-comeback-cavaliers/995fa29d21230ca5538d8cdd",
-          "published": "2026-10-23T03:43:18Z"
+          "title": "Cavaliers Make History in Opening Night Loss to 76ers",
+          "source": "Roundtable.io",
+          "link": "https://roundtable.io/sports/nba/cavaliers/news/cavaliers-make-history-in-opening-night-loss-to-76ers",
+          "published": "2026-10-23T08:38:51Z"
         }
       ]
     },
@@ -1179,7 +450,7 @@
       "away_ml_raw": -110,
       "home_prob": 50.0,
       "away_prob": 50.0,
-      "spread": "CHI +1.5",
+      "spread": "CHI -1.5",
       "favorite": "Chicago Bulls",
       "pick": "Chicago Bulls",
       "pick_abbr": "CHI",
@@ -1193,27 +464,27 @@
           "direction": "none",
           "points_moved": 0,
           "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "label": "No movement",
+          "old_ml": "-110",
+          "new_ml": "-110"
         },
         "away": {
           "direction": "none",
           "points_moved": 0,
           "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "label": "No movement",
+          "old_ml": "-110",
+          "new_ml": "-110"
         },
         "pick": {
           "direction": "none",
           "points_moved": 0,
           "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "label": "No movement",
+          "old_ml": "-110",
+          "new_ml": "-110"
         },
-        "snapshot_time": "\u2014"
+        "snapshot_time": "October 24, 2026 at 03:57 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -1293,22 +564,22 @@
       },
       "news": [
         {
-          "title": "Tyrese Maxey celebrates Jaylen Brown's immediate impact for the Philadelphia 76ers",
-          "source": "Sporting News",
-          "link": "https://www.sportingnews.com/us/nba/philadelphia-76ers/news/tyrese-maxey-celebrates-jaylen-brown-instant-impact-76ers/45e328bd1dda66299d693693",
-          "published": "2026-10-23T03:49:17Z"
+          "title": "METRO Redux\u2019s Next-Gen Update Hides a DLSS 5 Surprise, as NVIDIA\u2019s Neural Rendering Gives Old Characters New Life",
+          "source": "Wccftech",
+          "link": "https://wccftech.com/metro-redux-next-gen-update-dlss-5-neural-rendering-character-upgrade/",
+          "published": "2026-10-23T08:45:54Z"
         },
         {
-          "title": "Watch Celtics\u2019 Jayson Tatum reveal his stunned reaction to the Jaylen Brown trade",
-          "source": "ClutchPoints",
-          "link": "https://clutchpoints.com/nba/boston-celtics/celtics-news-watch-jayson-tatum-reveal-stunned-reaction-the-jaylen-brown-trade",
-          "published": "2026-10-23T03:43:50Z"
+          "title": "LeBron shrugs off Trump blast in home debut win for Philadelphia 76ers",
+          "source": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/sports/2026/10/23/lebron-shrugs-off-trump-blast-in-home-debut-win-for-philadelphia-76ers",
+          "published": "2026-10-23T08:42:10Z"
         },
         {
-          "title": "Jaylen Brown Helps 76ers Complete Historic 29-Point Comeback",
-          "source": "NESN",
-          "link": "https://nesn.com/boston-celtics/news/jaylen-brown-76ers-historic-comeback-cavaliers/995fa29d21230ca5538d8cdd",
-          "published": "2026-10-23T03:43:18Z"
+          "title": "Cavaliers Make History in Opening Night Loss to 76ers",
+          "source": "Roundtable.io",
+          "link": "https://roundtable.io/sports/nba/cavaliers/news/cavaliers-make-history-in-opening-night-loss-to-76ers",
+          "published": "2026-10-23T08:38:51Z"
         }
       ]
     },
@@ -1318,47 +589,47 @@
       "away_team": "San Antonio Spurs",
       "home_abbr": "DAL",
       "away_abbr": "SAS",
-      "home_ml": "+360",
-      "away_ml": "-470",
-      "home_ml_raw": 360,
-      "away_ml_raw": -470,
-      "home_prob": 20.9,
-      "away_prob": 79.1,
-      "spread": "DAL +11.5",
+      "home_ml": "+400",
+      "away_ml": "-535",
+      "home_ml_raw": 400,
+      "away_ml_raw": -535,
+      "home_prob": 19.2,
+      "away_prob": 80.8,
+      "spread": "DAL +12.5",
       "favorite": "San Antonio Spurs",
       "pick": "San Antonio Spurs",
       "pick_abbr": "SAS",
-      "moneyline": "-470",
-      "win_probability": 79.1,
+      "moneyline": "-535",
+      "win_probability": 80.8,
       "confidence": "HIGH",
       "confidence_stars": "\u2605\u2605\u2605",
       "commence_time": "2026-10-25T00:10:00Z",
       "line_movement": {
         "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "direction": "longer",
+          "points_moved": 40,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM +400 \u2190 +360",
+          "old_ml": "+360",
+          "new_ml": "+400"
         },
         "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "direction": "shorter",
+          "points_moved": 65,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -535 \u2190 -470",
+          "old_ml": "-470",
+          "new_ml": "-535"
         },
         "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "direction": "shorter",
+          "points_moved": 65,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -535 \u2190 -470",
+          "old_ml": "-470",
+          "new_ml": "-535"
         },
-        "snapshot_time": "\u2014"
+        "snapshot_time": "October 24, 2026 at 03:57 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -1385,6 +656,7 @@
         }
       },
       "edge_factors": [
+        "\ud83d\udd25 Sharp steam detected",
         "\ud83d\udca4 DAL fatigued (B2B) \u2014 source: ESPN"
       ],
       "injury_notes": "No key injuries.",
@@ -1424,7 +696,7 @@
       "briefing": {
         "trend": "DAL on Back-to-Back \u26a0\ufe0f per ESPN schedule data. SAS on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "steam": "Line steamed from -470 to -535 (65pt move) \u2014 heavy professional action on San Antonio Spurs.",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -1438,22 +710,22 @@
       },
       "news": [
         {
-          "title": "Tyrese Maxey celebrates Jaylen Brown's immediate impact for the Philadelphia 76ers",
-          "source": "Sporting News",
-          "link": "https://www.sportingnews.com/us/nba/philadelphia-76ers/news/tyrese-maxey-celebrates-jaylen-brown-instant-impact-76ers/45e328bd1dda66299d693693",
-          "published": "2026-10-23T03:49:17Z"
+          "title": "METRO Redux\u2019s Next-Gen Update Hides a DLSS 5 Surprise, as NVIDIA\u2019s Neural Rendering Gives Old Characters New Life",
+          "source": "Wccftech",
+          "link": "https://wccftech.com/metro-redux-next-gen-update-dlss-5-neural-rendering-character-upgrade/",
+          "published": "2026-10-23T08:45:54Z"
         },
         {
-          "title": "Watch Celtics\u2019 Jayson Tatum reveal his stunned reaction to the Jaylen Brown trade",
-          "source": "ClutchPoints",
-          "link": "https://clutchpoints.com/nba/boston-celtics/celtics-news-watch-jayson-tatum-reveal-stunned-reaction-the-jaylen-brown-trade",
-          "published": "2026-10-23T03:43:50Z"
+          "title": "LeBron shrugs off Trump blast in home debut win for Philadelphia 76ers",
+          "source": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/sports/2026/10/23/lebron-shrugs-off-trump-blast-in-home-debut-win-for-philadelphia-76ers",
+          "published": "2026-10-23T08:42:10Z"
         },
         {
-          "title": "Jaylen Brown Helps 76ers Complete Historic 29-Point Comeback",
-          "source": "NESN",
-          "link": "https://nesn.com/boston-celtics/news/jaylen-brown-76ers-historic-comeback-cavaliers/995fa29d21230ca5538d8cdd",
-          "published": "2026-10-23T03:43:18Z"
+          "title": "Cavaliers Make History in Opening Night Loss to 76ers",
+          "source": "Roundtable.io",
+          "link": "https://roundtable.io/sports/nba/cavaliers/news/cavaliers-make-history-in-opening-night-loss-to-76ers",
+          "published": "2026-10-23T08:38:51Z"
         }
       ]
     },
@@ -1463,47 +735,47 @@
       "away_team": "Houston Rockets",
       "home_abbr": "ATL",
       "away_abbr": "HOU",
-      "home_ml": "-120",
-      "away_ml": "+100",
-      "home_ml_raw": -120,
-      "away_ml_raw": 100,
-      "home_prob": 52.2,
-      "away_prob": 47.8,
+      "home_ml": "-118",
+      "away_ml": "-102",
+      "home_ml_raw": -118,
+      "away_ml_raw": -102,
+      "home_prob": 51.7,
+      "away_prob": 48.3,
       "spread": "ATL -1.5",
       "favorite": "Atlanta Hawks",
       "pick": "Atlanta Hawks",
       "pick_abbr": "ATL",
-      "moneyline": "-120",
-      "win_probability": 52.2,
+      "moneyline": "-118",
+      "win_probability": 51.7,
       "confidence": "LOW",
       "confidence_stars": "\u2605\u2606\u2606",
       "commence_time": "2026-10-25T00:40:00Z",
       "line_movement": {
         "home": {
-          "direction": "none",
-          "points_moved": 0,
+          "direction": "longer",
+          "points_moved": 2,
           "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "label": "\ud83d\udd34 -118 \u2190 -120",
+          "old_ml": "-120",
+          "new_ml": "-118"
         },
         "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "direction": "shorter",
+          "points_moved": 202,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -102 \u2190 +100",
+          "old_ml": "+100",
+          "new_ml": "-102"
         },
         "pick": {
-          "direction": "none",
-          "points_moved": 0,
+          "direction": "longer",
+          "points_moved": 2,
           "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "label": "\ud83d\udd34 -118 \u2190 -120",
+          "old_ml": "-120",
+          "new_ml": "-118"
         },
-        "snapshot_time": "\u2014"
+        "snapshot_time": "October 24, 2026 at 03:57 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -1530,6 +802,7 @@
         }
       },
       "edge_factors": [
+        "\ud83d\udd25 Sharp steam detected",
         "\ud83d\udca4 HOU fatigued (B2B) \u2014 source: ESPN"
       ],
       "injury_notes": "No key injuries.",
@@ -1569,7 +842,7 @@
       "briefing": {
         "trend": "ATL on Back-to-Back \u26a0\ufe0f per ESPN schedule data. HOU on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "steam": "Line moved -120\u2192-118 (2pts). Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -1583,22 +856,22 @@
       },
       "news": [
         {
-          "title": "Tyrese Maxey celebrates Jaylen Brown's immediate impact for the Philadelphia 76ers",
-          "source": "Sporting News",
-          "link": "https://www.sportingnews.com/us/nba/philadelphia-76ers/news/tyrese-maxey-celebrates-jaylen-brown-instant-impact-76ers/45e328bd1dda66299d693693",
-          "published": "2026-10-23T03:49:17Z"
+          "title": "METRO Redux\u2019s Next-Gen Update Hides a DLSS 5 Surprise, as NVIDIA\u2019s Neural Rendering Gives Old Characters New Life",
+          "source": "Wccftech",
+          "link": "https://wccftech.com/metro-redux-next-gen-update-dlss-5-neural-rendering-character-upgrade/",
+          "published": "2026-10-23T08:45:54Z"
         },
         {
-          "title": "Watch Celtics\u2019 Jayson Tatum reveal his stunned reaction to the Jaylen Brown trade",
-          "source": "ClutchPoints",
-          "link": "https://clutchpoints.com/nba/boston-celtics/celtics-news-watch-jayson-tatum-reveal-stunned-reaction-the-jaylen-brown-trade",
-          "published": "2026-10-23T03:43:50Z"
+          "title": "LeBron shrugs off Trump blast in home debut win for Philadelphia 76ers",
+          "source": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/sports/2026/10/23/lebron-shrugs-off-trump-blast-in-home-debut-win-for-philadelphia-76ers",
+          "published": "2026-10-23T08:42:10Z"
         },
         {
-          "title": "Jaylen Brown Helps 76ers Complete Historic 29-Point Comeback",
-          "source": "NESN",
-          "link": "https://nesn.com/boston-celtics/news/jaylen-brown-76ers-historic-comeback-cavaliers/995fa29d21230ca5538d8cdd",
-          "published": "2026-10-23T03:43:18Z"
+          "title": "Cavaliers Make History in Opening Night Loss to 76ers",
+          "source": "Roundtable.io",
+          "link": "https://roundtable.io/sports/nba/cavaliers/news/cavaliers-make-history-in-opening-night-loss-to-76ers",
+          "published": "2026-10-23T08:38:51Z"
         }
       ]
     },
@@ -1628,27 +901,27 @@
           "direction": "none",
           "points_moved": 0,
           "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "label": "No movement",
+          "old_ml": "-485",
+          "new_ml": "-485"
         },
         "away": {
           "direction": "none",
           "points_moved": 0,
           "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "label": "No movement",
+          "old_ml": "+370",
+          "new_ml": "+370"
         },
         "pick": {
           "direction": "none",
           "points_moved": 0,
           "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "label": "No movement",
+          "old_ml": "-485",
+          "new_ml": "-485"
         },
-        "snapshot_time": "\u2014"
+        "snapshot_time": "October 24, 2026 at 03:57 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -1728,22 +1001,22 @@
       },
       "news": [
         {
-          "title": "Tyrese Maxey celebrates Jaylen Brown's immediate impact for the Philadelphia 76ers",
-          "source": "Sporting News",
-          "link": "https://www.sportingnews.com/us/nba/philadelphia-76ers/news/tyrese-maxey-celebrates-jaylen-brown-instant-impact-76ers/45e328bd1dda66299d693693",
-          "published": "2026-10-23T03:49:17Z"
+          "title": "METRO Redux\u2019s Next-Gen Update Hides a DLSS 5 Surprise, as NVIDIA\u2019s Neural Rendering Gives Old Characters New Life",
+          "source": "Wccftech",
+          "link": "https://wccftech.com/metro-redux-next-gen-update-dlss-5-neural-rendering-character-upgrade/",
+          "published": "2026-10-23T08:45:54Z"
         },
         {
-          "title": "Watch Celtics\u2019 Jayson Tatum reveal his stunned reaction to the Jaylen Brown trade",
-          "source": "ClutchPoints",
-          "link": "https://clutchpoints.com/nba/boston-celtics/celtics-news-watch-jayson-tatum-reveal-stunned-reaction-the-jaylen-brown-trade",
-          "published": "2026-10-23T03:43:50Z"
+          "title": "LeBron shrugs off Trump blast in home debut win for Philadelphia 76ers",
+          "source": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/sports/2026/10/23/lebron-shrugs-off-trump-blast-in-home-debut-win-for-philadelphia-76ers",
+          "published": "2026-10-23T08:42:10Z"
         },
         {
-          "title": "Jaylen Brown Helps 76ers Complete Historic 29-Point Comeback",
-          "source": "NESN",
-          "link": "https://nesn.com/boston-celtics/news/jaylen-brown-76ers-historic-comeback-cavaliers/995fa29d21230ca5538d8cdd",
-          "published": "2026-10-23T03:43:18Z"
+          "title": "Cavaliers Make History in Opening Night Loss to 76ers",
+          "source": "Roundtable.io",
+          "link": "https://roundtable.io/sports/nba/cavaliers/news/cavaliers-make-history-in-opening-night-loss-to-76ers",
+          "published": "2026-10-23T08:38:51Z"
         }
       ]
     },
@@ -1753,47 +1026,47 @@
       "away_team": "Golden State Warriors",
       "home_abbr": "PHX",
       "away_abbr": "GSW",
-      "home_ml": "-230",
-      "away_ml": "+190",
-      "home_ml_raw": -230,
-      "away_ml_raw": 190,
-      "home_prob": 66.9,
-      "away_prob": 33.1,
-      "spread": "PHX -6.5",
+      "home_ml": "-380",
+      "away_ml": "+300",
+      "home_ml_raw": -380,
+      "away_ml_raw": 300,
+      "home_prob": 76.0,
+      "away_prob": 24.0,
+      "spread": "PHX -9.5",
       "favorite": "Phoenix Suns",
       "pick": "Phoenix Suns",
       "pick_abbr": "PHX",
-      "moneyline": "-230",
-      "win_probability": 66.9,
-      "confidence": "MEDIUM",
-      "confidence_stars": "\u2605\u2605\u2606",
+      "moneyline": "-380",
+      "win_probability": 76.0,
+      "confidence": "HIGH",
+      "confidence_stars": "\u2605\u2605\u2605",
       "commence_time": "2026-10-25T02:10:00Z",
       "line_movement": {
         "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "direction": "shorter",
+          "points_moved": 150,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -380 \u2190 -230",
+          "old_ml": "-230",
+          "new_ml": "-380"
         },
         "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "direction": "longer",
+          "points_moved": 110,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM +300 \u2190 +190",
+          "old_ml": "+190",
+          "new_ml": "+300"
         },
         "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "direction": "shorter",
+          "points_moved": 150,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -380 \u2190 -230",
+          "old_ml": "-230",
+          "new_ml": "-380"
         },
-        "snapshot_time": "\u2014"
+        "snapshot_time": "October 24, 2026 at 03:57 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -1820,6 +1093,7 @@
         }
       },
       "edge_factors": [
+        "\ud83d\udd25 Sharp steam detected",
         "\ud83d\udca4 GSW fatigued (B2B) \u2014 source: ESPN"
       ],
       "injury_notes": "No key injuries.",
@@ -1859,7 +1133,7 @@
       "briefing": {
         "trend": "GSW on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "steam": "Line steamed from -230 to -380 (150pt move) \u2014 heavy professional action on Phoenix Suns.",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -1873,22 +1147,22 @@
       },
       "news": [
         {
-          "title": "Tyrese Maxey celebrates Jaylen Brown's immediate impact for the Philadelphia 76ers",
-          "source": "Sporting News",
-          "link": "https://www.sportingnews.com/us/nba/philadelphia-76ers/news/tyrese-maxey-celebrates-jaylen-brown-instant-impact-76ers/45e328bd1dda66299d693693",
-          "published": "2026-10-23T03:49:17Z"
+          "title": "METRO Redux\u2019s Next-Gen Update Hides a DLSS 5 Surprise, as NVIDIA\u2019s Neural Rendering Gives Old Characters New Life",
+          "source": "Wccftech",
+          "link": "https://wccftech.com/metro-redux-next-gen-update-dlss-5-neural-rendering-character-upgrade/",
+          "published": "2026-10-23T08:45:54Z"
         },
         {
-          "title": "Watch Celtics\u2019 Jayson Tatum reveal his stunned reaction to the Jaylen Brown trade",
-          "source": "ClutchPoints",
-          "link": "https://clutchpoints.com/nba/boston-celtics/celtics-news-watch-jayson-tatum-reveal-stunned-reaction-the-jaylen-brown-trade",
-          "published": "2026-10-23T03:43:50Z"
+          "title": "LeBron shrugs off Trump blast in home debut win for Philadelphia 76ers",
+          "source": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/sports/2026/10/23/lebron-shrugs-off-trump-blast-in-home-debut-win-for-philadelphia-76ers",
+          "published": "2026-10-23T08:42:10Z"
         },
         {
-          "title": "Jaylen Brown Helps 76ers Complete Historic 29-Point Comeback",
-          "source": "NESN",
-          "link": "https://nesn.com/boston-celtics/news/jaylen-brown-76ers-historic-comeback-cavaliers/995fa29d21230ca5538d8cdd",
-          "published": "2026-10-23T03:43:18Z"
+          "title": "Cavaliers Make History in Opening Night Loss to 76ers",
+          "source": "Roundtable.io",
+          "link": "https://roundtable.io/sports/nba/cavaliers/news/cavaliers-make-history-in-opening-night-loss-to-76ers",
+          "published": "2026-10-23T08:38:51Z"
         }
       ]
     },
@@ -1938,7 +1212,7 @@
           "old_ml": "-115",
           "new_ml": "-115"
         },
-        "snapshot_time": "October 24, 2026 at 12:18 AM UTC"
+        "snapshot_time": "October 24, 2026 at 03:57 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -2018,22 +1292,22 @@
       },
       "news": [
         {
-          "title": "Tyrese Maxey celebrates Jaylen Brown's immediate impact for the Philadelphia 76ers",
-          "source": "Sporting News",
-          "link": "https://www.sportingnews.com/us/nba/philadelphia-76ers/news/tyrese-maxey-celebrates-jaylen-brown-instant-impact-76ers/45e328bd1dda66299d693693",
-          "published": "2026-10-23T03:49:17Z"
+          "title": "METRO Redux\u2019s Next-Gen Update Hides a DLSS 5 Surprise, as NVIDIA\u2019s Neural Rendering Gives Old Characters New Life",
+          "source": "Wccftech",
+          "link": "https://wccftech.com/metro-redux-next-gen-update-dlss-5-neural-rendering-character-upgrade/",
+          "published": "2026-10-23T08:45:54Z"
         },
         {
-          "title": "Watch Celtics\u2019 Jayson Tatum reveal his stunned reaction to the Jaylen Brown trade",
-          "source": "ClutchPoints",
-          "link": "https://clutchpoints.com/nba/boston-celtics/celtics-news-watch-jayson-tatum-reveal-stunned-reaction-the-jaylen-brown-trade",
-          "published": "2026-10-23T03:43:50Z"
+          "title": "LeBron shrugs off Trump blast in home debut win for Philadelphia 76ers",
+          "source": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/sports/2026/10/23/lebron-shrugs-off-trump-blast-in-home-debut-win-for-philadelphia-76ers",
+          "published": "2026-10-23T08:42:10Z"
         },
         {
-          "title": "Jaylen Brown Helps 76ers Complete Historic 29-Point Comeback",
-          "source": "NESN",
-          "link": "https://nesn.com/boston-celtics/news/jaylen-brown-76ers-historic-comeback-cavaliers/995fa29d21230ca5538d8cdd",
-          "published": "2026-10-23T03:43:18Z"
+          "title": "Cavaliers Make History in Opening Night Loss to 76ers",
+          "source": "Roundtable.io",
+          "link": "https://roundtable.io/sports/nba/cavaliers/news/cavaliers-make-history-in-opening-night-loss-to-76ers",
+          "published": "2026-10-23T08:38:51Z"
         }
       ]
     },
@@ -2083,7 +1357,7 @@
           "old_ml": "-185",
           "new_ml": "-185"
         },
-        "snapshot_time": "October 24, 2026 at 12:18 AM UTC"
+        "snapshot_time": "October 24, 2026 at 03:57 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -2163,22 +1437,22 @@
       },
       "news": [
         {
-          "title": "Tyrese Maxey celebrates Jaylen Brown's immediate impact for the Philadelphia 76ers",
-          "source": "Sporting News",
-          "link": "https://www.sportingnews.com/us/nba/philadelphia-76ers/news/tyrese-maxey-celebrates-jaylen-brown-instant-impact-76ers/45e328bd1dda66299d693693",
-          "published": "2026-10-23T03:49:17Z"
+          "title": "METRO Redux\u2019s Next-Gen Update Hides a DLSS 5 Surprise, as NVIDIA\u2019s Neural Rendering Gives Old Characters New Life",
+          "source": "Wccftech",
+          "link": "https://wccftech.com/metro-redux-next-gen-update-dlss-5-neural-rendering-character-upgrade/",
+          "published": "2026-10-23T08:45:54Z"
         },
         {
-          "title": "Watch Celtics\u2019 Jayson Tatum reveal his stunned reaction to the Jaylen Brown trade",
-          "source": "ClutchPoints",
-          "link": "https://clutchpoints.com/nba/boston-celtics/celtics-news-watch-jayson-tatum-reveal-stunned-reaction-the-jaylen-brown-trade",
-          "published": "2026-10-23T03:43:50Z"
+          "title": "LeBron shrugs off Trump blast in home debut win for Philadelphia 76ers",
+          "source": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/sports/2026/10/23/lebron-shrugs-off-trump-blast-in-home-debut-win-for-philadelphia-76ers",
+          "published": "2026-10-23T08:42:10Z"
         },
         {
-          "title": "Jaylen Brown Helps 76ers Complete Historic 29-Point Comeback",
-          "source": "NESN",
-          "link": "https://nesn.com/boston-celtics/news/jaylen-brown-76ers-historic-comeback-cavaliers/995fa29d21230ca5538d8cdd",
-          "published": "2026-10-23T03:43:18Z"
+          "title": "Cavaliers Make History in Opening Night Loss to 76ers",
+          "source": "Roundtable.io",
+          "link": "https://roundtable.io/sports/nba/cavaliers/news/cavaliers-make-history-in-opening-night-loss-to-76ers",
+          "published": "2026-10-23T08:38:51Z"
         }
       ]
     },
@@ -2228,7 +1502,7 @@
           "old_ml": "-115",
           "new_ml": "-115"
         },
-        "snapshot_time": "October 24, 2026 at 12:18 AM UTC"
+        "snapshot_time": "October 24, 2026 at 03:57 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -2308,22 +1582,22 @@
       },
       "news": [
         {
-          "title": "Tyrese Maxey celebrates Jaylen Brown's immediate impact for the Philadelphia 76ers",
-          "source": "Sporting News",
-          "link": "https://www.sportingnews.com/us/nba/philadelphia-76ers/news/tyrese-maxey-celebrates-jaylen-brown-instant-impact-76ers/45e328bd1dda66299d693693",
-          "published": "2026-10-23T03:49:17Z"
+          "title": "METRO Redux\u2019s Next-Gen Update Hides a DLSS 5 Surprise, as NVIDIA\u2019s Neural Rendering Gives Old Characters New Life",
+          "source": "Wccftech",
+          "link": "https://wccftech.com/metro-redux-next-gen-update-dlss-5-neural-rendering-character-upgrade/",
+          "published": "2026-10-23T08:45:54Z"
         },
         {
-          "title": "Watch Celtics\u2019 Jayson Tatum reveal his stunned reaction to the Jaylen Brown trade",
-          "source": "ClutchPoints",
-          "link": "https://clutchpoints.com/nba/boston-celtics/celtics-news-watch-jayson-tatum-reveal-stunned-reaction-the-jaylen-brown-trade",
-          "published": "2026-10-23T03:43:50Z"
+          "title": "LeBron shrugs off Trump blast in home debut win for Philadelphia 76ers",
+          "source": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/sports/2026/10/23/lebron-shrugs-off-trump-blast-in-home-debut-win-for-philadelphia-76ers",
+          "published": "2026-10-23T08:42:10Z"
         },
         {
-          "title": "Jaylen Brown Helps 76ers Complete Historic 29-Point Comeback",
-          "source": "NESN",
-          "link": "https://nesn.com/boston-celtics/news/jaylen-brown-76ers-historic-comeback-cavaliers/995fa29d21230ca5538d8cdd",
-          "published": "2026-10-23T03:43:18Z"
+          "title": "Cavaliers Make History in Opening Night Loss to 76ers",
+          "source": "Roundtable.io",
+          "link": "https://roundtable.io/sports/nba/cavaliers/news/cavaliers-make-history-in-opening-night-loss-to-76ers",
+          "published": "2026-10-23T08:38:51Z"
         }
       ]
     },
@@ -2373,7 +1647,7 @@
           "old_ml": "-155",
           "new_ml": "-155"
         },
-        "snapshot_time": "October 24, 2026 at 12:18 AM UTC"
+        "snapshot_time": "October 24, 2026 at 03:57 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -2453,22 +1727,22 @@
       },
       "news": [
         {
-          "title": "Tyrese Maxey celebrates Jaylen Brown's immediate impact for the Philadelphia 76ers",
-          "source": "Sporting News",
-          "link": "https://www.sportingnews.com/us/nba/philadelphia-76ers/news/tyrese-maxey-celebrates-jaylen-brown-instant-impact-76ers/45e328bd1dda66299d693693",
-          "published": "2026-10-23T03:49:17Z"
+          "title": "METRO Redux\u2019s Next-Gen Update Hides a DLSS 5 Surprise, as NVIDIA\u2019s Neural Rendering Gives Old Characters New Life",
+          "source": "Wccftech",
+          "link": "https://wccftech.com/metro-redux-next-gen-update-dlss-5-neural-rendering-character-upgrade/",
+          "published": "2026-10-23T08:45:54Z"
         },
         {
-          "title": "Watch Celtics\u2019 Jayson Tatum reveal his stunned reaction to the Jaylen Brown trade",
-          "source": "ClutchPoints",
-          "link": "https://clutchpoints.com/nba/boston-celtics/celtics-news-watch-jayson-tatum-reveal-stunned-reaction-the-jaylen-brown-trade",
-          "published": "2026-10-23T03:43:50Z"
+          "title": "LeBron shrugs off Trump blast in home debut win for Philadelphia 76ers",
+          "source": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/sports/2026/10/23/lebron-shrugs-off-trump-blast-in-home-debut-win-for-philadelphia-76ers",
+          "published": "2026-10-23T08:42:10Z"
         },
         {
-          "title": "Jaylen Brown Helps 76ers Complete Historic 29-Point Comeback",
-          "source": "NESN",
-          "link": "https://nesn.com/boston-celtics/news/jaylen-brown-76ers-historic-comeback-cavaliers/995fa29d21230ca5538d8cdd",
-          "published": "2026-10-23T03:43:18Z"
+          "title": "Cavaliers Make History in Opening Night Loss to 76ers",
+          "source": "Roundtable.io",
+          "link": "https://roundtable.io/sports/nba/cavaliers/news/cavaliers-make-history-in-opening-night-loss-to-76ers",
+          "published": "2026-10-23T08:38:51Z"
         }
       ]
     },
@@ -2518,7 +1792,7 @@
           "old_ml": "-130",
           "new_ml": "-130"
         },
-        "snapshot_time": "October 24, 2026 at 12:18 AM UTC"
+        "snapshot_time": "October 24, 2026 at 03:57 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -2598,22 +1872,22 @@
       },
       "news": [
         {
-          "title": "Tyrese Maxey celebrates Jaylen Brown's immediate impact for the Philadelphia 76ers",
-          "source": "Sporting News",
-          "link": "https://www.sportingnews.com/us/nba/philadelphia-76ers/news/tyrese-maxey-celebrates-jaylen-brown-instant-impact-76ers/45e328bd1dda66299d693693",
-          "published": "2026-10-23T03:49:17Z"
+          "title": "METRO Redux\u2019s Next-Gen Update Hides a DLSS 5 Surprise, as NVIDIA\u2019s Neural Rendering Gives Old Characters New Life",
+          "source": "Wccftech",
+          "link": "https://wccftech.com/metro-redux-next-gen-update-dlss-5-neural-rendering-character-upgrade/",
+          "published": "2026-10-23T08:45:54Z"
         },
         {
-          "title": "Watch Celtics\u2019 Jayson Tatum reveal his stunned reaction to the Jaylen Brown trade",
-          "source": "ClutchPoints",
-          "link": "https://clutchpoints.com/nba/boston-celtics/celtics-news-watch-jayson-tatum-reveal-stunned-reaction-the-jaylen-brown-trade",
-          "published": "2026-10-23T03:43:50Z"
+          "title": "LeBron shrugs off Trump blast in home debut win for Philadelphia 76ers",
+          "source": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/sports/2026/10/23/lebron-shrugs-off-trump-blast-in-home-debut-win-for-philadelphia-76ers",
+          "published": "2026-10-23T08:42:10Z"
         },
         {
-          "title": "Jaylen Brown Helps 76ers Complete Historic 29-Point Comeback",
-          "source": "NESN",
-          "link": "https://nesn.com/boston-celtics/news/jaylen-brown-76ers-historic-comeback-cavaliers/995fa29d21230ca5538d8cdd",
-          "published": "2026-10-23T03:43:18Z"
+          "title": "Cavaliers Make History in Opening Night Loss to 76ers",
+          "source": "Roundtable.io",
+          "link": "https://roundtable.io/sports/nba/cavaliers/news/cavaliers-make-history-in-opening-night-loss-to-76ers",
+          "published": "2026-10-23T08:38:51Z"
         }
       ]
     }
@@ -2628,36 +1902,36 @@
       "profit": -172.66
     },
     "MEDIUM": {
-      "wins": 8,
-      "losses": 3,
-      "total": 11,
-      "win_pct": 72.7,
-      "roi": 11.1,
-      "profit": 122.16
+      "wins": 10,
+      "losses": 5,
+      "total": 15,
+      "win_pct": 66.7,
+      "roi": 0.9,
+      "profit": 13.0
     },
     "HIGH": {
-      "wins": 1,
+      "wins": 2,
       "losses": 0,
-      "total": 1,
+      "total": 2,
       "win_pct": 100.0,
-      "roi": 32.3,
-      "profit": 32.26
+      "roi": 29.3,
+      "profit": 58.58
     },
     "overall_7d": {
-      "wins": 2,
-      "losses": 4,
-      "total": 6,
-      "win_pct": 33.3,
-      "roi": -45.9,
-      "profit": -275.53
+      "wins": 5,
+      "losses": 5,
+      "total": 10,
+      "win_pct": 50.0,
+      "roi": -25.8,
+      "profit": -258.37
     },
     "overall_30d": {
-      "wins": 4,
-      "losses": 4,
-      "total": 8,
-      "win_pct": 50.0,
-      "roi": -9.4,
-      "profit": -75.53
+      "wins": 7,
+      "losses": 5,
+      "total": 12,
+      "win_pct": 58.3,
+      "roi": -4.9,
+      "profit": -58.37
     }
   }
 }

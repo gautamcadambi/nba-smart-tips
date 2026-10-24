@@ -122,9 +122,11 @@
       "win_probability": 66.4,
       "commence_time": "2026-10-24T01:40:00Z",
       "date": "2026-08-11T22:41:54.716227+00:00",
-      "graded": false,
-      "result": null,
-      "profit": null
+      "graded": true,
+      "result": "LOSS",
+      "profit": -100,
+      "home_score": 110,
+      "away_score": 114
     },
     {
       "game": "Miami Heat @ Boston Celtics",
@@ -784,9 +786,11 @@
       "win_probability": 63.1,
       "commence_time": "2026-10-24T01:40:00Z",
       "date": "2026-10-22T09:21:23.061302+00:00",
-      "graded": false,
-      "result": null,
-      "profit": null
+      "graded": true,
+      "result": "WIN",
+      "profit": 52.08,
+      "home_score": 120,
+      "away_score": 119
     },
     {
       "game": "Memphis Grizzlies @ Golden State Warriors",
@@ -798,9 +802,11 @@
       "win_probability": 58.3,
       "commence_time": "2026-10-24T02:10:00Z",
       "date": "2026-10-22T09:21:23.061302+00:00",
-      "graded": false,
-      "result": null,
-      "profit": null
+      "graded": true,
+      "result": "LOSS",
+      "profit": -100,
+      "home_score": 108,
+      "away_score": 111
     },
     {
       "game": "Los Angeles Clippers @ Los Angeles Lakers",
@@ -812,9 +818,11 @@
       "win_probability": 76.0,
       "commence_time": "2026-10-24T02:10:00Z",
       "date": "2026-10-22T09:21:23.061302+00:00",
-      "graded": false,
-      "result": null,
-      "profit": null
+      "graded": true,
+      "result": "WIN",
+      "profit": 26.32,
+      "home_score": 125,
+      "away_score": 117
     },
     {
       "game": "Portland Trail Blazers @ Sacramento Kings",
@@ -826,9 +834,11 @@
       "win_probability": 69.1,
       "commence_time": "2026-10-24T02:10:00Z",
       "date": "2026-10-22T09:21:23.061302+00:00",
-      "graded": false,
-      "result": null,
-      "profit": null
+      "graded": true,
+      "result": "WIN",
+      "profit": 38.76,
+      "home_score": 120,
+      "away_score": 128
     },
     {
       "game": "Miami Heat @ Charlotte Hornets",
@@ -953,37 +963,37 @@
       "profit": -172.66
     },
     "MEDIUM": {
-      "wins": 8,
-      "losses": 3,
-      "total": 11,
-      "win_pct": 72.7,
-      "roi": 11.1,
-      "profit": 122.16
+      "wins": 10,
+      "losses": 5,
+      "total": 15,
+      "win_pct": 66.7,
+      "roi": 0.9,
+      "profit": 13.0
     },
     "HIGH": {
-      "wins": 1,
+      "wins": 2,
       "losses": 0,
-      "total": 1,
+      "total": 2,
       "win_pct": 100.0,
-      "roi": 32.3,
-      "profit": 32.26
+      "roi": 29.3,
+      "profit": 58.58
     },
     "overall_7d": {
-      "wins": 2,
-      "losses": 4,
-      "total": 6,
-      "win_pct": 33.3,
-      "roi": -45.9,
-      "profit": -275.53
+      "wins": 5,
+      "losses": 5,
+      "total": 10,
+      "win_pct": 50.0,
+      "roi": -25.8,
+      "profit": -258.37
     },
     "overall_30d": {
-      "wins": 4,
-      "losses": 4,
-      "total": 8,
-      "win_pct": 50.0,
-      "roi": -9.4,
-      "profit": -75.53
+      "wins": 7,
+      "losses": 5,
+      "total": 12,
+      "win_pct": 58.3,
+      "roi": -4.9,
+      "profit": -58.37
     }
   },
-  "last_graded": "2026-10-24T03:56:31.189311+00:00"
+  "last_graded": "2026-10-24T08:47:38.276424+00:00"
 }
