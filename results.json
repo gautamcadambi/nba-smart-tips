@@ -946,9 +946,11 @@
       "win_probability": 79.6,
       "commence_time": "2026-10-25T01:10:00Z",
       "date": "2026-10-24T03:57:21.121996+00:00",
-      "graded": false,
-      "result": null,
-      "profit": null
+      "graded": true,
+      "result": "WIN",
+      "profit": 20.62,
+      "home_score": 141,
+      "away_score": 135
     },
     {
       "game": "Golden State Warriors @ Phoenix Suns",
@@ -960,9 +962,11 @@
       "win_probability": 66.9,
       "commence_time": "2026-10-25T02:10:00Z",
       "date": "2026-10-24T03:57:21.121996+00:00",
-      "graded": false,
-      "result": null,
-      "profit": null
+      "graded": true,
+      "result": "WIN",
+      "profit": 43.48,
+      "home_score": 131,
+      "away_score": 122
     },
     {
       "game": "Los Angeles Lakers @ Utah Jazz",
@@ -1073,37 +1077,37 @@
       "profit": -372.66
     },
     "MEDIUM": {
-      "wins": 10,
+      "wins": 11,
       "losses": 6,
-      "total": 16,
-      "win_pct": 62.5,
-      "roi": -5.4,
-      "profit": -87.0
+      "total": 17,
+      "win_pct": 64.7,
+      "roi": -2.6,
+      "profit": -43.52
     },
     "HIGH": {
-      "wins": 5,
+      "wins": 6,
       "losses": 0,
-      "total": 5,
+      "total": 6,
       "win_pct": 100.0,
-      "roi": 23.6,
-      "profit": 117.84
+      "roi": 23.1,
+      "profit": 138.46
     },
     "overall_7d": {
-      "wins": 8,
-      "losses": 8,
-      "total": 16,
-      "win_pct": 50.0,
-      "roi": -31.2,
-      "profit": -499.11
-    },
-    "overall_30d": {
       "wins": 10,
       "losses": 8,
       "total": 18,
       "win_pct": 55.6,
-      "roi": -16.6,
-      "profit": -299.11
+      "roi": -24.2,
+      "profit": -435.01
+    },
+    "overall_30d": {
+      "wins": 12,
+      "losses": 8,
+      "total": 20,
+      "win_pct": 60.0,
+      "roi": -11.8,
+      "profit": -235.01
     }
   },
-  "last_graded": "2026-10-25T03:55:52.161310+00:00"
+  "last_graded": "2026-10-25T09:02:23.904246+00:00"
 }
