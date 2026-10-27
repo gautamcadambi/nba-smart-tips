@@ -208,9 +208,11 @@
       "win_probability": 81.7,
       "commence_time": "2026-10-30T23:40:00Z",
       "date": "2026-08-12T22:41:16.274924+00:00",
-      "graded": false,
-      "result": null,
-      "profit": null
+      "graded": true,
+      "result": "WIN",
+      "profit": 17.39,
+      "home_score": 134,
+      "away_score": 99
     },
     {
       "game": "Detroit Pistons @ Brooklyn Nets",
@@ -1090,9 +1092,11 @@
       "win_probability": 56.3,
       "commence_time": "2026-10-26T23:10:00Z",
       "date": "2026-10-25T23:52:36.290258+00:00",
-      "graded": false,
-      "result": null,
-      "profit": null
+      "graded": true,
+      "result": "WIN",
+      "profit": 70.42,
+      "home_score": 110,
+      "away_score": 103
     },
     {
       "game": "Minnesota Timberwolves @ Cleveland Cavaliers",
@@ -1104,9 +1108,11 @@
       "win_probability": 58.3,
       "commence_time": "2026-10-26T23:10:00Z",
       "date": "2026-10-26T04:01:06.180722+00:00",
-      "graded": false,
-      "result": null,
-      "profit": null
+      "graded": true,
+      "result": "WIN",
+      "profit": 64.52,
+      "home_score": 127,
+      "away_score": 125
     },
     {
       "game": "Dallas Mavericks @ Miami Heat",
@@ -1118,9 +1124,11 @@
       "win_probability": 74.1,
       "commence_time": "2026-10-26T23:30:00Z",
       "date": "2026-10-26T04:01:06.180722+00:00",
-      "graded": false,
-      "result": null,
-      "profit": null
+      "graded": true,
+      "result": "LOSS",
+      "profit": -100,
+      "home_score": 109,
+      "away_score": 113
     },
     {
       "game": "Indiana Pacers @ Milwaukee Bucks",
@@ -1132,9 +1140,11 @@
       "win_probability": 60.4,
       "commence_time": "2026-10-27T00:10:00Z",
       "date": "2026-10-26T04:01:06.180722+00:00",
-      "graded": false,
-      "result": null,
-      "profit": null
+      "graded": true,
+      "result": "LOSS",
+      "profit": -100,
+      "home_score": 110,
+      "away_score": 102
     },
     {
       "game": "Phoenix Suns @ Oklahoma City Thunder",
@@ -1146,9 +1156,11 @@
       "win_probability": 76.6,
       "commence_time": "2026-10-27T00:10:00Z",
       "date": "2026-10-26T04:01:06.180722+00:00",
-      "graded": false,
-      "result": null,
-      "profit": null
+      "graded": true,
+      "result": "WIN",
+      "profit": 25.32,
+      "home_score": 125,
+      "away_score": 114
     },
     {
       "game": "Atlanta Hawks @ Houston Rockets",
@@ -1160,9 +1172,11 @@
       "win_probability": 64.5,
       "commence_time": "2026-10-27T00:30:00Z",
       "date": "2026-10-26T04:01:06.180722+00:00",
-      "graded": false,
-      "result": null,
-      "profit": null
+      "graded": true,
+      "result": "WIN",
+      "profit": 48.78,
+      "home_score": 120,
+      "away_score": 110
     },
     {
       "game": "Memphis Grizzlies @ Utah Jazz",
@@ -1174,9 +1188,11 @@
       "win_probability": 51.1,
       "commence_time": "2026-10-27T01:10:00Z",
       "date": "2026-10-26T04:01:06.180722+00:00",
-      "graded": false,
-      "result": null,
-      "profit": null
+      "graded": true,
+      "result": "LOSS",
+      "profit": -100,
+      "home_score": 105,
+      "away_score": 110
     },
     {
       "game": "Golden State Warriors @ Denver Nuggets",
@@ -1205,49 +1221,91 @@
       "graded": false,
       "result": null,
       "profit": null
+    },
+    {
+      "game": "Brooklyn Nets @ Boston Celtics",
+      "pick": "Boston Celtics",
+      "pick_abbr": "BOS",
+      "moneyline": "-575",
+      "moneyline_raw": -575,
+      "confidence": "HIGH",
+      "win_probability": 81.7,
+      "commence_time": "2026-10-27T23:40:00Z",
+      "date": "2026-10-27T04:21:44.583546+00:00",
+      "graded": false,
+      "result": null,
+      "profit": null
+    },
+    {
+      "game": "Detroit Pistons @ New York Knicks",
+      "pick": "New York Knicks",
+      "pick_abbr": "NYK",
+      "moneyline": "-155",
+      "moneyline_raw": -155,
+      "confidence": "MEDIUM",
+      "win_probability": 58.3,
+      "commence_time": "2026-10-28T00:10:00Z",
+      "date": "2026-10-27T04:21:44.583546+00:00",
+      "graded": false,
+      "result": null,
+      "profit": null
+    },
+    {
+      "game": "Sacramento Kings @ San Antonio Spurs",
+      "pick": "San Antonio Spurs",
+      "pick_abbr": "SAS",
+      "moneyline": "-1800",
+      "moneyline_raw": -1800,
+      "confidence": "HIGH",
+      "win_probability": 91.2,
+      "commence_time": "2026-10-28T00:10:00Z",
+      "date": "2026-10-27T04:21:44.583546+00:00",
+      "graded": false,
+      "result": null,
+      "profit": null
     }
   ],
   "summary": {
     "LOW": {
-      "wins": 6,
-      "losses": 9,
-      "total": 15,
-      "win_pct": 40.0,
-      "roi": -25.7,
-      "profit": -385.7
+      "wins": 7,
+      "losses": 10,
+      "total": 17,
+      "win_pct": 41.2,
+      "roi": -24.4,
+      "profit": -415.28
     },
     "MEDIUM": {
-      "wins": 14,
-      "losses": 6,
-      "total": 20,
-      "win_pct": 70.0,
-      "roi": 4.7,
-      "profit": 93.29
+      "wins": 16,
+      "losses": 7,
+      "total": 23,
+      "win_pct": 69.6,
+      "roi": 4.6,
+      "profit": 106.59
     },
     "HIGH": {
-      "wins": 7,
-      "losses": 1,
-      "total": 8,
-      "win_pct": 87.5,
-      "roi": 6.1,
-      "profit": 48.99
+      "wins": 9,
+      "losses": 2,
+      "total": 11,
+      "win_pct": 81.8,
+      "roi": -0.8,
+      "profit": -8.3
     },
     "overall_7d": {
-      "wins": 15,
-      "losses": 10,
-      "total": 25,
-      "win_pct": 60.0,
-      "roi": -16.0,
-      "profit": -400.71
+      "wins": 19,
+      "losses": 13,
+      "total": 32,
+      "win_pct": 59.4,
+      "roi": -15.4,
+      "profit": -491.67
     },
     "overall_30d": {
-      "wins": 17,
-      "losses": 10,
-      "total": 27,
-      "win_pct": 63.0,
-      "roi": -7.4,
-      "profit": -200.71
+      "wins": 21,
+      "losses": 13,
+      "total": 34,
+      "win_pct": 61.8,
+      "roi": -8.6,
+      "profit": -291.67
     }
   },
-  "last_graded": "2026-10-26T04:00:18.396031+00:00"
+  "last_graded": "2026-10-27T04:20:56.887984+00:00"
 }
