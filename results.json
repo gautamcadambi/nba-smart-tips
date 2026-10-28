@@ -322,9 +322,11 @@
       "win_probability": 59.3,
       "commence_time": "2026-11-07T03:10:00Z",
       "date": "2026-08-12T22:41:16.274924+00:00",
-      "graded": false,
-      "result": null,
-      "profit": null
+      "graded": true,
+      "result": "LOSS",
+      "profit": -100,
+      "home_score": 129,
+      "away_score": 136
     },
     {
       "game": "New York Knicks @ Indiana Pacers",
@@ -1424,11 +1426,11 @@
     },
     "MEDIUM": {
       "wins": 17,
-      "losses": 7,
-      "total": 24,
-      "win_pct": 70.8,
-      "roi": 7.1,
-      "profit": 171.11
+      "losses": 8,
+      "total": 25,
+      "win_pct": 68.0,
+      "roi": 2.8,
+      "profit": 71.11
     },
     "HIGH": {
       "wins": 11,
@@ -1455,5 +1457,5 @@
       "profit": -304.2
     }
   },
-  "last_graded": "2026-10-28T04:51:34.980044+00:00"
+  "last_graded": "2026-10-28T11:08:03.743277+00:00"
 }
