@@ -1,226 +1,81 @@
 {
-  "last_updated": "October 28, 2026 at 05:00 PM UTC",
-  "total_games": 17,
+  "last_updated": "October 29, 2026 at 01:35 AM UTC",
+  "total_games": 19,
   "games": [
-    {
-      "game": "Miami Heat @ Atlanta Hawks",
-      "home_team": "Atlanta Hawks",
-      "away_team": "Miami Heat",
-      "home_abbr": "ATL",
-      "away_abbr": "MIA",
-      "home_ml": "-135",
-      "away_ml": "+114",
-      "home_ml_raw": -135,
-      "away_ml_raw": 114,
-      "home_prob": 55.1,
-      "away_prob": 44.9,
-      "spread": "ATL -1.5",
-      "favorite": "Atlanta Hawks",
-      "pick": "Atlanta Hawks",
-      "pick_abbr": "ATL",
-      "moneyline": "-135",
-      "win_probability": 55.1,
-      "confidence": "LOW",
-      "confidence_stars": "\u2605\u2606\u2606",
-      "commence_time": "2026-10-28T23:10:00Z",
-      "line_movement": {
-        "home": {
-          "direction": "longer",
-          "points_moved": 27,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -135 \u2190 -162",
-          "old_ml": "-162",
-          "new_ml": "-135"
-        },
-        "away": {
-          "direction": "shorter",
-          "points_moved": 22,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM +114 \u2190 +136",
-          "old_ml": "+136",
-          "new_ml": "+114"
-        },
-        "pick": {
-          "direction": "longer",
-          "points_moved": 27,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -135 \u2190 -162",
-          "old_ml": "-162",
-          "new_ml": "-135"
-        },
-        "snapshot_time": "October 28, 2026 at 11:08 AM UTC"
-      },
-      "fatigue": {
-        "home": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "Oct 26",
-          "days_rest": 2,
-          "games_last_4d": 2,
-          "travel_miles": 701,
-          "travel_desc": "701 mi road trip",
-          "source": "ESPN Scoreboard API"
-        },
-        "away": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "Oct 26",
-          "days_rest": 2,
-          "games_last_4d": 2,
-          "travel_miles": 654,
-          "travel_desc": "654 mi road trip",
-          "source": "ESPN Scoreboard API"
-        }
-      },
-      "edge_factors": [
-        "\ud83d\udd25 Sharp steam detected"
-      ],
-      "injury_notes": "No key injuries.",
-      "sharp": {
-        "away_t": null,
-        "home_t": null,
-        "source": null,
-        "sharp_signal": null,
-        "sharp_label": "Pending \u2014 check closer to tip-off",
-        "rlm": false
-      },
-      "form": {
-        "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        },
-        "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        }
-      },
-      "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
-      },
-      "briefing": {
-        "trend": "Atlanta Hawks hold a 55.1% edge.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -162 to -135 (27pt move) \u2014 heavy professional action on Atlanta Hawks.",
-        "injury_notes": "No key injuries."
-      },
-      "live": {
-        "status": "pre",
-        "status_detail": "Upcoming",
-        "period": 0,
-        "clock": "",
-        "home_score": 0,
-        "away_score": 0,
-        "spread_alert": null
-      },
-      "news": [
-        {
-          "title": "Anthony Edwards' 47 Points Not Enough as Timberwolves Fall for First Time",
-          "source": "Biztoc.com",
-          "link": "https://biztoc.com/x/c7438a9e1d5c6ab1",
-          "published": "2026-10-27T16:57:57Z"
-        },
-        {
-          "title": "Why Knicks may not be their best right away -- and why not to worry",
-          "source": "SNY.tv",
-          "link": "https://sny.tv/articles/why-knicks-may-not-be-best-right-away-2026-nba-season",
-          "published": "2026-10-27T16:57:02Z"
-        },
-        {
-          "title": "Paul Pierce \u2014 who earned $195 million in NBA career \u2014 \u2018drowning financially\u2019 in lawsuit drama",
-          "source": "New York Post",
-          "link": "https://nypost.com/2026/10/27/sports/paul-pierce-who-earned-195-million-in-nba-career-drowning-financially-in-lawsuit-drama/?utm_source=yahoo&amp;utm_campaign=nypost&amp;utm_medium=referral",
-          "published": "2026-10-27T16:56:18Z"
-        }
-      ]
-    },
     {
       "game": "Charlotte Hornets @ Detroit Pistons",
       "home_team": "Detroit Pistons",
       "away_team": "Charlotte Hornets",
       "home_abbr": "DET",
       "away_abbr": "CHA",
-      "home_ml": "-290",
-      "away_ml": "+235",
-      "home_ml_raw": -290,
-      "away_ml_raw": 235,
-      "home_prob": 71.4,
-      "away_prob": 28.6,
-      "spread": "DET -7.5",
+      "home_ml": "N/A",
+      "away_ml": "N/A",
+      "home_ml_raw": null,
+      "away_ml_raw": null,
+      "home_prob": 50.0,
+      "away_prob": 50.0,
+      "spread": "DET -6.5",
       "favorite": "Detroit Pistons",
       "pick": "Detroit Pistons",
       "pick_abbr": "DET",
-      "moneyline": "-290",
-      "win_probability": 71.4,
-      "confidence": "MEDIUM",
-      "confidence_stars": "\u2605\u2605\u2606",
-      "commence_time": "2026-10-28T23:10:00Z",
+      "moneyline": "N/A",
+      "win_probability": 50.0,
+      "confidence": "LOW",
+      "confidence_stars": "\u2605\u2606\u2606",
+      "commence_time": "2026-10-28T23:11:00Z",
       "line_movement": {
         "home": {
-          "direction": "shorter",
-          "points_moved": 32,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -290 \u2190 -258",
-          "old_ml": "-258",
-          "new_ml": "-290"
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
         },
         "away": {
-          "direction": "longer",
-          "points_moved": 25,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM +235 \u2190 +210",
-          "old_ml": "+210",
-          "new_ml": "+235"
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
         },
         "pick": {
-          "direction": "shorter",
-          "points_moved": 32,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -290 \u2190 -258",
-          "old_ml": "-258",
-          "new_ml": "-290"
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
         },
-        "snapshot_time": "October 28, 2026 at 11:08 AM UTC"
+        "snapshot_time": "October 28, 2026 at 05:00 PM UTC"
       },
       "fatigue": {
         "home": {
           "status": "B2B",
           "label": "Back-to-Back \u26a0\ufe0f",
           "battery": 20,
-          "last_game": "Oct 27",
+          "last_game": "Oct 28",
           "days_rest": 1,
-          "games_last_4d": 2,
+          "games_last_4d": 3,
           "travel_miles": 481,
           "travel_desc": "481 mi road trip",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "Oct 26",
-          "days_rest": 2,
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Oct 28",
+          "days_rest": 1,
           "games_last_4d": 2,
-          "travel_miles": 0,
-          "travel_desc": "",
+          "travel_miles": 506,
+          "travel_desc": "506 mi road trip",
           "source": "ESPN Scoreboard API"
         }
       },
       "edge_factors": [
-        "\ud83d\udd25 Sharp steam detected"
+        "\ud83d\udca4 CHA fatigued (B2B) \u2014 source: ESPN"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -257,9 +112,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "DET on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "trend": "DET on Back-to-Back \u26a0\ufe0f per ESPN schedule data. CHA on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -258 to -290 (32pt move) \u2014 heavy professional action on Detroit Pistons.",
+        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -273,22 +128,22 @@
       },
       "news": [
         {
-          "title": "Anthony Edwards' 47 Points Not Enough as Timberwolves Fall for First Time",
-          "source": "Biztoc.com",
-          "link": "https://biztoc.com/x/c7438a9e1d5c6ab1",
-          "published": "2026-10-27T16:57:57Z"
+          "title": "NBA Star Lamar Odom Joins OnlyFans, Teases What Fans Might See",
+          "source": "Eonline.com",
+          "link": "https://www.eonline.com/news/1437559/khloe-kardashian-ex-lamar-odom-joins-onlyfans-teases-what-fans-will-see",
+          "published": "2026-10-28T01:17:43Z"
         },
         {
-          "title": "Why Knicks may not be their best right away -- and why not to worry",
-          "source": "SNY.tv",
-          "link": "https://sny.tv/articles/why-knicks-may-not-be-best-right-away-2026-nba-season",
-          "published": "2026-10-27T16:57:02Z"
+          "title": "Here are 4 OKC Thunder players who must help with Jalen Williams, Cason Wallace out",
+          "source": "USA Today",
+          "link": "https://okcthunderwire.usatoday.com/story/sports/nba/thunder/2026/10/27/here-are-4-okc-thunder-players-who-must-help-with-jalen-williams-cason-wallace-out/92469174007/",
+          "published": "2026-10-28T01:15:12Z"
         },
         {
-          "title": "Paul Pierce \u2014 who earned $195 million in NBA career \u2014 \u2018drowning financially\u2019 in lawsuit drama",
-          "source": "New York Post",
-          "link": "https://nypost.com/2026/10/27/sports/paul-pierce-who-earned-195-million-in-nba-career-drowning-financially-in-lawsuit-drama/?utm_source=yahoo&amp;utm_campaign=nypost&amp;utm_medium=referral",
-          "published": "2026-10-27T16:56:18Z"
+          "title": "Dream Blame WNBA for Schedule Snafu that Led to Midday Game",
+          "source": "Frontofficesports.com",
+          "link": "https://frontofficesports.com/article/dream-blame-wnba-schedule-snafu-midday-game/",
+          "published": "2026-10-28T01:13:53Z"
         }
       ]
     },
@@ -298,74 +153,74 @@
       "away_team": "Washington Wizards",
       "home_abbr": "CLE",
       "away_abbr": "WAS",
-      "home_ml": "-395",
-      "away_ml": "+310",
-      "home_ml_raw": -395,
-      "away_ml_raw": 310,
-      "home_prob": 76.6,
-      "away_prob": 23.4,
+      "home_ml": "N/A",
+      "away_ml": "N/A",
+      "home_ml_raw": null,
+      "away_ml_raw": null,
+      "home_prob": 50.0,
+      "away_prob": 50.0,
       "spread": "CLE -10.5",
       "favorite": "Cleveland Cavaliers",
       "pick": "Cleveland Cavaliers",
       "pick_abbr": "CLE",
-      "moneyline": "-395",
-      "win_probability": 76.6,
-      "confidence": "HIGH",
-      "confidence_stars": "\u2605\u2605\u2605",
-      "commence_time": "2026-10-28T23:10:00Z",
+      "moneyline": "N/A",
+      "win_probability": 50.0,
+      "confidence": "LOW",
+      "confidence_stars": "\u2605\u2606\u2606",
+      "commence_time": "2026-10-28T23:11:00Z",
       "line_movement": {
         "home": {
           "direction": "none",
           "points_moved": 0,
           "steam": false,
-          "label": "No movement",
-          "old_ml": "-395",
-          "new_ml": "-395"
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
         },
         "away": {
           "direction": "none",
           "points_moved": 0,
           "steam": false,
-          "label": "No movement",
-          "old_ml": "+310",
-          "new_ml": "+310"
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
         },
         "pick": {
           "direction": "none",
           "points_moved": 0,
           "steam": false,
-          "label": "No movement",
-          "old_ml": "-395",
-          "new_ml": "-395"
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
         },
-        "snapshot_time": "October 28, 2026 at 11:08 AM UTC"
+        "snapshot_time": "October 28, 2026 at 05:00 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "Oct 26",
-          "days_rest": 2,
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Oct 28",
+          "days_rest": 1,
           "games_last_4d": 2,
           "travel_miles": 0,
           "travel_desc": "",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "Oct 26",
-          "days_rest": 2,
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Oct 28",
+          "days_rest": 1,
           "games_last_4d": 2,
-          "travel_miles": 330,
-          "travel_desc": "330 mi road trip",
+          "travel_miles": 305,
+          "travel_desc": "305 mi road trip",
           "source": "ESPN Scoreboard API"
         }
       },
       "edge_factors": [
-        "\ud83d\udcca 53.2pt probability edge"
+        "\ud83d\udca4 WAS fatigued (B2B) \u2014 source: ESPN"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -402,7 +257,7 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "Cleveland Cavaliers hold a 76.6% edge.",
+        "trend": "CLE on Back-to-Back \u26a0\ufe0f per ESPN schedule data. WAS on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
         "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
@@ -418,22 +273,167 @@
       },
       "news": [
         {
-          "title": "Anthony Edwards' 47 Points Not Enough as Timberwolves Fall for First Time",
-          "source": "Biztoc.com",
-          "link": "https://biztoc.com/x/c7438a9e1d5c6ab1",
-          "published": "2026-10-27T16:57:57Z"
+          "title": "NBA Star Lamar Odom Joins OnlyFans, Teases What Fans Might See",
+          "source": "Eonline.com",
+          "link": "https://www.eonline.com/news/1437559/khloe-kardashian-ex-lamar-odom-joins-onlyfans-teases-what-fans-will-see",
+          "published": "2026-10-28T01:17:43Z"
         },
         {
-          "title": "Why Knicks may not be their best right away -- and why not to worry",
-          "source": "SNY.tv",
-          "link": "https://sny.tv/articles/why-knicks-may-not-be-best-right-away-2026-nba-season",
-          "published": "2026-10-27T16:57:02Z"
+          "title": "Here are 4 OKC Thunder players who must help with Jalen Williams, Cason Wallace out",
+          "source": "USA Today",
+          "link": "https://okcthunderwire.usatoday.com/story/sports/nba/thunder/2026/10/27/here-are-4-okc-thunder-players-who-must-help-with-jalen-williams-cason-wallace-out/92469174007/",
+          "published": "2026-10-28T01:15:12Z"
         },
         {
-          "title": "Paul Pierce \u2014 who earned $195 million in NBA career \u2014 \u2018drowning financially\u2019 in lawsuit drama",
-          "source": "New York Post",
-          "link": "https://nypost.com/2026/10/27/sports/paul-pierce-who-earned-195-million-in-nba-career-drowning-financially-in-lawsuit-drama/",
-          "published": "2026-10-27T16:56:18Z"
+          "title": "Dream Blame WNBA for Schedule Snafu that Led to Midday Game",
+          "source": "Frontofficesports.com",
+          "link": "https://frontofficesports.com/article/dream-blame-wnba-schedule-snafu-midday-game/",
+          "published": "2026-10-28T01:13:53Z"
+        }
+      ]
+    },
+    {
+      "game": "Miami Heat @ Atlanta Hawks",
+      "home_team": "Atlanta Hawks",
+      "away_team": "Miami Heat",
+      "home_abbr": "ATL",
+      "away_abbr": "MIA",
+      "home_ml": "N/A",
+      "away_ml": "N/A",
+      "home_ml_raw": null,
+      "away_ml_raw": null,
+      "home_prob": 50.0,
+      "away_prob": 50.0,
+      "spread": "ATL +11.5",
+      "favorite": "Atlanta Hawks",
+      "pick": "Atlanta Hawks",
+      "pick_abbr": "ATL",
+      "moneyline": "N/A",
+      "win_probability": 50.0,
+      "confidence": "LOW",
+      "confidence_stars": "\u2605\u2606\u2606",
+      "commence_time": "2026-10-28T23:12:00Z",
+      "line_movement": {
+        "home": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "away": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "pick": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "snapshot_time": "October 28, 2026 at 05:00 PM UTC"
+      },
+      "fatigue": {
+        "home": {
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Oct 28",
+          "days_rest": 1,
+          "games_last_4d": 2,
+          "travel_miles": 701,
+          "travel_desc": "701 mi road trip",
+          "source": "ESPN Scoreboard API"
+        },
+        "away": {
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Oct 28",
+          "days_rest": 1,
+          "games_last_4d": 2,
+          "travel_miles": 606,
+          "travel_desc": "606 mi road trip",
+          "source": "ESPN Scoreboard API"
+        }
+      },
+      "edge_factors": [
+        "\ud83d\udca4 MIA fatigued (B2B) \u2014 source: ESPN"
+      ],
+      "injury_notes": "No key injuries.",
+      "sharp": {
+        "away_t": null,
+        "home_t": null,
+        "source": null,
+        "sharp_signal": null,
+        "sharp_label": "Pending \u2014 check closer to tip-off",
+        "rlm": false
+      },
+      "form": {
+        "home": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        },
+        "away": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        }
+      },
+      "h2h": {
+        "total_meetings": 0,
+        "home_wins": 0,
+        "away_wins": 0,
+        "meetings": [],
+        "source": "\u2014"
+      },
+      "briefing": {
+        "trend": "ATL on Back-to-Back \u26a0\ufe0f per ESPN schedule data. MIA on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "matchup": "Both rosters appear healthy \u2014 clean line.",
+        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "injury_notes": "No key injuries."
+      },
+      "live": {
+        "status": "pre",
+        "status_detail": "Upcoming",
+        "period": 0,
+        "clock": "",
+        "home_score": 0,
+        "away_score": 0,
+        "spread_alert": null
+      },
+      "news": [
+        {
+          "title": "NBA Star Lamar Odom Joins OnlyFans, Teases What Fans Might See",
+          "source": "Eonline.com",
+          "link": "https://www.eonline.com/news/1437559/khloe-kardashian-ex-lamar-odom-joins-onlyfans-teases-what-fans-will-see",
+          "published": "2026-10-28T01:17:43Z"
+        },
+        {
+          "title": "Here are 4 OKC Thunder players who must help with Jalen Williams, Cason Wallace out",
+          "source": "USA Today",
+          "link": "https://okcthunderwire.usatoday.com/story/sports/nba/thunder/2026/10/27/here-are-4-okc-thunder-players-who-must-help-with-jalen-williams-cason-wallace-out/92469174007/",
+          "published": "2026-10-28T01:15:12Z"
+        },
+        {
+          "title": "Dream Blame WNBA for Schedule Snafu that Led to Midday Game",
+          "source": "Frontofficesports.com",
+          "link": "https://frontofficesports.com/article/dream-blame-wnba-schedule-snafu-midday-game/",
+          "published": "2026-10-28T01:13:53Z"
         }
       ]
     },
@@ -443,74 +443,75 @@
       "away_team": "Philadelphia 76ers",
       "home_abbr": "IND",
       "away_abbr": "PHI",
-      "home_ml": "+164",
-      "away_ml": "-198",
-      "home_ml_raw": 164,
-      "away_ml_raw": -198,
-      "home_prob": 36.3,
-      "away_prob": 63.7,
-      "spread": "IND +5.5",
+      "home_ml": "+285",
+      "away_ml": "-400",
+      "home_ml_raw": 285,
+      "away_ml_raw": -400,
+      "home_prob": 24.5,
+      "away_prob": 75.5,
+      "spread": "IND +4.5",
       "favorite": "Philadelphia 76ers",
       "pick": "Philadelphia 76ers",
       "pick_abbr": "PHI",
-      "moneyline": "-198",
-      "win_probability": 63.7,
-      "confidence": "MEDIUM",
-      "confidence_stars": "\u2605\u2605\u2606",
-      "commence_time": "2026-10-28T23:10:00Z",
+      "moneyline": "-400",
+      "win_probability": 75.5,
+      "confidence": "HIGH",
+      "confidence_stars": "\u2605\u2605\u2605",
+      "commence_time": "2026-10-28T23:13:00Z",
       "line_movement": {
         "home": {
           "direction": "longer",
-          "points_moved": 4,
-          "steam": false,
-          "label": "\ud83d\udd34 +164 \u2190 +160",
-          "old_ml": "+160",
-          "new_ml": "+164"
+          "points_moved": 121,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM +285 \u2190 +164",
+          "old_ml": "+164",
+          "new_ml": "+285"
         },
         "away": {
           "direction": "shorter",
-          "points_moved": 6,
-          "steam": false,
-          "label": "\ud83d\udfe2 -198 \u2190 -192",
-          "old_ml": "-192",
-          "new_ml": "-198"
+          "points_moved": 202,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -400 \u2190 -198",
+          "old_ml": "-198",
+          "new_ml": "-400"
         },
         "pick": {
           "direction": "shorter",
-          "points_moved": 6,
-          "steam": false,
-          "label": "\ud83d\udfe2 -198 \u2190 -192",
-          "old_ml": "-192",
-          "new_ml": "-198"
+          "points_moved": 202,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -400 \u2190 -198",
+          "old_ml": "-198",
+          "new_ml": "-400"
         },
-        "snapshot_time": "October 28, 2026 at 11:08 AM UTC"
+        "snapshot_time": "October 28, 2026 at 05:00 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "Oct 26",
-          "days_rest": 2,
-          "games_last_4d": 2,
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Oct 28",
+          "days_rest": 1,
+          "games_last_4d": 3,
           "travel_miles": 244,
           "travel_desc": "244 mi road trip",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "RESTED",
-          "label": "2 days rest \u2705",
-          "battery": 88,
-          "last_game": "Oct 25",
-          "days_rest": 3,
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Oct 28",
+          "days_rest": 1,
           "games_last_4d": 2,
-          "travel_miles": 0,
-          "travel_desc": "",
+          "travel_miles": 583,
+          "travel_desc": "583 mi road trip",
           "source": "ESPN Scoreboard API"
         }
       },
       "edge_factors": [
-        "\ud83d\udcca 27.4pt probability edge"
+        "\ud83d\udd25 Sharp steam detected",
+        "\ud83d\udca4 IND fatigued (B2B) \u2014 source: ESPN"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -547,9 +548,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "Philadelphia 76ers hold a 63.7% edge.",
+        "trend": "IND on Back-to-Back \u26a0\ufe0f per ESPN schedule data. PHI on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line moved -192\u2192-198 (6pts). Pending \u2014 check closer to tip-off",
+        "steam": "Line steamed from -198 to -400 (202pt move) \u2014 heavy professional action on Philadelphia 76ers.",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -563,22 +564,22 @@
       },
       "news": [
         {
-          "title": "Anthony Edwards' 47 Points Not Enough as Timberwolves Fall for First Time",
-          "source": "Biztoc.com",
-          "link": "https://biztoc.com/x/c7438a9e1d5c6ab1",
-          "published": "2026-10-27T16:57:57Z"
+          "title": "NBA Star Lamar Odom Joins OnlyFans, Teases What Fans Might See",
+          "source": "Eonline.com",
+          "link": "https://www.eonline.com/news/1437559/khloe-kardashian-ex-lamar-odom-joins-onlyfans-teases-what-fans-will-see",
+          "published": "2026-10-28T01:17:43Z"
         },
         {
-          "title": "Why Knicks may not be their best right away -- and why not to worry",
-          "source": "SNY.tv",
-          "link": "https://sny.tv/articles/why-knicks-may-not-be-best-right-away-2026-nba-season",
-          "published": "2026-10-27T16:57:02Z"
+          "title": "Here are 4 OKC Thunder players who must help with Jalen Williams, Cason Wallace out",
+          "source": "USA Today",
+          "link": "https://okcthunderwire.usatoday.com/story/sports/nba/thunder/2026/10/27/here-are-4-okc-thunder-players-who-must-help-with-jalen-williams-cason-wallace-out/92469174007/",
+          "published": "2026-10-28T01:15:12Z"
         },
         {
-          "title": "Paul Pierce \u2014 who earned $195 million in NBA career \u2014 \u2018drowning financially\u2019 in lawsuit drama",
-          "source": "New York Post",
-          "link": "https://nypost.com/2026/10/27/sports/paul-pierce-who-earned-195-million-in-nba-career-drowning-financially-in-lawsuit-drama/",
-          "published": "2026-10-27T16:56:18Z"
+          "title": "Dream Blame WNBA for Schedule Snafu that Led to Midday Game",
+          "source": "Frontofficesports.com",
+          "link": "https://frontofficesports.com/article/dream-blame-wnba-schedule-snafu-midday-game/",
+          "published": "2026-10-28T01:13:53Z"
         }
       ]
     },
@@ -588,74 +589,74 @@
       "away_team": "Orlando Magic",
       "home_abbr": "TOR",
       "away_abbr": "ORL",
-      "home_ml": "-192",
-      "away_ml": "+160",
-      "home_ml_raw": -192,
-      "away_ml_raw": 160,
-      "home_prob": 63.1,
-      "away_prob": 36.9,
-      "spread": "TOR -4.5",
+      "home_ml": "N/A",
+      "away_ml": "N/A",
+      "home_ml_raw": null,
+      "away_ml_raw": null,
+      "home_prob": 50.0,
+      "away_prob": 50.0,
+      "spread": "TOR -24.5",
       "favorite": "Toronto Raptors",
       "pick": "Toronto Raptors",
       "pick_abbr": "TOR",
-      "moneyline": "-192",
-      "win_probability": 63.1,
-      "confidence": "MEDIUM",
-      "confidence_stars": "\u2605\u2605\u2606",
-      "commence_time": "2026-10-28T23:40:00Z",
+      "moneyline": "N/A",
+      "win_probability": 50.0,
+      "confidence": "LOW",
+      "confidence_stars": "\u2605\u2606\u2606",
+      "commence_time": "2026-10-28T23:42:00Z",
       "line_movement": {
         "home": {
           "direction": "none",
           "points_moved": 0,
           "steam": false,
-          "label": "No movement",
-          "old_ml": "-192",
-          "new_ml": "-192"
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
         },
         "away": {
           "direction": "none",
           "points_moved": 0,
           "steam": false,
-          "label": "No movement",
-          "old_ml": "+160",
-          "new_ml": "+160"
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
         },
         "pick": {
           "direction": "none",
           "points_moved": 0,
           "steam": false,
-          "label": "No movement",
-          "old_ml": "-192",
-          "new_ml": "-192"
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
         },
-        "snapshot_time": "October 28, 2026 at 11:08 AM UTC"
+        "snapshot_time": "October 28, 2026 at 05:00 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "RESTED",
-          "label": "2 days rest \u2705",
-          "battery": 88,
-          "last_game": "Oct 25",
-          "days_rest": 3,
-          "games_last_4d": 1,
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Oct 28",
+          "days_rest": 1,
+          "games_last_4d": 2,
           "travel_miles": 692,
           "travel_desc": "692 mi road trip",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "RESTED",
-          "label": "2 days rest \u2705",
-          "battery": 88,
-          "last_game": "Oct 25",
-          "days_rest": 3,
-          "games_last_4d": 1,
-          "travel_miles": 942,
-          "travel_desc": "942 mi road trip",
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Oct 28",
+          "days_rest": 1,
+          "games_last_4d": 2,
+          "travel_miles": 1049,
+          "travel_desc": "1,049 mi road trip",
           "source": "ESPN Scoreboard API"
         }
       },
       "edge_factors": [
-        "\ud83d\udcca 26.2pt probability edge"
+        "\ud83d\udca4 ORL fatigued (B2B) \u2014 source: ESPN"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -692,7 +693,7 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "Toronto Raptors hold a 63.1% edge.",
+        "trend": "TOR on Back-to-Back \u26a0\ufe0f per ESPN schedule data. ORL on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
         "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
@@ -708,22 +709,22 @@
       },
       "news": [
         {
-          "title": "Anthony Edwards' 47 Points Not Enough as Timberwolves Fall for First Time",
-          "source": "Biztoc.com",
-          "link": "https://biztoc.com/x/c7438a9e1d5c6ab1",
-          "published": "2026-10-27T16:57:57Z"
+          "title": "NBA Star Lamar Odom Joins OnlyFans, Teases What Fans Might See",
+          "source": "Eonline.com",
+          "link": "https://www.eonline.com/news/1437559/khloe-kardashian-ex-lamar-odom-joins-onlyfans-teases-what-fans-will-see",
+          "published": "2026-10-28T01:17:43Z"
         },
         {
-          "title": "Why Knicks may not be their best right away -- and why not to worry",
-          "source": "SNY.tv",
-          "link": "https://sny.tv/articles/why-knicks-may-not-be-best-right-away-2026-nba-season",
-          "published": "2026-10-27T16:57:02Z"
+          "title": "Here are 4 OKC Thunder players who must help with Jalen Williams, Cason Wallace out",
+          "source": "USA Today",
+          "link": "https://okcthunderwire.usatoday.com/story/sports/nba/thunder/2026/10/27/here-are-4-okc-thunder-players-who-must-help-with-jalen-williams-cason-wallace-out/92469174007/",
+          "published": "2026-10-28T01:15:12Z"
         },
         {
-          "title": "Paul Pierce \u2014 who earned $195 million in NBA career \u2014 \u2018drowning financially\u2019 in lawsuit drama",
-          "source": "New York Post",
-          "link": "https://nypost.com/2026/10/27/sports/paul-pierce-who-earned-195-million-in-nba-career-drowning-financially-in-lawsuit-drama/",
-          "published": "2026-10-27T16:56:18Z"
+          "title": "Dream Blame WNBA for Schedule Snafu that Led to Midday Game",
+          "source": "Frontofficesports.com",
+          "link": "https://frontofficesports.com/article/dream-blame-wnba-schedule-snafu-midday-game/",
+          "published": "2026-10-28T01:13:53Z"
         }
       ]
     },
@@ -733,55 +734,55 @@
       "away_team": "New York Knicks",
       "home_abbr": "CHI",
       "away_abbr": "NYK",
-      "home_ml": "+225",
-      "away_ml": "-278",
-      "home_ml_raw": 225,
-      "away_ml_raw": -278,
-      "home_prob": 29.5,
-      "away_prob": 70.5,
-      "spread": "CHI +7.5",
+      "home_ml": "+100",
+      "away_ml": "-135",
+      "home_ml_raw": 100,
+      "away_ml_raw": -135,
+      "home_prob": 46.5,
+      "away_prob": 53.5,
+      "spread": "CHI +1.5",
       "favorite": "New York Knicks",
       "pick": "New York Knicks",
       "pick_abbr": "NYK",
-      "moneyline": "-278",
-      "win_probability": 70.5,
-      "confidence": "MEDIUM",
-      "confidence_stars": "\u2605\u2605\u2606",
-      "commence_time": "2026-10-29T00:10:00Z",
+      "moneyline": "-135",
+      "win_probability": 53.5,
+      "confidence": "LOW",
+      "confidence_stars": "\u2605\u2606\u2606",
+      "commence_time": "2026-10-29T00:11:00Z",
       "line_movement": {
         "home": {
-          "direction": "longer",
-          "points_moved": 5,
-          "steam": false,
-          "label": "\ud83d\udd34 +225 \u2190 +220",
-          "old_ml": "+220",
-          "new_ml": "+225"
+          "direction": "shorter",
+          "points_moved": 125,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM +100 \u2190 +225",
+          "old_ml": "+225",
+          "new_ml": "+100"
         },
         "away": {
-          "direction": "shorter",
-          "points_moved": 8,
+          "direction": "longer",
+          "points_moved": 143,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM -278 \u2190 -270",
-          "old_ml": "-270",
-          "new_ml": "-278"
+          "label": "\ud83d\udd25 STEAM -135 \u2190 -278",
+          "old_ml": "-278",
+          "new_ml": "-135"
         },
         "pick": {
-          "direction": "shorter",
-          "points_moved": 8,
+          "direction": "longer",
+          "points_moved": 143,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM -278 \u2190 -270",
-          "old_ml": "-270",
-          "new_ml": "-278"
+          "label": "\ud83d\udd25 STEAM -135 \u2190 -278",
+          "old_ml": "-278",
+          "new_ml": "-135"
         },
-        "snapshot_time": "October 28, 2026 at 11:08 AM UTC"
+        "snapshot_time": "October 28, 2026 at 05:00 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "Oct 26",
-          "days_rest": 2,
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Oct 28",
+          "days_rest": 1,
           "games_last_4d": 2,
           "travel_miles": 851,
           "travel_desc": "851 mi road trip",
@@ -791,16 +792,17 @@
           "status": "B2B",
           "label": "Back-to-Back \u26a0\ufe0f",
           "battery": 20,
-          "last_game": "Oct 27",
+          "last_game": "Oct 28",
           "days_rest": 1,
-          "games_last_4d": 2,
-          "travel_miles": 0,
-          "travel_desc": "",
+          "games_last_4d": 3,
+          "travel_miles": 713,
+          "travel_desc": "713 mi road trip",
           "source": "ESPN Scoreboard API"
         }
       },
       "edge_factors": [
-        "\ud83d\udd25 Sharp steam detected"
+        "\ud83d\udd25 Sharp steam detected",
+        "\ud83d\udca4 CHI fatigued (B2B) \u2014 source: ESPN"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -837,9 +839,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "NYK on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "trend": "CHI on Back-to-Back \u26a0\ufe0f per ESPN schedule data. NYK on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -270 to -278 (8pt move) \u2014 heavy professional action on New York Knicks.",
+        "steam": "Line steamed from -278 to -135 (143pt move) \u2014 heavy professional action on New York Knicks.",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -853,22 +855,22 @@
       },
       "news": [
         {
-          "title": "Anthony Edwards' 47 Points Not Enough as Timberwolves Fall for First Time",
-          "source": "Biztoc.com",
-          "link": "https://biztoc.com/x/c7438a9e1d5c6ab1",
-          "published": "2026-10-27T16:57:57Z"
+          "title": "NBA Star Lamar Odom Joins OnlyFans, Teases What Fans Might See",
+          "source": "Eonline.com",
+          "link": "https://www.eonline.com/news/1437559/khloe-kardashian-ex-lamar-odom-joins-onlyfans-teases-what-fans-will-see",
+          "published": "2026-10-28T01:17:43Z"
         },
         {
-          "title": "Why Knicks may not be their best right away -- and why not to worry",
-          "source": "SNY.tv",
-          "link": "https://sny.tv/articles/why-knicks-may-not-be-best-right-away-2026-nba-season",
-          "published": "2026-10-27T16:57:02Z"
+          "title": "Here are 4 OKC Thunder players who must help with Jalen Williams, Cason Wallace out",
+          "source": "USA Today",
+          "link": "https://okcthunderwire.usatoday.com/story/sports/nba/thunder/2026/10/27/here-are-4-okc-thunder-players-who-must-help-with-jalen-williams-cason-wallace-out/92469174007/",
+          "published": "2026-10-28T01:15:12Z"
         },
         {
-          "title": "Paul Pierce \u2014 who earned $195 million in NBA career \u2014 \u2018drowning financially\u2019 in lawsuit drama",
-          "source": "New York Post",
-          "link": "https://nypost.com/2026/10/27/sports/paul-pierce-who-earned-195-million-in-nba-career-drowning-financially-in-lawsuit-drama/?utm_source=yahoo&amp;utm_campaign=nypost&amp;utm_medium=referral",
-          "published": "2026-10-27T16:56:18Z"
+          "title": "Dream Blame WNBA for Schedule Snafu that Led to Midday Game",
+          "source": "Frontofficesports.com",
+          "link": "https://frontofficesports.com/article/dream-blame-wnba-schedule-snafu-midday-game/",
+          "published": "2026-10-28T01:13:53Z"
         }
       ]
     },
@@ -878,74 +880,75 @@
       "away_team": "Denver Nuggets",
       "home_abbr": "NOP",
       "away_abbr": "DEN",
-      "home_ml": "+164",
-      "away_ml": "-198",
-      "home_ml_raw": 164,
-      "away_ml_raw": -198,
-      "home_prob": 36.3,
-      "away_prob": 63.7,
-      "spread": "NOP +4.5",
+      "home_ml": "+650",
+      "away_ml": "-1200",
+      "home_ml_raw": 650,
+      "away_ml_raw": -1200,
+      "home_prob": 12.6,
+      "away_prob": 87.4,
+      "spread": "NOP +11.5",
       "favorite": "Denver Nuggets",
       "pick": "Denver Nuggets",
       "pick_abbr": "DEN",
-      "moneyline": "-198",
-      "win_probability": 63.7,
-      "confidence": "MEDIUM",
-      "confidence_stars": "\u2605\u2605\u2606",
-      "commence_time": "2026-10-29T00:10:00Z",
+      "moneyline": "-1200",
+      "win_probability": 87.4,
+      "confidence": "HIGH",
+      "confidence_stars": "\u2605\u2605\u2605",
+      "commence_time": "2026-10-29T00:11:00Z",
       "line_movement": {
         "home": {
-          "direction": "shorter",
-          "points_moved": 6,
-          "steam": false,
-          "label": "\ud83d\udfe2 +164 \u2190 +170",
-          "old_ml": "+170",
-          "new_ml": "+164"
+          "direction": "longer",
+          "points_moved": 486,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM +650 \u2190 +164",
+          "old_ml": "+164",
+          "new_ml": "+650"
         },
         "away": {
-          "direction": "longer",
-          "points_moved": 7,
-          "steam": false,
-          "label": "\ud83d\udd34 -198 \u2190 -205",
-          "old_ml": "-205",
-          "new_ml": "-198"
+          "direction": "shorter",
+          "points_moved": 1002,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -1200 \u2190 -198",
+          "old_ml": "-198",
+          "new_ml": "-1200"
         },
         "pick": {
-          "direction": "longer",
-          "points_moved": 7,
-          "steam": false,
-          "label": "\ud83d\udd34 -198 \u2190 -205",
-          "old_ml": "-205",
-          "new_ml": "-198"
+          "direction": "shorter",
+          "points_moved": 1002,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -1200 \u2190 -198",
+          "old_ml": "-198",
+          "new_ml": "-1200"
         },
-        "snapshot_time": "October 28, 2026 at 11:08 AM UTC"
+        "snapshot_time": "October 28, 2026 at 05:00 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "FRESH",
-          "label": "Well rested \u2705",
-          "battery": 100,
-          "last_game": "Oct 24",
-          "days_rest": 4,
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Oct 28",
+          "days_rest": 1,
           "games_last_4d": 1,
-          "travel_miles": 1081,
-          "travel_desc": "1,081 mi road trip",
+          "travel_miles": 0,
+          "travel_desc": "",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "Oct 26",
-          "days_rest": 2,
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Oct 28",
+          "days_rest": 1,
           "games_last_4d": 2,
-          "travel_miles": 0,
-          "travel_desc": "",
+          "travel_miles": 1081,
+          "travel_desc": "1,081 mi road trip",
           "source": "ESPN Scoreboard API"
         }
       },
       "edge_factors": [
-        "\ud83d\udcca 27.4pt probability edge"
+        "\ud83d\udd25 Sharp steam detected",
+        "\ud83d\udca4 NOP fatigued (B2B) \u2014 source: ESPN"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -982,9 +985,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "Denver Nuggets hold a 63.7% edge.",
+        "trend": "NOP on Back-to-Back \u26a0\ufe0f per ESPN schedule data. DEN on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line moved -205\u2192-198 (7pts). Pending \u2014 check closer to tip-off",
+        "steam": "Line steamed from -198 to -1200 (1002pt move) \u2014 heavy professional action on Denver Nuggets.",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -998,22 +1001,22 @@
       },
       "news": [
         {
-          "title": "Anthony Edwards' 47 Points Not Enough as Timberwolves Fall for First Time",
-          "source": "Biztoc.com",
-          "link": "https://biztoc.com/x/c7438a9e1d5c6ab1",
-          "published": "2026-10-27T16:57:57Z"
+          "title": "NBA Star Lamar Odom Joins OnlyFans, Teases What Fans Might See",
+          "source": "Eonline.com",
+          "link": "https://www.eonline.com/news/1437559/khloe-kardashian-ex-lamar-odom-joins-onlyfans-teases-what-fans-will-see",
+          "published": "2026-10-28T01:17:43Z"
         },
         {
-          "title": "Why Knicks may not be their best right away -- and why not to worry",
-          "source": "SNY.tv",
-          "link": "https://sny.tv/articles/why-knicks-may-not-be-best-right-away-2026-nba-season",
-          "published": "2026-10-27T16:57:02Z"
+          "title": "Here are 4 OKC Thunder players who must help with Jalen Williams, Cason Wallace out",
+          "source": "USA Today",
+          "link": "https://okcthunderwire.usatoday.com/story/sports/nba/thunder/2026/10/27/here-are-4-okc-thunder-players-who-must-help-with-jalen-williams-cason-wallace-out/92469174007/",
+          "published": "2026-10-28T01:15:12Z"
         },
         {
-          "title": "Paul Pierce \u2014 who earned $195 million in NBA career \u2014 \u2018drowning financially\u2019 in lawsuit drama",
-          "source": "New York Post",
-          "link": "https://nypost.com/2026/10/27/sports/paul-pierce-who-earned-195-million-in-nba-career-drowning-financially-in-lawsuit-drama/?utm_source=yahoo&amp;utm_campaign=nypost&amp;utm_medium=referral",
-          "published": "2026-10-27T16:56:18Z"
+          "title": "Dream Blame WNBA for Schedule Snafu that Led to Midday Game",
+          "source": "Frontofficesports.com",
+          "link": "https://frontofficesports.com/article/dream-blame-wnba-schedule-snafu-midday-game/",
+          "published": "2026-10-28T01:13:53Z"
         }
       ]
     },
@@ -1023,74 +1026,75 @@
       "away_team": "Golden State Warriors",
       "home_abbr": "MIN",
       "away_abbr": "GSW",
-      "home_ml": "-170",
-      "away_ml": "+142",
-      "home_ml_raw": -170,
-      "away_ml_raw": 142,
-      "home_prob": 60.4,
-      "away_prob": 39.6,
-      "spread": "MIN -4.5",
-      "favorite": "Minnesota Timberwolves",
-      "pick": "Minnesota Timberwolves",
-      "pick_abbr": "MIN",
-      "moneyline": "-170",
-      "win_probability": 60.4,
-      "confidence": "MEDIUM",
-      "confidence_stars": "\u2605\u2605\u2606",
-      "commence_time": "2026-10-29T00:10:00Z",
+      "home_ml": "+700",
+      "away_ml": "-1200",
+      "home_ml_raw": 700,
+      "away_ml_raw": -1200,
+      "home_prob": 11.9,
+      "away_prob": 88.1,
+      "spread": "MIN +14.5",
+      "favorite": "Golden State Warriors",
+      "pick": "Golden State Warriors",
+      "pick_abbr": "GSW",
+      "moneyline": "-1200",
+      "win_probability": 88.1,
+      "confidence": "HIGH",
+      "confidence_stars": "\u2605\u2605\u2605",
+      "commence_time": "2026-10-29T00:11:00Z",
       "line_movement": {
         "home": {
-          "direction": "shorter",
-          "points_moved": 8,
+          "direction": "longer",
+          "points_moved": 870,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM -170 \u2190 -162",
-          "old_ml": "-162",
-          "new_ml": "-170"
+          "label": "\ud83d\udd25 STEAM +700 \u2190 -170",
+          "old_ml": "-170",
+          "new_ml": "+700"
         },
         "away": {
-          "direction": "longer",
-          "points_moved": 6,
-          "steam": false,
-          "label": "\ud83d\udd34 +142 \u2190 +136",
-          "old_ml": "+136",
-          "new_ml": "+142"
+          "direction": "shorter",
+          "points_moved": 1342,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -1200 \u2190 +142",
+          "old_ml": "+142",
+          "new_ml": "-1200"
         },
         "pick": {
           "direction": "shorter",
-          "points_moved": 8,
+          "points_moved": 1342,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM -170 \u2190 -162",
-          "old_ml": "-162",
-          "new_ml": "-170"
+          "label": "\ud83d\udd25 STEAM -1200 \u2190 +142",
+          "old_ml": "+142",
+          "new_ml": "-1200"
         },
-        "snapshot_time": "October 28, 2026 at 11:08 AM UTC"
+        "snapshot_time": "October 28, 2026 at 05:00 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "Oct 26",
-          "days_rest": 2,
-          "games_last_4d": 2,
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Oct 28",
+          "days_rest": 1,
+          "games_last_4d": 3,
           "travel_miles": 630,
           "travel_desc": "630 mi road trip",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "Oct 26",
-          "days_rest": 2,
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Oct 28",
+          "days_rest": 1,
           "games_last_4d": 2,
-          "travel_miles": 945,
-          "travel_desc": "945 mi road trip",
+          "travel_miles": 1580,
+          "travel_desc": "1,580 mi road trip",
           "source": "ESPN Scoreboard API"
         }
       },
       "edge_factors": [
-        "\ud83d\udd25 Sharp steam detected"
+        "\ud83d\udd25 Sharp steam detected",
+        "\ud83d\udca4 MIN fatigued (B2B) \u2014 source: ESPN"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -1127,9 +1131,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "Minnesota Timberwolves hold a 60.4% edge.",
+        "trend": "MIN on Back-to-Back \u26a0\ufe0f per ESPN schedule data. GSW on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -162 to -170 (8pt move) \u2014 heavy professional action on Minnesota Timberwolves.",
+        "steam": "Line steamed from +142 to -1200 (1342pt move) \u2014 heavy professional action on Golden State Warriors.",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -1143,22 +1147,22 @@
       },
       "news": [
         {
-          "title": "Anthony Edwards' 47 Points Not Enough as Timberwolves Fall for First Time",
-          "source": "Biztoc.com",
-          "link": "https://biztoc.com/x/c7438a9e1d5c6ab1",
-          "published": "2026-10-27T16:57:57Z"
+          "title": "NBA Star Lamar Odom Joins OnlyFans, Teases What Fans Might See",
+          "source": "Eonline.com",
+          "link": "https://www.eonline.com/news/1437559/khloe-kardashian-ex-lamar-odom-joins-onlyfans-teases-what-fans-will-see",
+          "published": "2026-10-28T01:17:43Z"
         },
         {
-          "title": "Why Knicks may not be their best right away -- and why not to worry",
-          "source": "SNY.tv",
-          "link": "https://sny.tv/articles/why-knicks-may-not-be-best-right-away-2026-nba-season",
-          "published": "2026-10-27T16:57:02Z"
+          "title": "Here are 4 OKC Thunder players who must help with Jalen Williams, Cason Wallace out",
+          "source": "USA Today",
+          "link": "https://okcthunderwire.usatoday.com/story/sports/nba/thunder/2026/10/27/here-are-4-okc-thunder-players-who-must-help-with-jalen-williams-cason-wallace-out/92469174007/",
+          "published": "2026-10-28T01:15:12Z"
         },
         {
-          "title": "Paul Pierce \u2014 who earned $195 million in NBA career \u2014 \u2018drowning financially\u2019 in lawsuit drama",
-          "source": "New York Post",
-          "link": "https://nypost.com/2026/10/27/sports/paul-pierce-who-earned-195-million-in-nba-career-drowning-financially-in-lawsuit-drama/",
-          "published": "2026-10-27T16:56:18Z"
+          "title": "Dream Blame WNBA for Schedule Snafu that Led to Midday Game",
+          "source": "Frontofficesports.com",
+          "link": "https://frontofficesports.com/article/dream-blame-wnba-schedule-snafu-midday-game/",
+          "published": "2026-10-28T01:13:53Z"
         }
       ]
     },
@@ -1168,74 +1172,75 @@
       "away_team": "Houston Rockets",
       "home_abbr": "MIL",
       "away_abbr": "HOU",
-      "home_ml": "+270",
-      "away_ml": "-340",
-      "home_ml_raw": 270,
-      "away_ml_raw": -340,
-      "home_prob": 25.9,
-      "away_prob": 74.1,
-      "spread": "MIL +8.5",
+      "home_ml": "+1100",
+      "away_ml": "-2500",
+      "home_ml_raw": 1100,
+      "away_ml_raw": -2500,
+      "home_prob": 8.0,
+      "away_prob": 92.0,
+      "spread": "MIL +16.5",
       "favorite": "Houston Rockets",
       "pick": "Houston Rockets",
       "pick_abbr": "HOU",
-      "moneyline": "-340",
-      "win_probability": 74.1,
+      "moneyline": "-2500",
+      "win_probability": 92.0,
       "confidence": "HIGH",
       "confidence_stars": "\u2605\u2605\u2605",
-      "commence_time": "2026-10-29T00:10:00Z",
+      "commence_time": "2026-10-29T00:11:00Z",
       "line_movement": {
         "home": {
-          "direction": "shorter",
-          "points_moved": 5,
-          "steam": false,
-          "label": "\ud83d\udfe2 +270 \u2190 +275",
-          "old_ml": "+275",
-          "new_ml": "+270"
+          "direction": "longer",
+          "points_moved": 830,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM +1100 \u2190 +270",
+          "old_ml": "+270",
+          "new_ml": "+1100"
         },
         "away": {
-          "direction": "longer",
-          "points_moved": 5,
-          "steam": false,
-          "label": "\ud83d\udd34 -340 \u2190 -345",
-          "old_ml": "-345",
-          "new_ml": "-340"
+          "direction": "shorter",
+          "points_moved": 2160,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -2500 \u2190 -340",
+          "old_ml": "-340",
+          "new_ml": "-2500"
         },
         "pick": {
-          "direction": "longer",
-          "points_moved": 5,
-          "steam": false,
-          "label": "\ud83d\udd34 -340 \u2190 -345",
-          "old_ml": "-345",
-          "new_ml": "-340"
+          "direction": "shorter",
+          "points_moved": 2160,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -2500 \u2190 -340",
+          "old_ml": "-340",
+          "new_ml": "-2500"
         },
-        "snapshot_time": "October 28, 2026 at 11:08 AM UTC"
+        "snapshot_time": "October 28, 2026 at 05:00 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "Oct 26",
-          "days_rest": 2,
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Oct 28",
+          "days_rest": 1,
           "games_last_4d": 2,
-          "travel_miles": 694,
-          "travel_desc": "694 mi road trip",
+          "travel_miles": 0,
+          "travel_desc": "",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "Oct 26",
-          "days_rest": 2,
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Oct 28",
+          "days_rest": 1,
           "games_last_4d": 2,
-          "travel_miles": 701,
-          "travel_desc": "701 mi road trip",
+          "travel_miles": 1006,
+          "travel_desc": "1,006 mi road trip",
           "source": "ESPN Scoreboard API"
         }
       },
       "edge_factors": [
-        "\ud83d\udcca 48.2pt probability edge"
+        "\ud83d\udd25 Sharp steam detected",
+        "\ud83d\udca4 MIL fatigued (B2B) \u2014 source: ESPN"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -1272,9 +1277,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "Houston Rockets hold a 74.1% edge.",
+        "trend": "MIL on Back-to-Back \u26a0\ufe0f per ESPN schedule data. HOU on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line moved -345\u2192-340 (5pts). Pending \u2014 check closer to tip-off",
+        "steam": "Line steamed from -340 to -2500 (2160pt move) \u2014 heavy professional action on Houston Rockets.",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -1288,22 +1293,22 @@
       },
       "news": [
         {
-          "title": "Anthony Edwards' 47 Points Not Enough as Timberwolves Fall for First Time",
-          "source": "Biztoc.com",
-          "link": "https://biztoc.com/x/c7438a9e1d5c6ab1",
-          "published": "2026-10-27T16:57:57Z"
+          "title": "NBA Star Lamar Odom Joins OnlyFans, Teases What Fans Might See",
+          "source": "Eonline.com",
+          "link": "https://www.eonline.com/news/1437559/khloe-kardashian-ex-lamar-odom-joins-onlyfans-teases-what-fans-will-see",
+          "published": "2026-10-28T01:17:43Z"
         },
         {
-          "title": "Why Knicks may not be their best right away -- and why not to worry",
-          "source": "SNY.tv",
-          "link": "https://sny.tv/articles/why-knicks-may-not-be-best-right-away-2026-nba-season",
-          "published": "2026-10-27T16:57:02Z"
+          "title": "Here are 4 OKC Thunder players who must help with Jalen Williams, Cason Wallace out",
+          "source": "USA Today",
+          "link": "https://okcthunderwire.usatoday.com/story/sports/nba/thunder/2026/10/27/here-are-4-okc-thunder-players-who-must-help-with-jalen-williams-cason-wallace-out/92469174007/",
+          "published": "2026-10-28T01:15:12Z"
         },
         {
-          "title": "Paul Pierce \u2014 who earned $195 million in NBA career \u2014 \u2018drowning financially\u2019 in lawsuit drama",
-          "source": "New York Post",
-          "link": "https://nypost.com/2026/10/27/sports/paul-pierce-who-earned-195-million-in-nba-career-drowning-financially-in-lawsuit-drama/",
-          "published": "2026-10-27T16:56:18Z"
+          "title": "Dream Blame WNBA for Schedule Snafu that Led to Midday Game",
+          "source": "Frontofficesports.com",
+          "link": "https://frontofficesports.com/article/dream-blame-wnba-schedule-snafu-midday-game/",
+          "published": "2026-10-28T01:13:53Z"
         }
       ]
     },
@@ -1313,47 +1318,47 @@
       "away_team": "San Antonio Spurs",
       "home_abbr": "UTA",
       "away_abbr": "SAS",
-      "home_ml": "+470",
-      "away_ml": "-650",
-      "home_ml_raw": 470,
-      "away_ml_raw": -650,
-      "home_prob": 16.8,
-      "away_prob": 83.2,
-      "spread": "UTA +13.5",
+      "home_ml": "+215",
+      "away_ml": "-290",
+      "home_ml_raw": 215,
+      "away_ml_raw": -290,
+      "home_prob": 29.9,
+      "away_prob": 70.1,
+      "spread": "UTA +7.5",
       "favorite": "San Antonio Spurs",
       "pick": "San Antonio Spurs",
       "pick_abbr": "SAS",
-      "moneyline": "-650",
-      "win_probability": 83.2,
-      "confidence": "HIGH",
-      "confidence_stars": "\u2605\u2605\u2605",
-      "commence_time": "2026-10-29T01:10:00Z",
+      "moneyline": "-290",
+      "win_probability": 70.1,
+      "confidence": "MEDIUM",
+      "confidence_stars": "\u2605\u2605\u2606",
+      "commence_time": "2026-10-29T01:15:00Z",
       "line_movement": {
         "home": {
-          "direction": "longer",
-          "points_moved": 15,
+          "direction": "shorter",
+          "points_moved": 255,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM +470 \u2190 +455",
-          "old_ml": "+455",
-          "new_ml": "+470"
+          "label": "\ud83d\udd25 STEAM +215 \u2190 +470",
+          "old_ml": "+470",
+          "new_ml": "+215"
         },
         "away": {
-          "direction": "shorter",
-          "points_moved": 25,
+          "direction": "longer",
+          "points_moved": 360,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM -650 \u2190 -625",
-          "old_ml": "-625",
-          "new_ml": "-650"
+          "label": "\ud83d\udd25 STEAM -290 \u2190 -650",
+          "old_ml": "-650",
+          "new_ml": "-290"
         },
         "pick": {
-          "direction": "shorter",
-          "points_moved": 25,
+          "direction": "longer",
+          "points_moved": 360,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM -650 \u2190 -625",
-          "old_ml": "-625",
-          "new_ml": "-650"
+          "label": "\ud83d\udd25 STEAM -290 \u2190 -650",
+          "old_ml": "-650",
+          "new_ml": "-290"
         },
-        "snapshot_time": "October 28, 2026 at 11:08 AM UTC"
+        "snapshot_time": "October 28, 2026 at 05:00 PM UTC"
       },
       "fatigue": {
         "home": {
@@ -1371,11 +1376,11 @@
           "status": "B2B",
           "label": "Back-to-Back \u26a0\ufe0f",
           "battery": 20,
-          "last_game": "Oct 27",
+          "last_game": "Oct 28",
           "days_rest": 1,
           "games_last_4d": 2,
-          "travel_miles": 252,
-          "travel_desc": "252 mi road trip",
+          "travel_miles": 0,
+          "travel_desc": "",
           "source": "ESPN Scoreboard API"
         }
       },
@@ -1419,7 +1424,7 @@
       "briefing": {
         "trend": "SAS on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -625 to -650 (25pt move) \u2014 heavy professional action on San Antonio Spurs.",
+        "steam": "Line steamed from -650 to -290 (360pt move) \u2014 heavy professional action on San Antonio Spurs.",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -1433,22 +1438,22 @@
       },
       "news": [
         {
-          "title": "SEC Basketball Preview: Rick Barnes and the Tennessee Volunteers",
-          "source": "Rockmnation.com",
-          "link": "https://www.rockmnation.com/sec-basketball-team-scouting-reports/159485/tennessee-volunteers-preview-rick-barnes-juke-harris",
-          "published": "2026-10-27T17:00:00Z"
+          "title": "NBA Star Lamar Odom Joins OnlyFans, Teases What Fans Might See",
+          "source": "Eonline.com",
+          "link": "https://www.eonline.com/news/1437559/khloe-kardashian-ex-lamar-odom-joins-onlyfans-teases-what-fans-will-see",
+          "published": "2026-10-28T01:17:43Z"
         },
         {
-          "title": "81-1: Week One Overreactions",
-          "source": "Canis Hoopus",
-          "link": "https://www.canishoopus.com/minnesota-timberwolves-lynx-features/71124/nba-overreactions-anthony-edwards-jaden-mcdaniels",
-          "published": "2026-10-27T17:00:00Z"
+          "title": "Here are 4 OKC Thunder players who must help with Jalen Williams, Cason Wallace out",
+          "source": "USA Today",
+          "link": "https://okcthunderwire.usatoday.com/story/sports/nba/thunder/2026/10/27/here-are-4-okc-thunder-players-who-must-help-with-jalen-williams-cason-wallace-out/92469174007/",
+          "published": "2026-10-28T01:15:12Z"
         },
         {
-          "title": "FanDuel Promo Code: Bet $5, Get $150 for the World Series, NBA, NHL and College Football",
-          "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/betting/promos/article/fanduel-promo-code-bet-5-get-150-for-the-world-series-nba-nhl-and-college-football-170000008.html",
-          "published": "2026-10-27T17:00:00Z"
+          "title": "Dream Blame WNBA for Schedule Snafu that Led to Midday Game",
+          "source": "Frontofficesports.com",
+          "link": "https://frontofficesports.com/article/dream-blame-wnba-schedule-snafu-midday-game/",
+          "published": "2026-10-28T01:13:53Z"
         }
       ]
     },
@@ -1458,211 +1463,66 @@
       "away_team": "Oklahoma City Thunder",
       "home_abbr": "DAL",
       "away_abbr": "OKC",
-      "home_ml": "+185",
-      "away_ml": "-225",
-      "home_ml_raw": 185,
-      "away_ml_raw": -225,
-      "home_prob": 33.6,
-      "away_prob": 66.4,
-      "spread": "DAL +5.5",
-      "favorite": "Oklahoma City Thunder",
-      "pick": "Oklahoma City Thunder",
-      "pick_abbr": "OKC",
-      "moneyline": "-225",
-      "win_probability": 66.4,
-      "confidence": "MEDIUM",
-      "confidence_stars": "\u2605\u2605\u2606",
-      "commence_time": "2026-10-29T01:40:00Z",
-      "line_movement": {
-        "home": {
-          "direction": "shorter",
-          "points_moved": 5,
-          "steam": false,
-          "label": "\ud83d\udfe2 +185 \u2190 +190",
-          "old_ml": "+190",
-          "new_ml": "+185"
-        },
-        "away": {
-          "direction": "longer",
-          "points_moved": 5,
-          "steam": false,
-          "label": "\ud83d\udd34 -225 \u2190 -230",
-          "old_ml": "-230",
-          "new_ml": "-225"
-        },
-        "pick": {
-          "direction": "longer",
-          "points_moved": 5,
-          "steam": false,
-          "label": "\ud83d\udd34 -225 \u2190 -230",
-          "old_ml": "-230",
-          "new_ml": "-225"
-        },
-        "snapshot_time": "October 28, 2026 at 11:08 AM UTC"
-      },
-      "fatigue": {
-        "home": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "Oct 26",
-          "days_rest": 2,
-          "games_last_4d": 2,
-          "travel_miles": 1111,
-          "travel_desc": "1,111 mi road trip",
-          "source": "ESPN Scoreboard API"
-        },
-        "away": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "Oct 26",
-          "days_rest": 2,
-          "games_last_4d": 2,
-          "travel_miles": 0,
-          "travel_desc": "",
-          "source": "ESPN Scoreboard API"
-        }
-      },
-      "edge_factors": [
-        "\ud83d\udcca 32.8pt probability edge"
-      ],
-      "injury_notes": "No key injuries.",
-      "sharp": {
-        "away_t": null,
-        "home_t": null,
-        "source": null,
-        "sharp_signal": null,
-        "sharp_label": "Pending \u2014 check closer to tip-off",
-        "rlm": false
-      },
-      "form": {
-        "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        },
-        "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        }
-      },
-      "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
-      },
-      "briefing": {
-        "trend": "Oklahoma City Thunder hold a 66.4% edge.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line moved -230\u2192-225 (5pts). Pending \u2014 check closer to tip-off",
-        "injury_notes": "No key injuries."
-      },
-      "live": {
-        "status": "pre",
-        "status_detail": "Upcoming",
-        "period": 0,
-        "clock": "",
-        "home_score": 0,
-        "away_score": 0,
-        "spread_alert": null
-      },
-      "news": [
-        {
-          "title": "SEC Basketball Preview: Rick Barnes and the Tennessee Volunteers",
-          "source": "Rockmnation.com",
-          "link": "https://www.rockmnation.com/sec-basketball-team-scouting-reports/159485/tennessee-volunteers-preview-rick-barnes-juke-harris",
-          "published": "2026-10-27T17:00:00Z"
-        },
-        {
-          "title": "81-1: Week One Overreactions",
-          "source": "Canis Hoopus",
-          "link": "https://www.canishoopus.com/minnesota-timberwolves-lynx-features/71124/nba-overreactions-anthony-edwards-jaden-mcdaniels",
-          "published": "2026-10-27T17:00:00Z"
-        },
-        {
-          "title": "FanDuel Promo Code: Bet $5, Get $150 for the World Series, NBA, NHL and College Football",
-          "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/betting/promos/article/fanduel-promo-code-bet-5-get-150-for-the-world-series-nba-nhl-and-college-football-170000008.html",
-          "published": "2026-10-27T17:00:00Z"
-        }
-      ]
-    },
-    {
-      "game": "Los Angeles Lakers @ Los Angeles Clippers",
-      "home_team": "Los Angeles Clippers",
-      "away_team": "Los Angeles Lakers",
-      "home_abbr": "LAC",
-      "away_abbr": "LAL",
       "home_ml": "+160",
       "away_ml": "-192",
       "home_ml_raw": 160,
       "away_ml_raw": -192,
       "home_prob": 36.9,
       "away_prob": 63.1,
-      "spread": "LAC +4.5",
-      "favorite": "Los Angeles Lakers",
-      "pick": "Los Angeles Lakers",
-      "pick_abbr": "LAL",
+      "spread": "DAL +5.5",
+      "favorite": "Oklahoma City Thunder",
+      "pick": "Oklahoma City Thunder",
+      "pick_abbr": "OKC",
       "moneyline": "-192",
       "win_probability": 63.1,
       "confidence": "MEDIUM",
       "confidence_stars": "\u2605\u2605\u2606",
-      "commence_time": "2026-10-29T02:40:00Z",
+      "commence_time": "2026-10-29T01:40:00Z",
       "line_movement": {
         "home": {
           "direction": "shorter",
-          "points_moved": 10,
+          "points_moved": 25,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM +160 \u2190 +170",
-          "old_ml": "+170",
+          "label": "\ud83d\udd25 STEAM +160 \u2190 +185",
+          "old_ml": "+185",
           "new_ml": "+160"
         },
         "away": {
           "direction": "longer",
-          "points_moved": 13,
+          "points_moved": 33,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM -192 \u2190 -205",
-          "old_ml": "-205",
+          "label": "\ud83d\udd25 STEAM -192 \u2190 -225",
+          "old_ml": "-225",
           "new_ml": "-192"
         },
         "pick": {
           "direction": "longer",
-          "points_moved": 13,
+          "points_moved": 33,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM -192 \u2190 -205",
-          "old_ml": "-205",
+          "label": "\ud83d\udd25 STEAM -192 \u2190 -225",
+          "old_ml": "-225",
           "new_ml": "-192"
         },
-        "snapshot_time": "October 28, 2026 at 11:08 AM UTC"
+        "snapshot_time": "October 28, 2026 at 05:00 PM UTC"
       },
       "fatigue": {
         "home": {
           "status": "RESTED",
           "label": "2 days rest \u2705",
           "battery": 88,
-          "last_game": "Oct 25",
+          "last_game": "Oct 26",
           "days_rest": 3,
           "games_last_4d": 1,
-          "travel_miles": 1180,
-          "travel_desc": "1,180 mi road trip",
+          "travel_miles": 1111,
+          "travel_desc": "1,111 mi road trip",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
-          "last_game": "Oct 27",
-          "days_rest": 1,
+          "status": "RESTED",
+          "label": "2 days rest \u2705",
+          "battery": 88,
+          "last_game": "Oct 26",
+          "days_rest": 3,
           "games_last_4d": 2,
           "travel_miles": 0,
           "travel_desc": "",
@@ -1707,9 +1567,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "LAL on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "trend": "Oklahoma City Thunder hold a 63.1% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -205 to -192 (13pt move) \u2014 heavy professional action on Los Angeles Lakers.",
+        "steam": "Line steamed from -225 to -192 (33pt move) \u2014 heavy professional action on Oklahoma City Thunder.",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -1723,22 +1583,457 @@
       },
       "news": [
         {
-          "title": "SEC Basketball Preview: Rick Barnes and the Tennessee Volunteers",
-          "source": "Rockmnation.com",
-          "link": "https://www.rockmnation.com/sec-basketball-team-scouting-reports/159485/tennessee-volunteers-preview-rick-barnes-juke-harris",
-          "published": "2026-10-27T17:00:00Z"
+          "title": "NBA Star Lamar Odom Joins OnlyFans, Teases What Fans Might See",
+          "source": "Eonline.com",
+          "link": "https://www.eonline.com/news/1437559/khloe-kardashian-ex-lamar-odom-joins-onlyfans-teases-what-fans-will-see",
+          "published": "2026-10-28T01:17:43Z"
         },
         {
-          "title": "81-1: Week One Overreactions",
-          "source": "Canis Hoopus",
-          "link": "https://www.canishoopus.com/minnesota-timberwolves-lynx-features/71124/nba-overreactions-anthony-edwards-jaden-mcdaniels",
-          "published": "2026-10-27T17:00:00Z"
+          "title": "Here are 4 OKC Thunder players who must help with Jalen Williams, Cason Wallace out",
+          "source": "USA Today",
+          "link": "https://okcthunderwire.usatoday.com/story/sports/nba/thunder/2026/10/27/here-are-4-okc-thunder-players-who-must-help-with-jalen-williams-cason-wallace-out/92469174007/",
+          "published": "2026-10-28T01:15:12Z"
         },
         {
-          "title": "FanDuel Promo Code: Bet $5, Get $150 for the World Series, NBA, NHL and College Football",
-          "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/betting/promos/article/fanduel-promo-code-bet-5-get-150-for-the-world-series-nba-nhl-and-college-football-170000008.html",
-          "published": "2026-10-27T17:00:00Z"
+          "title": "Dream Blame WNBA for Schedule Snafu that Led to Midday Game",
+          "source": "Frontofficesports.com",
+          "link": "https://frontofficesports.com/article/dream-blame-wnba-schedule-snafu-midday-game/",
+          "published": "2026-10-28T01:13:53Z"
+        }
+      ]
+    },
+    {
+      "game": "Los Angeles Lakers @ Los Angeles Clippers",
+      "home_team": "Los Angeles Clippers",
+      "away_team": "Los Angeles Lakers",
+      "home_abbr": "LAC",
+      "away_abbr": "LAL",
+      "home_ml": "-112",
+      "away_ml": "-108",
+      "home_ml_raw": -112,
+      "away_ml_raw": -108,
+      "home_prob": 50.4,
+      "away_prob": 49.6,
+      "spread": "LAC -1.5",
+      "favorite": "Los Angeles Clippers",
+      "pick": "Los Angeles Clippers",
+      "pick_abbr": "LAC",
+      "moneyline": "-112",
+      "win_probability": 50.4,
+      "confidence": "LOW",
+      "confidence_stars": "\u2605\u2606\u2606",
+      "commence_time": "2026-10-29T02:40:00Z",
+      "line_movement": {
+        "home": {
+          "direction": "shorter",
+          "points_moved": 272,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -112 \u2190 +160",
+          "old_ml": "+160",
+          "new_ml": "-112"
+        },
+        "away": {
+          "direction": "longer",
+          "points_moved": 84,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -108 \u2190 -192",
+          "old_ml": "-192",
+          "new_ml": "-108"
+        },
+        "pick": {
+          "direction": "shorter",
+          "points_moved": 272,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -112 \u2190 +160",
+          "old_ml": "+160",
+          "new_ml": "-112"
+        },
+        "snapshot_time": "October 28, 2026 at 05:00 PM UTC"
+      },
+      "fatigue": {
+        "home": {
+          "status": "FRESH",
+          "label": "Well rested \u2705",
+          "battery": 100,
+          "last_game": "Oct 25",
+          "days_rest": 4,
+          "games_last_4d": 1,
+          "travel_miles": 1180,
+          "travel_desc": "1,180 mi road trip",
+          "source": "ESPN Scoreboard API"
+        },
+        "away": {
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
+          "last_game": "Oct 27",
+          "days_rest": 2,
+          "games_last_4d": 2,
+          "travel_miles": 0,
+          "travel_desc": "",
+          "source": "ESPN Scoreboard API"
+        }
+      },
+      "edge_factors": [
+        "\ud83d\udd25 Sharp steam detected"
+      ],
+      "injury_notes": "No key injuries.",
+      "sharp": {
+        "away_t": null,
+        "home_t": null,
+        "source": null,
+        "sharp_signal": null,
+        "sharp_label": "Pending \u2014 check closer to tip-off",
+        "rlm": false
+      },
+      "form": {
+        "home": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        },
+        "away": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        }
+      },
+      "h2h": {
+        "total_meetings": 0,
+        "home_wins": 0,
+        "away_wins": 0,
+        "meetings": [],
+        "source": "\u2014"
+      },
+      "briefing": {
+        "trend": "Los Angeles Clippers hold a 50.4% edge.",
+        "matchup": "Both rosters appear healthy \u2014 clean line.",
+        "steam": "Line steamed from +160 to -112 (272pt move) \u2014 heavy professional action on Los Angeles Clippers.",
+        "injury_notes": "No key injuries."
+      },
+      "live": {
+        "status": "pre",
+        "status_detail": "Upcoming",
+        "period": 0,
+        "clock": "",
+        "home_score": 0,
+        "away_score": 0,
+        "spread_alert": null
+      },
+      "news": [
+        {
+          "title": "NBA Star Lamar Odom Joins OnlyFans, Teases What Fans Might See",
+          "source": "Eonline.com",
+          "link": "https://www.eonline.com/news/1437559/khloe-kardashian-ex-lamar-odom-joins-onlyfans-teases-what-fans-will-see",
+          "published": "2026-10-28T01:17:43Z"
+        },
+        {
+          "title": "Here are 4 OKC Thunder players who must help with Jalen Williams, Cason Wallace out",
+          "source": "USA Today",
+          "link": "https://okcthunderwire.usatoday.com/story/sports/nba/thunder/2026/10/27/here-are-4-okc-thunder-players-who-must-help-with-jalen-williams-cason-wallace-out/92469174007/",
+          "published": "2026-10-28T01:15:12Z"
+        },
+        {
+          "title": "Dream Blame WNBA for Schedule Snafu that Led to Midday Game",
+          "source": "Frontofficesports.com",
+          "link": "https://frontofficesports.com/article/dream-blame-wnba-schedule-snafu-midday-game/",
+          "published": "2026-10-28T01:13:53Z"
+        }
+      ]
+    },
+    {
+      "game": "Sacramento Kings @ New Orleans Pelicans",
+      "home_team": "New Orleans Pelicans",
+      "away_team": "Sacramento Kings",
+      "home_abbr": "NOP",
+      "away_abbr": "SAC",
+      "home_ml": "-198",
+      "away_ml": "+164",
+      "home_ml_raw": -198,
+      "away_ml_raw": 164,
+      "home_prob": 63.7,
+      "away_prob": 36.3,
+      "spread": "NOP -5.5",
+      "favorite": "New Orleans Pelicans",
+      "pick": "New Orleans Pelicans",
+      "pick_abbr": "NOP",
+      "moneyline": "-198",
+      "win_probability": 63.7,
+      "confidence": "MEDIUM",
+      "confidence_stars": "\u2605\u2605\u2606",
+      "commence_time": "2026-10-30T00:10:00Z",
+      "line_movement": {
+        "home": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "away": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "pick": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "snapshot_time": "\u2014"
+      },
+      "fatigue": {
+        "home": {
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Oct 28",
+          "days_rest": 1,
+          "games_last_4d": 1,
+          "travel_miles": 0,
+          "travel_desc": "",
+          "source": "ESPN Scoreboard API"
+        },
+        "away": {
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
+          "last_game": "Oct 27",
+          "days_rest": 2,
+          "games_last_4d": 2,
+          "travel_miles": 1459,
+          "travel_desc": "1,459 mi road trip",
+          "source": "ESPN Scoreboard API"
+        }
+      },
+      "edge_factors": [
+        "\ud83d\udcca 27.4pt probability edge"
+      ],
+      "injury_notes": "No key injuries.",
+      "sharp": {
+        "away_t": null,
+        "home_t": null,
+        "source": null,
+        "sharp_signal": null,
+        "sharp_label": "Pending \u2014 check closer to tip-off",
+        "rlm": false
+      },
+      "form": {
+        "home": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        },
+        "away": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        }
+      },
+      "h2h": {
+        "total_meetings": 0,
+        "home_wins": 0,
+        "away_wins": 0,
+        "meetings": [],
+        "source": "\u2014"
+      },
+      "briefing": {
+        "trend": "NOP on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "matchup": "Both rosters appear healthy \u2014 clean line.",
+        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "injury_notes": "No key injuries."
+      },
+      "live": {
+        "status": "pre",
+        "status_detail": "Upcoming",
+        "period": 0,
+        "clock": "",
+        "home_score": 0,
+        "away_score": 0,
+        "spread_alert": null
+      },
+      "news": [
+        {
+          "title": "NBA Star Lamar Odom Joins OnlyFans, Teases What Fans Might See",
+          "source": "Eonline.com",
+          "link": "https://www.eonline.com/news/1437559/khloe-kardashian-ex-lamar-odom-joins-onlyfans-teases-what-fans-will-see",
+          "published": "2026-10-28T01:17:43Z"
+        },
+        {
+          "title": "Here are 4 OKC Thunder players who must help with Jalen Williams, Cason Wallace out",
+          "source": "USA Today",
+          "link": "https://okcthunderwire.usatoday.com/story/sports/nba/thunder/2026/10/27/here-are-4-okc-thunder-players-who-must-help-with-jalen-williams-cason-wallace-out/92469174007/",
+          "published": "2026-10-28T01:15:12Z"
+        },
+        {
+          "title": "Dream Blame WNBA for Schedule Snafu that Led to Midday Game",
+          "source": "Frontofficesports.com",
+          "link": "https://frontofficesports.com/article/dream-blame-wnba-schedule-snafu-midday-game/",
+          "published": "2026-10-28T01:13:53Z"
+        }
+      ]
+    },
+    {
+      "game": "Memphis Grizzlies @ Portland Trail Blazers",
+      "home_team": "Portland Trail Blazers",
+      "away_team": "Memphis Grizzlies",
+      "home_abbr": "POR",
+      "away_abbr": "MEM",
+      "home_ml": "-258",
+      "away_ml": "+210",
+      "home_ml_raw": -258,
+      "away_ml_raw": 210,
+      "home_prob": 69.1,
+      "away_prob": 30.9,
+      "spread": "POR -6.5",
+      "favorite": "Portland Trail Blazers",
+      "pick": "Portland Trail Blazers",
+      "pick_abbr": "POR",
+      "moneyline": "-258",
+      "win_probability": 69.1,
+      "confidence": "MEDIUM",
+      "confidence_stars": "\u2605\u2605\u2606",
+      "commence_time": "2026-10-30T02:10:00Z",
+      "line_movement": {
+        "home": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "away": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "pick": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "snapshot_time": "\u2014"
+      },
+      "fatigue": {
+        "home": {
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
+          "last_game": "Oct 27",
+          "days_rest": 2,
+          "games_last_4d": 1,
+          "travel_miles": 827,
+          "travel_desc": "827 mi road trip",
+          "source": "ESPN Scoreboard API"
+        },
+        "away": {
+          "status": "RESTED",
+          "label": "2 days rest \u2705",
+          "battery": 88,
+          "last_game": "Oct 26",
+          "days_rest": 3,
+          "games_last_4d": 2,
+          "travel_miles": 1746,
+          "travel_desc": "1,746 mi road trip",
+          "source": "ESPN Scoreboard API"
+        }
+      },
+      "edge_factors": [
+        "\ud83d\udcca 38.2pt probability edge"
+      ],
+      "injury_notes": "No key injuries.",
+      "sharp": {
+        "away_t": null,
+        "home_t": null,
+        "source": null,
+        "sharp_signal": null,
+        "sharp_label": "Pending \u2014 check closer to tip-off",
+        "rlm": false
+      },
+      "form": {
+        "home": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        },
+        "away": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        }
+      },
+      "h2h": {
+        "total_meetings": 0,
+        "home_wins": 0,
+        "away_wins": 0,
+        "meetings": [],
+        "source": "\u2014"
+      },
+      "briefing": {
+        "trend": "Portland Trail Blazers hold a 69.1% edge.",
+        "matchup": "Both rosters appear healthy \u2014 clean line.",
+        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "injury_notes": "No key injuries."
+      },
+      "live": {
+        "status": "pre",
+        "status_detail": "Upcoming",
+        "period": 0,
+        "clock": "",
+        "home_score": 0,
+        "away_score": 0,
+        "spread_alert": null
+      },
+      "news": [
+        {
+          "title": "NBA Star Lamar Odom Joins OnlyFans, Teases What Fans Might See",
+          "source": "Eonline.com",
+          "link": "https://www.eonline.com/news/1437559/khloe-kardashian-ex-lamar-odom-joins-onlyfans-teases-what-fans-will-see",
+          "published": "2026-10-28T01:17:43Z"
+        },
+        {
+          "title": "Here are 4 OKC Thunder players who must help with Jalen Williams, Cason Wallace out",
+          "source": "USA Today",
+          "link": "https://okcthunderwire.usatoday.com/story/sports/nba/thunder/2026/10/27/here-are-4-okc-thunder-players-who-must-help-with-jalen-williams-cason-wallace-out/92469174007/",
+          "published": "2026-10-28T01:15:12Z"
+        },
+        {
+          "title": "Dream Blame WNBA for Schedule Snafu that Led to Midday Game",
+          "source": "Frontofficesports.com",
+          "link": "https://frontofficesports.com/article/dream-blame-wnba-schedule-snafu-midday-game/",
+          "published": "2026-10-28T01:13:53Z"
         }
       ]
     },
@@ -1788,29 +2083,29 @@
           "old_ml": "-115",
           "new_ml": "-115"
         },
-        "snapshot_time": "October 28, 2026 at 11:08 AM UTC"
+        "snapshot_time": "October 28, 2026 at 05:00 PM UTC"
       },
       "fatigue": {
         "home": {
           "status": "B2B",
           "label": "Back-to-Back \u26a0\ufe0f",
           "battery": 20,
-          "last_game": "Oct 27",
+          "last_game": "Oct 28",
           "days_rest": 1,
-          "games_last_4d": 2,
-          "travel_miles": 0,
-          "travel_desc": "",
+          "games_last_4d": 3,
+          "travel_miles": 713,
+          "travel_desc": "713 mi road trip",
           "source": "ESPN Scoreboard API"
         },
         "away": {
           "status": "B2B",
           "label": "Back-to-Back \u26a0\ufe0f",
           "battery": 20,
-          "last_game": "Oct 27",
+          "last_game": "Oct 28",
           "days_rest": 1,
           "games_last_4d": 2,
-          "travel_miles": 252,
-          "travel_desc": "252 mi road trip",
+          "travel_miles": 0,
+          "travel_desc": "",
           "source": "ESPN Scoreboard API"
         }
       },
@@ -1868,22 +2163,22 @@
       },
       "news": [
         {
-          "title": "SEC Basketball Preview: Rick Barnes and the Tennessee Volunteers",
-          "source": "Rockmnation.com",
-          "link": "https://www.rockmnation.com/sec-basketball-team-scouting-reports/159485/tennessee-volunteers-preview-rick-barnes-juke-harris",
-          "published": "2026-10-27T17:00:00Z"
+          "title": "NBA Star Lamar Odom Joins OnlyFans, Teases What Fans Might See",
+          "source": "Eonline.com",
+          "link": "https://www.eonline.com/news/1437559/khloe-kardashian-ex-lamar-odom-joins-onlyfans-teases-what-fans-will-see",
+          "published": "2026-10-28T01:17:43Z"
         },
         {
-          "title": "81-1: Week One Overreactions",
-          "source": "Canis Hoopus",
-          "link": "https://www.canishoopus.com/minnesota-timberwolves-lynx-features/71124/nba-overreactions-anthony-edwards-jaden-mcdaniels",
-          "published": "2026-10-27T17:00:00Z"
+          "title": "Here are 4 OKC Thunder players who must help with Jalen Williams, Cason Wallace out",
+          "source": "USA Today",
+          "link": "https://okcthunderwire.usatoday.com/story/sports/nba/thunder/2026/10/27/here-are-4-okc-thunder-players-who-must-help-with-jalen-williams-cason-wallace-out/92469174007/",
+          "published": "2026-10-28T01:15:12Z"
         },
         {
-          "title": "FanDuel Promo Code: Bet $5, Get $150 for the World Series, NBA, NHL and College Football",
-          "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/betting/promos/article/fanduel-promo-code-bet-5-get-150-for-the-world-series-nba-nhl-and-college-football-170000008.html",
-          "published": "2026-10-27T17:00:00Z"
+          "title": "Dream Blame WNBA for Schedule Snafu that Led to Midday Game",
+          "source": "Frontofficesports.com",
+          "link": "https://frontofficesports.com/article/dream-blame-wnba-schedule-snafu-midday-game/",
+          "published": "2026-10-28T01:13:53Z"
         }
       ]
     },
@@ -1933,34 +2228,34 @@
           "old_ml": "-218",
           "new_ml": "-218"
         },
-        "snapshot_time": "October 28, 2026 at 11:08 AM UTC"
+        "snapshot_time": "October 28, 2026 at 05:00 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
           "last_game": "Oct 27",
-          "days_rest": 1,
+          "days_rest": 2,
           "games_last_4d": 2,
           "travel_miles": 0,
           "travel_desc": "",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "Oct 26",
-          "days_rest": 2,
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Oct 28",
+          "days_rest": 1,
           "games_last_4d": 2,
-          "travel_miles": 654,
-          "travel_desc": "654 mi road trip",
+          "travel_miles": 606,
+          "travel_desc": "606 mi road trip",
           "source": "ESPN Scoreboard API"
         }
       },
       "edge_factors": [
-        "\ud83d\udcca 31.4pt probability edge"
+        "\ud83d\udca4 MIA fatigued (B2B) \u2014 source: ESPN"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -1997,7 +2292,7 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "BOS on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "trend": "MIA on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
         "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
@@ -2013,22 +2308,22 @@
       },
       "news": [
         {
-          "title": "SEC Basketball Preview: Rick Barnes and the Tennessee Volunteers",
-          "source": "Rockmnation.com",
-          "link": "https://www.rockmnation.com/sec-basketball-team-scouting-reports/159485/tennessee-volunteers-preview-rick-barnes-juke-harris",
-          "published": "2026-10-27T17:00:00Z"
+          "title": "NBA Star Lamar Odom Joins OnlyFans, Teases What Fans Might See",
+          "source": "Eonline.com",
+          "link": "https://www.eonline.com/news/1437559/khloe-kardashian-ex-lamar-odom-joins-onlyfans-teases-what-fans-will-see",
+          "published": "2026-10-28T01:17:43Z"
         },
         {
-          "title": "81-1: Week One Overreactions",
-          "source": "Canis Hoopus",
-          "link": "https://www.canishoopus.com/minnesota-timberwolves-lynx-features/71124/nba-overreactions-anthony-edwards-jaden-mcdaniels",
-          "published": "2026-10-27T17:00:00Z"
+          "title": "Here are 4 OKC Thunder players who must help with Jalen Williams, Cason Wallace out",
+          "source": "USA Today",
+          "link": "https://okcthunderwire.usatoday.com/story/sports/nba/thunder/2026/10/27/here-are-4-okc-thunder-players-who-must-help-with-jalen-williams-cason-wallace-out/92469174007/",
+          "published": "2026-10-28T01:15:12Z"
         },
         {
-          "title": "FanDuel Promo Code: Bet $5, Get $150 for the World Series, NBA, NHL and College Football",
-          "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/betting/promos/article/fanduel-promo-code-bet-5-get-150-for-the-world-series-nba-nhl-and-college-football-170000008.html",
-          "published": "2026-10-27T17:00:00Z"
+          "title": "Dream Blame WNBA for Schedule Snafu that Led to Midday Game",
+          "source": "Frontofficesports.com",
+          "link": "https://frontofficesports.com/article/dream-blame-wnba-schedule-snafu-midday-game/",
+          "published": "2026-10-28T01:13:53Z"
         }
       ]
     },
@@ -2078,34 +2373,34 @@
           "old_ml": "-115",
           "new_ml": "-115"
         },
-        "snapshot_time": "October 28, 2026 at 11:08 AM UTC"
+        "snapshot_time": "October 28, 2026 at 05:00 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
           "last_game": "Oct 27",
-          "days_rest": 1,
+          "days_rest": 2,
           "games_last_4d": 2,
           "travel_miles": 0,
           "travel_desc": "",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "RESTED",
-          "label": "2 days rest \u2705",
-          "battery": 88,
-          "last_game": "Oct 25",
-          "days_rest": 3,
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Oct 28",
+          "days_rest": 1,
           "games_last_4d": 2,
-          "travel_miles": 0,
-          "travel_desc": "",
+          "travel_miles": 583,
+          "travel_desc": "583 mi road trip",
           "source": "ESPN Scoreboard API"
         }
       },
       "edge_factors": [
-        "\ud83d\udcca 2.2pt probability edge"
+        "\ud83d\udca4 PHI fatigued (B2B) \u2014 source: ESPN"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -2142,7 +2437,7 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "LAL on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "trend": "PHI on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
         "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
@@ -2158,22 +2453,22 @@
       },
       "news": [
         {
-          "title": "SEC Basketball Preview: Rick Barnes and the Tennessee Volunteers",
-          "source": "Rockmnation.com",
-          "link": "https://www.rockmnation.com/sec-basketball-team-scouting-reports/159485/tennessee-volunteers-preview-rick-barnes-juke-harris",
-          "published": "2026-10-27T17:00:00Z"
+          "title": "NBA Star Lamar Odom Joins OnlyFans, Teases What Fans Might See",
+          "source": "Eonline.com",
+          "link": "https://www.eonline.com/news/1437559/khloe-kardashian-ex-lamar-odom-joins-onlyfans-teases-what-fans-will-see",
+          "published": "2026-10-28T01:17:43Z"
         },
         {
-          "title": "81-1: Week One Overreactions",
-          "source": "Canis Hoopus",
-          "link": "https://www.canishoopus.com/minnesota-timberwolves-lynx-features/71124/nba-overreactions-anthony-edwards-jaden-mcdaniels",
-          "published": "2026-10-27T17:00:00Z"
+          "title": "Here are 4 OKC Thunder players who must help with Jalen Williams, Cason Wallace out",
+          "source": "USA Today",
+          "link": "https://okcthunderwire.usatoday.com/story/sports/nba/thunder/2026/10/27/here-are-4-okc-thunder-players-who-must-help-with-jalen-williams-cason-wallace-out/92469174007/",
+          "published": "2026-10-28T01:15:12Z"
         },
         {
-          "title": "FanDuel Promo Code: Bet $5, Get $150 for the World Series, NBA, NHL and College Football",
-          "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/betting/promos/article/fanduel-promo-code-bet-5-get-150-for-the-world-series-nba-nhl-and-college-football-170000008.html",
-          "published": "2026-10-27T17:00:00Z"
+          "title": "Dream Blame WNBA for Schedule Snafu that Led to Midday Game",
+          "source": "Frontofficesports.com",
+          "link": "https://frontofficesports.com/article/dream-blame-wnba-schedule-snafu-midday-game/",
+          "published": "2026-10-28T01:13:53Z"
         }
       ]
     },
@@ -2223,26 +2518,26 @@
           "old_ml": "-170",
           "new_ml": "-170"
         },
-        "snapshot_time": "October 28, 2026 at 11:08 AM UTC"
+        "snapshot_time": "October 28, 2026 at 05:00 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "Oct 26",
-          "days_rest": 2,
-          "games_last_4d": 2,
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Oct 28",
+          "days_rest": 1,
+          "games_last_4d": 3,
           "travel_miles": 630,
           "travel_desc": "630 mi road trip",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
+          "status": "RESTED",
+          "label": "2 days rest \u2705",
+          "battery": 88,
           "last_game": "Oct 26",
-          "days_rest": 2,
+          "days_rest": 3,
           "games_last_4d": 2,
           "travel_miles": 0,
           "travel_desc": "",
@@ -2250,7 +2545,7 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udcca 20.8pt probability edge"
+        "\ud83d\udca4 MIN fatigued (B2B) \u2014 source: ESPN"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -2287,7 +2582,7 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "Oklahoma City Thunder hold a 60.4% edge.",
+        "trend": "MIN on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
         "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
@@ -2303,22 +2598,22 @@
       },
       "news": [
         {
-          "title": "SEC Basketball Preview: Rick Barnes and the Tennessee Volunteers",
-          "source": "Rockmnation.com",
-          "link": "https://www.rockmnation.com/sec-basketball-team-scouting-reports/159485/tennessee-volunteers-preview-rick-barnes-juke-harris",
-          "published": "2026-10-27T17:00:00Z"
+          "title": "NBA Star Lamar Odom Joins OnlyFans, Teases What Fans Might See",
+          "source": "Eonline.com",
+          "link": "https://www.eonline.com/news/1437559/khloe-kardashian-ex-lamar-odom-joins-onlyfans-teases-what-fans-will-see",
+          "published": "2026-10-28T01:17:43Z"
         },
         {
-          "title": "81-1: Week One Overreactions",
-          "source": "Canis Hoopus",
-          "link": "https://www.canishoopus.com/minnesota-timberwolves-lynx-features/71124/nba-overreactions-anthony-edwards-jaden-mcdaniels",
-          "published": "2026-10-27T17:00:00Z"
+          "title": "Here are 4 OKC Thunder players who must help with Jalen Williams, Cason Wallace out",
+          "source": "USA Today",
+          "link": "https://okcthunderwire.usatoday.com/story/sports/nba/thunder/2026/10/27/here-are-4-okc-thunder-players-who-must-help-with-jalen-williams-cason-wallace-out/92469174007/",
+          "published": "2026-10-28T01:15:12Z"
         },
         {
-          "title": "FanDuel Promo Code: Bet $5, Get $150 for the World Series, NBA, NHL and College Football",
-          "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/betting/promos/article/fanduel-promo-code-bet-5-get-150-for-the-world-series-nba-nhl-and-college-football-170000008.html",
-          "published": "2026-10-27T17:00:00Z"
+          "title": "Dream Blame WNBA for Schedule Snafu that Led to Midday Game",
+          "source": "Frontofficesports.com",
+          "link": "https://frontofficesports.com/article/dream-blame-wnba-schedule-snafu-midday-game/",
+          "published": "2026-10-28T01:13:53Z"
         }
       ]
     },
@@ -2368,34 +2663,34 @@
           "old_ml": "-162",
           "new_ml": "-162"
         },
-        "snapshot_time": "October 28, 2026 at 11:08 AM UTC"
+        "snapshot_time": "October 28, 2026 at 05:00 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "Oct 26",
-          "days_rest": 2,
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Oct 28",
+          "days_rest": 1,
           "games_last_4d": 2,
-          "travel_miles": 945,
-          "travel_desc": "945 mi road trip",
+          "travel_miles": 1580,
+          "travel_desc": "1,580 mi road trip",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "Oct 26",
-          "days_rest": 2,
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Oct 28",
+          "days_rest": 1,
           "games_last_4d": 2,
-          "travel_miles": 0,
-          "travel_desc": "",
+          "travel_miles": 1081,
+          "travel_desc": "1,081 mi road trip",
           "source": "ESPN Scoreboard API"
         }
       },
       "edge_factors": [
-        "\ud83d\udcca 18.6pt probability edge"
+        "\ud83d\udca4 GSW fatigued (B2B) \u2014 source: ESPN"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -2432,7 +2727,7 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "Denver Nuggets hold a 59.3% edge.",
+        "trend": "GSW on Back-to-Back \u26a0\ufe0f per ESPN schedule data. DEN on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
         "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
@@ -2448,22 +2743,22 @@
       },
       "news": [
         {
-          "title": "SEC Basketball Preview: Rick Barnes and the Tennessee Volunteers",
-          "source": "Rockmnation.com",
-          "link": "https://www.rockmnation.com/sec-basketball-team-scouting-reports/159485/tennessee-volunteers-preview-rick-barnes-juke-harris",
-          "published": "2026-10-27T17:00:00Z"
+          "title": "NBA Star Lamar Odom Joins OnlyFans, Teases What Fans Might See",
+          "source": "Eonline.com",
+          "link": "https://www.eonline.com/news/1437559/khloe-kardashian-ex-lamar-odom-joins-onlyfans-teases-what-fans-will-see",
+          "published": "2026-10-28T01:17:43Z"
         },
         {
-          "title": "81-1: Week One Overreactions",
-          "source": "Canis Hoopus",
-          "link": "https://www.canishoopus.com/minnesota-timberwolves-lynx-features/71124/nba-overreactions-anthony-edwards-jaden-mcdaniels",
-          "published": "2026-10-27T17:00:00Z"
+          "title": "Here are 4 OKC Thunder players who must help with Jalen Williams, Cason Wallace out",
+          "source": "USA Today",
+          "link": "https://okcthunderwire.usatoday.com/story/sports/nba/thunder/2026/10/27/here-are-4-okc-thunder-players-who-must-help-with-jalen-williams-cason-wallace-out/92469174007/",
+          "published": "2026-10-28T01:15:12Z"
         },
         {
-          "title": "FanDuel Promo Code: Bet $5, Get $150 for the World Series, NBA, NHL and College Football",
-          "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/betting/promos/article/fanduel-promo-code-bet-5-get-150-for-the-world-series-nba-nhl-and-college-football-170000008.html",
-          "published": "2026-10-27T17:00:00Z"
+          "title": "Dream Blame WNBA for Schedule Snafu that Led to Midday Game",
+          "source": "Frontofficesports.com",
+          "link": "https://frontofficesports.com/article/dream-blame-wnba-schedule-snafu-midday-game/",
+          "published": "2026-10-28T01:13:53Z"
         }
       ]
     }
@@ -2479,35 +2774,35 @@
     },
     "MEDIUM": {
       "wins": 17,
-      "losses": 8,
-      "total": 25,
-      "win_pct": 68.0,
-      "roi": 2.8,
-      "profit": 71.11
+      "losses": 9,
+      "total": 26,
+      "win_pct": 65.4,
+      "roi": -1.1,
+      "profit": -28.89
     },
     "HIGH": {
-      "wins": 11,
+      "wins": 12,
       "losses": 3,
-      "total": 14,
-      "win_pct": 78.6,
-      "roi": -6.1,
-      "profit": -85.35
+      "total": 15,
+      "win_pct": 80.0,
+      "roi": -4.0,
+      "profit": -60.03
     },
     "overall_7d": {
-      "wins": 22,
-      "losses": 14,
-      "total": 36,
-      "win_pct": 61.1,
-      "roi": -14.0,
-      "profit": -504.2
+      "wins": 23,
+      "losses": 15,
+      "total": 38,
+      "win_pct": 60.5,
+      "roi": -15.2,
+      "profit": -578.88
     },
     "overall_30d": {
-      "wins": 24,
-      "losses": 14,
-      "total": 38,
-      "win_pct": 63.2,
-      "roi": -8.0,
-      "profit": -304.2
+      "wins": 25,
+      "losses": 15,
+      "total": 40,
+      "win_pct": 62.5,
+      "roi": -9.5,
+      "profit": -378.88
     }
   }
 }

@@ -1284,9 +1284,11 @@
       "win_probability": 59.3,
       "commence_time": "2026-10-28T23:10:00Z",
       "date": "2026-10-28T01:00:19.390069+00:00",
-      "graded": false,
-      "result": null,
-      "profit": null
+      "graded": true,
+      "result": "LOSS",
+      "profit": -100,
+      "home_score": 117,
+      "away_score": 129
     },
     {
       "game": "Charlotte Hornets @ Detroit Pistons",
@@ -1312,9 +1314,11 @@
       "win_probability": 76.6,
       "commence_time": "2026-10-28T23:10:00Z",
       "date": "2026-10-28T01:00:19.390069+00:00",
-      "graded": false,
-      "result": null,
-      "profit": null
+      "graded": true,
+      "result": "WIN",
+      "profit": 25.32,
+      "home_score": 121,
+      "away_score": 111
     },
     {
       "game": "New York Knicks @ Chicago Bulls",
@@ -1413,6 +1417,34 @@
       "graded": false,
       "result": null,
       "profit": null
+    },
+    {
+      "game": "Sacramento Kings @ New Orleans Pelicans",
+      "pick": "New Orleans Pelicans",
+      "pick_abbr": "NOP",
+      "moneyline": "-198",
+      "moneyline_raw": -198,
+      "confidence": "MEDIUM",
+      "win_probability": 63.7,
+      "commence_time": "2026-10-30T00:10:00Z",
+      "date": "2026-10-29T01:35:43.226779+00:00",
+      "graded": false,
+      "result": null,
+      "profit": null
+    },
+    {
+      "game": "Memphis Grizzlies @ Portland Trail Blazers",
+      "pick": "Portland Trail Blazers",
+      "pick_abbr": "POR",
+      "moneyline": "-258",
+      "moneyline_raw": -258,
+      "confidence": "MEDIUM",
+      "win_probability": 69.1,
+      "commence_time": "2026-10-30T02:10:00Z",
+      "date": "2026-10-29T01:35:43.226779+00:00",
+      "graded": false,
+      "result": null,
+      "profit": null
     }
   ],
   "summary": {
@@ -1426,36 +1458,36 @@
     },
     "MEDIUM": {
       "wins": 17,
-      "losses": 8,
-      "total": 25,
-      "win_pct": 68.0,
-      "roi": 2.8,
-      "profit": 71.11
+      "losses": 9,
+      "total": 26,
+      "win_pct": 65.4,
+      "roi": -1.1,
+      "profit": -28.89
     },
     "HIGH": {
-      "wins": 11,
+      "wins": 12,
       "losses": 3,
-      "total": 14,
-      "win_pct": 78.6,
-      "roi": -6.1,
-      "profit": -85.35
+      "total": 15,
+      "win_pct": 80.0,
+      "roi": -4.0,
+      "profit": -60.03
     },
     "overall_7d": {
-      "wins": 22,
-      "losses": 14,
-      "total": 36,
-      "win_pct": 61.1,
-      "roi": -14.0,
-      "profit": -504.2
+      "wins": 23,
+      "losses": 15,
+      "total": 38,
+      "win_pct": 60.5,
+      "roi": -15.2,
+      "profit": -578.88
     },
     "overall_30d": {
-      "wins": 24,
-      "losses": 14,
-      "total": 38,
-      "win_pct": 63.2,
-      "roi": -8.0,
-      "profit": -304.2
+      "wins": 25,
+      "losses": 15,
+      "total": 40,
+      "win_pct": 62.5,
+      "roi": -9.5,
+      "profit": -378.88
     }
   },
-  "last_graded": "2026-10-28T11:08:03.743277+00:00"
+  "last_graded": "2026-10-29T01:34:52.231761+00:00"
 }
