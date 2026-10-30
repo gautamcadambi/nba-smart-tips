@@ -1,5 +1,5 @@
 {
-  "last_updated": "October 29, 2026 at 05:18 PM UTC",
+  "last_updated": "October 30, 2026 at 01:36 AM UTC",
   "total_games": 18,
   "games": [
     {
@@ -8,56 +8,56 @@
       "away_team": "Cleveland Cavaliers",
       "home_abbr": "ATL",
       "away_abbr": "CLE",
-      "home_ml": "-115",
-      "away_ml": "-105",
-      "home_ml_raw": -115,
-      "away_ml_raw": -105,
-      "home_prob": 51.1,
-      "away_prob": 48.9,
-      "spread": "ATL -1.5",
+      "home_ml": "-225",
+      "away_ml": "+170",
+      "home_ml_raw": -225,
+      "away_ml_raw": 170,
+      "home_prob": 65.1,
+      "away_prob": 34.9,
+      "spread": "ATL -4.5",
       "favorite": "Atlanta Hawks",
       "pick": "Atlanta Hawks",
       "pick_abbr": "ATL",
-      "moneyline": "-115",
-      "win_probability": 51.1,
-      "confidence": "LOW",
-      "confidence_stars": "\u2605\u2606\u2606",
-      "commence_time": "2026-10-30T00:10:00Z",
+      "moneyline": "-225",
+      "win_probability": 65.1,
+      "confidence": "MEDIUM",
+      "confidence_stars": "\u2605\u2605\u2606",
+      "commence_time": "2026-10-30T00:10:30Z",
       "line_movement": {
         "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "shorter",
+          "points_moved": 110,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -225 \u2190 -115",
           "old_ml": "-115",
-          "new_ml": "-115"
+          "new_ml": "-225"
         },
         "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "longer",
+          "points_moved": 275,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM +170 \u2190 -105",
           "old_ml": "-105",
-          "new_ml": "-105"
+          "new_ml": "+170"
         },
         "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "shorter",
+          "points_moved": 110,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -225 \u2190 -115",
           "old_ml": "-115",
-          "new_ml": "-115"
+          "new_ml": "-225"
         },
-        "snapshot_time": "October 29, 2026 at 11:36 AM UTC"
+        "snapshot_time": "October 29, 2026 at 05:18 PM UTC"
       },
       "fatigue": {
         "home": {
           "status": "B2B",
           "label": "Back-to-Back \u26a0\ufe0f",
           "battery": 20,
-          "last_game": "Oct 28",
+          "last_game": "Oct 29",
           "days_rest": 1,
-          "games_last_4d": 2,
+          "games_last_4d": 3,
           "travel_miles": 701,
           "travel_desc": "701 mi road trip",
           "source": "ESPN Scoreboard API"
@@ -66,15 +66,16 @@
           "status": "B2B",
           "label": "Back-to-Back \u26a0\ufe0f",
           "battery": 20,
-          "last_game": "Oct 28",
+          "last_game": "Oct 29",
           "days_rest": 1,
-          "games_last_4d": 2,
-          "travel_miles": 0,
-          "travel_desc": "",
+          "games_last_4d": 3,
+          "travel_miles": 555,
+          "travel_desc": "555 mi road trip",
           "source": "ESPN Scoreboard API"
         }
       },
       "edge_factors": [
+        "\ud83d\udd25 Sharp steam detected",
         "\ud83d\udca4 CLE fatigued (B2B) \u2014 source: ESPN"
       ],
       "injury_notes": "No key injuries.",
@@ -114,7 +115,7 @@
       "briefing": {
         "trend": "ATL on Back-to-Back \u26a0\ufe0f per ESPN schedule data. CLE on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "steam": "Line steamed from -115 to -225 (110pt move) \u2014 heavy professional action on Atlanta Hawks.",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -128,16 +129,22 @@
       },
       "news": [
         {
-          "title": "Pakistan gas bowser explodes after truck collision, killing 2 and damaging 6 vehicles",
-          "source": "The Times of India",
-          "link": "https://timesofindia.indiatimes.com/world/pakistan/pakistan-gas-bowser-explodes-after-truck-collision-killing-2-and-damaging-6-vehicles/articleshow/135274421.cms",
-          "published": "2026-10-28T17:17:01Z"
+          "title": "AJ Dybantsa starts pro career with alley-oop dunk in aggressive, impressive NBA debut",
+          "source": "Yahoo Entertainment",
+          "link": "https://sports.yahoo.com/nba/breaking-news/article/aj-dybantsa-starts-pro-career-with-alley-oop-dunk-in-aggressive-impressive-nba-debut-013603697.html",
+          "published": "2026-10-29T01:36:03Z"
         },
         {
-          "title": "BSP sounds 2027 poll bugle in UP, names Anoopshahr candidate",
-          "source": "The Times of India",
-          "link": "https://timesofindia.indiatimes.com/city/meerut/bsp-sounds-2027-poll-bugle-in-up-names-anoopshahr-candidate/articleshow/135274646.cms",
-          "published": "2026-10-28T17:16:45Z"
+          "title": "Shaquille O\u2019Neal reveals shocking details to Ernie Johnson after his sudden retirement from \u2018Inside the NBA\u2019",
+          "source": "New York Post",
+          "link": "https://nypost.com/2026/10/28/sports/shaquille-oneal-ernie-johnson-sudden-retirement-inside-nba/?utm_source=yahoo&amp;utm_campaign=nypost&amp;utm_medium=referral",
+          "published": "2026-10-29T01:34:43Z"
+        },
+        {
+          "title": "Shaquille O\u2019Neal reveals shocking details to Ernie Johnson after his sudden retirement from \u2018Inside the NBA\u2019",
+          "source": "New York Post",
+          "link": "https://nypost.com/2026/10/28/sports/shaquille-oneal-ernie-johnson-sudden-retirement-inside-nba/",
+          "published": "2026-10-29T01:34:43Z"
         }
       ]
     },
@@ -147,74 +154,76 @@
       "away_team": "Sacramento Kings",
       "home_abbr": "NOP",
       "away_abbr": "SAC",
-      "home_ml": "-238",
-      "away_ml": "+195",
-      "home_ml_raw": -238,
-      "away_ml_raw": 195,
-      "home_prob": 67.5,
-      "away_prob": 32.5,
-      "spread": "NOP -5.5",
+      "home_ml": "-525",
+      "away_ml": "+360",
+      "home_ml_raw": -525,
+      "away_ml_raw": 360,
+      "home_prob": 79.4,
+      "away_prob": 20.6,
+      "spread": "NOP -8.5",
       "favorite": "New Orleans Pelicans",
       "pick": "New Orleans Pelicans",
       "pick_abbr": "NOP",
-      "moneyline": "-238",
-      "win_probability": 67.5,
-      "confidence": "MEDIUM",
-      "confidence_stars": "\u2605\u2605\u2606",
-      "commence_time": "2026-10-30T00:10:00Z",
+      "moneyline": "-525",
+      "win_probability": 79.4,
+      "confidence": "HIGH",
+      "confidence_stars": "\u2605\u2605\u2605",
+      "commence_time": "2026-10-30T00:11:00Z",
       "line_movement": {
         "home": {
           "direction": "shorter",
-          "points_moved": 8,
+          "points_moved": 287,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM -238 \u2190 -230",
-          "old_ml": "-230",
-          "new_ml": "-238"
+          "label": "\ud83d\udd25 STEAM -525 \u2190 -238",
+          "old_ml": "-238",
+          "new_ml": "-525"
         },
         "away": {
           "direction": "longer",
-          "points_moved": 5,
-          "steam": false,
-          "label": "\ud83d\udd34 +195 \u2190 +190",
-          "old_ml": "+190",
-          "new_ml": "+195"
+          "points_moved": 165,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM +360 \u2190 +195",
+          "old_ml": "+195",
+          "new_ml": "+360"
         },
         "pick": {
           "direction": "shorter",
-          "points_moved": 8,
+          "points_moved": 287,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM -238 \u2190 -230",
-          "old_ml": "-230",
-          "new_ml": "-238"
+          "label": "\ud83d\udd25 STEAM -525 \u2190 -238",
+          "old_ml": "-238",
+          "new_ml": "-525"
         },
-        "snapshot_time": "October 29, 2026 at 11:36 AM UTC"
+        "snapshot_time": "October 29, 2026 at 05:18 PM UTC"
       },
       "fatigue": {
         "home": {
           "status": "B2B",
           "label": "Back-to-Back \u26a0\ufe0f",
           "battery": 20,
-          "last_game": "Oct 28",
+          "last_game": "Oct 29",
           "days_rest": 1,
-          "games_last_4d": 1,
+          "games_last_4d": 2,
           "travel_miles": 0,
           "travel_desc": "",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "Oct 27",
-          "days_rest": 2,
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Oct 29",
+          "days_rest": 1,
           "games_last_4d": 2,
-          "travel_miles": 1459,
-          "travel_desc": "1,459 mi road trip",
+          "travel_miles": 1880,
+          "travel_desc": "1,880 mi road trip",
           "source": "ESPN Scoreboard API"
         }
       },
       "edge_factors": [
-        "\ud83d\udd25 Sharp steam detected"
+        "\ud83d\udd25 Sharp steam detected",
+        "\ud83d\udca4 SAC fatigued (B2B) \u2014 source: ESPN",
+        "\u2708\ufe0f SAC traveled 1,880 mi"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -251,9 +260,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "NOP on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "trend": "NOP on Back-to-Back \u26a0\ufe0f per ESPN schedule data. SAC on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -230 to -238 (8pt move) \u2014 heavy professional action on New Orleans Pelicans.",
+        "steam": "Line steamed from -238 to -525 (287pt move) \u2014 heavy professional action on New Orleans Pelicans.",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -267,16 +276,22 @@
       },
       "news": [
         {
-          "title": "Pakistan gas bowser explodes after truck collision, killing 2 and damaging 6 vehicles",
-          "source": "The Times of India",
-          "link": "https://timesofindia.indiatimes.com/world/pakistan/pakistan-gas-bowser-explodes-after-truck-collision-killing-2-and-damaging-6-vehicles/articleshow/135274421.cms",
-          "published": "2026-10-28T17:17:01Z"
+          "title": "AJ Dybantsa starts pro career with alley-oop dunk in aggressive, impressive NBA debut",
+          "source": "Yahoo Entertainment",
+          "link": "https://sports.yahoo.com/nba/breaking-news/article/aj-dybantsa-starts-pro-career-with-alley-oop-dunk-in-aggressive-impressive-nba-debut-013603697.html",
+          "published": "2026-10-29T01:36:03Z"
         },
         {
-          "title": "BSP sounds 2027 poll bugle in UP, names Anoopshahr candidate",
-          "source": "The Times of India",
-          "link": "https://timesofindia.indiatimes.com/city/meerut/bsp-sounds-2027-poll-bugle-in-up-names-anoopshahr-candidate/articleshow/135274646.cms",
-          "published": "2026-10-28T17:16:45Z"
+          "title": "Shaquille O\u2019Neal reveals shocking details to Ernie Johnson after his sudden retirement from \u2018Inside the NBA\u2019",
+          "source": "New York Post",
+          "link": "https://nypost.com/2026/10/28/sports/shaquille-oneal-ernie-johnson-sudden-retirement-inside-nba/?utm_source=yahoo&amp;utm_campaign=nypost&amp;utm_medium=referral",
+          "published": "2026-10-29T01:34:43Z"
+        },
+        {
+          "title": "Shaquille O\u2019Neal reveals shocking details to Ernie Johnson after his sudden retirement from \u2018Inside the NBA\u2019",
+          "source": "New York Post",
+          "link": "https://nypost.com/2026/10/28/sports/shaquille-oneal-ernie-johnson-sudden-retirement-inside-nba/",
+          "published": "2026-10-29T01:34:43Z"
         }
       ]
     },
@@ -303,57 +318,57 @@
       "commence_time": "2026-10-30T02:10:00Z",
       "line_movement": {
         "home": {
-          "direction": "shorter",
-          "points_moved": 12,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -290 \u2190 -278",
-          "old_ml": "-278",
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "No movement",
+          "old_ml": "-290",
           "new_ml": "-290"
         },
         "away": {
-          "direction": "longer",
-          "points_moved": 10,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM +235 \u2190 +225",
-          "old_ml": "+225",
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "No movement",
+          "old_ml": "+235",
           "new_ml": "+235"
         },
         "pick": {
-          "direction": "shorter",
-          "points_moved": 12,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -290 \u2190 -278",
-          "old_ml": "-278",
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "No movement",
+          "old_ml": "-290",
           "new_ml": "-290"
         },
-        "snapshot_time": "October 29, 2026 at 11:36 AM UTC"
+        "snapshot_time": "October 29, 2026 at 05:18 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
+          "status": "RESTED",
+          "label": "2 days rest \u2705",
+          "battery": 88,
           "last_game": "Oct 27",
-          "days_rest": 2,
+          "days_rest": 3,
           "games_last_4d": 1,
           "travel_miles": 827,
           "travel_desc": "827 mi road trip",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "RESTED",
-          "label": "2 days rest \u2705",
-          "battery": 88,
+          "status": "FRESH",
+          "label": "Well rested \u2705",
+          "battery": 100,
           "last_game": "Oct 26",
-          "days_rest": 3,
-          "games_last_4d": 2,
-          "travel_miles": 1746,
-          "travel_desc": "1,746 mi road trip",
+          "days_rest": 4,
+          "games_last_4d": 1,
+          "travel_miles": 0,
+          "travel_desc": "",
           "source": "ESPN Scoreboard API"
         }
       },
       "edge_factors": [
-        "\ud83d\udd25 Sharp steam detected"
+        "\ud83d\udcca 42.8pt probability edge"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -392,7 +407,7 @@
       "briefing": {
         "trend": "Portland Trail Blazers hold a 71.4% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -278 to -290 (12pt move) \u2014 heavy professional action on Portland Trail Blazers.",
+        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -406,16 +421,22 @@
       },
       "news": [
         {
-          "title": "Pakistan gas bowser explodes after truck collision, killing 2 and damaging 6 vehicles",
-          "source": "The Times of India",
-          "link": "https://timesofindia.indiatimes.com/world/pakistan/pakistan-gas-bowser-explodes-after-truck-collision-killing-2-and-damaging-6-vehicles/articleshow/135274421.cms",
-          "published": "2026-10-28T17:17:01Z"
+          "title": "AJ Dybantsa starts pro career with alley-oop dunk in aggressive, impressive NBA debut",
+          "source": "Yahoo Entertainment",
+          "link": "https://sports.yahoo.com/nba/breaking-news/article/aj-dybantsa-starts-pro-career-with-alley-oop-dunk-in-aggressive-impressive-nba-debut-013603697.html",
+          "published": "2026-10-29T01:36:03Z"
         },
         {
-          "title": "BSP sounds 2027 poll bugle in UP, names Anoopshahr candidate",
-          "source": "The Times of India",
-          "link": "https://timesofindia.indiatimes.com/city/meerut/bsp-sounds-2027-poll-bugle-in-up-names-anoopshahr-candidate/articleshow/135274646.cms",
-          "published": "2026-10-28T17:16:45Z"
+          "title": "Shaquille O\u2019Neal reveals shocking details to Ernie Johnson after his sudden retirement from \u2018Inside the NBA\u2019",
+          "source": "New York Post",
+          "link": "https://nypost.com/2026/10/28/sports/shaquille-oneal-ernie-johnson-sudden-retirement-inside-nba/?utm_source=yahoo&amp;utm_campaign=nypost&amp;utm_medium=referral",
+          "published": "2026-10-29T01:34:43Z"
+        },
+        {
+          "title": "Shaquille O\u2019Neal reveals shocking details to Ernie Johnson after his sudden retirement from \u2018Inside the NBA\u2019",
+          "source": "New York Post",
+          "link": "https://nypost.com/2026/10/28/sports/shaquille-oneal-ernie-johnson-sudden-retirement-inside-nba/",
+          "published": "2026-10-29T01:34:43Z"
         }
       ]
     },
@@ -425,16 +446,16 @@
       "away_team": "Charlotte Hornets",
       "home_abbr": "WAS",
       "away_abbr": "CHA",
-      "home_ml": "-105",
-      "away_ml": "-115",
-      "home_ml_raw": -105,
-      "away_ml_raw": -115,
-      "home_prob": 48.9,
-      "away_prob": 51.1,
-      "spread": "WAS +1.5",
-      "favorite": "Charlotte Hornets",
-      "pick": "Charlotte Hornets",
-      "pick_abbr": "CHA",
+      "home_ml": "-115",
+      "away_ml": "-105",
+      "home_ml_raw": -115,
+      "away_ml_raw": -105,
+      "home_prob": 51.1,
+      "away_prob": 48.9,
+      "spread": "WAS -1.5",
+      "favorite": "Washington Wizards",
+      "pick": "Washington Wizards",
+      "pick_abbr": "WAS",
       "moneyline": "-115",
       "win_probability": 51.1,
       "confidence": "LOW",
@@ -442,49 +463,49 @@
       "commence_time": "2026-10-30T23:10:00Z",
       "line_movement": {
         "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "direction": "shorter",
+          "points_moved": 10,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -115 \u2190 -105",
+          "old_ml": "-105",
+          "new_ml": "-115"
         },
         "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "direction": "longer",
+          "points_moved": 10,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -105 \u2190 -115",
+          "old_ml": "-115",
+          "new_ml": "-105"
         },
         "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "direction": "shorter",
+          "points_moved": 10,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -115 \u2190 -105",
+          "old_ml": "-105",
+          "new_ml": "-115"
         },
-        "snapshot_time": "\u2014"
+        "snapshot_time": "October 29, 2026 at 05:18 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
           "last_game": "Oct 28",
-          "days_rest": 1,
+          "days_rest": 2,
           "games_last_4d": 2,
           "travel_miles": 305,
           "travel_desc": "305 mi road trip",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
           "last_game": "Oct 28",
-          "days_rest": 1,
+          "days_rest": 2,
           "games_last_4d": 2,
           "travel_miles": 506,
           "travel_desc": "506 mi road trip",
@@ -492,7 +513,7 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udca4 WAS fatigued (B2B) \u2014 source: ESPN"
+        "\ud83d\udd25 Sharp steam detected"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -529,9 +550,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "WAS on Back-to-Back \u26a0\ufe0f per ESPN schedule data. CHA on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "trend": "Washington Wizards hold a 51.1% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "steam": "Line steamed from -105 to -115 (10pt move) \u2014 heavy professional action on Washington Wizards.",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -545,16 +566,22 @@
       },
       "news": [
         {
-          "title": "Pakistan gas bowser explodes after truck collision, killing 2 and damaging 6 vehicles",
-          "source": "The Times of India",
-          "link": "https://timesofindia.indiatimes.com/world/pakistan/pakistan-gas-bowser-explodes-after-truck-collision-killing-2-and-damaging-6-vehicles/articleshow/135274421.cms",
-          "published": "2026-10-28T17:17:01Z"
+          "title": "AJ Dybantsa starts pro career with alley-oop dunk in aggressive, impressive NBA debut",
+          "source": "Yahoo Entertainment",
+          "link": "https://sports.yahoo.com/nba/breaking-news/article/aj-dybantsa-starts-pro-career-with-alley-oop-dunk-in-aggressive-impressive-nba-debut-013603697.html",
+          "published": "2026-10-29T01:36:03Z"
         },
         {
-          "title": "BSP sounds 2027 poll bugle in UP, names Anoopshahr candidate",
-          "source": "The Times of India",
-          "link": "https://timesofindia.indiatimes.com/city/meerut/bsp-sounds-2027-poll-bugle-in-up-names-anoopshahr-candidate/articleshow/135274646.cms",
-          "published": "2026-10-28T17:16:45Z"
+          "title": "Shaquille O\u2019Neal reveals shocking details to Ernie Johnson after his sudden retirement from \u2018Inside the NBA\u2019",
+          "source": "New York Post",
+          "link": "https://nypost.com/2026/10/28/sports/shaquille-oneal-ernie-johnson-sudden-retirement-inside-nba/?utm_source=yahoo&amp;utm_campaign=nypost&amp;utm_medium=referral",
+          "published": "2026-10-29T01:34:43Z"
+        },
+        {
+          "title": "Shaquille O\u2019Neal reveals shocking details to Ernie Johnson after his sudden retirement from \u2018Inside the NBA\u2019",
+          "source": "New York Post",
+          "link": "https://nypost.com/2026/10/28/sports/shaquille-oneal-ernie-johnson-sudden-retirement-inside-nba/",
+          "published": "2026-10-29T01:34:43Z"
         }
       ]
     },
@@ -564,66 +591,66 @@
       "away_team": "Chicago Bulls",
       "home_abbr": "BOS",
       "away_abbr": "CHI",
-      "home_ml": "-700",
-      "away_ml": "+500",
-      "home_ml_raw": -700,
-      "away_ml_raw": 500,
-      "home_prob": 84.0,
-      "away_prob": 16.0,
+      "home_ml": "-850",
+      "away_ml": "+575",
+      "home_ml_raw": -850,
+      "away_ml_raw": 575,
+      "home_prob": 85.8,
+      "away_prob": 14.2,
       "spread": "BOS -15.5",
       "favorite": "Boston Celtics",
       "pick": "Boston Celtics",
       "pick_abbr": "BOS",
-      "moneyline": "-700",
-      "win_probability": 84.0,
+      "moneyline": "-850",
+      "win_probability": 85.8,
       "confidence": "HIGH",
       "confidence_stars": "\u2605\u2605\u2605",
       "commence_time": "2026-10-30T23:40:00Z",
       "line_movement": {
         "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "direction": "shorter",
+          "points_moved": 150,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -850 \u2190 -700",
+          "old_ml": "-700",
+          "new_ml": "-850"
         },
         "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "direction": "longer",
+          "points_moved": 75,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM +575 \u2190 +500",
+          "old_ml": "+500",
+          "new_ml": "+575"
         },
         "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "direction": "shorter",
+          "points_moved": 150,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -850 \u2190 -700",
+          "old_ml": "-700",
+          "new_ml": "-850"
         },
-        "snapshot_time": "\u2014"
+        "snapshot_time": "October 29, 2026 at 05:18 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
+          "status": "RESTED",
+          "label": "2 days rest \u2705",
+          "battery": 88,
           "last_game": "Oct 27",
-          "days_rest": 2,
+          "days_rest": 3,
           "games_last_4d": 2,
           "travel_miles": 0,
           "travel_desc": "",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
           "last_game": "Oct 28",
-          "days_rest": 1,
+          "days_rest": 2,
           "games_last_4d": 2,
           "travel_miles": 851,
           "travel_desc": "851 mi road trip",
@@ -631,7 +658,7 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udca4 CHI fatigued (B2B) \u2014 source: ESPN"
+        "\ud83d\udd25 Sharp steam detected"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -668,9 +695,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "CHI on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "trend": "Boston Celtics hold a 85.8% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "steam": "Line steamed from -700 to -850 (150pt move) \u2014 heavy professional action on Boston Celtics.",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -684,16 +711,22 @@
       },
       "news": [
         {
-          "title": "Pakistan gas bowser explodes after truck collision, killing 2 and damaging 6 vehicles",
-          "source": "The Times of India",
-          "link": "https://timesofindia.indiatimes.com/world/pakistan/pakistan-gas-bowser-explodes-after-truck-collision-killing-2-and-damaging-6-vehicles/articleshow/135274421.cms",
-          "published": "2026-10-28T17:17:01Z"
+          "title": "AJ Dybantsa starts pro career with alley-oop dunk in aggressive, impressive NBA debut",
+          "source": "Yahoo Entertainment",
+          "link": "https://sports.yahoo.com/nba/breaking-news/article/aj-dybantsa-starts-pro-career-with-alley-oop-dunk-in-aggressive-impressive-nba-debut-013603697.html",
+          "published": "2026-10-29T01:36:03Z"
         },
         {
-          "title": "BSP sounds 2027 poll bugle in UP, names Anoopshahr candidate",
-          "source": "The Times of India",
-          "link": "https://timesofindia.indiatimes.com/city/meerut/bsp-sounds-2027-poll-bugle-in-up-names-anoopshahr-candidate/articleshow/135274646.cms",
-          "published": "2026-10-28T17:16:45Z"
+          "title": "Shaquille O\u2019Neal reveals shocking details to Ernie Johnson after his sudden retirement from \u2018Inside the NBA\u2019",
+          "source": "New York Post",
+          "link": "https://nypost.com/2026/10/28/sports/shaquille-oneal-ernie-johnson-sudden-retirement-inside-nba/?utm_source=yahoo&amp;utm_campaign=nypost&amp;utm_medium=referral",
+          "published": "2026-10-29T01:34:43Z"
+        },
+        {
+          "title": "Shaquille O\u2019Neal reveals shocking details to Ernie Johnson after his sudden retirement from \u2018Inside the NBA\u2019",
+          "source": "New York Post",
+          "link": "https://nypost.com/2026/10/28/sports/shaquille-oneal-ernie-johnson-sudden-retirement-inside-nba/",
+          "published": "2026-10-29T01:34:43Z"
         }
       ]
     },
@@ -703,74 +736,74 @@
       "away_team": "Detroit Pistons",
       "home_abbr": "BKN",
       "away_abbr": "DET",
-      "home_ml": "+280",
-      "away_ml": "-355",
-      "home_ml_raw": 280,
-      "away_ml_raw": -355,
-      "home_prob": 25.2,
-      "away_prob": 74.8,
-      "spread": "BKN +8.5",
+      "home_ml": "+210",
+      "away_ml": "-258",
+      "home_ml_raw": 210,
+      "away_ml_raw": -258,
+      "home_prob": 30.9,
+      "away_prob": 69.1,
+      "spread": "BKN +7.5",
       "favorite": "Detroit Pistons",
       "pick": "Detroit Pistons",
       "pick_abbr": "DET",
-      "moneyline": "-355",
-      "win_probability": 74.8,
-      "confidence": "HIGH",
-      "confidence_stars": "\u2605\u2605\u2605",
+      "moneyline": "-258",
+      "win_probability": 69.1,
+      "confidence": "MEDIUM",
+      "confidence_stars": "\u2605\u2605\u2606",
       "commence_time": "2026-10-30T23:40:00Z",
       "line_movement": {
         "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "direction": "shorter",
+          "points_moved": 70,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM +210 \u2190 +280",
+          "old_ml": "+280",
+          "new_ml": "+210"
         },
         "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "direction": "longer",
+          "points_moved": 97,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -258 \u2190 -355",
+          "old_ml": "-355",
+          "new_ml": "-258"
         },
         "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "direction": "longer",
+          "points_moved": 97,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -258 \u2190 -355",
+          "old_ml": "-355",
+          "new_ml": "-258"
         },
-        "snapshot_time": "\u2014"
+        "snapshot_time": "October 29, 2026 at 05:18 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
+          "status": "RESTED",
+          "label": "2 days rest \u2705",
+          "battery": 88,
           "last_game": "Oct 27",
-          "days_rest": 2,
-          "games_last_4d": 2,
+          "days_rest": 3,
+          "games_last_4d": 1,
           "travel_miles": 190,
           "travel_desc": "190 mi road trip",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
           "last_game": "Oct 28",
-          "days_rest": 1,
-          "games_last_4d": 3,
+          "days_rest": 2,
+          "games_last_4d": 2,
           "travel_miles": 481,
           "travel_desc": "481 mi road trip",
           "source": "ESPN Scoreboard API"
         }
       },
       "edge_factors": [
-        "\ud83d\udcca 49.6pt probability edge"
+        "\ud83d\udd25 Sharp steam detected"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -807,9 +840,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "DET on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "trend": "Detroit Pistons hold a 69.1% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "steam": "Line steamed from -355 to -258 (97pt move) \u2014 heavy professional action on Detroit Pistons.",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -823,16 +856,22 @@
       },
       "news": [
         {
-          "title": "Pakistan gas bowser explodes after truck collision, killing 2 and damaging 6 vehicles",
-          "source": "The Times of India",
-          "link": "https://timesofindia.indiatimes.com/world/pakistan/pakistan-gas-bowser-explodes-after-truck-collision-killing-2-and-damaging-6-vehicles/articleshow/135274421.cms",
-          "published": "2026-10-28T17:17:01Z"
+          "title": "AJ Dybantsa starts pro career with alley-oop dunk in aggressive, impressive NBA debut",
+          "source": "Yahoo Entertainment",
+          "link": "https://sports.yahoo.com/nba/breaking-news/article/aj-dybantsa-starts-pro-career-with-alley-oop-dunk-in-aggressive-impressive-nba-debut-013603697.html",
+          "published": "2026-10-29T01:36:03Z"
         },
         {
-          "title": "BSP sounds 2027 poll bugle in UP, names Anoopshahr candidate",
-          "source": "The Times of India",
-          "link": "https://timesofindia.indiatimes.com/city/meerut/bsp-sounds-2027-poll-bugle-in-up-names-anoopshahr-candidate/articleshow/135274646.cms",
-          "published": "2026-10-28T17:16:45Z"
+          "title": "Shaquille O\u2019Neal reveals shocking details to Ernie Johnson after his sudden retirement from \u2018Inside the NBA\u2019",
+          "source": "New York Post",
+          "link": "https://nypost.com/2026/10/28/sports/shaquille-oneal-ernie-johnson-sudden-retirement-inside-nba/?utm_source=yahoo&amp;utm_campaign=nypost&amp;utm_medium=referral",
+          "published": "2026-10-29T01:34:43Z"
+        },
+        {
+          "title": "Shaquille O\u2019Neal reveals shocking details to Ernie Johnson after his sudden retirement from \u2018Inside the NBA\u2019",
+          "source": "New York Post",
+          "link": "https://nypost.com/2026/10/28/sports/shaquille-oneal-ernie-johnson-sudden-retirement-inside-nba/",
+          "published": "2026-10-29T01:34:43Z"
         }
       ]
     },
@@ -842,74 +881,74 @@
       "away_team": "New York Knicks",
       "home_abbr": "PHI",
       "away_abbr": "NYK",
-      "home_ml": "-105",
-      "away_ml": "-115",
-      "home_ml_raw": -105,
-      "away_ml_raw": -115,
-      "home_prob": 48.9,
-      "away_prob": 51.1,
+      "home_ml": "+102",
+      "away_ml": "-122",
+      "home_ml_raw": 102,
+      "away_ml_raw": -122,
+      "home_prob": 47.4,
+      "away_prob": 52.6,
       "spread": "PHI +1.5",
       "favorite": "New York Knicks",
       "pick": "New York Knicks",
       "pick_abbr": "NYK",
-      "moneyline": "-115",
-      "win_probability": 51.1,
+      "moneyline": "-122",
+      "win_probability": 52.6,
       "confidence": "LOW",
       "confidence_stars": "\u2605\u2606\u2606",
       "commence_time": "2026-10-30T23:40:00Z",
       "line_movement": {
         "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "direction": "longer",
+          "points_moved": 207,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM +102 \u2190 -105",
+          "old_ml": "-105",
+          "new_ml": "+102"
         },
         "away": {
-          "direction": "none",
-          "points_moved": 0,
+          "direction": "shorter",
+          "points_moved": 7,
           "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "label": "\ud83d\udfe2 -122 \u2190 -115",
+          "old_ml": "-115",
+          "new_ml": "-122"
         },
         "pick": {
-          "direction": "none",
-          "points_moved": 0,
+          "direction": "shorter",
+          "points_moved": 7,
           "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "label": "\ud83d\udfe2 -122 \u2190 -115",
+          "old_ml": "-115",
+          "new_ml": "-122"
         },
-        "snapshot_time": "\u2014"
+        "snapshot_time": "October 29, 2026 at 05:18 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
           "last_game": "Oct 28",
-          "days_rest": 1,
-          "games_last_4d": 2,
+          "days_rest": 2,
+          "games_last_4d": 1,
           "travel_miles": 583,
           "travel_desc": "583 mi road trip",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
           "last_game": "Oct 28",
-          "days_rest": 1,
-          "games_last_4d": 3,
+          "days_rest": 2,
+          "games_last_4d": 2,
           "travel_miles": 713,
           "travel_desc": "713 mi road trip",
           "source": "ESPN Scoreboard API"
         }
       },
       "edge_factors": [
-        "\ud83d\udca4 PHI fatigued (B2B) \u2014 source: ESPN"
+        "\ud83d\udd25 Sharp steam detected"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -946,9 +985,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "PHI on Back-to-Back \u26a0\ufe0f per ESPN schedule data. NYK on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "trend": "New York Knicks hold a 52.6% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "steam": "Line moved -115\u2192-122 (7pts). Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -962,16 +1001,22 @@
       },
       "news": [
         {
-          "title": "Pakistan gas bowser explodes after truck collision, killing 2 and damaging 6 vehicles",
-          "source": "The Times of India",
-          "link": "https://timesofindia.indiatimes.com/world/pakistan/pakistan-gas-bowser-explodes-after-truck-collision-killing-2-and-damaging-6-vehicles/articleshow/135274421.cms",
-          "published": "2026-10-28T17:17:01Z"
+          "title": "AJ Dybantsa starts pro career with alley-oop dunk in aggressive, impressive NBA debut",
+          "source": "Yahoo Entertainment",
+          "link": "https://sports.yahoo.com/nba/breaking-news/article/aj-dybantsa-starts-pro-career-with-alley-oop-dunk-in-aggressive-impressive-nba-debut-013603697.html",
+          "published": "2026-10-29T01:36:03Z"
         },
         {
-          "title": "BSP sounds 2027 poll bugle in UP, names Anoopshahr candidate",
-          "source": "The Times of India",
-          "link": "https://timesofindia.indiatimes.com/city/meerut/bsp-sounds-2027-poll-bugle-in-up-names-anoopshahr-candidate/articleshow/135274646.cms",
-          "published": "2026-10-28T17:16:45Z"
+          "title": "Shaquille O\u2019Neal reveals shocking details to Ernie Johnson after his sudden retirement from \u2018Inside the NBA\u2019",
+          "source": "New York Post",
+          "link": "https://nypost.com/2026/10/28/sports/shaquille-oneal-ernie-johnson-sudden-retirement-inside-nba/?utm_source=yahoo&amp;utm_campaign=nypost&amp;utm_medium=referral",
+          "published": "2026-10-29T01:34:43Z"
+        },
+        {
+          "title": "Shaquille O\u2019Neal reveals shocking details to Ernie Johnson after his sudden retirement from \u2018Inside the NBA\u2019",
+          "source": "New York Post",
+          "link": "https://nypost.com/2026/10/28/sports/shaquille-oneal-ernie-johnson-sudden-retirement-inside-nba/",
+          "published": "2026-10-29T01:34:43Z"
         }
       ]
     },
@@ -1001,54 +1046,54 @@
           "direction": "none",
           "points_moved": 0,
           "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "label": "No movement",
+          "old_ml": "-192",
+          "new_ml": "-192"
         },
         "away": {
           "direction": "none",
           "points_moved": 0,
           "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "label": "No movement",
+          "old_ml": "+160",
+          "new_ml": "+160"
         },
         "pick": {
           "direction": "none",
           "points_moved": 0,
           "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "label": "No movement",
+          "old_ml": "-192",
+          "new_ml": "-192"
         },
-        "snapshot_time": "\u2014"
+        "snapshot_time": "October 29, 2026 at 05:18 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
           "last_game": "Oct 28",
-          "days_rest": 1,
-          "games_last_4d": 2,
-          "travel_miles": 692,
-          "travel_desc": "692 mi road trip",
+          "days_rest": 2,
+          "games_last_4d": 1,
+          "travel_miles": 0,
+          "travel_desc": "",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
           "last_game": "Oct 28",
-          "days_rest": 1,
-          "games_last_4d": 2,
+          "days_rest": 2,
+          "games_last_4d": 1,
           "travel_miles": 1049,
           "travel_desc": "1,049 mi road trip",
           "source": "ESPN Scoreboard API"
         }
       },
       "edge_factors": [
-        "\ud83d\udca4 ORL fatigued (B2B) \u2014 source: ESPN"
+        "\ud83d\udcca 26.2pt probability edge"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -1085,7 +1130,7 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "TOR on Back-to-Back \u26a0\ufe0f per ESPN schedule data. ORL on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "trend": "Toronto Raptors hold a 63.1% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
         "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
@@ -1101,16 +1146,22 @@
       },
       "news": [
         {
-          "title": "Pakistan gas bowser explodes after truck collision, killing 2 and damaging 6 vehicles",
-          "source": "The Times of India",
-          "link": "https://timesofindia.indiatimes.com/world/pakistan/pakistan-gas-bowser-explodes-after-truck-collision-killing-2-and-damaging-6-vehicles/articleshow/135274421.cms",
-          "published": "2026-10-28T17:17:01Z"
+          "title": "AJ Dybantsa starts pro career with alley-oop dunk in aggressive, impressive NBA debut",
+          "source": "Yahoo Entertainment",
+          "link": "https://sports.yahoo.com/nba/breaking-news/article/aj-dybantsa-starts-pro-career-with-alley-oop-dunk-in-aggressive-impressive-nba-debut-013603697.html",
+          "published": "2026-10-29T01:36:03Z"
         },
         {
-          "title": "BSP sounds 2027 poll bugle in UP, names Anoopshahr candidate",
-          "source": "The Times of India",
-          "link": "https://timesofindia.indiatimes.com/city/meerut/bsp-sounds-2027-poll-bugle-in-up-names-anoopshahr-candidate/articleshow/135274646.cms",
-          "published": "2026-10-28T17:16:45Z"
+          "title": "Shaquille O\u2019Neal reveals shocking details to Ernie Johnson after his sudden retirement from \u2018Inside the NBA\u2019",
+          "source": "New York Post",
+          "link": "https://nypost.com/2026/10/28/sports/shaquille-oneal-ernie-johnson-sudden-retirement-inside-nba/?utm_source=yahoo&amp;utm_campaign=nypost&amp;utm_medium=referral",
+          "published": "2026-10-29T01:34:43Z"
+        },
+        {
+          "title": "Shaquille O\u2019Neal reveals shocking details to Ernie Johnson after his sudden retirement from \u2018Inside the NBA\u2019",
+          "source": "New York Post",
+          "link": "https://nypost.com/2026/10/28/sports/shaquille-oneal-ernie-johnson-sudden-retirement-inside-nba/",
+          "published": "2026-10-29T01:34:43Z"
         }
       ]
     },
@@ -1120,66 +1171,66 @@
       "away_team": "Houston Rockets",
       "home_abbr": "DAL",
       "away_abbr": "HOU",
-      "home_ml": "+160",
-      "away_ml": "-192",
-      "home_ml_raw": 160,
-      "away_ml_raw": -192,
-      "home_prob": 36.9,
-      "away_prob": 63.1,
+      "home_ml": "+170",
+      "away_ml": "-205",
+      "home_ml_raw": 170,
+      "away_ml_raw": -205,
+      "home_prob": 35.5,
+      "away_prob": 64.5,
       "spread": "DAL +5.5",
       "favorite": "Houston Rockets",
       "pick": "Houston Rockets",
       "pick_abbr": "HOU",
-      "moneyline": "-192",
-      "win_probability": 63.1,
+      "moneyline": "-205",
+      "win_probability": 64.5,
       "confidence": "MEDIUM",
       "confidence_stars": "\u2605\u2605\u2606",
       "commence_time": "2026-10-31T00:10:00Z",
       "line_movement": {
         "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "direction": "longer",
+          "points_moved": 10,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM +170 \u2190 +160",
+          "old_ml": "+160",
+          "new_ml": "+170"
         },
         "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "direction": "shorter",
+          "points_moved": 13,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -205 \u2190 -192",
+          "old_ml": "-192",
+          "new_ml": "-205"
         },
         "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "direction": "shorter",
+          "points_moved": 13,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -205 \u2190 -192",
+          "old_ml": "-192",
+          "new_ml": "-205"
         },
-        "snapshot_time": "\u2014"
+        "snapshot_time": "October 29, 2026 at 05:18 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
           "last_game": "Oct 28",
-          "days_rest": 1,
+          "days_rest": 2,
           "games_last_4d": 2,
           "travel_miles": 1111,
           "travel_desc": "1,111 mi road trip",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
           "last_game": "Oct 28",
-          "days_rest": 1,
+          "days_rest": 2,
           "games_last_4d": 2,
           "travel_miles": 1006,
           "travel_desc": "1,006 mi road trip",
@@ -1187,7 +1238,7 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udca4 DAL fatigued (B2B) \u2014 source: ESPN"
+        "\ud83d\udd25 Sharp steam detected"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -1224,9 +1275,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "DAL on Back-to-Back \u26a0\ufe0f per ESPN schedule data. HOU on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "trend": "Houston Rockets hold a 64.5% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "steam": "Line steamed from -192 to -205 (13pt move) \u2014 heavy professional action on Houston Rockets.",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -1240,16 +1291,22 @@
       },
       "news": [
         {
-          "title": "Pakistan gas bowser explodes after truck collision, killing 2 and damaging 6 vehicles",
-          "source": "The Times of India",
-          "link": "https://timesofindia.indiatimes.com/world/pakistan/pakistan-gas-bowser-explodes-after-truck-collision-killing-2-and-damaging-6-vehicles/articleshow/135274421.cms",
-          "published": "2026-10-28T17:17:01Z"
+          "title": "AJ Dybantsa starts pro career with alley-oop dunk in aggressive, impressive NBA debut",
+          "source": "Yahoo Entertainment",
+          "link": "https://sports.yahoo.com/nba/breaking-news/article/aj-dybantsa-starts-pro-career-with-alley-oop-dunk-in-aggressive-impressive-nba-debut-013603697.html",
+          "published": "2026-10-29T01:36:03Z"
         },
         {
-          "title": "BSP sounds 2027 poll bugle in UP, names Anoopshahr candidate",
-          "source": "The Times of India",
-          "link": "https://timesofindia.indiatimes.com/city/meerut/bsp-sounds-2027-poll-bugle-in-up-names-anoopshahr-candidate/articleshow/135274646.cms",
-          "published": "2026-10-28T17:16:45Z"
+          "title": "Shaquille O\u2019Neal reveals shocking details to Ernie Johnson after his sudden retirement from \u2018Inside the NBA\u2019",
+          "source": "New York Post",
+          "link": "https://nypost.com/2026/10/28/sports/shaquille-oneal-ernie-johnson-sudden-retirement-inside-nba/?utm_source=yahoo&amp;utm_campaign=nypost&amp;utm_medium=referral",
+          "published": "2026-10-29T01:34:43Z"
+        },
+        {
+          "title": "Shaquille O\u2019Neal reveals shocking details to Ernie Johnson after his sudden retirement from \u2018Inside the NBA\u2019",
+          "source": "New York Post",
+          "link": "https://nypost.com/2026/10/28/sports/shaquille-oneal-ernie-johnson-sudden-retirement-inside-nba/",
+          "published": "2026-10-29T01:34:43Z"
         }
       ]
     },
@@ -1259,74 +1316,74 @@
       "away_team": "Indiana Pacers",
       "home_abbr": "MIA",
       "away_abbr": "IND",
-      "home_ml": "-180",
-      "away_ml": "+150",
-      "home_ml_raw": -180,
-      "away_ml_raw": 150,
-      "home_prob": 61.6,
-      "away_prob": 38.4,
-      "spread": "MIA -3.5",
+      "home_ml": "-250",
+      "away_ml": "+205",
+      "home_ml_raw": -250,
+      "away_ml_raw": 205,
+      "home_prob": 68.5,
+      "away_prob": 31.5,
+      "spread": "MIA -7.5",
       "favorite": "Miami Heat",
       "pick": "Miami Heat",
       "pick_abbr": "MIA",
-      "moneyline": "-180",
-      "win_probability": 61.6,
+      "moneyline": "-250",
+      "win_probability": 68.5,
       "confidence": "MEDIUM",
       "confidence_stars": "\u2605\u2605\u2606",
       "commence_time": "2026-10-31T00:10:00Z",
       "line_movement": {
         "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "direction": "shorter",
+          "points_moved": 70,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -250 \u2190 -180",
+          "old_ml": "-180",
+          "new_ml": "-250"
         },
         "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "direction": "longer",
+          "points_moved": 55,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM +205 \u2190 +150",
+          "old_ml": "+150",
+          "new_ml": "+205"
         },
         "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "direction": "shorter",
+          "points_moved": 70,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -250 \u2190 -180",
+          "old_ml": "-180",
+          "new_ml": "-250"
         },
-        "snapshot_time": "\u2014"
+        "snapshot_time": "October 29, 2026 at 05:18 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
           "last_game": "Oct 28",
-          "days_rest": 1,
+          "days_rest": 2,
           "games_last_4d": 2,
           "travel_miles": 606,
           "travel_desc": "606 mi road trip",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
           "last_game": "Oct 28",
-          "days_rest": 1,
-          "games_last_4d": 3,
+          "days_rest": 2,
+          "games_last_4d": 2,
           "travel_miles": 244,
           "travel_desc": "244 mi road trip",
           "source": "ESPN Scoreboard API"
         }
       },
       "edge_factors": [
-        "\ud83d\udca4 IND fatigued (B2B) \u2014 source: ESPN"
+        "\ud83d\udd25 Sharp steam detected"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -1363,9 +1420,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "MIA on Back-to-Back \u26a0\ufe0f per ESPN schedule data. IND on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "trend": "Miami Heat hold a 68.5% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "steam": "Line steamed from -180 to -250 (70pt move) \u2014 heavy professional action on Miami Heat.",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -1379,16 +1436,22 @@
       },
       "news": [
         {
-          "title": "Pakistan gas bowser explodes after truck collision, killing 2 and damaging 6 vehicles",
-          "source": "The Times of India",
-          "link": "https://timesofindia.indiatimes.com/world/pakistan/pakistan-gas-bowser-explodes-after-truck-collision-killing-2-and-damaging-6-vehicles/articleshow/135274421.cms",
-          "published": "2026-10-28T17:17:01Z"
+          "title": "AJ Dybantsa starts pro career with alley-oop dunk in aggressive, impressive NBA debut",
+          "source": "Yahoo Entertainment",
+          "link": "https://sports.yahoo.com/nba/breaking-news/article/aj-dybantsa-starts-pro-career-with-alley-oop-dunk-in-aggressive-impressive-nba-debut-013603697.html",
+          "published": "2026-10-29T01:36:03Z"
         },
         {
-          "title": "BSP sounds 2027 poll bugle in UP, names Anoopshahr candidate",
-          "source": "The Times of India",
-          "link": "https://timesofindia.indiatimes.com/city/meerut/bsp-sounds-2027-poll-bugle-in-up-names-anoopshahr-candidate/articleshow/135274646.cms",
-          "published": "2026-10-28T17:16:45Z"
+          "title": "Shaquille O\u2019Neal reveals shocking details to Ernie Johnson after his sudden retirement from \u2018Inside the NBA\u2019",
+          "source": "New York Post",
+          "link": "https://nypost.com/2026/10/28/sports/shaquille-oneal-ernie-johnson-sudden-retirement-inside-nba/?utm_source=yahoo&amp;utm_campaign=nypost&amp;utm_medium=referral",
+          "published": "2026-10-29T01:34:43Z"
+        },
+        {
+          "title": "Shaquille O\u2019Neal reveals shocking details to Ernie Johnson after his sudden retirement from \u2018Inside the NBA\u2019",
+          "source": "New York Post",
+          "link": "https://nypost.com/2026/10/28/sports/shaquille-oneal-ernie-johnson-sudden-retirement-inside-nba/",
+          "published": "2026-10-29T01:34:43Z"
         }
       ]
     },
@@ -1398,74 +1461,74 @@
       "away_team": "Los Angeles Clippers",
       "home_abbr": "MIN",
       "away_abbr": "LAC",
-      "home_ml": "-230",
-      "away_ml": "+190",
-      "home_ml_raw": -230,
-      "away_ml_raw": 190,
-      "home_prob": 66.9,
-      "away_prob": 33.1,
+      "home_ml": "-250",
+      "away_ml": "+205",
+      "home_ml_raw": -250,
+      "away_ml_raw": 205,
+      "home_prob": 68.5,
+      "away_prob": 31.5,
       "spread": "MIN -7.5",
       "favorite": "Minnesota Timberwolves",
       "pick": "Minnesota Timberwolves",
       "pick_abbr": "MIN",
-      "moneyline": "-230",
-      "win_probability": 66.9,
+      "moneyline": "-250",
+      "win_probability": 68.5,
       "confidence": "MEDIUM",
       "confidence_stars": "\u2605\u2605\u2606",
       "commence_time": "2026-10-31T00:10:00Z",
       "line_movement": {
         "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "direction": "shorter",
+          "points_moved": 20,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -250 \u2190 -230",
+          "old_ml": "-230",
+          "new_ml": "-250"
         },
         "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "direction": "longer",
+          "points_moved": 15,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM +205 \u2190 +190",
+          "old_ml": "+190",
+          "new_ml": "+205"
         },
         "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "direction": "shorter",
+          "points_moved": 20,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -250 \u2190 -230",
+          "old_ml": "-230",
+          "new_ml": "-250"
         },
-        "snapshot_time": "\u2014"
+        "snapshot_time": "October 29, 2026 at 05:18 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
           "last_game": "Oct 28",
-          "days_rest": 1,
-          "games_last_4d": 3,
+          "days_rest": 2,
+          "games_last_4d": 2,
           "travel_miles": 630,
           "travel_desc": "630 mi road trip",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
           "last_game": "Oct 28",
-          "days_rest": 1,
-          "games_last_4d": 2,
-          "travel_miles": 1180,
-          "travel_desc": "1,180 mi road trip",
+          "days_rest": 2,
+          "games_last_4d": 1,
+          "travel_miles": 0,
+          "travel_desc": "",
           "source": "ESPN Scoreboard API"
         }
       },
       "edge_factors": [
-        "\ud83d\udca4 LAC fatigued (B2B) \u2014 source: ESPN"
+        "\ud83d\udd25 Sharp steam detected"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -1502,9 +1565,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "MIN on Back-to-Back \u26a0\ufe0f per ESPN schedule data. LAC on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "trend": "Minnesota Timberwolves hold a 68.5% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "steam": "Line steamed from -230 to -250 (20pt move) \u2014 heavy professional action on Minnesota Timberwolves.",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -1518,16 +1581,22 @@
       },
       "news": [
         {
-          "title": "Pakistan gas bowser explodes after truck collision, killing 2 and damaging 6 vehicles",
-          "source": "The Times of India",
-          "link": "https://timesofindia.indiatimes.com/world/pakistan/pakistan-gas-bowser-explodes-after-truck-collision-killing-2-and-damaging-6-vehicles/articleshow/135274421.cms",
-          "published": "2026-10-28T17:17:01Z"
+          "title": "AJ Dybantsa starts pro career with alley-oop dunk in aggressive, impressive NBA debut",
+          "source": "Yahoo Entertainment",
+          "link": "https://sports.yahoo.com/nba/breaking-news/article/aj-dybantsa-starts-pro-career-with-alley-oop-dunk-in-aggressive-impressive-nba-debut-013603697.html",
+          "published": "2026-10-29T01:36:03Z"
         },
         {
-          "title": "BSP sounds 2027 poll bugle in UP, names Anoopshahr candidate",
-          "source": "The Times of India",
-          "link": "https://timesofindia.indiatimes.com/city/meerut/bsp-sounds-2027-poll-bugle-in-up-names-anoopshahr-candidate/articleshow/135274646.cms",
-          "published": "2026-10-28T17:16:45Z"
+          "title": "Shaquille O\u2019Neal reveals shocking details to Ernie Johnson after his sudden retirement from \u2018Inside the NBA\u2019",
+          "source": "New York Post",
+          "link": "https://nypost.com/2026/10/28/sports/shaquille-oneal-ernie-johnson-sudden-retirement-inside-nba/?utm_source=yahoo&amp;utm_campaign=nypost&amp;utm_medium=referral",
+          "published": "2026-10-29T01:34:43Z"
+        },
+        {
+          "title": "Shaquille O\u2019Neal reveals shocking details to Ernie Johnson after his sudden retirement from \u2018Inside the NBA\u2019",
+          "source": "New York Post",
+          "link": "https://nypost.com/2026/10/28/sports/shaquille-oneal-ernie-johnson-sudden-retirement-inside-nba/",
+          "published": "2026-10-29T01:34:43Z"
         }
       ]
     },
@@ -1557,46 +1626,46 @@
           "direction": "none",
           "points_moved": 0,
           "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "label": "No movement",
+          "old_ml": "+142",
+          "new_ml": "+142"
         },
         "away": {
           "direction": "none",
           "points_moved": 0,
           "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "label": "No movement",
+          "old_ml": "-170",
+          "new_ml": "-170"
         },
         "pick": {
           "direction": "none",
           "points_moved": 0,
           "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "label": "No movement",
+          "old_ml": "-170",
+          "new_ml": "-170"
         },
-        "snapshot_time": "\u2014"
+        "snapshot_time": "October 29, 2026 at 05:18 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "RESTED",
-          "label": "2 days rest \u2705",
-          "battery": 88,
+          "status": "FRESH",
+          "label": "Well rested \u2705",
+          "battery": 100,
           "last_game": "Oct 26",
-          "days_rest": 3,
+          "days_rest": 4,
           "games_last_4d": 1,
           "travel_miles": 840,
           "travel_desc": "840 mi road trip",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
           "last_game": "Oct 28",
-          "days_rest": 1,
+          "days_rest": 2,
           "games_last_4d": 2,
           "travel_miles": 1081,
           "travel_desc": "1,081 mi road trip",
@@ -1641,7 +1710,7 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "DEN on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "trend": "Denver Nuggets hold a 60.4% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
         "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
@@ -1657,16 +1726,22 @@
       },
       "news": [
         {
-          "title": "Pakistan gas bowser explodes after truck collision, killing 2 and damaging 6 vehicles",
-          "source": "The Times of India",
-          "link": "https://timesofindia.indiatimes.com/world/pakistan/pakistan-gas-bowser-explodes-after-truck-collision-killing-2-and-damaging-6-vehicles/articleshow/135274421.cms",
-          "published": "2026-10-28T17:17:01Z"
+          "title": "AJ Dybantsa starts pro career with alley-oop dunk in aggressive, impressive NBA debut",
+          "source": "Yahoo Entertainment",
+          "link": "https://sports.yahoo.com/nba/breaking-news/article/aj-dybantsa-starts-pro-career-with-alley-oop-dunk-in-aggressive-impressive-nba-debut-013603697.html",
+          "published": "2026-10-29T01:36:03Z"
         },
         {
-          "title": "BSP sounds 2027 poll bugle in UP, names Anoopshahr candidate",
-          "source": "The Times of India",
-          "link": "https://timesofindia.indiatimes.com/city/meerut/bsp-sounds-2027-poll-bugle-in-up-names-anoopshahr-candidate/articleshow/135274646.cms",
-          "published": "2026-10-28T17:16:45Z"
+          "title": "Shaquille O\u2019Neal reveals shocking details to Ernie Johnson after his sudden retirement from \u2018Inside the NBA\u2019",
+          "source": "New York Post",
+          "link": "https://nypost.com/2026/10/28/sports/shaquille-oneal-ernie-johnson-sudden-retirement-inside-nba/?utm_source=yahoo&amp;utm_campaign=nypost&amp;utm_medium=referral",
+          "published": "2026-10-29T01:34:43Z"
+        },
+        {
+          "title": "Shaquille O\u2019Neal reveals shocking details to Ernie Johnson after his sudden retirement from \u2018Inside the NBA\u2019",
+          "source": "New York Post",
+          "link": "https://nypost.com/2026/10/28/sports/shaquille-oneal-ernie-johnson-sudden-retirement-inside-nba/",
+          "published": "2026-10-29T01:34:43Z"
         }
       ]
     },
@@ -1676,74 +1751,74 @@
       "away_team": "Los Angeles Lakers",
       "home_abbr": "GSW",
       "away_abbr": "LAL",
-      "home_ml": "+105",
-      "away_ml": "-125",
-      "home_ml_raw": 105,
-      "away_ml_raw": -125,
-      "home_prob": 46.8,
-      "away_prob": 53.2,
+      "home_ml": "+110",
+      "away_ml": "-130",
+      "home_ml_raw": 110,
+      "away_ml_raw": -130,
+      "home_prob": 45.7,
+      "away_prob": 54.3,
       "spread": "GSW +1.5",
       "favorite": "Los Angeles Lakers",
       "pick": "Los Angeles Lakers",
       "pick_abbr": "LAL",
-      "moneyline": "-125",
-      "win_probability": 53.2,
+      "moneyline": "-130",
+      "win_probability": 54.3,
       "confidence": "LOW",
       "confidence_stars": "\u2605\u2606\u2606",
       "commence_time": "2026-10-31T02:10:00Z",
       "line_movement": {
         "home": {
-          "direction": "none",
-          "points_moved": 0,
+          "direction": "longer",
+          "points_moved": 5,
           "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "label": "\ud83d\udd34 +110 \u2190 +105",
+          "old_ml": "+105",
+          "new_ml": "+110"
         },
         "away": {
-          "direction": "none",
-          "points_moved": 0,
+          "direction": "shorter",
+          "points_moved": 5,
           "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "label": "\ud83d\udfe2 -130 \u2190 -125",
+          "old_ml": "-125",
+          "new_ml": "-130"
         },
         "pick": {
-          "direction": "none",
-          "points_moved": 0,
+          "direction": "shorter",
+          "points_moved": 5,
           "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "label": "\ud83d\udfe2 -130 \u2190 -125",
+          "old_ml": "-125",
+          "new_ml": "-130"
         },
-        "snapshot_time": "\u2014"
+        "snapshot_time": "October 29, 2026 at 05:18 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
           "last_game": "Oct 28",
-          "days_rest": 1,
+          "days_rest": 2,
           "games_last_4d": 2,
           "travel_miles": 1580,
           "travel_desc": "1,580 mi road trip",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
           "last_game": "Oct 28",
-          "days_rest": 1,
-          "games_last_4d": 3,
+          "days_rest": 2,
+          "games_last_4d": 2,
           "travel_miles": 0,
           "travel_desc": "",
           "source": "ESPN Scoreboard API"
         }
       },
       "edge_factors": [
-        "\ud83d\udca4 GSW fatigued (B2B) \u2014 source: ESPN"
+        "\ud83d\udcca 8.6pt probability edge"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -1780,9 +1855,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "GSW on Back-to-Back \u26a0\ufe0f per ESPN schedule data. LAL on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "trend": "Los Angeles Lakers hold a 54.3% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "steam": "Line moved -125\u2192-130 (5pts). Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -1796,16 +1871,22 @@
       },
       "news": [
         {
-          "title": "Pakistan gas bowser explodes after truck collision, killing 2 and damaging 6 vehicles",
-          "source": "The Times of India",
-          "link": "https://timesofindia.indiatimes.com/world/pakistan/pakistan-gas-bowser-explodes-after-truck-collision-killing-2-and-damaging-6-vehicles/articleshow/135274421.cms",
-          "published": "2026-10-28T17:17:01Z"
+          "title": "AJ Dybantsa starts pro career with alley-oop dunk in aggressive, impressive NBA debut",
+          "source": "Yahoo Entertainment",
+          "link": "https://sports.yahoo.com/nba/breaking-news/article/aj-dybantsa-starts-pro-career-with-alley-oop-dunk-in-aggressive-impressive-nba-debut-013603697.html",
+          "published": "2026-10-29T01:36:03Z"
         },
         {
-          "title": "BSP sounds 2027 poll bugle in UP, names Anoopshahr candidate",
-          "source": "The Times of India",
-          "link": "https://timesofindia.indiatimes.com/city/meerut/bsp-sounds-2027-poll-bugle-in-up-names-anoopshahr-candidate/articleshow/135274646.cms",
-          "published": "2026-10-28T17:16:45Z"
+          "title": "Shaquille O\u2019Neal reveals shocking details to Ernie Johnson after his sudden retirement from \u2018Inside the NBA\u2019",
+          "source": "New York Post",
+          "link": "https://nypost.com/2026/10/28/sports/shaquille-oneal-ernie-johnson-sudden-retirement-inside-nba/?utm_source=yahoo&amp;utm_campaign=nypost&amp;utm_medium=referral",
+          "published": "2026-10-29T01:34:43Z"
+        },
+        {
+          "title": "Shaquille O\u2019Neal reveals shocking details to Ernie Johnson after his sudden retirement from \u2018Inside the NBA\u2019",
+          "source": "New York Post",
+          "link": "https://nypost.com/2026/10/28/sports/shaquille-oneal-ernie-johnson-sudden-retirement-inside-nba/",
+          "published": "2026-10-29T01:34:43Z"
         }
       ]
     },
@@ -1855,26 +1936,26 @@
           "old_ml": "-115",
           "new_ml": "-115"
         },
-        "snapshot_time": "October 29, 2026 at 11:36 AM UTC"
+        "snapshot_time": "October 29, 2026 at 05:18 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
           "last_game": "Oct 28",
-          "days_rest": 1,
-          "games_last_4d": 3,
+          "days_rest": 2,
+          "games_last_4d": 2,
           "travel_miles": 713,
           "travel_desc": "713 mi road trip",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
           "last_game": "Oct 28",
-          "days_rest": 1,
+          "days_rest": 2,
           "games_last_4d": 2,
           "travel_miles": 0,
           "travel_desc": "",
@@ -1882,7 +1963,7 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udca4 NYK fatigued (B2B) \u2014 source: ESPN"
+        "\ud83d\udcca 2.2pt probability edge"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -1919,7 +2000,7 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "NYK on Back-to-Back \u26a0\ufe0f per ESPN schedule data. SAS on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "trend": "San Antonio Spurs hold a 51.1% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
         "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
@@ -1935,16 +2016,22 @@
       },
       "news": [
         {
-          "title": "Pakistan gas bowser explodes after truck collision, killing 2 and damaging 6 vehicles",
-          "source": "The Times of India",
-          "link": "https://timesofindia.indiatimes.com/world/pakistan/pakistan-gas-bowser-explodes-after-truck-collision-killing-2-and-damaging-6-vehicles/articleshow/135274421.cms",
-          "published": "2026-10-28T17:17:01Z"
+          "title": "AJ Dybantsa starts pro career with alley-oop dunk in aggressive, impressive NBA debut",
+          "source": "Yahoo Entertainment",
+          "link": "https://sports.yahoo.com/nba/breaking-news/article/aj-dybantsa-starts-pro-career-with-alley-oop-dunk-in-aggressive-impressive-nba-debut-013603697.html",
+          "published": "2026-10-29T01:36:03Z"
         },
         {
-          "title": "BSP sounds 2027 poll bugle in UP, names Anoopshahr candidate",
-          "source": "The Times of India",
-          "link": "https://timesofindia.indiatimes.com/city/meerut/bsp-sounds-2027-poll-bugle-in-up-names-anoopshahr-candidate/articleshow/135274646.cms",
-          "published": "2026-10-28T17:16:45Z"
+          "title": "Shaquille O\u2019Neal reveals shocking details to Ernie Johnson after his sudden retirement from \u2018Inside the NBA\u2019",
+          "source": "New York Post",
+          "link": "https://nypost.com/2026/10/28/sports/shaquille-oneal-ernie-johnson-sudden-retirement-inside-nba/?utm_source=yahoo&amp;utm_campaign=nypost&amp;utm_medium=referral",
+          "published": "2026-10-29T01:34:43Z"
+        },
+        {
+          "title": "Shaquille O\u2019Neal reveals shocking details to Ernie Johnson after his sudden retirement from \u2018Inside the NBA\u2019",
+          "source": "New York Post",
+          "link": "https://nypost.com/2026/10/28/sports/shaquille-oneal-ernie-johnson-sudden-retirement-inside-nba/",
+          "published": "2026-10-29T01:34:43Z"
         }
       ]
     },
@@ -1960,7 +2047,7 @@
       "away_ml_raw": 180,
       "home_prob": 65.7,
       "away_prob": 34.3,
-      "spread": "BOS -6.5",
+      "spread": "BOS -5.5",
       "favorite": "Boston Celtics",
       "pick": "Boston Celtics",
       "pick_abbr": "BOS",
@@ -1994,26 +2081,26 @@
           "old_ml": "-218",
           "new_ml": "-218"
         },
-        "snapshot_time": "October 29, 2026 at 11:36 AM UTC"
+        "snapshot_time": "October 29, 2026 at 05:18 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
+          "status": "RESTED",
+          "label": "2 days rest \u2705",
+          "battery": 88,
           "last_game": "Oct 27",
-          "days_rest": 2,
+          "days_rest": 3,
           "games_last_4d": 2,
           "travel_miles": 0,
           "travel_desc": "",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
           "last_game": "Oct 28",
-          "days_rest": 1,
+          "days_rest": 2,
           "games_last_4d": 2,
           "travel_miles": 606,
           "travel_desc": "606 mi road trip",
@@ -2021,7 +2108,7 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udca4 MIA fatigued (B2B) \u2014 source: ESPN"
+        "\ud83d\udcca 31.4pt probability edge"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -2058,7 +2145,7 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "MIA on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "trend": "Boston Celtics hold a 65.7% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
         "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
@@ -2074,16 +2161,22 @@
       },
       "news": [
         {
-          "title": "Pakistan gas bowser explodes after truck collision, killing 2 and damaging 6 vehicles",
-          "source": "The Times of India",
-          "link": "https://timesofindia.indiatimes.com/world/pakistan/pakistan-gas-bowser-explodes-after-truck-collision-killing-2-and-damaging-6-vehicles/articleshow/135274421.cms",
-          "published": "2026-10-28T17:17:01Z"
+          "title": "AJ Dybantsa starts pro career with alley-oop dunk in aggressive, impressive NBA debut",
+          "source": "Yahoo Entertainment",
+          "link": "https://sports.yahoo.com/nba/breaking-news/article/aj-dybantsa-starts-pro-career-with-alley-oop-dunk-in-aggressive-impressive-nba-debut-013603697.html",
+          "published": "2026-10-29T01:36:03Z"
         },
         {
-          "title": "BSP sounds 2027 poll bugle in UP, names Anoopshahr candidate",
-          "source": "The Times of India",
-          "link": "https://timesofindia.indiatimes.com/city/meerut/bsp-sounds-2027-poll-bugle-in-up-names-anoopshahr-candidate/articleshow/135274646.cms",
-          "published": "2026-10-28T17:16:45Z"
+          "title": "Shaquille O\u2019Neal reveals shocking details to Ernie Johnson after his sudden retirement from \u2018Inside the NBA\u2019",
+          "source": "New York Post",
+          "link": "https://nypost.com/2026/10/28/sports/shaquille-oneal-ernie-johnson-sudden-retirement-inside-nba/?utm_source=yahoo&amp;utm_campaign=nypost&amp;utm_medium=referral",
+          "published": "2026-10-29T01:34:43Z"
+        },
+        {
+          "title": "Shaquille O\u2019Neal reveals shocking details to Ernie Johnson after his sudden retirement from \u2018Inside the NBA\u2019",
+          "source": "New York Post",
+          "link": "https://nypost.com/2026/10/28/sports/shaquille-oneal-ernie-johnson-sudden-retirement-inside-nba/",
+          "published": "2026-10-29T01:34:43Z"
         }
       ]
     },
@@ -2133,34 +2226,34 @@
           "old_ml": "-115",
           "new_ml": "-115"
         },
-        "snapshot_time": "October 29, 2026 at 11:36 AM UTC"
+        "snapshot_time": "October 29, 2026 at 05:18 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
           "last_game": "Oct 28",
-          "days_rest": 1,
-          "games_last_4d": 3,
+          "days_rest": 2,
+          "games_last_4d": 2,
           "travel_miles": 0,
           "travel_desc": "",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
           "last_game": "Oct 28",
-          "days_rest": 1,
-          "games_last_4d": 2,
+          "days_rest": 2,
+          "games_last_4d": 1,
           "travel_miles": 583,
           "travel_desc": "583 mi road trip",
           "source": "ESPN Scoreboard API"
         }
       },
       "edge_factors": [
-        "\ud83d\udca4 PHI fatigued (B2B) \u2014 source: ESPN"
+        "\ud83d\udcca 2.2pt probability edge"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -2197,7 +2290,7 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "LAL on Back-to-Back \u26a0\ufe0f per ESPN schedule data. PHI on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "trend": "Los Angeles Lakers hold a 51.1% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
         "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
@@ -2213,16 +2306,22 @@
       },
       "news": [
         {
-          "title": "Pakistan gas bowser explodes after truck collision, killing 2 and damaging 6 vehicles",
-          "source": "The Times of India",
-          "link": "https://timesofindia.indiatimes.com/world/pakistan/pakistan-gas-bowser-explodes-after-truck-collision-killing-2-and-damaging-6-vehicles/articleshow/135274421.cms",
-          "published": "2026-10-28T17:17:01Z"
+          "title": "AJ Dybantsa starts pro career with alley-oop dunk in aggressive, impressive NBA debut",
+          "source": "Yahoo Entertainment",
+          "link": "https://sports.yahoo.com/nba/breaking-news/article/aj-dybantsa-starts-pro-career-with-alley-oop-dunk-in-aggressive-impressive-nba-debut-013603697.html",
+          "published": "2026-10-29T01:36:03Z"
         },
         {
-          "title": "BSP sounds 2027 poll bugle in UP, names Anoopshahr candidate",
-          "source": "The Times of India",
-          "link": "https://timesofindia.indiatimes.com/city/meerut/bsp-sounds-2027-poll-bugle-in-up-names-anoopshahr-candidate/articleshow/135274646.cms",
-          "published": "2026-10-28T17:16:45Z"
+          "title": "Shaquille O\u2019Neal reveals shocking details to Ernie Johnson after his sudden retirement from \u2018Inside the NBA\u2019",
+          "source": "New York Post",
+          "link": "https://nypost.com/2026/10/28/sports/shaquille-oneal-ernie-johnson-sudden-retirement-inside-nba/?utm_source=yahoo&amp;utm_campaign=nypost&amp;utm_medium=referral",
+          "published": "2026-10-29T01:34:43Z"
+        },
+        {
+          "title": "Shaquille O\u2019Neal reveals shocking details to Ernie Johnson after his sudden retirement from \u2018Inside the NBA\u2019",
+          "source": "New York Post",
+          "link": "https://nypost.com/2026/10/28/sports/shaquille-oneal-ernie-johnson-sudden-retirement-inside-nba/",
+          "published": "2026-10-29T01:34:43Z"
         }
       ]
     },
@@ -2272,34 +2371,34 @@
           "old_ml": "-170",
           "new_ml": "-170"
         },
-        "snapshot_time": "October 29, 2026 at 11:36 AM UTC"
+        "snapshot_time": "October 29, 2026 at 05:18 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
           "last_game": "Oct 28",
-          "days_rest": 1,
-          "games_last_4d": 3,
+          "days_rest": 2,
+          "games_last_4d": 2,
           "travel_miles": 630,
           "travel_desc": "630 mi road trip",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
           "last_game": "Oct 28",
-          "days_rest": 1,
-          "games_last_4d": 3,
+          "days_rest": 2,
+          "games_last_4d": 2,
           "travel_miles": 189,
           "travel_desc": "189 mi road trip",
           "source": "ESPN Scoreboard API"
         }
       },
       "edge_factors": [
-        "\ud83d\udca4 MIN fatigued (B2B) \u2014 source: ESPN"
+        "\ud83d\udcca 20.8pt probability edge"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -2336,7 +2435,7 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "MIN on Back-to-Back \u26a0\ufe0f per ESPN schedule data. OKC on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "trend": "Oklahoma City Thunder hold a 60.4% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
         "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
@@ -2352,16 +2451,22 @@
       },
       "news": [
         {
-          "title": "Pakistan gas bowser explodes after truck collision, killing 2 and damaging 6 vehicles",
-          "source": "The Times of India",
-          "link": "https://timesofindia.indiatimes.com/world/pakistan/pakistan-gas-bowser-explodes-after-truck-collision-killing-2-and-damaging-6-vehicles/articleshow/135274421.cms",
-          "published": "2026-10-28T17:17:01Z"
+          "title": "AJ Dybantsa starts pro career with alley-oop dunk in aggressive, impressive NBA debut",
+          "source": "Yahoo Entertainment",
+          "link": "https://sports.yahoo.com/nba/breaking-news/article/aj-dybantsa-starts-pro-career-with-alley-oop-dunk-in-aggressive-impressive-nba-debut-013603697.html",
+          "published": "2026-10-29T01:36:03Z"
         },
         {
-          "title": "BSP sounds 2027 poll bugle in UP, names Anoopshahr candidate",
-          "source": "The Times of India",
-          "link": "https://timesofindia.indiatimes.com/city/meerut/bsp-sounds-2027-poll-bugle-in-up-names-anoopshahr-candidate/articleshow/135274646.cms",
-          "published": "2026-10-28T17:16:45Z"
+          "title": "Shaquille O\u2019Neal reveals shocking details to Ernie Johnson after his sudden retirement from \u2018Inside the NBA\u2019",
+          "source": "New York Post",
+          "link": "https://nypost.com/2026/10/28/sports/shaquille-oneal-ernie-johnson-sudden-retirement-inside-nba/?utm_source=yahoo&amp;utm_campaign=nypost&amp;utm_medium=referral",
+          "published": "2026-10-29T01:34:43Z"
+        },
+        {
+          "title": "Shaquille O\u2019Neal reveals shocking details to Ernie Johnson after his sudden retirement from \u2018Inside the NBA\u2019",
+          "source": "New York Post",
+          "link": "https://nypost.com/2026/10/28/sports/shaquille-oneal-ernie-johnson-sudden-retirement-inside-nba/",
+          "published": "2026-10-29T01:34:43Z"
         }
       ]
     },
@@ -2411,26 +2516,26 @@
           "old_ml": "-135",
           "new_ml": "-135"
         },
-        "snapshot_time": "October 29, 2026 at 11:36 AM UTC"
+        "snapshot_time": "October 29, 2026 at 05:18 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
           "last_game": "Oct 28",
-          "days_rest": 1,
+          "days_rest": 2,
           "games_last_4d": 2,
           "travel_miles": 1580,
           "travel_desc": "1,580 mi road trip",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
           "last_game": "Oct 28",
-          "days_rest": 1,
+          "days_rest": 2,
           "games_last_4d": 2,
           "travel_miles": 1081,
           "travel_desc": "1,081 mi road trip",
@@ -2438,7 +2543,7 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udca4 GSW fatigued (B2B) \u2014 source: ESPN"
+        "\ud83d\udcca 10.2pt probability edge"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -2475,7 +2580,7 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "GSW on Back-to-Back \u26a0\ufe0f per ESPN schedule data. DEN on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "trend": "Denver Nuggets hold a 55.1% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
         "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
@@ -2491,16 +2596,22 @@
       },
       "news": [
         {
-          "title": "Pakistan gas bowser explodes after truck collision, killing 2 and damaging 6 vehicles",
-          "source": "The Times of India",
-          "link": "https://timesofindia.indiatimes.com/world/pakistan/pakistan-gas-bowser-explodes-after-truck-collision-killing-2-and-damaging-6-vehicles/articleshow/135274421.cms",
-          "published": "2026-10-28T17:17:01Z"
+          "title": "AJ Dybantsa starts pro career with alley-oop dunk in aggressive, impressive NBA debut",
+          "source": "Yahoo Entertainment",
+          "link": "https://sports.yahoo.com/nba/breaking-news/article/aj-dybantsa-starts-pro-career-with-alley-oop-dunk-in-aggressive-impressive-nba-debut-013603697.html",
+          "published": "2026-10-29T01:36:03Z"
         },
         {
-          "title": "BSP sounds 2027 poll bugle in UP, names Anoopshahr candidate",
-          "source": "The Times of India",
-          "link": "https://timesofindia.indiatimes.com/city/meerut/bsp-sounds-2027-poll-bugle-in-up-names-anoopshahr-candidate/articleshow/135274646.cms",
-          "published": "2026-10-28T17:16:45Z"
+          "title": "Shaquille O\u2019Neal reveals shocking details to Ernie Johnson after his sudden retirement from \u2018Inside the NBA\u2019",
+          "source": "New York Post",
+          "link": "https://nypost.com/2026/10/28/sports/shaquille-oneal-ernie-johnson-sudden-retirement-inside-nba/?utm_source=yahoo&amp;utm_campaign=nypost&amp;utm_medium=referral",
+          "published": "2026-10-29T01:34:43Z"
+        },
+        {
+          "title": "Shaquille O\u2019Neal reveals shocking details to Ernie Johnson after his sudden retirement from \u2018Inside the NBA\u2019",
+          "source": "New York Post",
+          "link": "https://nypost.com/2026/10/28/sports/shaquille-oneal-ernie-johnson-sudden-retirement-inside-nba/",
+          "published": "2026-10-29T01:34:43Z"
         }
       ]
     }
