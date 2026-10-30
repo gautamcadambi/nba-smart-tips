@@ -1,445 +1,7 @@
 {
-  "last_updated": "October 30, 2026 at 01:36 AM UTC",
-  "total_games": 18,
+  "last_updated": "October 30, 2026 at 05:01 AM UTC",
+  "total_games": 15,
   "games": [
-    {
-      "game": "Cleveland Cavaliers @ Atlanta Hawks",
-      "home_team": "Atlanta Hawks",
-      "away_team": "Cleveland Cavaliers",
-      "home_abbr": "ATL",
-      "away_abbr": "CLE",
-      "home_ml": "-225",
-      "away_ml": "+170",
-      "home_ml_raw": -225,
-      "away_ml_raw": 170,
-      "home_prob": 65.1,
-      "away_prob": 34.9,
-      "spread": "ATL -4.5",
-      "favorite": "Atlanta Hawks",
-      "pick": "Atlanta Hawks",
-      "pick_abbr": "ATL",
-      "moneyline": "-225",
-      "win_probability": 65.1,
-      "confidence": "MEDIUM",
-      "confidence_stars": "\u2605\u2605\u2606",
-      "commence_time": "2026-10-30T00:10:30Z",
-      "line_movement": {
-        "home": {
-          "direction": "shorter",
-          "points_moved": 110,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -225 \u2190 -115",
-          "old_ml": "-115",
-          "new_ml": "-225"
-        },
-        "away": {
-          "direction": "longer",
-          "points_moved": 275,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM +170 \u2190 -105",
-          "old_ml": "-105",
-          "new_ml": "+170"
-        },
-        "pick": {
-          "direction": "shorter",
-          "points_moved": 110,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -225 \u2190 -115",
-          "old_ml": "-115",
-          "new_ml": "-225"
-        },
-        "snapshot_time": "October 29, 2026 at 05:18 PM UTC"
-      },
-      "fatigue": {
-        "home": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
-          "last_game": "Oct 29",
-          "days_rest": 1,
-          "games_last_4d": 3,
-          "travel_miles": 701,
-          "travel_desc": "701 mi road trip",
-          "source": "ESPN Scoreboard API"
-        },
-        "away": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
-          "last_game": "Oct 29",
-          "days_rest": 1,
-          "games_last_4d": 3,
-          "travel_miles": 555,
-          "travel_desc": "555 mi road trip",
-          "source": "ESPN Scoreboard API"
-        }
-      },
-      "edge_factors": [
-        "\ud83d\udd25 Sharp steam detected",
-        "\ud83d\udca4 CLE fatigued (B2B) \u2014 source: ESPN"
-      ],
-      "injury_notes": "No key injuries.",
-      "sharp": {
-        "away_t": null,
-        "home_t": null,
-        "source": null,
-        "sharp_signal": null,
-        "sharp_label": "Pending \u2014 check closer to tip-off",
-        "rlm": false
-      },
-      "form": {
-        "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        },
-        "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        }
-      },
-      "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
-      },
-      "briefing": {
-        "trend": "ATL on Back-to-Back \u26a0\ufe0f per ESPN schedule data. CLE on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -115 to -225 (110pt move) \u2014 heavy professional action on Atlanta Hawks.",
-        "injury_notes": "No key injuries."
-      },
-      "live": {
-        "status": "pre",
-        "status_detail": "Upcoming",
-        "period": 0,
-        "clock": "",
-        "home_score": 0,
-        "away_score": 0,
-        "spread_alert": null
-      },
-      "news": [
-        {
-          "title": "AJ Dybantsa starts pro career with alley-oop dunk in aggressive, impressive NBA debut",
-          "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/nba/breaking-news/article/aj-dybantsa-starts-pro-career-with-alley-oop-dunk-in-aggressive-impressive-nba-debut-013603697.html",
-          "published": "2026-10-29T01:36:03Z"
-        },
-        {
-          "title": "Shaquille O\u2019Neal reveals shocking details to Ernie Johnson after his sudden retirement from \u2018Inside the NBA\u2019",
-          "source": "New York Post",
-          "link": "https://nypost.com/2026/10/28/sports/shaquille-oneal-ernie-johnson-sudden-retirement-inside-nba/?utm_source=yahoo&amp;utm_campaign=nypost&amp;utm_medium=referral",
-          "published": "2026-10-29T01:34:43Z"
-        },
-        {
-          "title": "Shaquille O\u2019Neal reveals shocking details to Ernie Johnson after his sudden retirement from \u2018Inside the NBA\u2019",
-          "source": "New York Post",
-          "link": "https://nypost.com/2026/10/28/sports/shaquille-oneal-ernie-johnson-sudden-retirement-inside-nba/",
-          "published": "2026-10-29T01:34:43Z"
-        }
-      ]
-    },
-    {
-      "game": "Sacramento Kings @ New Orleans Pelicans",
-      "home_team": "New Orleans Pelicans",
-      "away_team": "Sacramento Kings",
-      "home_abbr": "NOP",
-      "away_abbr": "SAC",
-      "home_ml": "-525",
-      "away_ml": "+360",
-      "home_ml_raw": -525,
-      "away_ml_raw": 360,
-      "home_prob": 79.4,
-      "away_prob": 20.6,
-      "spread": "NOP -8.5",
-      "favorite": "New Orleans Pelicans",
-      "pick": "New Orleans Pelicans",
-      "pick_abbr": "NOP",
-      "moneyline": "-525",
-      "win_probability": 79.4,
-      "confidence": "HIGH",
-      "confidence_stars": "\u2605\u2605\u2605",
-      "commence_time": "2026-10-30T00:11:00Z",
-      "line_movement": {
-        "home": {
-          "direction": "shorter",
-          "points_moved": 287,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -525 \u2190 -238",
-          "old_ml": "-238",
-          "new_ml": "-525"
-        },
-        "away": {
-          "direction": "longer",
-          "points_moved": 165,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM +360 \u2190 +195",
-          "old_ml": "+195",
-          "new_ml": "+360"
-        },
-        "pick": {
-          "direction": "shorter",
-          "points_moved": 287,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -525 \u2190 -238",
-          "old_ml": "-238",
-          "new_ml": "-525"
-        },
-        "snapshot_time": "October 29, 2026 at 05:18 PM UTC"
-      },
-      "fatigue": {
-        "home": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
-          "last_game": "Oct 29",
-          "days_rest": 1,
-          "games_last_4d": 2,
-          "travel_miles": 0,
-          "travel_desc": "",
-          "source": "ESPN Scoreboard API"
-        },
-        "away": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
-          "last_game": "Oct 29",
-          "days_rest": 1,
-          "games_last_4d": 2,
-          "travel_miles": 1880,
-          "travel_desc": "1,880 mi road trip",
-          "source": "ESPN Scoreboard API"
-        }
-      },
-      "edge_factors": [
-        "\ud83d\udd25 Sharp steam detected",
-        "\ud83d\udca4 SAC fatigued (B2B) \u2014 source: ESPN",
-        "\u2708\ufe0f SAC traveled 1,880 mi"
-      ],
-      "injury_notes": "No key injuries.",
-      "sharp": {
-        "away_t": null,
-        "home_t": null,
-        "source": null,
-        "sharp_signal": null,
-        "sharp_label": "Pending \u2014 check closer to tip-off",
-        "rlm": false
-      },
-      "form": {
-        "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        },
-        "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        }
-      },
-      "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
-      },
-      "briefing": {
-        "trend": "NOP on Back-to-Back \u26a0\ufe0f per ESPN schedule data. SAC on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -238 to -525 (287pt move) \u2014 heavy professional action on New Orleans Pelicans.",
-        "injury_notes": "No key injuries."
-      },
-      "live": {
-        "status": "pre",
-        "status_detail": "Upcoming",
-        "period": 0,
-        "clock": "",
-        "home_score": 0,
-        "away_score": 0,
-        "spread_alert": null
-      },
-      "news": [
-        {
-          "title": "AJ Dybantsa starts pro career with alley-oop dunk in aggressive, impressive NBA debut",
-          "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/nba/breaking-news/article/aj-dybantsa-starts-pro-career-with-alley-oop-dunk-in-aggressive-impressive-nba-debut-013603697.html",
-          "published": "2026-10-29T01:36:03Z"
-        },
-        {
-          "title": "Shaquille O\u2019Neal reveals shocking details to Ernie Johnson after his sudden retirement from \u2018Inside the NBA\u2019",
-          "source": "New York Post",
-          "link": "https://nypost.com/2026/10/28/sports/shaquille-oneal-ernie-johnson-sudden-retirement-inside-nba/?utm_source=yahoo&amp;utm_campaign=nypost&amp;utm_medium=referral",
-          "published": "2026-10-29T01:34:43Z"
-        },
-        {
-          "title": "Shaquille O\u2019Neal reveals shocking details to Ernie Johnson after his sudden retirement from \u2018Inside the NBA\u2019",
-          "source": "New York Post",
-          "link": "https://nypost.com/2026/10/28/sports/shaquille-oneal-ernie-johnson-sudden-retirement-inside-nba/",
-          "published": "2026-10-29T01:34:43Z"
-        }
-      ]
-    },
-    {
-      "game": "Memphis Grizzlies @ Portland Trail Blazers",
-      "home_team": "Portland Trail Blazers",
-      "away_team": "Memphis Grizzlies",
-      "home_abbr": "POR",
-      "away_abbr": "MEM",
-      "home_ml": "-290",
-      "away_ml": "+235",
-      "home_ml_raw": -290,
-      "away_ml_raw": 235,
-      "home_prob": 71.4,
-      "away_prob": 28.6,
-      "spread": "POR -7.5",
-      "favorite": "Portland Trail Blazers",
-      "pick": "Portland Trail Blazers",
-      "pick_abbr": "POR",
-      "moneyline": "-290",
-      "win_probability": 71.4,
-      "confidence": "MEDIUM",
-      "confidence_stars": "\u2605\u2605\u2606",
-      "commence_time": "2026-10-30T02:10:00Z",
-      "line_movement": {
-        "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
-          "old_ml": "-290",
-          "new_ml": "-290"
-        },
-        "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
-          "old_ml": "+235",
-          "new_ml": "+235"
-        },
-        "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
-          "old_ml": "-290",
-          "new_ml": "-290"
-        },
-        "snapshot_time": "October 29, 2026 at 05:18 PM UTC"
-      },
-      "fatigue": {
-        "home": {
-          "status": "RESTED",
-          "label": "2 days rest \u2705",
-          "battery": 88,
-          "last_game": "Oct 27",
-          "days_rest": 3,
-          "games_last_4d": 1,
-          "travel_miles": 827,
-          "travel_desc": "827 mi road trip",
-          "source": "ESPN Scoreboard API"
-        },
-        "away": {
-          "status": "FRESH",
-          "label": "Well rested \u2705",
-          "battery": 100,
-          "last_game": "Oct 26",
-          "days_rest": 4,
-          "games_last_4d": 1,
-          "travel_miles": 0,
-          "travel_desc": "",
-          "source": "ESPN Scoreboard API"
-        }
-      },
-      "edge_factors": [
-        "\ud83d\udcca 42.8pt probability edge"
-      ],
-      "injury_notes": "No key injuries.",
-      "sharp": {
-        "away_t": null,
-        "home_t": null,
-        "source": null,
-        "sharp_signal": null,
-        "sharp_label": "Pending \u2014 check closer to tip-off",
-        "rlm": false
-      },
-      "form": {
-        "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        },
-        "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        }
-      },
-      "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
-      },
-      "briefing": {
-        "trend": "Portland Trail Blazers hold a 71.4% edge.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
-        "injury_notes": "No key injuries."
-      },
-      "live": {
-        "status": "pre",
-        "status_detail": "Upcoming",
-        "period": 0,
-        "clock": "",
-        "home_score": 0,
-        "away_score": 0,
-        "spread_alert": null
-      },
-      "news": [
-        {
-          "title": "AJ Dybantsa starts pro career with alley-oop dunk in aggressive, impressive NBA debut",
-          "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/nba/breaking-news/article/aj-dybantsa-starts-pro-career-with-alley-oop-dunk-in-aggressive-impressive-nba-debut-013603697.html",
-          "published": "2026-10-29T01:36:03Z"
-        },
-        {
-          "title": "Shaquille O\u2019Neal reveals shocking details to Ernie Johnson after his sudden retirement from \u2018Inside the NBA\u2019",
-          "source": "New York Post",
-          "link": "https://nypost.com/2026/10/28/sports/shaquille-oneal-ernie-johnson-sudden-retirement-inside-nba/?utm_source=yahoo&amp;utm_campaign=nypost&amp;utm_medium=referral",
-          "published": "2026-10-29T01:34:43Z"
-        },
-        {
-          "title": "Shaquille O\u2019Neal reveals shocking details to Ernie Johnson after his sudden retirement from \u2018Inside the NBA\u2019",
-          "source": "New York Post",
-          "link": "https://nypost.com/2026/10/28/sports/shaquille-oneal-ernie-johnson-sudden-retirement-inside-nba/",
-          "published": "2026-10-29T01:34:43Z"
-        }
-      ]
-    },
     {
       "game": "Charlotte Hornets @ Washington Wizards",
       "home_team": "Washington Wizards",
@@ -463,30 +25,30 @@
       "commence_time": "2026-10-30T23:10:00Z",
       "line_movement": {
         "home": {
-          "direction": "shorter",
-          "points_moved": 10,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -115 \u2190 -105",
-          "old_ml": "-105",
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "No movement",
+          "old_ml": "-115",
           "new_ml": "-115"
         },
         "away": {
-          "direction": "longer",
-          "points_moved": 10,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -105 \u2190 -115",
-          "old_ml": "-115",
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "No movement",
+          "old_ml": "-105",
           "new_ml": "-105"
         },
         "pick": {
-          "direction": "shorter",
-          "points_moved": 10,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -115 \u2190 -105",
-          "old_ml": "-105",
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "No movement",
+          "old_ml": "-115",
           "new_ml": "-115"
         },
-        "snapshot_time": "October 29, 2026 at 05:18 PM UTC"
+        "snapshot_time": "October 30, 2026 at 01:36 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -513,7 +75,7 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udd25 Sharp steam detected"
+        "\ud83d\udcca 2.2pt probability edge"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -552,7 +114,7 @@
       "briefing": {
         "trend": "Washington Wizards hold a 51.1% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -105 to -115 (10pt move) \u2014 heavy professional action on Washington Wizards.",
+        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -566,22 +128,22 @@
       },
       "news": [
         {
-          "title": "AJ Dybantsa starts pro career with alley-oop dunk in aggressive, impressive NBA debut",
-          "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/nba/breaking-news/article/aj-dybantsa-starts-pro-career-with-alley-oop-dunk-in-aggressive-impressive-nba-debut-013603697.html",
-          "published": "2026-10-29T01:36:03Z"
+          "title": "Bay Area sports calendar, Oct. 29-30",
+          "source": "San Francisco Chronicle",
+          "link": "https://www.sfchronicle.com/sports/article/sportscal-22495805.php?utm_medium=referral&amp;utm_campaign=yahoo_syndication",
+          "published": "2026-10-29T05:00:00Z"
         },
         {
-          "title": "Shaquille O\u2019Neal reveals shocking details to Ernie Johnson after his sudden retirement from \u2018Inside the NBA\u2019",
-          "source": "New York Post",
-          "link": "https://nypost.com/2026/10/28/sports/shaquille-oneal-ernie-johnson-sudden-retirement-inside-nba/?utm_source=yahoo&amp;utm_campaign=nypost&amp;utm_medium=referral",
-          "published": "2026-10-29T01:34:43Z"
+          "title": "Aztecs close exhibition slate, get full team involved to run past Long Beach State",
+          "source": "Thesportingtribune.com",
+          "link": "https://www.thesportingtribune.com/2026/10/28/2627-sdsu-mbb-lbst-ex-6-in-double-figures-davis-harrington-gladden-starting-guard-combo",
+          "published": "2026-10-29T04:51:34Z"
         },
         {
-          "title": "Shaquille O\u2019Neal reveals shocking details to Ernie Johnson after his sudden retirement from \u2018Inside the NBA\u2019",
-          "source": "New York Post",
-          "link": "https://nypost.com/2026/10/28/sports/shaquille-oneal-ernie-johnson-sudden-retirement-inside-nba/",
-          "published": "2026-10-29T01:34:43Z"
+          "title": "\u2018I want to know\u2026\u2019 \u2013 Why Stephen A. Smith would \u2018spy\u2019 on LeBron James",
+          "source": "HITC - Football, Gaming, Movies, TV, Music",
+          "link": "https://www.hitc.com/i-want-to-know-why-stephen-a-smith-would-spy-on-lebron-james/",
+          "published": "2026-10-29T04:48:04Z"
         }
       ]
     },
@@ -608,30 +170,30 @@
       "commence_time": "2026-10-30T23:40:00Z",
       "line_movement": {
         "home": {
-          "direction": "shorter",
-          "points_moved": 150,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -850 \u2190 -700",
-          "old_ml": "-700",
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "No movement",
+          "old_ml": "-850",
           "new_ml": "-850"
         },
         "away": {
-          "direction": "longer",
-          "points_moved": 75,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM +575 \u2190 +500",
-          "old_ml": "+500",
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "No movement",
+          "old_ml": "+575",
           "new_ml": "+575"
         },
         "pick": {
-          "direction": "shorter",
-          "points_moved": 150,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -850 \u2190 -700",
-          "old_ml": "-700",
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "No movement",
+          "old_ml": "-850",
           "new_ml": "-850"
         },
-        "snapshot_time": "October 29, 2026 at 05:18 PM UTC"
+        "snapshot_time": "October 30, 2026 at 01:36 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -658,7 +220,7 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udd25 Sharp steam detected"
+        "\ud83d\udcca 71.6pt probability edge"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -697,7 +259,7 @@
       "briefing": {
         "trend": "Boston Celtics hold a 85.8% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -700 to -850 (150pt move) \u2014 heavy professional action on Boston Celtics.",
+        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -711,22 +273,22 @@
       },
       "news": [
         {
-          "title": "AJ Dybantsa starts pro career with alley-oop dunk in aggressive, impressive NBA debut",
-          "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/nba/breaking-news/article/aj-dybantsa-starts-pro-career-with-alley-oop-dunk-in-aggressive-impressive-nba-debut-013603697.html",
-          "published": "2026-10-29T01:36:03Z"
+          "title": "Bay Area sports calendar, Oct. 29-30",
+          "source": "San Francisco Chronicle",
+          "link": "https://www.sfchronicle.com/sports/article/sportscal-22495805.php?utm_medium=referral&amp;utm_campaign=yahoo_syndication",
+          "published": "2026-10-29T05:00:00Z"
         },
         {
-          "title": "Shaquille O\u2019Neal reveals shocking details to Ernie Johnson after his sudden retirement from \u2018Inside the NBA\u2019",
-          "source": "New York Post",
-          "link": "https://nypost.com/2026/10/28/sports/shaquille-oneal-ernie-johnson-sudden-retirement-inside-nba/?utm_source=yahoo&amp;utm_campaign=nypost&amp;utm_medium=referral",
-          "published": "2026-10-29T01:34:43Z"
+          "title": "Aztecs close exhibition slate, get full team involved to run past Long Beach State",
+          "source": "Thesportingtribune.com",
+          "link": "https://www.thesportingtribune.com/2026/10/28/2627-sdsu-mbb-lbst-ex-6-in-double-figures-davis-harrington-gladden-starting-guard-combo",
+          "published": "2026-10-29T04:51:34Z"
         },
         {
-          "title": "Shaquille O\u2019Neal reveals shocking details to Ernie Johnson after his sudden retirement from \u2018Inside the NBA\u2019",
-          "source": "New York Post",
-          "link": "https://nypost.com/2026/10/28/sports/shaquille-oneal-ernie-johnson-sudden-retirement-inside-nba/",
-          "published": "2026-10-29T01:34:43Z"
+          "title": "\u2018I want to know\u2026\u2019 \u2013 Why Stephen A. Smith would \u2018spy\u2019 on LeBron James",
+          "source": "HITC - Football, Gaming, Movies, TV, Music",
+          "link": "https://www.hitc.com/i-want-to-know-why-stephen-a-smith-would-spy-on-lebron-james/",
+          "published": "2026-10-29T04:48:04Z"
         }
       ]
     },
@@ -736,47 +298,47 @@
       "away_team": "Detroit Pistons",
       "home_abbr": "BKN",
       "away_abbr": "DET",
-      "home_ml": "+210",
-      "away_ml": "-258",
-      "home_ml_raw": 210,
-      "away_ml_raw": -258,
-      "home_prob": 30.9,
-      "away_prob": 69.1,
+      "home_ml": "+230",
+      "away_ml": "-285",
+      "home_ml_raw": 230,
+      "away_ml_raw": -285,
+      "home_prob": 29.0,
+      "away_prob": 71.0,
       "spread": "BKN +7.5",
       "favorite": "Detroit Pistons",
       "pick": "Detroit Pistons",
       "pick_abbr": "DET",
-      "moneyline": "-258",
-      "win_probability": 69.1,
+      "moneyline": "-285",
+      "win_probability": 71.0,
       "confidence": "MEDIUM",
       "confidence_stars": "\u2605\u2605\u2606",
       "commence_time": "2026-10-30T23:40:00Z",
       "line_movement": {
         "home": {
-          "direction": "shorter",
-          "points_moved": 70,
+          "direction": "longer",
+          "points_moved": 20,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM +210 \u2190 +280",
-          "old_ml": "+280",
-          "new_ml": "+210"
+          "label": "\ud83d\udd25 STEAM +230 \u2190 +210",
+          "old_ml": "+210",
+          "new_ml": "+230"
         },
         "away": {
-          "direction": "longer",
-          "points_moved": 97,
+          "direction": "shorter",
+          "points_moved": 27,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM -258 \u2190 -355",
-          "old_ml": "-355",
-          "new_ml": "-258"
+          "label": "\ud83d\udd25 STEAM -285 \u2190 -258",
+          "old_ml": "-258",
+          "new_ml": "-285"
         },
         "pick": {
-          "direction": "longer",
-          "points_moved": 97,
+          "direction": "shorter",
+          "points_moved": 27,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM -258 \u2190 -355",
-          "old_ml": "-355",
-          "new_ml": "-258"
+          "label": "\ud83d\udd25 STEAM -285 \u2190 -258",
+          "old_ml": "-258",
+          "new_ml": "-285"
         },
-        "snapshot_time": "October 29, 2026 at 05:18 PM UTC"
+        "snapshot_time": "October 30, 2026 at 01:36 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -840,9 +402,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "Detroit Pistons hold a 69.1% edge.",
+        "trend": "Detroit Pistons hold a 71.0% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -355 to -258 (97pt move) \u2014 heavy professional action on Detroit Pistons.",
+        "steam": "Line steamed from -258 to -285 (27pt move) \u2014 heavy professional action on Detroit Pistons.",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -856,22 +418,22 @@
       },
       "news": [
         {
-          "title": "AJ Dybantsa starts pro career with alley-oop dunk in aggressive, impressive NBA debut",
-          "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/nba/breaking-news/article/aj-dybantsa-starts-pro-career-with-alley-oop-dunk-in-aggressive-impressive-nba-debut-013603697.html",
-          "published": "2026-10-29T01:36:03Z"
+          "title": "Bay Area sports calendar, Oct. 29-30",
+          "source": "San Francisco Chronicle",
+          "link": "https://www.sfchronicle.com/sports/article/sportscal-22495805.php?utm_medium=referral&amp;utm_campaign=yahoo_syndication",
+          "published": "2026-10-29T05:00:00Z"
         },
         {
-          "title": "Shaquille O\u2019Neal reveals shocking details to Ernie Johnson after his sudden retirement from \u2018Inside the NBA\u2019",
-          "source": "New York Post",
-          "link": "https://nypost.com/2026/10/28/sports/shaquille-oneal-ernie-johnson-sudden-retirement-inside-nba/?utm_source=yahoo&amp;utm_campaign=nypost&amp;utm_medium=referral",
-          "published": "2026-10-29T01:34:43Z"
+          "title": "Aztecs close exhibition slate, get full team involved to run past Long Beach State",
+          "source": "Thesportingtribune.com",
+          "link": "https://www.thesportingtribune.com/2026/10/28/2627-sdsu-mbb-lbst-ex-6-in-double-figures-davis-harrington-gladden-starting-guard-combo",
+          "published": "2026-10-29T04:51:34Z"
         },
         {
-          "title": "Shaquille O\u2019Neal reveals shocking details to Ernie Johnson after his sudden retirement from \u2018Inside the NBA\u2019",
-          "source": "New York Post",
-          "link": "https://nypost.com/2026/10/28/sports/shaquille-oneal-ernie-johnson-sudden-retirement-inside-nba/",
-          "published": "2026-10-29T01:34:43Z"
+          "title": "\u2018I want to know\u2026\u2019 \u2013 Why Stephen A. Smith would \u2018spy\u2019 on LeBron James",
+          "source": "HITC - Football, Gaming, Movies, TV, Music",
+          "link": "https://www.hitc.com/i-want-to-know-why-stephen-a-smith-would-spy-on-lebron-james/",
+          "published": "2026-10-29T04:48:04Z"
         }
       ]
     },
@@ -898,30 +460,30 @@
       "commence_time": "2026-10-30T23:40:00Z",
       "line_movement": {
         "home": {
-          "direction": "longer",
-          "points_moved": 207,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM +102 \u2190 -105",
-          "old_ml": "-105",
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "No movement",
+          "old_ml": "+102",
           "new_ml": "+102"
         },
         "away": {
-          "direction": "shorter",
-          "points_moved": 7,
+          "direction": "none",
+          "points_moved": 0,
           "steam": false,
-          "label": "\ud83d\udfe2 -122 \u2190 -115",
-          "old_ml": "-115",
+          "label": "No movement",
+          "old_ml": "-122",
           "new_ml": "-122"
         },
         "pick": {
-          "direction": "shorter",
-          "points_moved": 7,
+          "direction": "none",
+          "points_moved": 0,
           "steam": false,
-          "label": "\ud83d\udfe2 -122 \u2190 -115",
-          "old_ml": "-115",
+          "label": "No movement",
+          "old_ml": "-122",
           "new_ml": "-122"
         },
-        "snapshot_time": "October 29, 2026 at 05:18 PM UTC"
+        "snapshot_time": "October 30, 2026 at 01:36 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -944,6 +506,151 @@
           "games_last_4d": 2,
           "travel_miles": 713,
           "travel_desc": "713 mi road trip",
+          "source": "ESPN Scoreboard API"
+        }
+      },
+      "edge_factors": [
+        "\ud83d\udcca 5.2pt probability edge"
+      ],
+      "injury_notes": "No key injuries.",
+      "sharp": {
+        "away_t": null,
+        "home_t": null,
+        "source": null,
+        "sharp_signal": null,
+        "sharp_label": "Pending \u2014 check closer to tip-off",
+        "rlm": false
+      },
+      "form": {
+        "home": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        },
+        "away": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        }
+      },
+      "h2h": {
+        "total_meetings": 0,
+        "home_wins": 0,
+        "away_wins": 0,
+        "meetings": [],
+        "source": "\u2014"
+      },
+      "briefing": {
+        "trend": "New York Knicks hold a 52.6% edge.",
+        "matchup": "Both rosters appear healthy \u2014 clean line.",
+        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "injury_notes": "No key injuries."
+      },
+      "live": {
+        "status": "pre",
+        "status_detail": "Upcoming",
+        "period": 0,
+        "clock": "",
+        "home_score": 0,
+        "away_score": 0,
+        "spread_alert": null
+      },
+      "news": [
+        {
+          "title": "Bay Area sports calendar, Oct. 29-30",
+          "source": "San Francisco Chronicle",
+          "link": "https://www.sfchronicle.com/sports/article/sportscal-22495805.php?utm_medium=referral&amp;utm_campaign=yahoo_syndication",
+          "published": "2026-10-29T05:00:00Z"
+        },
+        {
+          "title": "Aztecs close exhibition slate, get full team involved to run past Long Beach State",
+          "source": "Thesportingtribune.com",
+          "link": "https://www.thesportingtribune.com/2026/10/28/2627-sdsu-mbb-lbst-ex-6-in-double-figures-davis-harrington-gladden-starting-guard-combo",
+          "published": "2026-10-29T04:51:34Z"
+        },
+        {
+          "title": "\u2018I want to know\u2026\u2019 \u2013 Why Stephen A. Smith would \u2018spy\u2019 on LeBron James",
+          "source": "HITC - Football, Gaming, Movies, TV, Music",
+          "link": "https://www.hitc.com/i-want-to-know-why-stephen-a-smith-would-spy-on-lebron-james/",
+          "published": "2026-10-29T04:48:04Z"
+        }
+      ]
+    },
+    {
+      "game": "Orlando Magic @ Toronto Raptors",
+      "home_team": "Toronto Raptors",
+      "away_team": "Orlando Magic",
+      "home_abbr": "TOR",
+      "away_abbr": "ORL",
+      "home_ml": "-205",
+      "away_ml": "+170",
+      "home_ml_raw": -205,
+      "away_ml_raw": 170,
+      "home_prob": 64.5,
+      "away_prob": 35.5,
+      "spread": "TOR -5.5",
+      "favorite": "Toronto Raptors",
+      "pick": "Toronto Raptors",
+      "pick_abbr": "TOR",
+      "moneyline": "-205",
+      "win_probability": 64.5,
+      "confidence": "MEDIUM",
+      "confidence_stars": "\u2605\u2605\u2606",
+      "commence_time": "2026-10-30T23:40:00Z",
+      "line_movement": {
+        "home": {
+          "direction": "shorter",
+          "points_moved": 13,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -205 \u2190 -192",
+          "old_ml": "-192",
+          "new_ml": "-205"
+        },
+        "away": {
+          "direction": "longer",
+          "points_moved": 10,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM +170 \u2190 +160",
+          "old_ml": "+160",
+          "new_ml": "+170"
+        },
+        "pick": {
+          "direction": "shorter",
+          "points_moved": 13,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -205 \u2190 -192",
+          "old_ml": "-192",
+          "new_ml": "-205"
+        },
+        "snapshot_time": "October 30, 2026 at 01:36 AM UTC"
+      },
+      "fatigue": {
+        "home": {
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
+          "last_game": "Oct 28",
+          "days_rest": 2,
+          "games_last_4d": 1,
+          "travel_miles": 0,
+          "travel_desc": "",
+          "source": "ESPN Scoreboard API"
+        },
+        "away": {
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
+          "last_game": "Oct 28",
+          "days_rest": 2,
+          "games_last_4d": 1,
+          "travel_miles": 1049,
+          "travel_desc": "1,049 mi road trip",
           "source": "ESPN Scoreboard API"
         }
       },
@@ -985,9 +692,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "New York Knicks hold a 52.6% edge.",
+        "trend": "Toronto Raptors hold a 64.5% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line moved -115\u2192-122 (7pts). Pending \u2014 check closer to tip-off",
+        "steam": "Line steamed from -192 to -205 (13pt move) \u2014 heavy professional action on Toronto Raptors.",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -1001,167 +708,22 @@
       },
       "news": [
         {
-          "title": "AJ Dybantsa starts pro career with alley-oop dunk in aggressive, impressive NBA debut",
-          "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/nba/breaking-news/article/aj-dybantsa-starts-pro-career-with-alley-oop-dunk-in-aggressive-impressive-nba-debut-013603697.html",
-          "published": "2026-10-29T01:36:03Z"
+          "title": "Bay Area sports calendar, Oct. 29-30",
+          "source": "San Francisco Chronicle",
+          "link": "https://www.sfchronicle.com/sports/article/sportscal-22495805.php?utm_medium=referral&amp;utm_campaign=yahoo_syndication",
+          "published": "2026-10-29T05:00:00Z"
         },
         {
-          "title": "Shaquille O\u2019Neal reveals shocking details to Ernie Johnson after his sudden retirement from \u2018Inside the NBA\u2019",
-          "source": "New York Post",
-          "link": "https://nypost.com/2026/10/28/sports/shaquille-oneal-ernie-johnson-sudden-retirement-inside-nba/?utm_source=yahoo&amp;utm_campaign=nypost&amp;utm_medium=referral",
-          "published": "2026-10-29T01:34:43Z"
+          "title": "Aztecs close exhibition slate, get full team involved to run past Long Beach State",
+          "source": "Thesportingtribune.com",
+          "link": "https://www.thesportingtribune.com/2026/10/28/2627-sdsu-mbb-lbst-ex-6-in-double-figures-davis-harrington-gladden-starting-guard-combo",
+          "published": "2026-10-29T04:51:34Z"
         },
         {
-          "title": "Shaquille O\u2019Neal reveals shocking details to Ernie Johnson after his sudden retirement from \u2018Inside the NBA\u2019",
-          "source": "New York Post",
-          "link": "https://nypost.com/2026/10/28/sports/shaquille-oneal-ernie-johnson-sudden-retirement-inside-nba/",
-          "published": "2026-10-29T01:34:43Z"
-        }
-      ]
-    },
-    {
-      "game": "Orlando Magic @ Toronto Raptors",
-      "home_team": "Toronto Raptors",
-      "away_team": "Orlando Magic",
-      "home_abbr": "TOR",
-      "away_abbr": "ORL",
-      "home_ml": "-192",
-      "away_ml": "+160",
-      "home_ml_raw": -192,
-      "away_ml_raw": 160,
-      "home_prob": 63.1,
-      "away_prob": 36.9,
-      "spread": "TOR -5.5",
-      "favorite": "Toronto Raptors",
-      "pick": "Toronto Raptors",
-      "pick_abbr": "TOR",
-      "moneyline": "-192",
-      "win_probability": 63.1,
-      "confidence": "MEDIUM",
-      "confidence_stars": "\u2605\u2605\u2606",
-      "commence_time": "2026-10-30T23:40:00Z",
-      "line_movement": {
-        "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
-          "old_ml": "-192",
-          "new_ml": "-192"
-        },
-        "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
-          "old_ml": "+160",
-          "new_ml": "+160"
-        },
-        "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
-          "old_ml": "-192",
-          "new_ml": "-192"
-        },
-        "snapshot_time": "October 29, 2026 at 05:18 PM UTC"
-      },
-      "fatigue": {
-        "home": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "Oct 28",
-          "days_rest": 2,
-          "games_last_4d": 1,
-          "travel_miles": 0,
-          "travel_desc": "",
-          "source": "ESPN Scoreboard API"
-        },
-        "away": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "Oct 28",
-          "days_rest": 2,
-          "games_last_4d": 1,
-          "travel_miles": 1049,
-          "travel_desc": "1,049 mi road trip",
-          "source": "ESPN Scoreboard API"
-        }
-      },
-      "edge_factors": [
-        "\ud83d\udcca 26.2pt probability edge"
-      ],
-      "injury_notes": "No key injuries.",
-      "sharp": {
-        "away_t": null,
-        "home_t": null,
-        "source": null,
-        "sharp_signal": null,
-        "sharp_label": "Pending \u2014 check closer to tip-off",
-        "rlm": false
-      },
-      "form": {
-        "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        },
-        "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        }
-      },
-      "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
-      },
-      "briefing": {
-        "trend": "Toronto Raptors hold a 63.1% edge.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
-        "injury_notes": "No key injuries."
-      },
-      "live": {
-        "status": "pre",
-        "status_detail": "Upcoming",
-        "period": 0,
-        "clock": "",
-        "home_score": 0,
-        "away_score": 0,
-        "spread_alert": null
-      },
-      "news": [
-        {
-          "title": "AJ Dybantsa starts pro career with alley-oop dunk in aggressive, impressive NBA debut",
-          "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/nba/breaking-news/article/aj-dybantsa-starts-pro-career-with-alley-oop-dunk-in-aggressive-impressive-nba-debut-013603697.html",
-          "published": "2026-10-29T01:36:03Z"
-        },
-        {
-          "title": "Shaquille O\u2019Neal reveals shocking details to Ernie Johnson after his sudden retirement from \u2018Inside the NBA\u2019",
-          "source": "New York Post",
-          "link": "https://nypost.com/2026/10/28/sports/shaquille-oneal-ernie-johnson-sudden-retirement-inside-nba/?utm_source=yahoo&amp;utm_campaign=nypost&amp;utm_medium=referral",
-          "published": "2026-10-29T01:34:43Z"
-        },
-        {
-          "title": "Shaquille O\u2019Neal reveals shocking details to Ernie Johnson after his sudden retirement from \u2018Inside the NBA\u2019",
-          "source": "New York Post",
-          "link": "https://nypost.com/2026/10/28/sports/shaquille-oneal-ernie-johnson-sudden-retirement-inside-nba/",
-          "published": "2026-10-29T01:34:43Z"
+          "title": "\u2018I want to know\u2026\u2019 \u2013 Why Stephen A. Smith would \u2018spy\u2019 on LeBron James",
+          "source": "HITC - Football, Gaming, Movies, TV, Music",
+          "link": "https://www.hitc.com/i-want-to-know-why-stephen-a-smith-would-spy-on-lebron-james/",
+          "published": "2026-10-29T04:48:04Z"
         }
       ]
     },
@@ -1171,18 +733,18 @@
       "away_team": "Houston Rockets",
       "home_abbr": "DAL",
       "away_abbr": "HOU",
-      "home_ml": "+170",
-      "away_ml": "-205",
-      "home_ml_raw": 170,
-      "away_ml_raw": -205,
-      "home_prob": 35.5,
-      "away_prob": 64.5,
+      "home_ml": "+180",
+      "away_ml": "-218",
+      "home_ml_raw": 180,
+      "away_ml_raw": -218,
+      "home_prob": 34.3,
+      "away_prob": 65.7,
       "spread": "DAL +5.5",
       "favorite": "Houston Rockets",
       "pick": "Houston Rockets",
       "pick_abbr": "HOU",
-      "moneyline": "-205",
-      "win_probability": 64.5,
+      "moneyline": "-218",
+      "win_probability": 65.7,
       "confidence": "MEDIUM",
       "confidence_stars": "\u2605\u2605\u2606",
       "commence_time": "2026-10-31T00:10:00Z",
@@ -1191,27 +753,27 @@
           "direction": "longer",
           "points_moved": 10,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM +170 \u2190 +160",
-          "old_ml": "+160",
-          "new_ml": "+170"
+          "label": "\ud83d\udd25 STEAM +180 \u2190 +170",
+          "old_ml": "+170",
+          "new_ml": "+180"
         },
         "away": {
           "direction": "shorter",
           "points_moved": 13,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM -205 \u2190 -192",
-          "old_ml": "-192",
-          "new_ml": "-205"
+          "label": "\ud83d\udd25 STEAM -218 \u2190 -205",
+          "old_ml": "-205",
+          "new_ml": "-218"
         },
         "pick": {
           "direction": "shorter",
           "points_moved": 13,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM -205 \u2190 -192",
-          "old_ml": "-192",
-          "new_ml": "-205"
+          "label": "\ud83d\udd25 STEAM -218 \u2190 -205",
+          "old_ml": "-205",
+          "new_ml": "-218"
         },
-        "snapshot_time": "October 29, 2026 at 05:18 PM UTC"
+        "snapshot_time": "October 30, 2026 at 01:36 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -1275,9 +837,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "Houston Rockets hold a 64.5% edge.",
+        "trend": "Houston Rockets hold a 65.7% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -192 to -205 (13pt move) \u2014 heavy professional action on Houston Rockets.",
+        "steam": "Line steamed from -205 to -218 (13pt move) \u2014 heavy professional action on Houston Rockets.",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -1291,22 +853,22 @@
       },
       "news": [
         {
-          "title": "AJ Dybantsa starts pro career with alley-oop dunk in aggressive, impressive NBA debut",
-          "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/nba/breaking-news/article/aj-dybantsa-starts-pro-career-with-alley-oop-dunk-in-aggressive-impressive-nba-debut-013603697.html",
-          "published": "2026-10-29T01:36:03Z"
+          "title": "Bay Area sports calendar, Oct. 29-30",
+          "source": "San Francisco Chronicle",
+          "link": "https://www.sfchronicle.com/sports/article/sportscal-22495805.php?utm_medium=referral&amp;utm_campaign=yahoo_syndication",
+          "published": "2026-10-29T05:00:00Z"
         },
         {
-          "title": "Shaquille O\u2019Neal reveals shocking details to Ernie Johnson after his sudden retirement from \u2018Inside the NBA\u2019",
-          "source": "New York Post",
-          "link": "https://nypost.com/2026/10/28/sports/shaquille-oneal-ernie-johnson-sudden-retirement-inside-nba/?utm_source=yahoo&amp;utm_campaign=nypost&amp;utm_medium=referral",
-          "published": "2026-10-29T01:34:43Z"
+          "title": "Aztecs close exhibition slate, get full team involved to run past Long Beach State",
+          "source": "Thesportingtribune.com",
+          "link": "https://www.thesportingtribune.com/2026/10/28/2627-sdsu-mbb-lbst-ex-6-in-double-figures-davis-harrington-gladden-starting-guard-combo",
+          "published": "2026-10-29T04:51:34Z"
         },
         {
-          "title": "Shaquille O\u2019Neal reveals shocking details to Ernie Johnson after his sudden retirement from \u2018Inside the NBA\u2019",
-          "source": "New York Post",
-          "link": "https://nypost.com/2026/10/28/sports/shaquille-oneal-ernie-johnson-sudden-retirement-inside-nba/",
-          "published": "2026-10-29T01:34:43Z"
+          "title": "\u2018I want to know\u2026\u2019 \u2013 Why Stephen A. Smith would \u2018spy\u2019 on LeBron James",
+          "source": "HITC - Football, Gaming, Movies, TV, Music",
+          "link": "https://www.hitc.com/i-want-to-know-why-stephen-a-smith-would-spy-on-lebron-james/",
+          "published": "2026-10-29T04:48:04Z"
         }
       ]
     },
@@ -1316,47 +878,47 @@
       "away_team": "Indiana Pacers",
       "home_abbr": "MIA",
       "away_abbr": "IND",
-      "home_ml": "-250",
-      "away_ml": "+205",
-      "home_ml_raw": -250,
-      "away_ml_raw": 205,
-      "home_prob": 68.5,
-      "away_prob": 31.5,
+      "home_ml": "-278",
+      "away_ml": "+225",
+      "home_ml_raw": -278,
+      "away_ml_raw": 225,
+      "home_prob": 70.5,
+      "away_prob": 29.5,
       "spread": "MIA -7.5",
       "favorite": "Miami Heat",
       "pick": "Miami Heat",
       "pick_abbr": "MIA",
-      "moneyline": "-250",
-      "win_probability": 68.5,
+      "moneyline": "-278",
+      "win_probability": 70.5,
       "confidence": "MEDIUM",
       "confidence_stars": "\u2605\u2605\u2606",
       "commence_time": "2026-10-31T00:10:00Z",
       "line_movement": {
         "home": {
           "direction": "shorter",
-          "points_moved": 70,
+          "points_moved": 28,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM -250 \u2190 -180",
-          "old_ml": "-180",
-          "new_ml": "-250"
+          "label": "\ud83d\udd25 STEAM -278 \u2190 -250",
+          "old_ml": "-250",
+          "new_ml": "-278"
         },
         "away": {
           "direction": "longer",
-          "points_moved": 55,
+          "points_moved": 20,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM +205 \u2190 +150",
-          "old_ml": "+150",
-          "new_ml": "+205"
+          "label": "\ud83d\udd25 STEAM +225 \u2190 +205",
+          "old_ml": "+205",
+          "new_ml": "+225"
         },
         "pick": {
           "direction": "shorter",
-          "points_moved": 70,
+          "points_moved": 28,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM -250 \u2190 -180",
-          "old_ml": "-180",
-          "new_ml": "-250"
+          "label": "\ud83d\udd25 STEAM -278 \u2190 -250",
+          "old_ml": "-250",
+          "new_ml": "-278"
         },
-        "snapshot_time": "October 29, 2026 at 05:18 PM UTC"
+        "snapshot_time": "October 30, 2026 at 01:36 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -1420,9 +982,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "Miami Heat hold a 68.5% edge.",
+        "trend": "Miami Heat hold a 70.5% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -180 to -250 (70pt move) \u2014 heavy professional action on Miami Heat.",
+        "steam": "Line steamed from -250 to -278 (28pt move) \u2014 heavy professional action on Miami Heat.",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -1436,22 +998,22 @@
       },
       "news": [
         {
-          "title": "AJ Dybantsa starts pro career with alley-oop dunk in aggressive, impressive NBA debut",
-          "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/nba/breaking-news/article/aj-dybantsa-starts-pro-career-with-alley-oop-dunk-in-aggressive-impressive-nba-debut-013603697.html",
-          "published": "2026-10-29T01:36:03Z"
+          "title": "Bay Area sports calendar, Oct. 29-30",
+          "source": "San Francisco Chronicle",
+          "link": "https://www.sfchronicle.com/sports/article/sportscal-22495805.php?utm_medium=referral&amp;utm_campaign=yahoo_syndication",
+          "published": "2026-10-29T05:00:00Z"
         },
         {
-          "title": "Shaquille O\u2019Neal reveals shocking details to Ernie Johnson after his sudden retirement from \u2018Inside the NBA\u2019",
-          "source": "New York Post",
-          "link": "https://nypost.com/2026/10/28/sports/shaquille-oneal-ernie-johnson-sudden-retirement-inside-nba/?utm_source=yahoo&amp;utm_campaign=nypost&amp;utm_medium=referral",
-          "published": "2026-10-29T01:34:43Z"
+          "title": "Aztecs close exhibition slate, get full team involved to run past Long Beach State",
+          "source": "Thesportingtribune.com",
+          "link": "https://www.thesportingtribune.com/2026/10/28/2627-sdsu-mbb-lbst-ex-6-in-double-figures-davis-harrington-gladden-starting-guard-combo",
+          "published": "2026-10-29T04:51:34Z"
         },
         {
-          "title": "Shaquille O\u2019Neal reveals shocking details to Ernie Johnson after his sudden retirement from \u2018Inside the NBA\u2019",
-          "source": "New York Post",
-          "link": "https://nypost.com/2026/10/28/sports/shaquille-oneal-ernie-johnson-sudden-retirement-inside-nba/",
-          "published": "2026-10-29T01:34:43Z"
+          "title": "\u2018I want to know\u2026\u2019 \u2013 Why Stephen A. Smith would \u2018spy\u2019 on LeBron James",
+          "source": "HITC - Football, Gaming, Movies, TV, Music",
+          "link": "https://www.hitc.com/i-want-to-know-why-stephen-a-smith-would-spy-on-lebron-james/",
+          "published": "2026-10-29T04:48:04Z"
         }
       ]
     },
@@ -1461,47 +1023,47 @@
       "away_team": "Los Angeles Clippers",
       "home_abbr": "MIN",
       "away_abbr": "LAC",
-      "home_ml": "-250",
-      "away_ml": "+205",
-      "home_ml_raw": -250,
-      "away_ml_raw": 205,
-      "home_prob": 68.5,
-      "away_prob": 31.5,
+      "home_ml": "-265",
+      "away_ml": "+215",
+      "home_ml_raw": -265,
+      "away_ml_raw": 215,
+      "home_prob": 69.6,
+      "away_prob": 30.4,
       "spread": "MIN -7.5",
       "favorite": "Minnesota Timberwolves",
       "pick": "Minnesota Timberwolves",
       "pick_abbr": "MIN",
-      "moneyline": "-250",
-      "win_probability": 68.5,
+      "moneyline": "-265",
+      "win_probability": 69.6,
       "confidence": "MEDIUM",
       "confidence_stars": "\u2605\u2605\u2606",
       "commence_time": "2026-10-31T00:10:00Z",
       "line_movement": {
         "home": {
           "direction": "shorter",
-          "points_moved": 20,
+          "points_moved": 15,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM -250 \u2190 -230",
-          "old_ml": "-230",
-          "new_ml": "-250"
+          "label": "\ud83d\udd25 STEAM -265 \u2190 -250",
+          "old_ml": "-250",
+          "new_ml": "-265"
         },
         "away": {
           "direction": "longer",
-          "points_moved": 15,
+          "points_moved": 10,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM +205 \u2190 +190",
-          "old_ml": "+190",
-          "new_ml": "+205"
+          "label": "\ud83d\udd25 STEAM +215 \u2190 +205",
+          "old_ml": "+205",
+          "new_ml": "+215"
         },
         "pick": {
           "direction": "shorter",
-          "points_moved": 20,
+          "points_moved": 15,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM -250 \u2190 -230",
-          "old_ml": "-230",
-          "new_ml": "-250"
+          "label": "\ud83d\udd25 STEAM -265 \u2190 -250",
+          "old_ml": "-250",
+          "new_ml": "-265"
         },
-        "snapshot_time": "October 29, 2026 at 05:18 PM UTC"
+        "snapshot_time": "October 30, 2026 at 01:36 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -1565,9 +1127,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "Minnesota Timberwolves hold a 68.5% edge.",
+        "trend": "Minnesota Timberwolves hold a 69.6% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -230 to -250 (20pt move) \u2014 heavy professional action on Minnesota Timberwolves.",
+        "steam": "Line steamed from -250 to -265 (15pt move) \u2014 heavy professional action on Minnesota Timberwolves.",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -1581,22 +1143,22 @@
       },
       "news": [
         {
-          "title": "AJ Dybantsa starts pro career with alley-oop dunk in aggressive, impressive NBA debut",
-          "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/nba/breaking-news/article/aj-dybantsa-starts-pro-career-with-alley-oop-dunk-in-aggressive-impressive-nba-debut-013603697.html",
-          "published": "2026-10-29T01:36:03Z"
+          "title": "Bay Area sports calendar, Oct. 29-30",
+          "source": "San Francisco Chronicle",
+          "link": "https://www.sfchronicle.com/sports/article/sportscal-22495805.php?utm_medium=referral&amp;utm_campaign=yahoo_syndication",
+          "published": "2026-10-29T05:00:00Z"
         },
         {
-          "title": "Shaquille O\u2019Neal reveals shocking details to Ernie Johnson after his sudden retirement from \u2018Inside the NBA\u2019",
-          "source": "New York Post",
-          "link": "https://nypost.com/2026/10/28/sports/shaquille-oneal-ernie-johnson-sudden-retirement-inside-nba/?utm_source=yahoo&amp;utm_campaign=nypost&amp;utm_medium=referral",
-          "published": "2026-10-29T01:34:43Z"
+          "title": "Aztecs close exhibition slate, get full team involved to run past Long Beach State",
+          "source": "Thesportingtribune.com",
+          "link": "https://www.thesportingtribune.com/2026/10/28/2627-sdsu-mbb-lbst-ex-6-in-double-figures-davis-harrington-gladden-starting-guard-combo",
+          "published": "2026-10-29T04:51:34Z"
         },
         {
-          "title": "Shaquille O\u2019Neal reveals shocking details to Ernie Johnson after his sudden retirement from \u2018Inside the NBA\u2019",
-          "source": "New York Post",
-          "link": "https://nypost.com/2026/10/28/sports/shaquille-oneal-ernie-johnson-sudden-retirement-inside-nba/",
-          "published": "2026-10-29T01:34:43Z"
+          "title": "\u2018I want to know\u2026\u2019 \u2013 Why Stephen A. Smith would \u2018spy\u2019 on LeBron James",
+          "source": "HITC - Football, Gaming, Movies, TV, Music",
+          "link": "https://www.hitc.com/i-want-to-know-why-stephen-a-smith-would-spy-on-lebron-james/",
+          "published": "2026-10-29T04:48:04Z"
         }
       ]
     },
@@ -1646,7 +1208,7 @@
           "old_ml": "-170",
           "new_ml": "-170"
         },
-        "snapshot_time": "October 29, 2026 at 05:18 PM UTC"
+        "snapshot_time": "October 30, 2026 at 01:36 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -1726,22 +1288,22 @@
       },
       "news": [
         {
-          "title": "AJ Dybantsa starts pro career with alley-oop dunk in aggressive, impressive NBA debut",
-          "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/nba/breaking-news/article/aj-dybantsa-starts-pro-career-with-alley-oop-dunk-in-aggressive-impressive-nba-debut-013603697.html",
-          "published": "2026-10-29T01:36:03Z"
+          "title": "Bay Area sports calendar, Oct. 29-30",
+          "source": "San Francisco Chronicle",
+          "link": "https://www.sfchronicle.com/sports/article/sportscal-22495805.php?utm_medium=referral&amp;utm_campaign=yahoo_syndication",
+          "published": "2026-10-29T05:00:00Z"
         },
         {
-          "title": "Shaquille O\u2019Neal reveals shocking details to Ernie Johnson after his sudden retirement from \u2018Inside the NBA\u2019",
-          "source": "New York Post",
-          "link": "https://nypost.com/2026/10/28/sports/shaquille-oneal-ernie-johnson-sudden-retirement-inside-nba/?utm_source=yahoo&amp;utm_campaign=nypost&amp;utm_medium=referral",
-          "published": "2026-10-29T01:34:43Z"
+          "title": "Aztecs close exhibition slate, get full team involved to run past Long Beach State",
+          "source": "Thesportingtribune.com",
+          "link": "https://www.thesportingtribune.com/2026/10/28/2627-sdsu-mbb-lbst-ex-6-in-double-figures-davis-harrington-gladden-starting-guard-combo",
+          "published": "2026-10-29T04:51:34Z"
         },
         {
-          "title": "Shaquille O\u2019Neal reveals shocking details to Ernie Johnson after his sudden retirement from \u2018Inside the NBA\u2019",
-          "source": "New York Post",
-          "link": "https://nypost.com/2026/10/28/sports/shaquille-oneal-ernie-johnson-sudden-retirement-inside-nba/",
-          "published": "2026-10-29T01:34:43Z"
+          "title": "\u2018I want to know\u2026\u2019 \u2013 Why Stephen A. Smith would \u2018spy\u2019 on LeBron James",
+          "source": "HITC - Football, Gaming, Movies, TV, Music",
+          "link": "https://www.hitc.com/i-want-to-know-why-stephen-a-smith-would-spy-on-lebron-james/",
+          "published": "2026-10-29T04:48:04Z"
         }
       ]
     },
@@ -1768,30 +1330,30 @@
       "commence_time": "2026-10-31T02:10:00Z",
       "line_movement": {
         "home": {
-          "direction": "longer",
-          "points_moved": 5,
+          "direction": "none",
+          "points_moved": 0,
           "steam": false,
-          "label": "\ud83d\udd34 +110 \u2190 +105",
-          "old_ml": "+105",
+          "label": "No movement",
+          "old_ml": "+110",
           "new_ml": "+110"
         },
         "away": {
-          "direction": "shorter",
-          "points_moved": 5,
+          "direction": "none",
+          "points_moved": 0,
           "steam": false,
-          "label": "\ud83d\udfe2 -130 \u2190 -125",
-          "old_ml": "-125",
+          "label": "No movement",
+          "old_ml": "-130",
           "new_ml": "-130"
         },
         "pick": {
-          "direction": "shorter",
-          "points_moved": 5,
+          "direction": "none",
+          "points_moved": 0,
           "steam": false,
-          "label": "\ud83d\udfe2 -130 \u2190 -125",
-          "old_ml": "-125",
+          "label": "No movement",
+          "old_ml": "-130",
           "new_ml": "-130"
         },
-        "snapshot_time": "October 29, 2026 at 05:18 PM UTC"
+        "snapshot_time": "October 30, 2026 at 01:36 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -1857,7 +1419,7 @@
       "briefing": {
         "trend": "Los Angeles Lakers hold a 54.3% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line moved -125\u2192-130 (5pts). Pending \u2014 check closer to tip-off",
+        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -1871,22 +1433,22 @@
       },
       "news": [
         {
-          "title": "AJ Dybantsa starts pro career with alley-oop dunk in aggressive, impressive NBA debut",
-          "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/nba/breaking-news/article/aj-dybantsa-starts-pro-career-with-alley-oop-dunk-in-aggressive-impressive-nba-debut-013603697.html",
-          "published": "2026-10-29T01:36:03Z"
+          "title": "Bay Area sports calendar, Oct. 29-30",
+          "source": "San Francisco Chronicle",
+          "link": "https://www.sfchronicle.com/sports/article/sportscal-22495805.php?utm_medium=referral&amp;utm_campaign=yahoo_syndication",
+          "published": "2026-10-29T05:00:00Z"
         },
         {
-          "title": "Shaquille O\u2019Neal reveals shocking details to Ernie Johnson after his sudden retirement from \u2018Inside the NBA\u2019",
-          "source": "New York Post",
-          "link": "https://nypost.com/2026/10/28/sports/shaquille-oneal-ernie-johnson-sudden-retirement-inside-nba/?utm_source=yahoo&amp;utm_campaign=nypost&amp;utm_medium=referral",
-          "published": "2026-10-29T01:34:43Z"
+          "title": "Aztecs close exhibition slate, get full team involved to run past Long Beach State",
+          "source": "Thesportingtribune.com",
+          "link": "https://www.thesportingtribune.com/2026/10/28/2627-sdsu-mbb-lbst-ex-6-in-double-figures-davis-harrington-gladden-starting-guard-combo",
+          "published": "2026-10-29T04:51:34Z"
         },
         {
-          "title": "Shaquille O\u2019Neal reveals shocking details to Ernie Johnson after his sudden retirement from \u2018Inside the NBA\u2019",
-          "source": "New York Post",
-          "link": "https://nypost.com/2026/10/28/sports/shaquille-oneal-ernie-johnson-sudden-retirement-inside-nba/",
-          "published": "2026-10-29T01:34:43Z"
+          "title": "\u2018I want to know\u2026\u2019 \u2013 Why Stephen A. Smith would \u2018spy\u2019 on LeBron James",
+          "source": "HITC - Football, Gaming, Movies, TV, Music",
+          "link": "https://www.hitc.com/i-want-to-know-why-stephen-a-smith-would-spy-on-lebron-james/",
+          "published": "2026-10-29T04:48:04Z"
         }
       ]
     },
@@ -1936,7 +1498,7 @@
           "old_ml": "-115",
           "new_ml": "-115"
         },
-        "snapshot_time": "October 29, 2026 at 05:18 PM UTC"
+        "snapshot_time": "October 30, 2026 at 01:36 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -2016,22 +1578,22 @@
       },
       "news": [
         {
-          "title": "AJ Dybantsa starts pro career with alley-oop dunk in aggressive, impressive NBA debut",
-          "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/nba/breaking-news/article/aj-dybantsa-starts-pro-career-with-alley-oop-dunk-in-aggressive-impressive-nba-debut-013603697.html",
-          "published": "2026-10-29T01:36:03Z"
+          "title": "Bay Area sports calendar, Oct. 29-30",
+          "source": "San Francisco Chronicle",
+          "link": "https://www.sfchronicle.com/sports/article/sportscal-22495805.php?utm_medium=referral&amp;utm_campaign=yahoo_syndication",
+          "published": "2026-10-29T05:00:00Z"
         },
         {
-          "title": "Shaquille O\u2019Neal reveals shocking details to Ernie Johnson after his sudden retirement from \u2018Inside the NBA\u2019",
-          "source": "New York Post",
-          "link": "https://nypost.com/2026/10/28/sports/shaquille-oneal-ernie-johnson-sudden-retirement-inside-nba/?utm_source=yahoo&amp;utm_campaign=nypost&amp;utm_medium=referral",
-          "published": "2026-10-29T01:34:43Z"
+          "title": "Aztecs close exhibition slate, get full team involved to run past Long Beach State",
+          "source": "Thesportingtribune.com",
+          "link": "https://www.thesportingtribune.com/2026/10/28/2627-sdsu-mbb-lbst-ex-6-in-double-figures-davis-harrington-gladden-starting-guard-combo",
+          "published": "2026-10-29T04:51:34Z"
         },
         {
-          "title": "Shaquille O\u2019Neal reveals shocking details to Ernie Johnson after his sudden retirement from \u2018Inside the NBA\u2019",
-          "source": "New York Post",
-          "link": "https://nypost.com/2026/10/28/sports/shaquille-oneal-ernie-johnson-sudden-retirement-inside-nba/",
-          "published": "2026-10-29T01:34:43Z"
+          "title": "\u2018I want to know\u2026\u2019 \u2013 Why Stephen A. Smith would \u2018spy\u2019 on LeBron James",
+          "source": "HITC - Football, Gaming, Movies, TV, Music",
+          "link": "https://www.hitc.com/i-want-to-know-why-stephen-a-smith-would-spy-on-lebron-james/",
+          "published": "2026-10-29T04:48:04Z"
         }
       ]
     },
@@ -2081,7 +1643,7 @@
           "old_ml": "-218",
           "new_ml": "-218"
         },
-        "snapshot_time": "October 29, 2026 at 05:18 PM UTC"
+        "snapshot_time": "October 30, 2026 at 01:36 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -2161,22 +1723,22 @@
       },
       "news": [
         {
-          "title": "AJ Dybantsa starts pro career with alley-oop dunk in aggressive, impressive NBA debut",
-          "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/nba/breaking-news/article/aj-dybantsa-starts-pro-career-with-alley-oop-dunk-in-aggressive-impressive-nba-debut-013603697.html",
-          "published": "2026-10-29T01:36:03Z"
+          "title": "Bay Area sports calendar, Oct. 29-30",
+          "source": "San Francisco Chronicle",
+          "link": "https://www.sfchronicle.com/sports/article/sportscal-22495805.php?utm_medium=referral&amp;utm_campaign=yahoo_syndication",
+          "published": "2026-10-29T05:00:00Z"
         },
         {
-          "title": "Shaquille O\u2019Neal reveals shocking details to Ernie Johnson after his sudden retirement from \u2018Inside the NBA\u2019",
-          "source": "New York Post",
-          "link": "https://nypost.com/2026/10/28/sports/shaquille-oneal-ernie-johnson-sudden-retirement-inside-nba/?utm_source=yahoo&amp;utm_campaign=nypost&amp;utm_medium=referral",
-          "published": "2026-10-29T01:34:43Z"
+          "title": "Aztecs close exhibition slate, get full team involved to run past Long Beach State",
+          "source": "Thesportingtribune.com",
+          "link": "https://www.thesportingtribune.com/2026/10/28/2627-sdsu-mbb-lbst-ex-6-in-double-figures-davis-harrington-gladden-starting-guard-combo",
+          "published": "2026-10-29T04:51:34Z"
         },
         {
-          "title": "Shaquille O\u2019Neal reveals shocking details to Ernie Johnson after his sudden retirement from \u2018Inside the NBA\u2019",
-          "source": "New York Post",
-          "link": "https://nypost.com/2026/10/28/sports/shaquille-oneal-ernie-johnson-sudden-retirement-inside-nba/",
-          "published": "2026-10-29T01:34:43Z"
+          "title": "\u2018I want to know\u2026\u2019 \u2013 Why Stephen A. Smith would \u2018spy\u2019 on LeBron James",
+          "source": "HITC - Football, Gaming, Movies, TV, Music",
+          "link": "https://www.hitc.com/i-want-to-know-why-stephen-a-smith-would-spy-on-lebron-james/",
+          "published": "2026-10-29T04:48:04Z"
         }
       ]
     },
@@ -2226,7 +1788,7 @@
           "old_ml": "-115",
           "new_ml": "-115"
         },
-        "snapshot_time": "October 29, 2026 at 05:18 PM UTC"
+        "snapshot_time": "October 30, 2026 at 01:36 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -2306,22 +1868,22 @@
       },
       "news": [
         {
-          "title": "AJ Dybantsa starts pro career with alley-oop dunk in aggressive, impressive NBA debut",
-          "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/nba/breaking-news/article/aj-dybantsa-starts-pro-career-with-alley-oop-dunk-in-aggressive-impressive-nba-debut-013603697.html",
-          "published": "2026-10-29T01:36:03Z"
+          "title": "Bay Area sports calendar, Oct. 29-30",
+          "source": "San Francisco Chronicle",
+          "link": "https://www.sfchronicle.com/sports/article/sportscal-22495805.php?utm_medium=referral&amp;utm_campaign=yahoo_syndication",
+          "published": "2026-10-29T05:00:00Z"
         },
         {
-          "title": "Shaquille O\u2019Neal reveals shocking details to Ernie Johnson after his sudden retirement from \u2018Inside the NBA\u2019",
-          "source": "New York Post",
-          "link": "https://nypost.com/2026/10/28/sports/shaquille-oneal-ernie-johnson-sudden-retirement-inside-nba/?utm_source=yahoo&amp;utm_campaign=nypost&amp;utm_medium=referral",
-          "published": "2026-10-29T01:34:43Z"
+          "title": "Aztecs close exhibition slate, get full team involved to run past Long Beach State",
+          "source": "Thesportingtribune.com",
+          "link": "https://www.thesportingtribune.com/2026/10/28/2627-sdsu-mbb-lbst-ex-6-in-double-figures-davis-harrington-gladden-starting-guard-combo",
+          "published": "2026-10-29T04:51:34Z"
         },
         {
-          "title": "Shaquille O\u2019Neal reveals shocking details to Ernie Johnson after his sudden retirement from \u2018Inside the NBA\u2019",
-          "source": "New York Post",
-          "link": "https://nypost.com/2026/10/28/sports/shaquille-oneal-ernie-johnson-sudden-retirement-inside-nba/",
-          "published": "2026-10-29T01:34:43Z"
+          "title": "\u2018I want to know\u2026\u2019 \u2013 Why Stephen A. Smith would \u2018spy\u2019 on LeBron James",
+          "source": "HITC - Football, Gaming, Movies, TV, Music",
+          "link": "https://www.hitc.com/i-want-to-know-why-stephen-a-smith-would-spy-on-lebron-james/",
+          "published": "2026-10-29T04:48:04Z"
         }
       ]
     },
@@ -2371,7 +1933,7 @@
           "old_ml": "-170",
           "new_ml": "-170"
         },
-        "snapshot_time": "October 29, 2026 at 05:18 PM UTC"
+        "snapshot_time": "October 30, 2026 at 01:36 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -2451,22 +2013,22 @@
       },
       "news": [
         {
-          "title": "AJ Dybantsa starts pro career with alley-oop dunk in aggressive, impressive NBA debut",
-          "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/nba/breaking-news/article/aj-dybantsa-starts-pro-career-with-alley-oop-dunk-in-aggressive-impressive-nba-debut-013603697.html",
-          "published": "2026-10-29T01:36:03Z"
+          "title": "Bay Area sports calendar, Oct. 29-30",
+          "source": "San Francisco Chronicle",
+          "link": "https://www.sfchronicle.com/sports/article/sportscal-22495805.php?utm_medium=referral&amp;utm_campaign=yahoo_syndication",
+          "published": "2026-10-29T05:00:00Z"
         },
         {
-          "title": "Shaquille O\u2019Neal reveals shocking details to Ernie Johnson after his sudden retirement from \u2018Inside the NBA\u2019",
-          "source": "New York Post",
-          "link": "https://nypost.com/2026/10/28/sports/shaquille-oneal-ernie-johnson-sudden-retirement-inside-nba/?utm_source=yahoo&amp;utm_campaign=nypost&amp;utm_medium=referral",
-          "published": "2026-10-29T01:34:43Z"
+          "title": "Aztecs close exhibition slate, get full team involved to run past Long Beach State",
+          "source": "Thesportingtribune.com",
+          "link": "https://www.thesportingtribune.com/2026/10/28/2627-sdsu-mbb-lbst-ex-6-in-double-figures-davis-harrington-gladden-starting-guard-combo",
+          "published": "2026-10-29T04:51:34Z"
         },
         {
-          "title": "Shaquille O\u2019Neal reveals shocking details to Ernie Johnson after his sudden retirement from \u2018Inside the NBA\u2019",
-          "source": "New York Post",
-          "link": "https://nypost.com/2026/10/28/sports/shaquille-oneal-ernie-johnson-sudden-retirement-inside-nba/",
-          "published": "2026-10-29T01:34:43Z"
+          "title": "\u2018I want to know\u2026\u2019 \u2013 Why Stephen A. Smith would \u2018spy\u2019 on LeBron James",
+          "source": "HITC - Football, Gaming, Movies, TV, Music",
+          "link": "https://www.hitc.com/i-want-to-know-why-stephen-a-smith-would-spy-on-lebron-james/",
+          "published": "2026-10-29T04:48:04Z"
         }
       ]
     },
@@ -2516,7 +2078,7 @@
           "old_ml": "-135",
           "new_ml": "-135"
         },
-        "snapshot_time": "October 29, 2026 at 05:18 PM UTC"
+        "snapshot_time": "October 30, 2026 at 01:36 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -2596,42 +2158,42 @@
       },
       "news": [
         {
-          "title": "AJ Dybantsa starts pro career with alley-oop dunk in aggressive, impressive NBA debut",
-          "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/nba/breaking-news/article/aj-dybantsa-starts-pro-career-with-alley-oop-dunk-in-aggressive-impressive-nba-debut-013603697.html",
-          "published": "2026-10-29T01:36:03Z"
+          "title": "Bay Area sports calendar, Oct. 29-30",
+          "source": "San Francisco Chronicle",
+          "link": "https://www.sfchronicle.com/sports/article/sportscal-22495805.php?utm_medium=referral&amp;utm_campaign=yahoo_syndication",
+          "published": "2026-10-29T05:00:00Z"
         },
         {
-          "title": "Shaquille O\u2019Neal reveals shocking details to Ernie Johnson after his sudden retirement from \u2018Inside the NBA\u2019",
-          "source": "New York Post",
-          "link": "https://nypost.com/2026/10/28/sports/shaquille-oneal-ernie-johnson-sudden-retirement-inside-nba/?utm_source=yahoo&amp;utm_campaign=nypost&amp;utm_medium=referral",
-          "published": "2026-10-29T01:34:43Z"
+          "title": "Aztecs close exhibition slate, get full team involved to run past Long Beach State",
+          "source": "Thesportingtribune.com",
+          "link": "https://www.thesportingtribune.com/2026/10/28/2627-sdsu-mbb-lbst-ex-6-in-double-figures-davis-harrington-gladden-starting-guard-combo",
+          "published": "2026-10-29T04:51:34Z"
         },
         {
-          "title": "Shaquille O\u2019Neal reveals shocking details to Ernie Johnson after his sudden retirement from \u2018Inside the NBA\u2019",
-          "source": "New York Post",
-          "link": "https://nypost.com/2026/10/28/sports/shaquille-oneal-ernie-johnson-sudden-retirement-inside-nba/",
-          "published": "2026-10-29T01:34:43Z"
+          "title": "\u2018I want to know\u2026\u2019 \u2013 Why Stephen A. Smith would \u2018spy\u2019 on LeBron James",
+          "source": "HITC - Football, Gaming, Movies, TV, Music",
+          "link": "https://www.hitc.com/i-want-to-know-why-stephen-a-smith-would-spy-on-lebron-james/",
+          "published": "2026-10-29T04:48:04Z"
         }
       ]
     }
   ],
   "track_record": {
     "LOW": {
-      "wins": 7,
+      "wins": 8,
       "losses": 11,
-      "total": 18,
-      "win_pct": 38.9,
-      "roi": -28.6,
-      "profit": -515.28
+      "total": 19,
+      "win_pct": 42.1,
+      "roi": -22.3,
+      "profit": -424.37
     },
     "MEDIUM": {
-      "wins": 22,
-      "losses": 11,
-      "total": 33,
-      "win_pct": 66.7,
-      "roi": 0.3,
-      "profit": 9.98
+      "wins": 23,
+      "losses": 12,
+      "total": 35,
+      "win_pct": 65.7,
+      "roi": -1.1,
+      "profit": -39.51
     },
     "HIGH": {
       "wins": 14,
@@ -2642,20 +2204,20 @@
       "profit": -10.38
     },
     "overall_7d": {
-      "wins": 24,
-      "losses": 13,
-      "total": 37,
-      "win_pct": 64.9,
-      "roi": -10.7,
-      "profit": -396.51
+      "wins": 26,
+      "losses": 14,
+      "total": 40,
+      "win_pct": 65.0,
+      "roi": -8.9,
+      "profit": -355.09
     },
     "overall_30d": {
-      "wins": 31,
-      "losses": 18,
-      "total": 49,
-      "win_pct": 63.3,
-      "roi": -9.3,
-      "profit": -454.88
+      "wins": 33,
+      "losses": 19,
+      "total": 52,
+      "win_pct": 63.5,
+      "roi": -8.0,
+      "profit": -413.46
     }
   }
 }

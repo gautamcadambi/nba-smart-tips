@@ -1448,9 +1448,11 @@
       "win_probability": 63.7,
       "commence_time": "2026-10-30T00:10:00Z",
       "date": "2026-10-29T01:35:43.226779+00:00",
-      "graded": false,
-      "result": null,
-      "profit": null
+      "graded": true,
+      "result": "WIN",
+      "profit": 50.51,
+      "home_score": 132,
+      "away_score": 120
     },
     {
       "game": "Memphis Grizzlies @ Portland Trail Blazers",
@@ -1462,9 +1464,11 @@
       "win_probability": 69.1,
       "commence_time": "2026-10-30T02:10:00Z",
       "date": "2026-10-29T01:35:43.226779+00:00",
-      "graded": false,
-      "result": null,
-      "profit": null
+      "graded": true,
+      "result": "LOSS",
+      "profit": -100,
+      "home_score": 103,
+      "away_score": 124
     },
     {
       "game": "Cleveland Cavaliers @ Atlanta Hawks",
@@ -1476,27 +1480,29 @@
       "win_probability": 50.0,
       "commence_time": "2026-10-30T00:10:00Z",
       "date": "2026-10-29T05:02:17.881483+00:00",
-      "graded": false,
-      "result": null,
-      "profit": null
+      "graded": true,
+      "result": "WIN",
+      "profit": 90.91,
+      "home_score": 114,
+      "away_score": 111
     }
   ],
   "summary": {
     "LOW": {
-      "wins": 7,
+      "wins": 8,
       "losses": 11,
-      "total": 18,
-      "win_pct": 38.9,
-      "roi": -28.6,
-      "profit": -515.28
+      "total": 19,
+      "win_pct": 42.1,
+      "roi": -22.3,
+      "profit": -424.37
     },
     "MEDIUM": {
-      "wins": 22,
-      "losses": 11,
-      "total": 33,
-      "win_pct": 66.7,
-      "roi": 0.3,
-      "profit": 9.98
+      "wins": 23,
+      "losses": 12,
+      "total": 35,
+      "win_pct": 65.7,
+      "roi": -1.1,
+      "profit": -39.51
     },
     "HIGH": {
       "wins": 14,
@@ -1507,21 +1513,21 @@
       "profit": -10.38
     },
     "overall_7d": {
-      "wins": 24,
-      "losses": 13,
-      "total": 37,
-      "win_pct": 64.9,
-      "roi": -10.7,
-      "profit": -396.51
+      "wins": 26,
+      "losses": 14,
+      "total": 40,
+      "win_pct": 65.0,
+      "roi": -8.9,
+      "profit": -355.09
     },
     "overall_30d": {
-      "wins": 31,
-      "losses": 18,
-      "total": 49,
-      "win_pct": 63.3,
-      "roi": -9.3,
-      "profit": -454.88
+      "wins": 33,
+      "losses": 19,
+      "total": 52,
+      "win_pct": 63.5,
+      "roi": -8.0,
+      "profit": -413.46
     }
   },
-  "last_graded": "2026-10-29T11:35:43.055791+00:00"
+  "last_graded": "2026-10-30T05:01:07.875881+00:00"
 }
