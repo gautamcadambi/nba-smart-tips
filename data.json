@@ -1,5 +1,5 @@
 {
-  "last_updated": "October 30, 2026 at 05:01 AM UTC",
+  "last_updated": "October 30, 2026 at 11:28 AM UTC",
   "total_games": 15,
   "games": [
     {
@@ -8,47 +8,47 @@
       "away_team": "Charlotte Hornets",
       "home_abbr": "WAS",
       "away_abbr": "CHA",
-      "home_ml": "-115",
-      "away_ml": "-105",
-      "home_ml_raw": -115,
-      "away_ml_raw": -105,
-      "home_prob": 51.1,
-      "away_prob": 48.9,
+      "home_ml": "-122",
+      "away_ml": "+102",
+      "home_ml_raw": -122,
+      "away_ml_raw": 102,
+      "home_prob": 52.6,
+      "away_prob": 47.4,
       "spread": "WAS -1.5",
       "favorite": "Washington Wizards",
       "pick": "Washington Wizards",
       "pick_abbr": "WAS",
-      "moneyline": "-115",
-      "win_probability": 51.1,
+      "moneyline": "-122",
+      "win_probability": 52.6,
       "confidence": "LOW",
       "confidence_stars": "\u2605\u2606\u2606",
       "commence_time": "2026-10-30T23:10:00Z",
       "line_movement": {
         "home": {
-          "direction": "none",
-          "points_moved": 0,
+          "direction": "shorter",
+          "points_moved": 7,
           "steam": false,
-          "label": "No movement",
+          "label": "\ud83d\udfe2 -122 \u2190 -115",
           "old_ml": "-115",
-          "new_ml": "-115"
+          "new_ml": "-122"
         },
         "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "longer",
+          "points_moved": 207,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM +102 \u2190 -105",
           "old_ml": "-105",
-          "new_ml": "-105"
+          "new_ml": "+102"
         },
         "pick": {
-          "direction": "none",
-          "points_moved": 0,
+          "direction": "shorter",
+          "points_moved": 7,
           "steam": false,
-          "label": "No movement",
+          "label": "\ud83d\udfe2 -122 \u2190 -115",
           "old_ml": "-115",
-          "new_ml": "-115"
+          "new_ml": "-122"
         },
-        "snapshot_time": "October 30, 2026 at 01:36 AM UTC"
+        "snapshot_time": "October 30, 2026 at 05:01 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -75,7 +75,7 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udcca 2.2pt probability edge"
+        "\ud83d\udd25 Sharp steam detected"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -112,9 +112,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "Washington Wizards hold a 51.1% edge.",
+        "trend": "Washington Wizards hold a 52.6% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "steam": "Line moved -115\u2192-122 (7pts). Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -128,22 +128,22 @@
       },
       "news": [
         {
-          "title": "Bay Area sports calendar, Oct. 29-30",
-          "source": "San Francisco Chronicle",
-          "link": "https://www.sfchronicle.com/sports/article/sportscal-22495805.php?utm_medium=referral&amp;utm_campaign=yahoo_syndication",
-          "published": "2026-10-29T05:00:00Z"
+          "title": "From No. 10-6, our 2026-27 Ohio State men's basketball preseason power rankings",
+          "source": "Fci Academy",
+          "link": "https://www.dispatch.com/story/sports/college/basketball/2026/10/29/ohio-state-mens-basketball-player-power-rankings-from-nos-10-6/92442014007/",
+          "published": "2026-10-29T11:26:35Z"
         },
         {
-          "title": "Aztecs close exhibition slate, get full team involved to run past Long Beach State",
-          "source": "Thesportingtribune.com",
-          "link": "https://www.thesportingtribune.com/2026/10/28/2627-sdsu-mbb-lbst-ex-6-in-double-figures-davis-harrington-gladden-starting-guard-combo",
-          "published": "2026-10-29T04:51:34Z"
+          "title": "Ernie Johnson\u2019s Decision to Retire Sparks Emotional Tributes From \u2018Inside the NBA\u2019 Costars",
+          "source": "TVInsider",
+          "link": "https://www.tvinsider.com/1300540/ernie-johnson-retiring-inside-the-nba-tribute-video/",
+          "published": "2026-10-29T11:24:20Z"
         },
         {
-          "title": "\u2018I want to know\u2026\u2019 \u2013 Why Stephen A. Smith would \u2018spy\u2019 on LeBron James",
-          "source": "HITC - Football, Gaming, Movies, TV, Music",
-          "link": "https://www.hitc.com/i-want-to-know-why-stephen-a-smith-would-spy-on-lebron-james/",
-          "published": "2026-10-29T04:48:04Z"
+          "title": "Charles Barkley Emotional Reaction Says It All About Ernie Johnson\u2019s Exit",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/charles-barkley-emotional-reaction-says-it-all-about-ernie-johnsons-exit/",
+          "published": "2026-10-29T11:22:24Z"
         }
       ]
     },
@@ -153,47 +153,47 @@
       "away_team": "Chicago Bulls",
       "home_abbr": "BOS",
       "away_abbr": "CHI",
-      "home_ml": "-850",
-      "away_ml": "+575",
-      "home_ml_raw": -850,
-      "away_ml_raw": 575,
-      "home_prob": 85.8,
-      "away_prob": 14.2,
+      "home_ml": "-900",
+      "away_ml": "+600",
+      "home_ml_raw": -900,
+      "away_ml_raw": 600,
+      "home_prob": 86.3,
+      "away_prob": 13.7,
       "spread": "BOS -15.5",
       "favorite": "Boston Celtics",
       "pick": "Boston Celtics",
       "pick_abbr": "BOS",
-      "moneyline": "-850",
-      "win_probability": 85.8,
+      "moneyline": "-900",
+      "win_probability": 86.3,
       "confidence": "HIGH",
       "confidence_stars": "\u2605\u2605\u2605",
       "commence_time": "2026-10-30T23:40:00Z",
       "line_movement": {
         "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "shorter",
+          "points_moved": 50,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -900 \u2190 -850",
           "old_ml": "-850",
-          "new_ml": "-850"
+          "new_ml": "-900"
         },
         "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "longer",
+          "points_moved": 25,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM +600 \u2190 +575",
           "old_ml": "+575",
-          "new_ml": "+575"
+          "new_ml": "+600"
         },
         "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "shorter",
+          "points_moved": 50,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -900 \u2190 -850",
           "old_ml": "-850",
-          "new_ml": "-850"
+          "new_ml": "-900"
         },
-        "snapshot_time": "October 30, 2026 at 01:36 AM UTC"
+        "snapshot_time": "October 30, 2026 at 05:01 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -220,7 +220,7 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udcca 71.6pt probability edge"
+        "\ud83d\udd25 Sharp steam detected"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -257,9 +257,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "Boston Celtics hold a 85.8% edge.",
+        "trend": "Boston Celtics hold a 86.3% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "steam": "Line steamed from -850 to -900 (50pt move) \u2014 heavy professional action on Boston Celtics.",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -273,22 +273,22 @@
       },
       "news": [
         {
-          "title": "Bay Area sports calendar, Oct. 29-30",
-          "source": "San Francisco Chronicle",
-          "link": "https://www.sfchronicle.com/sports/article/sportscal-22495805.php?utm_medium=referral&amp;utm_campaign=yahoo_syndication",
-          "published": "2026-10-29T05:00:00Z"
+          "title": "From No. 10-6, our 2026-27 Ohio State men's basketball preseason power rankings",
+          "source": "Fci Academy",
+          "link": "https://www.dispatch.com/story/sports/college/basketball/2026/10/29/ohio-state-mens-basketball-player-power-rankings-from-nos-10-6/92442014007/",
+          "published": "2026-10-29T11:26:35Z"
         },
         {
-          "title": "Aztecs close exhibition slate, get full team involved to run past Long Beach State",
-          "source": "Thesportingtribune.com",
-          "link": "https://www.thesportingtribune.com/2026/10/28/2627-sdsu-mbb-lbst-ex-6-in-double-figures-davis-harrington-gladden-starting-guard-combo",
-          "published": "2026-10-29T04:51:34Z"
+          "title": "Ernie Johnson\u2019s Decision to Retire Sparks Emotional Tributes From \u2018Inside the NBA\u2019 Costars",
+          "source": "TVInsider",
+          "link": "https://www.tvinsider.com/1300540/ernie-johnson-retiring-inside-the-nba-tribute-video/",
+          "published": "2026-10-29T11:24:20Z"
         },
         {
-          "title": "\u2018I want to know\u2026\u2019 \u2013 Why Stephen A. Smith would \u2018spy\u2019 on LeBron James",
-          "source": "HITC - Football, Gaming, Movies, TV, Music",
-          "link": "https://www.hitc.com/i-want-to-know-why-stephen-a-smith-would-spy-on-lebron-james/",
-          "published": "2026-10-29T04:48:04Z"
+          "title": "Charles Barkley Emotional Reaction Says It All About Ernie Johnson\u2019s Exit",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/charles-barkley-emotional-reaction-says-it-all-about-ernie-johnsons-exit/",
+          "published": "2026-10-29T11:22:24Z"
         }
       ]
     },
@@ -298,47 +298,47 @@
       "away_team": "Detroit Pistons",
       "home_abbr": "BKN",
       "away_abbr": "DET",
-      "home_ml": "+230",
-      "away_ml": "-285",
-      "home_ml_raw": 230,
-      "away_ml_raw": -285,
-      "home_prob": 29.0,
-      "away_prob": 71.0,
+      "home_ml": "+240",
+      "away_ml": "-298",
+      "home_ml_raw": 240,
+      "away_ml_raw": -298,
+      "home_prob": 28.2,
+      "away_prob": 71.8,
       "spread": "BKN +7.5",
       "favorite": "Detroit Pistons",
       "pick": "Detroit Pistons",
       "pick_abbr": "DET",
-      "moneyline": "-285",
-      "win_probability": 71.0,
+      "moneyline": "-298",
+      "win_probability": 71.8,
       "confidence": "MEDIUM",
       "confidence_stars": "\u2605\u2605\u2606",
       "commence_time": "2026-10-30T23:40:00Z",
       "line_movement": {
         "home": {
           "direction": "longer",
-          "points_moved": 20,
+          "points_moved": 10,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM +230 \u2190 +210",
-          "old_ml": "+210",
-          "new_ml": "+230"
+          "label": "\ud83d\udd25 STEAM +240 \u2190 +230",
+          "old_ml": "+230",
+          "new_ml": "+240"
         },
         "away": {
           "direction": "shorter",
-          "points_moved": 27,
+          "points_moved": 13,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM -285 \u2190 -258",
-          "old_ml": "-258",
-          "new_ml": "-285"
+          "label": "\ud83d\udd25 STEAM -298 \u2190 -285",
+          "old_ml": "-285",
+          "new_ml": "-298"
         },
         "pick": {
           "direction": "shorter",
-          "points_moved": 27,
+          "points_moved": 13,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM -285 \u2190 -258",
-          "old_ml": "-258",
-          "new_ml": "-285"
+          "label": "\ud83d\udd25 STEAM -298 \u2190 -285",
+          "old_ml": "-285",
+          "new_ml": "-298"
         },
-        "snapshot_time": "October 30, 2026 at 01:36 AM UTC"
+        "snapshot_time": "October 30, 2026 at 05:01 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -402,9 +402,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "Detroit Pistons hold a 71.0% edge.",
+        "trend": "Detroit Pistons hold a 71.8% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -258 to -285 (27pt move) \u2014 heavy professional action on Detroit Pistons.",
+        "steam": "Line steamed from -285 to -298 (13pt move) \u2014 heavy professional action on Detroit Pistons.",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -418,22 +418,22 @@
       },
       "news": [
         {
-          "title": "Bay Area sports calendar, Oct. 29-30",
-          "source": "San Francisco Chronicle",
-          "link": "https://www.sfchronicle.com/sports/article/sportscal-22495805.php?utm_medium=referral&amp;utm_campaign=yahoo_syndication",
-          "published": "2026-10-29T05:00:00Z"
+          "title": "From No. 10-6, our 2026-27 Ohio State men's basketball preseason power rankings",
+          "source": "Fci Academy",
+          "link": "https://www.dispatch.com/story/sports/college/basketball/2026/10/29/ohio-state-mens-basketball-player-power-rankings-from-nos-10-6/92442014007/",
+          "published": "2026-10-29T11:26:35Z"
         },
         {
-          "title": "Aztecs close exhibition slate, get full team involved to run past Long Beach State",
-          "source": "Thesportingtribune.com",
-          "link": "https://www.thesportingtribune.com/2026/10/28/2627-sdsu-mbb-lbst-ex-6-in-double-figures-davis-harrington-gladden-starting-guard-combo",
-          "published": "2026-10-29T04:51:34Z"
+          "title": "Ernie Johnson\u2019s Decision to Retire Sparks Emotional Tributes From \u2018Inside the NBA\u2019 Costars",
+          "source": "TVInsider",
+          "link": "https://www.tvinsider.com/1300540/ernie-johnson-retiring-inside-the-nba-tribute-video/",
+          "published": "2026-10-29T11:24:20Z"
         },
         {
-          "title": "\u2018I want to know\u2026\u2019 \u2013 Why Stephen A. Smith would \u2018spy\u2019 on LeBron James",
-          "source": "HITC - Football, Gaming, Movies, TV, Music",
-          "link": "https://www.hitc.com/i-want-to-know-why-stephen-a-smith-would-spy-on-lebron-james/",
-          "published": "2026-10-29T04:48:04Z"
+          "title": "Charles Barkley Emotional Reaction Says It All About Ernie Johnson\u2019s Exit",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/charles-barkley-emotional-reaction-says-it-all-about-ernie-johnsons-exit/",
+          "published": "2026-10-29T11:22:24Z"
         }
       ]
     },
@@ -483,7 +483,7 @@
           "old_ml": "-122",
           "new_ml": "-122"
         },
-        "snapshot_time": "October 30, 2026 at 01:36 AM UTC"
+        "snapshot_time": "October 30, 2026 at 05:01 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -563,22 +563,22 @@
       },
       "news": [
         {
-          "title": "Bay Area sports calendar, Oct. 29-30",
-          "source": "San Francisco Chronicle",
-          "link": "https://www.sfchronicle.com/sports/article/sportscal-22495805.php?utm_medium=referral&amp;utm_campaign=yahoo_syndication",
-          "published": "2026-10-29T05:00:00Z"
+          "title": "From No. 10-6, our 2026-27 Ohio State men's basketball preseason power rankings",
+          "source": "Fci Academy",
+          "link": "https://www.dispatch.com/story/sports/college/basketball/2026/10/29/ohio-state-mens-basketball-player-power-rankings-from-nos-10-6/92442014007/",
+          "published": "2026-10-29T11:26:35Z"
         },
         {
-          "title": "Aztecs close exhibition slate, get full team involved to run past Long Beach State",
-          "source": "Thesportingtribune.com",
-          "link": "https://www.thesportingtribune.com/2026/10/28/2627-sdsu-mbb-lbst-ex-6-in-double-figures-davis-harrington-gladden-starting-guard-combo",
-          "published": "2026-10-29T04:51:34Z"
+          "title": "Ernie Johnson\u2019s Decision to Retire Sparks Emotional Tributes From \u2018Inside the NBA\u2019 Costars",
+          "source": "TVInsider",
+          "link": "https://www.tvinsider.com/1300540/ernie-johnson-retiring-inside-the-nba-tribute-video/",
+          "published": "2026-10-29T11:24:20Z"
         },
         {
-          "title": "\u2018I want to know\u2026\u2019 \u2013 Why Stephen A. Smith would \u2018spy\u2019 on LeBron James",
-          "source": "HITC - Football, Gaming, Movies, TV, Music",
-          "link": "https://www.hitc.com/i-want-to-know-why-stephen-a-smith-would-spy-on-lebron-james/",
-          "published": "2026-10-29T04:48:04Z"
+          "title": "Charles Barkley Emotional Reaction Says It All About Ernie Johnson\u2019s Exit",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/charles-barkley-emotional-reaction-says-it-all-about-ernie-johnsons-exit/",
+          "published": "2026-10-29T11:22:24Z"
         }
       ]
     },
@@ -588,18 +588,18 @@
       "away_team": "Orlando Magic",
       "home_abbr": "TOR",
       "away_abbr": "ORL",
-      "home_ml": "-205",
-      "away_ml": "+170",
-      "home_ml_raw": -205,
-      "away_ml_raw": 170,
-      "home_prob": 64.5,
-      "away_prob": 35.5,
+      "home_ml": "-218",
+      "away_ml": "+180",
+      "home_ml_raw": -218,
+      "away_ml_raw": 180,
+      "home_prob": 65.7,
+      "away_prob": 34.3,
       "spread": "TOR -5.5",
       "favorite": "Toronto Raptors",
       "pick": "Toronto Raptors",
       "pick_abbr": "TOR",
-      "moneyline": "-205",
-      "win_probability": 64.5,
+      "moneyline": "-218",
+      "win_probability": 65.7,
       "confidence": "MEDIUM",
       "confidence_stars": "\u2605\u2605\u2606",
       "commence_time": "2026-10-30T23:40:00Z",
@@ -608,27 +608,27 @@
           "direction": "shorter",
           "points_moved": 13,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM -205 \u2190 -192",
-          "old_ml": "-192",
-          "new_ml": "-205"
+          "label": "\ud83d\udd25 STEAM -218 \u2190 -205",
+          "old_ml": "-205",
+          "new_ml": "-218"
         },
         "away": {
           "direction": "longer",
           "points_moved": 10,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM +170 \u2190 +160",
-          "old_ml": "+160",
-          "new_ml": "+170"
+          "label": "\ud83d\udd25 STEAM +180 \u2190 +170",
+          "old_ml": "+170",
+          "new_ml": "+180"
         },
         "pick": {
           "direction": "shorter",
           "points_moved": 13,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM -205 \u2190 -192",
-          "old_ml": "-192",
-          "new_ml": "-205"
+          "label": "\ud83d\udd25 STEAM -218 \u2190 -205",
+          "old_ml": "-205",
+          "new_ml": "-218"
         },
-        "snapshot_time": "October 30, 2026 at 01:36 AM UTC"
+        "snapshot_time": "October 30, 2026 at 05:01 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -692,9 +692,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "Toronto Raptors hold a 64.5% edge.",
+        "trend": "Toronto Raptors hold a 65.7% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -192 to -205 (13pt move) \u2014 heavy professional action on Toronto Raptors.",
+        "steam": "Line steamed from -205 to -218 (13pt move) \u2014 heavy professional action on Toronto Raptors.",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -708,22 +708,22 @@
       },
       "news": [
         {
-          "title": "Bay Area sports calendar, Oct. 29-30",
-          "source": "San Francisco Chronicle",
-          "link": "https://www.sfchronicle.com/sports/article/sportscal-22495805.php?utm_medium=referral&amp;utm_campaign=yahoo_syndication",
-          "published": "2026-10-29T05:00:00Z"
+          "title": "From No. 10-6, our 2026-27 Ohio State men's basketball preseason power rankings",
+          "source": "Fci Academy",
+          "link": "https://www.dispatch.com/story/sports/college/basketball/2026/10/29/ohio-state-mens-basketball-player-power-rankings-from-nos-10-6/92442014007/",
+          "published": "2026-10-29T11:26:35Z"
         },
         {
-          "title": "Aztecs close exhibition slate, get full team involved to run past Long Beach State",
-          "source": "Thesportingtribune.com",
-          "link": "https://www.thesportingtribune.com/2026/10/28/2627-sdsu-mbb-lbst-ex-6-in-double-figures-davis-harrington-gladden-starting-guard-combo",
-          "published": "2026-10-29T04:51:34Z"
+          "title": "Ernie Johnson\u2019s Decision to Retire Sparks Emotional Tributes From \u2018Inside the NBA\u2019 Costars",
+          "source": "TVInsider",
+          "link": "https://www.tvinsider.com/1300540/ernie-johnson-retiring-inside-the-nba-tribute-video/",
+          "published": "2026-10-29T11:24:20Z"
         },
         {
-          "title": "\u2018I want to know\u2026\u2019 \u2013 Why Stephen A. Smith would \u2018spy\u2019 on LeBron James",
-          "source": "HITC - Football, Gaming, Movies, TV, Music",
-          "link": "https://www.hitc.com/i-want-to-know-why-stephen-a-smith-would-spy-on-lebron-james/",
-          "published": "2026-10-29T04:48:04Z"
+          "title": "Charles Barkley Emotional Reaction Says It All About Ernie Johnson\u2019s Exit",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/charles-barkley-emotional-reaction-says-it-all-about-ernie-johnsons-exit/",
+          "published": "2026-10-29T11:22:24Z"
         }
       ]
     },
@@ -733,47 +733,47 @@
       "away_team": "Houston Rockets",
       "home_abbr": "DAL",
       "away_abbr": "HOU",
-      "home_ml": "+180",
-      "away_ml": "-218",
-      "home_ml_raw": 180,
-      "away_ml_raw": -218,
-      "home_prob": 34.3,
-      "away_prob": 65.7,
-      "spread": "DAL +5.5",
+      "home_ml": "+185",
+      "away_ml": "-225",
+      "home_ml_raw": 185,
+      "away_ml_raw": -225,
+      "home_prob": 33.6,
+      "away_prob": 66.4,
+      "spread": "DAL +6.5",
       "favorite": "Houston Rockets",
       "pick": "Houston Rockets",
       "pick_abbr": "HOU",
-      "moneyline": "-218",
-      "win_probability": 65.7,
+      "moneyline": "-225",
+      "win_probability": 66.4,
       "confidence": "MEDIUM",
       "confidence_stars": "\u2605\u2605\u2606",
       "commence_time": "2026-10-31T00:10:00Z",
       "line_movement": {
         "home": {
           "direction": "longer",
-          "points_moved": 10,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM +180 \u2190 +170",
-          "old_ml": "+170",
-          "new_ml": "+180"
+          "points_moved": 5,
+          "steam": false,
+          "label": "\ud83d\udd34 +185 \u2190 +180",
+          "old_ml": "+180",
+          "new_ml": "+185"
         },
         "away": {
           "direction": "shorter",
-          "points_moved": 13,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -218 \u2190 -205",
-          "old_ml": "-205",
-          "new_ml": "-218"
+          "points_moved": 7,
+          "steam": false,
+          "label": "\ud83d\udfe2 -225 \u2190 -218",
+          "old_ml": "-218",
+          "new_ml": "-225"
         },
         "pick": {
           "direction": "shorter",
-          "points_moved": 13,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -218 \u2190 -205",
-          "old_ml": "-205",
-          "new_ml": "-218"
+          "points_moved": 7,
+          "steam": false,
+          "label": "\ud83d\udfe2 -225 \u2190 -218",
+          "old_ml": "-218",
+          "new_ml": "-225"
         },
-        "snapshot_time": "October 30, 2026 at 01:36 AM UTC"
+        "snapshot_time": "October 30, 2026 at 05:01 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -800,7 +800,7 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udd25 Sharp steam detected"
+        "\ud83d\udcca 32.8pt probability edge"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -837,9 +837,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "Houston Rockets hold a 65.7% edge.",
+        "trend": "Houston Rockets hold a 66.4% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -205 to -218 (13pt move) \u2014 heavy professional action on Houston Rockets.",
+        "steam": "Line moved -218\u2192-225 (7pts). Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -853,22 +853,22 @@
       },
       "news": [
         {
-          "title": "Bay Area sports calendar, Oct. 29-30",
-          "source": "San Francisco Chronicle",
-          "link": "https://www.sfchronicle.com/sports/article/sportscal-22495805.php?utm_medium=referral&amp;utm_campaign=yahoo_syndication",
-          "published": "2026-10-29T05:00:00Z"
+          "title": "From No. 10-6, our 2026-27 Ohio State men's basketball preseason power rankings",
+          "source": "Fci Academy",
+          "link": "https://www.dispatch.com/story/sports/college/basketball/2026/10/29/ohio-state-mens-basketball-player-power-rankings-from-nos-10-6/92442014007/",
+          "published": "2026-10-29T11:26:35Z"
         },
         {
-          "title": "Aztecs close exhibition slate, get full team involved to run past Long Beach State",
-          "source": "Thesportingtribune.com",
-          "link": "https://www.thesportingtribune.com/2026/10/28/2627-sdsu-mbb-lbst-ex-6-in-double-figures-davis-harrington-gladden-starting-guard-combo",
-          "published": "2026-10-29T04:51:34Z"
+          "title": "Ernie Johnson\u2019s Decision to Retire Sparks Emotional Tributes From \u2018Inside the NBA\u2019 Costars",
+          "source": "TVInsider",
+          "link": "https://www.tvinsider.com/1300540/ernie-johnson-retiring-inside-the-nba-tribute-video/",
+          "published": "2026-10-29T11:24:20Z"
         },
         {
-          "title": "\u2018I want to know\u2026\u2019 \u2013 Why Stephen A. Smith would \u2018spy\u2019 on LeBron James",
-          "source": "HITC - Football, Gaming, Movies, TV, Music",
-          "link": "https://www.hitc.com/i-want-to-know-why-stephen-a-smith-would-spy-on-lebron-james/",
-          "published": "2026-10-29T04:48:04Z"
+          "title": "Charles Barkley Emotional Reaction Says It All About Ernie Johnson\u2019s Exit",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/charles-barkley-emotional-reaction-says-it-all-about-ernie-johnsons-exit/",
+          "published": "2026-10-29T11:22:24Z"
         }
       ]
     },
@@ -878,47 +878,47 @@
       "away_team": "Indiana Pacers",
       "home_abbr": "MIA",
       "away_abbr": "IND",
-      "home_ml": "-278",
-      "away_ml": "+225",
-      "home_ml_raw": -278,
-      "away_ml_raw": 225,
-      "home_prob": 70.5,
-      "away_prob": 29.5,
+      "home_ml": "-305",
+      "away_ml": "+245",
+      "home_ml_raw": -305,
+      "away_ml_raw": 245,
+      "home_prob": 72.2,
+      "away_prob": 27.8,
       "spread": "MIA -7.5",
       "favorite": "Miami Heat",
       "pick": "Miami Heat",
       "pick_abbr": "MIA",
-      "moneyline": "-278",
-      "win_probability": 70.5,
-      "confidence": "MEDIUM",
-      "confidence_stars": "\u2605\u2605\u2606",
+      "moneyline": "-305",
+      "win_probability": 72.2,
+      "confidence": "HIGH",
+      "confidence_stars": "\u2605\u2605\u2605",
       "commence_time": "2026-10-31T00:10:00Z",
       "line_movement": {
         "home": {
           "direction": "shorter",
-          "points_moved": 28,
+          "points_moved": 27,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM -278 \u2190 -250",
-          "old_ml": "-250",
-          "new_ml": "-278"
+          "label": "\ud83d\udd25 STEAM -305 \u2190 -278",
+          "old_ml": "-278",
+          "new_ml": "-305"
         },
         "away": {
           "direction": "longer",
           "points_moved": 20,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM +225 \u2190 +205",
-          "old_ml": "+205",
-          "new_ml": "+225"
+          "label": "\ud83d\udd25 STEAM +245 \u2190 +225",
+          "old_ml": "+225",
+          "new_ml": "+245"
         },
         "pick": {
           "direction": "shorter",
-          "points_moved": 28,
+          "points_moved": 27,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM -278 \u2190 -250",
-          "old_ml": "-250",
-          "new_ml": "-278"
+          "label": "\ud83d\udd25 STEAM -305 \u2190 -278",
+          "old_ml": "-278",
+          "new_ml": "-305"
         },
-        "snapshot_time": "October 30, 2026 at 01:36 AM UTC"
+        "snapshot_time": "October 30, 2026 at 05:01 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -982,9 +982,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "Miami Heat hold a 70.5% edge.",
+        "trend": "Miami Heat hold a 72.2% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -250 to -278 (28pt move) \u2014 heavy professional action on Miami Heat.",
+        "steam": "Line steamed from -278 to -305 (27pt move) \u2014 heavy professional action on Miami Heat.",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -998,22 +998,22 @@
       },
       "news": [
         {
-          "title": "Bay Area sports calendar, Oct. 29-30",
-          "source": "San Francisco Chronicle",
-          "link": "https://www.sfchronicle.com/sports/article/sportscal-22495805.php?utm_medium=referral&amp;utm_campaign=yahoo_syndication",
-          "published": "2026-10-29T05:00:00Z"
+          "title": "From No. 10-6, our 2026-27 Ohio State men's basketball preseason power rankings",
+          "source": "Fci Academy",
+          "link": "https://www.dispatch.com/story/sports/college/basketball/2026/10/29/ohio-state-mens-basketball-player-power-rankings-from-nos-10-6/92442014007/",
+          "published": "2026-10-29T11:26:35Z"
         },
         {
-          "title": "Aztecs close exhibition slate, get full team involved to run past Long Beach State",
-          "source": "Thesportingtribune.com",
-          "link": "https://www.thesportingtribune.com/2026/10/28/2627-sdsu-mbb-lbst-ex-6-in-double-figures-davis-harrington-gladden-starting-guard-combo",
-          "published": "2026-10-29T04:51:34Z"
+          "title": "Ernie Johnson\u2019s Decision to Retire Sparks Emotional Tributes From \u2018Inside the NBA\u2019 Costars",
+          "source": "TVInsider",
+          "link": "https://www.tvinsider.com/1300540/ernie-johnson-retiring-inside-the-nba-tribute-video/",
+          "published": "2026-10-29T11:24:20Z"
         },
         {
-          "title": "\u2018I want to know\u2026\u2019 \u2013 Why Stephen A. Smith would \u2018spy\u2019 on LeBron James",
-          "source": "HITC - Football, Gaming, Movies, TV, Music",
-          "link": "https://www.hitc.com/i-want-to-know-why-stephen-a-smith-would-spy-on-lebron-james/",
-          "published": "2026-10-29T04:48:04Z"
+          "title": "Charles Barkley Emotional Reaction Says It All About Ernie Johnson\u2019s Exit",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/charles-barkley-emotional-reaction-says-it-all-about-ernie-johnsons-exit/",
+          "published": "2026-10-29T11:22:24Z"
         }
       ]
     },
@@ -1023,47 +1023,47 @@
       "away_team": "Los Angeles Clippers",
       "home_abbr": "MIN",
       "away_abbr": "LAC",
-      "home_ml": "-265",
-      "away_ml": "+215",
-      "home_ml_raw": -265,
-      "away_ml_raw": 215,
-      "home_prob": 69.6,
-      "away_prob": 30.4,
-      "spread": "MIN -7.5",
+      "home_ml": "-278",
+      "away_ml": "+225",
+      "home_ml_raw": -278,
+      "away_ml_raw": 225,
+      "home_prob": 70.5,
+      "away_prob": 29.5,
+      "spread": "MIN -6.5",
       "favorite": "Minnesota Timberwolves",
       "pick": "Minnesota Timberwolves",
       "pick_abbr": "MIN",
-      "moneyline": "-265",
-      "win_probability": 69.6,
+      "moneyline": "-278",
+      "win_probability": 70.5,
       "confidence": "MEDIUM",
       "confidence_stars": "\u2605\u2605\u2606",
       "commence_time": "2026-10-31T00:10:00Z",
       "line_movement": {
         "home": {
           "direction": "shorter",
-          "points_moved": 15,
+          "points_moved": 13,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM -265 \u2190 -250",
-          "old_ml": "-250",
-          "new_ml": "-265"
+          "label": "\ud83d\udd25 STEAM -278 \u2190 -265",
+          "old_ml": "-265",
+          "new_ml": "-278"
         },
         "away": {
           "direction": "longer",
           "points_moved": 10,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM +215 \u2190 +205",
-          "old_ml": "+205",
-          "new_ml": "+215"
+          "label": "\ud83d\udd25 STEAM +225 \u2190 +215",
+          "old_ml": "+215",
+          "new_ml": "+225"
         },
         "pick": {
           "direction": "shorter",
-          "points_moved": 15,
+          "points_moved": 13,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM -265 \u2190 -250",
-          "old_ml": "-250",
-          "new_ml": "-265"
+          "label": "\ud83d\udd25 STEAM -278 \u2190 -265",
+          "old_ml": "-265",
+          "new_ml": "-278"
         },
-        "snapshot_time": "October 30, 2026 at 01:36 AM UTC"
+        "snapshot_time": "October 30, 2026 at 05:01 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -1127,9 +1127,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "Minnesota Timberwolves hold a 69.6% edge.",
+        "trend": "Minnesota Timberwolves hold a 70.5% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -250 to -265 (15pt move) \u2014 heavy professional action on Minnesota Timberwolves.",
+        "steam": "Line steamed from -265 to -278 (13pt move) \u2014 heavy professional action on Minnesota Timberwolves.",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -1143,22 +1143,22 @@
       },
       "news": [
         {
-          "title": "Bay Area sports calendar, Oct. 29-30",
-          "source": "San Francisco Chronicle",
-          "link": "https://www.sfchronicle.com/sports/article/sportscal-22495805.php?utm_medium=referral&amp;utm_campaign=yahoo_syndication",
-          "published": "2026-10-29T05:00:00Z"
+          "title": "From No. 10-6, our 2026-27 Ohio State men's basketball preseason power rankings",
+          "source": "Fci Academy",
+          "link": "https://www.dispatch.com/story/sports/college/basketball/2026/10/29/ohio-state-mens-basketball-player-power-rankings-from-nos-10-6/92442014007/",
+          "published": "2026-10-29T11:26:35Z"
         },
         {
-          "title": "Aztecs close exhibition slate, get full team involved to run past Long Beach State",
-          "source": "Thesportingtribune.com",
-          "link": "https://www.thesportingtribune.com/2026/10/28/2627-sdsu-mbb-lbst-ex-6-in-double-figures-davis-harrington-gladden-starting-guard-combo",
-          "published": "2026-10-29T04:51:34Z"
+          "title": "Ernie Johnson\u2019s Decision to Retire Sparks Emotional Tributes From \u2018Inside the NBA\u2019 Costars",
+          "source": "TVInsider",
+          "link": "https://www.tvinsider.com/1300540/ernie-johnson-retiring-inside-the-nba-tribute-video/",
+          "published": "2026-10-29T11:24:20Z"
         },
         {
-          "title": "\u2018I want to know\u2026\u2019 \u2013 Why Stephen A. Smith would \u2018spy\u2019 on LeBron James",
-          "source": "HITC - Football, Gaming, Movies, TV, Music",
-          "link": "https://www.hitc.com/i-want-to-know-why-stephen-a-smith-would-spy-on-lebron-james/",
-          "published": "2026-10-29T04:48:04Z"
+          "title": "Charles Barkley Emotional Reaction Says It All About Ernie Johnson\u2019s Exit",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/charles-barkley-emotional-reaction-says-it-all-about-ernie-johnsons-exit/",
+          "published": "2026-10-29T11:22:24Z"
         }
       ]
     },
@@ -1168,47 +1168,47 @@
       "away_team": "Denver Nuggets",
       "home_abbr": "PHX",
       "away_abbr": "DEN",
-      "home_ml": "+142",
-      "away_ml": "-170",
-      "home_ml_raw": 142,
-      "away_ml_raw": -170,
-      "home_prob": 39.6,
-      "away_prob": 60.4,
+      "home_ml": "+150",
+      "away_ml": "-180",
+      "home_ml_raw": 150,
+      "away_ml_raw": -180,
+      "home_prob": 38.4,
+      "away_prob": 61.6,
       "spread": "PHX +4.5",
       "favorite": "Denver Nuggets",
       "pick": "Denver Nuggets",
       "pick_abbr": "DEN",
-      "moneyline": "-170",
-      "win_probability": 60.4,
+      "moneyline": "-180",
+      "win_probability": 61.6,
       "confidence": "MEDIUM",
       "confidence_stars": "\u2605\u2605\u2606",
       "commence_time": "2026-10-31T02:10:00Z",
       "line_movement": {
         "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "longer",
+          "points_moved": 8,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM +150 \u2190 +142",
           "old_ml": "+142",
-          "new_ml": "+142"
+          "new_ml": "+150"
         },
         "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "shorter",
+          "points_moved": 10,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -180 \u2190 -170",
           "old_ml": "-170",
-          "new_ml": "-170"
+          "new_ml": "-180"
         },
         "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "shorter",
+          "points_moved": 10,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -180 \u2190 -170",
           "old_ml": "-170",
-          "new_ml": "-170"
+          "new_ml": "-180"
         },
-        "snapshot_time": "October 30, 2026 at 01:36 AM UTC"
+        "snapshot_time": "October 30, 2026 at 05:01 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -1235,7 +1235,7 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udcca 20.8pt probability edge"
+        "\ud83d\udd25 Sharp steam detected"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -1272,9 +1272,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "Denver Nuggets hold a 60.4% edge.",
+        "trend": "Denver Nuggets hold a 61.6% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "steam": "Line steamed from -170 to -180 (10pt move) \u2014 heavy professional action on Denver Nuggets.",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -1288,22 +1288,22 @@
       },
       "news": [
         {
-          "title": "Bay Area sports calendar, Oct. 29-30",
-          "source": "San Francisco Chronicle",
-          "link": "https://www.sfchronicle.com/sports/article/sportscal-22495805.php?utm_medium=referral&amp;utm_campaign=yahoo_syndication",
-          "published": "2026-10-29T05:00:00Z"
+          "title": "From No. 10-6, our 2026-27 Ohio State men's basketball preseason power rankings",
+          "source": "Fci Academy",
+          "link": "https://www.dispatch.com/story/sports/college/basketball/2026/10/29/ohio-state-mens-basketball-player-power-rankings-from-nos-10-6/92442014007/",
+          "published": "2026-10-29T11:26:35Z"
         },
         {
-          "title": "Aztecs close exhibition slate, get full team involved to run past Long Beach State",
-          "source": "Thesportingtribune.com",
-          "link": "https://www.thesportingtribune.com/2026/10/28/2627-sdsu-mbb-lbst-ex-6-in-double-figures-davis-harrington-gladden-starting-guard-combo",
-          "published": "2026-10-29T04:51:34Z"
+          "title": "Ernie Johnson\u2019s Decision to Retire Sparks Emotional Tributes From \u2018Inside the NBA\u2019 Costars",
+          "source": "TVInsider",
+          "link": "https://www.tvinsider.com/1300540/ernie-johnson-retiring-inside-the-nba-tribute-video/",
+          "published": "2026-10-29T11:24:20Z"
         },
         {
-          "title": "\u2018I want to know\u2026\u2019 \u2013 Why Stephen A. Smith would \u2018spy\u2019 on LeBron James",
-          "source": "HITC - Football, Gaming, Movies, TV, Music",
-          "link": "https://www.hitc.com/i-want-to-know-why-stephen-a-smith-would-spy-on-lebron-james/",
-          "published": "2026-10-29T04:48:04Z"
+          "title": "Charles Barkley Emotional Reaction Says It All About Ernie Johnson\u2019s Exit",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/charles-barkley-emotional-reaction-says-it-all-about-ernie-johnsons-exit/",
+          "published": "2026-10-29T11:22:24Z"
         }
       ]
     },
@@ -1313,47 +1313,47 @@
       "away_team": "Los Angeles Lakers",
       "home_abbr": "GSW",
       "away_abbr": "LAL",
-      "home_ml": "+110",
-      "away_ml": "-130",
-      "home_ml_raw": 110,
-      "away_ml_raw": -130,
-      "home_prob": 45.7,
-      "away_prob": 54.3,
-      "spread": "GSW +1.5",
+      "home_ml": "+114",
+      "away_ml": "-135",
+      "home_ml_raw": 114,
+      "away_ml_raw": -135,
+      "home_prob": 44.9,
+      "away_prob": 55.1,
+      "spread": "GSW +2.5",
       "favorite": "Los Angeles Lakers",
       "pick": "Los Angeles Lakers",
       "pick_abbr": "LAL",
-      "moneyline": "-130",
-      "win_probability": 54.3,
+      "moneyline": "-135",
+      "win_probability": 55.1,
       "confidence": "LOW",
       "confidence_stars": "\u2605\u2606\u2606",
       "commence_time": "2026-10-31T02:10:00Z",
       "line_movement": {
         "home": {
-          "direction": "none",
-          "points_moved": 0,
+          "direction": "longer",
+          "points_moved": 4,
           "steam": false,
-          "label": "No movement",
+          "label": "\ud83d\udd34 +114 \u2190 +110",
           "old_ml": "+110",
-          "new_ml": "+110"
+          "new_ml": "+114"
         },
         "away": {
-          "direction": "none",
-          "points_moved": 0,
+          "direction": "shorter",
+          "points_moved": 5,
           "steam": false,
-          "label": "No movement",
+          "label": "\ud83d\udfe2 -135 \u2190 -130",
           "old_ml": "-130",
-          "new_ml": "-130"
+          "new_ml": "-135"
         },
         "pick": {
-          "direction": "none",
-          "points_moved": 0,
+          "direction": "shorter",
+          "points_moved": 5,
           "steam": false,
-          "label": "No movement",
+          "label": "\ud83d\udfe2 -135 \u2190 -130",
           "old_ml": "-130",
-          "new_ml": "-130"
+          "new_ml": "-135"
         },
-        "snapshot_time": "October 30, 2026 at 01:36 AM UTC"
+        "snapshot_time": "October 30, 2026 at 05:01 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -1380,7 +1380,7 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udcca 8.6pt probability edge"
+        "\ud83d\udcca 10.2pt probability edge"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -1417,9 +1417,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "Los Angeles Lakers hold a 54.3% edge.",
+        "trend": "Los Angeles Lakers hold a 55.1% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "steam": "Line moved -130\u2192-135 (5pts). Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -1433,22 +1433,22 @@
       },
       "news": [
         {
-          "title": "Bay Area sports calendar, Oct. 29-30",
-          "source": "San Francisco Chronicle",
-          "link": "https://www.sfchronicle.com/sports/article/sportscal-22495805.php?utm_medium=referral&amp;utm_campaign=yahoo_syndication",
-          "published": "2026-10-29T05:00:00Z"
+          "title": "From No. 10-6, our 2026-27 Ohio State men's basketball preseason power rankings",
+          "source": "Fci Academy",
+          "link": "https://www.dispatch.com/story/sports/college/basketball/2026/10/29/ohio-state-mens-basketball-player-power-rankings-from-nos-10-6/92442014007/",
+          "published": "2026-10-29T11:26:35Z"
         },
         {
-          "title": "Aztecs close exhibition slate, get full team involved to run past Long Beach State",
-          "source": "Thesportingtribune.com",
-          "link": "https://www.thesportingtribune.com/2026/10/28/2627-sdsu-mbb-lbst-ex-6-in-double-figures-davis-harrington-gladden-starting-guard-combo",
-          "published": "2026-10-29T04:51:34Z"
+          "title": "Ernie Johnson\u2019s Decision to Retire Sparks Emotional Tributes From \u2018Inside the NBA\u2019 Costars",
+          "source": "TVInsider",
+          "link": "https://www.tvinsider.com/1300540/ernie-johnson-retiring-inside-the-nba-tribute-video/",
+          "published": "2026-10-29T11:24:20Z"
         },
         {
-          "title": "\u2018I want to know\u2026\u2019 \u2013 Why Stephen A. Smith would \u2018spy\u2019 on LeBron James",
-          "source": "HITC - Football, Gaming, Movies, TV, Music",
-          "link": "https://www.hitc.com/i-want-to-know-why-stephen-a-smith-would-spy-on-lebron-james/",
-          "published": "2026-10-29T04:48:04Z"
+          "title": "Charles Barkley Emotional Reaction Says It All About Ernie Johnson\u2019s Exit",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/charles-barkley-emotional-reaction-says-it-all-about-ernie-johnsons-exit/",
+          "published": "2026-10-29T11:22:24Z"
         }
       ]
     },
@@ -1498,7 +1498,7 @@
           "old_ml": "-115",
           "new_ml": "-115"
         },
-        "snapshot_time": "October 30, 2026 at 01:36 AM UTC"
+        "snapshot_time": "October 30, 2026 at 05:01 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -1578,22 +1578,22 @@
       },
       "news": [
         {
-          "title": "Bay Area sports calendar, Oct. 29-30",
-          "source": "San Francisco Chronicle",
-          "link": "https://www.sfchronicle.com/sports/article/sportscal-22495805.php?utm_medium=referral&amp;utm_campaign=yahoo_syndication",
-          "published": "2026-10-29T05:00:00Z"
+          "title": "From No. 10-6, our 2026-27 Ohio State men's basketball preseason power rankings",
+          "source": "Fci Academy",
+          "link": "https://www.dispatch.com/story/sports/college/basketball/2026/10/29/ohio-state-mens-basketball-player-power-rankings-from-nos-10-6/92442014007/",
+          "published": "2026-10-29T11:26:35Z"
         },
         {
-          "title": "Aztecs close exhibition slate, get full team involved to run past Long Beach State",
-          "source": "Thesportingtribune.com",
-          "link": "https://www.thesportingtribune.com/2026/10/28/2627-sdsu-mbb-lbst-ex-6-in-double-figures-davis-harrington-gladden-starting-guard-combo",
-          "published": "2026-10-29T04:51:34Z"
+          "title": "Ernie Johnson\u2019s Decision to Retire Sparks Emotional Tributes From \u2018Inside the NBA\u2019 Costars",
+          "source": "TVInsider",
+          "link": "https://www.tvinsider.com/1300540/ernie-johnson-retiring-inside-the-nba-tribute-video/",
+          "published": "2026-10-29T11:24:20Z"
         },
         {
-          "title": "\u2018I want to know\u2026\u2019 \u2013 Why Stephen A. Smith would \u2018spy\u2019 on LeBron James",
-          "source": "HITC - Football, Gaming, Movies, TV, Music",
-          "link": "https://www.hitc.com/i-want-to-know-why-stephen-a-smith-would-spy-on-lebron-james/",
-          "published": "2026-10-29T04:48:04Z"
+          "title": "Charles Barkley Emotional Reaction Says It All About Ernie Johnson\u2019s Exit",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/charles-barkley-emotional-reaction-says-it-all-about-ernie-johnsons-exit/",
+          "published": "2026-10-29T11:22:24Z"
         }
       ]
     },
@@ -1643,7 +1643,7 @@
           "old_ml": "-218",
           "new_ml": "-218"
         },
-        "snapshot_time": "October 30, 2026 at 01:36 AM UTC"
+        "snapshot_time": "October 30, 2026 at 05:01 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -1723,22 +1723,22 @@
       },
       "news": [
         {
-          "title": "Bay Area sports calendar, Oct. 29-30",
-          "source": "San Francisco Chronicle",
-          "link": "https://www.sfchronicle.com/sports/article/sportscal-22495805.php?utm_medium=referral&amp;utm_campaign=yahoo_syndication",
-          "published": "2026-10-29T05:00:00Z"
+          "title": "From No. 10-6, our 2026-27 Ohio State men's basketball preseason power rankings",
+          "source": "Fci Academy",
+          "link": "https://www.dispatch.com/story/sports/college/basketball/2026/10/29/ohio-state-mens-basketball-player-power-rankings-from-nos-10-6/92442014007/",
+          "published": "2026-10-29T11:26:35Z"
         },
         {
-          "title": "Aztecs close exhibition slate, get full team involved to run past Long Beach State",
-          "source": "Thesportingtribune.com",
-          "link": "https://www.thesportingtribune.com/2026/10/28/2627-sdsu-mbb-lbst-ex-6-in-double-figures-davis-harrington-gladden-starting-guard-combo",
-          "published": "2026-10-29T04:51:34Z"
+          "title": "Ernie Johnson\u2019s Decision to Retire Sparks Emotional Tributes From \u2018Inside the NBA\u2019 Costars",
+          "source": "TVInsider",
+          "link": "https://www.tvinsider.com/1300540/ernie-johnson-retiring-inside-the-nba-tribute-video/",
+          "published": "2026-10-29T11:24:20Z"
         },
         {
-          "title": "\u2018I want to know\u2026\u2019 \u2013 Why Stephen A. Smith would \u2018spy\u2019 on LeBron James",
-          "source": "HITC - Football, Gaming, Movies, TV, Music",
-          "link": "https://www.hitc.com/i-want-to-know-why-stephen-a-smith-would-spy-on-lebron-james/",
-          "published": "2026-10-29T04:48:04Z"
+          "title": "Charles Barkley Emotional Reaction Says It All About Ernie Johnson\u2019s Exit",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/charles-barkley-emotional-reaction-says-it-all-about-ernie-johnsons-exit/",
+          "published": "2026-10-29T11:22:24Z"
         }
       ]
     },
@@ -1788,7 +1788,7 @@
           "old_ml": "-115",
           "new_ml": "-115"
         },
-        "snapshot_time": "October 30, 2026 at 01:36 AM UTC"
+        "snapshot_time": "October 30, 2026 at 05:01 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -1868,22 +1868,22 @@
       },
       "news": [
         {
-          "title": "Bay Area sports calendar, Oct. 29-30",
-          "source": "San Francisco Chronicle",
-          "link": "https://www.sfchronicle.com/sports/article/sportscal-22495805.php?utm_medium=referral&amp;utm_campaign=yahoo_syndication",
-          "published": "2026-10-29T05:00:00Z"
+          "title": "From No. 10-6, our 2026-27 Ohio State men's basketball preseason power rankings",
+          "source": "Fci Academy",
+          "link": "https://www.dispatch.com/story/sports/college/basketball/2026/10/29/ohio-state-mens-basketball-player-power-rankings-from-nos-10-6/92442014007/",
+          "published": "2026-10-29T11:26:35Z"
         },
         {
-          "title": "Aztecs close exhibition slate, get full team involved to run past Long Beach State",
-          "source": "Thesportingtribune.com",
-          "link": "https://www.thesportingtribune.com/2026/10/28/2627-sdsu-mbb-lbst-ex-6-in-double-figures-davis-harrington-gladden-starting-guard-combo",
-          "published": "2026-10-29T04:51:34Z"
+          "title": "Ernie Johnson\u2019s Decision to Retire Sparks Emotional Tributes From \u2018Inside the NBA\u2019 Costars",
+          "source": "TVInsider",
+          "link": "https://www.tvinsider.com/1300540/ernie-johnson-retiring-inside-the-nba-tribute-video/",
+          "published": "2026-10-29T11:24:20Z"
         },
         {
-          "title": "\u2018I want to know\u2026\u2019 \u2013 Why Stephen A. Smith would \u2018spy\u2019 on LeBron James",
-          "source": "HITC - Football, Gaming, Movies, TV, Music",
-          "link": "https://www.hitc.com/i-want-to-know-why-stephen-a-smith-would-spy-on-lebron-james/",
-          "published": "2026-10-29T04:48:04Z"
+          "title": "Charles Barkley Emotional Reaction Says It All About Ernie Johnson\u2019s Exit",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/charles-barkley-emotional-reaction-says-it-all-about-ernie-johnsons-exit/",
+          "published": "2026-10-29T11:22:24Z"
         }
       ]
     },
@@ -1933,7 +1933,7 @@
           "old_ml": "-170",
           "new_ml": "-170"
         },
-        "snapshot_time": "October 30, 2026 at 01:36 AM UTC"
+        "snapshot_time": "October 30, 2026 at 05:01 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -2013,22 +2013,22 @@
       },
       "news": [
         {
-          "title": "Bay Area sports calendar, Oct. 29-30",
-          "source": "San Francisco Chronicle",
-          "link": "https://www.sfchronicle.com/sports/article/sportscal-22495805.php?utm_medium=referral&amp;utm_campaign=yahoo_syndication",
-          "published": "2026-10-29T05:00:00Z"
+          "title": "From No. 10-6, our 2026-27 Ohio State men's basketball preseason power rankings",
+          "source": "Fci Academy",
+          "link": "https://www.dispatch.com/story/sports/college/basketball/2026/10/29/ohio-state-mens-basketball-player-power-rankings-from-nos-10-6/92442014007/",
+          "published": "2026-10-29T11:26:35Z"
         },
         {
-          "title": "Aztecs close exhibition slate, get full team involved to run past Long Beach State",
-          "source": "Thesportingtribune.com",
-          "link": "https://www.thesportingtribune.com/2026/10/28/2627-sdsu-mbb-lbst-ex-6-in-double-figures-davis-harrington-gladden-starting-guard-combo",
-          "published": "2026-10-29T04:51:34Z"
+          "title": "Ernie Johnson\u2019s Decision to Retire Sparks Emotional Tributes From \u2018Inside the NBA\u2019 Costars",
+          "source": "TVInsider",
+          "link": "https://www.tvinsider.com/1300540/ernie-johnson-retiring-inside-the-nba-tribute-video/",
+          "published": "2026-10-29T11:24:20Z"
         },
         {
-          "title": "\u2018I want to know\u2026\u2019 \u2013 Why Stephen A. Smith would \u2018spy\u2019 on LeBron James",
-          "source": "HITC - Football, Gaming, Movies, TV, Music",
-          "link": "https://www.hitc.com/i-want-to-know-why-stephen-a-smith-would-spy-on-lebron-james/",
-          "published": "2026-10-29T04:48:04Z"
+          "title": "Charles Barkley Emotional Reaction Says It All About Ernie Johnson\u2019s Exit",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/charles-barkley-emotional-reaction-says-it-all-about-ernie-johnsons-exit/",
+          "published": "2026-10-29T11:22:24Z"
         }
       ]
     },
@@ -2078,7 +2078,7 @@
           "old_ml": "-135",
           "new_ml": "-135"
         },
-        "snapshot_time": "October 30, 2026 at 01:36 AM UTC"
+        "snapshot_time": "October 30, 2026 at 05:01 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -2158,22 +2158,22 @@
       },
       "news": [
         {
-          "title": "Bay Area sports calendar, Oct. 29-30",
-          "source": "San Francisco Chronicle",
-          "link": "https://www.sfchronicle.com/sports/article/sportscal-22495805.php?utm_medium=referral&amp;utm_campaign=yahoo_syndication",
-          "published": "2026-10-29T05:00:00Z"
+          "title": "From No. 10-6, our 2026-27 Ohio State men's basketball preseason power rankings",
+          "source": "Fci Academy",
+          "link": "https://www.dispatch.com/story/sports/college/basketball/2026/10/29/ohio-state-mens-basketball-player-power-rankings-from-nos-10-6/92442014007/",
+          "published": "2026-10-29T11:26:35Z"
         },
         {
-          "title": "Aztecs close exhibition slate, get full team involved to run past Long Beach State",
-          "source": "Thesportingtribune.com",
-          "link": "https://www.thesportingtribune.com/2026/10/28/2627-sdsu-mbb-lbst-ex-6-in-double-figures-davis-harrington-gladden-starting-guard-combo",
-          "published": "2026-10-29T04:51:34Z"
+          "title": "Ernie Johnson\u2019s Decision to Retire Sparks Emotional Tributes From \u2018Inside the NBA\u2019 Costars",
+          "source": "TVInsider",
+          "link": "https://www.tvinsider.com/1300540/ernie-johnson-retiring-inside-the-nba-tribute-video/",
+          "published": "2026-10-29T11:24:20Z"
         },
         {
-          "title": "\u2018I want to know\u2026\u2019 \u2013 Why Stephen A. Smith would \u2018spy\u2019 on LeBron James",
-          "source": "HITC - Football, Gaming, Movies, TV, Music",
-          "link": "https://www.hitc.com/i-want-to-know-why-stephen-a-smith-would-spy-on-lebron-james/",
-          "published": "2026-10-29T04:48:04Z"
+          "title": "Charles Barkley Emotional Reaction Says It All About Ernie Johnson\u2019s Exit",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/charles-barkley-emotional-reaction-says-it-all-about-ernie-johnsons-exit/",
+          "published": "2026-10-29T11:22:24Z"
         }
       ]
     }
