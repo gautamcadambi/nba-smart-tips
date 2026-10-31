@@ -1,6 +1,6 @@
 {
-  "last_updated": "October 30, 2026 at 04:57 PM UTC",
-  "total_games": 15,
+  "last_updated": "October 31, 2026 at 01:26 AM UTC",
+  "total_games": 19,
   "games": [
     {
       "game": "Charlotte Hornets @ Washington Wizards",
@@ -8,74 +8,74 @@
       "away_team": "Charlotte Hornets",
       "home_abbr": "WAS",
       "away_abbr": "CHA",
-      "home_ml": "-108",
-      "away_ml": "-112",
-      "home_ml_raw": -108,
-      "away_ml_raw": -112,
-      "home_prob": 49.6,
-      "away_prob": 50.4,
-      "spread": "WAS +1.5",
-      "favorite": "Charlotte Hornets",
-      "pick": "Charlotte Hornets",
-      "pick_abbr": "CHA",
-      "moneyline": "-112",
-      "win_probability": 50.4,
+      "home_ml": "N/A",
+      "away_ml": "N/A",
+      "home_ml_raw": null,
+      "away_ml_raw": null,
+      "home_prob": 50.0,
+      "away_prob": 50.0,
+      "spread": "WAS -19.5",
+      "favorite": "Washington Wizards",
+      "pick": "Washington Wizards",
+      "pick_abbr": "WAS",
+      "moneyline": "N/A",
+      "win_probability": 50.0,
       "confidence": "LOW",
       "confidence_stars": "\u2605\u2606\u2606",
-      "commence_time": "2026-10-30T23:10:00Z",
+      "commence_time": "2026-10-30T23:11:16Z",
       "line_movement": {
         "home": {
-          "direction": "longer",
-          "points_moved": 14,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -108 \u2190 -122",
-          "old_ml": "-122",
-          "new_ml": "-108"
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
         },
         "away": {
-          "direction": "shorter",
-          "points_moved": 214,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -112 \u2190 +102",
-          "old_ml": "+102",
-          "new_ml": "-112"
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
         },
         "pick": {
-          "direction": "shorter",
-          "points_moved": 214,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -112 \u2190 +102",
-          "old_ml": "+102",
-          "new_ml": "-112"
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
         },
-        "snapshot_time": "October 30, 2026 at 11:28 AM UTC"
+        "snapshot_time": "October 30, 2026 at 04:57 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "Oct 28",
-          "days_rest": 2,
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Oct 30",
+          "days_rest": 1,
           "games_last_4d": 2,
           "travel_miles": 305,
           "travel_desc": "305 mi road trip",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "Oct 28",
-          "days_rest": 2,
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Oct 30",
+          "days_rest": 1,
           "games_last_4d": 2,
-          "travel_miles": 506,
-          "travel_desc": "506 mi road trip",
+          "travel_miles": 330,
+          "travel_desc": "330 mi road trip",
           "source": "ESPN Scoreboard API"
         }
       },
       "edge_factors": [
-        "\ud83d\udd25 Sharp steam detected"
+        "\ud83d\udca4 CHA fatigued (B2B) \u2014 source: ESPN"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -112,9 +112,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "Charlotte Hornets hold a 50.4% edge.",
+        "trend": "WAS on Back-to-Back \u26a0\ufe0f per ESPN schedule data. CHA on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from +102 to -112 (214pt move) \u2014 heavy professional action on Charlotte Hornets.",
+        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -128,22 +128,22 @@
       },
       "news": [
         {
-          "title": "Judge clears RJ Luis to play for LSU. Will Will Wade roster him?",
-          "source": "USA Today",
-          "link": "https://lsutigerswire.usatoday.com/story/sports/college/lsu/mens-basketball/2026/10/29/lsu-basketball-transfer-portal-rj-luis-legal-news/92487795007/",
-          "published": "2026-10-29T16:55:01Z"
+          "title": "Karl-Anthony Towns Draws Line on Potential Knicks Pay Cut",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/new-york-knicks/karl-anthony-towns-knicks-contract-pay-cut/",
+          "published": "2026-10-30T01:17:08Z"
         },
         {
-          "title": "The real Kawhi Leonard knee injury timeline revealed",
-          "source": "ClutchPoints",
-          "link": "https://clutchpoints.com/nba/toronto-raptors/raptors-news-the-real-kawhi-leonard-knee-injury-timeline-revealed",
-          "published": "2026-10-29T16:54:55Z"
+          "title": "Rumor: OKC Thunder could trade for familiar face to help 2026-27 season",
+          "source": "USA Today",
+          "link": "https://okcthunderwire.usatoday.com/story/sports/nba/thunder/2026/10/29/rumor-okc-thunder-could-trade-for-familiar-face-to-help-2026-27-season/92506138007/",
+          "published": "2026-10-30T01:15:09Z"
         },
         {
-          "title": "See T.I.'s daughter Heiress perform national anthem for WNBA Finals Game 6",
-          "source": "USA Today",
-          "link": "https://www.usatoday.com/story/sports/wnba/2026/10/29/ti-daughter-heiress-performs-national-anthem-for-wnba-finals-game-6/92489856007/",
-          "published": "2026-10-29T16:54:00Z"
+          "title": "Preview: Hobbled Jazz host Trail Blazers\u2019 red-hot wagon",
+          "source": "Slcdunk.com",
+          "link": "https://www.slcdunk.com/utah-jazz-game-coverage/70481/preview-hobbled-jazz-host-trail-blazers-red-hot-wagon",
+          "published": "2026-10-30T01:12:55Z"
         }
       ]
     },
@@ -153,66 +153,66 @@
       "away_team": "Chicago Bulls",
       "home_abbr": "BOS",
       "away_abbr": "CHI",
-      "home_ml": "-950",
-      "away_ml": "+625",
-      "home_ml_raw": -950,
-      "away_ml_raw": 625,
-      "home_prob": 86.8,
-      "away_prob": 13.2,
-      "spread": "BOS -15.5",
+      "home_ml": "N/A",
+      "away_ml": "N/A",
+      "home_ml_raw": null,
+      "away_ml_raw": null,
+      "home_prob": 50.0,
+      "away_prob": 50.0,
+      "spread": "BOS -22.5",
       "favorite": "Boston Celtics",
       "pick": "Boston Celtics",
       "pick_abbr": "BOS",
-      "moneyline": "-950",
-      "win_probability": 86.8,
-      "confidence": "HIGH",
-      "confidence_stars": "\u2605\u2605\u2605",
-      "commence_time": "2026-10-30T23:40:00Z",
+      "moneyline": "N/A",
+      "win_probability": 50.0,
+      "confidence": "LOW",
+      "confidence_stars": "\u2605\u2606\u2606",
+      "commence_time": "2026-10-30T23:41:10Z",
       "line_movement": {
         "home": {
-          "direction": "shorter",
-          "points_moved": 50,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -950 \u2190 -900",
-          "old_ml": "-900",
-          "new_ml": "-950"
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
         },
         "away": {
-          "direction": "longer",
-          "points_moved": 25,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM +625 \u2190 +600",
-          "old_ml": "+600",
-          "new_ml": "+625"
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
         },
         "pick": {
-          "direction": "shorter",
-          "points_moved": 50,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -950 \u2190 -900",
-          "old_ml": "-900",
-          "new_ml": "-950"
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
         },
-        "snapshot_time": "October 30, 2026 at 11:28 AM UTC"
+        "snapshot_time": "October 30, 2026 at 04:57 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "RESTED",
-          "label": "2 days rest \u2705",
-          "battery": 88,
-          "last_game": "Oct 27",
-          "days_rest": 3,
-          "games_last_4d": 2,
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Oct 30",
+          "days_rest": 1,
+          "games_last_4d": 1,
           "travel_miles": 0,
           "travel_desc": "",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "Oct 28",
-          "days_rest": 2,
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Oct 30",
+          "days_rest": 1,
           "games_last_4d": 2,
           "travel_miles": 851,
           "travel_desc": "851 mi road trip",
@@ -220,7 +220,7 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udd25 Sharp steam detected"
+        "\ud83d\udca4 CHI fatigued (B2B) \u2014 source: ESPN"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -257,9 +257,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "Boston Celtics hold a 86.8% edge.",
+        "trend": "BOS on Back-to-Back \u26a0\ufe0f per ESPN schedule data. CHI on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -900 to -950 (50pt move) \u2014 heavy professional action on Boston Celtics.",
+        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -273,22 +273,22 @@
       },
       "news": [
         {
-          "title": "Judge clears RJ Luis to play for LSU. Will Will Wade roster him?",
-          "source": "USA Today",
-          "link": "https://lsutigerswire.usatoday.com/story/sports/college/lsu/mens-basketball/2026/10/29/lsu-basketball-transfer-portal-rj-luis-legal-news/92487795007/",
-          "published": "2026-10-29T16:55:01Z"
+          "title": "Karl-Anthony Towns Draws Line on Potential Knicks Pay Cut",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/new-york-knicks/karl-anthony-towns-knicks-contract-pay-cut/",
+          "published": "2026-10-30T01:17:08Z"
         },
         {
-          "title": "The real Kawhi Leonard knee injury timeline revealed",
-          "source": "ClutchPoints",
-          "link": "https://clutchpoints.com/nba/toronto-raptors/raptors-news-the-real-kawhi-leonard-knee-injury-timeline-revealed",
-          "published": "2026-10-29T16:54:55Z"
+          "title": "Rumor: OKC Thunder could trade for familiar face to help 2026-27 season",
+          "source": "USA Today",
+          "link": "https://okcthunderwire.usatoday.com/story/sports/nba/thunder/2026/10/29/rumor-okc-thunder-could-trade-for-familiar-face-to-help-2026-27-season/92506138007/",
+          "published": "2026-10-30T01:15:09Z"
         },
         {
-          "title": "See T.I.'s daughter Heiress perform national anthem for WNBA Finals Game 6",
-          "source": "USA Today",
-          "link": "https://www.usatoday.com/story/sports/wnba/2026/10/29/ti-daughter-heiress-performs-national-anthem-for-wnba-finals-game-6/92489856007/",
-          "published": "2026-10-29T16:54:00Z"
+          "title": "Preview: Hobbled Jazz host Trail Blazers\u2019 red-hot wagon",
+          "source": "Slcdunk.com",
+          "link": "https://www.slcdunk.com/utah-jazz-game-coverage/70481/preview-hobbled-jazz-host-trail-blazers-red-hot-wagon",
+          "published": "2026-10-30T01:12:55Z"
         }
       ]
     },
@@ -298,219 +298,74 @@
       "away_team": "Detroit Pistons",
       "home_abbr": "BKN",
       "away_abbr": "DET",
-      "home_ml": "+260",
-      "away_ml": "-325",
-      "home_ml_raw": 260,
-      "away_ml_raw": -325,
-      "home_prob": 26.6,
-      "away_prob": 73.4,
-      "spread": "BKN +8.5",
-      "favorite": "Detroit Pistons",
-      "pick": "Detroit Pistons",
-      "pick_abbr": "DET",
-      "moneyline": "-325",
-      "win_probability": 73.4,
-      "confidence": "HIGH",
-      "confidence_stars": "\u2605\u2605\u2605",
-      "commence_time": "2026-10-30T23:40:00Z",
-      "line_movement": {
-        "home": {
-          "direction": "longer",
-          "points_moved": 20,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM +260 \u2190 +240",
-          "old_ml": "+240",
-          "new_ml": "+260"
-        },
-        "away": {
-          "direction": "shorter",
-          "points_moved": 27,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -325 \u2190 -298",
-          "old_ml": "-298",
-          "new_ml": "-325"
-        },
-        "pick": {
-          "direction": "shorter",
-          "points_moved": 27,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -325 \u2190 -298",
-          "old_ml": "-298",
-          "new_ml": "-325"
-        },
-        "snapshot_time": "October 30, 2026 at 11:28 AM UTC"
-      },
-      "fatigue": {
-        "home": {
-          "status": "RESTED",
-          "label": "2 days rest \u2705",
-          "battery": 88,
-          "last_game": "Oct 27",
-          "days_rest": 3,
-          "games_last_4d": 1,
-          "travel_miles": 190,
-          "travel_desc": "190 mi road trip",
-          "source": "ESPN Scoreboard API"
-        },
-        "away": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "Oct 28",
-          "days_rest": 2,
-          "games_last_4d": 2,
-          "travel_miles": 481,
-          "travel_desc": "481 mi road trip",
-          "source": "ESPN Scoreboard API"
-        }
-      },
-      "edge_factors": [
-        "\ud83d\udd25 Sharp steam detected"
-      ],
-      "injury_notes": "No key injuries.",
-      "sharp": {
-        "away_t": null,
-        "home_t": null,
-        "source": null,
-        "sharp_signal": null,
-        "sharp_label": "Pending \u2014 check closer to tip-off",
-        "rlm": false
-      },
-      "form": {
-        "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        },
-        "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        }
-      },
-      "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
-      },
-      "briefing": {
-        "trend": "Detroit Pistons hold a 73.4% edge.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -298 to -325 (27pt move) \u2014 heavy professional action on Detroit Pistons.",
-        "injury_notes": "No key injuries."
-      },
-      "live": {
-        "status": "pre",
-        "status_detail": "Upcoming",
-        "period": 0,
-        "clock": "",
-        "home_score": 0,
-        "away_score": 0,
-        "spread_alert": null
-      },
-      "news": [
-        {
-          "title": "Judge clears RJ Luis to play for LSU. Will Will Wade roster him?",
-          "source": "USA Today",
-          "link": "https://lsutigerswire.usatoday.com/story/sports/college/lsu/mens-basketball/2026/10/29/lsu-basketball-transfer-portal-rj-luis-legal-news/92487795007/",
-          "published": "2026-10-29T16:55:01Z"
-        },
-        {
-          "title": "The real Kawhi Leonard knee injury timeline revealed",
-          "source": "ClutchPoints",
-          "link": "https://clutchpoints.com/nba/toronto-raptors/raptors-news-the-real-kawhi-leonard-knee-injury-timeline-revealed",
-          "published": "2026-10-29T16:54:55Z"
-        },
-        {
-          "title": "See T.I.'s daughter Heiress perform national anthem for WNBA Finals Game 6",
-          "source": "USA Today",
-          "link": "https://www.usatoday.com/story/sports/wnba/2026/10/29/ti-daughter-heiress-performs-national-anthem-for-wnba-finals-game-6/92489856007/",
-          "published": "2026-10-29T16:54:00Z"
-        }
-      ]
-    },
-    {
-      "game": "New York Knicks @ Philadelphia 76ers",
-      "home_team": "Philadelphia 76ers",
-      "away_team": "New York Knicks",
-      "home_abbr": "PHI",
-      "away_abbr": "NYK",
-      "home_ml": "+105",
-      "away_ml": "-125",
-      "home_ml_raw": 105,
-      "away_ml_raw": -125,
-      "home_prob": 46.8,
-      "away_prob": 53.2,
-      "spread": "PHI +1.5",
-      "favorite": "New York Knicks",
-      "pick": "New York Knicks",
-      "pick_abbr": "NYK",
-      "moneyline": "-125",
-      "win_probability": 53.2,
+      "home_ml": "N/A",
+      "away_ml": "N/A",
+      "home_ml_raw": null,
+      "away_ml_raw": null,
+      "home_prob": 50.0,
+      "away_prob": 50.0,
+      "spread": "BKN +21.5",
+      "favorite": "Brooklyn Nets",
+      "pick": "Brooklyn Nets",
+      "pick_abbr": "BKN",
+      "moneyline": "N/A",
+      "win_probability": 50.0,
       "confidence": "LOW",
       "confidence_stars": "\u2605\u2606\u2606",
-      "commence_time": "2026-10-30T23:40:00Z",
+      "commence_time": "2026-10-30T23:41:10Z",
       "line_movement": {
         "home": {
-          "direction": "longer",
-          "points_moved": 3,
+          "direction": "none",
+          "points_moved": 0,
           "steam": false,
-          "label": "\ud83d\udd34 +105 \u2190 +102",
-          "old_ml": "+102",
-          "new_ml": "+105"
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
         },
         "away": {
-          "direction": "shorter",
-          "points_moved": 3,
+          "direction": "none",
+          "points_moved": 0,
           "steam": false,
-          "label": "\ud83d\udfe2 -125 \u2190 -122",
-          "old_ml": "-122",
-          "new_ml": "-125"
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
         },
         "pick": {
-          "direction": "shorter",
-          "points_moved": 3,
+          "direction": "none",
+          "points_moved": 0,
           "steam": false,
-          "label": "\ud83d\udfe2 -125 \u2190 -122",
-          "old_ml": "-122",
-          "new_ml": "-125"
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
         },
-        "snapshot_time": "October 30, 2026 at 11:28 AM UTC"
+        "snapshot_time": "October 30, 2026 at 04:57 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "Oct 28",
-          "days_rest": 2,
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Oct 30",
+          "days_rest": 1,
           "games_last_4d": 1,
-          "travel_miles": 583,
-          "travel_desc": "583 mi road trip",
+          "travel_miles": 0,
+          "travel_desc": "",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "Oct 28",
-          "days_rest": 2,
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Oct 30",
+          "days_rest": 1,
           "games_last_4d": 2,
-          "travel_miles": 713,
-          "travel_desc": "713 mi road trip",
+          "travel_miles": 483,
+          "travel_desc": "483 mi road trip",
           "source": "ESPN Scoreboard API"
         }
       },
       "edge_factors": [
-        "\ud83d\udcca 6.4pt probability edge"
+        "\ud83d\udca4 DET fatigued (B2B) \u2014 source: ESPN"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -547,9 +402,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "New York Knicks hold a 53.2% edge.",
+        "trend": "BKN on Back-to-Back \u26a0\ufe0f per ESPN schedule data. DET on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line moved -122\u2192-125 (3pts). Pending \u2014 check closer to tip-off",
+        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -563,22 +418,22 @@
       },
       "news": [
         {
-          "title": "Judge clears RJ Luis to play for LSU. Will Will Wade roster him?",
-          "source": "USA Today",
-          "link": "https://lsutigerswire.usatoday.com/story/sports/college/lsu/mens-basketball/2026/10/29/lsu-basketball-transfer-portal-rj-luis-legal-news/92487795007/",
-          "published": "2026-10-29T16:55:01Z"
+          "title": "Karl-Anthony Towns Draws Line on Potential Knicks Pay Cut",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/new-york-knicks/karl-anthony-towns-knicks-contract-pay-cut/",
+          "published": "2026-10-30T01:17:08Z"
         },
         {
-          "title": "The real Kawhi Leonard knee injury timeline revealed",
-          "source": "ClutchPoints",
-          "link": "https://clutchpoints.com/nba/toronto-raptors/raptors-news-the-real-kawhi-leonard-knee-injury-timeline-revealed",
-          "published": "2026-10-29T16:54:55Z"
+          "title": "Rumor: OKC Thunder could trade for familiar face to help 2026-27 season",
+          "source": "USA Today",
+          "link": "https://okcthunderwire.usatoday.com/story/sports/nba/thunder/2026/10/29/rumor-okc-thunder-could-trade-for-familiar-face-to-help-2026-27-season/92506138007/",
+          "published": "2026-10-30T01:15:09Z"
         },
         {
-          "title": "See T.I.'s daughter Heiress perform national anthem for WNBA Finals Game 6",
-          "source": "USA Today",
-          "link": "https://www.usatoday.com/story/sports/wnba/2026/10/29/ti-daughter-heiress-performs-national-anthem-for-wnba-finals-game-6/92489856007/",
-          "published": "2026-10-29T16:54:00Z"
+          "title": "Preview: Hobbled Jazz host Trail Blazers\u2019 red-hot wagon",
+          "source": "Slcdunk.com",
+          "link": "https://www.slcdunk.com/utah-jazz-game-coverage/70481/preview-hobbled-jazz-host-trail-blazers-red-hot-wagon",
+          "published": "2026-10-30T01:12:55Z"
         }
       ]
     },
@@ -588,74 +443,75 @@
       "away_team": "Orlando Magic",
       "home_abbr": "TOR",
       "away_abbr": "ORL",
-      "home_ml": "-218",
-      "away_ml": "+180",
-      "home_ml_raw": -218,
-      "away_ml_raw": 180,
-      "home_prob": 65.7,
-      "away_prob": 34.3,
-      "spread": "TOR -5.5",
-      "favorite": "Toronto Raptors",
-      "pick": "Toronto Raptors",
-      "pick_abbr": "TOR",
-      "moneyline": "-218",
-      "win_probability": 65.7,
-      "confidence": "MEDIUM",
-      "confidence_stars": "\u2605\u2605\u2606",
-      "commence_time": "2026-10-30T23:40:00Z",
+      "home_ml": "+115",
+      "away_ml": "-155",
+      "home_ml_raw": 115,
+      "away_ml_raw": -155,
+      "home_prob": 43.3,
+      "away_prob": 56.7,
+      "spread": "TOR +2.5",
+      "favorite": "Orlando Magic",
+      "pick": "Orlando Magic",
+      "pick_abbr": "ORL",
+      "moneyline": "-155",
+      "win_probability": 56.7,
+      "confidence": "LOW",
+      "confidence_stars": "\u2605\u2606\u2606",
+      "commence_time": "2026-10-30T23:42:25Z",
       "line_movement": {
         "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "longer",
+          "points_moved": 333,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM +115 \u2190 -218",
           "old_ml": "-218",
-          "new_ml": "-218"
+          "new_ml": "+115"
         },
         "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "shorter",
+          "points_moved": 335,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -155 \u2190 +180",
           "old_ml": "+180",
-          "new_ml": "+180"
+          "new_ml": "-155"
         },
         "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
-          "old_ml": "-218",
-          "new_ml": "-218"
+          "direction": "shorter",
+          "points_moved": 335,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -155 \u2190 +180",
+          "old_ml": "+180",
+          "new_ml": "-155"
         },
-        "snapshot_time": "October 30, 2026 at 11:28 AM UTC"
+        "snapshot_time": "October 30, 2026 at 04:57 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "Oct 28",
-          "days_rest": 2,
-          "games_last_4d": 1,
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Oct 30",
+          "days_rest": 1,
+          "games_last_4d": 2,
           "travel_miles": 0,
           "travel_desc": "",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "Oct 28",
-          "days_rest": 2,
-          "games_last_4d": 1,
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Oct 30",
+          "days_rest": 1,
+          "games_last_4d": 2,
           "travel_miles": 1049,
           "travel_desc": "1,049 mi road trip",
           "source": "ESPN Scoreboard API"
         }
       },
       "edge_factors": [
-        "\ud83d\udcca 31.4pt probability edge"
+        "\ud83d\udd25 Sharp steam detected",
+        "\ud83d\udca4 TOR fatigued (B2B) \u2014 source: ESPN"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -692,9 +548,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "Toronto Raptors hold a 65.7% edge.",
+        "trend": "TOR on Back-to-Back \u26a0\ufe0f per ESPN schedule data. ORL on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "steam": "Line steamed from +180 to -155 (335pt move) \u2014 heavy professional action on Orlando Magic.",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -708,244 +564,100 @@
       },
       "news": [
         {
-          "title": "Judge clears RJ Luis to play for LSU. Will Will Wade roster him?",
-          "source": "USA Today",
-          "link": "https://lsutigerswire.usatoday.com/story/sports/college/lsu/mens-basketball/2026/10/29/lsu-basketball-transfer-portal-rj-luis-legal-news/92487795007/",
-          "published": "2026-10-29T16:55:01Z"
+          "title": "Karl-Anthony Towns Draws Line on Potential Knicks Pay Cut",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/new-york-knicks/karl-anthony-towns-knicks-contract-pay-cut/",
+          "published": "2026-10-30T01:17:08Z"
         },
         {
-          "title": "The real Kawhi Leonard knee injury timeline revealed",
-          "source": "ClutchPoints",
-          "link": "https://clutchpoints.com/nba/toronto-raptors/raptors-news-the-real-kawhi-leonard-knee-injury-timeline-revealed",
-          "published": "2026-10-29T16:54:55Z"
+          "title": "Rumor: OKC Thunder could trade for familiar face to help 2026-27 season",
+          "source": "USA Today",
+          "link": "https://okcthunderwire.usatoday.com/story/sports/nba/thunder/2026/10/29/rumor-okc-thunder-could-trade-for-familiar-face-to-help-2026-27-season/92506138007/",
+          "published": "2026-10-30T01:15:09Z"
         },
         {
-          "title": "See T.I.'s daughter Heiress perform national anthem for WNBA Finals Game 6",
-          "source": "USA Today",
-          "link": "https://www.usatoday.com/story/sports/wnba/2026/10/29/ti-daughter-heiress-performs-national-anthem-for-wnba-finals-game-6/92489856007/",
-          "published": "2026-10-29T16:54:00Z"
+          "title": "Preview: Hobbled Jazz host Trail Blazers\u2019 red-hot wagon",
+          "source": "Slcdunk.com",
+          "link": "https://www.slcdunk.com/utah-jazz-game-coverage/70481/preview-hobbled-jazz-host-trail-blazers-red-hot-wagon",
+          "published": "2026-10-30T01:12:55Z"
         }
       ]
     },
     {
-      "game": "Houston Rockets @ Dallas Mavericks",
-      "home_team": "Dallas Mavericks",
-      "away_team": "Houston Rockets",
-      "home_abbr": "DAL",
-      "away_abbr": "HOU",
-      "home_ml": "+195",
-      "away_ml": "-238",
-      "home_ml_raw": 195,
-      "away_ml_raw": -238,
-      "home_prob": 32.5,
-      "away_prob": 67.5,
-      "spread": "DAL +6.5",
-      "favorite": "Houston Rockets",
-      "pick": "Houston Rockets",
-      "pick_abbr": "HOU",
-      "moneyline": "-238",
-      "win_probability": 67.5,
-      "confidence": "MEDIUM",
-      "confidence_stars": "\u2605\u2605\u2606",
-      "commence_time": "2026-10-31T00:10:00Z",
-      "line_movement": {
-        "home": {
-          "direction": "longer",
-          "points_moved": 10,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM +195 \u2190 +185",
-          "old_ml": "+185",
-          "new_ml": "+195"
-        },
-        "away": {
-          "direction": "shorter",
-          "points_moved": 13,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -238 \u2190 -225",
-          "old_ml": "-225",
-          "new_ml": "-238"
-        },
-        "pick": {
-          "direction": "shorter",
-          "points_moved": 13,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -238 \u2190 -225",
-          "old_ml": "-225",
-          "new_ml": "-238"
-        },
-        "snapshot_time": "October 30, 2026 at 11:28 AM UTC"
-      },
-      "fatigue": {
-        "home": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "Oct 28",
-          "days_rest": 2,
-          "games_last_4d": 2,
-          "travel_miles": 1111,
-          "travel_desc": "1,111 mi road trip",
-          "source": "ESPN Scoreboard API"
-        },
-        "away": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "Oct 28",
-          "days_rest": 2,
-          "games_last_4d": 2,
-          "travel_miles": 1006,
-          "travel_desc": "1,006 mi road trip",
-          "source": "ESPN Scoreboard API"
-        }
-      },
-      "edge_factors": [
-        "\ud83d\udd25 Sharp steam detected"
-      ],
-      "injury_notes": "No key injuries.",
-      "sharp": {
-        "away_t": null,
-        "home_t": null,
-        "source": null,
-        "sharp_signal": null,
-        "sharp_label": "Pending \u2014 check closer to tip-off",
-        "rlm": false
-      },
-      "form": {
-        "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        },
-        "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        }
-      },
-      "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
-      },
-      "briefing": {
-        "trend": "Houston Rockets hold a 67.5% edge.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -225 to -238 (13pt move) \u2014 heavy professional action on Houston Rockets.",
-        "injury_notes": "No key injuries."
-      },
-      "live": {
-        "status": "pre",
-        "status_detail": "Upcoming",
-        "period": 0,
-        "clock": "",
-        "home_score": 0,
-        "away_score": 0,
-        "spread_alert": null
-      },
-      "news": [
-        {
-          "title": "Judge clears RJ Luis to play for LSU. Will Will Wade roster him?",
-          "source": "USA Today",
-          "link": "https://lsutigerswire.usatoday.com/story/sports/college/lsu/mens-basketball/2026/10/29/lsu-basketball-transfer-portal-rj-luis-legal-news/92487795007/",
-          "published": "2026-10-29T16:55:01Z"
-        },
-        {
-          "title": "The real Kawhi Leonard knee injury timeline revealed",
-          "source": "ClutchPoints",
-          "link": "https://clutchpoints.com/nba/toronto-raptors/raptors-news-the-real-kawhi-leonard-knee-injury-timeline-revealed",
-          "published": "2026-10-29T16:54:55Z"
-        },
-        {
-          "title": "See T.I.'s daughter Heiress perform national anthem for WNBA Finals Game 6",
-          "source": "USA Today",
-          "link": "https://www.usatoday.com/story/sports/wnba/2026/10/29/ti-daughter-heiress-performs-national-anthem-for-wnba-finals-game-6/92489856007/",
-          "published": "2026-10-29T16:54:00Z"
-        }
-      ]
-    },
-    {
-      "game": "Indiana Pacers @ Miami Heat",
-      "home_team": "Miami Heat",
-      "away_team": "Indiana Pacers",
-      "home_abbr": "MIA",
-      "away_abbr": "IND",
-      "home_ml": "-325",
+      "game": "New York Knicks @ Philadelphia 76ers",
+      "home_team": "Philadelphia 76ers",
+      "away_team": "New York Knicks",
+      "home_abbr": "PHI",
+      "away_abbr": "NYK",
+      "home_ml": "-360",
       "away_ml": "+260",
-      "home_ml_raw": -325,
+      "home_ml_raw": -360,
       "away_ml_raw": 260,
-      "home_prob": 73.4,
-      "away_prob": 26.6,
-      "spread": "MIA -8.5",
-      "favorite": "Miami Heat",
-      "pick": "Miami Heat",
-      "pick_abbr": "MIA",
-      "moneyline": "-325",
-      "win_probability": 73.4,
+      "home_prob": 73.8,
+      "away_prob": 26.2,
+      "spread": "PHI -6.5",
+      "favorite": "Philadelphia 76ers",
+      "pick": "Philadelphia 76ers",
+      "pick_abbr": "PHI",
+      "moneyline": "-360",
+      "win_probability": 73.8,
       "confidence": "HIGH",
       "confidence_stars": "\u2605\u2605\u2605",
-      "commence_time": "2026-10-31T00:10:00Z",
+      "commence_time": "2026-10-30T23:43:00Z",
       "line_movement": {
         "home": {
           "direction": "shorter",
-          "points_moved": 20,
+          "points_moved": 465,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM -325 \u2190 -305",
-          "old_ml": "-305",
-          "new_ml": "-325"
+          "label": "\ud83d\udd25 STEAM -360 \u2190 +105",
+          "old_ml": "+105",
+          "new_ml": "-360"
         },
         "away": {
           "direction": "longer",
-          "points_moved": 15,
+          "points_moved": 385,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM +260 \u2190 +245",
-          "old_ml": "+245",
+          "label": "\ud83d\udd25 STEAM +260 \u2190 -125",
+          "old_ml": "-125",
           "new_ml": "+260"
         },
         "pick": {
           "direction": "shorter",
-          "points_moved": 20,
+          "points_moved": 465,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM -325 \u2190 -305",
-          "old_ml": "-305",
-          "new_ml": "-325"
+          "label": "\ud83d\udd25 STEAM -360 \u2190 +105",
+          "old_ml": "+105",
+          "new_ml": "-360"
         },
-        "snapshot_time": "October 30, 2026 at 11:28 AM UTC"
+        "snapshot_time": "October 30, 2026 at 04:57 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "Oct 28",
-          "days_rest": 2,
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Oct 30",
+          "days_rest": 1,
           "games_last_4d": 2,
-          "travel_miles": 606,
-          "travel_desc": "606 mi road trip",
+          "travel_miles": 583,
+          "travel_desc": "583 mi road trip",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "Oct 28",
-          "days_rest": 2,
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Oct 30",
+          "days_rest": 1,
           "games_last_4d": 2,
-          "travel_miles": 244,
-          "travel_desc": "244 mi road trip",
+          "travel_miles": 85,
+          "travel_desc": "85 mi road trip",
           "source": "ESPN Scoreboard API"
         }
       },
       "edge_factors": [
-        "\ud83d\udd25 Sharp steam detected"
+        "\ud83d\udd25 Sharp steam detected",
+        "\ud83d\udca4 NYK fatigued (B2B) \u2014 source: ESPN"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -982,9 +694,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "Miami Heat hold a 73.4% edge.",
+        "trend": "PHI on Back-to-Back \u26a0\ufe0f per ESPN schedule data. NYK on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -305 to -325 (20pt move) \u2014 heavy professional action on Miami Heat.",
+        "steam": "Line steamed from +105 to -360 (465pt move) \u2014 heavy professional action on Philadelphia 76ers.",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -998,22 +710,22 @@
       },
       "news": [
         {
-          "title": "Judge clears RJ Luis to play for LSU. Will Will Wade roster him?",
-          "source": "USA Today",
-          "link": "https://lsutigerswire.usatoday.com/story/sports/college/lsu/mens-basketball/2026/10/29/lsu-basketball-transfer-portal-rj-luis-legal-news/92487795007/",
-          "published": "2026-10-29T16:55:01Z"
+          "title": "Karl-Anthony Towns Draws Line on Potential Knicks Pay Cut",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/new-york-knicks/karl-anthony-towns-knicks-contract-pay-cut/",
+          "published": "2026-10-30T01:17:08Z"
         },
         {
-          "title": "The real Kawhi Leonard knee injury timeline revealed",
-          "source": "ClutchPoints",
-          "link": "https://clutchpoints.com/nba/toronto-raptors/raptors-news-the-real-kawhi-leonard-knee-injury-timeline-revealed",
-          "published": "2026-10-29T16:54:55Z"
+          "title": "Rumor: OKC Thunder could trade for familiar face to help 2026-27 season",
+          "source": "USA Today",
+          "link": "https://okcthunderwire.usatoday.com/story/sports/nba/thunder/2026/10/29/rumor-okc-thunder-could-trade-for-familiar-face-to-help-2026-27-season/92506138007/",
+          "published": "2026-10-30T01:15:09Z"
         },
         {
-          "title": "See T.I.'s daughter Heiress perform national anthem for WNBA Finals Game 6",
-          "source": "USA Today",
-          "link": "https://www.usatoday.com/story/sports/wnba/2026/10/29/ti-daughter-heiress-performs-national-anthem-for-wnba-finals-game-6/92489856007/",
-          "published": "2026-10-29T16:54:00Z"
+          "title": "Preview: Hobbled Jazz host Trail Blazers\u2019 red-hot wagon",
+          "source": "Slcdunk.com",
+          "link": "https://www.slcdunk.com/utah-jazz-game-coverage/70481/preview-hobbled-jazz-host-trail-blazers-red-hot-wagon",
+          "published": "2026-10-30T01:12:55Z"
         }
       ]
     },
@@ -1023,74 +735,75 @@
       "away_team": "Los Angeles Clippers",
       "home_abbr": "MIN",
       "away_abbr": "LAC",
-      "home_ml": "-278",
-      "away_ml": "+225",
-      "home_ml_raw": -278,
-      "away_ml_raw": 225,
-      "home_prob": 70.5,
-      "away_prob": 29.5,
-      "spread": "MIN -6.5",
+      "home_ml": "-1100",
+      "away_ml": "+650",
+      "home_ml_raw": -1100,
+      "away_ml_raw": 650,
+      "home_prob": 87.3,
+      "away_prob": 12.7,
+      "spread": "MIN -11.5",
       "favorite": "Minnesota Timberwolves",
       "pick": "Minnesota Timberwolves",
       "pick_abbr": "MIN",
-      "moneyline": "-278",
-      "win_probability": 70.5,
-      "confidence": "MEDIUM",
-      "confidence_stars": "\u2605\u2605\u2606",
-      "commence_time": "2026-10-31T00:10:00Z",
+      "moneyline": "-1100",
+      "win_probability": 87.3,
+      "confidence": "HIGH",
+      "confidence_stars": "\u2605\u2605\u2605",
+      "commence_time": "2026-10-31T00:10:35Z",
       "line_movement": {
         "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "shorter",
+          "points_moved": 822,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -1100 \u2190 -278",
           "old_ml": "-278",
-          "new_ml": "-278"
+          "new_ml": "-1100"
         },
         "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "longer",
+          "points_moved": 425,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM +650 \u2190 +225",
           "old_ml": "+225",
-          "new_ml": "+225"
+          "new_ml": "+650"
         },
         "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "shorter",
+          "points_moved": 822,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -1100 \u2190 -278",
           "old_ml": "-278",
-          "new_ml": "-278"
+          "new_ml": "-1100"
         },
-        "snapshot_time": "October 30, 2026 at 11:28 AM UTC"
+        "snapshot_time": "October 30, 2026 at 04:57 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "Oct 28",
-          "days_rest": 2,
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Oct 30",
+          "days_rest": 1,
           "games_last_4d": 2,
-          "travel_miles": 630,
-          "travel_desc": "630 mi road trip",
+          "travel_miles": 0,
+          "travel_desc": "",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "Oct 28",
-          "days_rest": 2,
-          "games_last_4d": 1,
-          "travel_miles": 0,
-          "travel_desc": "",
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Oct 30",
+          "days_rest": 1,
+          "games_last_4d": 2,
+          "travel_miles": 1522,
+          "travel_desc": "1,522 mi road trip",
           "source": "ESPN Scoreboard API"
         }
       },
       "edge_factors": [
-        "\ud83d\udcca 41.0pt probability edge"
+        "\ud83d\udd25 Sharp steam detected",
+        "\ud83d\udca4 LAC fatigued (B2B) \u2014 source: ESPN"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -1127,9 +840,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "Minnesota Timberwolves hold a 70.5% edge.",
+        "trend": "MIN on Back-to-Back \u26a0\ufe0f per ESPN schedule data. LAC on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "steam": "Line steamed from -278 to -1100 (822pt move) \u2014 heavy professional action on Minnesota Timberwolves.",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -1143,22 +856,314 @@
       },
       "news": [
         {
-          "title": "Judge clears RJ Luis to play for LSU. Will Will Wade roster him?",
-          "source": "USA Today",
-          "link": "https://lsutigerswire.usatoday.com/story/sports/college/lsu/mens-basketball/2026/10/29/lsu-basketball-transfer-portal-rj-luis-legal-news/92487795007/",
-          "published": "2026-10-29T16:55:01Z"
+          "title": "Karl-Anthony Towns Draws Line on Potential Knicks Pay Cut",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/new-york-knicks/karl-anthony-towns-knicks-contract-pay-cut/",
+          "published": "2026-10-30T01:17:08Z"
         },
         {
-          "title": "The real Kawhi Leonard knee injury timeline revealed",
-          "source": "ClutchPoints",
-          "link": "https://clutchpoints.com/nba/toronto-raptors/raptors-news-the-real-kawhi-leonard-knee-injury-timeline-revealed",
-          "published": "2026-10-29T16:54:55Z"
+          "title": "Rumor: OKC Thunder could trade for familiar face to help 2026-27 season",
+          "source": "USA Today",
+          "link": "https://okcthunderwire.usatoday.com/story/sports/nba/thunder/2026/10/29/rumor-okc-thunder-could-trade-for-familiar-face-to-help-2026-27-season/92506138007/",
+          "published": "2026-10-30T01:15:09Z"
         },
         {
-          "title": "See T.I.'s daughter Heiress perform national anthem for WNBA Finals Game 6",
+          "title": "Preview: Hobbled Jazz host Trail Blazers\u2019 red-hot wagon",
+          "source": "Slcdunk.com",
+          "link": "https://www.slcdunk.com/utah-jazz-game-coverage/70481/preview-hobbled-jazz-host-trail-blazers-red-hot-wagon",
+          "published": "2026-10-30T01:12:55Z"
+        }
+      ]
+    },
+    {
+      "game": "Houston Rockets @ Dallas Mavericks",
+      "home_team": "Dallas Mavericks",
+      "away_team": "Houston Rockets",
+      "home_abbr": "DAL",
+      "away_abbr": "HOU",
+      "home_ml": "+300",
+      "away_ml": "-425",
+      "home_ml_raw": 300,
+      "away_ml_raw": -425,
+      "home_prob": 23.6,
+      "away_prob": 76.4,
+      "spread": "DAL +8.5",
+      "favorite": "Houston Rockets",
+      "pick": "Houston Rockets",
+      "pick_abbr": "HOU",
+      "moneyline": "-425",
+      "win_probability": 76.4,
+      "confidence": "HIGH",
+      "confidence_stars": "\u2605\u2605\u2605",
+      "commence_time": "2026-10-31T00:11:04Z",
+      "line_movement": {
+        "home": {
+          "direction": "longer",
+          "points_moved": 105,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM +300 \u2190 +195",
+          "old_ml": "+195",
+          "new_ml": "+300"
+        },
+        "away": {
+          "direction": "shorter",
+          "points_moved": 187,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -425 \u2190 -238",
+          "old_ml": "-238",
+          "new_ml": "-425"
+        },
+        "pick": {
+          "direction": "shorter",
+          "points_moved": 187,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -425 \u2190 -238",
+          "old_ml": "-238",
+          "new_ml": "-425"
+        },
+        "snapshot_time": "October 30, 2026 at 04:57 PM UTC"
+      },
+      "fatigue": {
+        "home": {
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Oct 30",
+          "days_rest": 1,
+          "games_last_4d": 2,
+          "travel_miles": 0,
+          "travel_desc": "",
+          "source": "ESPN Scoreboard API"
+        },
+        "away": {
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Oct 30",
+          "days_rest": 1,
+          "games_last_4d": 2,
+          "travel_miles": 227,
+          "travel_desc": "227 mi road trip",
+          "source": "ESPN Scoreboard API"
+        }
+      },
+      "edge_factors": [
+        "\ud83d\udd25 Sharp steam detected",
+        "\ud83d\udca4 DAL fatigued (B2B) \u2014 source: ESPN"
+      ],
+      "injury_notes": "No key injuries.",
+      "sharp": {
+        "away_t": null,
+        "home_t": null,
+        "source": null,
+        "sharp_signal": null,
+        "sharp_label": "Pending \u2014 check closer to tip-off",
+        "rlm": false
+      },
+      "form": {
+        "home": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        },
+        "away": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        }
+      },
+      "h2h": {
+        "total_meetings": 0,
+        "home_wins": 0,
+        "away_wins": 0,
+        "meetings": [],
+        "source": "\u2014"
+      },
+      "briefing": {
+        "trend": "DAL on Back-to-Back \u26a0\ufe0f per ESPN schedule data. HOU on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "matchup": "Both rosters appear healthy \u2014 clean line.",
+        "steam": "Line steamed from -238 to -425 (187pt move) \u2014 heavy professional action on Houston Rockets.",
+        "injury_notes": "No key injuries."
+      },
+      "live": {
+        "status": "pre",
+        "status_detail": "Upcoming",
+        "period": 0,
+        "clock": "",
+        "home_score": 0,
+        "away_score": 0,
+        "spread_alert": null
+      },
+      "news": [
+        {
+          "title": "Karl-Anthony Towns Draws Line on Potential Knicks Pay Cut",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/new-york-knicks/karl-anthony-towns-knicks-contract-pay-cut/",
+          "published": "2026-10-30T01:17:08Z"
+        },
+        {
+          "title": "Rumor: OKC Thunder could trade for familiar face to help 2026-27 season",
           "source": "USA Today",
-          "link": "https://www.usatoday.com/story/sports/wnba/2026/10/29/ti-daughter-heiress-performs-national-anthem-for-wnba-finals-game-6/92489856007/",
-          "published": "2026-10-29T16:54:00Z"
+          "link": "https://okcthunderwire.usatoday.com/story/sports/nba/thunder/2026/10/29/rumor-okc-thunder-could-trade-for-familiar-face-to-help-2026-27-season/92506138007/",
+          "published": "2026-10-30T01:15:09Z"
+        },
+        {
+          "title": "Preview: Hobbled Jazz host Trail Blazers\u2019 red-hot wagon",
+          "source": "Slcdunk.com",
+          "link": "https://www.slcdunk.com/utah-jazz-game-coverage/70481/preview-hobbled-jazz-host-trail-blazers-red-hot-wagon",
+          "published": "2026-10-30T01:12:55Z"
+        }
+      ]
+    },
+    {
+      "game": "Indiana Pacers @ Miami Heat",
+      "home_team": "Miami Heat",
+      "away_team": "Indiana Pacers",
+      "home_abbr": "MIA",
+      "away_abbr": "IND",
+      "home_ml": "-650",
+      "away_ml": "+425",
+      "home_ml_raw": -650,
+      "away_ml_raw": 425,
+      "home_prob": 82.0,
+      "away_prob": 18.0,
+      "spread": "MIA -10.5",
+      "favorite": "Miami Heat",
+      "pick": "Miami Heat",
+      "pick_abbr": "MIA",
+      "moneyline": "-650",
+      "win_probability": 82.0,
+      "confidence": "HIGH",
+      "confidence_stars": "\u2605\u2605\u2605",
+      "commence_time": "2026-10-31T00:11:56Z",
+      "line_movement": {
+        "home": {
+          "direction": "shorter",
+          "points_moved": 325,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -650 \u2190 -325",
+          "old_ml": "-325",
+          "new_ml": "-650"
+        },
+        "away": {
+          "direction": "longer",
+          "points_moved": 165,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM +425 \u2190 +260",
+          "old_ml": "+260",
+          "new_ml": "+425"
+        },
+        "pick": {
+          "direction": "shorter",
+          "points_moved": 325,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -650 \u2190 -325",
+          "old_ml": "-325",
+          "new_ml": "-650"
+        },
+        "snapshot_time": "October 30, 2026 at 04:57 PM UTC"
+      },
+      "fatigue": {
+        "home": {
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Oct 30",
+          "days_rest": 1,
+          "games_last_4d": 2,
+          "travel_miles": 606,
+          "travel_desc": "606 mi road trip",
+          "source": "ESPN Scoreboard API"
+        },
+        "away": {
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Oct 30",
+          "days_rest": 1,
+          "games_last_4d": 2,
+          "travel_miles": 1026,
+          "travel_desc": "1,026 mi road trip",
+          "source": "ESPN Scoreboard API"
+        }
+      },
+      "edge_factors": [
+        "\ud83d\udd25 Sharp steam detected",
+        "\ud83d\udca4 IND fatigued (B2B) \u2014 source: ESPN"
+      ],
+      "injury_notes": "No key injuries.",
+      "sharp": {
+        "away_t": null,
+        "home_t": null,
+        "source": null,
+        "sharp_signal": null,
+        "sharp_label": "Pending \u2014 check closer to tip-off",
+        "rlm": false
+      },
+      "form": {
+        "home": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        },
+        "away": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        }
+      },
+      "h2h": {
+        "total_meetings": 0,
+        "home_wins": 0,
+        "away_wins": 0,
+        "meetings": [],
+        "source": "\u2014"
+      },
+      "briefing": {
+        "trend": "MIA on Back-to-Back \u26a0\ufe0f per ESPN schedule data. IND on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "matchup": "Both rosters appear healthy \u2014 clean line.",
+        "steam": "Line steamed from -325 to -650 (325pt move) \u2014 heavy professional action on Miami Heat.",
+        "injury_notes": "No key injuries."
+      },
+      "live": {
+        "status": "pre",
+        "status_detail": "Upcoming",
+        "period": 0,
+        "clock": "",
+        "home_score": 0,
+        "away_score": 0,
+        "spread_alert": null
+      },
+      "news": [
+        {
+          "title": "Karl-Anthony Towns Draws Line on Potential Knicks Pay Cut",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/new-york-knicks/karl-anthony-towns-knicks-contract-pay-cut/",
+          "published": "2026-10-30T01:17:08Z"
+        },
+        {
+          "title": "Rumor: OKC Thunder could trade for familiar face to help 2026-27 season",
+          "source": "USA Today",
+          "link": "https://okcthunderwire.usatoday.com/story/sports/nba/thunder/2026/10/29/rumor-okc-thunder-could-trade-for-familiar-face-to-help-2026-27-season/92506138007/",
+          "published": "2026-10-30T01:15:09Z"
+        },
+        {
+          "title": "Preview: Hobbled Jazz host Trail Blazers\u2019 red-hot wagon",
+          "source": "Slcdunk.com",
+          "link": "https://www.slcdunk.com/utah-jazz-game-coverage/70481/preview-hobbled-jazz-host-trail-blazers-red-hot-wagon",
+          "published": "2026-10-30T01:12:55Z"
         }
       ]
     },
@@ -1168,74 +1173,74 @@
       "away_team": "Denver Nuggets",
       "home_abbr": "PHX",
       "away_abbr": "DEN",
-      "home_ml": "+150",
-      "away_ml": "-180",
-      "home_ml_raw": 150,
-      "away_ml_raw": -180,
-      "home_prob": 38.4,
-      "away_prob": 61.6,
-      "spread": "PHX +4.5",
+      "home_ml": "+145",
+      "away_ml": "-175",
+      "home_ml_raw": 145,
+      "away_ml_raw": -175,
+      "home_prob": 39.1,
+      "away_prob": 60.9,
+      "spread": "PHX +3.5",
       "favorite": "Denver Nuggets",
       "pick": "Denver Nuggets",
       "pick_abbr": "DEN",
-      "moneyline": "-180",
-      "win_probability": 61.6,
+      "moneyline": "-175",
+      "win_probability": 60.9,
       "confidence": "MEDIUM",
       "confidence_stars": "\u2605\u2605\u2606",
       "commence_time": "2026-10-31T02:10:00Z",
       "line_movement": {
         "home": {
-          "direction": "none",
-          "points_moved": 0,
+          "direction": "shorter",
+          "points_moved": 5,
           "steam": false,
-          "label": "No movement",
+          "label": "\ud83d\udfe2 +145 \u2190 +150",
           "old_ml": "+150",
-          "new_ml": "+150"
+          "new_ml": "+145"
         },
         "away": {
-          "direction": "none",
-          "points_moved": 0,
+          "direction": "longer",
+          "points_moved": 5,
           "steam": false,
-          "label": "No movement",
+          "label": "\ud83d\udd34 -175 \u2190 -180",
           "old_ml": "-180",
-          "new_ml": "-180"
+          "new_ml": "-175"
         },
         "pick": {
-          "direction": "none",
-          "points_moved": 0,
+          "direction": "longer",
+          "points_moved": 5,
           "steam": false,
-          "label": "No movement",
+          "label": "\ud83d\udd34 -175 \u2190 -180",
           "old_ml": "-180",
-          "new_ml": "-180"
+          "new_ml": "-175"
         },
-        "snapshot_time": "October 30, 2026 at 11:28 AM UTC"
+        "snapshot_time": "October 30, 2026 at 04:57 PM UTC"
       },
       "fatigue": {
         "home": {
           "status": "FRESH",
           "label": "Well rested \u2705",
           "battery": 100,
-          "last_game": "Oct 26",
-          "days_rest": 4,
-          "games_last_4d": 1,
-          "travel_miles": 840,
-          "travel_desc": "840 mi road trip",
+          "last_game": "\u2014",
+          "days_rest": 99,
+          "games_last_4d": 0,
+          "travel_miles": 0,
+          "travel_desc": "",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
+          "status": "RESTED",
+          "label": "2 days rest \u2705",
+          "battery": 88,
           "last_game": "Oct 28",
-          "days_rest": 2,
-          "games_last_4d": 2,
+          "days_rest": 3,
+          "games_last_4d": 1,
           "travel_miles": 1081,
           "travel_desc": "1,081 mi road trip",
           "source": "ESPN Scoreboard API"
         }
       },
       "edge_factors": [
-        "\ud83d\udcca 23.2pt probability edge"
+        "\ud83d\udcca 21.8pt probability edge"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -1272,7 +1277,297 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "Denver Nuggets hold a 61.6% edge.",
+        "trend": "Denver Nuggets hold a 60.9% edge.",
+        "matchup": "Both rosters appear healthy \u2014 clean line.",
+        "steam": "Line moved -180\u2192-175 (5pts). Pending \u2014 check closer to tip-off",
+        "injury_notes": "No key injuries."
+      },
+      "live": {
+        "status": "pre",
+        "status_detail": "Upcoming",
+        "period": 0,
+        "clock": "",
+        "home_score": 0,
+        "away_score": 0,
+        "spread_alert": null
+      },
+      "news": [
+        {
+          "title": "Karl-Anthony Towns Draws Line on Potential Knicks Pay Cut",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/new-york-knicks/karl-anthony-towns-knicks-contract-pay-cut/",
+          "published": "2026-10-30T01:17:08Z"
+        },
+        {
+          "title": "Rumor: OKC Thunder could trade for familiar face to help 2026-27 season",
+          "source": "USA Today",
+          "link": "https://okcthunderwire.usatoday.com/story/sports/nba/thunder/2026/10/29/rumor-okc-thunder-could-trade-for-familiar-face-to-help-2026-27-season/92506138007/",
+          "published": "2026-10-30T01:15:09Z"
+        },
+        {
+          "title": "Preview: Hobbled Jazz host Trail Blazers\u2019 red-hot wagon",
+          "source": "Slcdunk.com",
+          "link": "https://www.slcdunk.com/utah-jazz-game-coverage/70481/preview-hobbled-jazz-host-trail-blazers-red-hot-wagon",
+          "published": "2026-10-30T01:12:55Z"
+        }
+      ]
+    },
+    {
+      "game": "Los Angeles Lakers @ Golden State Warriors",
+      "home_team": "Golden State Warriors",
+      "away_team": "Los Angeles Lakers",
+      "home_abbr": "GSW",
+      "away_abbr": "LAL",
+      "home_ml": "+130",
+      "away_ml": "-155",
+      "home_ml_raw": 130,
+      "away_ml_raw": -155,
+      "home_prob": 41.7,
+      "away_prob": 58.3,
+      "spread": "GSW +3.5",
+      "favorite": "Los Angeles Lakers",
+      "pick": "Los Angeles Lakers",
+      "pick_abbr": "LAL",
+      "moneyline": "-155",
+      "win_probability": 58.3,
+      "confidence": "MEDIUM",
+      "confidence_stars": "\u2605\u2605\u2606",
+      "commence_time": "2026-10-31T02:10:00Z",
+      "line_movement": {
+        "home": {
+          "direction": "longer",
+          "points_moved": 6,
+          "steam": false,
+          "label": "\ud83d\udd34 +130 \u2190 +124",
+          "old_ml": "+124",
+          "new_ml": "+130"
+        },
+        "away": {
+          "direction": "shorter",
+          "points_moved": 7,
+          "steam": false,
+          "label": "\ud83d\udfe2 -155 \u2190 -148",
+          "old_ml": "-148",
+          "new_ml": "-155"
+        },
+        "pick": {
+          "direction": "shorter",
+          "points_moved": 7,
+          "steam": false,
+          "label": "\ud83d\udfe2 -155 \u2190 -148",
+          "old_ml": "-148",
+          "new_ml": "-155"
+        },
+        "snapshot_time": "October 30, 2026 at 04:57 PM UTC"
+      },
+      "fatigue": {
+        "home": {
+          "status": "RESTED",
+          "label": "2 days rest \u2705",
+          "battery": 88,
+          "last_game": "Oct 28",
+          "days_rest": 3,
+          "games_last_4d": 1,
+          "travel_miles": 1580,
+          "travel_desc": "1,580 mi road trip",
+          "source": "ESPN Scoreboard API"
+        },
+        "away": {
+          "status": "RESTED",
+          "label": "2 days rest \u2705",
+          "battery": 88,
+          "last_game": "Oct 28",
+          "days_rest": 3,
+          "games_last_4d": 1,
+          "travel_miles": 0,
+          "travel_desc": "",
+          "source": "ESPN Scoreboard API"
+        }
+      },
+      "edge_factors": [
+        "\ud83d\udcca 16.6pt probability edge"
+      ],
+      "injury_notes": "No key injuries.",
+      "sharp": {
+        "away_t": null,
+        "home_t": null,
+        "source": null,
+        "sharp_signal": null,
+        "sharp_label": "Pending \u2014 check closer to tip-off",
+        "rlm": false
+      },
+      "form": {
+        "home": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        },
+        "away": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        }
+      },
+      "h2h": {
+        "total_meetings": 0,
+        "home_wins": 0,
+        "away_wins": 0,
+        "meetings": [],
+        "source": "\u2014"
+      },
+      "briefing": {
+        "trend": "Los Angeles Lakers hold a 58.3% edge.",
+        "matchup": "Both rosters appear healthy \u2014 clean line.",
+        "steam": "Line moved -148\u2192-155 (7pts). Pending \u2014 check closer to tip-off",
+        "injury_notes": "No key injuries."
+      },
+      "live": {
+        "status": "pre",
+        "status_detail": "Upcoming",
+        "period": 0,
+        "clock": "",
+        "home_score": 0,
+        "away_score": 0,
+        "spread_alert": null
+      },
+      "news": [
+        {
+          "title": "Karl-Anthony Towns Draws Line on Potential Knicks Pay Cut",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/new-york-knicks/karl-anthony-towns-knicks-contract-pay-cut/",
+          "published": "2026-10-30T01:17:08Z"
+        },
+        {
+          "title": "Rumor: OKC Thunder could trade for familiar face to help 2026-27 season",
+          "source": "USA Today",
+          "link": "https://okcthunderwire.usatoday.com/story/sports/nba/thunder/2026/10/29/rumor-okc-thunder-could-trade-for-familiar-face-to-help-2026-27-season/92506138007/",
+          "published": "2026-10-30T01:15:09Z"
+        },
+        {
+          "title": "Preview: Hobbled Jazz host Trail Blazers\u2019 red-hot wagon",
+          "source": "Slcdunk.com",
+          "link": "https://www.slcdunk.com/utah-jazz-game-coverage/70481/preview-hobbled-jazz-host-trail-blazers-red-hot-wagon",
+          "published": "2026-10-30T01:12:55Z"
+        }
+      ]
+    },
+    {
+      "game": "Portland Trail Blazers @ Utah Jazz",
+      "home_team": "Utah Jazz",
+      "away_team": "Portland Trail Blazers",
+      "home_abbr": "UTA",
+      "away_abbr": "POR",
+      "home_ml": "+185",
+      "away_ml": "-225",
+      "home_ml_raw": 185,
+      "away_ml_raw": -225,
+      "home_prob": 33.6,
+      "away_prob": 66.4,
+      "spread": "UTA +6.5",
+      "favorite": "Portland Trail Blazers",
+      "pick": "Portland Trail Blazers",
+      "pick_abbr": "POR",
+      "moneyline": "-225",
+      "win_probability": 66.4,
+      "confidence": "MEDIUM",
+      "confidence_stars": "\u2605\u2605\u2606",
+      "commence_time": "2026-10-31T19:10:00Z",
+      "line_movement": {
+        "home": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "away": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "pick": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "snapshot_time": "\u2014"
+      },
+      "fatigue": {
+        "home": {
+          "status": "FRESH",
+          "label": "Well rested \u2705",
+          "battery": 100,
+          "last_game": "\u2014",
+          "days_rest": 99,
+          "games_last_4d": 0,
+          "travel_miles": 0,
+          "travel_desc": "",
+          "source": "ESPN Scoreboard API"
+        },
+        "away": {
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
+          "last_game": "Oct 29",
+          "days_rest": 2,
+          "games_last_4d": 1,
+          "travel_miles": 0,
+          "travel_desc": "",
+          "source": "ESPN Scoreboard API"
+        }
+      },
+      "edge_factors": [
+        "\ud83d\udcca 32.8pt probability edge"
+      ],
+      "injury_notes": "No key injuries.",
+      "sharp": {
+        "away_t": null,
+        "home_t": null,
+        "source": null,
+        "sharp_signal": null,
+        "sharp_label": "Pending \u2014 check closer to tip-off",
+        "rlm": false
+      },
+      "form": {
+        "home": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        },
+        "away": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        }
+      },
+      "h2h": {
+        "total_meetings": 0,
+        "home_wins": 0,
+        "away_wins": 0,
+        "meetings": [],
+        "source": "\u2014"
+      },
+      "briefing": {
+        "trend": "Portland Trail Blazers hold a 66.4% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
         "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
@@ -1288,90 +1583,90 @@
       },
       "news": [
         {
-          "title": "Judge clears RJ Luis to play for LSU. Will Will Wade roster him?",
-          "source": "USA Today",
-          "link": "https://lsutigerswire.usatoday.com/story/sports/college/lsu/mens-basketball/2026/10/29/lsu-basketball-transfer-portal-rj-luis-legal-news/92487795007/",
-          "published": "2026-10-29T16:55:01Z"
+          "title": "Karl-Anthony Towns Draws Line on Potential Knicks Pay Cut",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/new-york-knicks/karl-anthony-towns-knicks-contract-pay-cut/",
+          "published": "2026-10-30T01:17:08Z"
         },
         {
-          "title": "The real Kawhi Leonard knee injury timeline revealed",
-          "source": "ClutchPoints",
-          "link": "https://clutchpoints.com/nba/toronto-raptors/raptors-news-the-real-kawhi-leonard-knee-injury-timeline-revealed",
-          "published": "2026-10-29T16:54:55Z"
+          "title": "Rumor: OKC Thunder could trade for familiar face to help 2026-27 season",
+          "source": "USA Today",
+          "link": "https://okcthunderwire.usatoday.com/story/sports/nba/thunder/2026/10/29/rumor-okc-thunder-could-trade-for-familiar-face-to-help-2026-27-season/92506138007/",
+          "published": "2026-10-30T01:15:09Z"
         },
         {
-          "title": "See T.I.'s daughter Heiress perform national anthem for WNBA Finals Game 6",
-          "source": "USA Today",
-          "link": "https://www.usatoday.com/story/sports/wnba/2026/10/29/ti-daughter-heiress-performs-national-anthem-for-wnba-finals-game-6/92489856007/",
-          "published": "2026-10-29T16:54:00Z"
+          "title": "Preview: Hobbled Jazz host Trail Blazers\u2019 red-hot wagon",
+          "source": "Slcdunk.com",
+          "link": "https://www.slcdunk.com/utah-jazz-game-coverage/70481/preview-hobbled-jazz-host-trail-blazers-red-hot-wagon",
+          "published": "2026-10-30T01:12:55Z"
         }
       ]
     },
     {
-      "game": "Los Angeles Lakers @ Golden State Warriors",
-      "home_team": "Golden State Warriors",
-      "away_team": "Los Angeles Lakers",
-      "home_abbr": "GSW",
-      "away_abbr": "LAL",
-      "home_ml": "+124",
-      "away_ml": "-148",
-      "home_ml_raw": 124,
-      "away_ml_raw": -148,
-      "home_prob": 42.8,
-      "away_prob": 57.2,
-      "spread": "GSW +3.5",
-      "favorite": "Los Angeles Lakers",
-      "pick": "Los Angeles Lakers",
-      "pick_abbr": "LAL",
-      "moneyline": "-148",
-      "win_probability": 57.2,
-      "confidence": "LOW",
-      "confidence_stars": "\u2605\u2606\u2606",
-      "commence_time": "2026-10-31T02:10:00Z",
+      "game": "Atlanta Hawks @ New Orleans Pelicans",
+      "home_team": "New Orleans Pelicans",
+      "away_team": "Atlanta Hawks",
+      "home_abbr": "NOP",
+      "away_abbr": "ATL",
+      "home_ml": "+130",
+      "away_ml": "-155",
+      "home_ml_raw": 130,
+      "away_ml_raw": -155,
+      "home_prob": 41.7,
+      "away_prob": 58.3,
+      "spread": "NOP +3.5",
+      "favorite": "Atlanta Hawks",
+      "pick": "Atlanta Hawks",
+      "pick_abbr": "ATL",
+      "moneyline": "-155",
+      "win_probability": 58.3,
+      "confidence": "MEDIUM",
+      "confidence_stars": "\u2605\u2605\u2606",
+      "commence_time": "2026-10-31T23:10:00Z",
       "line_movement": {
         "home": {
-          "direction": "longer",
-          "points_moved": 10,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM +124 \u2190 +114",
-          "old_ml": "+114",
-          "new_ml": "+124"
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
         },
         "away": {
-          "direction": "shorter",
-          "points_moved": 13,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -148 \u2190 -135",
-          "old_ml": "-135",
-          "new_ml": "-148"
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
         },
         "pick": {
-          "direction": "shorter",
-          "points_moved": 13,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -148 \u2190 -135",
-          "old_ml": "-135",
-          "new_ml": "-148"
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
         },
-        "snapshot_time": "October 30, 2026 at 11:28 AM UTC"
+        "snapshot_time": "\u2014"
       },
       "fatigue": {
         "home": {
           "status": "SOME_REST",
           "label": "1 day rest",
           "battery": 68,
-          "last_game": "Oct 28",
+          "last_game": "Oct 29",
           "days_rest": 2,
           "games_last_4d": 2,
-          "travel_miles": 1580,
-          "travel_desc": "1,580 mi road trip",
+          "travel_miles": 0,
+          "travel_desc": "",
           "source": "ESPN Scoreboard API"
         },
         "away": {
           "status": "SOME_REST",
           "label": "1 day rest",
           "battery": 68,
-          "last_game": "Oct 28",
+          "last_game": "Oct 29",
           "days_rest": 2,
           "games_last_4d": 2,
           "travel_miles": 0,
@@ -1380,7 +1675,7 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udd25 Sharp steam detected"
+        "\ud83d\udcca 16.6pt probability edge"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -1417,9 +1712,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "Los Angeles Lakers hold a 57.2% edge.",
+        "trend": "Atlanta Hawks hold a 58.3% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -135 to -148 (13pt move) \u2014 heavy professional action on Los Angeles Lakers.",
+        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -1433,22 +1728,457 @@
       },
       "news": [
         {
-          "title": "Judge clears RJ Luis to play for LSU. Will Will Wade roster him?",
-          "source": "USA Today",
-          "link": "https://lsutigerswire.usatoday.com/story/sports/college/lsu/mens-basketball/2026/10/29/lsu-basketball-transfer-portal-rj-luis-legal-news/92487795007/",
-          "published": "2026-10-29T16:55:01Z"
+          "title": "Karl-Anthony Towns Draws Line on Potential Knicks Pay Cut",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/new-york-knicks/karl-anthony-towns-knicks-contract-pay-cut/",
+          "published": "2026-10-30T01:17:08Z"
         },
         {
-          "title": "The real Kawhi Leonard knee injury timeline revealed",
-          "source": "ClutchPoints",
-          "link": "https://clutchpoints.com/nba/toronto-raptors/raptors-news-the-real-kawhi-leonard-knee-injury-timeline-revealed",
-          "published": "2026-10-29T16:54:55Z"
+          "title": "Rumor: OKC Thunder could trade for familiar face to help 2026-27 season",
+          "source": "USA Today",
+          "link": "https://okcthunderwire.usatoday.com/story/sports/nba/thunder/2026/10/29/rumor-okc-thunder-could-trade-for-familiar-face-to-help-2026-27-season/92506138007/",
+          "published": "2026-10-30T01:15:09Z"
         },
         {
-          "title": "See T.I.'s daughter Heiress perform national anthem for WNBA Finals Game 6",
+          "title": "Preview: Hobbled Jazz host Trail Blazers\u2019 red-hot wagon",
+          "source": "Slcdunk.com",
+          "link": "https://www.slcdunk.com/utah-jazz-game-coverage/70481/preview-hobbled-jazz-host-trail-blazers-red-hot-wagon",
+          "published": "2026-10-30T01:12:55Z"
+        }
+      ]
+    },
+    {
+      "game": "Cleveland Cavaliers @ Milwaukee Bucks",
+      "home_team": "Milwaukee Bucks",
+      "away_team": "Cleveland Cavaliers",
+      "home_abbr": "MIL",
+      "away_abbr": "CLE",
+      "home_ml": "+285",
+      "away_ml": "-360",
+      "home_ml_raw": 285,
+      "away_ml_raw": -360,
+      "home_prob": 24.9,
+      "away_prob": 75.1,
+      "spread": "MIL +9.5",
+      "favorite": "Cleveland Cavaliers",
+      "pick": "Cleveland Cavaliers",
+      "pick_abbr": "CLE",
+      "moneyline": "-360",
+      "win_probability": 75.1,
+      "confidence": "HIGH",
+      "confidence_stars": "\u2605\u2605\u2605",
+      "commence_time": "2026-11-01T00:10:00Z",
+      "line_movement": {
+        "home": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "away": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "pick": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "snapshot_time": "\u2014"
+      },
+      "fatigue": {
+        "home": {
+          "status": "RESTED",
+          "label": "2 days rest \u2705",
+          "battery": 88,
+          "last_game": "Oct 28",
+          "days_rest": 3,
+          "games_last_4d": 1,
+          "travel_miles": 0,
+          "travel_desc": "",
+          "source": "ESPN Scoreboard API"
+        },
+        "away": {
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
+          "last_game": "Oct 29",
+          "days_rest": 2,
+          "games_last_4d": 2,
+          "travel_miles": 555,
+          "travel_desc": "555 mi road trip",
+          "source": "ESPN Scoreboard API"
+        }
+      },
+      "edge_factors": [
+        "\ud83d\udcca 50.2pt probability edge"
+      ],
+      "injury_notes": "No key injuries.",
+      "sharp": {
+        "away_t": null,
+        "home_t": null,
+        "source": null,
+        "sharp_signal": null,
+        "sharp_label": "Pending \u2014 check closer to tip-off",
+        "rlm": false
+      },
+      "form": {
+        "home": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        },
+        "away": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        }
+      },
+      "h2h": {
+        "total_meetings": 0,
+        "home_wins": 0,
+        "away_wins": 0,
+        "meetings": [],
+        "source": "\u2014"
+      },
+      "briefing": {
+        "trend": "Cleveland Cavaliers hold a 75.1% edge.",
+        "matchup": "Both rosters appear healthy \u2014 clean line.",
+        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "injury_notes": "No key injuries."
+      },
+      "live": {
+        "status": "pre",
+        "status_detail": "Upcoming",
+        "period": 0,
+        "clock": "",
+        "home_score": 0,
+        "away_score": 0,
+        "spread_alert": null
+      },
+      "news": [
+        {
+          "title": "Karl-Anthony Towns Draws Line on Potential Knicks Pay Cut",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/new-york-knicks/karl-anthony-towns-knicks-contract-pay-cut/",
+          "published": "2026-10-30T01:17:08Z"
+        },
+        {
+          "title": "Rumor: OKC Thunder could trade for familiar face to help 2026-27 season",
           "source": "USA Today",
-          "link": "https://www.usatoday.com/story/sports/wnba/2026/10/29/ti-daughter-heiress-performs-national-anthem-for-wnba-finals-game-6/92489856007/",
-          "published": "2026-10-29T16:54:00Z"
+          "link": "https://okcthunderwire.usatoday.com/story/sports/nba/thunder/2026/10/29/rumor-okc-thunder-could-trade-for-familiar-face-to-help-2026-27-season/92506138007/",
+          "published": "2026-10-30T01:15:09Z"
+        },
+        {
+          "title": "Preview: Hobbled Jazz host Trail Blazers\u2019 red-hot wagon",
+          "source": "Slcdunk.com",
+          "link": "https://www.slcdunk.com/utah-jazz-game-coverage/70481/preview-hobbled-jazz-host-trail-blazers-red-hot-wagon",
+          "published": "2026-10-30T01:12:55Z"
+        }
+      ]
+    },
+    {
+      "game": "Sacramento Kings @ Memphis Grizzlies",
+      "home_team": "Memphis Grizzlies",
+      "away_team": "Sacramento Kings",
+      "home_abbr": "MEM",
+      "away_abbr": "SAC",
+      "home_ml": "-440",
+      "away_ml": "+340",
+      "home_ml_raw": -440,
+      "away_ml_raw": 340,
+      "home_prob": 78.2,
+      "away_prob": 21.8,
+      "spread": "MEM -10.5",
+      "favorite": "Memphis Grizzlies",
+      "pick": "Memphis Grizzlies",
+      "pick_abbr": "MEM",
+      "moneyline": "-440",
+      "win_probability": 78.2,
+      "confidence": "HIGH",
+      "confidence_stars": "\u2605\u2605\u2605",
+      "commence_time": "2026-11-01T00:10:00Z",
+      "line_movement": {
+        "home": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "away": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "pick": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "snapshot_time": "\u2014"
+      },
+      "fatigue": {
+        "home": {
+          "status": "TRAVEL",
+          "label": "Cross-country travel \ud83d\udfe3",
+          "battery": 50,
+          "last_game": "Oct 29",
+          "days_rest": 2,
+          "games_last_4d": 1,
+          "travel_miles": 1846,
+          "travel_desc": "1,846 mi road trip",
+          "source": "ESPN Scoreboard API"
+        },
+        "away": {
+          "status": "TRAVEL",
+          "label": "Cross-country travel \ud83d\udfe3",
+          "battery": 50,
+          "last_game": "Oct 29",
+          "days_rest": 2,
+          "games_last_4d": 1,
+          "travel_miles": 1880,
+          "travel_desc": "1,880 mi road trip",
+          "source": "ESPN Scoreboard API"
+        }
+      },
+      "edge_factors": [
+        "\u2708\ufe0f SAC traveled 1,880 mi"
+      ],
+      "injury_notes": "No key injuries.",
+      "sharp": {
+        "away_t": null,
+        "home_t": null,
+        "source": null,
+        "sharp_signal": null,
+        "sharp_label": "Pending \u2014 check closer to tip-off",
+        "rlm": false
+      },
+      "form": {
+        "home": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        },
+        "away": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        }
+      },
+      "h2h": {
+        "total_meetings": 0,
+        "home_wins": 0,
+        "away_wins": 0,
+        "meetings": [],
+        "source": "\u2014"
+      },
+      "briefing": {
+        "trend": "Memphis Grizzlies hold a 78.2% edge.",
+        "matchup": "Both rosters appear healthy \u2014 clean line.",
+        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "injury_notes": "No key injuries."
+      },
+      "live": {
+        "status": "pre",
+        "status_detail": "Upcoming",
+        "period": 0,
+        "clock": "",
+        "home_score": 0,
+        "away_score": 0,
+        "spread_alert": null
+      },
+      "news": [
+        {
+          "title": "Karl-Anthony Towns Draws Line on Potential Knicks Pay Cut",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/new-york-knicks/karl-anthony-towns-knicks-contract-pay-cut/",
+          "published": "2026-10-30T01:17:08Z"
+        },
+        {
+          "title": "Rumor: OKC Thunder could trade for familiar face to help 2026-27 season",
+          "source": "USA Today",
+          "link": "https://okcthunderwire.usatoday.com/story/sports/nba/thunder/2026/10/29/rumor-okc-thunder-could-trade-for-familiar-face-to-help-2026-27-season/92506138007/",
+          "published": "2026-10-30T01:15:09Z"
+        },
+        {
+          "title": "Preview: Hobbled Jazz host Trail Blazers\u2019 red-hot wagon",
+          "source": "Slcdunk.com",
+          "link": "https://www.slcdunk.com/utah-jazz-game-coverage/70481/preview-hobbled-jazz-host-trail-blazers-red-hot-wagon",
+          "published": "2026-10-30T01:12:55Z"
+        }
+      ]
+    },
+    {
+      "game": "Minnesota Timberwolves @ San Antonio Spurs",
+      "home_team": "San Antonio Spurs",
+      "away_team": "Minnesota Timberwolves",
+      "home_abbr": "SAS",
+      "away_abbr": "MIN",
+      "home_ml": "N/A",
+      "away_ml": "N/A",
+      "home_ml_raw": null,
+      "away_ml_raw": null,
+      "home_prob": 50.0,
+      "away_prob": 50.0,
+      "spread": "N/A",
+      "favorite": "San Antonio Spurs",
+      "pick": "San Antonio Spurs",
+      "pick_abbr": "SAS",
+      "moneyline": "N/A",
+      "win_probability": 50.0,
+      "confidence": "LOW",
+      "confidence_stars": "\u2605\u2606\u2606",
+      "commence_time": "2026-11-01T00:10:00Z",
+      "line_movement": {
+        "home": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "away": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "pick": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "snapshot_time": "\u2014"
+      },
+      "fatigue": {
+        "home": {
+          "status": "RESTED",
+          "label": "2 days rest \u2705",
+          "battery": 88,
+          "last_game": "Oct 28",
+          "days_rest": 3,
+          "games_last_4d": 1,
+          "travel_miles": 0,
+          "travel_desc": "",
+          "source": "ESPN Scoreboard API"
+        },
+        "away": {
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Oct 30",
+          "days_rest": 1,
+          "games_last_4d": 2,
+          "travel_miles": 0,
+          "travel_desc": "",
+          "source": "ESPN Scoreboard API"
+        }
+      },
+      "edge_factors": [
+        "\ud83d\udca4 MIN fatigued (B2B) \u2014 source: ESPN"
+      ],
+      "injury_notes": "No key injuries.",
+      "sharp": {
+        "away_t": null,
+        "home_t": null,
+        "source": null,
+        "sharp_signal": null,
+        "sharp_label": "Pending \u2014 check closer to tip-off",
+        "rlm": false
+      },
+      "form": {
+        "home": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        },
+        "away": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        }
+      },
+      "h2h": {
+        "total_meetings": 0,
+        "home_wins": 0,
+        "away_wins": 0,
+        "meetings": [],
+        "source": "\u2014"
+      },
+      "briefing": {
+        "trend": "MIN on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "matchup": "Both rosters appear healthy \u2014 clean line.",
+        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "injury_notes": "No key injuries."
+      },
+      "live": {
+        "status": "pre",
+        "status_detail": "Upcoming",
+        "period": 0,
+        "clock": "",
+        "home_score": 0,
+        "away_score": 0,
+        "spread_alert": null
+      },
+      "news": [
+        {
+          "title": "Karl-Anthony Towns Draws Line on Potential Knicks Pay Cut",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/new-york-knicks/karl-anthony-towns-knicks-contract-pay-cut/",
+          "published": "2026-10-30T01:17:08Z"
+        },
+        {
+          "title": "Rumor: OKC Thunder could trade for familiar face to help 2026-27 season",
+          "source": "USA Today",
+          "link": "https://okcthunderwire.usatoday.com/story/sports/nba/thunder/2026/10/29/rumor-okc-thunder-could-trade-for-familiar-face-to-help-2026-27-season/92506138007/",
+          "published": "2026-10-30T01:15:09Z"
+        },
+        {
+          "title": "Preview: Hobbled Jazz host Trail Blazers\u2019 red-hot wagon",
+          "source": "Slcdunk.com",
+          "link": "https://www.slcdunk.com/utah-jazz-game-coverage/70481/preview-hobbled-jazz-host-trail-blazers-red-hot-wagon",
+          "published": "2026-10-30T01:12:55Z"
         }
       ]
     },
@@ -1498,34 +2228,34 @@
           "old_ml": "-115",
           "new_ml": "-115"
         },
-        "snapshot_time": "October 30, 2026 at 11:28 AM UTC"
+        "snapshot_time": "October 30, 2026 at 04:57 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "Oct 28",
-          "days_rest": 2,
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Oct 30",
+          "days_rest": 1,
           "games_last_4d": 2,
-          "travel_miles": 713,
-          "travel_desc": "713 mi road trip",
+          "travel_miles": 85,
+          "travel_desc": "85 mi road trip",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
+          "status": "RESTED",
+          "label": "2 days rest \u2705",
+          "battery": 88,
           "last_game": "Oct 28",
-          "days_rest": 2,
-          "games_last_4d": 2,
+          "days_rest": 3,
+          "games_last_4d": 1,
           "travel_miles": 0,
           "travel_desc": "",
           "source": "ESPN Scoreboard API"
         }
       },
       "edge_factors": [
-        "\ud83d\udcca 2.2pt probability edge"
+        "\ud83d\udca4 NYK fatigued (B2B) \u2014 source: ESPN"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -1562,7 +2292,7 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "San Antonio Spurs hold a 51.1% edge.",
+        "trend": "NYK on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
         "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
@@ -1578,22 +2308,22 @@
       },
       "news": [
         {
-          "title": "Judge clears RJ Luis to play for LSU. Will Will Wade roster him?",
-          "source": "USA Today",
-          "link": "https://lsutigerswire.usatoday.com/story/sports/college/lsu/mens-basketball/2026/10/29/lsu-basketball-transfer-portal-rj-luis-legal-news/92487795007/",
-          "published": "2026-10-29T16:55:01Z"
+          "title": "Karl-Anthony Towns Draws Line on Potential Knicks Pay Cut",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/new-york-knicks/karl-anthony-towns-knicks-contract-pay-cut/",
+          "published": "2026-10-30T01:17:08Z"
         },
         {
-          "title": "The real Kawhi Leonard knee injury timeline revealed",
-          "source": "ClutchPoints",
-          "link": "https://clutchpoints.com/nba/toronto-raptors/raptors-news-the-real-kawhi-leonard-knee-injury-timeline-revealed",
-          "published": "2026-10-29T16:54:55Z"
+          "title": "Rumor: OKC Thunder could trade for familiar face to help 2026-27 season",
+          "source": "USA Today",
+          "link": "https://okcthunderwire.usatoday.com/story/sports/nba/thunder/2026/10/29/rumor-okc-thunder-could-trade-for-familiar-face-to-help-2026-27-season/92506138007/",
+          "published": "2026-10-30T01:15:09Z"
         },
         {
-          "title": "See T.I.'s daughter Heiress perform national anthem for WNBA Finals Game 6",
-          "source": "USA Today",
-          "link": "https://www.usatoday.com/story/sports/wnba/2026/10/29/ti-daughter-heiress-performs-national-anthem-for-wnba-finals-game-6/92489856007/",
-          "published": "2026-10-29T16:54:00Z"
+          "title": "Preview: Hobbled Jazz host Trail Blazers\u2019 red-hot wagon",
+          "source": "Slcdunk.com",
+          "link": "https://www.slcdunk.com/utah-jazz-game-coverage/70481/preview-hobbled-jazz-host-trail-blazers-red-hot-wagon",
+          "published": "2026-10-30T01:12:55Z"
         }
       ]
     },
@@ -1643,26 +2373,26 @@
           "old_ml": "-218",
           "new_ml": "-218"
         },
-        "snapshot_time": "October 30, 2026 at 11:28 AM UTC"
+        "snapshot_time": "October 30, 2026 at 04:57 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "RESTED",
-          "label": "2 days rest \u2705",
-          "battery": 88,
-          "last_game": "Oct 27",
-          "days_rest": 3,
-          "games_last_4d": 2,
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Oct 30",
+          "days_rest": 1,
+          "games_last_4d": 1,
           "travel_miles": 0,
           "travel_desc": "",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "Oct 28",
-          "days_rest": 2,
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Oct 30",
+          "days_rest": 1,
           "games_last_4d": 2,
           "travel_miles": 606,
           "travel_desc": "606 mi road trip",
@@ -1670,7 +2400,7 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udcca 31.4pt probability edge"
+        "\ud83d\udca4 MIA fatigued (B2B) \u2014 source: ESPN"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -1707,7 +2437,7 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "Boston Celtics hold a 65.7% edge.",
+        "trend": "BOS on Back-to-Back \u26a0\ufe0f per ESPN schedule data. MIA on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
         "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
@@ -1723,22 +2453,22 @@
       },
       "news": [
         {
-          "title": "Judge clears RJ Luis to play for LSU. Will Will Wade roster him?",
-          "source": "USA Today",
-          "link": "https://lsutigerswire.usatoday.com/story/sports/college/lsu/mens-basketball/2026/10/29/lsu-basketball-transfer-portal-rj-luis-legal-news/92487795007/",
-          "published": "2026-10-29T16:55:01Z"
+          "title": "Karl-Anthony Towns Draws Line on Potential Knicks Pay Cut",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/new-york-knicks/karl-anthony-towns-knicks-contract-pay-cut/",
+          "published": "2026-10-30T01:17:08Z"
         },
         {
-          "title": "The real Kawhi Leonard knee injury timeline revealed",
-          "source": "ClutchPoints",
-          "link": "https://clutchpoints.com/nba/toronto-raptors/raptors-news-the-real-kawhi-leonard-knee-injury-timeline-revealed",
-          "published": "2026-10-29T16:54:55Z"
+          "title": "Rumor: OKC Thunder could trade for familiar face to help 2026-27 season",
+          "source": "USA Today",
+          "link": "https://okcthunderwire.usatoday.com/story/sports/nba/thunder/2026/10/29/rumor-okc-thunder-could-trade-for-familiar-face-to-help-2026-27-season/92506138007/",
+          "published": "2026-10-30T01:15:09Z"
         },
         {
-          "title": "See T.I.'s daughter Heiress perform national anthem for WNBA Finals Game 6",
-          "source": "USA Today",
-          "link": "https://www.usatoday.com/story/sports/wnba/2026/10/29/ti-daughter-heiress-performs-national-anthem-for-wnba-finals-game-6/92489856007/",
-          "published": "2026-10-29T16:54:00Z"
+          "title": "Preview: Hobbled Jazz host Trail Blazers\u2019 red-hot wagon",
+          "source": "Slcdunk.com",
+          "link": "https://www.slcdunk.com/utah-jazz-game-coverage/70481/preview-hobbled-jazz-host-trail-blazers-red-hot-wagon",
+          "published": "2026-10-30T01:12:55Z"
         }
       ]
     },
@@ -1788,34 +2518,34 @@
           "old_ml": "-115",
           "new_ml": "-115"
         },
-        "snapshot_time": "October 30, 2026 at 11:28 AM UTC"
+        "snapshot_time": "October 30, 2026 at 04:57 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
+          "status": "RESTED",
+          "label": "2 days rest \u2705",
+          "battery": 88,
           "last_game": "Oct 28",
-          "days_rest": 2,
-          "games_last_4d": 2,
+          "days_rest": 3,
+          "games_last_4d": 1,
           "travel_miles": 0,
           "travel_desc": "",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "Oct 28",
-          "days_rest": 2,
-          "games_last_4d": 1,
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Oct 30",
+          "days_rest": 1,
+          "games_last_4d": 2,
           "travel_miles": 583,
           "travel_desc": "583 mi road trip",
           "source": "ESPN Scoreboard API"
         }
       },
       "edge_factors": [
-        "\ud83d\udcca 2.2pt probability edge"
+        "\ud83d\udca4 PHI fatigued (B2B) \u2014 source: ESPN"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -1852,7 +2582,7 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "Los Angeles Lakers hold a 51.1% edge.",
+        "trend": "PHI on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
         "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
@@ -1868,167 +2598,22 @@
       },
       "news": [
         {
-          "title": "Judge clears RJ Luis to play for LSU. Will Will Wade roster him?",
+          "title": "Karl-Anthony Towns Draws Line on Potential Knicks Pay Cut",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/new-york-knicks/karl-anthony-towns-knicks-contract-pay-cut/",
+          "published": "2026-10-30T01:17:08Z"
+        },
+        {
+          "title": "Rumor: OKC Thunder could trade for familiar face to help 2026-27 season",
           "source": "USA Today",
-          "link": "https://lsutigerswire.usatoday.com/story/sports/college/lsu/mens-basketball/2026/10/29/lsu-basketball-transfer-portal-rj-luis-legal-news/92487795007/",
-          "published": "2026-10-29T16:55:01Z"
+          "link": "https://okcthunderwire.usatoday.com/story/sports/nba/thunder/2026/10/29/rumor-okc-thunder-could-trade-for-familiar-face-to-help-2026-27-season/92506138007/",
+          "published": "2026-10-30T01:15:09Z"
         },
         {
-          "title": "The real Kawhi Leonard knee injury timeline revealed",
-          "source": "ClutchPoints",
-          "link": "https://clutchpoints.com/nba/toronto-raptors/raptors-news-the-real-kawhi-leonard-knee-injury-timeline-revealed",
-          "published": "2026-10-29T16:54:55Z"
-        },
-        {
-          "title": "See T.I.'s daughter Heiress perform national anthem for WNBA Finals Game 6",
-          "source": "USA Today",
-          "link": "https://www.usatoday.com/story/sports/wnba/2026/10/29/ti-daughter-heiress-performs-national-anthem-for-wnba-finals-game-6/92489856007/",
-          "published": "2026-10-29T16:54:00Z"
-        }
-      ]
-    },
-    {
-      "game": "Oklahoma City Thunder @ Minnesota Timberwolves",
-      "home_team": "Minnesota Timberwolves",
-      "away_team": "Oklahoma City Thunder",
-      "home_abbr": "MIN",
-      "away_abbr": "OKC",
-      "home_ml": "+142",
-      "away_ml": "-170",
-      "home_ml_raw": 142,
-      "away_ml_raw": -170,
-      "home_prob": 39.6,
-      "away_prob": 60.4,
-      "spread": "MIN +4.5",
-      "favorite": "Oklahoma City Thunder",
-      "pick": "Oklahoma City Thunder",
-      "pick_abbr": "OKC",
-      "moneyline": "-170",
-      "win_probability": 60.4,
-      "confidence": "MEDIUM",
-      "confidence_stars": "\u2605\u2605\u2606",
-      "commence_time": "2026-12-26T01:10:00Z",
-      "line_movement": {
-        "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
-          "old_ml": "+142",
-          "new_ml": "+142"
-        },
-        "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
-          "old_ml": "-170",
-          "new_ml": "-170"
-        },
-        "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
-          "old_ml": "-170",
-          "new_ml": "-170"
-        },
-        "snapshot_time": "October 30, 2026 at 11:28 AM UTC"
-      },
-      "fatigue": {
-        "home": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "Oct 28",
-          "days_rest": 2,
-          "games_last_4d": 2,
-          "travel_miles": 630,
-          "travel_desc": "630 mi road trip",
-          "source": "ESPN Scoreboard API"
-        },
-        "away": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "Oct 28",
-          "days_rest": 2,
-          "games_last_4d": 2,
-          "travel_miles": 189,
-          "travel_desc": "189 mi road trip",
-          "source": "ESPN Scoreboard API"
-        }
-      },
-      "edge_factors": [
-        "\ud83d\udcca 20.8pt probability edge"
-      ],
-      "injury_notes": "No key injuries.",
-      "sharp": {
-        "away_t": null,
-        "home_t": null,
-        "source": null,
-        "sharp_signal": null,
-        "sharp_label": "Pending \u2014 check closer to tip-off",
-        "rlm": false
-      },
-      "form": {
-        "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        },
-        "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        }
-      },
-      "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
-      },
-      "briefing": {
-        "trend": "Oklahoma City Thunder hold a 60.4% edge.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
-        "injury_notes": "No key injuries."
-      },
-      "live": {
-        "status": "pre",
-        "status_detail": "Upcoming",
-        "period": 0,
-        "clock": "",
-        "home_score": 0,
-        "away_score": 0,
-        "spread_alert": null
-      },
-      "news": [
-        {
-          "title": "Judge clears RJ Luis to play for LSU. Will Will Wade roster him?",
-          "source": "USA Today",
-          "link": "https://lsutigerswire.usatoday.com/story/sports/college/lsu/mens-basketball/2026/10/29/lsu-basketball-transfer-portal-rj-luis-legal-news/92487795007/",
-          "published": "2026-10-29T16:55:01Z"
-        },
-        {
-          "title": "The real Kawhi Leonard knee injury timeline revealed",
-          "source": "ClutchPoints",
-          "link": "https://clutchpoints.com/nba/toronto-raptors/raptors-news-the-real-kawhi-leonard-knee-injury-timeline-revealed",
-          "published": "2026-10-29T16:54:55Z"
-        },
-        {
-          "title": "See T.I.'s daughter Heiress perform national anthem for WNBA Finals Game 6",
-          "source": "USA Today",
-          "link": "https://www.usatoday.com/story/sports/wnba/2026/10/29/ti-daughter-heiress-performs-national-anthem-for-wnba-finals-game-6/92489856007/",
-          "published": "2026-10-29T16:54:00Z"
+          "title": "Preview: Hobbled Jazz host Trail Blazers\u2019 red-hot wagon",
+          "source": "Slcdunk.com",
+          "link": "https://www.slcdunk.com/utah-jazz-game-coverage/70481/preview-hobbled-jazz-host-trail-blazers-red-hot-wagon",
+          "published": "2026-10-30T01:12:55Z"
         }
       ]
     },
@@ -2078,27 +2663,27 @@
           "old_ml": "-135",
           "new_ml": "-135"
         },
-        "snapshot_time": "October 30, 2026 at 11:28 AM UTC"
+        "snapshot_time": "October 30, 2026 at 04:57 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
+          "status": "RESTED",
+          "label": "2 days rest \u2705",
+          "battery": 88,
           "last_game": "Oct 28",
-          "days_rest": 2,
-          "games_last_4d": 2,
+          "days_rest": 3,
+          "games_last_4d": 1,
           "travel_miles": 1580,
           "travel_desc": "1,580 mi road trip",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
+          "status": "RESTED",
+          "label": "2 days rest \u2705",
+          "battery": 88,
           "last_game": "Oct 28",
-          "days_rest": 2,
-          "games_last_4d": 2,
+          "days_rest": 3,
+          "games_last_4d": 1,
           "travel_miles": 1081,
           "travel_desc": "1,081 mi road trip",
           "source": "ESPN Scoreboard API"
@@ -2158,22 +2743,22 @@
       },
       "news": [
         {
-          "title": "Judge clears RJ Luis to play for LSU. Will Will Wade roster him?",
-          "source": "USA Today",
-          "link": "https://lsutigerswire.usatoday.com/story/sports/college/lsu/mens-basketball/2026/10/29/lsu-basketball-transfer-portal-rj-luis-legal-news/92487795007/",
-          "published": "2026-10-29T16:55:01Z"
+          "title": "Karl-Anthony Towns Draws Line on Potential Knicks Pay Cut",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/new-york-knicks/karl-anthony-towns-knicks-contract-pay-cut/",
+          "published": "2026-10-30T01:17:08Z"
         },
         {
-          "title": "The real Kawhi Leonard knee injury timeline revealed",
-          "source": "ClutchPoints",
-          "link": "https://clutchpoints.com/nba/toronto-raptors/raptors-news-the-real-kawhi-leonard-knee-injury-timeline-revealed",
-          "published": "2026-10-29T16:54:55Z"
+          "title": "Rumor: OKC Thunder could trade for familiar face to help 2026-27 season",
+          "source": "USA Today",
+          "link": "https://okcthunderwire.usatoday.com/story/sports/nba/thunder/2026/10/29/rumor-okc-thunder-could-trade-for-familiar-face-to-help-2026-27-season/92506138007/",
+          "published": "2026-10-30T01:15:09Z"
         },
         {
-          "title": "See T.I.'s daughter Heiress perform national anthem for WNBA Finals Game 6",
-          "source": "USA Today",
-          "link": "https://www.usatoday.com/story/sports/wnba/2026/10/29/ti-daughter-heiress-performs-national-anthem-for-wnba-finals-game-6/92489856007/",
-          "published": "2026-10-29T16:54:00Z"
+          "title": "Preview: Hobbled Jazz host Trail Blazers\u2019 red-hot wagon",
+          "source": "Slcdunk.com",
+          "link": "https://www.slcdunk.com/utah-jazz-game-coverage/70481/preview-hobbled-jazz-host-trail-blazers-red-hot-wagon",
+          "published": "2026-10-30T01:12:55Z"
         }
       ]
     }
