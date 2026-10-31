@@ -1,199 +1,54 @@
 {
-  "last_updated": "October 31, 2026 at 04:49 AM UTC",
-  "total_games": 12,
+  "last_updated": "October 31, 2026 at 10:47 AM UTC",
+  "total_games": 11,
   "games": [
-    {
-      "game": "Los Angeles Lakers @ Golden State Warriors",
-      "home_team": "Golden State Warriors",
-      "away_team": "Los Angeles Lakers",
-      "home_abbr": "GSW",
-      "away_abbr": "LAL",
-      "home_ml": "N/A",
-      "away_ml": "N/A",
-      "home_ml_raw": null,
-      "away_ml_raw": null,
-      "home_prob": 50.0,
-      "away_prob": 50.0,
-      "spread": "GSW -12.5",
-      "favorite": "Golden State Warriors",
-      "pick": "Golden State Warriors",
-      "pick_abbr": "GSW",
-      "moneyline": "N/A",
-      "win_probability": 50.0,
-      "confidence": "LOW",
-      "confidence_stars": "\u2605\u2606\u2606",
-      "commence_time": "2026-10-31T02:12:42Z",
-      "line_movement": {
-        "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
-        },
-        "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
-        },
-        "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
-        },
-        "snapshot_time": "October 31, 2026 at 01:26 AM UTC"
-      },
-      "fatigue": {
-        "home": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
-          "last_game": "Oct 30",
-          "days_rest": 1,
-          "games_last_4d": 2,
-          "travel_miles": 1580,
-          "travel_desc": "1,580 mi road trip",
-          "source": "ESPN Scoreboard API"
-        },
-        "away": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
-          "last_game": "Oct 30",
-          "days_rest": 1,
-          "games_last_4d": 3,
-          "travel_miles": 346,
-          "travel_desc": "346 mi road trip",
-          "source": "ESPN Scoreboard API"
-        }
-      },
-      "edge_factors": [
-        "\ud83d\udca4 LAL fatigued (B2B) \u2014 source: ESPN"
-      ],
-      "injury_notes": "No key injuries.",
-      "sharp": {
-        "away_t": null,
-        "home_t": null,
-        "source": null,
-        "sharp_signal": null,
-        "sharp_label": "Pending \u2014 check closer to tip-off",
-        "rlm": false
-      },
-      "form": {
-        "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        },
-        "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        }
-      },
-      "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
-      },
-      "briefing": {
-        "trend": "GSW on Back-to-Back \u26a0\ufe0f per ESPN schedule data. LAL on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
-        "injury_notes": "No key injuries."
-      },
-      "live": {
-        "status": "pre",
-        "status_detail": "Upcoming",
-        "period": 0,
-        "clock": "",
-        "home_score": 0,
-        "away_score": 0,
-        "spread_alert": null
-      },
-      "news": [
-        {
-          "title": "Avdija scores 24 points as Portland suffers first loss of the season",
-          "source": "Israelnationalnews.com",
-          "link": "https://www.israelnationalnews.com/flashes/696407",
-          "published": "2026-10-30T04:37:37Z"
-        },
-        {
-          "title": "Grizzlies\u2019 Ty Jerome Injury Update Brings Last-Minute Concern vs. Ja Morant",
-          "source": "Heavy.com",
-          "link": "https://heavy.com/sports/nba/memphis-grizzlies/grizzlies-ty-jerome-injury-update-last-minute-concern-vs-ja-morant/",
-          "published": "2026-10-30T04:37:22Z"
-        },
-        {
-          "title": "Cameron Boozer Just Did Something Not Many Rookies Do, And Certainly Not This Soon",
-          "source": "Duke Basketball Report",
-          "link": "https://www.dukebasketballreport.com/alumni/96667/cameron-boozer-erupts-for-first-career-triple-double",
-          "published": "2026-10-30T04:37:17Z"
-        }
-      ]
-    },
     {
       "game": "Portland Trail Blazers @ Utah Jazz",
       "home_team": "Utah Jazz",
       "away_team": "Portland Trail Blazers",
       "home_abbr": "UTA",
       "away_abbr": "POR",
-      "home_ml": "+185",
-      "away_ml": "-225",
-      "home_ml_raw": 185,
-      "away_ml_raw": -225,
-      "home_prob": 33.6,
-      "away_prob": 66.4,
+      "home_ml": "+210",
+      "away_ml": "-258",
+      "home_ml_raw": 210,
+      "away_ml_raw": -258,
+      "home_prob": 30.9,
+      "away_prob": 69.1,
       "spread": "UTA +6.5",
       "favorite": "Portland Trail Blazers",
       "pick": "Portland Trail Blazers",
       "pick_abbr": "POR",
-      "moneyline": "-225",
-      "win_probability": 66.4,
+      "moneyline": "-258",
+      "win_probability": 69.1,
       "confidence": "MEDIUM",
       "confidence_stars": "\u2605\u2605\u2606",
       "commence_time": "2026-10-31T19:10:00Z",
       "line_movement": {
         "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "longer",
+          "points_moved": 25,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM +210 \u2190 +185",
           "old_ml": "+185",
-          "new_ml": "+185"
+          "new_ml": "+210"
         },
         "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "shorter",
+          "points_moved": 33,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -258 \u2190 -225",
           "old_ml": "-225",
-          "new_ml": "-225"
+          "new_ml": "-258"
         },
         "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "shorter",
+          "points_moved": 33,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -258 \u2190 -225",
           "old_ml": "-225",
-          "new_ml": "-225"
+          "new_ml": "-258"
         },
-        "snapshot_time": "October 31, 2026 at 01:26 AM UTC"
+        "snapshot_time": "October 31, 2026 at 04:49 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -220,7 +75,7 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udcca 32.8pt probability edge"
+        "\ud83d\udd25 Sharp steam detected"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -257,9 +112,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "Portland Trail Blazers hold a 66.4% edge.",
+        "trend": "Portland Trail Blazers hold a 69.1% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "steam": "Line steamed from -225 to -258 (33pt move) \u2014 heavy professional action on Portland Trail Blazers.",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -273,22 +128,22 @@
       },
       "news": [
         {
-          "title": "Avdija scores 24 points as Portland suffers first loss of the season",
-          "source": "Israelnationalnews.com",
-          "link": "https://www.israelnationalnews.com/flashes/696407",
-          "published": "2026-10-30T04:37:37Z"
+          "title": "15 Countries That Love The Same Sports As The USA",
+          "source": "Den of Geek US",
+          "link": "http://www.denofgeek.com/msn/15-countries-that-love-the-same-sports-as-the-usa/",
+          "published": "2026-10-30T10:45:00Z"
         },
         {
-          "title": "Grizzlies\u2019 Ty Jerome Injury Update Brings Last-Minute Concern vs. Ja Morant",
-          "source": "Heavy.com",
-          "link": "https://heavy.com/sports/nba/memphis-grizzlies/grizzlies-ty-jerome-injury-update-last-minute-concern-vs-ja-morant/",
-          "published": "2026-10-30T04:37:22Z"
+          "title": "hoop-impact-bench 1.1.0",
+          "source": "Pypi.org",
+          "link": "https://pypi.org/project/hoop-impact-bench/1.1.0/",
+          "published": "2026-10-30T10:39:50Z"
         },
         {
-          "title": "Cameron Boozer Just Did Something Not Many Rookies Do, And Certainly Not This Soon",
-          "source": "Duke Basketball Report",
-          "link": "https://www.dukebasketballreport.com/alumni/96667/cameron-boozer-erupts-for-first-career-triple-double",
-          "published": "2026-10-30T04:37:17Z"
+          "title": "hoop-impact-bench added to PyPI",
+          "source": "Pypi.org",
+          "link": "https://pypi.org/project/hoop-impact-bench/",
+          "published": "2026-10-30T10:39:50Z"
         }
       ]
     },
@@ -318,27 +173,27 @@
           "direction": "none",
           "points_moved": 0,
           "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "label": "No movement",
+          "old_ml": "+100",
+          "new_ml": "+100"
         },
         "away": {
           "direction": "none",
           "points_moved": 0,
           "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "label": "No movement",
+          "old_ml": "-120",
+          "new_ml": "-120"
         },
         "pick": {
           "direction": "none",
           "points_moved": 0,
           "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "label": "No movement",
+          "old_ml": "-120",
+          "new_ml": "-120"
         },
-        "snapshot_time": "\u2014"
+        "snapshot_time": "October 31, 2026 at 04:49 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -418,22 +273,22 @@
       },
       "news": [
         {
-          "title": "Avdija scores 24 points as Portland suffers first loss of the season",
-          "source": "Israelnationalnews.com",
-          "link": "https://www.israelnationalnews.com/flashes/696407",
-          "published": "2026-10-30T04:37:37Z"
+          "title": "15 Countries That Love The Same Sports As The USA",
+          "source": "Den of Geek US",
+          "link": "http://www.denofgeek.com/msn/15-countries-that-love-the-same-sports-as-the-usa/",
+          "published": "2026-10-30T10:45:00Z"
         },
         {
-          "title": "Grizzlies\u2019 Ty Jerome Injury Update Brings Last-Minute Concern vs. Ja Morant",
-          "source": "Heavy.com",
-          "link": "https://heavy.com/sports/nba/memphis-grizzlies/grizzlies-ty-jerome-injury-update-last-minute-concern-vs-ja-morant/",
-          "published": "2026-10-30T04:37:22Z"
+          "title": "hoop-impact-bench 1.1.0",
+          "source": "Pypi.org",
+          "link": "https://pypi.org/project/hoop-impact-bench/1.1.0/",
+          "published": "2026-10-30T10:39:50Z"
         },
         {
-          "title": "Cameron Boozer Just Did Something Not Many Rookies Do, And Certainly Not This Soon",
-          "source": "Duke Basketball Report",
-          "link": "https://www.dukebasketballreport.com/alumni/96667/cameron-boozer-erupts-for-first-career-triple-double",
-          "published": "2026-10-30T04:37:17Z"
+          "title": "hoop-impact-bench added to PyPI",
+          "source": "Pypi.org",
+          "link": "https://pypi.org/project/hoop-impact-bench/",
+          "published": "2026-10-30T10:39:50Z"
         }
       ]
     },
@@ -443,47 +298,47 @@
       "away_team": "Atlanta Hawks",
       "home_abbr": "NOP",
       "away_abbr": "ATL",
-      "home_ml": "+142",
-      "away_ml": "-170",
-      "home_ml_raw": 142,
-      "away_ml_raw": -170,
-      "home_prob": 39.6,
-      "away_prob": 60.4,
+      "home_ml": "+150",
+      "away_ml": "-180",
+      "home_ml_raw": 150,
+      "away_ml_raw": -180,
+      "home_prob": 38.4,
+      "away_prob": 61.6,
       "spread": "NOP +4.5",
       "favorite": "Atlanta Hawks",
       "pick": "Atlanta Hawks",
       "pick_abbr": "ATL",
-      "moneyline": "-170",
-      "win_probability": 60.4,
+      "moneyline": "-180",
+      "win_probability": 61.6,
       "confidence": "MEDIUM",
       "confidence_stars": "\u2605\u2605\u2606",
       "commence_time": "2026-10-31T23:10:00Z",
       "line_movement": {
         "home": {
           "direction": "longer",
-          "points_moved": 12,
+          "points_moved": 8,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM +142 \u2190 +130",
-          "old_ml": "+130",
-          "new_ml": "+142"
+          "label": "\ud83d\udd25 STEAM +150 \u2190 +142",
+          "old_ml": "+142",
+          "new_ml": "+150"
         },
         "away": {
           "direction": "shorter",
-          "points_moved": 15,
+          "points_moved": 10,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM -170 \u2190 -155",
-          "old_ml": "-155",
-          "new_ml": "-170"
+          "label": "\ud83d\udd25 STEAM -180 \u2190 -170",
+          "old_ml": "-170",
+          "new_ml": "-180"
         },
         "pick": {
           "direction": "shorter",
-          "points_moved": 15,
+          "points_moved": 10,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM -170 \u2190 -155",
-          "old_ml": "-155",
-          "new_ml": "-170"
+          "label": "\ud83d\udd25 STEAM -180 \u2190 -170",
+          "old_ml": "-170",
+          "new_ml": "-180"
         },
-        "snapshot_time": "October 31, 2026 at 01:26 AM UTC"
+        "snapshot_time": "October 31, 2026 at 04:49 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -547,9 +402,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "Atlanta Hawks hold a 60.4% edge.",
+        "trend": "Atlanta Hawks hold a 61.6% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -155 to -170 (15pt move) \u2014 heavy professional action on Atlanta Hawks.",
+        "steam": "Line steamed from -170 to -180 (10pt move) \u2014 heavy professional action on Atlanta Hawks.",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -563,22 +418,22 @@
       },
       "news": [
         {
-          "title": "Avdija scores 24 points as Portland suffers first loss of the season",
-          "source": "Israelnationalnews.com",
-          "link": "https://www.israelnationalnews.com/flashes/696407",
-          "published": "2026-10-30T04:37:37Z"
+          "title": "15 Countries That Love The Same Sports As The USA",
+          "source": "Den of Geek US",
+          "link": "http://www.denofgeek.com/msn/15-countries-that-love-the-same-sports-as-the-usa/",
+          "published": "2026-10-30T10:45:00Z"
         },
         {
-          "title": "Grizzlies\u2019 Ty Jerome Injury Update Brings Last-Minute Concern vs. Ja Morant",
-          "source": "Heavy.com",
-          "link": "https://heavy.com/sports/nba/memphis-grizzlies/grizzlies-ty-jerome-injury-update-last-minute-concern-vs-ja-morant/",
-          "published": "2026-10-30T04:37:22Z"
+          "title": "hoop-impact-bench 1.1.0",
+          "source": "Pypi.org",
+          "link": "https://pypi.org/project/hoop-impact-bench/1.1.0/",
+          "published": "2026-10-30T10:39:50Z"
         },
         {
-          "title": "Cameron Boozer Just Did Something Not Many Rookies Do, And Certainly Not This Soon",
-          "source": "Duke Basketball Report",
-          "link": "https://www.dukebasketballreport.com/alumni/96667/cameron-boozer-erupts-for-first-career-triple-double",
-          "published": "2026-10-30T04:37:17Z"
+          "title": "hoop-impact-bench added to PyPI",
+          "source": "Pypi.org",
+          "link": "https://pypi.org/project/hoop-impact-bench/",
+          "published": "2026-10-30T10:39:50Z"
         }
       ]
     },
@@ -588,47 +443,47 @@
       "away_team": "Cleveland Cavaliers",
       "home_abbr": "MIL",
       "away_abbr": "CLE",
-      "home_ml": "+285",
-      "away_ml": "-360",
-      "home_ml_raw": 285,
-      "away_ml_raw": -360,
-      "home_prob": 24.9,
-      "away_prob": 75.1,
-      "spread": "MIL +9.5",
+      "home_ml": "+270",
+      "away_ml": "-340",
+      "home_ml_raw": 270,
+      "away_ml_raw": -340,
+      "home_prob": 25.9,
+      "away_prob": 74.1,
+      "spread": "MIL +8.5",
       "favorite": "Cleveland Cavaliers",
       "pick": "Cleveland Cavaliers",
       "pick_abbr": "CLE",
-      "moneyline": "-360",
-      "win_probability": 75.1,
+      "moneyline": "-340",
+      "win_probability": 74.1,
       "confidence": "HIGH",
       "confidence_stars": "\u2605\u2605\u2605",
       "commence_time": "2026-11-01T00:10:00Z",
       "line_movement": {
         "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "shorter",
+          "points_moved": 15,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM +270 \u2190 +285",
           "old_ml": "+285",
-          "new_ml": "+285"
+          "new_ml": "+270"
         },
         "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "longer",
+          "points_moved": 20,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -340 \u2190 -360",
           "old_ml": "-360",
-          "new_ml": "-360"
+          "new_ml": "-340"
         },
         "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "longer",
+          "points_moved": 20,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -340 \u2190 -360",
           "old_ml": "-360",
-          "new_ml": "-360"
+          "new_ml": "-340"
         },
-        "snapshot_time": "October 31, 2026 at 01:26 AM UTC"
+        "snapshot_time": "October 31, 2026 at 04:49 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -655,7 +510,7 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udcca 50.2pt probability edge"
+        "\ud83d\udd25 Sharp steam detected"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -692,9 +547,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "Cleveland Cavaliers hold a 75.1% edge.",
+        "trend": "Cleveland Cavaliers hold a 74.1% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "steam": "Line steamed from -360 to -340 (20pt move) \u2014 heavy professional action on Cleveland Cavaliers.",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -708,22 +563,22 @@
       },
       "news": [
         {
-          "title": "Avdija scores 24 points as Portland suffers first loss of the season",
-          "source": "Israelnationalnews.com",
-          "link": "https://www.israelnationalnews.com/flashes/696407",
-          "published": "2026-10-30T04:37:37Z"
+          "title": "15 Countries That Love The Same Sports As The USA",
+          "source": "Den of Geek US",
+          "link": "http://www.denofgeek.com/msn/15-countries-that-love-the-same-sports-as-the-usa/",
+          "published": "2026-10-30T10:45:00Z"
         },
         {
-          "title": "Grizzlies\u2019 Ty Jerome Injury Update Brings Last-Minute Concern vs. Ja Morant",
-          "source": "Heavy.com",
-          "link": "https://heavy.com/sports/nba/memphis-grizzlies/grizzlies-ty-jerome-injury-update-last-minute-concern-vs-ja-morant/",
-          "published": "2026-10-30T04:37:22Z"
+          "title": "hoop-impact-bench 1.1.0",
+          "source": "Pypi.org",
+          "link": "https://pypi.org/project/hoop-impact-bench/1.1.0/",
+          "published": "2026-10-30T10:39:50Z"
         },
         {
-          "title": "Cameron Boozer Just Did Something Not Many Rookies Do, And Certainly Not This Soon",
-          "source": "Duke Basketball Report",
-          "link": "https://www.dukebasketballreport.com/alumni/96667/cameron-boozer-erupts-for-first-career-triple-double",
-          "published": "2026-10-30T04:37:17Z"
+          "title": "hoop-impact-bench added to PyPI",
+          "source": "Pypi.org",
+          "link": "https://pypi.org/project/hoop-impact-bench/",
+          "published": "2026-10-30T10:39:50Z"
         }
       ]
     },
@@ -733,47 +588,47 @@
       "away_team": "Sacramento Kings",
       "home_abbr": "MEM",
       "away_abbr": "SAC",
-      "home_ml": "-455",
-      "away_ml": "+350",
-      "home_ml_raw": -455,
-      "away_ml_raw": 350,
-      "home_prob": 78.7,
-      "away_prob": 21.3,
+      "home_ml": "-500",
+      "away_ml": "+380",
+      "home_ml_raw": -500,
+      "away_ml_raw": 380,
+      "home_prob": 80.0,
+      "away_prob": 20.0,
       "spread": "MEM -10.5",
       "favorite": "Memphis Grizzlies",
       "pick": "Memphis Grizzlies",
       "pick_abbr": "MEM",
-      "moneyline": "-455",
-      "win_probability": 78.7,
+      "moneyline": "-500",
+      "win_probability": 80.0,
       "confidence": "HIGH",
       "confidence_stars": "\u2605\u2605\u2605",
       "commence_time": "2026-11-01T00:10:00Z",
       "line_movement": {
         "home": {
           "direction": "shorter",
-          "points_moved": 15,
+          "points_moved": 45,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM -455 \u2190 -440",
-          "old_ml": "-440",
-          "new_ml": "-455"
+          "label": "\ud83d\udd25 STEAM -500 \u2190 -455",
+          "old_ml": "-455",
+          "new_ml": "-500"
         },
         "away": {
           "direction": "longer",
-          "points_moved": 10,
+          "points_moved": 30,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM +350 \u2190 +340",
-          "old_ml": "+340",
-          "new_ml": "+350"
+          "label": "\ud83d\udd25 STEAM +380 \u2190 +350",
+          "old_ml": "+350",
+          "new_ml": "+380"
         },
         "pick": {
           "direction": "shorter",
-          "points_moved": 15,
+          "points_moved": 45,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM -455 \u2190 -440",
-          "old_ml": "-440",
-          "new_ml": "-455"
+          "label": "\ud83d\udd25 STEAM -500 \u2190 -455",
+          "old_ml": "-455",
+          "new_ml": "-500"
         },
-        "snapshot_time": "October 31, 2026 at 01:26 AM UTC"
+        "snapshot_time": "October 31, 2026 at 04:49 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -838,9 +693,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "Memphis Grizzlies hold a 78.7% edge.",
+        "trend": "Memphis Grizzlies hold a 80.0% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -440 to -455 (15pt move) \u2014 heavy professional action on Memphis Grizzlies.",
+        "steam": "Line steamed from -455 to -500 (45pt move) \u2014 heavy professional action on Memphis Grizzlies.",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -854,22 +709,22 @@
       },
       "news": [
         {
-          "title": "Avdija scores 24 points as Portland suffers first loss of the season",
-          "source": "Israelnationalnews.com",
-          "link": "https://www.israelnationalnews.com/flashes/696407",
-          "published": "2026-10-30T04:37:37Z"
+          "title": "15 Countries That Love The Same Sports As The USA",
+          "source": "Den of Geek US",
+          "link": "http://www.denofgeek.com/msn/15-countries-that-love-the-same-sports-as-the-usa/",
+          "published": "2026-10-30T10:45:00Z"
         },
         {
-          "title": "Grizzlies\u2019 Ty Jerome Injury Update Brings Last-Minute Concern vs. Ja Morant",
-          "source": "Heavy.com",
-          "link": "https://heavy.com/sports/nba/memphis-grizzlies/grizzlies-ty-jerome-injury-update-last-minute-concern-vs-ja-morant/",
-          "published": "2026-10-30T04:37:22Z"
+          "title": "hoop-impact-bench 1.1.0",
+          "source": "Pypi.org",
+          "link": "https://pypi.org/project/hoop-impact-bench/1.1.0/",
+          "published": "2026-10-30T10:39:50Z"
         },
         {
-          "title": "Cameron Boozer Just Did Something Not Many Rookies Do, And Certainly Not This Soon",
-          "source": "Duke Basketball Report",
-          "link": "https://www.dukebasketballreport.com/alumni/96667/cameron-boozer-erupts-for-first-career-triple-double",
-          "published": "2026-10-30T04:37:17Z"
+          "title": "hoop-impact-bench added to PyPI",
+          "source": "Pypi.org",
+          "link": "https://pypi.org/project/hoop-impact-bench/",
+          "published": "2026-10-30T10:39:50Z"
         }
       ]
     },
@@ -879,47 +734,47 @@
       "away_team": "Minnesota Timberwolves",
       "home_abbr": "SAS",
       "away_abbr": "MIN",
-      "home_ml": "-550",
-      "away_ml": "+410",
-      "home_ml_raw": -550,
-      "away_ml_raw": 410,
-      "home_prob": 81.2,
-      "away_prob": 18.8,
-      "spread": "SAS -11.5",
+      "home_ml": "-600",
+      "away_ml": "+440",
+      "home_ml_raw": -600,
+      "away_ml_raw": 440,
+      "home_prob": 82.2,
+      "away_prob": 17.8,
+      "spread": "SAS -12.5",
       "favorite": "San Antonio Spurs",
       "pick": "San Antonio Spurs",
       "pick_abbr": "SAS",
-      "moneyline": "-550",
-      "win_probability": 81.2,
+      "moneyline": "-600",
+      "win_probability": 82.2,
       "confidence": "HIGH",
       "confidence_stars": "\u2605\u2605\u2605",
       "commence_time": "2026-11-01T00:10:00Z",
       "line_movement": {
         "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "direction": "shorter",
+          "points_moved": 50,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -600 \u2190 -550",
+          "old_ml": "-550",
+          "new_ml": "-600"
         },
         "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "direction": "longer",
+          "points_moved": 30,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM +440 \u2190 +410",
+          "old_ml": "+410",
+          "new_ml": "+440"
         },
         "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "direction": "shorter",
+          "points_moved": 50,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -600 \u2190 -550",
+          "old_ml": "-550",
+          "new_ml": "-600"
         },
-        "snapshot_time": "October 31, 2026 at 01:26 AM UTC"
+        "snapshot_time": "October 31, 2026 at 04:49 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -946,6 +801,7 @@
         }
       },
       "edge_factors": [
+        "\ud83d\udd25 Sharp steam detected",
         "\ud83d\udca4 MIN fatigued (B2B) \u2014 source: ESPN"
       ],
       "injury_notes": "No key injuries.",
@@ -985,7 +841,7 @@
       "briefing": {
         "trend": "MIN on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "steam": "Line steamed from -550 to -600 (50pt move) \u2014 heavy professional action on San Antonio Spurs.",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -999,22 +855,22 @@
       },
       "news": [
         {
-          "title": "Avdija scores 24 points as Portland suffers first loss of the season",
-          "source": "Israelnationalnews.com",
-          "link": "https://www.israelnationalnews.com/flashes/696407",
-          "published": "2026-10-30T04:37:37Z"
+          "title": "15 Countries That Love The Same Sports As The USA",
+          "source": "Den of Geek US",
+          "link": "http://www.denofgeek.com/msn/15-countries-that-love-the-same-sports-as-the-usa/",
+          "published": "2026-10-30T10:45:00Z"
         },
         {
-          "title": "Grizzlies\u2019 Ty Jerome Injury Update Brings Last-Minute Concern vs. Ja Morant",
-          "source": "Heavy.com",
-          "link": "https://heavy.com/sports/nba/memphis-grizzlies/grizzlies-ty-jerome-injury-update-last-minute-concern-vs-ja-morant/",
-          "published": "2026-10-30T04:37:22Z"
+          "title": "hoop-impact-bench 1.1.0",
+          "source": "Pypi.org",
+          "link": "https://pypi.org/project/hoop-impact-bench/1.1.0/",
+          "published": "2026-10-30T10:39:50Z"
         },
         {
-          "title": "Cameron Boozer Just Did Something Not Many Rookies Do, And Certainly Not This Soon",
-          "source": "Duke Basketball Report",
-          "link": "https://www.dukebasketballreport.com/alumni/96667/cameron-boozer-erupts-for-first-career-triple-double",
-          "published": "2026-10-30T04:37:17Z"
+          "title": "hoop-impact-bench added to PyPI",
+          "source": "Pypi.org",
+          "link": "https://pypi.org/project/hoop-impact-bench/",
+          "published": "2026-10-30T10:39:50Z"
         }
       ]
     },
@@ -1024,47 +880,47 @@
       "away_team": "Oklahoma City Thunder",
       "home_abbr": "HOU",
       "away_abbr": "OKC",
-      "home_ml": "-170",
-      "away_ml": "+142",
-      "home_ml_raw": -170,
-      "away_ml_raw": 142,
-      "home_prob": 60.4,
-      "away_prob": 39.6,
-      "spread": "HOU -4.5",
+      "home_ml": "-162",
+      "away_ml": "+136",
+      "home_ml_raw": -162,
+      "away_ml_raw": 136,
+      "home_prob": 59.3,
+      "away_prob": 40.7,
+      "spread": "HOU -3.5",
       "favorite": "Houston Rockets",
       "pick": "Houston Rockets",
       "pick_abbr": "HOU",
-      "moneyline": "-170",
-      "win_probability": 60.4,
+      "moneyline": "-162",
+      "win_probability": 59.3,
       "confidence": "MEDIUM",
       "confidence_stars": "\u2605\u2605\u2606",
       "commence_time": "2026-11-01T00:40:00Z",
       "line_movement": {
         "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "direction": "longer",
+          "points_moved": 8,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -162 \u2190 -170",
+          "old_ml": "-170",
+          "new_ml": "-162"
         },
         "away": {
-          "direction": "none",
-          "points_moved": 0,
+          "direction": "shorter",
+          "points_moved": 6,
           "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "label": "\ud83d\udfe2 +136 \u2190 +142",
+          "old_ml": "+142",
+          "new_ml": "+136"
         },
         "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "direction": "longer",
+          "points_moved": 8,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -162 \u2190 -170",
+          "old_ml": "-170",
+          "new_ml": "-162"
         },
-        "snapshot_time": "\u2014"
+        "snapshot_time": "October 31, 2026 at 04:49 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -1091,7 +947,7 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udcca 20.8pt probability edge"
+        "\ud83d\udd25 Sharp steam detected"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -1130,7 +986,7 @@
       "briefing": {
         "trend": "HOU on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "steam": "Line steamed from -170 to -162 (8pt move) \u2014 heavy professional action on Houston Rockets.",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -1144,22 +1000,22 @@
       },
       "news": [
         {
-          "title": "Avdija scores 24 points as Portland suffers first loss of the season",
-          "source": "Israelnationalnews.com",
-          "link": "https://www.israelnationalnews.com/flashes/696407",
-          "published": "2026-10-30T04:37:37Z"
+          "title": "15 Countries That Love The Same Sports As The USA",
+          "source": "Den of Geek US",
+          "link": "http://www.denofgeek.com/msn/15-countries-that-love-the-same-sports-as-the-usa/",
+          "published": "2026-10-30T10:45:00Z"
         },
         {
-          "title": "Grizzlies\u2019 Ty Jerome Injury Update Brings Last-Minute Concern vs. Ja Morant",
-          "source": "Heavy.com",
-          "link": "https://heavy.com/sports/nba/memphis-grizzlies/grizzlies-ty-jerome-injury-update-last-minute-concern-vs-ja-morant/",
-          "published": "2026-10-30T04:37:22Z"
+          "title": "hoop-impact-bench 1.1.0",
+          "source": "Pypi.org",
+          "link": "https://pypi.org/project/hoop-impact-bench/1.1.0/",
+          "published": "2026-10-30T10:39:50Z"
         },
         {
-          "title": "Cameron Boozer Just Did Something Not Many Rookies Do, And Certainly Not This Soon",
-          "source": "Duke Basketball Report",
-          "link": "https://www.dukebasketballreport.com/alumni/96667/cameron-boozer-erupts-for-first-career-triple-double",
-          "published": "2026-10-30T04:37:17Z"
+          "title": "hoop-impact-bench added to PyPI",
+          "source": "Pypi.org",
+          "link": "https://pypi.org/project/hoop-impact-bench/",
+          "published": "2026-10-30T10:39:50Z"
         }
       ]
     },
@@ -1209,7 +1065,7 @@
           "old_ml": "-115",
           "new_ml": "-115"
         },
-        "snapshot_time": "October 31, 2026 at 01:26 AM UTC"
+        "snapshot_time": "October 31, 2026 at 04:49 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -1289,22 +1145,22 @@
       },
       "news": [
         {
-          "title": "Avdija scores 24 points as Portland suffers first loss of the season",
-          "source": "Israelnationalnews.com",
-          "link": "https://www.israelnationalnews.com/flashes/696407",
-          "published": "2026-10-30T04:37:37Z"
+          "title": "15 Countries That Love The Same Sports As The USA",
+          "source": "Den of Geek US",
+          "link": "http://www.denofgeek.com/msn/15-countries-that-love-the-same-sports-as-the-usa/",
+          "published": "2026-10-30T10:45:00Z"
         },
         {
-          "title": "Grizzlies\u2019 Ty Jerome Injury Update Brings Last-Minute Concern vs. Ja Morant",
-          "source": "Heavy.com",
-          "link": "https://heavy.com/sports/nba/memphis-grizzlies/grizzlies-ty-jerome-injury-update-last-minute-concern-vs-ja-morant/",
-          "published": "2026-10-30T04:37:22Z"
+          "title": "hoop-impact-bench 1.1.0",
+          "source": "Pypi.org",
+          "link": "https://pypi.org/project/hoop-impact-bench/1.1.0/",
+          "published": "2026-10-30T10:39:50Z"
         },
         {
-          "title": "Cameron Boozer Just Did Something Not Many Rookies Do, And Certainly Not This Soon",
-          "source": "Duke Basketball Report",
-          "link": "https://www.dukebasketballreport.com/alumni/96667/cameron-boozer-erupts-for-first-career-triple-double",
-          "published": "2026-10-30T04:37:17Z"
+          "title": "hoop-impact-bench added to PyPI",
+          "source": "Pypi.org",
+          "link": "https://pypi.org/project/hoop-impact-bench/",
+          "published": "2026-10-30T10:39:50Z"
         }
       ]
     },
@@ -1354,7 +1210,7 @@
           "old_ml": "-218",
           "new_ml": "-218"
         },
-        "snapshot_time": "October 31, 2026 at 01:26 AM UTC"
+        "snapshot_time": "October 31, 2026 at 04:49 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -1434,22 +1290,22 @@
       },
       "news": [
         {
-          "title": "Avdija scores 24 points as Portland suffers first loss of the season",
-          "source": "Israelnationalnews.com",
-          "link": "https://www.israelnationalnews.com/flashes/696407",
-          "published": "2026-10-30T04:37:37Z"
+          "title": "15 Countries That Love The Same Sports As The USA",
+          "source": "Den of Geek US",
+          "link": "http://www.denofgeek.com/msn/15-countries-that-love-the-same-sports-as-the-usa/",
+          "published": "2026-10-30T10:45:00Z"
         },
         {
-          "title": "Grizzlies\u2019 Ty Jerome Injury Update Brings Last-Minute Concern vs. Ja Morant",
-          "source": "Heavy.com",
-          "link": "https://heavy.com/sports/nba/memphis-grizzlies/grizzlies-ty-jerome-injury-update-last-minute-concern-vs-ja-morant/",
-          "published": "2026-10-30T04:37:22Z"
+          "title": "hoop-impact-bench 1.1.0",
+          "source": "Pypi.org",
+          "link": "https://pypi.org/project/hoop-impact-bench/1.1.0/",
+          "published": "2026-10-30T10:39:50Z"
         },
         {
-          "title": "Cameron Boozer Just Did Something Not Many Rookies Do, And Certainly Not This Soon",
-          "source": "Duke Basketball Report",
-          "link": "https://www.dukebasketballreport.com/alumni/96667/cameron-boozer-erupts-for-first-career-triple-double",
-          "published": "2026-10-30T04:37:17Z"
+          "title": "hoop-impact-bench added to PyPI",
+          "source": "Pypi.org",
+          "link": "https://pypi.org/project/hoop-impact-bench/",
+          "published": "2026-10-30T10:39:50Z"
         }
       ]
     },
@@ -1499,7 +1355,7 @@
           "old_ml": "-115",
           "new_ml": "-115"
         },
-        "snapshot_time": "October 31, 2026 at 01:26 AM UTC"
+        "snapshot_time": "October 31, 2026 at 04:49 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -1579,22 +1435,22 @@
       },
       "news": [
         {
-          "title": "Avdija scores 24 points as Portland suffers first loss of the season",
-          "source": "Israelnationalnews.com",
-          "link": "https://www.israelnationalnews.com/flashes/696407",
-          "published": "2026-10-30T04:37:37Z"
+          "title": "15 Countries That Love The Same Sports As The USA",
+          "source": "Den of Geek US",
+          "link": "http://www.denofgeek.com/msn/15-countries-that-love-the-same-sports-as-the-usa/",
+          "published": "2026-10-30T10:45:00Z"
         },
         {
-          "title": "Grizzlies\u2019 Ty Jerome Injury Update Brings Last-Minute Concern vs. Ja Morant",
-          "source": "Heavy.com",
-          "link": "https://heavy.com/sports/nba/memphis-grizzlies/grizzlies-ty-jerome-injury-update-last-minute-concern-vs-ja-morant/",
-          "published": "2026-10-30T04:37:22Z"
+          "title": "hoop-impact-bench 1.1.0",
+          "source": "Pypi.org",
+          "link": "https://pypi.org/project/hoop-impact-bench/1.1.0/",
+          "published": "2026-10-30T10:39:50Z"
         },
         {
-          "title": "Cameron Boozer Just Did Something Not Many Rookies Do, And Certainly Not This Soon",
-          "source": "Duke Basketball Report",
-          "link": "https://www.dukebasketballreport.com/alumni/96667/cameron-boozer-erupts-for-first-career-triple-double",
-          "published": "2026-10-30T04:37:17Z"
+          "title": "hoop-impact-bench added to PyPI",
+          "source": "Pypi.org",
+          "link": "https://pypi.org/project/hoop-impact-bench/",
+          "published": "2026-10-30T10:39:50Z"
         }
       ]
     },
@@ -1644,7 +1500,7 @@
           "old_ml": "-135",
           "new_ml": "-135"
         },
-        "snapshot_time": "October 31, 2026 at 01:26 AM UTC"
+        "snapshot_time": "October 31, 2026 at 04:49 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -1724,22 +1580,22 @@
       },
       "news": [
         {
-          "title": "Avdija scores 24 points as Portland suffers first loss of the season",
-          "source": "Israelnationalnews.com",
-          "link": "https://www.israelnationalnews.com/flashes/696407",
-          "published": "2026-10-30T04:37:37Z"
+          "title": "15 Countries That Love The Same Sports As The USA",
+          "source": "Den of Geek US",
+          "link": "http://www.denofgeek.com/msn/15-countries-that-love-the-same-sports-as-the-usa/",
+          "published": "2026-10-30T10:45:00Z"
         },
         {
-          "title": "Grizzlies\u2019 Ty Jerome Injury Update Brings Last-Minute Concern vs. Ja Morant",
-          "source": "Heavy.com",
-          "link": "https://heavy.com/sports/nba/memphis-grizzlies/grizzlies-ty-jerome-injury-update-last-minute-concern-vs-ja-morant/",
-          "published": "2026-10-30T04:37:22Z"
+          "title": "hoop-impact-bench 1.1.0",
+          "source": "Pypi.org",
+          "link": "https://pypi.org/project/hoop-impact-bench/1.1.0/",
+          "published": "2026-10-30T10:39:50Z"
         },
         {
-          "title": "Cameron Boozer Just Did Something Not Many Rookies Do, And Certainly Not This Soon",
-          "source": "Duke Basketball Report",
-          "link": "https://www.dukebasketballreport.com/alumni/96667/cameron-boozer-erupts-for-first-career-triple-double",
-          "published": "2026-10-30T04:37:17Z"
+          "title": "hoop-impact-bench added to PyPI",
+          "source": "Pypi.org",
+          "link": "https://pypi.org/project/hoop-impact-bench/",
+          "published": "2026-10-30T10:39:50Z"
         }
       ]
     }
@@ -1747,11 +1603,11 @@
   "track_record": {
     "LOW": {
       "wins": 10,
-      "losses": 12,
-      "total": 22,
-      "win_pct": 45.5,
-      "roi": -16.8,
-      "profit": -370.3
+      "losses": 13,
+      "total": 23,
+      "win_pct": 43.5,
+      "roi": -20.4,
+      "profit": -470.3
     },
     "MEDIUM": {
       "wins": 24,

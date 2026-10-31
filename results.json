@@ -306,9 +306,11 @@
       "win_probability": 51.1,
       "commence_time": "2026-10-31T02:10:00Z",
       "date": "2026-08-12T22:41:16.274924+00:00",
-      "graded": false,
-      "result": null,
-      "profit": null
+      "graded": true,
+      "result": "LOSS",
+      "profit": -100,
+      "home_score": 112,
+      "away_score": 95
     },
     {
       "game": "Philadelphia 76ers @ Cleveland Cavaliers",
@@ -1602,11 +1604,11 @@
   "summary": {
     "LOW": {
       "wins": 10,
-      "losses": 12,
-      "total": 22,
-      "win_pct": 45.5,
-      "roi": -16.8,
-      "profit": -370.3
+      "losses": 13,
+      "total": 23,
+      "win_pct": 43.5,
+      "roi": -20.4,
+      "profit": -470.3
     },
     "MEDIUM": {
       "wins": 24,
@@ -1641,5 +1643,5 @@
       "profit": -413.46
     }
   },
-  "last_graded": "2026-10-31T04:49:06.964133+00:00"
+  "last_graded": "2026-10-31T10:46:59.622499+00:00"
 }
