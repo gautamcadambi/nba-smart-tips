@@ -1,208 +1,63 @@
 {
-  "last_updated": "October 31, 2026 at 03:57 PM UTC",
-  "total_games": 12,
+  "last_updated": "November 01, 2026 at 12:44 AM UTC",
+  "total_games": 11,
   "games": [
-    {
-      "game": "Portland Trail Blazers @ Utah Jazz",
-      "home_team": "Utah Jazz",
-      "away_team": "Portland Trail Blazers",
-      "home_abbr": "UTA",
-      "away_abbr": "POR",
-      "home_ml": "+260",
-      "away_ml": "-325",
-      "home_ml_raw": 260,
-      "away_ml_raw": -325,
-      "home_prob": 26.6,
-      "away_prob": 73.4,
-      "spread": "UTA +7.5",
-      "favorite": "Portland Trail Blazers",
-      "pick": "Portland Trail Blazers",
-      "pick_abbr": "POR",
-      "moneyline": "-325",
-      "win_probability": 73.4,
-      "confidence": "HIGH",
-      "confidence_stars": "\u2605\u2605\u2605",
-      "commence_time": "2026-10-31T19:10:00Z",
-      "line_movement": {
-        "home": {
-          "direction": "longer",
-          "points_moved": 50,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM +260 \u2190 +210",
-          "old_ml": "+210",
-          "new_ml": "+260"
-        },
-        "away": {
-          "direction": "shorter",
-          "points_moved": 67,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -325 \u2190 -258",
-          "old_ml": "-258",
-          "new_ml": "-325"
-        },
-        "pick": {
-          "direction": "shorter",
-          "points_moved": 67,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -325 \u2190 -258",
-          "old_ml": "-258",
-          "new_ml": "-325"
-        },
-        "snapshot_time": "October 31, 2026 at 10:47 AM UTC"
-      },
-      "fatigue": {
-        "home": {
-          "status": "FRESH",
-          "label": "Well rested \u2705",
-          "battery": 100,
-          "last_game": "\u2014",
-          "days_rest": 99,
-          "games_last_4d": 0,
-          "travel_miles": 0,
-          "travel_desc": "",
-          "source": "ESPN Scoreboard API"
-        },
-        "away": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "Oct 29",
-          "days_rest": 2,
-          "games_last_4d": 2,
-          "travel_miles": 827,
-          "travel_desc": "827 mi road trip",
-          "source": "ESPN Scoreboard API"
-        }
-      },
-      "edge_factors": [
-        "\ud83d\udd25 Sharp steam detected"
-      ],
-      "injury_notes": "No key injuries.",
-      "sharp": {
-        "away_t": null,
-        "home_t": null,
-        "source": null,
-        "sharp_signal": null,
-        "sharp_label": "Pending \u2014 check closer to tip-off",
-        "rlm": false
-      },
-      "form": {
-        "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        },
-        "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        }
-      },
-      "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
-      },
-      "briefing": {
-        "trend": "Portland Trail Blazers hold a 73.4% edge.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -258 to -325 (67pt move) \u2014 heavy professional action on Portland Trail Blazers.",
-        "injury_notes": "No key injuries."
-      },
-      "live": {
-        "status": "pre",
-        "status_detail": "Upcoming",
-        "period": 0,
-        "clock": "",
-        "home_score": 0,
-        "away_score": 0,
-        "spread_alert": null
-      },
-      "news": [
-        {
-          "title": "Will Wade Has Put Himself In A Hilarious Situation",
-          "source": "Duke Basketball Report",
-          "link": "https://www.dukebasketballreport.com/national/96677/will-wade-update-a-comedy-of-stupid",
-          "published": "2026-10-30T15:49:26Z"
-        },
-        {
-          "title": "Nuggets' Aaron Gordon warns Warriors rookie Yaxel Lendeborg that league will humble him",
-          "source": "Sporting News",
-          "link": "https://www.sportingnews.com/us/nba/news/nuggets-aaron-gordon-warns-warriors-rookie-yaxel-lendeborg-league-will-humble-him/e144a57c66d2e35bd323c427",
-          "published": "2026-10-30T15:47:57Z"
-        },
-        {
-          "title": "French trans phenom Julie T\u00e9tart's performance against top WNBA prospect's team proves a point",
-          "source": "Fox News",
-          "link": "https://www.foxnews.com/outkick-sports/french-trans-phenom-julie-tetart-performance-against-top-wnba-prospect-team-proves-point",
-          "published": "2026-10-30T15:47:47Z"
-        }
-      ]
-    },
     {
       "game": "Philadelphia 76ers @ Charlotte Hornets",
       "home_team": "Charlotte Hornets",
       "away_team": "Philadelphia 76ers",
       "home_abbr": "CHA",
       "away_abbr": "PHI",
-      "home_ml": "+110",
-      "away_ml": "-130",
-      "home_ml_raw": 110,
-      "away_ml_raw": -130,
-      "home_prob": 45.7,
-      "away_prob": 54.3,
-      "spread": "CHA +1.5",
-      "favorite": "Philadelphia 76ers",
-      "pick": "Philadelphia 76ers",
-      "pick_abbr": "PHI",
-      "moneyline": "-130",
-      "win_probability": 54.3,
+      "home_ml": "N/A",
+      "away_ml": "N/A",
+      "home_ml_raw": null,
+      "away_ml_raw": null,
+      "home_prob": 50.0,
+      "away_prob": 50.0,
+      "spread": "CHA +4.5",
+      "favorite": "Charlotte Hornets",
+      "pick": "Charlotte Hornets",
+      "pick_abbr": "CHA",
+      "moneyline": "N/A",
+      "win_probability": 50.0,
       "confidence": "LOW",
       "confidence_stars": "\u2605\u2606\u2606",
-      "commence_time": "2026-10-31T22:10:00Z",
+      "commence_time": "2026-10-31T22:11:00Z",
       "line_movement": {
         "home": {
-          "direction": "longer",
-          "points_moved": 10,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM +110 \u2190 +100",
-          "old_ml": "+100",
-          "new_ml": "+110"
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
         },
         "away": {
-          "direction": "shorter",
-          "points_moved": 10,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -130 \u2190 -120",
-          "old_ml": "-120",
-          "new_ml": "-130"
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
         },
         "pick": {
-          "direction": "shorter",
-          "points_moved": 10,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -130 \u2190 -120",
-          "old_ml": "-120",
-          "new_ml": "-130"
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
         },
-        "snapshot_time": "October 31, 2026 at 10:47 AM UTC"
+        "snapshot_time": "October 31, 2026 at 03:57 PM UTC"
       },
       "fatigue": {
         "home": {
           "status": "B2B",
           "label": "Back-to-Back \u26a0\ufe0f",
           "battery": 20,
-          "last_game": "Oct 30",
+          "last_game": "Oct 31",
           "days_rest": 1,
-          "games_last_4d": 2,
+          "games_last_4d": 3,
           "travel_miles": 330,
           "travel_desc": "330 mi road trip",
           "source": "ESPN Scoreboard API"
@@ -211,17 +66,16 @@
           "status": "B2B",
           "label": "Back-to-Back \u26a0\ufe0f",
           "battery": 20,
-          "last_game": "Oct 30",
+          "last_game": "Oct 31",
           "days_rest": 1,
-          "games_last_4d": 2,
-          "travel_miles": 583,
-          "travel_desc": "583 mi road trip",
+          "games_last_4d": 3,
+          "travel_miles": 448,
+          "travel_desc": "448 mi road trip",
           "source": "ESPN Scoreboard API"
         }
       },
       "edge_factors": [
-        "\ud83d\udd25 Sharp steam detected",
-        "\ud83d\udca4 CHA fatigued (B2B) \u2014 source: ESPN"
+        "\ud83d\udca4 PHI fatigued (B2B) \u2014 source: ESPN"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -260,151 +114,6 @@
       "briefing": {
         "trend": "CHA on Back-to-Back \u26a0\ufe0f per ESPN schedule data. PHI on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -120 to -130 (10pt move) \u2014 heavy professional action on Philadelphia 76ers.",
-        "injury_notes": "No key injuries."
-      },
-      "live": {
-        "status": "pre",
-        "status_detail": "Upcoming",
-        "period": 0,
-        "clock": "",
-        "home_score": 0,
-        "away_score": 0,
-        "spread_alert": null
-      },
-      "news": [
-        {
-          "title": "Will Wade Has Put Himself In A Hilarious Situation",
-          "source": "Duke Basketball Report",
-          "link": "https://www.dukebasketballreport.com/national/96677/will-wade-update-a-comedy-of-stupid",
-          "published": "2026-10-30T15:49:26Z"
-        },
-        {
-          "title": "Nuggets' Aaron Gordon warns Warriors rookie Yaxel Lendeborg that league will humble him",
-          "source": "Sporting News",
-          "link": "https://www.sportingnews.com/us/nba/news/nuggets-aaron-gordon-warns-warriors-rookie-yaxel-lendeborg-league-will-humble-him/e144a57c66d2e35bd323c427",
-          "published": "2026-10-30T15:47:57Z"
-        },
-        {
-          "title": "French trans phenom Julie T\u00e9tart's performance against top WNBA prospect's team proves a point",
-          "source": "Fox News",
-          "link": "https://www.foxnews.com/outkick-sports/french-trans-phenom-julie-tetart-performance-against-top-wnba-prospect-team-proves-point",
-          "published": "2026-10-30T15:47:47Z"
-        }
-      ]
-    },
-    {
-      "game": "Atlanta Hawks @ New Orleans Pelicans",
-      "home_team": "New Orleans Pelicans",
-      "away_team": "Atlanta Hawks",
-      "home_abbr": "NOP",
-      "away_abbr": "ATL",
-      "home_ml": "+150",
-      "away_ml": "-180",
-      "home_ml_raw": 150,
-      "away_ml_raw": -180,
-      "home_prob": 38.4,
-      "away_prob": 61.6,
-      "spread": "NOP +4.5",
-      "favorite": "Atlanta Hawks",
-      "pick": "Atlanta Hawks",
-      "pick_abbr": "ATL",
-      "moneyline": "-180",
-      "win_probability": 61.6,
-      "confidence": "MEDIUM",
-      "confidence_stars": "\u2605\u2605\u2606",
-      "commence_time": "2026-10-31T23:10:00Z",
-      "line_movement": {
-        "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
-          "old_ml": "+150",
-          "new_ml": "+150"
-        },
-        "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
-          "old_ml": "-180",
-          "new_ml": "-180"
-        },
-        "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
-          "old_ml": "-180",
-          "new_ml": "-180"
-        },
-        "snapshot_time": "October 31, 2026 at 10:47 AM UTC"
-      },
-      "fatigue": {
-        "home": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "Oct 29",
-          "days_rest": 2,
-          "games_last_4d": 2,
-          "travel_miles": 0,
-          "travel_desc": "",
-          "source": "ESPN Scoreboard API"
-        },
-        "away": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "Oct 29",
-          "days_rest": 2,
-          "games_last_4d": 2,
-          "travel_miles": 0,
-          "travel_desc": "",
-          "source": "ESPN Scoreboard API"
-        }
-      },
-      "edge_factors": [
-        "\ud83d\udcca 23.2pt probability edge"
-      ],
-      "injury_notes": "No key injuries.",
-      "sharp": {
-        "away_t": null,
-        "home_t": null,
-        "source": null,
-        "sharp_signal": null,
-        "sharp_label": "Pending \u2014 check closer to tip-off",
-        "rlm": false
-      },
-      "form": {
-        "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        },
-        "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        }
-      },
-      "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
-      },
-      "briefing": {
-        "trend": "Atlanta Hawks hold a 61.6% edge.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
         "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
       },
@@ -419,22 +128,168 @@
       },
       "news": [
         {
-          "title": "Will Wade Has Put Himself In A Hilarious Situation",
-          "source": "Duke Basketball Report",
-          "link": "https://www.dukebasketballreport.com/national/96677/will-wade-update-a-comedy-of-stupid",
-          "published": "2026-10-30T15:49:26Z"
+          "title": "Ohio State vs USC Prediction: Odds, expert picks, team and player news, betting trends, and stats",
+          "source": "NBCSports.com",
+          "link": "https://www.nbcsports.com/betting/college-football/news/ohio-state-vs-usc-prediction-odds-expert-picks-team-and-player-news-betting-trends-and-stats",
+          "published": "2026-10-31T00:38:59Z"
         },
         {
-          "title": "Nuggets' Aaron Gordon warns Warriors rookie Yaxel Lendeborg that league will humble him",
-          "source": "Sporting News",
-          "link": "https://www.sportingnews.com/us/nba/news/nuggets-aaron-gordon-warns-warriors-rookie-yaxel-lendeborg-league-will-humble-him/e144a57c66d2e35bd323c427",
-          "published": "2026-10-30T15:47:57Z"
+          "title": "Houston Rockets open NBA Cup play against Dallas but more focused on managing injuries",
+          "source": "Houston Chronicle",
+          "link": "https://www.houstonchronicle.com/sports/rockets/article/houston-dallas-mavericks-score-nba-cup-22502211.php?utm_medium=referral&amp;utm_campaign=yahoo_syndication",
+          "published": "2026-10-31T00:36:43Z"
         },
         {
-          "title": "French trans phenom Julie T\u00e9tart's performance against top WNBA prospect's team proves a point",
-          "source": "Fox News",
-          "link": "https://www.foxnews.com/outkick-sports/french-trans-phenom-julie-tetart-performance-against-top-wnba-prospect-team-proves-point",
-          "published": "2026-10-30T15:47:47Z"
+          "title": "Achiuwa bags 24 points as Kings fall to Pelicans",
+          "source": "The Punch",
+          "link": "https://punchng.com/achiuwa-bags-24-points-as-kings-fall-to-pelicans/",
+          "published": "2026-10-31T00:35:29Z"
+        }
+      ]
+    },
+    {
+      "game": "Atlanta Hawks @ New Orleans Pelicans",
+      "home_team": "New Orleans Pelicans",
+      "away_team": "Atlanta Hawks",
+      "home_abbr": "NOP",
+      "away_abbr": "ATL",
+      "home_ml": "-800",
+      "away_ml": "+500",
+      "home_ml_raw": -800,
+      "away_ml_raw": 500,
+      "home_prob": 84.2,
+      "away_prob": 15.8,
+      "spread": "NOP -10.5",
+      "favorite": "New Orleans Pelicans",
+      "pick": "New Orleans Pelicans",
+      "pick_abbr": "NOP",
+      "moneyline": "-800",
+      "win_probability": 84.2,
+      "confidence": "HIGH",
+      "confidence_stars": "\u2605\u2605\u2605",
+      "commence_time": "2026-10-31T23:11:00Z",
+      "line_movement": {
+        "home": {
+          "direction": "shorter",
+          "points_moved": 950,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -800 \u2190 +150",
+          "old_ml": "+150",
+          "new_ml": "-800"
+        },
+        "away": {
+          "direction": "longer",
+          "points_moved": 680,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM +500 \u2190 -180",
+          "old_ml": "-180",
+          "new_ml": "+500"
+        },
+        "pick": {
+          "direction": "shorter",
+          "points_moved": 950,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -800 \u2190 +150",
+          "old_ml": "+150",
+          "new_ml": "-800"
+        },
+        "snapshot_time": "October 31, 2026 at 03:57 PM UTC"
+      },
+      "fatigue": {
+        "home": {
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Oct 31",
+          "days_rest": 1,
+          "games_last_4d": 3,
+          "travel_miles": 0,
+          "travel_desc": "",
+          "source": "ESPN Scoreboard API"
+        },
+        "away": {
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Oct 31",
+          "days_rest": 1,
+          "games_last_4d": 3,
+          "travel_miles": 425,
+          "travel_desc": "425 mi road trip",
+          "source": "ESPN Scoreboard API"
+        }
+      },
+      "edge_factors": [
+        "\ud83d\udd25 Sharp steam detected",
+        "\ud83d\udca4 ATL fatigued (B2B) \u2014 source: ESPN"
+      ],
+      "injury_notes": "No key injuries.",
+      "sharp": {
+        "away_t": null,
+        "home_t": null,
+        "source": null,
+        "sharp_signal": null,
+        "sharp_label": "Pending \u2014 check closer to tip-off",
+        "rlm": false
+      },
+      "form": {
+        "home": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        },
+        "away": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        }
+      },
+      "h2h": {
+        "total_meetings": 0,
+        "home_wins": 0,
+        "away_wins": 0,
+        "meetings": [],
+        "source": "\u2014"
+      },
+      "briefing": {
+        "trend": "NOP on Back-to-Back \u26a0\ufe0f per ESPN schedule data. ATL on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "matchup": "Both rosters appear healthy \u2014 clean line.",
+        "steam": "Line steamed from +150 to -800 (950pt move) \u2014 heavy professional action on New Orleans Pelicans.",
+        "injury_notes": "No key injuries."
+      },
+      "live": {
+        "status": "pre",
+        "status_detail": "Upcoming",
+        "period": 0,
+        "clock": "",
+        "home_score": 0,
+        "away_score": 0,
+        "spread_alert": null
+      },
+      "news": [
+        {
+          "title": "Ohio State vs USC Prediction: Odds, expert picks, team and player news, betting trends, and stats",
+          "source": "NBCSports.com",
+          "link": "https://www.nbcsports.com/betting/college-football/news/ohio-state-vs-usc-prediction-odds-expert-picks-team-and-player-news-betting-trends-and-stats",
+          "published": "2026-10-31T00:38:59Z"
+        },
+        {
+          "title": "Houston Rockets open NBA Cup play against Dallas but more focused on managing injuries",
+          "source": "Houston Chronicle",
+          "link": "https://www.houstonchronicle.com/sports/rockets/article/houston-dallas-mavericks-score-nba-cup-22502211.php?utm_medium=referral&amp;utm_campaign=yahoo_syndication",
+          "published": "2026-10-31T00:36:43Z"
+        },
+        {
+          "title": "Achiuwa bags 24 points as Kings fall to Pelicans",
+          "source": "The Punch",
+          "link": "https://punchng.com/achiuwa-bags-24-points-as-kings-fall-to-pelicans/",
+          "published": "2026-10-31T00:35:29Z"
         }
       ]
     },
@@ -444,346 +299,55 @@
       "away_team": "Cleveland Cavaliers",
       "home_abbr": "MIL",
       "away_abbr": "CLE",
-      "home_ml": "+310",
-      "away_ml": "-395",
-      "home_ml_raw": 310,
-      "away_ml_raw": -395,
-      "home_prob": 23.4,
-      "away_prob": 76.6,
-      "spread": "MIL +9.5",
+      "home_ml": "+360",
+      "away_ml": "-550",
+      "home_ml_raw": 360,
+      "away_ml_raw": -550,
+      "home_prob": 20.4,
+      "away_prob": 79.6,
+      "spread": "MIL +10.5",
       "favorite": "Cleveland Cavaliers",
       "pick": "Cleveland Cavaliers",
       "pick_abbr": "CLE",
-      "moneyline": "-395",
-      "win_probability": 76.6,
+      "moneyline": "-550",
+      "win_probability": 79.6,
       "confidence": "HIGH",
       "confidence_stars": "\u2605\u2605\u2605",
-      "commence_time": "2026-11-01T00:10:00Z",
+      "commence_time": "2026-11-01T00:11:00Z",
       "line_movement": {
         "home": {
           "direction": "longer",
-          "points_moved": 40,
+          "points_moved": 50,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM +310 \u2190 +270",
-          "old_ml": "+270",
-          "new_ml": "+310"
+          "label": "\ud83d\udd25 STEAM +360 \u2190 +310",
+          "old_ml": "+310",
+          "new_ml": "+360"
         },
         "away": {
           "direction": "shorter",
-          "points_moved": 55,
+          "points_moved": 155,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM -395 \u2190 -340",
-          "old_ml": "-340",
-          "new_ml": "-395"
+          "label": "\ud83d\udd25 STEAM -550 \u2190 -395",
+          "old_ml": "-395",
+          "new_ml": "-550"
         },
         "pick": {
           "direction": "shorter",
-          "points_moved": 55,
+          "points_moved": 155,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM -395 \u2190 -340",
-          "old_ml": "-340",
-          "new_ml": "-395"
+          "label": "\ud83d\udd25 STEAM -550 \u2190 -395",
+          "old_ml": "-395",
+          "new_ml": "-550"
         },
-        "snapshot_time": "October 31, 2026 at 10:47 AM UTC"
+        "snapshot_time": "October 31, 2026 at 03:57 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "RESTED",
-          "label": "2 days rest \u2705",
-          "battery": 88,
-          "last_game": "Oct 28",
-          "days_rest": 3,
-          "games_last_4d": 1,
-          "travel_miles": 0,
-          "travel_desc": "",
-          "source": "ESPN Scoreboard API"
-        },
-        "away": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "Oct 29",
-          "days_rest": 2,
-          "games_last_4d": 2,
-          "travel_miles": 555,
-          "travel_desc": "555 mi road trip",
-          "source": "ESPN Scoreboard API"
-        }
-      },
-      "edge_factors": [
-        "\ud83d\udd25 Sharp steam detected"
-      ],
-      "injury_notes": "No key injuries.",
-      "sharp": {
-        "away_t": null,
-        "home_t": null,
-        "source": null,
-        "sharp_signal": null,
-        "sharp_label": "Pending \u2014 check closer to tip-off",
-        "rlm": false
-      },
-      "form": {
-        "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        },
-        "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        }
-      },
-      "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
-      },
-      "briefing": {
-        "trend": "Cleveland Cavaliers hold a 76.6% edge.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -340 to -395 (55pt move) \u2014 heavy professional action on Cleveland Cavaliers.",
-        "injury_notes": "No key injuries."
-      },
-      "live": {
-        "status": "pre",
-        "status_detail": "Upcoming",
-        "period": 0,
-        "clock": "",
-        "home_score": 0,
-        "away_score": 0,
-        "spread_alert": null
-      },
-      "news": [
-        {
-          "title": "Will Wade Has Put Himself In A Hilarious Situation",
-          "source": "Duke Basketball Report",
-          "link": "https://www.dukebasketballreport.com/national/96677/will-wade-update-a-comedy-of-stupid",
-          "published": "2026-10-30T15:49:26Z"
-        },
-        {
-          "title": "Nuggets' Aaron Gordon warns Warriors rookie Yaxel Lendeborg that league will humble him",
-          "source": "Sporting News",
-          "link": "https://www.sportingnews.com/us/nba/news/nuggets-aaron-gordon-warns-warriors-rookie-yaxel-lendeborg-league-will-humble-him/e144a57c66d2e35bd323c427",
-          "published": "2026-10-30T15:47:57Z"
-        },
-        {
-          "title": "French trans phenom Julie T\u00e9tart's performance against top WNBA prospect's team proves a point",
-          "source": "Fox News",
-          "link": "https://www.foxnews.com/outkick-sports/french-trans-phenom-julie-tetart-performance-against-top-wnba-prospect-team-proves-point",
-          "published": "2026-10-30T15:47:47Z"
-        }
-      ]
-    },
-    {
-      "game": "Sacramento Kings @ Memphis Grizzlies",
-      "home_team": "Memphis Grizzlies",
-      "away_team": "Sacramento Kings",
-      "home_abbr": "MEM",
-      "away_abbr": "SAC",
-      "home_ml": "-375",
-      "away_ml": "+295",
-      "home_ml_raw": -375,
-      "away_ml_raw": 295,
-      "home_prob": 75.7,
-      "away_prob": 24.3,
-      "spread": "MEM -8.5",
-      "favorite": "Memphis Grizzlies",
-      "pick": "Memphis Grizzlies",
-      "pick_abbr": "MEM",
-      "moneyline": "-375",
-      "win_probability": 75.7,
-      "confidence": "HIGH",
-      "confidence_stars": "\u2605\u2605\u2605",
-      "commence_time": "2026-11-01T00:10:00Z",
-      "line_movement": {
-        "home": {
-          "direction": "longer",
-          "points_moved": 125,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -375 \u2190 -500",
-          "old_ml": "-500",
-          "new_ml": "-375"
-        },
-        "away": {
-          "direction": "shorter",
-          "points_moved": 85,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM +295 \u2190 +380",
-          "old_ml": "+380",
-          "new_ml": "+295"
-        },
-        "pick": {
-          "direction": "longer",
-          "points_moved": 125,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -375 \u2190 -500",
-          "old_ml": "-500",
-          "new_ml": "-375"
-        },
-        "snapshot_time": "October 31, 2026 at 10:47 AM UTC"
-      },
-      "fatigue": {
-        "home": {
-          "status": "TRAVEL",
-          "label": "Cross-country travel \ud83d\udfe3",
-          "battery": 50,
-          "last_game": "Oct 29",
-          "days_rest": 2,
-          "games_last_4d": 1,
-          "travel_miles": 1846,
-          "travel_desc": "1,846 mi road trip",
-          "source": "ESPN Scoreboard API"
-        },
-        "away": {
-          "status": "TRAVEL",
-          "label": "Cross-country travel \ud83d\udfe3",
-          "battery": 50,
-          "last_game": "Oct 29",
-          "days_rest": 2,
-          "games_last_4d": 2,
-          "travel_miles": 1880,
-          "travel_desc": "1,880 mi road trip",
-          "source": "ESPN Scoreboard API"
-        }
-      },
-      "edge_factors": [
-        "\ud83d\udd25 Sharp steam detected",
-        "\u2708\ufe0f SAC traveled 1,880 mi"
-      ],
-      "injury_notes": "No key injuries.",
-      "sharp": {
-        "away_t": null,
-        "home_t": null,
-        "source": null,
-        "sharp_signal": null,
-        "sharp_label": "Pending \u2014 check closer to tip-off",
-        "rlm": false
-      },
-      "form": {
-        "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        },
-        "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        }
-      },
-      "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
-      },
-      "briefing": {
-        "trend": "Memphis Grizzlies hold a 75.7% edge.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -500 to -375 (125pt move) \u2014 heavy professional action on Memphis Grizzlies.",
-        "injury_notes": "No key injuries."
-      },
-      "live": {
-        "status": "pre",
-        "status_detail": "Upcoming",
-        "period": 0,
-        "clock": "",
-        "home_score": 0,
-        "away_score": 0,
-        "spread_alert": null
-      },
-      "news": [
-        {
-          "title": "Will Wade Has Put Himself In A Hilarious Situation",
-          "source": "Duke Basketball Report",
-          "link": "https://www.dukebasketballreport.com/national/96677/will-wade-update-a-comedy-of-stupid",
-          "published": "2026-10-30T15:49:26Z"
-        },
-        {
-          "title": "Nuggets' Aaron Gordon warns Warriors rookie Yaxel Lendeborg that league will humble him",
-          "source": "Sporting News",
-          "link": "https://www.sportingnews.com/us/nba/news/nuggets-aaron-gordon-warns-warriors-rookie-yaxel-lendeborg-league-will-humble-him/e144a57c66d2e35bd323c427",
-          "published": "2026-10-30T15:47:57Z"
-        },
-        {
-          "title": "French trans phenom Julie T\u00e9tart's performance against top WNBA prospect's team proves a point",
-          "source": "Fox News",
-          "link": "https://www.foxnews.com/outkick-sports/french-trans-phenom-julie-tetart-performance-against-top-wnba-prospect-team-proves-point",
-          "published": "2026-10-30T15:47:47Z"
-        }
-      ]
-    },
-    {
-      "game": "Minnesota Timberwolves @ San Antonio Spurs",
-      "home_team": "San Antonio Spurs",
-      "away_team": "Minnesota Timberwolves",
-      "home_abbr": "SAS",
-      "away_abbr": "MIN",
-      "home_ml": "-600",
-      "away_ml": "+440",
-      "home_ml_raw": -600,
-      "away_ml_raw": 440,
-      "home_prob": 82.2,
-      "away_prob": 17.8,
-      "spread": "SAS -12.5",
-      "favorite": "San Antonio Spurs",
-      "pick": "San Antonio Spurs",
-      "pick_abbr": "SAS",
-      "moneyline": "-600",
-      "win_probability": 82.2,
-      "confidence": "HIGH",
-      "confidence_stars": "\u2605\u2605\u2605",
-      "commence_time": "2026-11-01T00:10:00Z",
-      "line_movement": {
-        "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
-          "old_ml": "-600",
-          "new_ml": "-600"
-        },
-        "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
-          "old_ml": "+440",
-          "new_ml": "+440"
-        },
-        "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
-          "old_ml": "-600",
-          "new_ml": "-600"
-        },
-        "snapshot_time": "October 31, 2026 at 10:47 AM UTC"
-      },
-      "fatigue": {
-        "home": {
-          "status": "RESTED",
-          "label": "2 days rest \u2705",
-          "battery": 88,
-          "last_game": "Oct 28",
-          "days_rest": 3,
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Oct 31",
+          "days_rest": 1,
           "games_last_4d": 2,
           "travel_miles": 0,
           "travel_desc": "",
@@ -793,15 +357,308 @@
           "status": "B2B",
           "label": "Back-to-Back \u26a0\ufe0f",
           "battery": 20,
-          "last_game": "Oct 30",
+          "last_game": "Oct 31",
+          "days_rest": 1,
+          "games_last_4d": 3,
+          "travel_miles": 336,
+          "travel_desc": "336 mi road trip",
+          "source": "ESPN Scoreboard API"
+        }
+      },
+      "edge_factors": [
+        "\ud83d\udd25 Sharp steam detected",
+        "\ud83d\udca4 MIL fatigued (B2B) \u2014 source: ESPN"
+      ],
+      "injury_notes": "No key injuries.",
+      "sharp": {
+        "away_t": null,
+        "home_t": null,
+        "source": null,
+        "sharp_signal": null,
+        "sharp_label": "Pending \u2014 check closer to tip-off",
+        "rlm": false
+      },
+      "form": {
+        "home": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        },
+        "away": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        }
+      },
+      "h2h": {
+        "total_meetings": 0,
+        "home_wins": 0,
+        "away_wins": 0,
+        "meetings": [],
+        "source": "\u2014"
+      },
+      "briefing": {
+        "trend": "MIL on Back-to-Back \u26a0\ufe0f per ESPN schedule data. CLE on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "matchup": "Both rosters appear healthy \u2014 clean line.",
+        "steam": "Line steamed from -395 to -550 (155pt move) \u2014 heavy professional action on Cleveland Cavaliers.",
+        "injury_notes": "No key injuries."
+      },
+      "live": {
+        "status": "pre",
+        "status_detail": "Upcoming",
+        "period": 0,
+        "clock": "",
+        "home_score": 0,
+        "away_score": 0,
+        "spread_alert": null
+      },
+      "news": [
+        {
+          "title": "Ohio State vs USC Prediction: Odds, expert picks, team and player news, betting trends, and stats",
+          "source": "NBCSports.com",
+          "link": "https://www.nbcsports.com/betting/college-football/news/ohio-state-vs-usc-prediction-odds-expert-picks-team-and-player-news-betting-trends-and-stats",
+          "published": "2026-10-31T00:38:59Z"
+        },
+        {
+          "title": "Houston Rockets open NBA Cup play against Dallas but more focused on managing injuries",
+          "source": "Houston Chronicle",
+          "link": "https://www.houstonchronicle.com/sports/rockets/article/houston-dallas-mavericks-score-nba-cup-22502211.php?utm_medium=referral&amp;utm_campaign=yahoo_syndication",
+          "published": "2026-10-31T00:36:43Z"
+        },
+        {
+          "title": "Achiuwa bags 24 points as Kings fall to Pelicans",
+          "source": "The Punch",
+          "link": "https://punchng.com/achiuwa-bags-24-points-as-kings-fall-to-pelicans/",
+          "published": "2026-10-31T00:35:29Z"
+        }
+      ]
+    },
+    {
+      "game": "Sacramento Kings @ Memphis Grizzlies",
+      "home_team": "Memphis Grizzlies",
+      "away_team": "Sacramento Kings",
+      "home_abbr": "MEM",
+      "away_abbr": "SAC",
+      "home_ml": "-500",
+      "away_ml": "+350",
+      "home_ml_raw": -500,
+      "away_ml_raw": 350,
+      "home_prob": 78.9,
+      "away_prob": 21.1,
+      "spread": "MEM -10.5",
+      "favorite": "Memphis Grizzlies",
+      "pick": "Memphis Grizzlies",
+      "pick_abbr": "MEM",
+      "moneyline": "-500",
+      "win_probability": 78.9,
+      "confidence": "HIGH",
+      "confidence_stars": "\u2605\u2605\u2605",
+      "commence_time": "2026-11-01T00:11:00Z",
+      "line_movement": {
+        "home": {
+          "direction": "shorter",
+          "points_moved": 125,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -500 \u2190 -375",
+          "old_ml": "-375",
+          "new_ml": "-500"
+        },
+        "away": {
+          "direction": "longer",
+          "points_moved": 55,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM +350 \u2190 +295",
+          "old_ml": "+295",
+          "new_ml": "+350"
+        },
+        "pick": {
+          "direction": "shorter",
+          "points_moved": 125,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -500 \u2190 -375",
+          "old_ml": "-375",
+          "new_ml": "-500"
+        },
+        "snapshot_time": "October 31, 2026 at 03:57 PM UTC"
+      },
+      "fatigue": {
+        "home": {
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Oct 31",
+          "days_rest": 1,
+          "games_last_4d": 2,
+          "travel_miles": 1846,
+          "travel_desc": "1,846 mi road trip",
+          "source": "ESPN Scoreboard API"
+        },
+        "away": {
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Oct 31",
+          "days_rest": 1,
+          "games_last_4d": 2,
+          "travel_miles": 1746,
+          "travel_desc": "1,746 mi road trip",
+          "source": "ESPN Scoreboard API"
+        }
+      },
+      "edge_factors": [
+        "\ud83d\udd25 Sharp steam detected",
+        "\ud83d\udca4 SAC fatigued (B2B) \u2014 source: ESPN"
+      ],
+      "injury_notes": "No key injuries.",
+      "sharp": {
+        "away_t": null,
+        "home_t": null,
+        "source": null,
+        "sharp_signal": null,
+        "sharp_label": "Pending \u2014 check closer to tip-off",
+        "rlm": false
+      },
+      "form": {
+        "home": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        },
+        "away": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        }
+      },
+      "h2h": {
+        "total_meetings": 0,
+        "home_wins": 0,
+        "away_wins": 0,
+        "meetings": [],
+        "source": "\u2014"
+      },
+      "briefing": {
+        "trend": "MEM on Back-to-Back \u26a0\ufe0f per ESPN schedule data. SAC on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "matchup": "Both rosters appear healthy \u2014 clean line.",
+        "steam": "Line steamed from -375 to -500 (125pt move) \u2014 heavy professional action on Memphis Grizzlies.",
+        "injury_notes": "No key injuries."
+      },
+      "live": {
+        "status": "pre",
+        "status_detail": "Upcoming",
+        "period": 0,
+        "clock": "",
+        "home_score": 0,
+        "away_score": 0,
+        "spread_alert": null
+      },
+      "news": [
+        {
+          "title": "Ohio State vs USC Prediction: Odds, expert picks, team and player news, betting trends, and stats",
+          "source": "NBCSports.com",
+          "link": "https://www.nbcsports.com/betting/college-football/news/ohio-state-vs-usc-prediction-odds-expert-picks-team-and-player-news-betting-trends-and-stats",
+          "published": "2026-10-31T00:38:59Z"
+        },
+        {
+          "title": "Houston Rockets open NBA Cup play against Dallas but more focused on managing injuries",
+          "source": "Houston Chronicle",
+          "link": "https://www.houstonchronicle.com/sports/rockets/article/houston-dallas-mavericks-score-nba-cup-22502211.php?utm_medium=referral&amp;utm_campaign=yahoo_syndication",
+          "published": "2026-10-31T00:36:43Z"
+        },
+        {
+          "title": "Achiuwa bags 24 points as Kings fall to Pelicans",
+          "source": "The Punch",
+          "link": "https://punchng.com/achiuwa-bags-24-points-as-kings-fall-to-pelicans/",
+          "published": "2026-10-31T00:35:29Z"
+        }
+      ]
+    },
+    {
+      "game": "Minnesota Timberwolves @ San Antonio Spurs",
+      "home_team": "San Antonio Spurs",
+      "away_team": "Minnesota Timberwolves",
+      "home_abbr": "SAS",
+      "away_abbr": "MIN",
+      "home_ml": "-1600",
+      "away_ml": "+850",
+      "home_ml_raw": -1600,
+      "away_ml_raw": 850,
+      "home_prob": 89.9,
+      "away_prob": 10.1,
+      "spread": "SAS -16.5",
+      "favorite": "San Antonio Spurs",
+      "pick": "San Antonio Spurs",
+      "pick_abbr": "SAS",
+      "moneyline": "-1600",
+      "win_probability": 89.9,
+      "confidence": "HIGH",
+      "confidence_stars": "\u2605\u2605\u2605",
+      "commence_time": "2026-11-01T00:11:00Z",
+      "line_movement": {
+        "home": {
+          "direction": "shorter",
+          "points_moved": 1000,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -1600 \u2190 -600",
+          "old_ml": "-600",
+          "new_ml": "-1600"
+        },
+        "away": {
+          "direction": "longer",
+          "points_moved": 410,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM +850 \u2190 +440",
+          "old_ml": "+440",
+          "new_ml": "+850"
+        },
+        "pick": {
+          "direction": "shorter",
+          "points_moved": 1000,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -1600 \u2190 -600",
+          "old_ml": "-600",
+          "new_ml": "-1600"
+        },
+        "snapshot_time": "October 31, 2026 at 03:57 PM UTC"
+      },
+      "fatigue": {
+        "home": {
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Oct 31",
           "days_rest": 1,
           "games_last_4d": 2,
           "travel_miles": 0,
           "travel_desc": "",
           "source": "ESPN Scoreboard API"
+        },
+        "away": {
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Oct 31",
+          "days_rest": 1,
+          "games_last_4d": 3,
+          "travel_miles": 1111,
+          "travel_desc": "1,111 mi road trip",
+          "source": "ESPN Scoreboard API"
         }
       },
       "edge_factors": [
+        "\ud83d\udd25 Sharp steam detected",
         "\ud83d\udca4 MIN fatigued (B2B) \u2014 source: ESPN"
       ],
       "injury_notes": "No key injuries.",
@@ -839,9 +696,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "MIN on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "trend": "SAS on Back-to-Back \u26a0\ufe0f per ESPN schedule data. MIN on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "steam": "Line steamed from -600 to -1600 (1000pt move) \u2014 heavy professional action on San Antonio Spurs.",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -855,22 +712,22 @@
       },
       "news": [
         {
-          "title": "Will Wade Has Put Himself In A Hilarious Situation",
-          "source": "Duke Basketball Report",
-          "link": "https://www.dukebasketballreport.com/national/96677/will-wade-update-a-comedy-of-stupid",
-          "published": "2026-10-30T15:49:26Z"
+          "title": "Ohio State vs USC Prediction: Odds, expert picks, team and player news, betting trends, and stats",
+          "source": "NBCSports.com",
+          "link": "https://www.nbcsports.com/betting/college-football/news/ohio-state-vs-usc-prediction-odds-expert-picks-team-and-player-news-betting-trends-and-stats",
+          "published": "2026-10-31T00:38:59Z"
         },
         {
-          "title": "Nuggets' Aaron Gordon warns Warriors rookie Yaxel Lendeborg that league will humble him",
-          "source": "Sporting News",
-          "link": "https://www.sportingnews.com/us/nba/news/nuggets-aaron-gordon-warns-warriors-rookie-yaxel-lendeborg-league-will-humble-him/e144a57c66d2e35bd323c427",
-          "published": "2026-10-30T15:47:57Z"
+          "title": "Houston Rockets open NBA Cup play against Dallas but more focused on managing injuries",
+          "source": "Houston Chronicle",
+          "link": "https://www.houstonchronicle.com/sports/rockets/article/houston-dallas-mavericks-score-nba-cup-22502211.php?utm_medium=referral&amp;utm_campaign=yahoo_syndication",
+          "published": "2026-10-31T00:36:43Z"
         },
         {
-          "title": "French trans phenom Julie T\u00e9tart's performance against top WNBA prospect's team proves a point",
-          "source": "Fox News",
-          "link": "https://www.foxnews.com/outkick-sports/french-trans-phenom-julie-tetart-performance-against-top-wnba-prospect-team-proves-point",
-          "published": "2026-10-30T15:47:47Z"
+          "title": "Achiuwa bags 24 points as Kings fall to Pelicans",
+          "source": "The Punch",
+          "link": "https://punchng.com/achiuwa-bags-24-points-as-kings-fall-to-pelicans/",
+          "published": "2026-10-31T00:35:29Z"
         }
       ]
     },
@@ -880,74 +737,75 @@
       "away_team": "Oklahoma City Thunder",
       "home_abbr": "HOU",
       "away_abbr": "OKC",
-      "home_ml": "-142",
-      "away_ml": "+120",
-      "home_ml_raw": -142,
-      "away_ml_raw": 120,
-      "home_prob": 56.3,
-      "away_prob": 43.7,
-      "spread": "HOU -2.5",
+      "home_ml": "-160",
+      "away_ml": "+125",
+      "home_ml_raw": -160,
+      "away_ml_raw": 125,
+      "home_prob": 58.1,
+      "away_prob": 41.9,
+      "spread": "HOU -3.5",
       "favorite": "Houston Rockets",
       "pick": "Houston Rockets",
       "pick_abbr": "HOU",
-      "moneyline": "-142",
-      "win_probability": 56.3,
-      "confidence": "LOW",
-      "confidence_stars": "\u2605\u2606\u2606",
-      "commence_time": "2026-11-01T00:40:00Z",
+      "moneyline": "-160",
+      "win_probability": 58.1,
+      "confidence": "MEDIUM",
+      "confidence_stars": "\u2605\u2605\u2606",
+      "commence_time": "2026-11-01T00:42:00Z",
       "line_movement": {
         "home": {
-          "direction": "longer",
-          "points_moved": 20,
+          "direction": "shorter",
+          "points_moved": 18,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM -142 \u2190 -162",
-          "old_ml": "-162",
-          "new_ml": "-142"
+          "label": "\ud83d\udd25 STEAM -160 \u2190 -142",
+          "old_ml": "-142",
+          "new_ml": "-160"
         },
         "away": {
-          "direction": "shorter",
-          "points_moved": 16,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM +120 \u2190 +136",
-          "old_ml": "+136",
-          "new_ml": "+120"
+          "direction": "longer",
+          "points_moved": 5,
+          "steam": false,
+          "label": "\ud83d\udd34 +125 \u2190 +120",
+          "old_ml": "+120",
+          "new_ml": "+125"
         },
         "pick": {
-          "direction": "longer",
-          "points_moved": 20,
+          "direction": "shorter",
+          "points_moved": 18,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM -142 \u2190 -162",
-          "old_ml": "-162",
-          "new_ml": "-142"
+          "label": "\ud83d\udd25 STEAM -160 \u2190 -142",
+          "old_ml": "-142",
+          "new_ml": "-160"
         },
-        "snapshot_time": "October 31, 2026 at 10:47 AM UTC"
+        "snapshot_time": "October 31, 2026 at 03:57 PM UTC"
       },
       "fatigue": {
         "home": {
           "status": "B2B",
           "label": "Back-to-Back \u26a0\ufe0f",
           "battery": 20,
-          "last_game": "Oct 30",
+          "last_game": "Oct 31",
           "days_rest": 1,
-          "games_last_4d": 2,
+          "games_last_4d": 3,
           "travel_miles": 227,
           "travel_desc": "227 mi road trip",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "RESTED",
-          "label": "2 days rest \u2705",
-          "battery": 88,
-          "last_game": "Oct 28",
-          "days_rest": 3,
-          "games_last_4d": 1,
-          "travel_miles": 189,
-          "travel_desc": "189 mi road trip",
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Oct 31",
+          "days_rest": 1,
+          "games_last_4d": 2,
+          "travel_miles": 414,
+          "travel_desc": "414 mi road trip",
           "source": "ESPN Scoreboard API"
         }
       },
       "edge_factors": [
-        "\ud83d\udd25 Sharp steam detected"
+        "\ud83d\udd25 Sharp steam detected",
+        "\ud83d\udca4 OKC fatigued (B2B) \u2014 source: ESPN"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -984,9 +842,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "HOU on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "trend": "HOU on Back-to-Back \u26a0\ufe0f per ESPN schedule data. OKC on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -162 to -142 (20pt move) \u2014 heavy professional action on Houston Rockets.",
+        "steam": "Line steamed from -142 to -160 (18pt move) \u2014 heavy professional action on Houston Rockets.",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -1000,22 +858,22 @@
       },
       "news": [
         {
-          "title": "Will Wade Has Put Himself In A Hilarious Situation",
-          "source": "Duke Basketball Report",
-          "link": "https://www.dukebasketballreport.com/national/96677/will-wade-update-a-comedy-of-stupid",
-          "published": "2026-10-30T15:49:26Z"
+          "title": "Ohio State vs USC Prediction: Odds, expert picks, team and player news, betting trends, and stats",
+          "source": "NBCSports.com",
+          "link": "https://www.nbcsports.com/betting/college-football/news/ohio-state-vs-usc-prediction-odds-expert-picks-team-and-player-news-betting-trends-and-stats",
+          "published": "2026-10-31T00:38:59Z"
         },
         {
-          "title": "Nuggets' Aaron Gordon warns Warriors rookie Yaxel Lendeborg that league will humble him",
-          "source": "Sporting News",
-          "link": "https://www.sportingnews.com/us/nba/news/nuggets-aaron-gordon-warns-warriors-rookie-yaxel-lendeborg-league-will-humble-him/e144a57c66d2e35bd323c427",
-          "published": "2026-10-30T15:47:57Z"
+          "title": "Houston Rockets open NBA Cup play against Dallas but more focused on managing injuries",
+          "source": "Houston Chronicle",
+          "link": "https://www.houstonchronicle.com/sports/rockets/article/houston-dallas-mavericks-score-nba-cup-22502211.php?utm_medium=referral&amp;utm_campaign=yahoo_syndication",
+          "published": "2026-10-31T00:36:43Z"
         },
         {
-          "title": "French trans phenom Julie T\u00e9tart's performance against top WNBA prospect's team proves a point",
-          "source": "Fox News",
-          "link": "https://www.foxnews.com/outkick-sports/french-trans-phenom-julie-tetart-performance-against-top-wnba-prospect-team-proves-point",
-          "published": "2026-10-30T15:47:47Z"
+          "title": "Achiuwa bags 24 points as Kings fall to Pelicans",
+          "source": "The Punch",
+          "link": "https://punchng.com/achiuwa-bags-24-points-as-kings-fall-to-pelicans/",
+          "published": "2026-10-31T00:35:29Z"
         }
       ]
     },
@@ -1065,26 +923,26 @@
           "old_ml": "-115",
           "new_ml": "-115"
         },
-        "snapshot_time": "October 31, 2026 at 10:47 AM UTC"
+        "snapshot_time": "October 31, 2026 at 03:57 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
           "last_game": "Oct 30",
-          "days_rest": 1,
-          "games_last_4d": 3,
+          "days_rest": 2,
+          "games_last_4d": 2,
           "travel_miles": 85,
           "travel_desc": "85 mi road trip",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "RESTED",
-          "label": "2 days rest \u2705",
-          "battery": 88,
-          "last_game": "Oct 28",
-          "days_rest": 3,
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Oct 31",
+          "days_rest": 1,
           "games_last_4d": 2,
           "travel_miles": 0,
           "travel_desc": "",
@@ -1092,7 +950,7 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udca4 NYK fatigued (B2B) \u2014 source: ESPN"
+        "\ud83d\udcca 2.2pt probability edge"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -1129,7 +987,7 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "NYK on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "trend": "SAS on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
         "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
@@ -1145,22 +1003,22 @@
       },
       "news": [
         {
-          "title": "Will Wade Has Put Himself In A Hilarious Situation",
-          "source": "Duke Basketball Report",
-          "link": "https://www.dukebasketballreport.com/national/96677/will-wade-update-a-comedy-of-stupid",
-          "published": "2026-10-30T15:49:26Z"
+          "title": "Ohio State vs USC Prediction: Odds, expert picks, team and player news, betting trends, and stats",
+          "source": "NBCSports.com",
+          "link": "https://www.nbcsports.com/betting/college-football/news/ohio-state-vs-usc-prediction-odds-expert-picks-team-and-player-news-betting-trends-and-stats",
+          "published": "2026-10-31T00:38:59Z"
         },
         {
-          "title": "Nuggets' Aaron Gordon warns Warriors rookie Yaxel Lendeborg that league will humble him",
-          "source": "Sporting News",
-          "link": "https://www.sportingnews.com/us/nba/news/nuggets-aaron-gordon-warns-warriors-rookie-yaxel-lendeborg-league-will-humble-him/e144a57c66d2e35bd323c427",
-          "published": "2026-10-30T15:47:57Z"
+          "title": "Houston Rockets open NBA Cup play against Dallas but more focused on managing injuries",
+          "source": "Houston Chronicle",
+          "link": "https://www.houstonchronicle.com/sports/rockets/article/houston-dallas-mavericks-score-nba-cup-22502211.php?utm_medium=referral&amp;utm_campaign=yahoo_syndication",
+          "published": "2026-10-31T00:36:43Z"
         },
         {
-          "title": "French trans phenom Julie T\u00e9tart's performance against top WNBA prospect's team proves a point",
-          "source": "Fox News",
-          "link": "https://www.foxnews.com/outkick-sports/french-trans-phenom-julie-tetart-performance-against-top-wnba-prospect-team-proves-point",
-          "published": "2026-10-30T15:47:47Z"
+          "title": "Achiuwa bags 24 points as Kings fall to Pelicans",
+          "source": "The Punch",
+          "link": "https://punchng.com/achiuwa-bags-24-points-as-kings-fall-to-pelicans/",
+          "published": "2026-10-31T00:35:29Z"
         }
       ]
     },
@@ -1210,26 +1068,26 @@
           "old_ml": "-218",
           "new_ml": "-218"
         },
-        "snapshot_time": "October 31, 2026 at 10:47 AM UTC"
+        "snapshot_time": "October 31, 2026 at 03:57 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
           "last_game": "Oct 30",
-          "days_rest": 1,
-          "games_last_4d": 2,
+          "days_rest": 2,
+          "games_last_4d": 1,
           "travel_miles": 0,
           "travel_desc": "",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
           "last_game": "Oct 30",
-          "days_rest": 1,
+          "days_rest": 2,
           "games_last_4d": 2,
           "travel_miles": 606,
           "travel_desc": "606 mi road trip",
@@ -1237,7 +1095,7 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udca4 MIA fatigued (B2B) \u2014 source: ESPN"
+        "\ud83d\udcca 31.4pt probability edge"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -1274,7 +1132,7 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "BOS on Back-to-Back \u26a0\ufe0f per ESPN schedule data. MIA on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "trend": "Boston Celtics hold a 65.7% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
         "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
@@ -1290,22 +1148,22 @@
       },
       "news": [
         {
-          "title": "Will Wade Has Put Himself In A Hilarious Situation",
-          "source": "Duke Basketball Report",
-          "link": "https://www.dukebasketballreport.com/national/96677/will-wade-update-a-comedy-of-stupid",
-          "published": "2026-10-30T15:49:26Z"
+          "title": "Ohio State vs USC Prediction: Odds, expert picks, team and player news, betting trends, and stats",
+          "source": "NBCSports.com",
+          "link": "https://www.nbcsports.com/betting/college-football/news/ohio-state-vs-usc-prediction-odds-expert-picks-team-and-player-news-betting-trends-and-stats",
+          "published": "2026-10-31T00:38:59Z"
         },
         {
-          "title": "Nuggets' Aaron Gordon warns Warriors rookie Yaxel Lendeborg that league will humble him",
-          "source": "Sporting News",
-          "link": "https://www.sportingnews.com/us/nba/news/nuggets-aaron-gordon-warns-warriors-rookie-yaxel-lendeborg-league-will-humble-him/e144a57c66d2e35bd323c427",
-          "published": "2026-10-30T15:47:57Z"
+          "title": "Houston Rockets open NBA Cup play against Dallas but more focused on managing injuries",
+          "source": "Houston Chronicle",
+          "link": "https://www.houstonchronicle.com/sports/rockets/article/houston-dallas-mavericks-score-nba-cup-22502211.php?utm_medium=referral&amp;utm_campaign=yahoo_syndication",
+          "published": "2026-10-31T00:36:43Z"
         },
         {
-          "title": "French trans phenom Julie T\u00e9tart's performance against top WNBA prospect's team proves a point",
-          "source": "Fox News",
-          "link": "https://www.foxnews.com/outkick-sports/french-trans-phenom-julie-tetart-performance-against-top-wnba-prospect-team-proves-point",
-          "published": "2026-10-30T15:47:47Z"
+          "title": "Achiuwa bags 24 points as Kings fall to Pelicans",
+          "source": "The Punch",
+          "link": "https://punchng.com/achiuwa-bags-24-points-as-kings-fall-to-pelicans/",
+          "published": "2026-10-31T00:35:29Z"
         }
       ]
     },
@@ -1355,16 +1213,16 @@
           "old_ml": "-115",
           "new_ml": "-115"
         },
-        "snapshot_time": "October 31, 2026 at 10:47 AM UTC"
+        "snapshot_time": "October 31, 2026 at 03:57 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
           "last_game": "Oct 30",
-          "days_rest": 1,
-          "games_last_4d": 3,
+          "days_rest": 2,
+          "games_last_4d": 2,
           "travel_miles": 346,
           "travel_desc": "346 mi road trip",
           "source": "ESPN Scoreboard API"
@@ -1373,11 +1231,11 @@
           "status": "B2B",
           "label": "Back-to-Back \u26a0\ufe0f",
           "battery": 20,
-          "last_game": "Oct 30",
+          "last_game": "Oct 31",
           "days_rest": 1,
-          "games_last_4d": 2,
-          "travel_miles": 583,
-          "travel_desc": "583 mi road trip",
+          "games_last_4d": 3,
+          "travel_miles": 448,
+          "travel_desc": "448 mi road trip",
           "source": "ESPN Scoreboard API"
         }
       },
@@ -1419,7 +1277,7 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "LAL on Back-to-Back \u26a0\ufe0f per ESPN schedule data. PHI on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "trend": "PHI on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
         "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
@@ -1435,22 +1293,22 @@
       },
       "news": [
         {
-          "title": "Will Wade Has Put Himself In A Hilarious Situation",
-          "source": "Duke Basketball Report",
-          "link": "https://www.dukebasketballreport.com/national/96677/will-wade-update-a-comedy-of-stupid",
-          "published": "2026-10-30T15:49:26Z"
+          "title": "Ohio State vs USC Prediction: Odds, expert picks, team and player news, betting trends, and stats",
+          "source": "NBCSports.com",
+          "link": "https://www.nbcsports.com/betting/college-football/news/ohio-state-vs-usc-prediction-odds-expert-picks-team-and-player-news-betting-trends-and-stats",
+          "published": "2026-10-31T00:38:59Z"
         },
         {
-          "title": "Nuggets' Aaron Gordon warns Warriors rookie Yaxel Lendeborg that league will humble him",
-          "source": "Sporting News",
-          "link": "https://www.sportingnews.com/us/nba/news/nuggets-aaron-gordon-warns-warriors-rookie-yaxel-lendeborg-league-will-humble-him/e144a57c66d2e35bd323c427",
-          "published": "2026-10-30T15:47:57Z"
+          "title": "Houston Rockets open NBA Cup play against Dallas but more focused on managing injuries",
+          "source": "Houston Chronicle",
+          "link": "https://www.houstonchronicle.com/sports/rockets/article/houston-dallas-mavericks-score-nba-cup-22502211.php?utm_medium=referral&amp;utm_campaign=yahoo_syndication",
+          "published": "2026-10-31T00:36:43Z"
         },
         {
-          "title": "French trans phenom Julie T\u00e9tart's performance against top WNBA prospect's team proves a point",
-          "source": "Fox News",
-          "link": "https://www.foxnews.com/outkick-sports/french-trans-phenom-julie-tetart-performance-against-top-wnba-prospect-team-proves-point",
-          "published": "2026-10-30T15:47:47Z"
+          "title": "Achiuwa bags 24 points as Kings fall to Pelicans",
+          "source": "The Punch",
+          "link": "https://punchng.com/achiuwa-bags-24-points-as-kings-fall-to-pelicans/",
+          "published": "2026-10-31T00:35:29Z"
         }
       ]
     },
@@ -1480,49 +1338,49 @@
           "direction": "none",
           "points_moved": 0,
           "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "label": "No movement",
+          "old_ml": "+130",
+          "new_ml": "+130"
         },
         "away": {
           "direction": "none",
           "points_moved": 0,
           "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "label": "No movement",
+          "old_ml": "-155",
+          "new_ml": "-155"
         },
         "pick": {
           "direction": "none",
           "points_moved": 0,
           "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "label": "No movement",
+          "old_ml": "-155",
+          "new_ml": "-155"
         },
-        "snapshot_time": "\u2014"
+        "snapshot_time": "October 31, 2026 at 03:57 PM UTC"
       },
       "fatigue": {
         "home": {
           "status": "B2B",
           "label": "Back-to-Back \u26a0\ufe0f",
           "battery": 20,
-          "last_game": "Oct 30",
+          "last_game": "Oct 31",
           "days_rest": 1,
-          "games_last_4d": 2,
-          "travel_miles": 0,
-          "travel_desc": "",
+          "games_last_4d": 3,
+          "travel_miles": 1111,
+          "travel_desc": "1,111 mi road trip",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "RESTED",
-          "label": "2 days rest \u2705",
-          "battery": 88,
-          "last_game": "Oct 28",
-          "days_rest": 3,
-          "games_last_4d": 1,
-          "travel_miles": 189,
-          "travel_desc": "189 mi road trip",
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Oct 31",
+          "days_rest": 1,
+          "games_last_4d": 2,
+          "travel_miles": 414,
+          "travel_desc": "414 mi road trip",
           "source": "ESPN Scoreboard API"
         }
       },
@@ -1564,7 +1422,7 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "MIN on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "trend": "MIN on Back-to-Back \u26a0\ufe0f per ESPN schedule data. OKC on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
         "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
@@ -1580,22 +1438,22 @@
       },
       "news": [
         {
-          "title": "Will Wade Has Put Himself In A Hilarious Situation",
-          "source": "Duke Basketball Report",
-          "link": "https://www.dukebasketballreport.com/national/96677/will-wade-update-a-comedy-of-stupid",
-          "published": "2026-10-30T15:49:26Z"
+          "title": "Ohio State vs USC Prediction: Odds, expert picks, team and player news, betting trends, and stats",
+          "source": "NBCSports.com",
+          "link": "https://www.nbcsports.com/betting/college-football/news/ohio-state-vs-usc-prediction-odds-expert-picks-team-and-player-news-betting-trends-and-stats",
+          "published": "2026-10-31T00:38:59Z"
         },
         {
-          "title": "Nuggets' Aaron Gordon warns Warriors rookie Yaxel Lendeborg that league will humble him",
-          "source": "Sporting News",
-          "link": "https://www.sportingnews.com/us/nba/news/nuggets-aaron-gordon-warns-warriors-rookie-yaxel-lendeborg-league-will-humble-him/e144a57c66d2e35bd323c427",
-          "published": "2026-10-30T15:47:57Z"
+          "title": "Houston Rockets open NBA Cup play against Dallas but more focused on managing injuries",
+          "source": "Houston Chronicle",
+          "link": "https://www.houstonchronicle.com/sports/rockets/article/houston-dallas-mavericks-score-nba-cup-22502211.php?utm_medium=referral&amp;utm_campaign=yahoo_syndication",
+          "published": "2026-10-31T00:36:43Z"
         },
         {
-          "title": "French trans phenom Julie T\u00e9tart's performance against top WNBA prospect's team proves a point",
-          "source": "Fox News",
-          "link": "https://www.foxnews.com/outkick-sports/french-trans-phenom-julie-tetart-performance-against-top-wnba-prospect-team-proves-point",
-          "published": "2026-10-30T15:47:47Z"
+          "title": "Achiuwa bags 24 points as Kings fall to Pelicans",
+          "source": "The Punch",
+          "link": "https://punchng.com/achiuwa-bags-24-points-as-kings-fall-to-pelicans/",
+          "published": "2026-10-31T00:35:29Z"
         }
       ]
     },
@@ -1645,26 +1503,26 @@
           "old_ml": "-135",
           "new_ml": "-135"
         },
-        "snapshot_time": "October 31, 2026 at 10:47 AM UTC"
+        "snapshot_time": "October 31, 2026 at 03:57 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
           "last_game": "Oct 30",
-          "days_rest": 1,
+          "days_rest": 2,
           "games_last_4d": 2,
           "travel_miles": 1580,
           "travel_desc": "1,580 mi road trip",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
           "last_game": "Oct 30",
-          "days_rest": 1,
+          "days_rest": 2,
           "games_last_4d": 2,
           "travel_miles": 585,
           "travel_desc": "585 mi road trip",
@@ -1672,7 +1530,7 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udca4 GSW fatigued (B2B) \u2014 source: ESPN"
+        "\ud83d\udcca 10.2pt probability edge"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -1709,7 +1567,7 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "GSW on Back-to-Back \u26a0\ufe0f per ESPN schedule data. DEN on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "trend": "Denver Nuggets hold a 55.1% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
         "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
@@ -1725,42 +1583,42 @@
       },
       "news": [
         {
-          "title": "Will Wade Has Put Himself In A Hilarious Situation",
-          "source": "Duke Basketball Report",
-          "link": "https://www.dukebasketballreport.com/national/96677/will-wade-update-a-comedy-of-stupid",
-          "published": "2026-10-30T15:49:26Z"
+          "title": "Ohio State vs USC Prediction: Odds, expert picks, team and player news, betting trends, and stats",
+          "source": "NBCSports.com",
+          "link": "https://www.nbcsports.com/betting/college-football/news/ohio-state-vs-usc-prediction-odds-expert-picks-team-and-player-news-betting-trends-and-stats",
+          "published": "2026-10-31T00:38:59Z"
         },
         {
-          "title": "Nuggets' Aaron Gordon warns Warriors rookie Yaxel Lendeborg that league will humble him",
-          "source": "Sporting News",
-          "link": "https://www.sportingnews.com/us/nba/news/nuggets-aaron-gordon-warns-warriors-rookie-yaxel-lendeborg-league-will-humble-him/e144a57c66d2e35bd323c427",
-          "published": "2026-10-30T15:47:57Z"
+          "title": "Houston Rockets open NBA Cup play against Dallas but more focused on managing injuries",
+          "source": "Houston Chronicle",
+          "link": "https://www.houstonchronicle.com/sports/rockets/article/houston-dallas-mavericks-score-nba-cup-22502211.php?utm_medium=referral&amp;utm_campaign=yahoo_syndication",
+          "published": "2026-10-31T00:36:43Z"
         },
         {
-          "title": "French trans phenom Julie T\u00e9tart's performance against top WNBA prospect's team proves a point",
-          "source": "Fox News",
-          "link": "https://www.foxnews.com/outkick-sports/french-trans-phenom-julie-tetart-performance-against-top-wnba-prospect-team-proves-point",
-          "published": "2026-10-30T15:47:47Z"
+          "title": "Achiuwa bags 24 points as Kings fall to Pelicans",
+          "source": "The Punch",
+          "link": "https://punchng.com/achiuwa-bags-24-points-as-kings-fall-to-pelicans/",
+          "published": "2026-10-31T00:35:29Z"
         }
       ]
     }
   ],
   "track_record": {
     "LOW": {
-      "wins": 10,
+      "wins": 11,
       "losses": 13,
-      "total": 23,
-      "win_pct": 43.5,
-      "roi": -20.4,
-      "profit": -470.3
+      "total": 24,
+      "win_pct": 45.8,
+      "roi": -16.1,
+      "profit": -386.97
     },
     "MEDIUM": {
-      "wins": 24,
+      "wins": 25,
       "losses": 13,
-      "total": 37,
-      "win_pct": 64.9,
-      "roi": -2.0,
-      "profit": -74.99
+      "total": 38,
+      "win_pct": 65.8,
+      "roi": -0.8,
+      "profit": -30.55
     },
     "HIGH": {
       "wins": 16,
@@ -1771,20 +1629,20 @@
       "profit": 49.66
     },
     "overall_7d": {
-      "wins": 21,
+      "wins": 23,
       "losses": 11,
-      "total": 32,
-      "win_pct": 65.6,
-      "roi": -5.6,
-      "profit": -178.45
+      "total": 34,
+      "win_pct": 67.6,
+      "roi": -1.5,
+      "profit": -50.68
     },
     "overall_30d": {
-      "wins": 33,
+      "wins": 35,
       "losses": 19,
-      "total": 52,
-      "win_pct": 63.5,
-      "roi": -8.0,
-      "profit": -413.46
+      "total": 54,
+      "win_pct": 64.8,
+      "roi": -5.3,
+      "profit": -285.69
     }
   }
 }

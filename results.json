@@ -1512,9 +1512,11 @@
       "win_probability": 66.4,
       "commence_time": "2026-10-31T19:10:00Z",
       "date": "2026-10-31T01:26:52.166399+00:00",
-      "graded": false,
-      "result": null,
-      "profit": null
+      "graded": true,
+      "result": "WIN",
+      "profit": 44.44,
+      "home_score": 90,
+      "away_score": 112
     },
     {
       "game": "Atlanta Hawks @ New Orleans Pelicans",
@@ -1582,9 +1584,11 @@
       "win_probability": 52.2,
       "commence_time": "2026-10-31T22:10:00Z",
       "date": "2026-10-31T04:49:55.560281+00:00",
-      "graded": false,
-      "result": null,
-      "profit": null
+      "graded": true,
+      "result": "WIN",
+      "profit": 83.33,
+      "home_score": 104,
+      "away_score": 109
     },
     {
       "game": "Oklahoma City Thunder @ Houston Rockets",
@@ -1603,20 +1607,20 @@
   ],
   "summary": {
     "LOW": {
-      "wins": 10,
+      "wins": 11,
       "losses": 13,
-      "total": 23,
-      "win_pct": 43.5,
-      "roi": -20.4,
-      "profit": -470.3
+      "total": 24,
+      "win_pct": 45.8,
+      "roi": -16.1,
+      "profit": -386.97
     },
     "MEDIUM": {
-      "wins": 24,
+      "wins": 25,
       "losses": 13,
-      "total": 37,
-      "win_pct": 64.9,
-      "roi": -2.0,
-      "profit": -74.99
+      "total": 38,
+      "win_pct": 65.8,
+      "roi": -0.8,
+      "profit": -30.55
     },
     "HIGH": {
       "wins": 16,
@@ -1627,21 +1631,21 @@
       "profit": 49.66
     },
     "overall_7d": {
-      "wins": 21,
+      "wins": 23,
       "losses": 11,
-      "total": 32,
-      "win_pct": 65.6,
-      "roi": -5.6,
-      "profit": -178.45
+      "total": 34,
+      "win_pct": 67.6,
+      "roi": -1.5,
+      "profit": -50.68
     },
     "overall_30d": {
-      "wins": 33,
+      "wins": 35,
       "losses": 19,
-      "total": 52,
-      "win_pct": 63.5,
-      "roi": -8.0,
-      "profit": -413.46
+      "total": 54,
+      "win_pct": 64.8,
+      "roi": -5.3,
+      "profit": -285.69
     }
   },
-  "last_graded": "2026-10-31T10:46:59.622499+00:00"
+  "last_graded": "2026-11-01T00:43:55.324626+00:00"
 }
