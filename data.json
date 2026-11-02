@@ -1,297 +1,7 @@
 {
-  "last_updated": "November 02, 2026 at 01:18 AM UTC",
-  "total_games": 17,
+  "last_updated": "November 02, 2026 at 05:13 AM UTC",
+  "total_games": 20,
   "games": [
-    {
-      "game": "Los Angeles Clippers @ Golden State Warriors",
-      "home_team": "Golden State Warriors",
-      "away_team": "Los Angeles Clippers",
-      "home_abbr": "GSW",
-      "away_abbr": "LAC",
-      "home_ml": "-130",
-      "away_ml": "+110",
-      "home_ml_raw": -130,
-      "away_ml_raw": 110,
-      "home_prob": 54.3,
-      "away_prob": 45.7,
-      "spread": "GSW -1.5",
-      "favorite": "Golden State Warriors",
-      "pick": "Golden State Warriors",
-      "pick_abbr": "GSW",
-      "moneyline": "-130",
-      "win_probability": 54.3,
-      "confidence": "LOW",
-      "confidence_stars": "\u2605\u2606\u2606",
-      "commence_time": "2026-11-02T01:40:00Z",
-      "line_movement": {
-        "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
-          "old_ml": "-130",
-          "new_ml": "-130"
-        },
-        "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
-          "old_ml": "+110",
-          "new_ml": "+110"
-        },
-        "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
-          "old_ml": "-130",
-          "new_ml": "-130"
-        },
-        "snapshot_time": "November 01, 2026 at 05:00 PM UTC"
-      },
-      "fatigue": {
-        "home": {
-          "status": "RESTED",
-          "label": "2 days rest \u2705",
-          "battery": 88,
-          "last_game": "Oct 30",
-          "days_rest": 3,
-          "games_last_4d": 1,
-          "travel_miles": 0,
-          "travel_desc": "",
-          "source": "ESPN Scoreboard API"
-        },
-        "away": {
-          "status": "RESTED",
-          "label": "2 days rest \u2705",
-          "battery": 88,
-          "last_game": "Oct 30",
-          "days_rest": 3,
-          "games_last_4d": 1,
-          "travel_miles": 1522,
-          "travel_desc": "1,522 mi road trip",
-          "source": "ESPN Scoreboard API"
-        }
-      },
-      "edge_factors": [
-        "\ud83d\udcca 8.6pt probability edge"
-      ],
-      "injury_notes": "No key injuries.",
-      "sharp": {
-        "away_t": null,
-        "home_t": null,
-        "source": null,
-        "sharp_signal": null,
-        "sharp_label": "Pending \u2014 check closer to tip-off",
-        "rlm": false
-      },
-      "form": {
-        "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        },
-        "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        }
-      },
-      "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
-      },
-      "briefing": {
-        "trend": "Golden State Warriors hold a 54.3% edge.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
-        "injury_notes": "No key injuries."
-      },
-      "live": {
-        "status": "pre",
-        "status_detail": "Upcoming",
-        "period": 0,
-        "clock": "",
-        "home_score": 0,
-        "away_score": 0,
-        "spread_alert": null
-      },
-      "news": [
-        {
-          "title": "Tyrese Maxey scores 38 as 76ers beat Hornets 109-104 without LeBron James, Joel Embiid",
-          "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/articles/tyrese-maxey-scores-38-76ers-011449429.html",
-          "published": "2026-11-01T01:14:49Z"
-        },
-        {
-          "title": "Geralt who? Spurs\u2019 Victor Wembanyama arrives at Timberwolves game in Witcher-themed Halloween costume",
-          "source": "ClutchPoints",
-          "link": "https://clutchpoints.com/nba/nba-stories/spurs-news-geralt-who-victor-wembanyama-timberwolves-game-witcher-halloween-costume",
-          "published": "2026-11-01T01:11:36Z"
-        },
-        {
-          "title": "WNBA Finals teams end season with one final national anthem snub as Dream, Valkyries leave court",
-          "source": "Fox News",
-          "link": "https://www.foxnews.com/outkick-sports/wnba-finals-teams-end-season-one-final-national-anthem-snub-dream-valkyries-leave-court",
-          "published": "2026-11-01T00:55:01Z"
-        }
-      ]
-    },
-    {
-      "game": "Toronto Raptors @ Los Angeles Lakers",
-      "home_team": "Los Angeles Lakers",
-      "away_team": "Toronto Raptors",
-      "home_abbr": "LAL",
-      "away_abbr": "TOR",
-      "home_ml": "-162",
-      "away_ml": "+136",
-      "home_ml_raw": -162,
-      "away_ml_raw": 136,
-      "home_prob": 59.3,
-      "away_prob": 40.7,
-      "spread": "LAL -3.5",
-      "favorite": "Los Angeles Lakers",
-      "pick": "Los Angeles Lakers",
-      "pick_abbr": "LAL",
-      "moneyline": "-162",
-      "win_probability": 59.3,
-      "confidence": "MEDIUM",
-      "confidence_stars": "\u2605\u2605\u2606",
-      "commence_time": "2026-11-02T02:10:00Z",
-      "line_movement": {
-        "home": {
-          "direction": "shorter",
-          "points_moved": 14,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -162 \u2190 -148",
-          "old_ml": "-148",
-          "new_ml": "-162"
-        },
-        "away": {
-          "direction": "longer",
-          "points_moved": 12,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM +136 \u2190 +124",
-          "old_ml": "+124",
-          "new_ml": "+136"
-        },
-        "pick": {
-          "direction": "shorter",
-          "points_moved": 14,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -162 \u2190 -148",
-          "old_ml": "-148",
-          "new_ml": "-162"
-        },
-        "snapshot_time": "November 01, 2026 at 05:00 PM UTC"
-      },
-      "fatigue": {
-        "home": {
-          "status": "RESTED",
-          "label": "2 days rest \u2705",
-          "battery": 88,
-          "last_game": "Oct 30",
-          "days_rest": 3,
-          "games_last_4d": 1,
-          "travel_miles": 346,
-          "travel_desc": "346 mi road trip",
-          "source": "ESPN Scoreboard API"
-        },
-        "away": {
-          "status": "RESTED",
-          "label": "2 days rest \u2705",
-          "battery": 88,
-          "last_game": "Oct 30",
-          "days_rest": 3,
-          "games_last_4d": 1,
-          "travel_miles": 0,
-          "travel_desc": "",
-          "source": "ESPN Scoreboard API"
-        }
-      },
-      "edge_factors": [
-        "\ud83d\udd25 Sharp steam detected"
-      ],
-      "injury_notes": "No key injuries.",
-      "sharp": {
-        "away_t": null,
-        "home_t": null,
-        "source": null,
-        "sharp_signal": null,
-        "sharp_label": "Pending \u2014 check closer to tip-off",
-        "rlm": false
-      },
-      "form": {
-        "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        },
-        "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        }
-      },
-      "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
-      },
-      "briefing": {
-        "trend": "Los Angeles Lakers hold a 59.3% edge.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -148 to -162 (14pt move) \u2014 heavy professional action on Los Angeles Lakers.",
-        "injury_notes": "No key injuries."
-      },
-      "live": {
-        "status": "pre",
-        "status_detail": "Upcoming",
-        "period": 0,
-        "clock": "",
-        "home_score": 0,
-        "away_score": 0,
-        "spread_alert": null
-      },
-      "news": [
-        {
-          "title": "Tyrese Maxey scores 38 as 76ers beat Hornets 109-104 without LeBron James, Joel Embiid",
-          "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/articles/tyrese-maxey-scores-38-76ers-011449429.html",
-          "published": "2026-11-01T01:14:49Z"
-        },
-        {
-          "title": "Geralt who? Spurs\u2019 Victor Wembanyama arrives at Timberwolves game in Witcher-themed Halloween costume",
-          "source": "ClutchPoints",
-          "link": "https://clutchpoints.com/nba/nba-stories/spurs-news-geralt-who-victor-wembanyama-timberwolves-game-witcher-halloween-costume",
-          "published": "2026-11-01T01:11:36Z"
-        },
-        {
-          "title": "WNBA Finals teams end season with one final national anthem snub as Dream, Valkyries leave court",
-          "source": "Fox News",
-          "link": "https://www.foxnews.com/outkick-sports/wnba-finals-teams-end-season-one-final-national-anthem-snub-dream-valkyries-leave-court",
-          "published": "2026-11-01T00:55:01Z"
-        }
-      ]
-    },
     {
       "game": "Oklahoma City Thunder @ Cleveland Cavaliers",
       "home_team": "Cleveland Cavaliers",
@@ -318,27 +28,27 @@
           "direction": "none",
           "points_moved": 0,
           "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "label": "No movement",
+          "old_ml": "-180",
+          "new_ml": "-180"
         },
         "away": {
           "direction": "none",
           "points_moved": 0,
           "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "label": "No movement",
+          "old_ml": "+150",
+          "new_ml": "+150"
         },
         "pick": {
           "direction": "none",
           "points_moved": 0,
           "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "label": "No movement",
+          "old_ml": "-180",
+          "new_ml": "-180"
         },
-        "snapshot_time": "\u2014"
+        "snapshot_time": "November 02, 2026 at 01:18 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -418,45 +128,45 @@
       },
       "news": [
         {
-          "title": "Tyrese Maxey scores 38 as 76ers beat Hornets 109-104 without LeBron James, Joel Embiid",
-          "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/articles/tyrese-maxey-scores-38-76ers-011449429.html",
-          "published": "2026-11-01T01:14:49Z"
-        },
-        {
-          "title": "Geralt who? Spurs\u2019 Victor Wembanyama arrives at Timberwolves game in Witcher-themed Halloween costume",
+          "title": "Yaxel Lendeborg congratulates Finals MVP and Valkyries star Gabby Williams after Game 7 win",
           "source": "ClutchPoints",
-          "link": "https://clutchpoints.com/nba/nba-stories/spurs-news-geralt-who-victor-wembanyama-timberwolves-game-witcher-halloween-costume",
-          "published": "2026-11-01T01:11:36Z"
+          "link": "https://clutchpoints.com/wnba/golden-state-valkyries/valkyries-news-yaxel-lendeborg-congratulates-finals-mvp-gabby-williams",
+          "published": "2026-11-01T05:10:55Z"
         },
         {
-          "title": "WNBA Finals teams end season with one final national anthem snub as Dream, Valkyries leave court",
-          "source": "Fox News",
-          "link": "https://www.foxnews.com/outkick-sports/wnba-finals-teams-end-season-one-final-national-anthem-snub-dream-valkyries-leave-court",
-          "published": "2026-11-01T00:55:01Z"
+          "title": "Mark Daigneault gets brutally honest about how the Thunder will deal with the major issues",
+          "source": "Sporting News",
+          "link": "https://www.sportingnews.com/us/nba/oklahoma-city-thunder/news/mark-daigneault-honest-about-thunder-will-deal-major-issues/2b3b3224f4fb6518fac66a64",
+          "published": "2026-11-01T05:06:57Z"
+        },
+        {
+          "title": "\u2018Ballhalla was\u2026\u2019 \u2013 Barack Obama\u2019s message to Golden State Valkyries after WNBA title win",
+          "source": "HITC - Football, Gaming, Movies, TV, Music",
+          "link": "https://www.hitc.com/ballhalla-was-barack-obamas-message-to-golden-state-valkyries-after-wnba-title-win/",
+          "published": "2026-11-01T05:03:06Z"
         }
       ]
     },
     {
-      "game": "Brooklyn Nets @ New York Knicks",
-      "home_team": "New York Knicks",
-      "away_team": "Brooklyn Nets",
-      "home_abbr": "NYK",
-      "away_abbr": "BKN",
-      "home_ml": "-850",
-      "away_ml": "+575",
-      "home_ml_raw": -850,
-      "away_ml_raw": 575,
-      "home_prob": 85.8,
-      "away_prob": 14.2,
-      "spread": "NYK -14.5",
-      "favorite": "New York Knicks",
-      "pick": "New York Knicks",
-      "pick_abbr": "NYK",
-      "moneyline": "-850",
-      "win_probability": 85.8,
-      "confidence": "HIGH",
-      "confidence_stars": "\u2605\u2605\u2605",
+      "game": "Atlanta Hawks @ Indiana Pacers",
+      "home_team": "Indiana Pacers",
+      "away_team": "Atlanta Hawks",
+      "home_abbr": "IND",
+      "away_abbr": "ATL",
+      "home_ml": "+164",
+      "away_ml": "-198",
+      "home_ml_raw": 164,
+      "away_ml_raw": -198,
+      "home_prob": 36.3,
+      "away_prob": 63.7,
+      "spread": "IND +5.5",
+      "favorite": "Atlanta Hawks",
+      "pick": "Atlanta Hawks",
+      "pick_abbr": "ATL",
+      "moneyline": "-198",
+      "win_probability": 63.7,
+      "confidence": "MEDIUM",
+      "confidence_stars": "\u2605\u2605\u2606",
       "commence_time": "2026-11-03T00:40:00Z",
       "line_movement": {
         "home": {
@@ -487,6 +197,151 @@
       },
       "fatigue": {
         "home": {
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Nov 01",
+          "days_rest": 1,
+          "games_last_4d": 2,
+          "travel_miles": 1026,
+          "travel_desc": "1,026 mi road trip",
+          "source": "ESPN Scoreboard API"
+        },
+        "away": {
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
+          "last_game": "Oct 31",
+          "days_rest": 2,
+          "games_last_4d": 2,
+          "travel_miles": 425,
+          "travel_desc": "425 mi road trip",
+          "source": "ESPN Scoreboard API"
+        }
+      },
+      "edge_factors": [
+        "\ud83d\udca4 IND fatigued (B2B) \u2014 source: ESPN"
+      ],
+      "injury_notes": "No key injuries.",
+      "sharp": {
+        "away_t": null,
+        "home_t": null,
+        "source": null,
+        "sharp_signal": null,
+        "sharp_label": "Pending \u2014 check closer to tip-off",
+        "rlm": false
+      },
+      "form": {
+        "home": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        },
+        "away": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        }
+      },
+      "h2h": {
+        "total_meetings": 0,
+        "home_wins": 0,
+        "away_wins": 0,
+        "meetings": [],
+        "source": "\u2014"
+      },
+      "briefing": {
+        "trend": "IND on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "matchup": "Both rosters appear healthy \u2014 clean line.",
+        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "injury_notes": "No key injuries."
+      },
+      "live": {
+        "status": "pre",
+        "status_detail": "Upcoming",
+        "period": 0,
+        "clock": "",
+        "home_score": 0,
+        "away_score": 0,
+        "spread_alert": null
+      },
+      "news": [
+        {
+          "title": "Yaxel Lendeborg congratulates Finals MVP and Valkyries star Gabby Williams after Game 7 win",
+          "source": "ClutchPoints",
+          "link": "https://clutchpoints.com/wnba/golden-state-valkyries/valkyries-news-yaxel-lendeborg-congratulates-finals-mvp-gabby-williams",
+          "published": "2026-11-01T05:10:55Z"
+        },
+        {
+          "title": "Mark Daigneault gets brutally honest about how the Thunder will deal with the major issues",
+          "source": "Sporting News",
+          "link": "https://www.sportingnews.com/us/nba/oklahoma-city-thunder/news/mark-daigneault-honest-about-thunder-will-deal-major-issues/2b3b3224f4fb6518fac66a64",
+          "published": "2026-11-01T05:06:57Z"
+        },
+        {
+          "title": "\u2018Ballhalla was\u2026\u2019 \u2013 Barack Obama\u2019s message to Golden State Valkyries after WNBA title win",
+          "source": "HITC - Football, Gaming, Movies, TV, Music",
+          "link": "https://www.hitc.com/ballhalla-was-barack-obamas-message-to-golden-state-valkyries-after-wnba-title-win/",
+          "published": "2026-11-01T05:03:06Z"
+        }
+      ]
+    },
+    {
+      "game": "Brooklyn Nets @ New York Knicks",
+      "home_team": "New York Knicks",
+      "away_team": "Brooklyn Nets",
+      "home_abbr": "NYK",
+      "away_abbr": "BKN",
+      "home_ml": "-900",
+      "away_ml": "+600",
+      "home_ml_raw": -900,
+      "away_ml_raw": 600,
+      "home_prob": 86.3,
+      "away_prob": 13.7,
+      "spread": "NYK -14.5",
+      "favorite": "New York Knicks",
+      "pick": "New York Knicks",
+      "pick_abbr": "NYK",
+      "moneyline": "-900",
+      "win_probability": 86.3,
+      "confidence": "HIGH",
+      "confidence_stars": "\u2605\u2605\u2605",
+      "commence_time": "2026-11-03T00:40:00Z",
+      "line_movement": {
+        "home": {
+          "direction": "shorter",
+          "points_moved": 50,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -900 \u2190 -850",
+          "old_ml": "-850",
+          "new_ml": "-900"
+        },
+        "away": {
+          "direction": "longer",
+          "points_moved": 25,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM +600 \u2190 +575",
+          "old_ml": "+575",
+          "new_ml": "+600"
+        },
+        "pick": {
+          "direction": "shorter",
+          "points_moved": 50,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -900 \u2190 -850",
+          "old_ml": "-850",
+          "new_ml": "-900"
+        },
+        "snapshot_time": "November 02, 2026 at 01:18 AM UTC"
+      },
+      "fatigue": {
+        "home": {
           "status": "RESTED",
           "label": "2 days rest \u2705",
           "battery": 88,
@@ -510,6 +365,7 @@
         }
       },
       "edge_factors": [
+        "\ud83d\udd25 Sharp steam detected",
         "\ud83d\udca4 BKN fatigued (B2B) \u2014 source: ESPN"
       ],
       "injury_notes": "No key injuries.",
@@ -549,7 +405,7 @@
       "briefing": {
         "trend": "BKN on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "steam": "Line steamed from -850 to -900 (50pt move) \u2014 heavy professional action on New York Knicks.",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -563,22 +419,22 @@
       },
       "news": [
         {
-          "title": "Tyrese Maxey scores 38 as 76ers beat Hornets 109-104 without LeBron James, Joel Embiid",
-          "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/articles/tyrese-maxey-scores-38-76ers-011449429.html",
-          "published": "2026-11-01T01:14:49Z"
-        },
-        {
-          "title": "Geralt who? Spurs\u2019 Victor Wembanyama arrives at Timberwolves game in Witcher-themed Halloween costume",
+          "title": "Yaxel Lendeborg congratulates Finals MVP and Valkyries star Gabby Williams after Game 7 win",
           "source": "ClutchPoints",
-          "link": "https://clutchpoints.com/nba/nba-stories/spurs-news-geralt-who-victor-wembanyama-timberwolves-game-witcher-halloween-costume",
-          "published": "2026-11-01T01:11:36Z"
+          "link": "https://clutchpoints.com/wnba/golden-state-valkyries/valkyries-news-yaxel-lendeborg-congratulates-finals-mvp-gabby-williams",
+          "published": "2026-11-01T05:10:55Z"
         },
         {
-          "title": "WNBA Finals teams end season with one final national anthem snub as Dream, Valkyries leave court",
-          "source": "Fox News",
-          "link": "https://www.foxnews.com/outkick-sports/wnba-finals-teams-end-season-one-final-national-anthem-snub-dream-valkyries-leave-court",
-          "published": "2026-11-01T00:55:01Z"
+          "title": "Mark Daigneault gets brutally honest about how the Thunder will deal with the major issues",
+          "source": "Sporting News",
+          "link": "https://www.sportingnews.com/us/nba/oklahoma-city-thunder/news/mark-daigneault-honest-about-thunder-will-deal-major-issues/2b3b3224f4fb6518fac66a64",
+          "published": "2026-11-01T05:06:57Z"
+        },
+        {
+          "title": "\u2018Ballhalla was\u2026\u2019 \u2013 Barack Obama\u2019s message to Golden State Valkyries after WNBA title win",
+          "source": "HITC - Football, Gaming, Movies, TV, Music",
+          "link": "https://www.hitc.com/ballhalla-was-barack-obamas-message-to-golden-state-valkyries-after-wnba-title-win/",
+          "published": "2026-11-01T05:03:06Z"
         }
       ]
     },
@@ -608,27 +464,27 @@
           "direction": "none",
           "points_moved": 0,
           "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "label": "No movement",
+          "old_ml": "+145",
+          "new_ml": "+145"
         },
         "away": {
           "direction": "none",
           "points_moved": 0,
           "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "label": "No movement",
+          "old_ml": "-175",
+          "new_ml": "-175"
         },
         "pick": {
           "direction": "none",
           "points_moved": 0,
           "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "label": "No movement",
+          "old_ml": "-175",
+          "new_ml": "-175"
         },
-        "snapshot_time": "\u2014"
+        "snapshot_time": "November 02, 2026 at 01:18 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -708,22 +564,22 @@
       },
       "news": [
         {
-          "title": "Tyrese Maxey scores 38 as 76ers beat Hornets 109-104 without LeBron James, Joel Embiid",
-          "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/articles/tyrese-maxey-scores-38-76ers-011449429.html",
-          "published": "2026-11-01T01:14:49Z"
-        },
-        {
-          "title": "Geralt who? Spurs\u2019 Victor Wembanyama arrives at Timberwolves game in Witcher-themed Halloween costume",
+          "title": "Yaxel Lendeborg congratulates Finals MVP and Valkyries star Gabby Williams after Game 7 win",
           "source": "ClutchPoints",
-          "link": "https://clutchpoints.com/nba/nba-stories/spurs-news-geralt-who-victor-wembanyama-timberwolves-game-witcher-halloween-costume",
-          "published": "2026-11-01T01:11:36Z"
+          "link": "https://clutchpoints.com/wnba/golden-state-valkyries/valkyries-news-yaxel-lendeborg-congratulates-finals-mvp-gabby-williams",
+          "published": "2026-11-01T05:10:55Z"
         },
         {
-          "title": "WNBA Finals teams end season with one final national anthem snub as Dream, Valkyries leave court",
-          "source": "Fox News",
-          "link": "https://www.foxnews.com/outkick-sports/wnba-finals-teams-end-season-one-final-national-anthem-snub-dream-valkyries-leave-court",
-          "published": "2026-11-01T00:55:01Z"
+          "title": "Mark Daigneault gets brutally honest about how the Thunder will deal with the major issues",
+          "source": "Sporting News",
+          "link": "https://www.sportingnews.com/us/nba/oklahoma-city-thunder/news/mark-daigneault-honest-about-thunder-will-deal-major-issues/2b3b3224f4fb6518fac66a64",
+          "published": "2026-11-01T05:06:57Z"
+        },
+        {
+          "title": "\u2018Ballhalla was\u2026\u2019 \u2013 Barack Obama\u2019s message to Golden State Valkyries after WNBA title win",
+          "source": "HITC - Football, Gaming, Movies, TV, Music",
+          "link": "https://www.hitc.com/ballhalla-was-barack-obamas-message-to-golden-state-valkyries-after-wnba-title-win/",
+          "published": "2026-11-01T05:03:06Z"
         }
       ]
     },
@@ -733,47 +589,47 @@
       "away_team": "Chicago Bulls",
       "home_abbr": "PHI",
       "away_abbr": "CHI",
-      "home_ml": "-650",
-      "away_ml": "+470",
-      "home_ml_raw": -650,
-      "away_ml_raw": 470,
-      "home_prob": 83.2,
-      "away_prob": 16.8,
+      "home_ml": "-575",
+      "away_ml": "+425",
+      "home_ml_raw": -575,
+      "away_ml_raw": 425,
+      "home_prob": 81.7,
+      "away_prob": 18.3,
       "spread": "PHI -11.5",
       "favorite": "Philadelphia 76ers",
       "pick": "Philadelphia 76ers",
       "pick_abbr": "PHI",
-      "moneyline": "-650",
-      "win_probability": 83.2,
+      "moneyline": "-575",
+      "win_probability": 81.7,
       "confidence": "HIGH",
       "confidence_stars": "\u2605\u2605\u2605",
       "commence_time": "2026-11-03T00:40:00Z",
       "line_movement": {
         "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "direction": "longer",
+          "points_moved": 75,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -575 \u2190 -650",
+          "old_ml": "-650",
+          "new_ml": "-575"
         },
         "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "direction": "shorter",
+          "points_moved": 45,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM +425 \u2190 +470",
+          "old_ml": "+470",
+          "new_ml": "+425"
         },
         "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "direction": "longer",
+          "points_moved": 75,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -575 \u2190 -650",
+          "old_ml": "-650",
+          "new_ml": "-575"
         },
-        "snapshot_time": "\u2014"
+        "snapshot_time": "November 02, 2026 at 01:18 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -800,7 +656,7 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udcca 66.4pt probability edge"
+        "\ud83d\udd25 Sharp steam detected"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -837,9 +693,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "Philadelphia 76ers hold a 83.2% edge.",
+        "trend": "Philadelphia 76ers hold a 81.7% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "steam": "Line steamed from -650 to -575 (75pt move) \u2014 heavy professional action on Philadelphia 76ers.",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -853,22 +709,22 @@
       },
       "news": [
         {
-          "title": "Tyrese Maxey scores 38 as 76ers beat Hornets 109-104 without LeBron James, Joel Embiid",
-          "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/articles/tyrese-maxey-scores-38-76ers-011449429.html",
-          "published": "2026-11-01T01:14:49Z"
-        },
-        {
-          "title": "Geralt who? Spurs\u2019 Victor Wembanyama arrives at Timberwolves game in Witcher-themed Halloween costume",
+          "title": "Yaxel Lendeborg congratulates Finals MVP and Valkyries star Gabby Williams after Game 7 win",
           "source": "ClutchPoints",
-          "link": "https://clutchpoints.com/nba/nba-stories/spurs-news-geralt-who-victor-wembanyama-timberwolves-game-witcher-halloween-costume",
-          "published": "2026-11-01T01:11:36Z"
+          "link": "https://clutchpoints.com/wnba/golden-state-valkyries/valkyries-news-yaxel-lendeborg-congratulates-finals-mvp-gabby-williams",
+          "published": "2026-11-01T05:10:55Z"
         },
         {
-          "title": "WNBA Finals teams end season with one final national anthem snub as Dream, Valkyries leave court",
-          "source": "Fox News",
-          "link": "https://www.foxnews.com/outkick-sports/wnba-finals-teams-end-season-one-final-national-anthem-snub-dream-valkyries-leave-court",
-          "published": "2026-11-01T00:55:01Z"
+          "title": "Mark Daigneault gets brutally honest about how the Thunder will deal with the major issues",
+          "source": "Sporting News",
+          "link": "https://www.sportingnews.com/us/nba/oklahoma-city-thunder/news/mark-daigneault-honest-about-thunder-will-deal-major-issues/2b3b3224f4fb6518fac66a64",
+          "published": "2026-11-01T05:06:57Z"
+        },
+        {
+          "title": "\u2018Ballhalla was\u2026\u2019 \u2013 Barack Obama\u2019s message to Golden State Valkyries after WNBA title win",
+          "source": "HITC - Football, Gaming, Movies, TV, Music",
+          "link": "https://www.hitc.com/ballhalla-was-barack-obamas-message-to-golden-state-valkyries-after-wnba-title-win/",
+          "published": "2026-11-01T05:03:06Z"
         }
       ]
     },
@@ -878,47 +734,47 @@
       "away_team": "Washington Wizards",
       "home_abbr": "ORL",
       "away_abbr": "WAS",
-      "home_ml": "-120",
-      "away_ml": "+100",
-      "home_ml_raw": -120,
-      "away_ml_raw": 100,
-      "home_prob": 52.2,
-      "away_prob": 47.8,
-      "spread": "ORL -1.5",
+      "home_ml": "-135",
+      "away_ml": "+114",
+      "home_ml_raw": -135,
+      "away_ml_raw": 114,
+      "home_prob": 55.1,
+      "away_prob": 44.9,
+      "spread": "ORL -2.5",
       "favorite": "Orlando Magic",
       "pick": "Orlando Magic",
       "pick_abbr": "ORL",
-      "moneyline": "-120",
-      "win_probability": 52.2,
+      "moneyline": "-135",
+      "win_probability": 55.1,
       "confidence": "LOW",
       "confidence_stars": "\u2605\u2606\u2606",
       "commence_time": "2026-11-03T00:40:00Z",
       "line_movement": {
         "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "direction": "shorter",
+          "points_moved": 15,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -135 \u2190 -120",
+          "old_ml": "-120",
+          "new_ml": "-135"
         },
         "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "direction": "longer",
+          "points_moved": 14,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM +114 \u2190 +100",
+          "old_ml": "+100",
+          "new_ml": "+114"
         },
         "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "direction": "shorter",
+          "points_moved": 15,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -135 \u2190 -120",
+          "old_ml": "-120",
+          "new_ml": "-135"
         },
-        "snapshot_time": "\u2014"
+        "snapshot_time": "November 02, 2026 at 01:18 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -945,7 +801,7 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udcca 4.4pt probability edge"
+        "\ud83d\udd25 Sharp steam detected"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -984,6 +840,151 @@
       "briefing": {
         "trend": "ORL on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
+        "steam": "Line steamed from -120 to -135 (15pt move) \u2014 heavy professional action on Orlando Magic.",
+        "injury_notes": "No key injuries."
+      },
+      "live": {
+        "status": "pre",
+        "status_detail": "Upcoming",
+        "period": 0,
+        "clock": "",
+        "home_score": 0,
+        "away_score": 0,
+        "spread_alert": null
+      },
+      "news": [
+        {
+          "title": "Yaxel Lendeborg congratulates Finals MVP and Valkyries star Gabby Williams after Game 7 win",
+          "source": "ClutchPoints",
+          "link": "https://clutchpoints.com/wnba/golden-state-valkyries/valkyries-news-yaxel-lendeborg-congratulates-finals-mvp-gabby-williams",
+          "published": "2026-11-01T05:10:55Z"
+        },
+        {
+          "title": "Mark Daigneault gets brutally honest about how the Thunder will deal with the major issues",
+          "source": "Sporting News",
+          "link": "https://www.sportingnews.com/us/nba/oklahoma-city-thunder/news/mark-daigneault-honest-about-thunder-will-deal-major-issues/2b3b3224f4fb6518fac66a64",
+          "published": "2026-11-01T05:06:57Z"
+        },
+        {
+          "title": "\u2018Ballhalla was\u2026\u2019 \u2013 Barack Obama\u2019s message to Golden State Valkyries after WNBA title win",
+          "source": "HITC - Football, Gaming, Movies, TV, Music",
+          "link": "https://www.hitc.com/ballhalla-was-barack-obamas-message-to-golden-state-valkyries-after-wnba-title-win/",
+          "published": "2026-11-01T05:03:06Z"
+        }
+      ]
+    },
+    {
+      "game": "Sacramento Kings @ Dallas Mavericks",
+      "home_team": "Dallas Mavericks",
+      "away_team": "Sacramento Kings",
+      "home_abbr": "DAL",
+      "away_abbr": "SAC",
+      "home_ml": "-395",
+      "away_ml": "+310",
+      "home_ml_raw": -395,
+      "away_ml_raw": 310,
+      "home_prob": 76.6,
+      "away_prob": 23.4,
+      "spread": "DAL -9.5",
+      "favorite": "Dallas Mavericks",
+      "pick": "Dallas Mavericks",
+      "pick_abbr": "DAL",
+      "moneyline": "-395",
+      "win_probability": 76.6,
+      "confidence": "HIGH",
+      "confidence_stars": "\u2605\u2605\u2605",
+      "commence_time": "2026-11-03T01:10:00Z",
+      "line_movement": {
+        "home": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "away": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "pick": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "snapshot_time": "\u2014"
+      },
+      "fatigue": {
+        "home": {
+          "status": "RESTED",
+          "label": "2 days rest \u2705",
+          "battery": 88,
+          "last_game": "Oct 30",
+          "days_rest": 3,
+          "games_last_4d": 1,
+          "travel_miles": 0,
+          "travel_desc": "",
+          "source": "ESPN Scoreboard API"
+        },
+        "away": {
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
+          "last_game": "Oct 31",
+          "days_rest": 2,
+          "games_last_4d": 2,
+          "travel_miles": 1746,
+          "travel_desc": "1,746 mi road trip",
+          "source": "ESPN Scoreboard API"
+        }
+      },
+      "edge_factors": [
+        "\ud83d\udcca 53.2pt probability edge"
+      ],
+      "injury_notes": "No key injuries.",
+      "sharp": {
+        "away_t": null,
+        "home_t": null,
+        "source": null,
+        "sharp_signal": null,
+        "sharp_label": "Pending \u2014 check closer to tip-off",
+        "rlm": false
+      },
+      "form": {
+        "home": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        },
+        "away": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        }
+      },
+      "h2h": {
+        "total_meetings": 0,
+        "home_wins": 0,
+        "away_wins": 0,
+        "meetings": [],
+        "source": "\u2014"
+      },
+      "briefing": {
+        "trend": "Dallas Mavericks hold a 76.6% edge.",
+        "matchup": "Both rosters appear healthy \u2014 clean line.",
         "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
       },
@@ -998,22 +999,22 @@
       },
       "news": [
         {
-          "title": "Tyrese Maxey scores 38 as 76ers beat Hornets 109-104 without LeBron James, Joel Embiid",
-          "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/articles/tyrese-maxey-scores-38-76ers-011449429.html",
-          "published": "2026-11-01T01:14:49Z"
-        },
-        {
-          "title": "Geralt who? Spurs\u2019 Victor Wembanyama arrives at Timberwolves game in Witcher-themed Halloween costume",
+          "title": "Yaxel Lendeborg congratulates Finals MVP and Valkyries star Gabby Williams after Game 7 win",
           "source": "ClutchPoints",
-          "link": "https://clutchpoints.com/nba/nba-stories/spurs-news-geralt-who-victor-wembanyama-timberwolves-game-witcher-halloween-costume",
-          "published": "2026-11-01T01:11:36Z"
+          "link": "https://clutchpoints.com/wnba/golden-state-valkyries/valkyries-news-yaxel-lendeborg-congratulates-finals-mvp-gabby-williams",
+          "published": "2026-11-01T05:10:55Z"
         },
         {
-          "title": "WNBA Finals teams end season with one final national anthem snub as Dream, Valkyries leave court",
-          "source": "Fox News",
-          "link": "https://www.foxnews.com/outkick-sports/wnba-finals-teams-end-season-one-final-national-anthem-snub-dream-valkyries-leave-court",
-          "published": "2026-11-01T00:55:01Z"
+          "title": "Mark Daigneault gets brutally honest about how the Thunder will deal with the major issues",
+          "source": "Sporting News",
+          "link": "https://www.sportingnews.com/us/nba/oklahoma-city-thunder/news/mark-daigneault-honest-about-thunder-will-deal-major-issues/2b3b3224f4fb6518fac66a64",
+          "published": "2026-11-01T05:06:57Z"
+        },
+        {
+          "title": "\u2018Ballhalla was\u2026\u2019 \u2013 Barack Obama\u2019s message to Golden State Valkyries after WNBA title win",
+          "source": "HITC - Football, Gaming, Movies, TV, Music",
+          "link": "https://www.hitc.com/ballhalla-was-barack-obamas-message-to-golden-state-valkyries-after-wnba-title-win/",
+          "published": "2026-11-01T05:03:06Z"
         }
       ]
     },
@@ -1043,27 +1044,27 @@
           "direction": "none",
           "points_moved": 0,
           "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "label": "No movement",
+          "old_ml": "-225",
+          "new_ml": "-225"
         },
         "away": {
           "direction": "none",
           "points_moved": 0,
           "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "label": "No movement",
+          "old_ml": "+185",
+          "new_ml": "+185"
         },
         "pick": {
           "direction": "none",
           "points_moved": 0,
           "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "label": "No movement",
+          "old_ml": "-225",
+          "new_ml": "-225"
         },
-        "snapshot_time": "\u2014"
+        "snapshot_time": "November 02, 2026 at 01:18 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -1143,22 +1144,22 @@
       },
       "news": [
         {
-          "title": "Tyrese Maxey scores 38 as 76ers beat Hornets 109-104 without LeBron James, Joel Embiid",
-          "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/articles/tyrese-maxey-scores-38-76ers-011449429.html",
-          "published": "2026-11-01T01:14:49Z"
-        },
-        {
-          "title": "Geralt who? Spurs\u2019 Victor Wembanyama arrives at Timberwolves game in Witcher-themed Halloween costume",
+          "title": "Yaxel Lendeborg congratulates Finals MVP and Valkyries star Gabby Williams after Game 7 win",
           "source": "ClutchPoints",
-          "link": "https://clutchpoints.com/nba/nba-stories/spurs-news-geralt-who-victor-wembanyama-timberwolves-game-witcher-halloween-costume",
-          "published": "2026-11-01T01:11:36Z"
+          "link": "https://clutchpoints.com/wnba/golden-state-valkyries/valkyries-news-yaxel-lendeborg-congratulates-finals-mvp-gabby-williams",
+          "published": "2026-11-01T05:10:55Z"
         },
         {
-          "title": "WNBA Finals teams end season with one final national anthem snub as Dream, Valkyries leave court",
-          "source": "Fox News",
-          "link": "https://www.foxnews.com/outkick-sports/wnba-finals-teams-end-season-one-final-national-anthem-snub-dream-valkyries-leave-court",
-          "published": "2026-11-01T00:55:01Z"
+          "title": "Mark Daigneault gets brutally honest about how the Thunder will deal with the major issues",
+          "source": "Sporting News",
+          "link": "https://www.sportingnews.com/us/nba/oklahoma-city-thunder/news/mark-daigneault-honest-about-thunder-will-deal-major-issues/2b3b3224f4fb6518fac66a64",
+          "published": "2026-11-01T05:06:57Z"
+        },
+        {
+          "title": "\u2018Ballhalla was\u2026\u2019 \u2013 Barack Obama\u2019s message to Golden State Valkyries after WNBA title win",
+          "source": "HITC - Football, Gaming, Movies, TV, Music",
+          "link": "https://www.hitc.com/ballhalla-was-barack-obamas-message-to-golden-state-valkyries-after-wnba-title-win/",
+          "published": "2026-11-01T05:03:06Z"
         }
       ]
     },
@@ -1168,47 +1169,47 @@
       "away_team": "Milwaukee Bucks",
       "home_abbr": "MIN",
       "away_abbr": "MIL",
-      "home_ml": "-520",
-      "away_ml": "+390",
-      "home_ml_raw": -520,
-      "away_ml_raw": 390,
-      "home_prob": 80.4,
-      "away_prob": 19.6,
-      "spread": "MIN -11.5",
+      "home_ml": "-485",
+      "away_ml": "+370",
+      "home_ml_raw": -485,
+      "away_ml_raw": 370,
+      "home_prob": 79.6,
+      "away_prob": 20.4,
+      "spread": "MIN -10.5",
       "favorite": "Minnesota Timberwolves",
       "pick": "Minnesota Timberwolves",
       "pick_abbr": "MIN",
-      "moneyline": "-520",
-      "win_probability": 80.4,
+      "moneyline": "-485",
+      "win_probability": 79.6,
       "confidence": "HIGH",
       "confidence_stars": "\u2605\u2605\u2605",
       "commence_time": "2026-11-03T01:10:00Z",
       "line_movement": {
         "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "direction": "longer",
+          "points_moved": 35,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -485 \u2190 -520",
+          "old_ml": "-520",
+          "new_ml": "-485"
         },
         "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "direction": "shorter",
+          "points_moved": 20,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM +370 \u2190 +390",
+          "old_ml": "+390",
+          "new_ml": "+370"
         },
         "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "direction": "longer",
+          "points_moved": 35,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -485 \u2190 -520",
+          "old_ml": "-520",
+          "new_ml": "-485"
         },
-        "snapshot_time": "\u2014"
+        "snapshot_time": "November 02, 2026 at 01:18 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -1235,7 +1236,7 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udcca 60.8pt probability edge"
+        "\ud83d\udd25 Sharp steam detected"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -1272,9 +1273,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "Minnesota Timberwolves hold a 80.4% edge.",
+        "trend": "Minnesota Timberwolves hold a 79.6% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "steam": "Line steamed from -520 to -485 (35pt move) \u2014 heavy professional action on Minnesota Timberwolves.",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -1288,22 +1289,22 @@
       },
       "news": [
         {
-          "title": "Tyrese Maxey scores 38 as 76ers beat Hornets 109-104 without LeBron James, Joel Embiid",
-          "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/articles/tyrese-maxey-scores-38-76ers-011449429.html",
-          "published": "2026-11-01T01:14:49Z"
-        },
-        {
-          "title": "Geralt who? Spurs\u2019 Victor Wembanyama arrives at Timberwolves game in Witcher-themed Halloween costume",
+          "title": "Yaxel Lendeborg congratulates Finals MVP and Valkyries star Gabby Williams after Game 7 win",
           "source": "ClutchPoints",
-          "link": "https://clutchpoints.com/nba/nba-stories/spurs-news-geralt-who-victor-wembanyama-timberwolves-game-witcher-halloween-costume",
-          "published": "2026-11-01T01:11:36Z"
+          "link": "https://clutchpoints.com/wnba/golden-state-valkyries/valkyries-news-yaxel-lendeborg-congratulates-finals-mvp-gabby-williams",
+          "published": "2026-11-01T05:10:55Z"
         },
         {
-          "title": "WNBA Finals teams end season with one final national anthem snub as Dream, Valkyries leave court",
-          "source": "Fox News",
-          "link": "https://www.foxnews.com/outkick-sports/wnba-finals-teams-end-season-one-final-national-anthem-snub-dream-valkyries-leave-court",
-          "published": "2026-11-01T00:55:01Z"
+          "title": "Mark Daigneault gets brutally honest about how the Thunder will deal with the major issues",
+          "source": "Sporting News",
+          "link": "https://www.sportingnews.com/us/nba/oklahoma-city-thunder/news/mark-daigneault-honest-about-thunder-will-deal-major-issues/2b3b3224f4fb6518fac66a64",
+          "published": "2026-11-01T05:06:57Z"
+        },
+        {
+          "title": "\u2018Ballhalla was\u2026\u2019 \u2013 Barack Obama\u2019s message to Golden State Valkyries after WNBA title win",
+          "source": "HITC - Football, Gaming, Movies, TV, Music",
+          "link": "https://www.hitc.com/ballhalla-was-barack-obamas-message-to-golden-state-valkyries-after-wnba-title-win/",
+          "published": "2026-11-01T05:03:06Z"
         }
       ]
     },
@@ -1313,47 +1314,47 @@
       "away_team": "Boston Celtics",
       "home_abbr": "HOU",
       "away_abbr": "BOS",
-      "home_ml": "-192",
-      "away_ml": "+160",
-      "home_ml_raw": -192,
-      "away_ml_raw": 160,
-      "home_prob": 63.1,
-      "away_prob": 36.9,
+      "home_ml": "-198",
+      "away_ml": "+164",
+      "home_ml_raw": -198,
+      "away_ml_raw": 164,
+      "home_prob": 63.7,
+      "away_prob": 36.3,
       "spread": "HOU -5.5",
       "favorite": "Houston Rockets",
       "pick": "Houston Rockets",
       "pick_abbr": "HOU",
-      "moneyline": "-192",
-      "win_probability": 63.1,
+      "moneyline": "-198",
+      "win_probability": 63.7,
       "confidence": "MEDIUM",
       "confidence_stars": "\u2605\u2605\u2606",
       "commence_time": "2026-11-03T01:40:00Z",
       "line_movement": {
         "home": {
-          "direction": "none",
-          "points_moved": 0,
+          "direction": "shorter",
+          "points_moved": 6,
           "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "label": "\ud83d\udfe2 -198 \u2190 -192",
+          "old_ml": "-192",
+          "new_ml": "-198"
         },
         "away": {
-          "direction": "none",
-          "points_moved": 0,
+          "direction": "longer",
+          "points_moved": 4,
           "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "label": "\ud83d\udd34 +164 \u2190 +160",
+          "old_ml": "+160",
+          "new_ml": "+164"
         },
         "pick": {
-          "direction": "none",
-          "points_moved": 0,
+          "direction": "shorter",
+          "points_moved": 6,
           "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "label": "\ud83d\udfe2 -198 \u2190 -192",
+          "old_ml": "-192",
+          "new_ml": "-198"
         },
-        "snapshot_time": "\u2014"
+        "snapshot_time": "November 02, 2026 at 01:18 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -1419,7 +1420,7 @@
       "briefing": {
         "trend": "BOS on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "steam": "Line moved -192\u2192-198 (6pts). Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -1433,22 +1434,22 @@
       },
       "news": [
         {
-          "title": "Tyrese Maxey scores 38 as 76ers beat Hornets 109-104 without LeBron James, Joel Embiid",
-          "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/articles/tyrese-maxey-scores-38-76ers-011449429.html",
-          "published": "2026-11-01T01:14:49Z"
-        },
-        {
-          "title": "Geralt who? Spurs\u2019 Victor Wembanyama arrives at Timberwolves game in Witcher-themed Halloween costume",
+          "title": "Yaxel Lendeborg congratulates Finals MVP and Valkyries star Gabby Williams after Game 7 win",
           "source": "ClutchPoints",
-          "link": "https://clutchpoints.com/nba/nba-stories/spurs-news-geralt-who-victor-wembanyama-timberwolves-game-witcher-halloween-costume",
-          "published": "2026-11-01T01:11:36Z"
+          "link": "https://clutchpoints.com/wnba/golden-state-valkyries/valkyries-news-yaxel-lendeborg-congratulates-finals-mvp-gabby-williams",
+          "published": "2026-11-01T05:10:55Z"
         },
         {
-          "title": "WNBA Finals teams end season with one final national anthem snub as Dream, Valkyries leave court",
-          "source": "Fox News",
-          "link": "https://www.foxnews.com/outkick-sports/wnba-finals-teams-end-season-one-final-national-anthem-snub-dream-valkyries-leave-court",
-          "published": "2026-11-01T00:55:01Z"
+          "title": "Mark Daigneault gets brutally honest about how the Thunder will deal with the major issues",
+          "source": "Sporting News",
+          "link": "https://www.sportingnews.com/us/nba/oklahoma-city-thunder/news/mark-daigneault-honest-about-thunder-will-deal-major-issues/2b3b3224f4fb6518fac66a64",
+          "published": "2026-11-01T05:06:57Z"
+        },
+        {
+          "title": "\u2018Ballhalla was\u2026\u2019 \u2013 Barack Obama\u2019s message to Golden State Valkyries after WNBA title win",
+          "source": "HITC - Football, Gaming, Movies, TV, Music",
+          "link": "https://www.hitc.com/ballhalla-was-barack-obamas-message-to-golden-state-valkyries-after-wnba-title-win/",
+          "published": "2026-11-01T05:03:06Z"
         }
       ]
     },
@@ -1458,47 +1459,47 @@
       "away_team": "Utah Jazz",
       "home_abbr": "SAS",
       "away_abbr": "UTA",
-      "home_ml": "-1000",
-      "away_ml": "+650",
-      "home_ml_raw": -1000,
-      "away_ml_raw": 650,
-      "home_prob": 87.2,
-      "away_prob": 12.8,
-      "spread": "SAS -15.5",
+      "home_ml": "-1350",
+      "away_ml": "+800",
+      "home_ml_raw": -1350,
+      "away_ml_raw": 800,
+      "home_prob": 89.3,
+      "away_prob": 10.7,
+      "spread": "SAS -16.5",
       "favorite": "San Antonio Spurs",
       "pick": "San Antonio Spurs",
       "pick_abbr": "SAS",
-      "moneyline": "-1000",
-      "win_probability": 87.2,
+      "moneyline": "-1350",
+      "win_probability": 89.3,
       "confidence": "HIGH",
       "confidence_stars": "\u2605\u2605\u2605",
       "commence_time": "2026-11-03T01:40:00Z",
       "line_movement": {
         "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "direction": "shorter",
+          "points_moved": 350,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -1350 \u2190 -1000",
+          "old_ml": "-1000",
+          "new_ml": "-1350"
         },
         "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "direction": "longer",
+          "points_moved": 150,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM +800 \u2190 +650",
+          "old_ml": "+650",
+          "new_ml": "+800"
         },
         "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "direction": "shorter",
+          "points_moved": 350,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -1350 \u2190 -1000",
+          "old_ml": "-1000",
+          "new_ml": "-1350"
         },
-        "snapshot_time": "\u2014"
+        "snapshot_time": "November 02, 2026 at 01:18 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -1525,7 +1526,7 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udcca 74.4pt probability edge"
+        "\ud83d\udd25 Sharp steam detected"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -1562,9 +1563,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "San Antonio Spurs hold a 87.2% edge.",
+        "trend": "San Antonio Spurs hold a 89.3% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "steam": "Line steamed from -1000 to -1350 (350pt move) \u2014 heavy professional action on San Antonio Spurs.",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -1578,22 +1579,22 @@
       },
       "news": [
         {
-          "title": "Tyrese Maxey scores 38 as 76ers beat Hornets 109-104 without LeBron James, Joel Embiid",
-          "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/articles/tyrese-maxey-scores-38-76ers-011449429.html",
-          "published": "2026-11-01T01:14:49Z"
-        },
-        {
-          "title": "Geralt who? Spurs\u2019 Victor Wembanyama arrives at Timberwolves game in Witcher-themed Halloween costume",
+          "title": "Yaxel Lendeborg congratulates Finals MVP and Valkyries star Gabby Williams after Game 7 win",
           "source": "ClutchPoints",
-          "link": "https://clutchpoints.com/nba/nba-stories/spurs-news-geralt-who-victor-wembanyama-timberwolves-game-witcher-halloween-costume",
-          "published": "2026-11-01T01:11:36Z"
+          "link": "https://clutchpoints.com/wnba/golden-state-valkyries/valkyries-news-yaxel-lendeborg-congratulates-finals-mvp-gabby-williams",
+          "published": "2026-11-01T05:10:55Z"
         },
         {
-          "title": "WNBA Finals teams end season with one final national anthem snub as Dream, Valkyries leave court",
-          "source": "Fox News",
-          "link": "https://www.foxnews.com/outkick-sports/wnba-finals-teams-end-season-one-final-national-anthem-snub-dream-valkyries-leave-court",
-          "published": "2026-11-01T00:55:01Z"
+          "title": "Mark Daigneault gets brutally honest about how the Thunder will deal with the major issues",
+          "source": "Sporting News",
+          "link": "https://www.sportingnews.com/us/nba/oklahoma-city-thunder/news/mark-daigneault-honest-about-thunder-will-deal-major-issues/2b3b3224f4fb6518fac66a64",
+          "published": "2026-11-01T05:06:57Z"
+        },
+        {
+          "title": "\u2018Ballhalla was\u2026\u2019 \u2013 Barack Obama\u2019s message to Golden State Valkyries after WNBA title win",
+          "source": "HITC - Football, Gaming, Movies, TV, Music",
+          "link": "https://www.hitc.com/ballhalla-was-barack-obamas-message-to-golden-state-valkyries-after-wnba-title-win/",
+          "published": "2026-11-01T05:03:06Z"
         }
       ]
     },
@@ -1603,21 +1604,166 @@
       "away_team": "Portland Trail Blazers",
       "home_abbr": "DEN",
       "away_abbr": "POR",
-      "home_ml": "-170",
-      "away_ml": "+142",
-      "home_ml_raw": -170,
-      "away_ml_raw": 142,
-      "home_prob": 60.4,
-      "away_prob": 39.6,
+      "home_ml": "-175",
+      "away_ml": "+145",
+      "home_ml_raw": -175,
+      "away_ml_raw": 145,
+      "home_prob": 60.9,
+      "away_prob": 39.1,
       "spread": "DEN -4.5",
       "favorite": "Denver Nuggets",
       "pick": "Denver Nuggets",
       "pick_abbr": "DEN",
-      "moneyline": "-170",
-      "win_probability": 60.4,
+      "moneyline": "-175",
+      "win_probability": 60.9,
       "confidence": "MEDIUM",
       "confidence_stars": "\u2605\u2605\u2606",
       "commence_time": "2026-11-03T02:10:00Z",
+      "line_movement": {
+        "home": {
+          "direction": "shorter",
+          "points_moved": 5,
+          "steam": false,
+          "label": "\ud83d\udfe2 -175 \u2190 -170",
+          "old_ml": "-170",
+          "new_ml": "-175"
+        },
+        "away": {
+          "direction": "longer",
+          "points_moved": 3,
+          "steam": false,
+          "label": "\ud83d\udd34 +145 \u2190 +142",
+          "old_ml": "+142",
+          "new_ml": "+145"
+        },
+        "pick": {
+          "direction": "shorter",
+          "points_moved": 5,
+          "steam": false,
+          "label": "\ud83d\udfe2 -175 \u2190 -170",
+          "old_ml": "-170",
+          "new_ml": "-175"
+        },
+        "snapshot_time": "November 02, 2026 at 01:18 AM UTC"
+      },
+      "fatigue": {
+        "home": {
+          "status": "RESTED",
+          "label": "2 days rest \u2705",
+          "battery": 88,
+          "last_game": "Oct 30",
+          "days_rest": 3,
+          "games_last_4d": 1,
+          "travel_miles": 585,
+          "travel_desc": "585 mi road trip",
+          "source": "ESPN Scoreboard API"
+        },
+        "away": {
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
+          "last_game": "Oct 31",
+          "days_rest": 2,
+          "games_last_4d": 2,
+          "travel_miles": 0,
+          "travel_desc": "",
+          "source": "ESPN Scoreboard API"
+        }
+      },
+      "edge_factors": [
+        "\ud83d\udcca 21.8pt probability edge"
+      ],
+      "injury_notes": "No key injuries.",
+      "sharp": {
+        "away_t": null,
+        "home_t": null,
+        "source": null,
+        "sharp_signal": null,
+        "sharp_label": "Pending \u2014 check closer to tip-off",
+        "rlm": false
+      },
+      "form": {
+        "home": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        },
+        "away": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        }
+      },
+      "h2h": {
+        "total_meetings": 0,
+        "home_wins": 0,
+        "away_wins": 0,
+        "meetings": [],
+        "source": "\u2014"
+      },
+      "briefing": {
+        "trend": "Denver Nuggets hold a 60.9% edge.",
+        "matchup": "Both rosters appear healthy \u2014 clean line.",
+        "steam": "Line moved -170\u2192-175 (5pts). Pending \u2014 check closer to tip-off",
+        "injury_notes": "No key injuries."
+      },
+      "live": {
+        "status": "pre",
+        "status_detail": "Upcoming",
+        "period": 0,
+        "clock": "",
+        "home_score": 0,
+        "away_score": 0,
+        "spread_alert": null
+      },
+      "news": [
+        {
+          "title": "Yaxel Lendeborg congratulates Finals MVP and Valkyries star Gabby Williams after Game 7 win",
+          "source": "ClutchPoints",
+          "link": "https://clutchpoints.com/wnba/golden-state-valkyries/valkyries-news-yaxel-lendeborg-congratulates-finals-mvp-gabby-williams",
+          "published": "2026-11-01T05:10:55Z"
+        },
+        {
+          "title": "Mark Daigneault gets brutally honest about how the Thunder will deal with the major issues",
+          "source": "Sporting News",
+          "link": "https://www.sportingnews.com/us/nba/oklahoma-city-thunder/news/mark-daigneault-honest-about-thunder-will-deal-major-issues/2b3b3224f4fb6518fac66a64",
+          "published": "2026-11-01T05:06:57Z"
+        },
+        {
+          "title": "\u2018Ballhalla was\u2026\u2019 \u2013 Barack Obama\u2019s message to Golden State Valkyries after WNBA title win",
+          "source": "HITC - Football, Gaming, Movies, TV, Music",
+          "link": "https://www.hitc.com/ballhalla-was-barack-obamas-message-to-golden-state-valkyries-after-wnba-title-win/",
+          "published": "2026-11-01T05:03:06Z"
+        }
+      ]
+    },
+    {
+      "game": "Phoenix Suns @ Golden State Warriors",
+      "home_team": "Golden State Warriors",
+      "away_team": "Phoenix Suns",
+      "home_abbr": "GSW",
+      "away_abbr": "PHX",
+      "home_ml": "-180",
+      "away_ml": "+150",
+      "home_ml_raw": -180,
+      "away_ml_raw": 150,
+      "home_prob": 61.6,
+      "away_prob": 38.4,
+      "spread": "GSW -4.5",
+      "favorite": "Golden State Warriors",
+      "pick": "Golden State Warriors",
+      "pick_abbr": "GSW",
+      "moneyline": "-180",
+      "win_probability": 61.6,
+      "confidence": "MEDIUM",
+      "confidence_stars": "\u2605\u2605\u2606",
+      "commence_time": "2026-11-03T03:10:00Z",
       "line_movement": {
         "home": {
           "direction": "none",
@@ -1647,30 +1793,30 @@
       },
       "fatigue": {
         "home": {
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Nov 01",
+          "days_rest": 1,
+          "games_last_4d": 2,
+          "travel_miles": 0,
+          "travel_desc": "",
+          "source": "ESPN Scoreboard API"
+        },
+        "away": {
           "status": "RESTED",
           "label": "2 days rest \u2705",
           "battery": 88,
           "last_game": "Oct 30",
           "days_rest": 3,
           "games_last_4d": 1,
-          "travel_miles": 585,
-          "travel_desc": "585 mi road trip",
-          "source": "ESPN Scoreboard API"
-        },
-        "away": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "Oct 31",
-          "days_rest": 2,
-          "games_last_4d": 2,
           "travel_miles": 0,
           "travel_desc": "",
           "source": "ESPN Scoreboard API"
         }
       },
       "edge_factors": [
-        "\ud83d\udcca 20.8pt probability edge"
+        "\ud83d\udcca 23.2pt probability edge"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -1707,7 +1853,7 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "Denver Nuggets hold a 60.4% edge.",
+        "trend": "GSW on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
         "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
@@ -1723,22 +1869,312 @@
       },
       "news": [
         {
-          "title": "Tyrese Maxey scores 38 as 76ers beat Hornets 109-104 without LeBron James, Joel Embiid",
-          "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/articles/tyrese-maxey-scores-38-76ers-011449429.html",
-          "published": "2026-11-01T01:14:49Z"
-        },
-        {
-          "title": "Geralt who? Spurs\u2019 Victor Wembanyama arrives at Timberwolves game in Witcher-themed Halloween costume",
+          "title": "Yaxel Lendeborg congratulates Finals MVP and Valkyries star Gabby Williams after Game 7 win",
           "source": "ClutchPoints",
-          "link": "https://clutchpoints.com/nba/nba-stories/spurs-news-geralt-who-victor-wembanyama-timberwolves-game-witcher-halloween-costume",
-          "published": "2026-11-01T01:11:36Z"
+          "link": "https://clutchpoints.com/wnba/golden-state-valkyries/valkyries-news-yaxel-lendeborg-congratulates-finals-mvp-gabby-williams",
+          "published": "2026-11-01T05:10:55Z"
         },
         {
-          "title": "WNBA Finals teams end season with one final national anthem snub as Dream, Valkyries leave court",
-          "source": "Fox News",
-          "link": "https://www.foxnews.com/outkick-sports/wnba-finals-teams-end-season-one-final-national-anthem-snub-dream-valkyries-leave-court",
-          "published": "2026-11-01T00:55:01Z"
+          "title": "Mark Daigneault gets brutally honest about how the Thunder will deal with the major issues",
+          "source": "Sporting News",
+          "link": "https://www.sportingnews.com/us/nba/oklahoma-city-thunder/news/mark-daigneault-honest-about-thunder-will-deal-major-issues/2b3b3224f4fb6518fac66a64",
+          "published": "2026-11-01T05:06:57Z"
+        },
+        {
+          "title": "\u2018Ballhalla was\u2026\u2019 \u2013 Barack Obama\u2019s message to Golden State Valkyries after WNBA title win",
+          "source": "HITC - Football, Gaming, Movies, TV, Music",
+          "link": "https://www.hitc.com/ballhalla-was-barack-obamas-message-to-golden-state-valkyries-after-wnba-title-win/",
+          "published": "2026-11-01T05:03:06Z"
+        }
+      ]
+    },
+    {
+      "game": "Toronto Raptors @ Los Angeles Clippers",
+      "home_team": "Los Angeles Clippers",
+      "away_team": "Toronto Raptors",
+      "home_abbr": "LAC",
+      "away_abbr": "TOR",
+      "home_ml": "+164",
+      "away_ml": "-198",
+      "home_ml_raw": 164,
+      "away_ml_raw": -198,
+      "home_prob": 36.3,
+      "away_prob": 63.7,
+      "spread": "LAC +5.5",
+      "favorite": "Toronto Raptors",
+      "pick": "Toronto Raptors",
+      "pick_abbr": "TOR",
+      "moneyline": "-198",
+      "win_probability": 63.7,
+      "confidence": "MEDIUM",
+      "confidence_stars": "\u2605\u2605\u2606",
+      "commence_time": "2026-11-03T03:10:00Z",
+      "line_movement": {
+        "home": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "away": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "pick": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "snapshot_time": "\u2014"
+      },
+      "fatigue": {
+        "home": {
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Nov 01",
+          "days_rest": 1,
+          "games_last_4d": 2,
+          "travel_miles": 346,
+          "travel_desc": "346 mi road trip",
+          "source": "ESPN Scoreboard API"
+        },
+        "away": {
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Nov 01",
+          "days_rest": 1,
+          "games_last_4d": 2,
+          "travel_miles": 2173,
+          "travel_desc": "2,173 mi road trip",
+          "source": "ESPN Scoreboard API"
+        }
+      },
+      "edge_factors": [
+        "\ud83d\udca4 LAC fatigued (B2B) \u2014 source: ESPN"
+      ],
+      "injury_notes": "No key injuries.",
+      "sharp": {
+        "away_t": null,
+        "home_t": null,
+        "source": null,
+        "sharp_signal": null,
+        "sharp_label": "Pending \u2014 check closer to tip-off",
+        "rlm": false
+      },
+      "form": {
+        "home": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        },
+        "away": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        }
+      },
+      "h2h": {
+        "total_meetings": 0,
+        "home_wins": 0,
+        "away_wins": 0,
+        "meetings": [],
+        "source": "\u2014"
+      },
+      "briefing": {
+        "trend": "LAC on Back-to-Back \u26a0\ufe0f per ESPN schedule data. TOR on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "matchup": "Both rosters appear healthy \u2014 clean line.",
+        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "injury_notes": "No key injuries."
+      },
+      "live": {
+        "status": "pre",
+        "status_detail": "Upcoming",
+        "period": 0,
+        "clock": "",
+        "home_score": 0,
+        "away_score": 0,
+        "spread_alert": null
+      },
+      "news": [
+        {
+          "title": "Yaxel Lendeborg congratulates Finals MVP and Valkyries star Gabby Williams after Game 7 win",
+          "source": "ClutchPoints",
+          "link": "https://clutchpoints.com/wnba/golden-state-valkyries/valkyries-news-yaxel-lendeborg-congratulates-finals-mvp-gabby-williams",
+          "published": "2026-11-01T05:10:55Z"
+        },
+        {
+          "title": "Mark Daigneault gets brutally honest about how the Thunder will deal with the major issues",
+          "source": "Sporting News",
+          "link": "https://www.sportingnews.com/us/nba/oklahoma-city-thunder/news/mark-daigneault-honest-about-thunder-will-deal-major-issues/2b3b3224f4fb6518fac66a64",
+          "published": "2026-11-01T05:06:57Z"
+        },
+        {
+          "title": "\u2018Ballhalla was\u2026\u2019 \u2013 Barack Obama\u2019s message to Golden State Valkyries after WNBA title win",
+          "source": "HITC - Football, Gaming, Movies, TV, Music",
+          "link": "https://www.hitc.com/ballhalla-was-barack-obamas-message-to-golden-state-valkyries-after-wnba-title-win/",
+          "published": "2026-11-01T05:03:06Z"
+        }
+      ]
+    },
+    {
+      "game": "Miami Heat @ Los Angeles Lakers",
+      "home_team": "Los Angeles Lakers",
+      "away_team": "Miami Heat",
+      "home_abbr": "LAL",
+      "away_abbr": "MIA",
+      "home_ml": "-130",
+      "away_ml": "+110",
+      "home_ml_raw": -130,
+      "away_ml_raw": 110,
+      "home_prob": 54.3,
+      "away_prob": 45.7,
+      "spread": "LAL -2.5",
+      "favorite": "Los Angeles Lakers",
+      "pick": "Los Angeles Lakers",
+      "pick_abbr": "LAL",
+      "moneyline": "-130",
+      "win_probability": 54.3,
+      "confidence": "LOW",
+      "confidence_stars": "\u2605\u2606\u2606",
+      "commence_time": "2026-11-03T03:10:00Z",
+      "line_movement": {
+        "home": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "away": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "pick": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "snapshot_time": "\u2014"
+      },
+      "fatigue": {
+        "home": {
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Nov 01",
+          "days_rest": 1,
+          "games_last_4d": 2,
+          "travel_miles": 346,
+          "travel_desc": "346 mi road trip",
+          "source": "ESPN Scoreboard API"
+        },
+        "away": {
+          "status": "RESTED",
+          "label": "2 days rest \u2705",
+          "battery": 88,
+          "last_game": "Oct 30",
+          "days_rest": 3,
+          "games_last_4d": 1,
+          "travel_miles": 0,
+          "travel_desc": "",
+          "source": "ESPN Scoreboard API"
+        }
+      },
+      "edge_factors": [
+        "\ud83d\udcca 8.6pt probability edge"
+      ],
+      "injury_notes": "No key injuries.",
+      "sharp": {
+        "away_t": null,
+        "home_t": null,
+        "source": null,
+        "sharp_signal": null,
+        "sharp_label": "Pending \u2014 check closer to tip-off",
+        "rlm": false
+      },
+      "form": {
+        "home": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        },
+        "away": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        }
+      },
+      "h2h": {
+        "total_meetings": 0,
+        "home_wins": 0,
+        "away_wins": 0,
+        "meetings": [],
+        "source": "\u2014"
+      },
+      "briefing": {
+        "trend": "LAL on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "matchup": "Both rosters appear healthy \u2014 clean line.",
+        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "injury_notes": "No key injuries."
+      },
+      "live": {
+        "status": "pre",
+        "status_detail": "Upcoming",
+        "period": 0,
+        "clock": "",
+        "home_score": 0,
+        "away_score": 0,
+        "spread_alert": null
+      },
+      "news": [
+        {
+          "title": "Yaxel Lendeborg congratulates Finals MVP and Valkyries star Gabby Williams after Game 7 win",
+          "source": "ClutchPoints",
+          "link": "https://clutchpoints.com/wnba/golden-state-valkyries/valkyries-news-yaxel-lendeborg-congratulates-finals-mvp-gabby-williams",
+          "published": "2026-11-01T05:10:55Z"
+        },
+        {
+          "title": "Mark Daigneault gets brutally honest about how the Thunder will deal with the major issues",
+          "source": "Sporting News",
+          "link": "https://www.sportingnews.com/us/nba/oklahoma-city-thunder/news/mark-daigneault-honest-about-thunder-will-deal-major-issues/2b3b3224f4fb6518fac66a64",
+          "published": "2026-11-01T05:06:57Z"
+        },
+        {
+          "title": "\u2018Ballhalla was\u2026\u2019 \u2013 Barack Obama\u2019s message to Golden State Valkyries after WNBA title win",
+          "source": "HITC - Football, Gaming, Movies, TV, Music",
+          "link": "https://www.hitc.com/ballhalla-was-barack-obamas-message-to-golden-state-valkyries-after-wnba-title-win/",
+          "published": "2026-11-01T05:03:06Z"
         }
       ]
     },
@@ -1788,7 +2224,7 @@
           "old_ml": "-115",
           "new_ml": "-115"
         },
-        "snapshot_time": "November 01, 2026 at 05:00 PM UTC"
+        "snapshot_time": "November 02, 2026 at 01:18 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -1868,22 +2304,22 @@
       },
       "news": [
         {
-          "title": "Tyrese Maxey scores 38 as 76ers beat Hornets 109-104 without LeBron James, Joel Embiid",
-          "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/articles/tyrese-maxey-scores-38-76ers-011449429.html",
-          "published": "2026-11-01T01:14:49Z"
-        },
-        {
-          "title": "Geralt who? Spurs\u2019 Victor Wembanyama arrives at Timberwolves game in Witcher-themed Halloween costume",
+          "title": "Yaxel Lendeborg congratulates Finals MVP and Valkyries star Gabby Williams after Game 7 win",
           "source": "ClutchPoints",
-          "link": "https://clutchpoints.com/nba/nba-stories/spurs-news-geralt-who-victor-wembanyama-timberwolves-game-witcher-halloween-costume",
-          "published": "2026-11-01T01:11:36Z"
+          "link": "https://clutchpoints.com/wnba/golden-state-valkyries/valkyries-news-yaxel-lendeborg-congratulates-finals-mvp-gabby-williams",
+          "published": "2026-11-01T05:10:55Z"
         },
         {
-          "title": "WNBA Finals teams end season with one final national anthem snub as Dream, Valkyries leave court",
-          "source": "Fox News",
-          "link": "https://www.foxnews.com/outkick-sports/wnba-finals-teams-end-season-one-final-national-anthem-snub-dream-valkyries-leave-court",
-          "published": "2026-11-01T00:55:01Z"
+          "title": "Mark Daigneault gets brutally honest about how the Thunder will deal with the major issues",
+          "source": "Sporting News",
+          "link": "https://www.sportingnews.com/us/nba/oklahoma-city-thunder/news/mark-daigneault-honest-about-thunder-will-deal-major-issues/2b3b3224f4fb6518fac66a64",
+          "published": "2026-11-01T05:06:57Z"
+        },
+        {
+          "title": "\u2018Ballhalla was\u2026\u2019 \u2013 Barack Obama\u2019s message to Golden State Valkyries after WNBA title win",
+          "source": "HITC - Football, Gaming, Movies, TV, Music",
+          "link": "https://www.hitc.com/ballhalla-was-barack-obamas-message-to-golden-state-valkyries-after-wnba-title-win/",
+          "published": "2026-11-01T05:03:06Z"
         }
       ]
     },
@@ -1933,7 +2369,7 @@
           "old_ml": "-218",
           "new_ml": "-218"
         },
-        "snapshot_time": "November 01, 2026 at 05:00 PM UTC"
+        "snapshot_time": "November 02, 2026 at 01:18 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -2013,22 +2449,22 @@
       },
       "news": [
         {
-          "title": "Tyrese Maxey scores 38 as 76ers beat Hornets 109-104 without LeBron James, Joel Embiid",
-          "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/articles/tyrese-maxey-scores-38-76ers-011449429.html",
-          "published": "2026-11-01T01:14:49Z"
-        },
-        {
-          "title": "Geralt who? Spurs\u2019 Victor Wembanyama arrives at Timberwolves game in Witcher-themed Halloween costume",
+          "title": "Yaxel Lendeborg congratulates Finals MVP and Valkyries star Gabby Williams after Game 7 win",
           "source": "ClutchPoints",
-          "link": "https://clutchpoints.com/nba/nba-stories/spurs-news-geralt-who-victor-wembanyama-timberwolves-game-witcher-halloween-costume",
-          "published": "2026-11-01T01:11:36Z"
+          "link": "https://clutchpoints.com/wnba/golden-state-valkyries/valkyries-news-yaxel-lendeborg-congratulates-finals-mvp-gabby-williams",
+          "published": "2026-11-01T05:10:55Z"
         },
         {
-          "title": "WNBA Finals teams end season with one final national anthem snub as Dream, Valkyries leave court",
-          "source": "Fox News",
-          "link": "https://www.foxnews.com/outkick-sports/wnba-finals-teams-end-season-one-final-national-anthem-snub-dream-valkyries-leave-court",
-          "published": "2026-11-01T00:55:01Z"
+          "title": "Mark Daigneault gets brutally honest about how the Thunder will deal with the major issues",
+          "source": "Sporting News",
+          "link": "https://www.sportingnews.com/us/nba/oklahoma-city-thunder/news/mark-daigneault-honest-about-thunder-will-deal-major-issues/2b3b3224f4fb6518fac66a64",
+          "published": "2026-11-01T05:06:57Z"
+        },
+        {
+          "title": "\u2018Ballhalla was\u2026\u2019 \u2013 Barack Obama\u2019s message to Golden State Valkyries after WNBA title win",
+          "source": "HITC - Football, Gaming, Movies, TV, Music",
+          "link": "https://www.hitc.com/ballhalla-was-barack-obamas-message-to-golden-state-valkyries-after-wnba-title-win/",
+          "published": "2026-11-01T05:03:06Z"
         }
       ]
     },
@@ -2078,16 +2514,16 @@
           "old_ml": "-115",
           "new_ml": "-115"
         },
-        "snapshot_time": "November 01, 2026 at 05:00 PM UTC"
+        "snapshot_time": "November 02, 2026 at 01:18 AM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "RESTED",
-          "label": "2 days rest \u2705",
-          "battery": 88,
-          "last_game": "Oct 30",
-          "days_rest": 3,
-          "games_last_4d": 1,
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Nov 01",
+          "days_rest": 1,
+          "games_last_4d": 2,
           "travel_miles": 346,
           "travel_desc": "346 mi road trip",
           "source": "ESPN Scoreboard API"
@@ -2142,7 +2578,7 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "Los Angeles Lakers hold a 51.1% edge.",
+        "trend": "LAL on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
         "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
@@ -2158,22 +2594,22 @@
       },
       "news": [
         {
-          "title": "Tyrese Maxey scores 38 as 76ers beat Hornets 109-104 without LeBron James, Joel Embiid",
-          "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/articles/tyrese-maxey-scores-38-76ers-011449429.html",
-          "published": "2026-11-01T01:14:49Z"
-        },
-        {
-          "title": "Geralt who? Spurs\u2019 Victor Wembanyama arrives at Timberwolves game in Witcher-themed Halloween costume",
+          "title": "Yaxel Lendeborg congratulates Finals MVP and Valkyries star Gabby Williams after Game 7 win",
           "source": "ClutchPoints",
-          "link": "https://clutchpoints.com/nba/nba-stories/spurs-news-geralt-who-victor-wembanyama-timberwolves-game-witcher-halloween-costume",
-          "published": "2026-11-01T01:11:36Z"
+          "link": "https://clutchpoints.com/wnba/golden-state-valkyries/valkyries-news-yaxel-lendeborg-congratulates-finals-mvp-gabby-williams",
+          "published": "2026-11-01T05:10:55Z"
         },
         {
-          "title": "WNBA Finals teams end season with one final national anthem snub as Dream, Valkyries leave court",
-          "source": "Fox News",
-          "link": "https://www.foxnews.com/outkick-sports/wnba-finals-teams-end-season-one-final-national-anthem-snub-dream-valkyries-leave-court",
-          "published": "2026-11-01T00:55:01Z"
+          "title": "Mark Daigneault gets brutally honest about how the Thunder will deal with the major issues",
+          "source": "Sporting News",
+          "link": "https://www.sportingnews.com/us/nba/oklahoma-city-thunder/news/mark-daigneault-honest-about-thunder-will-deal-major-issues/2b3b3224f4fb6518fac66a64",
+          "published": "2026-11-01T05:06:57Z"
+        },
+        {
+          "title": "\u2018Ballhalla was\u2026\u2019 \u2013 Barack Obama\u2019s message to Golden State Valkyries after WNBA title win",
+          "source": "HITC - Football, Gaming, Movies, TV, Music",
+          "link": "https://www.hitc.com/ballhalla-was-barack-obamas-message-to-golden-state-valkyries-after-wnba-title-win/",
+          "published": "2026-11-01T05:03:06Z"
         }
       ]
     },
@@ -2223,7 +2659,7 @@
           "old_ml": "-155",
           "new_ml": "-155"
         },
-        "snapshot_time": "November 01, 2026 at 05:00 PM UTC"
+        "snapshot_time": "November 02, 2026 at 01:18 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -2303,22 +2739,22 @@
       },
       "news": [
         {
-          "title": "Tyrese Maxey scores 38 as 76ers beat Hornets 109-104 without LeBron James, Joel Embiid",
-          "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/articles/tyrese-maxey-scores-38-76ers-011449429.html",
-          "published": "2026-11-01T01:14:49Z"
-        },
-        {
-          "title": "Geralt who? Spurs\u2019 Victor Wembanyama arrives at Timberwolves game in Witcher-themed Halloween costume",
+          "title": "Yaxel Lendeborg congratulates Finals MVP and Valkyries star Gabby Williams after Game 7 win",
           "source": "ClutchPoints",
-          "link": "https://clutchpoints.com/nba/nba-stories/spurs-news-geralt-who-victor-wembanyama-timberwolves-game-witcher-halloween-costume",
-          "published": "2026-11-01T01:11:36Z"
+          "link": "https://clutchpoints.com/wnba/golden-state-valkyries/valkyries-news-yaxel-lendeborg-congratulates-finals-mvp-gabby-williams",
+          "published": "2026-11-01T05:10:55Z"
         },
         {
-          "title": "WNBA Finals teams end season with one final national anthem snub as Dream, Valkyries leave court",
-          "source": "Fox News",
-          "link": "https://www.foxnews.com/outkick-sports/wnba-finals-teams-end-season-one-final-national-anthem-snub-dream-valkyries-leave-court",
-          "published": "2026-11-01T00:55:01Z"
+          "title": "Mark Daigneault gets brutally honest about how the Thunder will deal with the major issues",
+          "source": "Sporting News",
+          "link": "https://www.sportingnews.com/us/nba/oklahoma-city-thunder/news/mark-daigneault-honest-about-thunder-will-deal-major-issues/2b3b3224f4fb6518fac66a64",
+          "published": "2026-11-01T05:06:57Z"
+        },
+        {
+          "title": "\u2018Ballhalla was\u2026\u2019 \u2013 Barack Obama\u2019s message to Golden State Valkyries after WNBA title win",
+          "source": "HITC - Football, Gaming, Movies, TV, Music",
+          "link": "https://www.hitc.com/ballhalla-was-barack-obamas-message-to-golden-state-valkyries-after-wnba-title-win/",
+          "published": "2026-11-01T05:03:06Z"
         }
       ]
     },
@@ -2368,16 +2804,16 @@
           "old_ml": "-135",
           "new_ml": "-135"
         },
-        "snapshot_time": "November 01, 2026 at 05:00 PM UTC"
+        "snapshot_time": "November 02, 2026 at 01:18 AM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "RESTED",
-          "label": "2 days rest \u2705",
-          "battery": 88,
-          "last_game": "Oct 30",
-          "days_rest": 3,
-          "games_last_4d": 1,
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Nov 01",
+          "days_rest": 1,
+          "games_last_4d": 2,
           "travel_miles": 0,
           "travel_desc": "",
           "source": "ESPN Scoreboard API"
@@ -2395,7 +2831,7 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udcca 10.2pt probability edge"
+        "\ud83d\udca4 GSW fatigued (B2B) \u2014 source: ESPN"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -2432,7 +2868,7 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "Denver Nuggets hold a 55.1% edge.",
+        "trend": "GSW on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
         "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
@@ -2448,42 +2884,42 @@
       },
       "news": [
         {
-          "title": "Tyrese Maxey scores 38 as 76ers beat Hornets 109-104 without LeBron James, Joel Embiid",
-          "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/articles/tyrese-maxey-scores-38-76ers-011449429.html",
-          "published": "2026-11-01T01:14:49Z"
-        },
-        {
-          "title": "Geralt who? Spurs\u2019 Victor Wembanyama arrives at Timberwolves game in Witcher-themed Halloween costume",
+          "title": "Yaxel Lendeborg congratulates Finals MVP and Valkyries star Gabby Williams after Game 7 win",
           "source": "ClutchPoints",
-          "link": "https://clutchpoints.com/nba/nba-stories/spurs-news-geralt-who-victor-wembanyama-timberwolves-game-witcher-halloween-costume",
-          "published": "2026-11-01T01:11:36Z"
+          "link": "https://clutchpoints.com/wnba/golden-state-valkyries/valkyries-news-yaxel-lendeborg-congratulates-finals-mvp-gabby-williams",
+          "published": "2026-11-01T05:10:55Z"
         },
         {
-          "title": "WNBA Finals teams end season with one final national anthem snub as Dream, Valkyries leave court",
-          "source": "Fox News",
-          "link": "https://www.foxnews.com/outkick-sports/wnba-finals-teams-end-season-one-final-national-anthem-snub-dream-valkyries-leave-court",
-          "published": "2026-11-01T00:55:01Z"
+          "title": "Mark Daigneault gets brutally honest about how the Thunder will deal with the major issues",
+          "source": "Sporting News",
+          "link": "https://www.sportingnews.com/us/nba/oklahoma-city-thunder/news/mark-daigneault-honest-about-thunder-will-deal-major-issues/2b3b3224f4fb6518fac66a64",
+          "published": "2026-11-01T05:06:57Z"
+        },
+        {
+          "title": "\u2018Ballhalla was\u2026\u2019 \u2013 Barack Obama\u2019s message to Golden State Valkyries after WNBA title win",
+          "source": "HITC - Football, Gaming, Movies, TV, Music",
+          "link": "https://www.hitc.com/ballhalla-was-barack-obamas-message-to-golden-state-valkyries-after-wnba-title-win/",
+          "published": "2026-11-01T05:03:06Z"
         }
       ]
     }
   ],
   "track_record": {
     "LOW": {
-      "wins": 12,
+      "wins": 13,
       "losses": 13,
-      "total": 25,
-      "win_pct": 48.0,
-      "roi": -11.5,
-      "profit": -286.97
+      "total": 26,
+      "win_pct": 50.0,
+      "roi": -8.1,
+      "profit": -210.05
     },
     "MEDIUM": {
-      "wins": 27,
+      "wins": 28,
       "losses": 15,
-      "total": 42,
-      "win_pct": 64.3,
-      "roi": -3.2,
-      "profit": -132.97
+      "total": 43,
+      "win_pct": 65.1,
+      "roi": -1.8,
+      "profit": -77.41
     },
     "HIGH": {
       "wins": 18,
@@ -2494,20 +2930,20 @@
       "profit": 100.17
     },
     "overall_7d": {
-      "wins": 22,
-      "losses": 11,
-      "total": 33,
-      "win_pct": 66.7,
-      "roi": -3.3,
-      "profit": -107.31
+      "wins": 21,
+      "losses": 7,
+      "total": 28,
+      "win_pct": 75.0,
+      "roi": 10.2,
+      "profit": 286.55
     },
     "overall_30d": {
-      "wins": 40,
+      "wins": 42,
       "losses": 21,
-      "total": 61,
-      "win_pct": 65.6,
-      "roi": -3.9,
-      "profit": -237.6
+      "total": 63,
+      "win_pct": 66.7,
+      "roi": -1.7,
+      "profit": -105.12
     }
   }
 }
