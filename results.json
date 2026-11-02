@@ -1624,9 +1624,11 @@
       "win_probability": 69.1,
       "commence_time": "2026-11-01T20:40:00Z",
       "date": "2026-11-01T05:13:58.836347+00:00",
-      "graded": false,
-      "result": null,
-      "profit": null
+      "graded": true,
+      "result": "WIN",
+      "profit": 38.76,
+      "home_score": 97,
+      "away_score": 108
     },
     {
       "game": "Brooklyn Nets @ Indiana Pacers",
@@ -1638,9 +1640,11 @@
       "win_probability": 60.9,
       "commence_time": "2026-11-01T22:10:00Z",
       "date": "2026-11-01T05:13:58.836347+00:00",
-      "graded": false,
-      "result": null,
-      "profit": null
+      "graded": true,
+      "result": "LOSS",
+      "profit": -100,
+      "home_score": 90,
+      "away_score": 98
     },
     {
       "game": "Los Angeles Clippers @ Golden State Warriors",
@@ -1669,6 +1673,146 @@
       "graded": false,
       "result": null,
       "profit": null
+    },
+    {
+      "game": "Oklahoma City Thunder @ Cleveland Cavaliers",
+      "pick": "Cleveland Cavaliers",
+      "pick_abbr": "CLE",
+      "moneyline": "-180",
+      "moneyline_raw": -180,
+      "confidence": "MEDIUM",
+      "win_probability": 61.6,
+      "commence_time": "2026-11-03T00:10:00Z",
+      "date": "2026-11-02T01:18:45.982021+00:00",
+      "graded": false,
+      "result": null,
+      "profit": null
+    },
+    {
+      "game": "Brooklyn Nets @ New York Knicks",
+      "pick": "New York Knicks",
+      "pick_abbr": "NYK",
+      "moneyline": "-850",
+      "moneyline_raw": -850,
+      "confidence": "HIGH",
+      "win_probability": 85.8,
+      "commence_time": "2026-11-03T00:40:00Z",
+      "date": "2026-11-02T01:18:45.982021+00:00",
+      "graded": false,
+      "result": null,
+      "profit": null
+    },
+    {
+      "game": "Detroit Pistons @ Charlotte Hornets",
+      "pick": "Detroit Pistons",
+      "pick_abbr": "DET",
+      "moneyline": "-175",
+      "moneyline_raw": -175,
+      "confidence": "MEDIUM",
+      "win_probability": 60.9,
+      "commence_time": "2026-11-03T00:40:00Z",
+      "date": "2026-11-02T01:18:45.982021+00:00",
+      "graded": false,
+      "result": null,
+      "profit": null
+    },
+    {
+      "game": "Chicago Bulls @ Philadelphia 76ers",
+      "pick": "Philadelphia 76ers",
+      "pick_abbr": "PHI",
+      "moneyline": "-650",
+      "moneyline_raw": -650,
+      "confidence": "HIGH",
+      "win_probability": 83.2,
+      "commence_time": "2026-11-03T00:40:00Z",
+      "date": "2026-11-02T01:18:45.982021+00:00",
+      "graded": false,
+      "result": null,
+      "profit": null
+    },
+    {
+      "game": "Washington Wizards @ Orlando Magic",
+      "pick": "Orlando Magic",
+      "pick_abbr": "ORL",
+      "moneyline": "-120",
+      "moneyline_raw": -120,
+      "confidence": "LOW",
+      "win_probability": 52.2,
+      "commence_time": "2026-11-03T00:40:00Z",
+      "date": "2026-11-02T01:18:45.982021+00:00",
+      "graded": false,
+      "result": null,
+      "profit": null
+    },
+    {
+      "game": "New Orleans Pelicans @ Memphis Grizzlies",
+      "pick": "Memphis Grizzlies",
+      "pick_abbr": "MEM",
+      "moneyline": "-225",
+      "moneyline_raw": -225,
+      "confidence": "MEDIUM",
+      "win_probability": 66.4,
+      "commence_time": "2026-11-03T01:10:00Z",
+      "date": "2026-11-02T01:18:45.982021+00:00",
+      "graded": false,
+      "result": null,
+      "profit": null
+    },
+    {
+      "game": "Milwaukee Bucks @ Minnesota Timberwolves",
+      "pick": "Minnesota Timberwolves",
+      "pick_abbr": "MIN",
+      "moneyline": "-520",
+      "moneyline_raw": -520,
+      "confidence": "HIGH",
+      "win_probability": 80.4,
+      "commence_time": "2026-11-03T01:10:00Z",
+      "date": "2026-11-02T01:18:45.982021+00:00",
+      "graded": false,
+      "result": null,
+      "profit": null
+    },
+    {
+      "game": "Boston Celtics @ Houston Rockets",
+      "pick": "Houston Rockets",
+      "pick_abbr": "HOU",
+      "moneyline": "-192",
+      "moneyline_raw": -192,
+      "confidence": "MEDIUM",
+      "win_probability": 63.1,
+      "commence_time": "2026-11-03T01:40:00Z",
+      "date": "2026-11-02T01:18:45.982021+00:00",
+      "graded": false,
+      "result": null,
+      "profit": null
+    },
+    {
+      "game": "Utah Jazz @ San Antonio Spurs",
+      "pick": "San Antonio Spurs",
+      "pick_abbr": "SAS",
+      "moneyline": "-1000",
+      "moneyline_raw": -1000,
+      "confidence": "HIGH",
+      "win_probability": 87.2,
+      "commence_time": "2026-11-03T01:40:00Z",
+      "date": "2026-11-02T01:18:45.982021+00:00",
+      "graded": false,
+      "result": null,
+      "profit": null
+    },
+    {
+      "game": "Portland Trail Blazers @ Denver Nuggets",
+      "pick": "Denver Nuggets",
+      "pick_abbr": "DEN",
+      "moneyline": "-170",
+      "moneyline_raw": -170,
+      "confidence": "MEDIUM",
+      "win_probability": 60.4,
+      "commence_time": "2026-11-03T02:10:00Z",
+      "date": "2026-11-02T01:18:45.982021+00:00",
+      "graded": false,
+      "result": null,
+      "profit": null
     }
   ],
   "summary": {
@@ -1681,12 +1825,12 @@
       "profit": -286.97
     },
     "MEDIUM": {
-      "wins": 26,
-      "losses": 14,
-      "total": 40,
-      "win_pct": 65.0,
-      "roi": -1.8,
-      "profit": -71.73
+      "wins": 27,
+      "losses": 15,
+      "total": 42,
+      "win_pct": 64.3,
+      "roi": -3.2,
+      "profit": -132.97
     },
     "HIGH": {
       "wins": 18,
@@ -1698,20 +1842,20 @@
     },
     "overall_7d": {
       "wins": 22,
-      "losses": 10,
-      "total": 32,
-      "win_pct": 68.8,
-      "roi": 0.8,
-      "profit": 24.35
+      "losses": 11,
+      "total": 33,
+      "win_pct": 66.7,
+      "roi": -3.3,
+      "profit": -107.31
     },
     "overall_30d": {
-      "wins": 39,
-      "losses": 20,
-      "total": 59,
-      "win_pct": 66.1,
-      "roi": -3.0,
-      "profit": -176.36
+      "wins": 40,
+      "losses": 21,
+      "total": 61,
+      "win_pct": 65.6,
+      "roi": -3.9,
+      "profit": -237.6
     }
   },
-  "last_graded": "2026-11-01T05:13:12.489483+00:00"
+  "last_graded": "2026-11-02T01:17:56.444722+00:00"
 }
