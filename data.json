@@ -1,354 +1,63 @@
 {
-  "last_updated": "November 02, 2026 at 08:38 PM UTC",
-  "total_games": 20,
+  "last_updated": "November 03, 2026 at 03:19 AM UTC",
+  "total_games": 15,
   "games": [
-    {
-      "game": "Oklahoma City Thunder @ Cleveland Cavaliers",
-      "home_team": "Cleveland Cavaliers",
-      "away_team": "Oklahoma City Thunder",
-      "home_abbr": "CLE",
-      "away_abbr": "OKC",
-      "home_ml": "-179",
-      "away_ml": "+150",
-      "home_ml_raw": -179,
-      "away_ml_raw": 150,
-      "home_prob": 61.6,
-      "away_prob": 38.4,
-      "spread": "CLE -3.5",
-      "favorite": "Cleveland Cavaliers",
-      "pick": "Cleveland Cavaliers",
-      "pick_abbr": "CLE",
-      "moneyline": "-179",
-      "win_probability": 61.6,
-      "confidence": "MEDIUM",
-      "confidence_stars": "\u2605\u2605\u2606",
-      "commence_time": "2026-11-03T00:10:00Z",
-      "line_movement": {
-        "home": {
-          "direction": "longer",
-          "points_moved": 1,
-          "steam": false,
-          "label": "\ud83d\udd34 -179 \u2190 -180",
-          "old_ml": "-180",
-          "new_ml": "-179"
-        },
-        "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
-          "old_ml": "+150",
-          "new_ml": "+150"
-        },
-        "pick": {
-          "direction": "longer",
-          "points_moved": 1,
-          "steam": false,
-          "label": "\ud83d\udd34 -179 \u2190 -180",
-          "old_ml": "-180",
-          "new_ml": "-179"
-        },
-        "snapshot_time": "November 02, 2026 at 01:39 PM UTC"
-      },
-      "fatigue": {
-        "home": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "Oct 31",
-          "days_rest": 2,
-          "games_last_4d": 2,
-          "travel_miles": 336,
-          "travel_desc": "336 mi road trip",
-          "source": "ESPN Scoreboard API"
-        },
-        "away": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "Oct 31",
-          "days_rest": 2,
-          "games_last_4d": 1,
-          "travel_miles": 414,
-          "travel_desc": "414 mi road trip",
-          "source": "ESPN Scoreboard API"
-        }
-      },
-      "edge_factors": [
-        "\ud83d\udcca 23.2pt probability edge"
-      ],
-      "injury_notes": "No key injuries.",
-      "sharp": {
-        "away_t": null,
-        "home_t": null,
-        "source": null,
-        "sharp_signal": null,
-        "sharp_label": "Pending \u2014 check closer to tip-off",
-        "rlm": false
-      },
-      "form": {
-        "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        },
-        "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        }
-      },
-      "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
-      },
-      "briefing": {
-        "trend": "Cleveland Cavaliers hold a 61.6% edge.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line moved -180\u2192-179 (1pts). Pending \u2014 check closer to tip-off",
-        "injury_notes": "No key injuries."
-      },
-      "live": {
-        "status": "pre",
-        "status_detail": "Upcoming",
-        "period": 0,
-        "clock": "",
-        "home_score": 0,
-        "away_score": 0,
-        "spread_alert": null
-      },
-      "news": [
-        {
-          "title": "Celtics Free-Throw Woes Vanish As Tatum Leads Top-5 Surge",
-          "source": "Gamedaynewengland.com",
-          "link": "https://gamedaynewengland.com/celtics-free-throw-woes-vanish-as-tatum-leads-top-5-surge/",
-          "published": "2026-11-01T20:37:04Z"
-        },
-        {
-          "title": "Why Charles Lee Needs to Play Hannes Steinbach Now",
-          "source": "Yahoo Entertainment",
-          "link": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_2a5eeded-c673-4453-9d22-be3221b481b3",
-          "published": "2026-11-01T20:32:42Z"
-        },
-        {
-          "title": "Betr Promo Code YAHOOBONUS: Up to $200 in No Sweat Tokens Plus a Free Pick for Eagles vs. Commanders",
-          "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/betting/promos/article/betr-promo-code-yahoobonus-up-to-200-in-no-sweat-tokens-plus-a-free-pick-for-eagles-vs-commanders-203000244.html",
-          "published": "2026-11-01T20:30:00Z"
-        }
-      ]
-    },
-    {
-      "game": "Atlanta Hawks @ Indiana Pacers",
-      "home_team": "Indiana Pacers",
-      "away_team": "Atlanta Hawks",
-      "home_abbr": "IND",
-      "away_abbr": "ATL",
-      "home_ml": "+331",
-      "away_ml": "-423",
-      "home_ml_raw": 331,
-      "away_ml_raw": -423,
-      "home_prob": 22.3,
-      "away_prob": 77.7,
-      "spread": "IND +10.5",
-      "favorite": "Atlanta Hawks",
-      "pick": "Atlanta Hawks",
-      "pick_abbr": "ATL",
-      "moneyline": "-423",
-      "win_probability": 77.7,
-      "confidence": "HIGH",
-      "confidence_stars": "\u2605\u2605\u2605",
-      "commence_time": "2026-11-03T00:40:00Z",
-      "line_movement": {
-        "home": {
-          "direction": "longer",
-          "points_moved": 167,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM +331 \u2190 +164",
-          "old_ml": "+164",
-          "new_ml": "+331"
-        },
-        "away": {
-          "direction": "shorter",
-          "points_moved": 225,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -423 \u2190 -198",
-          "old_ml": "-198",
-          "new_ml": "-423"
-        },
-        "pick": {
-          "direction": "shorter",
-          "points_moved": 225,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -423 \u2190 -198",
-          "old_ml": "-198",
-          "new_ml": "-423"
-        },
-        "snapshot_time": "November 02, 2026 at 01:39 PM UTC"
-      },
-      "fatigue": {
-        "home": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
-          "last_game": "Nov 01",
-          "days_rest": 1,
-          "games_last_4d": 2,
-          "travel_miles": 1026,
-          "travel_desc": "1,026 mi road trip",
-          "source": "ESPN Scoreboard API"
-        },
-        "away": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "Oct 31",
-          "days_rest": 2,
-          "games_last_4d": 2,
-          "travel_miles": 425,
-          "travel_desc": "425 mi road trip",
-          "source": "ESPN Scoreboard API"
-        }
-      },
-      "edge_factors": [
-        "\ud83d\udd25 Sharp steam detected",
-        "\ud83d\udca4 IND fatigued (B2B) \u2014 source: ESPN"
-      ],
-      "injury_notes": "No key injuries.",
-      "sharp": {
-        "away_t": null,
-        "home_t": null,
-        "source": null,
-        "sharp_signal": null,
-        "sharp_label": "Pending \u2014 check closer to tip-off",
-        "rlm": false
-      },
-      "form": {
-        "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        },
-        "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        }
-      },
-      "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
-      },
-      "briefing": {
-        "trend": "IND on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -198 to -423 (225pt move) \u2014 heavy professional action on Atlanta Hawks.",
-        "injury_notes": "No key injuries."
-      },
-      "live": {
-        "status": "pre",
-        "status_detail": "Upcoming",
-        "period": 0,
-        "clock": "",
-        "home_score": 0,
-        "away_score": 0,
-        "spread_alert": null
-      },
-      "news": [
-        {
-          "title": "Celtics Free-Throw Woes Vanish As Tatum Leads Top-5 Surge",
-          "source": "Gamedaynewengland.com",
-          "link": "https://gamedaynewengland.com/celtics-free-throw-woes-vanish-as-tatum-leads-top-5-surge/",
-          "published": "2026-11-01T20:37:04Z"
-        },
-        {
-          "title": "Why Charles Lee Needs to Play Hannes Steinbach Now",
-          "source": "Yahoo Entertainment",
-          "link": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_2a5eeded-c673-4453-9d22-be3221b481b3",
-          "published": "2026-11-01T20:32:42Z"
-        },
-        {
-          "title": "Betr Promo Code YAHOOBONUS: Up to $200 in No Sweat Tokens Plus a Free Pick for Eagles vs. Commanders",
-          "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/betting/promos/article/betr-promo-code-yahoobonus-up-to-200-in-no-sweat-tokens-plus-a-free-pick-for-eagles-vs-commanders-203000244.html",
-          "published": "2026-11-01T20:30:00Z"
-        }
-      ]
-    },
     {
       "game": "Brooklyn Nets @ New York Knicks",
       "home_team": "New York Knicks",
       "away_team": "Brooklyn Nets",
       "home_abbr": "NYK",
       "away_abbr": "BKN",
-      "home_ml": "-1040",
-      "away_ml": "+670",
-      "home_ml_raw": -1040,
-      "away_ml_raw": 670,
-      "home_prob": 87.5,
-      "away_prob": 12.5,
-      "spread": "NYK -14.5",
+      "home_ml": "N/A",
+      "away_ml": "N/A",
+      "home_ml_raw": null,
+      "away_ml_raw": null,
+      "home_prob": 50.0,
+      "away_prob": 50.0,
+      "spread": "NYK -12.5",
       "favorite": "New York Knicks",
       "pick": "New York Knicks",
       "pick_abbr": "NYK",
-      "moneyline": "-1040",
-      "win_probability": 87.5,
-      "confidence": "HIGH",
-      "confidence_stars": "\u2605\u2605\u2605",
-      "commence_time": "2026-11-03T00:40:00Z",
+      "moneyline": "N/A",
+      "win_probability": 50.0,
+      "confidence": "LOW",
+      "confidence_stars": "\u2605\u2606\u2606",
+      "commence_time": "2026-11-03T00:41:21Z",
       "line_movement": {
         "home": {
-          "direction": "shorter",
-          "points_moved": 90,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -1040 \u2190 -950",
-          "old_ml": "-950",
-          "new_ml": "-1040"
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
         },
         "away": {
-          "direction": "longer",
-          "points_moved": 45,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM +670 \u2190 +625",
-          "old_ml": "+625",
-          "new_ml": "+670"
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
         },
         "pick": {
-          "direction": "shorter",
-          "points_moved": 90,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -1040 \u2190 -950",
-          "old_ml": "-950",
-          "new_ml": "-1040"
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
         },
-        "snapshot_time": "November 02, 2026 at 01:39 PM UTC"
+        "snapshot_time": "November 02, 2026 at 08:38 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "RESTED",
-          "label": "2 days rest \u2705",
-          "battery": 88,
-          "last_game": "Oct 30",
-          "days_rest": 3,
-          "games_last_4d": 1,
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Nov 02",
+          "days_rest": 1,
+          "games_last_4d": 2,
           "travel_miles": 85,
           "travel_desc": "85 mi road trip",
           "source": "ESPN Scoreboard API"
@@ -357,16 +66,15 @@
           "status": "B2B",
           "label": "Back-to-Back \u26a0\ufe0f",
           "battery": 20,
-          "last_game": "Nov 01",
+          "last_game": "Nov 02",
           "days_rest": 1,
-          "games_last_4d": 2,
-          "travel_miles": 645,
-          "travel_desc": "645 mi road trip",
+          "games_last_4d": 3,
+          "travel_miles": 5,
+          "travel_desc": "5 mi road trip",
           "source": "ESPN Scoreboard API"
         }
       },
       "edge_factors": [
-        "\ud83d\udd25 Sharp steam detected",
         "\ud83d\udca4 BKN fatigued (B2B) \u2014 source: ESPN"
       ],
       "injury_notes": "No key injuries.",
@@ -404,9 +112,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "BKN on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "trend": "NYK on Back-to-Back \u26a0\ufe0f per ESPN schedule data. BKN on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -950 to -1040 (90pt move) \u2014 heavy professional action on New York Knicks.",
+        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -420,747 +128,22 @@
       },
       "news": [
         {
-          "title": "Celtics Free-Throw Woes Vanish As Tatum Leads Top-5 Surge",
-          "source": "Gamedaynewengland.com",
-          "link": "https://gamedaynewengland.com/celtics-free-throw-woes-vanish-as-tatum-leads-top-5-surge/",
-          "published": "2026-11-01T20:37:04Z"
+          "title": "Lakers\u2019 Little-Used Big Man Seeking \u2018Physicality\u2019",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/los-angeles-lakers/big-man-seeking-physicality/",
+          "published": "2026-11-02T03:09:53Z"
         },
         {
-          "title": "Why Charles Lee Needs to Play Hannes Steinbach Now",
-          "source": "Yahoo Entertainment",
-          "link": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_2a5eeded-c673-4453-9d22-be3221b481b3",
-          "published": "2026-11-01T20:32:42Z"
+          "title": "Lauri Markkanen Emerges As Warriors\u2019 Potential Trade Target",
+          "source": "Fadeaway World",
+          "link": "https://fadeawayworld.net/nba-trade-rumors/golden-state-warriors/lauri-markkanen-emerges-as-warriors-potential-trade-target",
+          "published": "2026-11-02T03:09:49Z"
         },
         {
-          "title": "Betr Promo Code YAHOOBONUS: Up to $200 in No Sweat Tokens Plus a Free Pick for Eagles vs. Commanders",
-          "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/betting/promos/article/betr-promo-code-yahoobonus-up-to-200-in-no-sweat-tokens-plus-a-free-pick-for-eagles-vs-commanders-203000244.html",
-          "published": "2026-11-01T20:30:00Z"
-        }
-      ]
-    },
-    {
-      "game": "Detroit Pistons @ Charlotte Hornets",
-      "home_team": "Charlotte Hornets",
-      "away_team": "Detroit Pistons",
-      "home_abbr": "CHA",
-      "away_abbr": "DET",
-      "home_ml": "+196",
-      "away_ml": "-237",
-      "home_ml_raw": 196,
-      "away_ml_raw": -237,
-      "home_prob": 32.5,
-      "away_prob": 67.5,
-      "spread": "CHA +6.5",
-      "favorite": "Detroit Pistons",
-      "pick": "Detroit Pistons",
-      "pick_abbr": "DET",
-      "moneyline": "-237",
-      "win_probability": 67.5,
-      "confidence": "MEDIUM",
-      "confidence_stars": "\u2605\u2605\u2606",
-      "commence_time": "2026-11-03T00:40:00Z",
-      "line_movement": {
-        "home": {
-          "direction": "longer",
-          "points_moved": 42,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM +196 \u2190 +154",
-          "old_ml": "+154",
-          "new_ml": "+196"
-        },
-        "away": {
-          "direction": "shorter",
-          "points_moved": 52,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -237 \u2190 -185",
-          "old_ml": "-185",
-          "new_ml": "-237"
-        },
-        "pick": {
-          "direction": "shorter",
-          "points_moved": 52,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -237 \u2190 -185",
-          "old_ml": "-185",
-          "new_ml": "-237"
-        },
-        "snapshot_time": "November 02, 2026 at 01:39 PM UTC"
-      },
-      "fatigue": {
-        "home": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "Oct 31",
-          "days_rest": 2,
-          "games_last_4d": 2,
-          "travel_miles": 330,
-          "travel_desc": "330 mi road trip",
-          "source": "ESPN Scoreboard API"
-        },
-        "away": {
-          "status": "RESTED",
-          "label": "2 days rest \u2705",
-          "battery": 88,
-          "last_game": "Oct 30",
-          "days_rest": 3,
-          "games_last_4d": 1,
-          "travel_miles": 483,
-          "travel_desc": "483 mi road trip",
-          "source": "ESPN Scoreboard API"
-        }
-      },
-      "edge_factors": [
-        "\ud83d\udd25 Sharp steam detected"
-      ],
-      "injury_notes": "No key injuries.",
-      "sharp": {
-        "away_t": null,
-        "home_t": null,
-        "source": null,
-        "sharp_signal": null,
-        "sharp_label": "Pending \u2014 check closer to tip-off",
-        "rlm": false
-      },
-      "form": {
-        "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        },
-        "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        }
-      },
-      "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
-      },
-      "briefing": {
-        "trend": "Detroit Pistons hold a 67.5% edge.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -185 to -237 (52pt move) \u2014 heavy professional action on Detroit Pistons.",
-        "injury_notes": "No key injuries."
-      },
-      "live": {
-        "status": "pre",
-        "status_detail": "Upcoming",
-        "period": 0,
-        "clock": "",
-        "home_score": 0,
-        "away_score": 0,
-        "spread_alert": null
-      },
-      "news": [
-        {
-          "title": "Celtics Free-Throw Woes Vanish As Tatum Leads Top-5 Surge",
-          "source": "Gamedaynewengland.com",
-          "link": "https://gamedaynewengland.com/celtics-free-throw-woes-vanish-as-tatum-leads-top-5-surge/",
-          "published": "2026-11-01T20:37:04Z"
-        },
-        {
-          "title": "Why Charles Lee Needs to Play Hannes Steinbach Now",
-          "source": "Yahoo Entertainment",
-          "link": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_2a5eeded-c673-4453-9d22-be3221b481b3",
-          "published": "2026-11-01T20:32:42Z"
-        },
-        {
-          "title": "Betr Promo Code YAHOOBONUS: Up to $200 in No Sweat Tokens Plus a Free Pick for Eagles vs. Commanders",
-          "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/betting/promos/article/betr-promo-code-yahoobonus-up-to-200-in-no-sweat-tokens-plus-a-free-pick-for-eagles-vs-commanders-203000244.html",
-          "published": "2026-11-01T20:30:00Z"
-        }
-      ]
-    },
-    {
-      "game": "Chicago Bulls @ Philadelphia 76ers",
-      "home_team": "Philadelphia 76ers",
-      "away_team": "Chicago Bulls",
-      "home_abbr": "PHI",
-      "away_abbr": "CHI",
-      "home_ml": "-522",
-      "away_ml": "+396",
-      "home_ml_raw": -522,
-      "away_ml_raw": 396,
-      "home_prob": 80.6,
-      "away_prob": 19.4,
-      "spread": "PHI -10.5",
-      "favorite": "Philadelphia 76ers",
-      "pick": "Philadelphia 76ers",
-      "pick_abbr": "PHI",
-      "moneyline": "-522",
-      "win_probability": 80.6,
-      "confidence": "HIGH",
-      "confidence_stars": "\u2605\u2605\u2605",
-      "commence_time": "2026-11-03T00:40:00Z",
-      "line_movement": {
-        "home": {
-          "direction": "longer",
-          "points_moved": 53,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -522 \u2190 -575",
-          "old_ml": "-575",
-          "new_ml": "-522"
-        },
-        "away": {
-          "direction": "shorter",
-          "points_moved": 29,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM +396 \u2190 +425",
-          "old_ml": "+425",
-          "new_ml": "+396"
-        },
-        "pick": {
-          "direction": "longer",
-          "points_moved": 53,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -522 \u2190 -575",
-          "old_ml": "-575",
-          "new_ml": "-522"
-        },
-        "snapshot_time": "November 02, 2026 at 01:39 PM UTC"
-      },
-      "fatigue": {
-        "home": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "Oct 31",
-          "days_rest": 2,
-          "games_last_4d": 2,
-          "travel_miles": 448,
-          "travel_desc": "448 mi road trip",
-          "source": "ESPN Scoreboard API"
-        },
-        "away": {
-          "status": "RESTED",
-          "label": "2 days rest \u2705",
-          "battery": 88,
-          "last_game": "Oct 30",
-          "days_rest": 3,
-          "games_last_4d": 1,
-          "travel_miles": 851,
-          "travel_desc": "851 mi road trip",
-          "source": "ESPN Scoreboard API"
-        }
-      },
-      "edge_factors": [
-        "\ud83d\udd25 Sharp steam detected"
-      ],
-      "injury_notes": "No key injuries.",
-      "sharp": {
-        "away_t": null,
-        "home_t": null,
-        "source": null,
-        "sharp_signal": null,
-        "sharp_label": "Pending \u2014 check closer to tip-off",
-        "rlm": false
-      },
-      "form": {
-        "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        },
-        "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        }
-      },
-      "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
-      },
-      "briefing": {
-        "trend": "Philadelphia 76ers hold a 80.6% edge.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -575 to -522 (53pt move) \u2014 heavy professional action on Philadelphia 76ers.",
-        "injury_notes": "No key injuries."
-      },
-      "live": {
-        "status": "pre",
-        "status_detail": "Upcoming",
-        "period": 0,
-        "clock": "",
-        "home_score": 0,
-        "away_score": 0,
-        "spread_alert": null
-      },
-      "news": [
-        {
-          "title": "Celtics Free-Throw Woes Vanish As Tatum Leads Top-5 Surge",
-          "source": "Gamedaynewengland.com",
-          "link": "https://gamedaynewengland.com/celtics-free-throw-woes-vanish-as-tatum-leads-top-5-surge/",
-          "published": "2026-11-01T20:37:04Z"
-        },
-        {
-          "title": "Why Charles Lee Needs to Play Hannes Steinbach Now",
-          "source": "Yahoo Entertainment",
-          "link": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_2a5eeded-c673-4453-9d22-be3221b481b3",
-          "published": "2026-11-01T20:32:42Z"
-        },
-        {
-          "title": "Betr Promo Code YAHOOBONUS: Up to $200 in No Sweat Tokens Plus a Free Pick for Eagles vs. Commanders",
-          "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/betting/promos/article/betr-promo-code-yahoobonus-up-to-200-in-no-sweat-tokens-plus-a-free-pick-for-eagles-vs-commanders-203000244.html",
-          "published": "2026-11-01T20:30:00Z"
-        }
-      ]
-    },
-    {
-      "game": "Washington Wizards @ Orlando Magic",
-      "home_team": "Orlando Magic",
-      "away_team": "Washington Wizards",
-      "home_abbr": "ORL",
-      "away_abbr": "WAS",
-      "home_ml": "-155",
-      "away_ml": "+131",
-      "home_ml_raw": -155,
-      "away_ml_raw": 131,
-      "home_prob": 58.4,
-      "away_prob": 41.6,
-      "spread": "ORL -2.5",
-      "favorite": "Orlando Magic",
-      "pick": "Orlando Magic",
-      "pick_abbr": "ORL",
-      "moneyline": "-155",
-      "win_probability": 58.4,
-      "confidence": "MEDIUM",
-      "confidence_stars": "\u2605\u2605\u2606",
-      "commence_time": "2026-11-03T00:40:00Z",
-      "line_movement": {
-        "home": {
-          "direction": "shorter",
-          "points_moved": 13,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -155 \u2190 -142",
-          "old_ml": "-142",
-          "new_ml": "-155"
-        },
-        "away": {
-          "direction": "longer",
-          "points_moved": 11,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM +131 \u2190 +120",
-          "old_ml": "+120",
-          "new_ml": "+131"
-        },
-        "pick": {
-          "direction": "shorter",
-          "points_moved": 13,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -155 \u2190 -142",
-          "old_ml": "-142",
-          "new_ml": "-155"
-        },
-        "snapshot_time": "November 02, 2026 at 01:39 PM UTC"
-      },
-      "fatigue": {
-        "home": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
-          "last_game": "Nov 01",
-          "days_rest": 1,
-          "games_last_4d": 2,
-          "travel_miles": 1049,
-          "travel_desc": "1,049 mi road trip",
-          "source": "ESPN Scoreboard API"
-        },
-        "away": {
-          "status": "RESTED",
-          "label": "2 days rest \u2705",
-          "battery": 88,
-          "last_game": "Oct 30",
-          "days_rest": 3,
-          "games_last_4d": 1,
-          "travel_miles": 0,
-          "travel_desc": "",
-          "source": "ESPN Scoreboard API"
-        }
-      },
-      "edge_factors": [
-        "\ud83d\udd25 Sharp steam detected"
-      ],
-      "injury_notes": "No key injuries.",
-      "sharp": {
-        "away_t": null,
-        "home_t": null,
-        "source": null,
-        "sharp_signal": null,
-        "sharp_label": "Pending \u2014 check closer to tip-off",
-        "rlm": false
-      },
-      "form": {
-        "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        },
-        "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        }
-      },
-      "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
-      },
-      "briefing": {
-        "trend": "ORL on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -142 to -155 (13pt move) \u2014 heavy professional action on Orlando Magic.",
-        "injury_notes": "No key injuries."
-      },
-      "live": {
-        "status": "pre",
-        "status_detail": "Upcoming",
-        "period": 0,
-        "clock": "",
-        "home_score": 0,
-        "away_score": 0,
-        "spread_alert": null
-      },
-      "news": [
-        {
-          "title": "Celtics Free-Throw Woes Vanish As Tatum Leads Top-5 Surge",
-          "source": "Gamedaynewengland.com",
-          "link": "https://gamedaynewengland.com/celtics-free-throw-woes-vanish-as-tatum-leads-top-5-surge/",
-          "published": "2026-11-01T20:37:04Z"
-        },
-        {
-          "title": "Why Charles Lee Needs to Play Hannes Steinbach Now",
-          "source": "Yahoo Entertainment",
-          "link": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_2a5eeded-c673-4453-9d22-be3221b481b3",
-          "published": "2026-11-01T20:32:42Z"
-        },
-        {
-          "title": "Betr Promo Code YAHOOBONUS: Up to $200 in No Sweat Tokens Plus a Free Pick for Eagles vs. Commanders",
-          "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/betting/promos/article/betr-promo-code-yahoobonus-up-to-200-in-no-sweat-tokens-plus-a-free-pick-for-eagles-vs-commanders-203000244.html",
-          "published": "2026-11-01T20:30:00Z"
-        }
-      ]
-    },
-    {
-      "game": "Sacramento Kings @ Dallas Mavericks",
-      "home_team": "Dallas Mavericks",
-      "away_team": "Sacramento Kings",
-      "home_abbr": "DAL",
-      "away_abbr": "SAC",
-      "home_ml": "-344",
-      "away_ml": "+276",
-      "home_ml_raw": -344,
-      "away_ml_raw": 276,
-      "home_prob": 74.4,
-      "away_prob": 25.6,
-      "spread": "DAL -8.5",
-      "favorite": "Dallas Mavericks",
-      "pick": "Dallas Mavericks",
-      "pick_abbr": "DAL",
-      "moneyline": "-344",
-      "win_probability": 74.4,
-      "confidence": "HIGH",
-      "confidence_stars": "\u2605\u2605\u2605",
-      "commence_time": "2026-11-03T01:10:00Z",
-      "line_movement": {
-        "home": {
-          "direction": "longer",
-          "points_moved": 51,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -344 \u2190 -395",
-          "old_ml": "-395",
-          "new_ml": "-344"
-        },
-        "away": {
-          "direction": "shorter",
-          "points_moved": 34,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM +276 \u2190 +310",
-          "old_ml": "+310",
-          "new_ml": "+276"
-        },
-        "pick": {
-          "direction": "longer",
-          "points_moved": 51,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -344 \u2190 -395",
-          "old_ml": "-395",
-          "new_ml": "-344"
-        },
-        "snapshot_time": "November 02, 2026 at 01:39 PM UTC"
-      },
-      "fatigue": {
-        "home": {
-          "status": "RESTED",
-          "label": "2 days rest \u2705",
-          "battery": 88,
-          "last_game": "Oct 30",
-          "days_rest": 3,
-          "games_last_4d": 1,
-          "travel_miles": 0,
-          "travel_desc": "",
-          "source": "ESPN Scoreboard API"
-        },
-        "away": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "Oct 31",
-          "days_rest": 2,
-          "games_last_4d": 2,
-          "travel_miles": 1746,
-          "travel_desc": "1,746 mi road trip",
-          "source": "ESPN Scoreboard API"
-        }
-      },
-      "edge_factors": [
-        "\ud83d\udd25 Sharp steam detected"
-      ],
-      "injury_notes": "No key injuries.",
-      "sharp": {
-        "away_t": null,
-        "home_t": null,
-        "source": null,
-        "sharp_signal": null,
-        "sharp_label": "Pending \u2014 check closer to tip-off",
-        "rlm": false
-      },
-      "form": {
-        "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        },
-        "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        }
-      },
-      "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
-      },
-      "briefing": {
-        "trend": "Dallas Mavericks hold a 74.4% edge.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -395 to -344 (51pt move) \u2014 heavy professional action on Dallas Mavericks.",
-        "injury_notes": "No key injuries."
-      },
-      "live": {
-        "status": "pre",
-        "status_detail": "Upcoming",
-        "period": 0,
-        "clock": "",
-        "home_score": 0,
-        "away_score": 0,
-        "spread_alert": null
-      },
-      "news": [
-        {
-          "title": "Celtics Free-Throw Woes Vanish As Tatum Leads Top-5 Surge",
-          "source": "Gamedaynewengland.com",
-          "link": "https://gamedaynewengland.com/celtics-free-throw-woes-vanish-as-tatum-leads-top-5-surge/",
-          "published": "2026-11-01T20:37:04Z"
-        },
-        {
-          "title": "Why Charles Lee Needs to Play Hannes Steinbach Now",
-          "source": "Yahoo Entertainment",
-          "link": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_2a5eeded-c673-4453-9d22-be3221b481b3",
-          "published": "2026-11-01T20:32:42Z"
-        },
-        {
-          "title": "Betr Promo Code YAHOOBONUS: Up to $200 in No Sweat Tokens Plus a Free Pick for Eagles vs. Commanders",
-          "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/betting/promos/article/betr-promo-code-yahoobonus-up-to-200-in-no-sweat-tokens-plus-a-free-pick-for-eagles-vs-commanders-203000244.html",
-          "published": "2026-11-01T20:30:00Z"
-        }
-      ]
-    },
-    {
-      "game": "New Orleans Pelicans @ Memphis Grizzlies",
-      "home_team": "Memphis Grizzlies",
-      "away_team": "New Orleans Pelicans",
-      "home_abbr": "MEM",
-      "away_abbr": "NOP",
-      "home_ml": "-197",
-      "away_ml": "+164",
-      "home_ml_raw": -197,
-      "away_ml_raw": 164,
-      "home_prob": 63.7,
-      "away_prob": 36.3,
-      "spread": "MEM -5.5",
-      "favorite": "Memphis Grizzlies",
-      "pick": "Memphis Grizzlies",
-      "pick_abbr": "MEM",
-      "moneyline": "-197",
-      "win_probability": 63.7,
-      "confidence": "MEDIUM",
-      "confidence_stars": "\u2605\u2605\u2606",
-      "commence_time": "2026-11-03T01:10:00Z",
-      "line_movement": {
-        "home": {
-          "direction": "longer",
-          "points_moved": 21,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -197 \u2190 -218",
-          "old_ml": "-218",
-          "new_ml": "-197"
-        },
-        "away": {
-          "direction": "shorter",
-          "points_moved": 16,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM +164 \u2190 +180",
-          "old_ml": "+180",
-          "new_ml": "+164"
-        },
-        "pick": {
-          "direction": "longer",
-          "points_moved": 21,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -197 \u2190 -218",
-          "old_ml": "-218",
-          "new_ml": "-197"
-        },
-        "snapshot_time": "November 02, 2026 at 01:39 PM UTC"
-      },
-      "fatigue": {
-        "home": {
-          "status": "TRAVEL",
-          "label": "Cross-country travel \ud83d\udfe3",
-          "battery": 50,
-          "last_game": "Oct 31",
-          "days_rest": 2,
-          "games_last_4d": 2,
-          "travel_miles": 1846,
-          "travel_desc": "1,846 mi road trip",
-          "source": "ESPN Scoreboard API"
-        },
-        "away": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "Oct 31",
-          "days_rest": 2,
-          "games_last_4d": 2,
-          "travel_miles": 0,
-          "travel_desc": "",
-          "source": "ESPN Scoreboard API"
-        }
-      },
-      "edge_factors": [
-        "\ud83d\udd25 Sharp steam detected"
-      ],
-      "injury_notes": "No key injuries.",
-      "sharp": {
-        "away_t": null,
-        "home_t": null,
-        "source": null,
-        "sharp_signal": null,
-        "sharp_label": "Pending \u2014 check closer to tip-off",
-        "rlm": false
-      },
-      "form": {
-        "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        },
-        "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        }
-      },
-      "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
-      },
-      "briefing": {
-        "trend": "Memphis Grizzlies hold a 63.7% edge.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -218 to -197 (21pt move) \u2014 heavy professional action on Memphis Grizzlies.",
-        "injury_notes": "No key injuries."
-      },
-      "live": {
-        "status": "pre",
-        "status_detail": "Upcoming",
-        "period": 0,
-        "clock": "",
-        "home_score": 0,
-        "away_score": 0,
-        "spread_alert": null
-      },
-      "news": [
-        {
-          "title": "Celtics Free-Throw Woes Vanish As Tatum Leads Top-5 Surge",
-          "source": "Gamedaynewengland.com",
-          "link": "https://gamedaynewengland.com/celtics-free-throw-woes-vanish-as-tatum-leads-top-5-surge/",
-          "published": "2026-11-01T20:37:04Z"
-        },
-        {
-          "title": "Why Charles Lee Needs to Play Hannes Steinbach Now",
-          "source": "Yahoo Entertainment",
-          "link": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_2a5eeded-c673-4453-9d22-be3221b481b3",
-          "published": "2026-11-01T20:32:42Z"
-        },
-        {
-          "title": "Betr Promo Code YAHOOBONUS: Up to $200 in No Sweat Tokens Plus a Free Pick for Eagles vs. Commanders",
-          "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/betting/promos/article/betr-promo-code-yahoobonus-up-to-200-in-no-sweat-tokens-plus-a-free-pick-for-eagles-vs-commanders-203000244.html",
-          "published": "2026-11-01T20:30:00Z"
+          "title": "Coby White Gets Positive Injury Update for Hornets",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/charlotte-hornets/coby-white-positive-injury-update-hornets/",
+          "published": "2026-11-02T03:05:13Z"
         }
       ]
     },
@@ -1170,74 +153,74 @@
       "away_team": "Milwaukee Bucks",
       "home_abbr": "MIN",
       "away_abbr": "MIL",
-      "home_ml": "-423",
-      "away_ml": "+331",
-      "home_ml_raw": -423,
-      "away_ml_raw": 331,
-      "home_prob": 77.7,
-      "away_prob": 22.3,
-      "spread": "MIN -10.5",
+      "home_ml": "N/A",
+      "away_ml": "N/A",
+      "home_ml_raw": null,
+      "away_ml_raw": null,
+      "home_prob": 50.0,
+      "away_prob": 50.0,
+      "spread": "MIN -12.5",
       "favorite": "Minnesota Timberwolves",
       "pick": "Minnesota Timberwolves",
       "pick_abbr": "MIN",
-      "moneyline": "-423",
-      "win_probability": 77.7,
-      "confidence": "HIGH",
-      "confidence_stars": "\u2605\u2605\u2605",
-      "commence_time": "2026-11-03T01:10:00Z",
+      "moneyline": "N/A",
+      "win_probability": 50.0,
+      "confidence": "LOW",
+      "confidence_stars": "\u2605\u2606\u2606",
+      "commence_time": "2026-11-03T01:10:51Z",
       "line_movement": {
         "home": {
-          "direction": "longer",
-          "points_moved": 32,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -423 \u2190 -455",
-          "old_ml": "-455",
-          "new_ml": "-423"
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
         },
         "away": {
-          "direction": "shorter",
-          "points_moved": 19,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM +331 \u2190 +350",
-          "old_ml": "+350",
-          "new_ml": "+331"
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
         },
         "pick": {
-          "direction": "longer",
-          "points_moved": 32,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -423 \u2190 -455",
-          "old_ml": "-455",
-          "new_ml": "-423"
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
         },
-        "snapshot_time": "November 02, 2026 at 01:39 PM UTC"
+        "snapshot_time": "November 02, 2026 at 08:38 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "Oct 31",
-          "days_rest": 2,
-          "games_last_4d": 2,
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Nov 02",
+          "days_rest": 1,
+          "games_last_4d": 3,
           "travel_miles": 1111,
           "travel_desc": "1,111 mi road trip",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "Oct 31",
-          "days_rest": 2,
-          "games_last_4d": 1,
-          "travel_miles": 0,
-          "travel_desc": "",
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Nov 02",
+          "days_rest": 1,
+          "games_last_4d": 2,
+          "travel_miles": 298,
+          "travel_desc": "298 mi road trip",
           "source": "ESPN Scoreboard API"
         }
       },
       "edge_factors": [
-        "\ud83d\udd25 Sharp steam detected"
+        "\ud83d\udca4 MIL fatigued (B2B) \u2014 source: ESPN"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -1274,9 +257,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "Minnesota Timberwolves hold a 77.7% edge.",
+        "trend": "MIN on Back-to-Back \u26a0\ufe0f per ESPN schedule data. MIL on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -455 to -423 (32pt move) \u2014 heavy professional action on Minnesota Timberwolves.",
+        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -1290,22 +273,314 @@
       },
       "news": [
         {
-          "title": "Celtics Free-Throw Woes Vanish As Tatum Leads Top-5 Surge",
-          "source": "Gamedaynewengland.com",
-          "link": "https://gamedaynewengland.com/celtics-free-throw-woes-vanish-as-tatum-leads-top-5-surge/",
-          "published": "2026-11-01T20:37:04Z"
+          "title": "Lakers\u2019 Little-Used Big Man Seeking \u2018Physicality\u2019",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/los-angeles-lakers/big-man-seeking-physicality/",
+          "published": "2026-11-02T03:09:53Z"
         },
         {
-          "title": "Why Charles Lee Needs to Play Hannes Steinbach Now",
-          "source": "Yahoo Entertainment",
-          "link": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_2a5eeded-c673-4453-9d22-be3221b481b3",
-          "published": "2026-11-01T20:32:42Z"
+          "title": "Lauri Markkanen Emerges As Warriors\u2019 Potential Trade Target",
+          "source": "Fadeaway World",
+          "link": "https://fadeawayworld.net/nba-trade-rumors/golden-state-warriors/lauri-markkanen-emerges-as-warriors-potential-trade-target",
+          "published": "2026-11-02T03:09:49Z"
         },
         {
-          "title": "Betr Promo Code YAHOOBONUS: Up to $200 in No Sweat Tokens Plus a Free Pick for Eagles vs. Commanders",
-          "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/betting/promos/article/betr-promo-code-yahoobonus-up-to-200-in-no-sweat-tokens-plus-a-free-pick-for-eagles-vs-commanders-203000244.html",
-          "published": "2026-11-01T20:30:00Z"
+          "title": "Coby White Gets Positive Injury Update for Hornets",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/charlotte-hornets/coby-white-positive-injury-update-hornets/",
+          "published": "2026-11-02T03:05:13Z"
+        }
+      ]
+    },
+    {
+      "game": "Sacramento Kings @ Dallas Mavericks",
+      "home_team": "Dallas Mavericks",
+      "away_team": "Sacramento Kings",
+      "home_abbr": "DAL",
+      "away_abbr": "SAC",
+      "home_ml": "+360",
+      "away_ml": "-525",
+      "home_ml_raw": 360,
+      "away_ml_raw": -525,
+      "home_prob": 20.6,
+      "away_prob": 79.4,
+      "spread": "DAL +5.5",
+      "favorite": "Sacramento Kings",
+      "pick": "Sacramento Kings",
+      "pick_abbr": "SAC",
+      "moneyline": "-525",
+      "win_probability": 79.4,
+      "confidence": "HIGH",
+      "confidence_stars": "\u2605\u2605\u2605",
+      "commence_time": "2026-11-03T01:11:00Z",
+      "line_movement": {
+        "home": {
+          "direction": "longer",
+          "points_moved": 704,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM +360 \u2190 -344",
+          "old_ml": "-344",
+          "new_ml": "+360"
+        },
+        "away": {
+          "direction": "shorter",
+          "points_moved": 801,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -525 \u2190 +276",
+          "old_ml": "+276",
+          "new_ml": "-525"
+        },
+        "pick": {
+          "direction": "shorter",
+          "points_moved": 801,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -525 \u2190 +276",
+          "old_ml": "+276",
+          "new_ml": "-525"
+        },
+        "snapshot_time": "November 02, 2026 at 08:38 PM UTC"
+      },
+      "fatigue": {
+        "home": {
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Nov 02",
+          "days_rest": 1,
+          "games_last_4d": 2,
+          "travel_miles": 0,
+          "travel_desc": "",
+          "source": "ESPN Scoreboard API"
+        },
+        "away": {
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Nov 02",
+          "days_rest": 1,
+          "games_last_4d": 2,
+          "travel_miles": 1437,
+          "travel_desc": "1,437 mi road trip",
+          "source": "ESPN Scoreboard API"
+        }
+      },
+      "edge_factors": [
+        "\ud83d\udd25 Sharp steam detected",
+        "\ud83d\udca4 DAL fatigued (B2B) \u2014 source: ESPN"
+      ],
+      "injury_notes": "No key injuries.",
+      "sharp": {
+        "away_t": null,
+        "home_t": null,
+        "source": null,
+        "sharp_signal": null,
+        "sharp_label": "Pending \u2014 check closer to tip-off",
+        "rlm": false
+      },
+      "form": {
+        "home": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        },
+        "away": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        }
+      },
+      "h2h": {
+        "total_meetings": 0,
+        "home_wins": 0,
+        "away_wins": 0,
+        "meetings": [],
+        "source": "\u2014"
+      },
+      "briefing": {
+        "trend": "DAL on Back-to-Back \u26a0\ufe0f per ESPN schedule data. SAC on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "matchup": "Both rosters appear healthy \u2014 clean line.",
+        "steam": "Line steamed from +276 to -525 (801pt move) \u2014 heavy professional action on Sacramento Kings.",
+        "injury_notes": "No key injuries."
+      },
+      "live": {
+        "status": "pre",
+        "status_detail": "Upcoming",
+        "period": 0,
+        "clock": "",
+        "home_score": 0,
+        "away_score": 0,
+        "spread_alert": null
+      },
+      "news": [
+        {
+          "title": "Lakers\u2019 Little-Used Big Man Seeking \u2018Physicality\u2019",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/los-angeles-lakers/big-man-seeking-physicality/",
+          "published": "2026-11-02T03:09:53Z"
+        },
+        {
+          "title": "Lauri Markkanen Emerges As Warriors\u2019 Potential Trade Target",
+          "source": "Fadeaway World",
+          "link": "https://fadeawayworld.net/nba-trade-rumors/golden-state-warriors/lauri-markkanen-emerges-as-warriors-potential-trade-target",
+          "published": "2026-11-02T03:09:49Z"
+        },
+        {
+          "title": "Coby White Gets Positive Injury Update for Hornets",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/charlotte-hornets/coby-white-positive-injury-update-hornets/",
+          "published": "2026-11-02T03:05:13Z"
+        }
+      ]
+    },
+    {
+      "game": "New Orleans Pelicans @ Memphis Grizzlies",
+      "home_team": "Memphis Grizzlies",
+      "away_team": "New Orleans Pelicans",
+      "home_abbr": "MEM",
+      "away_abbr": "NOP",
+      "home_ml": "-115",
+      "away_ml": "-115",
+      "home_ml_raw": -115,
+      "away_ml_raw": -115,
+      "home_prob": 50.0,
+      "away_prob": 50.0,
+      "spread": "MEM -1.5",
+      "favorite": "Memphis Grizzlies",
+      "pick": "Memphis Grizzlies",
+      "pick_abbr": "MEM",
+      "moneyline": "-115",
+      "win_probability": 50.0,
+      "confidence": "LOW",
+      "confidence_stars": "\u2605\u2606\u2606",
+      "commence_time": "2026-11-03T01:11:33Z",
+      "line_movement": {
+        "home": {
+          "direction": "longer",
+          "points_moved": 82,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -115 \u2190 -197",
+          "old_ml": "-197",
+          "new_ml": "-115"
+        },
+        "away": {
+          "direction": "shorter",
+          "points_moved": 279,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -115 \u2190 +164",
+          "old_ml": "+164",
+          "new_ml": "-115"
+        },
+        "pick": {
+          "direction": "longer",
+          "points_moved": 82,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -115 \u2190 -197",
+          "old_ml": "-197",
+          "new_ml": "-115"
+        },
+        "snapshot_time": "November 02, 2026 at 08:38 PM UTC"
+      },
+      "fatigue": {
+        "home": {
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Nov 02",
+          "days_rest": 1,
+          "games_last_4d": 2,
+          "travel_miles": 0,
+          "travel_desc": "",
+          "source": "ESPN Scoreboard API"
+        },
+        "away": {
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Nov 02",
+          "days_rest": 1,
+          "games_last_4d": 2,
+          "travel_miles": 359,
+          "travel_desc": "359 mi road trip",
+          "source": "ESPN Scoreboard API"
+        }
+      },
+      "edge_factors": [
+        "\ud83d\udd25 Sharp steam detected",
+        "\ud83d\udca4 NOP fatigued (B2B) \u2014 source: ESPN"
+      ],
+      "injury_notes": "No key injuries.",
+      "sharp": {
+        "away_t": null,
+        "home_t": null,
+        "source": null,
+        "sharp_signal": null,
+        "sharp_label": "Pending \u2014 check closer to tip-off",
+        "rlm": false
+      },
+      "form": {
+        "home": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        },
+        "away": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        }
+      },
+      "h2h": {
+        "total_meetings": 0,
+        "home_wins": 0,
+        "away_wins": 0,
+        "meetings": [],
+        "source": "\u2014"
+      },
+      "briefing": {
+        "trend": "MEM on Back-to-Back \u26a0\ufe0f per ESPN schedule data. NOP on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "matchup": "Both rosters appear healthy \u2014 clean line.",
+        "steam": "Line steamed from -197 to -115 (82pt move) \u2014 heavy professional action on Memphis Grizzlies.",
+        "injury_notes": "No key injuries."
+      },
+      "live": {
+        "status": "pre",
+        "status_detail": "Upcoming",
+        "period": 0,
+        "clock": "",
+        "home_score": 0,
+        "away_score": 0,
+        "spread_alert": null
+      },
+      "news": [
+        {
+          "title": "Lakers\u2019 Little-Used Big Man Seeking \u2018Physicality\u2019",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/los-angeles-lakers/big-man-seeking-physicality/",
+          "published": "2026-11-02T03:09:53Z"
+        },
+        {
+          "title": "Lauri Markkanen Emerges As Warriors\u2019 Potential Trade Target",
+          "source": "Fadeaway World",
+          "link": "https://fadeawayworld.net/nba-trade-rumors/golden-state-warriors/lauri-markkanen-emerges-as-warriors-potential-trade-target",
+          "published": "2026-11-02T03:09:49Z"
+        },
+        {
+          "title": "Coby White Gets Positive Injury Update for Hornets",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/charlotte-hornets/coby-white-positive-injury-update-hornets/",
+          "published": "2026-11-02T03:05:13Z"
         }
       ]
     },
@@ -1315,56 +590,56 @@
       "away_team": "Boston Celtics",
       "home_abbr": "HOU",
       "away_abbr": "BOS",
-      "home_ml": "-197",
-      "away_ml": "+164",
-      "home_ml_raw": -197,
-      "away_ml_raw": 164,
-      "home_prob": 63.7,
-      "away_prob": 36.3,
-      "spread": "HOU -5.5",
+      "home_ml": "-370",
+      "away_ml": "+270",
+      "home_ml_raw": -370,
+      "away_ml_raw": 270,
+      "home_prob": 74.4,
+      "away_prob": 25.6,
+      "spread": "HOU -6.5",
       "favorite": "Houston Rockets",
       "pick": "Houston Rockets",
       "pick_abbr": "HOU",
-      "moneyline": "-197",
-      "win_probability": 63.7,
-      "confidence": "MEDIUM",
-      "confidence_stars": "\u2605\u2605\u2606",
-      "commence_time": "2026-11-03T01:40:00Z",
+      "moneyline": "-370",
+      "win_probability": 74.4,
+      "confidence": "HIGH",
+      "confidence_stars": "\u2605\u2605\u2605",
+      "commence_time": "2026-11-03T01:40:36Z",
       "line_movement": {
         "home": {
-          "direction": "longer",
-          "points_moved": 1,
-          "steam": false,
-          "label": "\ud83d\udd34 -197 \u2190 -198",
-          "old_ml": "-198",
-          "new_ml": "-197"
+          "direction": "shorter",
+          "points_moved": 173,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -370 \u2190 -197",
+          "old_ml": "-197",
+          "new_ml": "-370"
         },
         "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
+          "direction": "longer",
+          "points_moved": 106,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM +270 \u2190 +164",
           "old_ml": "+164",
-          "new_ml": "+164"
+          "new_ml": "+270"
         },
         "pick": {
-          "direction": "longer",
-          "points_moved": 1,
-          "steam": false,
-          "label": "\ud83d\udd34 -197 \u2190 -198",
-          "old_ml": "-198",
-          "new_ml": "-197"
+          "direction": "shorter",
+          "points_moved": 173,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -370 \u2190 -197",
+          "old_ml": "-197",
+          "new_ml": "-370"
         },
-        "snapshot_time": "November 02, 2026 at 01:39 PM UTC"
+        "snapshot_time": "November 02, 2026 at 08:38 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "Oct 31",
-          "days_rest": 2,
-          "games_last_4d": 2,
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Nov 02",
+          "days_rest": 1,
+          "games_last_4d": 3,
           "travel_miles": 227,
           "travel_desc": "227 mi road trip",
           "source": "ESPN Scoreboard API"
@@ -1373,15 +648,16 @@
           "status": "B2B",
           "label": "Back-to-Back \u26a0\ufe0f",
           "battery": 20,
-          "last_game": "Nov 01",
+          "last_game": "Nov 02",
           "days_rest": 1,
-          "games_last_4d": 2,
-          "travel_miles": 1116,
-          "travel_desc": "1,116 mi road trip",
+          "games_last_4d": 3,
+          "travel_miles": 1604,
+          "travel_desc": "1,604 mi road trip",
           "source": "ESPN Scoreboard API"
         }
       },
       "edge_factors": [
+        "\ud83d\udd25 Sharp steam detected",
         "\ud83d\udca4 BOS fatigued (B2B) \u2014 source: ESPN"
       ],
       "injury_notes": "No key injuries.",
@@ -1419,9 +695,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "BOS on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "trend": "HOU on Back-to-Back \u26a0\ufe0f per ESPN schedule data. BOS on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line moved -198\u2192-197 (1pts). Pending \u2014 check closer to tip-off",
+        "steam": "Line steamed from -197 to -370 (173pt move) \u2014 heavy professional action on Houston Rockets.",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -1435,22 +711,22 @@
       },
       "news": [
         {
-          "title": "Celtics Free-Throw Woes Vanish As Tatum Leads Top-5 Surge",
-          "source": "Gamedaynewengland.com",
-          "link": "https://gamedaynewengland.com/celtics-free-throw-woes-vanish-as-tatum-leads-top-5-surge/",
-          "published": "2026-11-01T20:37:04Z"
+          "title": "Lakers\u2019 Little-Used Big Man Seeking \u2018Physicality\u2019",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/los-angeles-lakers/big-man-seeking-physicality/",
+          "published": "2026-11-02T03:09:53Z"
         },
         {
-          "title": "Why Charles Lee Needs to Play Hannes Steinbach Now",
-          "source": "Yahoo Entertainment",
-          "link": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_2a5eeded-c673-4453-9d22-be3221b481b3",
-          "published": "2026-11-01T20:32:42Z"
+          "title": "Lauri Markkanen Emerges As Warriors\u2019 Potential Trade Target",
+          "source": "Fadeaway World",
+          "link": "https://fadeawayworld.net/nba-trade-rumors/golden-state-warriors/lauri-markkanen-emerges-as-warriors-potential-trade-target",
+          "published": "2026-11-02T03:09:49Z"
         },
         {
-          "title": "Betr Promo Code YAHOOBONUS: Up to $200 in No Sweat Tokens Plus a Free Pick for Eagles vs. Commanders",
-          "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/betting/promos/article/betr-promo-code-yahoobonus-up-to-200-in-no-sweat-tokens-plus-a-free-pick-for-eagles-vs-commanders-203000244.html",
-          "published": "2026-11-01T20:30:00Z"
+          "title": "Coby White Gets Positive Injury Update for Hornets",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/charlotte-hornets/coby-white-positive-injury-update-hornets/",
+          "published": "2026-11-02T03:05:13Z"
         }
       ]
     },
@@ -1460,56 +736,56 @@
       "away_team": "Utah Jazz",
       "home_abbr": "SAS",
       "away_abbr": "UTA",
-      "home_ml": "-1180",
-      "away_ml": "+740",
-      "home_ml_raw": -1180,
-      "away_ml_raw": 740,
-      "home_prob": 88.6,
-      "away_prob": 11.4,
-      "spread": "SAS -16.5",
+      "home_ml": "N/A",
+      "away_ml": "N/A",
+      "home_ml_raw": null,
+      "away_ml_raw": null,
+      "home_prob": 50.0,
+      "away_prob": 50.0,
+      "spread": "SAS -21.5",
       "favorite": "San Antonio Spurs",
       "pick": "San Antonio Spurs",
       "pick_abbr": "SAS",
-      "moneyline": "-1180",
-      "win_probability": 88.6,
-      "confidence": "HIGH",
-      "confidence_stars": "\u2605\u2605\u2605",
-      "commence_time": "2026-11-03T01:40:00Z",
+      "moneyline": "N/A",
+      "win_probability": 50.0,
+      "confidence": "LOW",
+      "confidence_stars": "\u2605\u2606\u2606",
+      "commence_time": "2026-11-03T01:40:42Z",
       "line_movement": {
         "home": {
-          "direction": "longer",
-          "points_moved": 20,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -1180 \u2190 -1200",
-          "old_ml": "-1200",
-          "new_ml": "-1180"
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
         },
         "away": {
-          "direction": "shorter",
-          "points_moved": 10,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM +740 \u2190 +750",
-          "old_ml": "+750",
-          "new_ml": "+740"
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
         },
         "pick": {
-          "direction": "longer",
-          "points_moved": 20,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -1180 \u2190 -1200",
-          "old_ml": "-1200",
-          "new_ml": "-1180"
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
         },
-        "snapshot_time": "November 02, 2026 at 01:39 PM UTC"
+        "snapshot_time": "November 02, 2026 at 08:38 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "Oct 31",
-          "days_rest": 2,
-          "games_last_4d": 1,
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Nov 02",
+          "days_rest": 1,
+          "games_last_4d": 2,
           "travel_miles": 0,
           "travel_desc": "",
           "source": "ESPN Scoreboard API"
@@ -1527,7 +803,7 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udd25 Sharp steam detected"
+        "\ud83d\udcca 0.0pt probability edge"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -1564,9 +840,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "San Antonio Spurs hold a 88.6% edge.",
+        "trend": "SAS on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -1200 to -1180 (20pt move) \u2014 heavy professional action on San Antonio Spurs.",
+        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -1580,22 +856,22 @@
       },
       "news": [
         {
-          "title": "Celtics Free-Throw Woes Vanish As Tatum Leads Top-5 Surge",
-          "source": "Gamedaynewengland.com",
-          "link": "https://gamedaynewengland.com/celtics-free-throw-woes-vanish-as-tatum-leads-top-5-surge/",
-          "published": "2026-11-01T20:37:04Z"
+          "title": "Lakers\u2019 Little-Used Big Man Seeking \u2018Physicality\u2019",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/los-angeles-lakers/big-man-seeking-physicality/",
+          "published": "2026-11-02T03:09:53Z"
         },
         {
-          "title": "Why Charles Lee Needs to Play Hannes Steinbach Now",
-          "source": "Yahoo Entertainment",
-          "link": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_2a5eeded-c673-4453-9d22-be3221b481b3",
-          "published": "2026-11-01T20:32:42Z"
+          "title": "Lauri Markkanen Emerges As Warriors\u2019 Potential Trade Target",
+          "source": "Fadeaway World",
+          "link": "https://fadeawayworld.net/nba-trade-rumors/golden-state-warriors/lauri-markkanen-emerges-as-warriors-potential-trade-target",
+          "published": "2026-11-02T03:09:49Z"
         },
         {
-          "title": "Betr Promo Code YAHOOBONUS: Up to $200 in No Sweat Tokens Plus a Free Pick for Eagles vs. Commanders",
-          "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/betting/promos/article/betr-promo-code-yahoobonus-up-to-200-in-no-sweat-tokens-plus-a-free-pick-for-eagles-vs-commanders-203000244.html",
-          "published": "2026-11-01T20:30:00Z"
+          "title": "Coby White Gets Positive Injury Update for Hornets",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/charlotte-hornets/coby-white-positive-injury-update-hornets/",
+          "published": "2026-11-02T03:05:13Z"
         }
       ]
     },
@@ -1605,74 +881,75 @@
       "away_team": "Portland Trail Blazers",
       "home_abbr": "DEN",
       "away_abbr": "POR",
-      "home_ml": "-174",
-      "away_ml": "+146",
-      "home_ml_raw": -174,
-      "away_ml_raw": 146,
-      "home_prob": 61.0,
-      "away_prob": 39.0,
-      "spread": "DEN -4.5",
+      "home_ml": "-380",
+      "away_ml": "+275",
+      "home_ml_raw": -380,
+      "away_ml_raw": 275,
+      "home_prob": 74.8,
+      "away_prob": 25.2,
+      "spread": "DEN -7.5",
       "favorite": "Denver Nuggets",
       "pick": "Denver Nuggets",
       "pick_abbr": "DEN",
-      "moneyline": "-174",
-      "win_probability": 61.0,
-      "confidence": "MEDIUM",
-      "confidence_stars": "\u2605\u2605\u2606",
-      "commence_time": "2026-11-03T02:10:00Z",
+      "moneyline": "-380",
+      "win_probability": 74.8,
+      "confidence": "HIGH",
+      "confidence_stars": "\u2605\u2605\u2605",
+      "commence_time": "2026-11-03T02:10:53Z",
       "line_movement": {
         "home": {
-          "direction": "longer",
-          "points_moved": 1,
-          "steam": false,
-          "label": "\ud83d\udd34 -174 \u2190 -175",
-          "old_ml": "-175",
-          "new_ml": "-174"
+          "direction": "shorter",
+          "points_moved": 206,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -380 \u2190 -174",
+          "old_ml": "-174",
+          "new_ml": "-380"
         },
         "away": {
           "direction": "longer",
-          "points_moved": 1,
-          "steam": false,
-          "label": "\ud83d\udd34 +146 \u2190 +145",
-          "old_ml": "+145",
-          "new_ml": "+146"
+          "points_moved": 129,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM +275 \u2190 +146",
+          "old_ml": "+146",
+          "new_ml": "+275"
         },
         "pick": {
-          "direction": "longer",
-          "points_moved": 1,
-          "steam": false,
-          "label": "\ud83d\udd34 -174 \u2190 -175",
-          "old_ml": "-175",
-          "new_ml": "-174"
+          "direction": "shorter",
+          "points_moved": 206,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -380 \u2190 -174",
+          "old_ml": "-174",
+          "new_ml": "-380"
         },
-        "snapshot_time": "November 02, 2026 at 01:39 PM UTC"
+        "snapshot_time": "November 02, 2026 at 08:38 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "RESTED",
-          "label": "2 days rest \u2705",
-          "battery": 88,
-          "last_game": "Oct 30",
-          "days_rest": 3,
-          "games_last_4d": 1,
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Nov 02",
+          "days_rest": 1,
+          "games_last_4d": 2,
           "travel_miles": 585,
           "travel_desc": "585 mi road trip",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "Oct 31",
-          "days_rest": 2,
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Nov 02",
+          "days_rest": 1,
           "games_last_4d": 2,
-          "travel_miles": 0,
-          "travel_desc": "",
+          "travel_miles": 980,
+          "travel_desc": "980 mi road trip",
           "source": "ESPN Scoreboard API"
         }
       },
       "edge_factors": [
-        "\ud83d\udcca 22.0pt probability edge"
+        "\ud83d\udd25 Sharp steam detected",
+        "\ud83d\udca4 POR fatigued (B2B) \u2014 source: ESPN"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -1709,9 +986,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "Denver Nuggets hold a 61.0% edge.",
+        "trend": "DEN on Back-to-Back \u26a0\ufe0f per ESPN schedule data. POR on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line moved -175\u2192-174 (1pts). Pending \u2014 check closer to tip-off",
+        "steam": "Line steamed from -174 to -380 (206pt move) \u2014 heavy professional action on Denver Nuggets.",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -1725,22 +1002,169 @@
       },
       "news": [
         {
-          "title": "Celtics Free-Throw Woes Vanish As Tatum Leads Top-5 Surge",
-          "source": "Gamedaynewengland.com",
-          "link": "https://gamedaynewengland.com/celtics-free-throw-woes-vanish-as-tatum-leads-top-5-surge/",
-          "published": "2026-11-01T20:37:04Z"
+          "title": "Lakers\u2019 Little-Used Big Man Seeking \u2018Physicality\u2019",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/los-angeles-lakers/big-man-seeking-physicality/",
+          "published": "2026-11-02T03:09:53Z"
         },
         {
-          "title": "Why Charles Lee Needs to Play Hannes Steinbach Now",
-          "source": "Yahoo Entertainment",
-          "link": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_2a5eeded-c673-4453-9d22-be3221b481b3",
-          "published": "2026-11-01T20:32:42Z"
+          "title": "Lauri Markkanen Emerges As Warriors\u2019 Potential Trade Target",
+          "source": "Fadeaway World",
+          "link": "https://fadeawayworld.net/nba-trade-rumors/golden-state-warriors/lauri-markkanen-emerges-as-warriors-potential-trade-target",
+          "published": "2026-11-02T03:09:49Z"
         },
         {
-          "title": "Betr Promo Code YAHOOBONUS: Up to $200 in No Sweat Tokens Plus a Free Pick for Eagles vs. Commanders",
-          "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/betting/promos/article/betr-promo-code-yahoobonus-up-to-200-in-no-sweat-tokens-plus-a-free-pick-for-eagles-vs-commanders-203000244.html",
-          "published": "2026-11-01T20:30:00Z"
+          "title": "Coby White Gets Positive Injury Update for Hornets",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/charlotte-hornets/coby-white-positive-injury-update-hornets/",
+          "published": "2026-11-02T03:05:13Z"
+        }
+      ]
+    },
+    {
+      "game": "Miami Heat @ Los Angeles Lakers",
+      "home_team": "Los Angeles Lakers",
+      "away_team": "Miami Heat",
+      "home_abbr": "LAL",
+      "away_abbr": "MIA",
+      "home_ml": "-145",
+      "away_ml": "+110",
+      "home_ml_raw": -145,
+      "away_ml_raw": 110,
+      "home_prob": 55.4,
+      "away_prob": 44.6,
+      "spread": "LAL -2.5",
+      "favorite": "Los Angeles Lakers",
+      "pick": "Los Angeles Lakers",
+      "pick_abbr": "LAL",
+      "moneyline": "-145",
+      "win_probability": 55.4,
+      "confidence": "LOW",
+      "confidence_stars": "\u2605\u2606\u2606",
+      "commence_time": "2026-11-03T03:10:54Z",
+      "line_movement": {
+        "home": {
+          "direction": "shorter",
+          "points_moved": 20,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -145 \u2190 -125",
+          "old_ml": "-125",
+          "new_ml": "-145"
+        },
+        "away": {
+          "direction": "longer",
+          "points_moved": 4,
+          "steam": false,
+          "label": "\ud83d\udd34 +110 \u2190 +106",
+          "old_ml": "+106",
+          "new_ml": "+110"
+        },
+        "pick": {
+          "direction": "shorter",
+          "points_moved": 20,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -145 \u2190 -125",
+          "old_ml": "-125",
+          "new_ml": "-145"
+        },
+        "snapshot_time": "November 02, 2026 at 08:38 PM UTC"
+      },
+      "fatigue": {
+        "home": {
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Nov 02",
+          "days_rest": 1,
+          "games_last_4d": 3,
+          "travel_miles": 346,
+          "travel_desc": "346 mi road trip",
+          "source": "ESPN Scoreboard API"
+        },
+        "away": {
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Nov 02",
+          "days_rest": 1,
+          "games_last_4d": 2,
+          "travel_miles": 2337,
+          "travel_desc": "2,337 mi road trip",
+          "source": "ESPN Scoreboard API"
+        }
+      },
+      "edge_factors": [
+        "\ud83d\udd25 Sharp steam detected",
+        "\ud83d\udca4 MIA fatigued (B2B) \u2014 source: ESPN",
+        "\u2708\ufe0f MIA traveled 2,337 mi"
+      ],
+      "injury_notes": "No key injuries.",
+      "sharp": {
+        "away_t": null,
+        "home_t": null,
+        "source": null,
+        "sharp_signal": null,
+        "sharp_label": "Pending \u2014 check closer to tip-off",
+        "rlm": false
+      },
+      "form": {
+        "home": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        },
+        "away": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        }
+      },
+      "h2h": {
+        "total_meetings": 0,
+        "home_wins": 0,
+        "away_wins": 0,
+        "meetings": [],
+        "source": "\u2014"
+      },
+      "briefing": {
+        "trend": "LAL on Back-to-Back \u26a0\ufe0f per ESPN schedule data. MIA on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "matchup": "Both rosters appear healthy \u2014 clean line.",
+        "steam": "Line steamed from -125 to -145 (20pt move) \u2014 heavy professional action on Los Angeles Lakers.",
+        "injury_notes": "No key injuries."
+      },
+      "live": {
+        "status": "pre",
+        "status_detail": "Upcoming",
+        "period": 0,
+        "clock": "",
+        "home_score": 0,
+        "away_score": 0,
+        "spread_alert": null
+      },
+      "news": [
+        {
+          "title": "Lakers\u2019 Little-Used Big Man Seeking \u2018Physicality\u2019",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/los-angeles-lakers/big-man-seeking-physicality/",
+          "published": "2026-11-02T03:09:53Z"
+        },
+        {
+          "title": "Lauri Markkanen Emerges As Warriors\u2019 Potential Trade Target",
+          "source": "Fadeaway World",
+          "link": "https://fadeawayworld.net/nba-trade-rumors/golden-state-warriors/lauri-markkanen-emerges-as-warriors-potential-trade-target",
+          "published": "2026-11-02T03:09:49Z"
+        },
+        {
+          "title": "Coby White Gets Positive Injury Update for Hornets",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/charlotte-hornets/coby-white-positive-injury-update-hornets/",
+          "published": "2026-11-02T03:05:13Z"
         }
       ]
     },
@@ -1750,74 +1174,75 @@
       "away_team": "Phoenix Suns",
       "home_abbr": "GSW",
       "away_abbr": "PHX",
-      "home_ml": "-149",
-      "away_ml": "+125",
-      "home_ml_raw": -149,
-      "away_ml_raw": 125,
-      "home_prob": 57.4,
-      "away_prob": 42.6,
-      "spread": "GSW -2.5",
+      "home_ml": "-120",
+      "away_ml": "-110",
+      "home_ml_raw": -120,
+      "away_ml_raw": -110,
+      "home_prob": 51.0,
+      "away_prob": 49.0,
+      "spread": "GSW -1.5",
       "favorite": "Golden State Warriors",
       "pick": "Golden State Warriors",
       "pick_abbr": "GSW",
-      "moneyline": "-149",
-      "win_probability": 57.4,
+      "moneyline": "-120",
+      "win_probability": 51.0,
       "confidence": "LOW",
       "confidence_stars": "\u2605\u2606\u2606",
-      "commence_time": "2026-11-03T03:10:00Z",
+      "commence_time": "2026-11-03T03:13:00Z",
       "line_movement": {
         "home": {
-          "direction": "shorter",
-          "points_moved": 1,
-          "steam": false,
-          "label": "\ud83d\udfe2 -149 \u2190 -148",
-          "old_ml": "-148",
-          "new_ml": "-149"
+          "direction": "longer",
+          "points_moved": 29,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -120 \u2190 -149",
+          "old_ml": "-149",
+          "new_ml": "-120"
         },
         "away": {
-          "direction": "longer",
-          "points_moved": 1,
-          "steam": false,
-          "label": "\ud83d\udd34 +125 \u2190 +124",
-          "old_ml": "+124",
-          "new_ml": "+125"
+          "direction": "shorter",
+          "points_moved": 235,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -110 \u2190 +125",
+          "old_ml": "+125",
+          "new_ml": "-110"
         },
         "pick": {
-          "direction": "shorter",
-          "points_moved": 1,
-          "steam": false,
-          "label": "\ud83d\udfe2 -149 \u2190 -148",
-          "old_ml": "-148",
-          "new_ml": "-149"
+          "direction": "longer",
+          "points_moved": 29,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -120 \u2190 -149",
+          "old_ml": "-149",
+          "new_ml": "-120"
         },
-        "snapshot_time": "November 02, 2026 at 01:39 PM UTC"
+        "snapshot_time": "November 02, 2026 at 08:38 PM UTC"
       },
       "fatigue": {
         "home": {
           "status": "B2B",
           "label": "Back-to-Back \u26a0\ufe0f",
           "battery": 20,
-          "last_game": "Nov 01",
+          "last_game": "Nov 02",
           "days_rest": 1,
-          "games_last_4d": 2,
+          "games_last_4d": 3,
           "travel_miles": 0,
           "travel_desc": "",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "RESTED",
-          "label": "2 days rest \u2705",
-          "battery": 88,
-          "last_game": "Oct 30",
-          "days_rest": 3,
-          "games_last_4d": 1,
-          "travel_miles": 0,
-          "travel_desc": "",
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Nov 02",
+          "days_rest": 1,
+          "games_last_4d": 2,
+          "travel_miles": 651,
+          "travel_desc": "651 mi road trip",
           "source": "ESPN Scoreboard API"
         }
       },
       "edge_factors": [
-        "\ud83d\udcca 14.8pt probability edge"
+        "\ud83d\udd25 Sharp steam detected",
+        "\ud83d\udca4 PHX fatigued (B2B) \u2014 source: ESPN"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -1854,9 +1279,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "GSW on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "trend": "GSW on Back-to-Back \u26a0\ufe0f per ESPN schedule data. PHX on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line moved -148\u2192-149 (1pts). Pending \u2014 check closer to tip-off",
+        "steam": "Line steamed from -149 to -120 (29pt move) \u2014 heavy professional action on Golden State Warriors.",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -1870,22 +1295,22 @@
       },
       "news": [
         {
-          "title": "Celtics Free-Throw Woes Vanish As Tatum Leads Top-5 Surge",
-          "source": "Gamedaynewengland.com",
-          "link": "https://gamedaynewengland.com/celtics-free-throw-woes-vanish-as-tatum-leads-top-5-surge/",
-          "published": "2026-11-01T20:37:04Z"
+          "title": "Lakers\u2019 Little-Used Big Man Seeking \u2018Physicality\u2019",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/los-angeles-lakers/big-man-seeking-physicality/",
+          "published": "2026-11-02T03:09:53Z"
         },
         {
-          "title": "Why Charles Lee Needs to Play Hannes Steinbach Now",
-          "source": "Yahoo Entertainment",
-          "link": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_2a5eeded-c673-4453-9d22-be3221b481b3",
-          "published": "2026-11-01T20:32:42Z"
+          "title": "Lauri Markkanen Emerges As Warriors\u2019 Potential Trade Target",
+          "source": "Fadeaway World",
+          "link": "https://fadeawayworld.net/nba-trade-rumors/golden-state-warriors/lauri-markkanen-emerges-as-warriors-potential-trade-target",
+          "published": "2026-11-02T03:09:49Z"
         },
         {
-          "title": "Betr Promo Code YAHOOBONUS: Up to $200 in No Sweat Tokens Plus a Free Pick for Eagles vs. Commanders",
-          "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/betting/promos/article/betr-promo-code-yahoobonus-up-to-200-in-no-sweat-tokens-plus-a-free-pick-for-eagles-vs-commanders-203000244.html",
-          "published": "2026-11-01T20:30:00Z"
+          "title": "Coby White Gets Positive Injury Update for Hornets",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/charlotte-hornets/coby-white-positive-injury-update-hornets/",
+          "published": "2026-11-02T03:05:13Z"
         }
       ]
     },
@@ -1895,56 +1320,56 @@
       "away_team": "Toronto Raptors",
       "home_abbr": "LAC",
       "away_abbr": "TOR",
-      "home_ml": "+180",
-      "away_ml": "-217",
-      "home_ml_raw": 180,
-      "away_ml_raw": -217,
-      "home_prob": 34.3,
-      "away_prob": 65.7,
-      "spread": "LAC +5.5",
+      "home_ml": "+130",
+      "away_ml": "-170",
+      "home_ml_raw": 130,
+      "away_ml_raw": -170,
+      "home_prob": 40.8,
+      "away_prob": 59.2,
+      "spread": "LAC +4.5",
       "favorite": "Toronto Raptors",
       "pick": "Toronto Raptors",
       "pick_abbr": "TOR",
-      "moneyline": "-217",
-      "win_probability": 65.7,
+      "moneyline": "-170",
+      "win_probability": 59.2,
       "confidence": "MEDIUM",
       "confidence_stars": "\u2605\u2605\u2606",
-      "commence_time": "2026-11-03T03:10:00Z",
+      "commence_time": "2026-11-03T03:13:00Z",
       "line_movement": {
         "home": {
-          "direction": "longer",
-          "points_moved": 10,
+          "direction": "shorter",
+          "points_moved": 50,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM +180 \u2190 +170",
-          "old_ml": "+170",
-          "new_ml": "+180"
+          "label": "\ud83d\udd25 STEAM +130 \u2190 +180",
+          "old_ml": "+180",
+          "new_ml": "+130"
         },
         "away": {
-          "direction": "shorter",
-          "points_moved": 12,
+          "direction": "longer",
+          "points_moved": 47,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM -217 \u2190 -205",
-          "old_ml": "-205",
-          "new_ml": "-217"
+          "label": "\ud83d\udd25 STEAM -170 \u2190 -217",
+          "old_ml": "-217",
+          "new_ml": "-170"
         },
         "pick": {
-          "direction": "shorter",
-          "points_moved": 12,
+          "direction": "longer",
+          "points_moved": 47,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM -217 \u2190 -205",
-          "old_ml": "-205",
-          "new_ml": "-217"
+          "label": "\ud83d\udd25 STEAM -170 \u2190 -217",
+          "old_ml": "-217",
+          "new_ml": "-170"
         },
-        "snapshot_time": "November 02, 2026 at 01:39 PM UTC"
+        "snapshot_time": "November 02, 2026 at 08:38 PM UTC"
       },
       "fatigue": {
         "home": {
           "status": "B2B",
           "label": "Back-to-Back \u26a0\ufe0f",
           "battery": 20,
-          "last_game": "Nov 01",
+          "last_game": "Nov 02",
           "days_rest": 1,
-          "games_last_4d": 2,
+          "games_last_4d": 3,
           "travel_miles": 346,
           "travel_desc": "346 mi road trip",
           "source": "ESPN Scoreboard API"
@@ -1953,9 +1378,9 @@
           "status": "B2B",
           "label": "Back-to-Back \u26a0\ufe0f",
           "battery": 20,
-          "last_game": "Nov 01",
+          "last_game": "Nov 02",
           "days_rest": 1,
-          "games_last_4d": 2,
+          "games_last_4d": 3,
           "travel_miles": 2173,
           "travel_desc": "2,173 mi road trip",
           "source": "ESPN Scoreboard API"
@@ -2002,7 +1427,7 @@
       "briefing": {
         "trend": "LAC on Back-to-Back \u26a0\ufe0f per ESPN schedule data. TOR on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -205 to -217 (12pt move) \u2014 heavy professional action on Toronto Raptors.",
+        "steam": "Line steamed from -217 to -170 (47pt move) \u2014 heavy professional action on Toronto Raptors.",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -2016,167 +1441,22 @@
       },
       "news": [
         {
-          "title": "Celtics Free-Throw Woes Vanish As Tatum Leads Top-5 Surge",
-          "source": "Gamedaynewengland.com",
-          "link": "https://gamedaynewengland.com/celtics-free-throw-woes-vanish-as-tatum-leads-top-5-surge/",
-          "published": "2026-11-01T20:37:04Z"
+          "title": "Lakers\u2019 Little-Used Big Man Seeking \u2018Physicality\u2019",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/los-angeles-lakers/big-man-seeking-physicality/",
+          "published": "2026-11-02T03:09:53Z"
         },
         {
-          "title": "Why Charles Lee Needs to Play Hannes Steinbach Now",
-          "source": "Yahoo Entertainment",
-          "link": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_2a5eeded-c673-4453-9d22-be3221b481b3",
-          "published": "2026-11-01T20:32:42Z"
+          "title": "Lauri Markkanen Emerges As Warriors\u2019 Potential Trade Target",
+          "source": "Fadeaway World",
+          "link": "https://fadeawayworld.net/nba-trade-rumors/golden-state-warriors/lauri-markkanen-emerges-as-warriors-potential-trade-target",
+          "published": "2026-11-02T03:09:49Z"
         },
         {
-          "title": "Betr Promo Code YAHOOBONUS: Up to $200 in No Sweat Tokens Plus a Free Pick for Eagles vs. Commanders",
-          "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/betting/promos/article/betr-promo-code-yahoobonus-up-to-200-in-no-sweat-tokens-plus-a-free-pick-for-eagles-vs-commanders-203000244.html",
-          "published": "2026-11-01T20:30:00Z"
-        }
-      ]
-    },
-    {
-      "game": "Miami Heat @ Los Angeles Lakers",
-      "home_team": "Los Angeles Lakers",
-      "away_team": "Miami Heat",
-      "home_abbr": "LAL",
-      "away_abbr": "MIA",
-      "home_ml": "-125",
-      "away_ml": "+106",
-      "home_ml_raw": -125,
-      "away_ml_raw": 106,
-      "home_prob": 53.4,
-      "away_prob": 46.6,
-      "spread": "LAL -1.5",
-      "favorite": "Los Angeles Lakers",
-      "pick": "Los Angeles Lakers",
-      "pick_abbr": "LAL",
-      "moneyline": "-125",
-      "win_probability": 53.4,
-      "confidence": "LOW",
-      "confidence_stars": "\u2605\u2606\u2606",
-      "commence_time": "2026-11-03T03:10:00Z",
-      "line_movement": {
-        "home": {
-          "direction": "longer",
-          "points_moved": 5,
-          "steam": false,
-          "label": "\ud83d\udd34 -125 \u2190 -130",
-          "old_ml": "-130",
-          "new_ml": "-125"
-        },
-        "away": {
-          "direction": "shorter",
-          "points_moved": 4,
-          "steam": false,
-          "label": "\ud83d\udfe2 +106 \u2190 +110",
-          "old_ml": "+110",
-          "new_ml": "+106"
-        },
-        "pick": {
-          "direction": "longer",
-          "points_moved": 5,
-          "steam": false,
-          "label": "\ud83d\udd34 -125 \u2190 -130",
-          "old_ml": "-130",
-          "new_ml": "-125"
-        },
-        "snapshot_time": "November 02, 2026 at 01:39 PM UTC"
-      },
-      "fatigue": {
-        "home": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
-          "last_game": "Nov 01",
-          "days_rest": 1,
-          "games_last_4d": 2,
-          "travel_miles": 346,
-          "travel_desc": "346 mi road trip",
-          "source": "ESPN Scoreboard API"
-        },
-        "away": {
-          "status": "RESTED",
-          "label": "2 days rest \u2705",
-          "battery": 88,
-          "last_game": "Oct 30",
-          "days_rest": 3,
-          "games_last_4d": 1,
-          "travel_miles": 0,
-          "travel_desc": "",
-          "source": "ESPN Scoreboard API"
-        }
-      },
-      "edge_factors": [
-        "\ud83d\udcca 6.8pt probability edge"
-      ],
-      "injury_notes": "No key injuries.",
-      "sharp": {
-        "away_t": null,
-        "home_t": null,
-        "source": null,
-        "sharp_signal": null,
-        "sharp_label": "Pending \u2014 check closer to tip-off",
-        "rlm": false
-      },
-      "form": {
-        "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        },
-        "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        }
-      },
-      "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
-      },
-      "briefing": {
-        "trend": "LAL on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line moved -130\u2192-125 (5pts). Pending \u2014 check closer to tip-off",
-        "injury_notes": "No key injuries."
-      },
-      "live": {
-        "status": "pre",
-        "status_detail": "Upcoming",
-        "period": 0,
-        "clock": "",
-        "home_score": 0,
-        "away_score": 0,
-        "spread_alert": null
-      },
-      "news": [
-        {
-          "title": "Celtics Free-Throw Woes Vanish As Tatum Leads Top-5 Surge",
-          "source": "Gamedaynewengland.com",
-          "link": "https://gamedaynewengland.com/celtics-free-throw-woes-vanish-as-tatum-leads-top-5-surge/",
-          "published": "2026-11-01T20:37:04Z"
-        },
-        {
-          "title": "Why Charles Lee Needs to Play Hannes Steinbach Now",
-          "source": "Yahoo Entertainment",
-          "link": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_2a5eeded-c673-4453-9d22-be3221b481b3",
-          "published": "2026-11-01T20:32:42Z"
-        },
-        {
-          "title": "Betr Promo Code YAHOOBONUS: Up to $200 in No Sweat Tokens Plus a Free Pick for Eagles vs. Commanders",
-          "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/betting/promos/article/betr-promo-code-yahoobonus-up-to-200-in-no-sweat-tokens-plus-a-free-pick-for-eagles-vs-commanders-203000244.html",
-          "published": "2026-11-01T20:30:00Z"
+          "title": "Coby White Gets Positive Injury Update for Hornets",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/charlotte-hornets/coby-white-positive-injury-update-hornets/",
+          "published": "2026-11-02T03:05:13Z"
         }
       ]
     },
@@ -2203,57 +1483,57 @@
       "commence_time": "2026-12-25T17:10:00Z",
       "line_movement": {
         "home": {
-          "direction": "longer",
-          "points_moved": 1,
+          "direction": "none",
+          "points_moved": 0,
           "steam": false,
-          "label": "\ud83d\udd34 -104 \u2190 -105",
-          "old_ml": "-105",
+          "label": "No movement",
+          "old_ml": "-104",
           "new_ml": "-104"
         },
         "away": {
-          "direction": "longer",
-          "points_moved": 1,
+          "direction": "none",
+          "points_moved": 0,
           "steam": false,
-          "label": "\ud83d\udd34 -114 \u2190 -115",
-          "old_ml": "-115",
+          "label": "No movement",
+          "old_ml": "-114",
           "new_ml": "-114"
         },
         "pick": {
-          "direction": "longer",
-          "points_moved": 1,
+          "direction": "none",
+          "points_moved": 0,
           "steam": false,
-          "label": "\ud83d\udd34 -114 \u2190 -115",
-          "old_ml": "-115",
+          "label": "No movement",
+          "old_ml": "-114",
           "new_ml": "-114"
         },
-        "snapshot_time": "November 02, 2026 at 01:39 PM UTC"
+        "snapshot_time": "November 02, 2026 at 08:38 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "RESTED",
-          "label": "2 days rest \u2705",
-          "battery": 88,
-          "last_game": "Oct 30",
-          "days_rest": 3,
-          "games_last_4d": 1,
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Nov 02",
+          "days_rest": 1,
+          "games_last_4d": 2,
           "travel_miles": 85,
           "travel_desc": "85 mi road trip",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "Oct 31",
-          "days_rest": 2,
-          "games_last_4d": 1,
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Nov 02",
+          "days_rest": 1,
+          "games_last_4d": 2,
           "travel_miles": 0,
           "travel_desc": "",
           "source": "ESPN Scoreboard API"
         }
       },
       "edge_factors": [
-        "\ud83d\udcca 2.2pt probability edge"
+        "\ud83d\udca4 NYK fatigued (B2B) \u2014 source: ESPN"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -2290,9 +1570,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "San Antonio Spurs hold a 51.1% edge.",
+        "trend": "NYK on Back-to-Back \u26a0\ufe0f per ESPN schedule data. SAS on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line moved -115\u2192-114 (1pts). Pending \u2014 check closer to tip-off",
+        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -2306,22 +1586,22 @@
       },
       "news": [
         {
-          "title": "Celtics Free-Throw Woes Vanish As Tatum Leads Top-5 Surge",
-          "source": "Gamedaynewengland.com",
-          "link": "https://gamedaynewengland.com/celtics-free-throw-woes-vanish-as-tatum-leads-top-5-surge/",
-          "published": "2026-11-01T20:37:04Z"
+          "title": "Lakers\u2019 Little-Used Big Man Seeking \u2018Physicality\u2019",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/los-angeles-lakers/big-man-seeking-physicality/",
+          "published": "2026-11-02T03:09:53Z"
         },
         {
-          "title": "Why Charles Lee Needs to Play Hannes Steinbach Now",
-          "source": "Yahoo Entertainment",
-          "link": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_2a5eeded-c673-4453-9d22-be3221b481b3",
-          "published": "2026-11-01T20:32:42Z"
+          "title": "Lauri Markkanen Emerges As Warriors\u2019 Potential Trade Target",
+          "source": "Fadeaway World",
+          "link": "https://fadeawayworld.net/nba-trade-rumors/golden-state-warriors/lauri-markkanen-emerges-as-warriors-potential-trade-target",
+          "published": "2026-11-02T03:09:49Z"
         },
         {
-          "title": "Betr Promo Code YAHOOBONUS: Up to $200 in No Sweat Tokens Plus a Free Pick for Eagles vs. Commanders",
-          "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/betting/promos/article/betr-promo-code-yahoobonus-up-to-200-in-no-sweat-tokens-plus-a-free-pick-for-eagles-vs-commanders-203000244.html",
-          "published": "2026-11-01T20:30:00Z"
+          "title": "Coby White Gets Positive Injury Update for Hornets",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/charlotte-hornets/coby-white-positive-injury-update-hornets/",
+          "published": "2026-11-02T03:05:13Z"
         }
       ]
     },
@@ -2348,57 +1628,58 @@
       "commence_time": "2026-12-25T19:40:00Z",
       "line_movement": {
         "home": {
-          "direction": "longer",
-          "points_moved": 6,
+          "direction": "none",
+          "points_moved": 0,
           "steam": false,
-          "label": "\ud83d\udd34 -212 \u2190 -218",
-          "old_ml": "-218",
+          "label": "No movement",
+          "old_ml": "-212",
           "new_ml": "-212"
         },
         "away": {
-          "direction": "shorter",
-          "points_moved": 3,
+          "direction": "none",
+          "points_moved": 0,
           "steam": false,
-          "label": "\ud83d\udfe2 +177 \u2190 +180",
-          "old_ml": "+180",
+          "label": "No movement",
+          "old_ml": "+177",
           "new_ml": "+177"
         },
         "pick": {
-          "direction": "longer",
-          "points_moved": 6,
+          "direction": "none",
+          "points_moved": 0,
           "steam": false,
-          "label": "\ud83d\udd34 -212 \u2190 -218",
-          "old_ml": "-218",
+          "label": "No movement",
+          "old_ml": "-212",
           "new_ml": "-212"
         },
-        "snapshot_time": "November 02, 2026 at 01:39 PM UTC"
+        "snapshot_time": "November 02, 2026 at 08:38 PM UTC"
       },
       "fatigue": {
         "home": {
           "status": "B2B",
           "label": "Back-to-Back \u26a0\ufe0f",
           "battery": 20,
-          "last_game": "Nov 01",
+          "last_game": "Nov 02",
           "days_rest": 1,
-          "games_last_4d": 2,
-          "travel_miles": 1116,
-          "travel_desc": "1,116 mi road trip",
+          "games_last_4d": 3,
+          "travel_miles": 1604,
+          "travel_desc": "1,604 mi road trip",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "RESTED",
-          "label": "2 days rest \u2705",
-          "battery": 88,
-          "last_game": "Oct 30",
-          "days_rest": 3,
-          "games_last_4d": 1,
-          "travel_miles": 0,
-          "travel_desc": "",
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Nov 02",
+          "days_rest": 1,
+          "games_last_4d": 2,
+          "travel_miles": 2337,
+          "travel_desc": "2,337 mi road trip",
           "source": "ESPN Scoreboard API"
         }
       },
       "edge_factors": [
-        "\ud83d\udcca 30.6pt probability edge"
+        "\ud83d\udca4 MIA fatigued (B2B) \u2014 source: ESPN",
+        "\u2708\ufe0f MIA traveled 2,337 mi"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -2435,9 +1716,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "BOS on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "trend": "BOS on Back-to-Back \u26a0\ufe0f per ESPN schedule data. MIA on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line moved -218\u2192-212 (6pts). Pending \u2014 check closer to tip-off",
+        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -2451,22 +1732,22 @@
       },
       "news": [
         {
-          "title": "Celtics Free-Throw Woes Vanish As Tatum Leads Top-5 Surge",
-          "source": "Gamedaynewengland.com",
-          "link": "https://gamedaynewengland.com/celtics-free-throw-woes-vanish-as-tatum-leads-top-5-surge/",
-          "published": "2026-11-01T20:37:04Z"
+          "title": "Lakers\u2019 Little-Used Big Man Seeking \u2018Physicality\u2019",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/los-angeles-lakers/big-man-seeking-physicality/",
+          "published": "2026-11-02T03:09:53Z"
         },
         {
-          "title": "Why Charles Lee Needs to Play Hannes Steinbach Now",
-          "source": "Yahoo Entertainment",
-          "link": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_2a5eeded-c673-4453-9d22-be3221b481b3",
-          "published": "2026-11-01T20:32:42Z"
+          "title": "Lauri Markkanen Emerges As Warriors\u2019 Potential Trade Target",
+          "source": "Fadeaway World",
+          "link": "https://fadeawayworld.net/nba-trade-rumors/golden-state-warriors/lauri-markkanen-emerges-as-warriors-potential-trade-target",
+          "published": "2026-11-02T03:09:49Z"
         },
         {
-          "title": "Betr Promo Code YAHOOBONUS: Up to $200 in No Sweat Tokens Plus a Free Pick for Eagles vs. Commanders",
-          "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/betting/promos/article/betr-promo-code-yahoobonus-up-to-200-in-no-sweat-tokens-plus-a-free-pick-for-eagles-vs-commanders-203000244.html",
-          "published": "2026-11-01T20:30:00Z"
+          "title": "Coby White Gets Positive Injury Update for Hornets",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/charlotte-hornets/coby-white-positive-injury-update-hornets/",
+          "published": "2026-11-02T03:05:13Z"
         }
       ]
     },
@@ -2493,57 +1774,57 @@
       "commence_time": "2026-12-25T22:10:00Z",
       "line_movement": {
         "home": {
-          "direction": "longer",
-          "points_moved": 1,
+          "direction": "none",
+          "points_moved": 0,
           "steam": false,
-          "label": "\ud83d\udd34 -114 \u2190 -115",
-          "old_ml": "-115",
+          "label": "No movement",
+          "old_ml": "-114",
           "new_ml": "-114"
         },
         "away": {
-          "direction": "longer",
-          "points_moved": 1,
+          "direction": "none",
+          "points_moved": 0,
           "steam": false,
-          "label": "\ud83d\udd34 -104 \u2190 -105",
-          "old_ml": "-105",
+          "label": "No movement",
+          "old_ml": "-104",
           "new_ml": "-104"
         },
         "pick": {
-          "direction": "longer",
-          "points_moved": 1,
+          "direction": "none",
+          "points_moved": 0,
           "steam": false,
-          "label": "\ud83d\udd34 -114 \u2190 -115",
-          "old_ml": "-115",
+          "label": "No movement",
+          "old_ml": "-114",
           "new_ml": "-114"
         },
-        "snapshot_time": "November 02, 2026 at 01:39 PM UTC"
+        "snapshot_time": "November 02, 2026 at 08:38 PM UTC"
       },
       "fatigue": {
         "home": {
           "status": "B2B",
           "label": "Back-to-Back \u26a0\ufe0f",
           "battery": 20,
-          "last_game": "Nov 01",
+          "last_game": "Nov 02",
           "days_rest": 1,
-          "games_last_4d": 2,
+          "games_last_4d": 3,
           "travel_miles": 346,
           "travel_desc": "346 mi road trip",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "Oct 31",
-          "days_rest": 2,
-          "games_last_4d": 2,
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Nov 02",
+          "days_rest": 1,
+          "games_last_4d": 3,
           "travel_miles": 448,
           "travel_desc": "448 mi road trip",
           "source": "ESPN Scoreboard API"
         }
       },
       "edge_factors": [
-        "\ud83d\udcca 2.2pt probability edge"
+        "\ud83d\udca4 PHI fatigued (B2B) \u2014 source: ESPN"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -2580,9 +1861,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "LAL on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "trend": "LAL on Back-to-Back \u26a0\ufe0f per ESPN schedule data. PHI on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line moved -115\u2192-114 (1pts). Pending \u2014 check closer to tip-off",
+        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -2596,22 +1877,22 @@
       },
       "news": [
         {
-          "title": "Celtics Free-Throw Woes Vanish As Tatum Leads Top-5 Surge",
-          "source": "Gamedaynewengland.com",
-          "link": "https://gamedaynewengland.com/celtics-free-throw-woes-vanish-as-tatum-leads-top-5-surge/",
-          "published": "2026-11-01T20:37:04Z"
+          "title": "Lakers\u2019 Little-Used Big Man Seeking \u2018Physicality\u2019",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/los-angeles-lakers/big-man-seeking-physicality/",
+          "published": "2026-11-02T03:09:53Z"
         },
         {
-          "title": "Why Charles Lee Needs to Play Hannes Steinbach Now",
-          "source": "Yahoo Entertainment",
-          "link": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_2a5eeded-c673-4453-9d22-be3221b481b3",
-          "published": "2026-11-01T20:32:42Z"
+          "title": "Lauri Markkanen Emerges As Warriors\u2019 Potential Trade Target",
+          "source": "Fadeaway World",
+          "link": "https://fadeawayworld.net/nba-trade-rumors/golden-state-warriors/lauri-markkanen-emerges-as-warriors-potential-trade-target",
+          "published": "2026-11-02T03:09:49Z"
         },
         {
-          "title": "Betr Promo Code YAHOOBONUS: Up to $200 in No Sweat Tokens Plus a Free Pick for Eagles vs. Commanders",
-          "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/betting/promos/article/betr-promo-code-yahoobonus-up-to-200-in-no-sweat-tokens-plus-a-free-pick-for-eagles-vs-commanders-203000244.html",
-          "published": "2026-11-01T20:30:00Z"
+          "title": "Coby White Gets Positive Injury Update for Hornets",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/charlotte-hornets/coby-white-positive-injury-update-hornets/",
+          "published": "2026-11-02T03:05:13Z"
         }
       ]
     },
@@ -2638,57 +1919,57 @@
       "commence_time": "2026-12-26T01:10:00Z",
       "line_movement": {
         "home": {
-          "direction": "longer",
-          "points_moved": 1,
+          "direction": "none",
+          "points_moved": 0,
           "steam": false,
-          "label": "\ud83d\udd34 +131 \u2190 +130",
-          "old_ml": "+130",
+          "label": "No movement",
+          "old_ml": "+131",
           "new_ml": "+131"
         },
         "away": {
-          "direction": "shorter",
-          "points_moved": 1,
+          "direction": "none",
+          "points_moved": 0,
           "steam": false,
-          "label": "\ud83d\udfe2 -156 \u2190 -155",
-          "old_ml": "-155",
+          "label": "No movement",
+          "old_ml": "-156",
           "new_ml": "-156"
         },
         "pick": {
-          "direction": "shorter",
-          "points_moved": 1,
+          "direction": "none",
+          "points_moved": 0,
           "steam": false,
-          "label": "\ud83d\udfe2 -156 \u2190 -155",
-          "old_ml": "-155",
+          "label": "No movement",
+          "old_ml": "-156",
           "new_ml": "-156"
         },
-        "snapshot_time": "November 02, 2026 at 01:39 PM UTC"
+        "snapshot_time": "November 02, 2026 at 08:38 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "Oct 31",
-          "days_rest": 2,
-          "games_last_4d": 2,
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Nov 02",
+          "days_rest": 1,
+          "games_last_4d": 3,
           "travel_miles": 1111,
           "travel_desc": "1,111 mi road trip",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "Oct 31",
-          "days_rest": 2,
-          "games_last_4d": 1,
-          "travel_miles": 414,
-          "travel_desc": "414 mi road trip",
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Nov 02",
+          "days_rest": 1,
+          "games_last_4d": 2,
+          "travel_miles": 950,
+          "travel_desc": "950 mi road trip",
           "source": "ESPN Scoreboard API"
         }
       },
       "edge_factors": [
-        "\ud83d\udcca 17.0pt probability edge"
+        "\ud83d\udca4 MIN fatigued (B2B) \u2014 source: ESPN"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -2725,9 +2006,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "Oklahoma City Thunder hold a 58.5% edge.",
+        "trend": "MIN on Back-to-Back \u26a0\ufe0f per ESPN schedule data. OKC on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line moved -155\u2192-156 (1pts). Pending \u2014 check closer to tip-off",
+        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -2741,22 +2022,22 @@
       },
       "news": [
         {
-          "title": "Celtics Free-Throw Woes Vanish As Tatum Leads Top-5 Surge",
-          "source": "Gamedaynewengland.com",
-          "link": "https://gamedaynewengland.com/celtics-free-throw-woes-vanish-as-tatum-leads-top-5-surge/",
-          "published": "2026-11-01T20:37:04Z"
+          "title": "Lakers\u2019 Little-Used Big Man Seeking \u2018Physicality\u2019",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/los-angeles-lakers/big-man-seeking-physicality/",
+          "published": "2026-11-02T03:09:53Z"
         },
         {
-          "title": "Why Charles Lee Needs to Play Hannes Steinbach Now",
-          "source": "Yahoo Entertainment",
-          "link": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_2a5eeded-c673-4453-9d22-be3221b481b3",
-          "published": "2026-11-01T20:32:42Z"
+          "title": "Lauri Markkanen Emerges As Warriors\u2019 Potential Trade Target",
+          "source": "Fadeaway World",
+          "link": "https://fadeawayworld.net/nba-trade-rumors/golden-state-warriors/lauri-markkanen-emerges-as-warriors-potential-trade-target",
+          "published": "2026-11-02T03:09:49Z"
         },
         {
-          "title": "Betr Promo Code YAHOOBONUS: Up to $200 in No Sweat Tokens Plus a Free Pick for Eagles vs. Commanders",
-          "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/betting/promos/article/betr-promo-code-yahoobonus-up-to-200-in-no-sweat-tokens-plus-a-free-pick-for-eagles-vs-commanders-203000244.html",
-          "published": "2026-11-01T20:30:00Z"
+          "title": "Coby White Gets Positive Injury Update for Hornets",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/charlotte-hornets/coby-white-positive-injury-update-hornets/",
+          "published": "2026-11-02T03:05:13Z"
         }
       ]
     },
@@ -2783,50 +2064,50 @@
       "commence_time": "2026-12-26T03:40:00Z",
       "line_movement": {
         "home": {
-          "direction": "longer",
-          "points_moved": 1,
+          "direction": "none",
+          "points_moved": 0,
           "steam": false,
-          "label": "\ud83d\udd34 +115 \u2190 +114",
-          "old_ml": "+114",
+          "label": "No movement",
+          "old_ml": "+115",
           "new_ml": "+115"
         },
         "away": {
-          "direction": "shorter",
-          "points_moved": 1,
+          "direction": "none",
+          "points_moved": 0,
           "steam": false,
-          "label": "\ud83d\udfe2 -136 \u2190 -135",
-          "old_ml": "-135",
+          "label": "No movement",
+          "old_ml": "-136",
           "new_ml": "-136"
         },
         "pick": {
-          "direction": "shorter",
-          "points_moved": 1,
+          "direction": "none",
+          "points_moved": 0,
           "steam": false,
-          "label": "\ud83d\udfe2 -136 \u2190 -135",
-          "old_ml": "-135",
+          "label": "No movement",
+          "old_ml": "-136",
           "new_ml": "-136"
         },
-        "snapshot_time": "November 02, 2026 at 01:39 PM UTC"
+        "snapshot_time": "November 02, 2026 at 08:38 PM UTC"
       },
       "fatigue": {
         "home": {
           "status": "B2B",
           "label": "Back-to-Back \u26a0\ufe0f",
           "battery": 20,
-          "last_game": "Nov 01",
+          "last_game": "Nov 02",
           "days_rest": 1,
-          "games_last_4d": 2,
+          "games_last_4d": 3,
           "travel_miles": 0,
           "travel_desc": "",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "RESTED",
-          "label": "2 days rest \u2705",
-          "battery": 88,
-          "last_game": "Oct 30",
-          "days_rest": 3,
-          "games_last_4d": 1,
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Nov 02",
+          "days_rest": 1,
+          "games_last_4d": 2,
           "travel_miles": 585,
           "travel_desc": "585 mi road trip",
           "source": "ESPN Scoreboard API"
@@ -2870,9 +2151,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "GSW on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "trend": "GSW on Back-to-Back \u26a0\ufe0f per ESPN schedule data. DEN on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line moved -135\u2192-136 (1pts). Pending \u2014 check closer to tip-off",
+        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -2886,22 +2167,22 @@
       },
       "news": [
         {
-          "title": "Celtics Free-Throw Woes Vanish As Tatum Leads Top-5 Surge",
-          "source": "Gamedaynewengland.com",
-          "link": "https://gamedaynewengland.com/celtics-free-throw-woes-vanish-as-tatum-leads-top-5-surge/",
-          "published": "2026-11-01T20:37:04Z"
+          "title": "Lakers\u2019 Little-Used Big Man Seeking \u2018Physicality\u2019",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/los-angeles-lakers/big-man-seeking-physicality/",
+          "published": "2026-11-02T03:09:53Z"
         },
         {
-          "title": "Why Charles Lee Needs to Play Hannes Steinbach Now",
-          "source": "Yahoo Entertainment",
-          "link": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_2a5eeded-c673-4453-9d22-be3221b481b3",
-          "published": "2026-11-01T20:32:42Z"
+          "title": "Lauri Markkanen Emerges As Warriors\u2019 Potential Trade Target",
+          "source": "Fadeaway World",
+          "link": "https://fadeawayworld.net/nba-trade-rumors/golden-state-warriors/lauri-markkanen-emerges-as-warriors-potential-trade-target",
+          "published": "2026-11-02T03:09:49Z"
         },
         {
-          "title": "Betr Promo Code YAHOOBONUS: Up to $200 in No Sweat Tokens Plus a Free Pick for Eagles vs. Commanders",
-          "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/betting/promos/article/betr-promo-code-yahoobonus-up-to-200-in-no-sweat-tokens-plus-a-free-pick-for-eagles-vs-commanders-203000244.html",
-          "published": "2026-11-01T20:30:00Z"
+          "title": "Coby White Gets Positive Injury Update for Hornets",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/charlotte-hornets/coby-white-positive-injury-update-hornets/",
+          "published": "2026-11-02T03:05:13Z"
         }
       ]
     }
@@ -2909,43 +2190,43 @@
   "track_record": {
     "LOW": {
       "wins": 13,
-      "losses": 13,
-      "total": 26,
-      "win_pct": 50.0,
-      "roi": -8.1,
-      "profit": -210.05
+      "losses": 14,
+      "total": 27,
+      "win_pct": 48.1,
+      "roi": -11.5,
+      "profit": -310.05
     },
     "MEDIUM": {
-      "wins": 28,
-      "losses": 15,
-      "total": 43,
-      "win_pct": 65.1,
-      "roi": -1.8,
-      "profit": -77.41
+      "wins": 30,
+      "losses": 16,
+      "total": 46,
+      "win_pct": 65.2,
+      "roi": -1.5,
+      "profit": -69.76
     },
     "HIGH": {
-      "wins": 18,
+      "wins": 20,
       "losses": 3,
-      "total": 21,
-      "win_pct": 85.7,
-      "roi": 4.8,
-      "profit": 100.17
+      "total": 23,
+      "win_pct": 87.0,
+      "roi": 5.5,
+      "profit": 127.31
     },
     "overall_7d": {
-      "wins": 21,
-      "losses": 7,
-      "total": 28,
-      "win_pct": 75.0,
-      "roi": 10.2,
-      "profit": 286.55
+      "wins": 25,
+      "losses": 8,
+      "total": 33,
+      "win_pct": 75.8,
+      "roi": 9.7,
+      "profit": 321.34
     },
     "overall_30d": {
-      "wins": 42,
-      "losses": 21,
-      "total": 63,
+      "wins": 46,
+      "losses": 23,
+      "total": 69,
       "win_pct": 66.7,
-      "roi": -1.7,
-      "profit": -105.12
+      "roi": -2.5,
+      "profit": -170.33
     }
   }
 }

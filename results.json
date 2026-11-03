@@ -1688,9 +1688,11 @@
       "win_probability": 61.6,
       "commence_time": "2026-11-03T00:10:00Z",
       "date": "2026-11-02T01:18:45.982021+00:00",
-      "graded": false,
-      "result": null,
-      "profit": null
+      "graded": true,
+      "result": "LOSS",
+      "profit": -100,
+      "home_score": 112,
+      "away_score": 117
     },
     {
       "game": "Brooklyn Nets @ New York Knicks",
@@ -1702,9 +1704,11 @@
       "win_probability": 85.8,
       "commence_time": "2026-11-03T00:40:00Z",
       "date": "2026-11-02T01:18:45.982021+00:00",
-      "graded": false,
-      "result": null,
-      "profit": null
+      "graded": true,
+      "result": "WIN",
+      "profit": 11.76,
+      "home_score": 103,
+      "away_score": 90
     },
     {
       "game": "Detroit Pistons @ Charlotte Hornets",
@@ -1716,9 +1720,11 @@
       "win_probability": 60.9,
       "commence_time": "2026-11-03T00:40:00Z",
       "date": "2026-11-02T01:18:45.982021+00:00",
-      "graded": false,
-      "result": null,
-      "profit": null
+      "graded": true,
+      "result": "WIN",
+      "profit": 57.14,
+      "home_score": 91,
+      "away_score": 124
     },
     {
       "game": "Chicago Bulls @ Philadelphia 76ers",
@@ -1730,9 +1736,11 @@
       "win_probability": 83.2,
       "commence_time": "2026-11-03T00:40:00Z",
       "date": "2026-11-02T01:18:45.982021+00:00",
-      "graded": false,
-      "result": null,
-      "profit": null
+      "graded": true,
+      "result": "WIN",
+      "profit": 15.38,
+      "home_score": 126,
+      "away_score": 107
     },
     {
       "game": "Washington Wizards @ Orlando Magic",
@@ -1744,9 +1752,11 @@
       "win_probability": 52.2,
       "commence_time": "2026-11-03T00:40:00Z",
       "date": "2026-11-02T01:18:45.982021+00:00",
-      "graded": false,
-      "result": null,
-      "profit": null
+      "graded": true,
+      "result": "LOSS",
+      "profit": -100,
+      "home_score": 94,
+      "away_score": 103
     },
     {
       "game": "New Orleans Pelicans @ Memphis Grizzlies",
@@ -1828,9 +1838,11 @@
       "win_probability": 63.7,
       "commence_time": "2026-11-03T00:40:00Z",
       "date": "2026-11-02T05:13:30.539976+00:00",
-      "graded": false,
-      "result": null,
-      "profit": null
+      "graded": true,
+      "result": "WIN",
+      "profit": 50.51,
+      "home_score": 104,
+      "away_score": 108
     },
     {
       "game": "Sacramento Kings @ Dallas Mavericks",
@@ -1892,44 +1904,44 @@
   "summary": {
     "LOW": {
       "wins": 13,
-      "losses": 13,
-      "total": 26,
-      "win_pct": 50.0,
-      "roi": -8.1,
-      "profit": -210.05
+      "losses": 14,
+      "total": 27,
+      "win_pct": 48.1,
+      "roi": -11.5,
+      "profit": -310.05
     },
     "MEDIUM": {
-      "wins": 28,
-      "losses": 15,
-      "total": 43,
-      "win_pct": 65.1,
-      "roi": -1.8,
-      "profit": -77.41
+      "wins": 30,
+      "losses": 16,
+      "total": 46,
+      "win_pct": 65.2,
+      "roi": -1.5,
+      "profit": -69.76
     },
     "HIGH": {
-      "wins": 18,
+      "wins": 20,
       "losses": 3,
-      "total": 21,
-      "win_pct": 85.7,
-      "roi": 4.8,
-      "profit": 100.17
+      "total": 23,
+      "win_pct": 87.0,
+      "roi": 5.5,
+      "profit": 127.31
     },
     "overall_7d": {
-      "wins": 21,
-      "losses": 7,
-      "total": 28,
-      "win_pct": 75.0,
-      "roi": 10.2,
-      "profit": 286.55
+      "wins": 25,
+      "losses": 8,
+      "total": 33,
+      "win_pct": 75.8,
+      "roi": 9.7,
+      "profit": 321.34
     },
     "overall_30d": {
-      "wins": 42,
-      "losses": 21,
-      "total": 63,
+      "wins": 46,
+      "losses": 23,
+      "total": 69,
       "win_pct": 66.7,
-      "roi": -1.7,
-      "profit": -105.12
+      "roi": -2.5,
+      "profit": -170.33
     }
   },
-  "last_graded": "2026-11-02T05:12:39.506924+00:00"
+  "last_graded": "2026-11-03T03:19:04.277784+00:00"
 }
