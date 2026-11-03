@@ -1896,9 +1896,11 @@
       "win_probability": 63.7,
       "commence_time": "2026-11-03T03:10:00Z",
       "date": "2026-11-02T05:13:30.539976+00:00",
-      "graded": false,
-      "result": null,
-      "profit": null
+      "graded": true,
+      "result": "WIN",
+      "profit": 50.51,
+      "home_score": 118,
+      "away_score": 125
     },
     {
       "game": "Miami Heat @ Los Angeles Lakers",
@@ -1957,6 +1959,20 @@
       "graded": false,
       "result": null,
       "profit": null
+    },
+    {
+      "game": "Cleveland Cavaliers @ Oklahoma City Thunder",
+      "pick": "Oklahoma City Thunder",
+      "pick_abbr": "OKC",
+      "moneyline": "-138",
+      "moneyline_raw": -138,
+      "confidence": "LOW",
+      "win_probability": 55.7,
+      "commence_time": "2026-11-05T01:00:00Z",
+      "date": "2026-11-03T18:14:11.569323+00:00",
+      "graded": false,
+      "result": null,
+      "profit": null
     }
   ],
   "summary": {
@@ -1969,12 +1985,12 @@
       "profit": -233.13
     },
     "MEDIUM": {
-      "wins": 32,
+      "wins": 33,
       "losses": 18,
-      "total": 50,
-      "win_pct": 64.0,
-      "roi": -3.2,
-      "profit": -162.12
+      "total": 51,
+      "win_pct": 64.7,
+      "roi": -2.2,
+      "profit": -111.61
     },
     "HIGH": {
       "wins": 22,
@@ -1985,21 +2001,21 @@
       "profit": 56.54
     },
     "overall_7d": {
-      "wins": 27,
+      "wins": 28,
       "losses": 11,
-      "total": 38,
-      "win_pct": 71.1,
-      "roi": 3.9,
-      "profit": 147.66
+      "total": 39,
+      "win_pct": 71.8,
+      "roi": 5.1,
+      "profit": 198.17
     },
     "overall_30d": {
-      "wins": 51,
+      "wins": 52,
       "losses": 26,
-      "total": 77,
-      "win_pct": 66.2,
-      "roi": -3.3,
-      "profit": -256.54
+      "total": 78,
+      "win_pct": 66.7,
+      "roi": -2.6,
+      "profit": -206.03
     }
   },
-  "last_graded": "2026-11-03T05:56:12.487789+00:00"
+  "last_graded": "2026-11-03T18:13:23.693309+00:00"
 }
