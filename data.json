@@ -1,28 +1,28 @@
 {
-  "last_updated": "November 03, 2026 at 03:19 AM UTC",
-  "total_games": 15,
+  "last_updated": "November 03, 2026 at 05:57 AM UTC",
+  "total_games": 11,
   "games": [
     {
-      "game": "Brooklyn Nets @ New York Knicks",
-      "home_team": "New York Knicks",
-      "away_team": "Brooklyn Nets",
-      "home_abbr": "NYK",
-      "away_abbr": "BKN",
+      "game": "Phoenix Suns @ Golden State Warriors",
+      "home_team": "Golden State Warriors",
+      "away_team": "Phoenix Suns",
+      "home_abbr": "GSW",
+      "away_abbr": "PHX",
       "home_ml": "N/A",
       "away_ml": "N/A",
       "home_ml_raw": null,
       "away_ml_raw": null,
       "home_prob": 50.0,
       "away_prob": 50.0,
-      "spread": "NYK -12.5",
-      "favorite": "New York Knicks",
-      "pick": "New York Knicks",
-      "pick_abbr": "NYK",
+      "spread": "GSW -3.5",
+      "favorite": "Golden State Warriors",
+      "pick": "Golden State Warriors",
+      "pick_abbr": "GSW",
       "moneyline": "N/A",
       "win_probability": 50.0,
       "confidence": "LOW",
       "confidence_stars": "\u2605\u2606\u2606",
-      "commence_time": "2026-11-03T00:41:21Z",
+      "commence_time": "2026-11-03T03:13:00Z",
       "line_movement": {
         "home": {
           "direction": "none",
@@ -48,7 +48,7 @@
           "old_ml": "\u2014",
           "new_ml": "\u2014"
         },
-        "snapshot_time": "November 02, 2026 at 08:38 PM UTC"
+        "snapshot_time": "November 03, 2026 at 03:19 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -57,9 +57,154 @@
           "battery": 20,
           "last_game": "Nov 02",
           "days_rest": 1,
+          "games_last_4d": 3,
+          "travel_miles": 0,
+          "travel_desc": "",
+          "source": "ESPN Scoreboard API"
+        },
+        "away": {
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Nov 02",
+          "days_rest": 1,
           "games_last_4d": 2,
-          "travel_miles": 85,
-          "travel_desc": "85 mi road trip",
+          "travel_miles": 651,
+          "travel_desc": "651 mi road trip",
+          "source": "ESPN Scoreboard API"
+        }
+      },
+      "edge_factors": [
+        "\ud83d\udca4 PHX fatigued (B2B) \u2014 source: ESPN"
+      ],
+      "injury_notes": "No key injuries.",
+      "sharp": {
+        "away_t": null,
+        "home_t": null,
+        "source": null,
+        "sharp_signal": null,
+        "sharp_label": "Pending \u2014 check closer to tip-off",
+        "rlm": false
+      },
+      "form": {
+        "home": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        },
+        "away": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        }
+      },
+      "h2h": {
+        "total_meetings": 0,
+        "home_wins": 0,
+        "away_wins": 0,
+        "meetings": [],
+        "source": "\u2014"
+      },
+      "briefing": {
+        "trend": "GSW on Back-to-Back \u26a0\ufe0f per ESPN schedule data. PHX on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "matchup": "Both rosters appear healthy \u2014 clean line.",
+        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "injury_notes": "No key injuries."
+      },
+      "live": {
+        "status": "pre",
+        "status_detail": "Upcoming",
+        "period": 0,
+        "clock": "",
+        "home_score": 0,
+        "away_score": 0,
+        "spread_alert": null
+      },
+      "news": [
+        {
+          "title": "Luka Doncic Pours In 45 Points and 15 Rebounds as Lakers Bounce Back to Beat Raptors, Fueling MVP Buzz",
+          "source": "Ibtimes.com.au",
+          "link": "https://www.ibtimes.com.au/luka-doncic-45-points-lakers-beat-raptors-1877705",
+          "published": "2026-11-02T05:55:10Z"
+        },
+        {
+          "title": "Lakers\u2019 Luka Doncic torches Raptors with stat line NBA has not seen before",
+          "source": "ClutchPoints",
+          "link": "https://clutchpoints.com/nba/los-angeles-lakers/lakers-news-luka-doncic-torches-raptors-historic-nba-stats",
+          "published": "2026-11-02T05:51:56Z"
+        },
+        {
+          "title": "Nolan Traore lifts Nets to first win of season with big second half",
+          "source": "ClutchPoints",
+          "link": "https://clutchpoints.com/nba/brooklyn-nets/nets-news-nolan-traore-reacts-to-big-second-half-lifting-brooklyn-first-win",
+          "published": "2026-11-02T05:49:58Z"
+        }
+      ]
+    },
+    {
+      "game": "Toronto Raptors @ Los Angeles Clippers",
+      "home_team": "Los Angeles Clippers",
+      "away_team": "Toronto Raptors",
+      "home_abbr": "LAC",
+      "away_abbr": "TOR",
+      "home_ml": "N/A",
+      "away_ml": "N/A",
+      "home_ml_raw": null,
+      "away_ml_raw": null,
+      "home_prob": 50.0,
+      "away_prob": 50.0,
+      "spread": "LAC +5.5",
+      "favorite": "Los Angeles Clippers",
+      "pick": "Los Angeles Clippers",
+      "pick_abbr": "LAC",
+      "moneyline": "N/A",
+      "win_probability": 50.0,
+      "confidence": "LOW",
+      "confidence_stars": "\u2605\u2606\u2606",
+      "commence_time": "2026-11-03T03:13:00Z",
+      "line_movement": {
+        "home": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "away": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "pick": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "snapshot_time": "November 03, 2026 at 03:19 AM UTC"
+      },
+      "fatigue": {
+        "home": {
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Nov 02",
+          "days_rest": 1,
+          "games_last_4d": 3,
+          "travel_miles": 346,
+          "travel_desc": "346 mi road trip",
           "source": "ESPN Scoreboard API"
         },
         "away": {
@@ -69,8 +214,299 @@
           "last_game": "Nov 02",
           "days_rest": 1,
           "games_last_4d": 3,
+          "travel_miles": 2173,
+          "travel_desc": "2,173 mi road trip",
+          "source": "ESPN Scoreboard API"
+        }
+      },
+      "edge_factors": [
+        "\ud83d\udca4 TOR fatigued (B2B) \u2014 source: ESPN",
+        "\u2708\ufe0f TOR traveled 2,173 mi"
+      ],
+      "injury_notes": "No key injuries.",
+      "sharp": {
+        "away_t": null,
+        "home_t": null,
+        "source": null,
+        "sharp_signal": null,
+        "sharp_label": "Pending \u2014 check closer to tip-off",
+        "rlm": false
+      },
+      "form": {
+        "home": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        },
+        "away": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        }
+      },
+      "h2h": {
+        "total_meetings": 0,
+        "home_wins": 0,
+        "away_wins": 0,
+        "meetings": [],
+        "source": "\u2014"
+      },
+      "briefing": {
+        "trend": "LAC on Back-to-Back \u26a0\ufe0f per ESPN schedule data. TOR on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "matchup": "Both rosters appear healthy \u2014 clean line.",
+        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "injury_notes": "No key injuries."
+      },
+      "live": {
+        "status": "pre",
+        "status_detail": "Upcoming",
+        "period": 0,
+        "clock": "",
+        "home_score": 0,
+        "away_score": 0,
+        "spread_alert": null
+      },
+      "news": [
+        {
+          "title": "Luka Doncic Pours In 45 Points and 15 Rebounds as Lakers Bounce Back to Beat Raptors, Fueling MVP Buzz",
+          "source": "Ibtimes.com.au",
+          "link": "https://www.ibtimes.com.au/luka-doncic-45-points-lakers-beat-raptors-1877705",
+          "published": "2026-11-02T05:55:10Z"
+        },
+        {
+          "title": "Lakers\u2019 Luka Doncic torches Raptors with stat line NBA has not seen before",
+          "source": "ClutchPoints",
+          "link": "https://clutchpoints.com/nba/los-angeles-lakers/lakers-news-luka-doncic-torches-raptors-historic-nba-stats",
+          "published": "2026-11-02T05:51:56Z"
+        },
+        {
+          "title": "Nolan Traore lifts Nets to first win of season with big second half",
+          "source": "ClutchPoints",
+          "link": "https://clutchpoints.com/nba/brooklyn-nets/nets-news-nolan-traore-reacts-to-big-second-half-lifting-brooklyn-first-win",
+          "published": "2026-11-02T05:49:58Z"
+        }
+      ]
+    },
+    {
+      "game": "Philadelphia 76ers @ Detroit Pistons",
+      "home_team": "Detroit Pistons",
+      "away_team": "Philadelphia 76ers",
+      "home_abbr": "DET",
+      "away_abbr": "PHI",
+      "home_ml": "-125",
+      "away_ml": "+106",
+      "home_ml_raw": -125,
+      "away_ml_raw": 106,
+      "home_prob": 53.4,
+      "away_prob": 46.6,
+      "spread": "DET -1.5",
+      "favorite": "Detroit Pistons",
+      "pick": "Detroit Pistons",
+      "pick_abbr": "DET",
+      "moneyline": "-125",
+      "win_probability": 53.4,
+      "confidence": "LOW",
+      "confidence_stars": "\u2605\u2606\u2606",
+      "commence_time": "2026-11-05T00:10:00Z",
+      "line_movement": {
+        "home": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "away": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "pick": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "snapshot_time": "\u2014"
+      },
+      "fatigue": {
+        "home": {
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Nov 02",
+          "days_rest": 1,
+          "games_last_4d": 2,
+          "travel_miles": 506,
+          "travel_desc": "506 mi road trip",
+          "source": "ESPN Scoreboard API"
+        },
+        "away": {
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Nov 02",
+          "days_rest": 1,
+          "games_last_4d": 3,
+          "travel_miles": 448,
+          "travel_desc": "448 mi road trip",
+          "source": "ESPN Scoreboard API"
+        }
+      },
+      "edge_factors": [
+        "\ud83d\udca4 PHI fatigued (B2B) \u2014 source: ESPN"
+      ],
+      "injury_notes": "No key injuries.",
+      "sharp": {
+        "away_t": null,
+        "home_t": null,
+        "source": null,
+        "sharp_signal": null,
+        "sharp_label": "Pending \u2014 check closer to tip-off",
+        "rlm": false
+      },
+      "form": {
+        "home": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        },
+        "away": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        }
+      },
+      "h2h": {
+        "total_meetings": 0,
+        "home_wins": 0,
+        "away_wins": 0,
+        "meetings": [],
+        "source": "\u2014"
+      },
+      "briefing": {
+        "trend": "DET on Back-to-Back \u26a0\ufe0f per ESPN schedule data. PHI on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "matchup": "Both rosters appear healthy \u2014 clean line.",
+        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "injury_notes": "No key injuries."
+      },
+      "live": {
+        "status": "pre",
+        "status_detail": "Upcoming",
+        "period": 0,
+        "clock": "",
+        "home_score": 0,
+        "away_score": 0,
+        "spread_alert": null
+      },
+      "news": [
+        {
+          "title": "Luka Doncic Pours In 45 Points and 15 Rebounds as Lakers Bounce Back to Beat Raptors, Fueling MVP Buzz",
+          "source": "Ibtimes.com.au",
+          "link": "https://www.ibtimes.com.au/luka-doncic-45-points-lakers-beat-raptors-1877705",
+          "published": "2026-11-02T05:55:10Z"
+        },
+        {
+          "title": "Lakers\u2019 Luka Doncic torches Raptors with stat line NBA has not seen before",
+          "source": "ClutchPoints",
+          "link": "https://clutchpoints.com/nba/los-angeles-lakers/lakers-news-luka-doncic-torches-raptors-historic-nba-stats",
+          "published": "2026-11-02T05:51:56Z"
+        },
+        {
+          "title": "Nolan Traore lifts Nets to first win of season with big second half",
+          "source": "ClutchPoints",
+          "link": "https://clutchpoints.com/nba/brooklyn-nets/nets-news-nolan-traore-reacts-to-big-second-half-lifting-brooklyn-first-win",
+          "published": "2026-11-02T05:49:58Z"
+        }
+      ]
+    },
+    {
+      "game": "Charlotte Hornets @ Brooklyn Nets",
+      "home_team": "Brooklyn Nets",
+      "away_team": "Charlotte Hornets",
+      "home_abbr": "BKN",
+      "away_abbr": "CHA",
+      "home_ml": "+115",
+      "away_ml": "-136",
+      "home_ml_raw": 115,
+      "away_ml_raw": -136,
+      "home_prob": 44.7,
+      "away_prob": 55.3,
+      "spread": "BKN +2.5",
+      "favorite": "Charlotte Hornets",
+      "pick": "Charlotte Hornets",
+      "pick_abbr": "CHA",
+      "moneyline": "-136",
+      "win_probability": 55.3,
+      "confidence": "LOW",
+      "confidence_stars": "\u2605\u2606\u2606",
+      "commence_time": "2026-11-05T00:40:00Z",
+      "line_movement": {
+        "home": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "away": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "pick": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "snapshot_time": "\u2014"
+      },
+      "fatigue": {
+        "home": {
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Nov 02",
+          "days_rest": 1,
+          "games_last_4d": 3,
           "travel_miles": 5,
           "travel_desc": "5 mi road trip",
+          "source": "ESPN Scoreboard API"
+        },
+        "away": {
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Nov 02",
+          "days_rest": 1,
+          "games_last_4d": 3,
+          "travel_miles": 330,
+          "travel_desc": "330 mi road trip",
           "source": "ESPN Scoreboard API"
         }
       },
@@ -112,7 +548,7 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "NYK on Back-to-Back \u26a0\ufe0f per ESPN schedule data. BKN on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "trend": "BKN on Back-to-Back \u26a0\ufe0f per ESPN schedule data. CHA on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
         "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
@@ -128,46 +564,46 @@
       },
       "news": [
         {
-          "title": "Lakers\u2019 Little-Used Big Man Seeking \u2018Physicality\u2019",
-          "source": "Heavy.com",
-          "link": "https://heavy.com/sports/nba/los-angeles-lakers/big-man-seeking-physicality/",
-          "published": "2026-11-02T03:09:53Z"
+          "title": "Luka Doncic Pours In 45 Points and 15 Rebounds as Lakers Bounce Back to Beat Raptors, Fueling MVP Buzz",
+          "source": "Ibtimes.com.au",
+          "link": "https://www.ibtimes.com.au/luka-doncic-45-points-lakers-beat-raptors-1877705",
+          "published": "2026-11-02T05:55:10Z"
         },
         {
-          "title": "Lauri Markkanen Emerges As Warriors\u2019 Potential Trade Target",
-          "source": "Fadeaway World",
-          "link": "https://fadeawayworld.net/nba-trade-rumors/golden-state-warriors/lauri-markkanen-emerges-as-warriors-potential-trade-target",
-          "published": "2026-11-02T03:09:49Z"
+          "title": "Lakers\u2019 Luka Doncic torches Raptors with stat line NBA has not seen before",
+          "source": "ClutchPoints",
+          "link": "https://clutchpoints.com/nba/los-angeles-lakers/lakers-news-luka-doncic-torches-raptors-historic-nba-stats",
+          "published": "2026-11-02T05:51:56Z"
         },
         {
-          "title": "Coby White Gets Positive Injury Update for Hornets",
-          "source": "Heavy.com",
-          "link": "https://heavy.com/sports/nba/charlotte-hornets/coby-white-positive-injury-update-hornets/",
-          "published": "2026-11-02T03:05:13Z"
+          "title": "Nolan Traore lifts Nets to first win of season with big second half",
+          "source": "ClutchPoints",
+          "link": "https://clutchpoints.com/nba/brooklyn-nets/nets-news-nolan-traore-reacts-to-big-second-half-lifting-brooklyn-first-win",
+          "published": "2026-11-02T05:49:58Z"
         }
       ]
     },
     {
-      "game": "Milwaukee Bucks @ Minnesota Timberwolves",
-      "home_team": "Minnesota Timberwolves",
-      "away_team": "Milwaukee Bucks",
-      "home_abbr": "MIN",
-      "away_abbr": "MIL",
-      "home_ml": "N/A",
-      "away_ml": "N/A",
-      "home_ml_raw": null,
-      "away_ml_raw": null,
-      "home_prob": 50.0,
-      "away_prob": 50.0,
-      "spread": "MIN -12.5",
-      "favorite": "Minnesota Timberwolves",
-      "pick": "Minnesota Timberwolves",
-      "pick_abbr": "MIN",
-      "moneyline": "N/A",
-      "win_probability": 50.0,
-      "confidence": "LOW",
-      "confidence_stars": "\u2605\u2606\u2606",
-      "commence_time": "2026-11-03T01:10:51Z",
+      "game": "Minnesota Timberwolves @ Houston Rockets",
+      "home_team": "Houston Rockets",
+      "away_team": "Minnesota Timberwolves",
+      "home_abbr": "HOU",
+      "away_abbr": "MIN",
+      "home_ml": "-348",
+      "away_ml": "+279",
+      "home_ml_raw": -348,
+      "away_ml_raw": 279,
+      "home_prob": 74.6,
+      "away_prob": 25.4,
+      "spread": "HOU -8.5",
+      "favorite": "Houston Rockets",
+      "pick": "Houston Rockets",
+      "pick_abbr": "HOU",
+      "moneyline": "-348",
+      "win_probability": 74.6,
+      "confidence": "HIGH",
+      "confidence_stars": "\u2605\u2605\u2605",
+      "commence_time": "2026-11-05T01:40:00Z",
       "line_movement": {
         "home": {
           "direction": "none",
@@ -193,7 +629,7 @@
           "old_ml": "\u2014",
           "new_ml": "\u2014"
         },
-        "snapshot_time": "November 02, 2026 at 08:38 PM UTC"
+        "snapshot_time": "\u2014"
       },
       "fatigue": {
         "home": {
@@ -203,8 +639,8 @@
           "last_game": "Nov 02",
           "days_rest": 1,
           "games_last_4d": 3,
-          "travel_miles": 1111,
-          "travel_desc": "1,111 mi road trip",
+          "travel_miles": 227,
+          "travel_desc": "227 mi road trip",
           "source": "ESPN Scoreboard API"
         },
         "away": {
@@ -213,14 +649,14 @@
           "battery": 20,
           "last_game": "Nov 02",
           "days_rest": 1,
-          "games_last_4d": 2,
-          "travel_miles": 298,
-          "travel_desc": "298 mi road trip",
+          "games_last_4d": 3,
+          "travel_miles": 1111,
+          "travel_desc": "1,111 mi road trip",
           "source": "ESPN Scoreboard API"
         }
       },
       "edge_factors": [
-        "\ud83d\udca4 MIL fatigued (B2B) \u2014 source: ESPN"
+        "\ud83d\udca4 MIN fatigued (B2B) \u2014 source: ESPN"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -257,7 +693,7 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "MIN on Back-to-Back \u26a0\ufe0f per ESPN schedule data. MIL on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "trend": "HOU on Back-to-Back \u26a0\ufe0f per ESPN schedule data. MIN on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
         "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
@@ -273,72 +709,72 @@
       },
       "news": [
         {
-          "title": "Lakers\u2019 Little-Used Big Man Seeking \u2018Physicality\u2019",
-          "source": "Heavy.com",
-          "link": "https://heavy.com/sports/nba/los-angeles-lakers/big-man-seeking-physicality/",
-          "published": "2026-11-02T03:09:53Z"
+          "title": "Luka Doncic Pours In 45 Points and 15 Rebounds as Lakers Bounce Back to Beat Raptors, Fueling MVP Buzz",
+          "source": "Ibtimes.com.au",
+          "link": "https://www.ibtimes.com.au/luka-doncic-45-points-lakers-beat-raptors-1877705",
+          "published": "2026-11-02T05:55:10Z"
         },
         {
-          "title": "Lauri Markkanen Emerges As Warriors\u2019 Potential Trade Target",
-          "source": "Fadeaway World",
-          "link": "https://fadeawayworld.net/nba-trade-rumors/golden-state-warriors/lauri-markkanen-emerges-as-warriors-potential-trade-target",
-          "published": "2026-11-02T03:09:49Z"
+          "title": "Lakers\u2019 Luka Doncic torches Raptors with stat line NBA has not seen before",
+          "source": "ClutchPoints",
+          "link": "https://clutchpoints.com/nba/los-angeles-lakers/lakers-news-luka-doncic-torches-raptors-historic-nba-stats",
+          "published": "2026-11-02T05:51:56Z"
         },
         {
-          "title": "Coby White Gets Positive Injury Update for Hornets",
-          "source": "Heavy.com",
-          "link": "https://heavy.com/sports/nba/charlotte-hornets/coby-white-positive-injury-update-hornets/",
-          "published": "2026-11-02T03:05:13Z"
+          "title": "Nolan Traore lifts Nets to first win of season with big second half",
+          "source": "ClutchPoints",
+          "link": "https://clutchpoints.com/nba/brooklyn-nets/nets-news-nolan-traore-reacts-to-big-second-half-lifting-brooklyn-first-win",
+          "published": "2026-11-02T05:49:58Z"
         }
       ]
     },
     {
-      "game": "Sacramento Kings @ Dallas Mavericks",
-      "home_team": "Dallas Mavericks",
-      "away_team": "Sacramento Kings",
-      "home_abbr": "DAL",
-      "away_abbr": "SAC",
-      "home_ml": "+360",
-      "away_ml": "-525",
-      "home_ml_raw": 360,
-      "away_ml_raw": -525,
-      "home_prob": 20.6,
-      "away_prob": 79.4,
-      "spread": "DAL +5.5",
-      "favorite": "Sacramento Kings",
-      "pick": "Sacramento Kings",
-      "pick_abbr": "SAC",
-      "moneyline": "-525",
-      "win_probability": 79.4,
+      "game": "Dallas Mavericks @ San Antonio Spurs",
+      "home_team": "San Antonio Spurs",
+      "away_team": "Dallas Mavericks",
+      "home_abbr": "SAS",
+      "away_abbr": "DAL",
+      "home_ml": "-700",
+      "away_ml": "+502",
+      "home_ml_raw": -700,
+      "away_ml_raw": 502,
+      "home_prob": 84.0,
+      "away_prob": 16.0,
+      "spread": "SAS -12.5",
+      "favorite": "San Antonio Spurs",
+      "pick": "San Antonio Spurs",
+      "pick_abbr": "SAS",
+      "moneyline": "-700",
+      "win_probability": 84.0,
       "confidence": "HIGH",
       "confidence_stars": "\u2605\u2605\u2605",
-      "commence_time": "2026-11-03T01:11:00Z",
+      "commence_time": "2026-11-05T02:40:00Z",
       "line_movement": {
         "home": {
-          "direction": "longer",
-          "points_moved": 704,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM +360 \u2190 -344",
-          "old_ml": "-344",
-          "new_ml": "+360"
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
         },
         "away": {
-          "direction": "shorter",
-          "points_moved": 801,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -525 \u2190 +276",
-          "old_ml": "+276",
-          "new_ml": "-525"
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
         },
         "pick": {
-          "direction": "shorter",
-          "points_moved": 801,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -525 \u2190 +276",
-          "old_ml": "+276",
-          "new_ml": "-525"
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
         },
-        "snapshot_time": "November 02, 2026 at 08:38 PM UTC"
+        "snapshot_time": "\u2014"
       },
       "fatigue": {
         "home": {
@@ -359,13 +795,12 @@
           "last_game": "Nov 02",
           "days_rest": 1,
           "games_last_4d": 2,
-          "travel_miles": 1437,
-          "travel_desc": "1,437 mi road trip",
+          "travel_miles": 0,
+          "travel_desc": "",
           "source": "ESPN Scoreboard API"
         }
       },
       "edge_factors": [
-        "\ud83d\udd25 Sharp steam detected",
         "\ud83d\udca4 DAL fatigued (B2B) \u2014 source: ESPN"
       ],
       "injury_notes": "No key injuries.",
@@ -403,444 +838,7 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "DAL on Back-to-Back \u26a0\ufe0f per ESPN schedule data. SAC on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from +276 to -525 (801pt move) \u2014 heavy professional action on Sacramento Kings.",
-        "injury_notes": "No key injuries."
-      },
-      "live": {
-        "status": "pre",
-        "status_detail": "Upcoming",
-        "period": 0,
-        "clock": "",
-        "home_score": 0,
-        "away_score": 0,
-        "spread_alert": null
-      },
-      "news": [
-        {
-          "title": "Lakers\u2019 Little-Used Big Man Seeking \u2018Physicality\u2019",
-          "source": "Heavy.com",
-          "link": "https://heavy.com/sports/nba/los-angeles-lakers/big-man-seeking-physicality/",
-          "published": "2026-11-02T03:09:53Z"
-        },
-        {
-          "title": "Lauri Markkanen Emerges As Warriors\u2019 Potential Trade Target",
-          "source": "Fadeaway World",
-          "link": "https://fadeawayworld.net/nba-trade-rumors/golden-state-warriors/lauri-markkanen-emerges-as-warriors-potential-trade-target",
-          "published": "2026-11-02T03:09:49Z"
-        },
-        {
-          "title": "Coby White Gets Positive Injury Update for Hornets",
-          "source": "Heavy.com",
-          "link": "https://heavy.com/sports/nba/charlotte-hornets/coby-white-positive-injury-update-hornets/",
-          "published": "2026-11-02T03:05:13Z"
-        }
-      ]
-    },
-    {
-      "game": "New Orleans Pelicans @ Memphis Grizzlies",
-      "home_team": "Memphis Grizzlies",
-      "away_team": "New Orleans Pelicans",
-      "home_abbr": "MEM",
-      "away_abbr": "NOP",
-      "home_ml": "-115",
-      "away_ml": "-115",
-      "home_ml_raw": -115,
-      "away_ml_raw": -115,
-      "home_prob": 50.0,
-      "away_prob": 50.0,
-      "spread": "MEM -1.5",
-      "favorite": "Memphis Grizzlies",
-      "pick": "Memphis Grizzlies",
-      "pick_abbr": "MEM",
-      "moneyline": "-115",
-      "win_probability": 50.0,
-      "confidence": "LOW",
-      "confidence_stars": "\u2605\u2606\u2606",
-      "commence_time": "2026-11-03T01:11:33Z",
-      "line_movement": {
-        "home": {
-          "direction": "longer",
-          "points_moved": 82,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -115 \u2190 -197",
-          "old_ml": "-197",
-          "new_ml": "-115"
-        },
-        "away": {
-          "direction": "shorter",
-          "points_moved": 279,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -115 \u2190 +164",
-          "old_ml": "+164",
-          "new_ml": "-115"
-        },
-        "pick": {
-          "direction": "longer",
-          "points_moved": 82,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -115 \u2190 -197",
-          "old_ml": "-197",
-          "new_ml": "-115"
-        },
-        "snapshot_time": "November 02, 2026 at 08:38 PM UTC"
-      },
-      "fatigue": {
-        "home": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
-          "last_game": "Nov 02",
-          "days_rest": 1,
-          "games_last_4d": 2,
-          "travel_miles": 0,
-          "travel_desc": "",
-          "source": "ESPN Scoreboard API"
-        },
-        "away": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
-          "last_game": "Nov 02",
-          "days_rest": 1,
-          "games_last_4d": 2,
-          "travel_miles": 359,
-          "travel_desc": "359 mi road trip",
-          "source": "ESPN Scoreboard API"
-        }
-      },
-      "edge_factors": [
-        "\ud83d\udd25 Sharp steam detected",
-        "\ud83d\udca4 NOP fatigued (B2B) \u2014 source: ESPN"
-      ],
-      "injury_notes": "No key injuries.",
-      "sharp": {
-        "away_t": null,
-        "home_t": null,
-        "source": null,
-        "sharp_signal": null,
-        "sharp_label": "Pending \u2014 check closer to tip-off",
-        "rlm": false
-      },
-      "form": {
-        "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        },
-        "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        }
-      },
-      "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
-      },
-      "briefing": {
-        "trend": "MEM on Back-to-Back \u26a0\ufe0f per ESPN schedule data. NOP on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -197 to -115 (82pt move) \u2014 heavy professional action on Memphis Grizzlies.",
-        "injury_notes": "No key injuries."
-      },
-      "live": {
-        "status": "pre",
-        "status_detail": "Upcoming",
-        "period": 0,
-        "clock": "",
-        "home_score": 0,
-        "away_score": 0,
-        "spread_alert": null
-      },
-      "news": [
-        {
-          "title": "Lakers\u2019 Little-Used Big Man Seeking \u2018Physicality\u2019",
-          "source": "Heavy.com",
-          "link": "https://heavy.com/sports/nba/los-angeles-lakers/big-man-seeking-physicality/",
-          "published": "2026-11-02T03:09:53Z"
-        },
-        {
-          "title": "Lauri Markkanen Emerges As Warriors\u2019 Potential Trade Target",
-          "source": "Fadeaway World",
-          "link": "https://fadeawayworld.net/nba-trade-rumors/golden-state-warriors/lauri-markkanen-emerges-as-warriors-potential-trade-target",
-          "published": "2026-11-02T03:09:49Z"
-        },
-        {
-          "title": "Coby White Gets Positive Injury Update for Hornets",
-          "source": "Heavy.com",
-          "link": "https://heavy.com/sports/nba/charlotte-hornets/coby-white-positive-injury-update-hornets/",
-          "published": "2026-11-02T03:05:13Z"
-        }
-      ]
-    },
-    {
-      "game": "Boston Celtics @ Houston Rockets",
-      "home_team": "Houston Rockets",
-      "away_team": "Boston Celtics",
-      "home_abbr": "HOU",
-      "away_abbr": "BOS",
-      "home_ml": "-370",
-      "away_ml": "+270",
-      "home_ml_raw": -370,
-      "away_ml_raw": 270,
-      "home_prob": 74.4,
-      "away_prob": 25.6,
-      "spread": "HOU -6.5",
-      "favorite": "Houston Rockets",
-      "pick": "Houston Rockets",
-      "pick_abbr": "HOU",
-      "moneyline": "-370",
-      "win_probability": 74.4,
-      "confidence": "HIGH",
-      "confidence_stars": "\u2605\u2605\u2605",
-      "commence_time": "2026-11-03T01:40:36Z",
-      "line_movement": {
-        "home": {
-          "direction": "shorter",
-          "points_moved": 173,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -370 \u2190 -197",
-          "old_ml": "-197",
-          "new_ml": "-370"
-        },
-        "away": {
-          "direction": "longer",
-          "points_moved": 106,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM +270 \u2190 +164",
-          "old_ml": "+164",
-          "new_ml": "+270"
-        },
-        "pick": {
-          "direction": "shorter",
-          "points_moved": 173,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -370 \u2190 -197",
-          "old_ml": "-197",
-          "new_ml": "-370"
-        },
-        "snapshot_time": "November 02, 2026 at 08:38 PM UTC"
-      },
-      "fatigue": {
-        "home": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
-          "last_game": "Nov 02",
-          "days_rest": 1,
-          "games_last_4d": 3,
-          "travel_miles": 227,
-          "travel_desc": "227 mi road trip",
-          "source": "ESPN Scoreboard API"
-        },
-        "away": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
-          "last_game": "Nov 02",
-          "days_rest": 1,
-          "games_last_4d": 3,
-          "travel_miles": 1604,
-          "travel_desc": "1,604 mi road trip",
-          "source": "ESPN Scoreboard API"
-        }
-      },
-      "edge_factors": [
-        "\ud83d\udd25 Sharp steam detected",
-        "\ud83d\udca4 BOS fatigued (B2B) \u2014 source: ESPN"
-      ],
-      "injury_notes": "No key injuries.",
-      "sharp": {
-        "away_t": null,
-        "home_t": null,
-        "source": null,
-        "sharp_signal": null,
-        "sharp_label": "Pending \u2014 check closer to tip-off",
-        "rlm": false
-      },
-      "form": {
-        "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        },
-        "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        }
-      },
-      "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
-      },
-      "briefing": {
-        "trend": "HOU on Back-to-Back \u26a0\ufe0f per ESPN schedule data. BOS on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -197 to -370 (173pt move) \u2014 heavy professional action on Houston Rockets.",
-        "injury_notes": "No key injuries."
-      },
-      "live": {
-        "status": "pre",
-        "status_detail": "Upcoming",
-        "period": 0,
-        "clock": "",
-        "home_score": 0,
-        "away_score": 0,
-        "spread_alert": null
-      },
-      "news": [
-        {
-          "title": "Lakers\u2019 Little-Used Big Man Seeking \u2018Physicality\u2019",
-          "source": "Heavy.com",
-          "link": "https://heavy.com/sports/nba/los-angeles-lakers/big-man-seeking-physicality/",
-          "published": "2026-11-02T03:09:53Z"
-        },
-        {
-          "title": "Lauri Markkanen Emerges As Warriors\u2019 Potential Trade Target",
-          "source": "Fadeaway World",
-          "link": "https://fadeawayworld.net/nba-trade-rumors/golden-state-warriors/lauri-markkanen-emerges-as-warriors-potential-trade-target",
-          "published": "2026-11-02T03:09:49Z"
-        },
-        {
-          "title": "Coby White Gets Positive Injury Update for Hornets",
-          "source": "Heavy.com",
-          "link": "https://heavy.com/sports/nba/charlotte-hornets/coby-white-positive-injury-update-hornets/",
-          "published": "2026-11-02T03:05:13Z"
-        }
-      ]
-    },
-    {
-      "game": "Utah Jazz @ San Antonio Spurs",
-      "home_team": "San Antonio Spurs",
-      "away_team": "Utah Jazz",
-      "home_abbr": "SAS",
-      "away_abbr": "UTA",
-      "home_ml": "N/A",
-      "away_ml": "N/A",
-      "home_ml_raw": null,
-      "away_ml_raw": null,
-      "home_prob": 50.0,
-      "away_prob": 50.0,
-      "spread": "SAS -21.5",
-      "favorite": "San Antonio Spurs",
-      "pick": "San Antonio Spurs",
-      "pick_abbr": "SAS",
-      "moneyline": "N/A",
-      "win_probability": 50.0,
-      "confidence": "LOW",
-      "confidence_stars": "\u2605\u2606\u2606",
-      "commence_time": "2026-11-03T01:40:42Z",
-      "line_movement": {
-        "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
-        },
-        "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
-        },
-        "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
-        },
-        "snapshot_time": "November 02, 2026 at 08:38 PM UTC"
-      },
-      "fatigue": {
-        "home": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
-          "last_game": "Nov 02",
-          "days_rest": 1,
-          "games_last_4d": 2,
-          "travel_miles": 0,
-          "travel_desc": "",
-          "source": "ESPN Scoreboard API"
-        },
-        "away": {
-          "status": "FRESH",
-          "label": "Well rested \u2705",
-          "battery": 100,
-          "last_game": "\u2014",
-          "days_rest": 99,
-          "games_last_4d": 0,
-          "travel_miles": 0,
-          "travel_desc": "",
-          "source": "ESPN Scoreboard API"
-        }
-      },
-      "edge_factors": [
-        "\ud83d\udcca 0.0pt probability edge"
-      ],
-      "injury_notes": "No key injuries.",
-      "sharp": {
-        "away_t": null,
-        "home_t": null,
-        "source": null,
-        "sharp_signal": null,
-        "sharp_label": "Pending \u2014 check closer to tip-off",
-        "rlm": false
-      },
-      "form": {
-        "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        },
-        "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        }
-      },
-      "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
-      },
-      "briefing": {
-        "trend": "SAS on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "trend": "SAS on Back-to-Back \u26a0\ufe0f per ESPN schedule data. DAL on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
         "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
@@ -856,607 +854,22 @@
       },
       "news": [
         {
-          "title": "Lakers\u2019 Little-Used Big Man Seeking \u2018Physicality\u2019",
-          "source": "Heavy.com",
-          "link": "https://heavy.com/sports/nba/los-angeles-lakers/big-man-seeking-physicality/",
-          "published": "2026-11-02T03:09:53Z"
+          "title": "Luka Doncic Pours In 45 Points and 15 Rebounds as Lakers Bounce Back to Beat Raptors, Fueling MVP Buzz",
+          "source": "Ibtimes.com.au",
+          "link": "https://www.ibtimes.com.au/luka-doncic-45-points-lakers-beat-raptors-1877705",
+          "published": "2026-11-02T05:55:10Z"
         },
         {
-          "title": "Lauri Markkanen Emerges As Warriors\u2019 Potential Trade Target",
-          "source": "Fadeaway World",
-          "link": "https://fadeawayworld.net/nba-trade-rumors/golden-state-warriors/lauri-markkanen-emerges-as-warriors-potential-trade-target",
-          "published": "2026-11-02T03:09:49Z"
+          "title": "Lakers\u2019 Luka Doncic torches Raptors with stat line NBA has not seen before",
+          "source": "ClutchPoints",
+          "link": "https://clutchpoints.com/nba/los-angeles-lakers/lakers-news-luka-doncic-torches-raptors-historic-nba-stats",
+          "published": "2026-11-02T05:51:56Z"
         },
         {
-          "title": "Coby White Gets Positive Injury Update for Hornets",
-          "source": "Heavy.com",
-          "link": "https://heavy.com/sports/nba/charlotte-hornets/coby-white-positive-injury-update-hornets/",
-          "published": "2026-11-02T03:05:13Z"
-        }
-      ]
-    },
-    {
-      "game": "Portland Trail Blazers @ Denver Nuggets",
-      "home_team": "Denver Nuggets",
-      "away_team": "Portland Trail Blazers",
-      "home_abbr": "DEN",
-      "away_abbr": "POR",
-      "home_ml": "-380",
-      "away_ml": "+275",
-      "home_ml_raw": -380,
-      "away_ml_raw": 275,
-      "home_prob": 74.8,
-      "away_prob": 25.2,
-      "spread": "DEN -7.5",
-      "favorite": "Denver Nuggets",
-      "pick": "Denver Nuggets",
-      "pick_abbr": "DEN",
-      "moneyline": "-380",
-      "win_probability": 74.8,
-      "confidence": "HIGH",
-      "confidence_stars": "\u2605\u2605\u2605",
-      "commence_time": "2026-11-03T02:10:53Z",
-      "line_movement": {
-        "home": {
-          "direction": "shorter",
-          "points_moved": 206,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -380 \u2190 -174",
-          "old_ml": "-174",
-          "new_ml": "-380"
-        },
-        "away": {
-          "direction": "longer",
-          "points_moved": 129,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM +275 \u2190 +146",
-          "old_ml": "+146",
-          "new_ml": "+275"
-        },
-        "pick": {
-          "direction": "shorter",
-          "points_moved": 206,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -380 \u2190 -174",
-          "old_ml": "-174",
-          "new_ml": "-380"
-        },
-        "snapshot_time": "November 02, 2026 at 08:38 PM UTC"
-      },
-      "fatigue": {
-        "home": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
-          "last_game": "Nov 02",
-          "days_rest": 1,
-          "games_last_4d": 2,
-          "travel_miles": 585,
-          "travel_desc": "585 mi road trip",
-          "source": "ESPN Scoreboard API"
-        },
-        "away": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
-          "last_game": "Nov 02",
-          "days_rest": 1,
-          "games_last_4d": 2,
-          "travel_miles": 980,
-          "travel_desc": "980 mi road trip",
-          "source": "ESPN Scoreboard API"
-        }
-      },
-      "edge_factors": [
-        "\ud83d\udd25 Sharp steam detected",
-        "\ud83d\udca4 POR fatigued (B2B) \u2014 source: ESPN"
-      ],
-      "injury_notes": "No key injuries.",
-      "sharp": {
-        "away_t": null,
-        "home_t": null,
-        "source": null,
-        "sharp_signal": null,
-        "sharp_label": "Pending \u2014 check closer to tip-off",
-        "rlm": false
-      },
-      "form": {
-        "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        },
-        "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        }
-      },
-      "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
-      },
-      "briefing": {
-        "trend": "DEN on Back-to-Back \u26a0\ufe0f per ESPN schedule data. POR on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -174 to -380 (206pt move) \u2014 heavy professional action on Denver Nuggets.",
-        "injury_notes": "No key injuries."
-      },
-      "live": {
-        "status": "pre",
-        "status_detail": "Upcoming",
-        "period": 0,
-        "clock": "",
-        "home_score": 0,
-        "away_score": 0,
-        "spread_alert": null
-      },
-      "news": [
-        {
-          "title": "Lakers\u2019 Little-Used Big Man Seeking \u2018Physicality\u2019",
-          "source": "Heavy.com",
-          "link": "https://heavy.com/sports/nba/los-angeles-lakers/big-man-seeking-physicality/",
-          "published": "2026-11-02T03:09:53Z"
-        },
-        {
-          "title": "Lauri Markkanen Emerges As Warriors\u2019 Potential Trade Target",
-          "source": "Fadeaway World",
-          "link": "https://fadeawayworld.net/nba-trade-rumors/golden-state-warriors/lauri-markkanen-emerges-as-warriors-potential-trade-target",
-          "published": "2026-11-02T03:09:49Z"
-        },
-        {
-          "title": "Coby White Gets Positive Injury Update for Hornets",
-          "source": "Heavy.com",
-          "link": "https://heavy.com/sports/nba/charlotte-hornets/coby-white-positive-injury-update-hornets/",
-          "published": "2026-11-02T03:05:13Z"
-        }
-      ]
-    },
-    {
-      "game": "Miami Heat @ Los Angeles Lakers",
-      "home_team": "Los Angeles Lakers",
-      "away_team": "Miami Heat",
-      "home_abbr": "LAL",
-      "away_abbr": "MIA",
-      "home_ml": "-145",
-      "away_ml": "+110",
-      "home_ml_raw": -145,
-      "away_ml_raw": 110,
-      "home_prob": 55.4,
-      "away_prob": 44.6,
-      "spread": "LAL -2.5",
-      "favorite": "Los Angeles Lakers",
-      "pick": "Los Angeles Lakers",
-      "pick_abbr": "LAL",
-      "moneyline": "-145",
-      "win_probability": 55.4,
-      "confidence": "LOW",
-      "confidence_stars": "\u2605\u2606\u2606",
-      "commence_time": "2026-11-03T03:10:54Z",
-      "line_movement": {
-        "home": {
-          "direction": "shorter",
-          "points_moved": 20,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -145 \u2190 -125",
-          "old_ml": "-125",
-          "new_ml": "-145"
-        },
-        "away": {
-          "direction": "longer",
-          "points_moved": 4,
-          "steam": false,
-          "label": "\ud83d\udd34 +110 \u2190 +106",
-          "old_ml": "+106",
-          "new_ml": "+110"
-        },
-        "pick": {
-          "direction": "shorter",
-          "points_moved": 20,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -145 \u2190 -125",
-          "old_ml": "-125",
-          "new_ml": "-145"
-        },
-        "snapshot_time": "November 02, 2026 at 08:38 PM UTC"
-      },
-      "fatigue": {
-        "home": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
-          "last_game": "Nov 02",
-          "days_rest": 1,
-          "games_last_4d": 3,
-          "travel_miles": 346,
-          "travel_desc": "346 mi road trip",
-          "source": "ESPN Scoreboard API"
-        },
-        "away": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
-          "last_game": "Nov 02",
-          "days_rest": 1,
-          "games_last_4d": 2,
-          "travel_miles": 2337,
-          "travel_desc": "2,337 mi road trip",
-          "source": "ESPN Scoreboard API"
-        }
-      },
-      "edge_factors": [
-        "\ud83d\udd25 Sharp steam detected",
-        "\ud83d\udca4 MIA fatigued (B2B) \u2014 source: ESPN",
-        "\u2708\ufe0f MIA traveled 2,337 mi"
-      ],
-      "injury_notes": "No key injuries.",
-      "sharp": {
-        "away_t": null,
-        "home_t": null,
-        "source": null,
-        "sharp_signal": null,
-        "sharp_label": "Pending \u2014 check closer to tip-off",
-        "rlm": false
-      },
-      "form": {
-        "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        },
-        "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        }
-      },
-      "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
-      },
-      "briefing": {
-        "trend": "LAL on Back-to-Back \u26a0\ufe0f per ESPN schedule data. MIA on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -125 to -145 (20pt move) \u2014 heavy professional action on Los Angeles Lakers.",
-        "injury_notes": "No key injuries."
-      },
-      "live": {
-        "status": "pre",
-        "status_detail": "Upcoming",
-        "period": 0,
-        "clock": "",
-        "home_score": 0,
-        "away_score": 0,
-        "spread_alert": null
-      },
-      "news": [
-        {
-          "title": "Lakers\u2019 Little-Used Big Man Seeking \u2018Physicality\u2019",
-          "source": "Heavy.com",
-          "link": "https://heavy.com/sports/nba/los-angeles-lakers/big-man-seeking-physicality/",
-          "published": "2026-11-02T03:09:53Z"
-        },
-        {
-          "title": "Lauri Markkanen Emerges As Warriors\u2019 Potential Trade Target",
-          "source": "Fadeaway World",
-          "link": "https://fadeawayworld.net/nba-trade-rumors/golden-state-warriors/lauri-markkanen-emerges-as-warriors-potential-trade-target",
-          "published": "2026-11-02T03:09:49Z"
-        },
-        {
-          "title": "Coby White Gets Positive Injury Update for Hornets",
-          "source": "Heavy.com",
-          "link": "https://heavy.com/sports/nba/charlotte-hornets/coby-white-positive-injury-update-hornets/",
-          "published": "2026-11-02T03:05:13Z"
-        }
-      ]
-    },
-    {
-      "game": "Phoenix Suns @ Golden State Warriors",
-      "home_team": "Golden State Warriors",
-      "away_team": "Phoenix Suns",
-      "home_abbr": "GSW",
-      "away_abbr": "PHX",
-      "home_ml": "-120",
-      "away_ml": "-110",
-      "home_ml_raw": -120,
-      "away_ml_raw": -110,
-      "home_prob": 51.0,
-      "away_prob": 49.0,
-      "spread": "GSW -1.5",
-      "favorite": "Golden State Warriors",
-      "pick": "Golden State Warriors",
-      "pick_abbr": "GSW",
-      "moneyline": "-120",
-      "win_probability": 51.0,
-      "confidence": "LOW",
-      "confidence_stars": "\u2605\u2606\u2606",
-      "commence_time": "2026-11-03T03:13:00Z",
-      "line_movement": {
-        "home": {
-          "direction": "longer",
-          "points_moved": 29,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -120 \u2190 -149",
-          "old_ml": "-149",
-          "new_ml": "-120"
-        },
-        "away": {
-          "direction": "shorter",
-          "points_moved": 235,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -110 \u2190 +125",
-          "old_ml": "+125",
-          "new_ml": "-110"
-        },
-        "pick": {
-          "direction": "longer",
-          "points_moved": 29,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -120 \u2190 -149",
-          "old_ml": "-149",
-          "new_ml": "-120"
-        },
-        "snapshot_time": "November 02, 2026 at 08:38 PM UTC"
-      },
-      "fatigue": {
-        "home": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
-          "last_game": "Nov 02",
-          "days_rest": 1,
-          "games_last_4d": 3,
-          "travel_miles": 0,
-          "travel_desc": "",
-          "source": "ESPN Scoreboard API"
-        },
-        "away": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
-          "last_game": "Nov 02",
-          "days_rest": 1,
-          "games_last_4d": 2,
-          "travel_miles": 651,
-          "travel_desc": "651 mi road trip",
-          "source": "ESPN Scoreboard API"
-        }
-      },
-      "edge_factors": [
-        "\ud83d\udd25 Sharp steam detected",
-        "\ud83d\udca4 PHX fatigued (B2B) \u2014 source: ESPN"
-      ],
-      "injury_notes": "No key injuries.",
-      "sharp": {
-        "away_t": null,
-        "home_t": null,
-        "source": null,
-        "sharp_signal": null,
-        "sharp_label": "Pending \u2014 check closer to tip-off",
-        "rlm": false
-      },
-      "form": {
-        "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        },
-        "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        }
-      },
-      "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
-      },
-      "briefing": {
-        "trend": "GSW on Back-to-Back \u26a0\ufe0f per ESPN schedule data. PHX on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -149 to -120 (29pt move) \u2014 heavy professional action on Golden State Warriors.",
-        "injury_notes": "No key injuries."
-      },
-      "live": {
-        "status": "pre",
-        "status_detail": "Upcoming",
-        "period": 0,
-        "clock": "",
-        "home_score": 0,
-        "away_score": 0,
-        "spread_alert": null
-      },
-      "news": [
-        {
-          "title": "Lakers\u2019 Little-Used Big Man Seeking \u2018Physicality\u2019",
-          "source": "Heavy.com",
-          "link": "https://heavy.com/sports/nba/los-angeles-lakers/big-man-seeking-physicality/",
-          "published": "2026-11-02T03:09:53Z"
-        },
-        {
-          "title": "Lauri Markkanen Emerges As Warriors\u2019 Potential Trade Target",
-          "source": "Fadeaway World",
-          "link": "https://fadeawayworld.net/nba-trade-rumors/golden-state-warriors/lauri-markkanen-emerges-as-warriors-potential-trade-target",
-          "published": "2026-11-02T03:09:49Z"
-        },
-        {
-          "title": "Coby White Gets Positive Injury Update for Hornets",
-          "source": "Heavy.com",
-          "link": "https://heavy.com/sports/nba/charlotte-hornets/coby-white-positive-injury-update-hornets/",
-          "published": "2026-11-02T03:05:13Z"
-        }
-      ]
-    },
-    {
-      "game": "Toronto Raptors @ Los Angeles Clippers",
-      "home_team": "Los Angeles Clippers",
-      "away_team": "Toronto Raptors",
-      "home_abbr": "LAC",
-      "away_abbr": "TOR",
-      "home_ml": "+130",
-      "away_ml": "-170",
-      "home_ml_raw": 130,
-      "away_ml_raw": -170,
-      "home_prob": 40.8,
-      "away_prob": 59.2,
-      "spread": "LAC +4.5",
-      "favorite": "Toronto Raptors",
-      "pick": "Toronto Raptors",
-      "pick_abbr": "TOR",
-      "moneyline": "-170",
-      "win_probability": 59.2,
-      "confidence": "MEDIUM",
-      "confidence_stars": "\u2605\u2605\u2606",
-      "commence_time": "2026-11-03T03:13:00Z",
-      "line_movement": {
-        "home": {
-          "direction": "shorter",
-          "points_moved": 50,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM +130 \u2190 +180",
-          "old_ml": "+180",
-          "new_ml": "+130"
-        },
-        "away": {
-          "direction": "longer",
-          "points_moved": 47,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -170 \u2190 -217",
-          "old_ml": "-217",
-          "new_ml": "-170"
-        },
-        "pick": {
-          "direction": "longer",
-          "points_moved": 47,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -170 \u2190 -217",
-          "old_ml": "-217",
-          "new_ml": "-170"
-        },
-        "snapshot_time": "November 02, 2026 at 08:38 PM UTC"
-      },
-      "fatigue": {
-        "home": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
-          "last_game": "Nov 02",
-          "days_rest": 1,
-          "games_last_4d": 3,
-          "travel_miles": 346,
-          "travel_desc": "346 mi road trip",
-          "source": "ESPN Scoreboard API"
-        },
-        "away": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
-          "last_game": "Nov 02",
-          "days_rest": 1,
-          "games_last_4d": 3,
-          "travel_miles": 2173,
-          "travel_desc": "2,173 mi road trip",
-          "source": "ESPN Scoreboard API"
-        }
-      },
-      "edge_factors": [
-        "\ud83d\udd25 Sharp steam detected",
-        "\ud83d\udca4 LAC fatigued (B2B) \u2014 source: ESPN"
-      ],
-      "injury_notes": "No key injuries.",
-      "sharp": {
-        "away_t": null,
-        "home_t": null,
-        "source": null,
-        "sharp_signal": null,
-        "sharp_label": "Pending \u2014 check closer to tip-off",
-        "rlm": false
-      },
-      "form": {
-        "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        },
-        "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        }
-      },
-      "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
-      },
-      "briefing": {
-        "trend": "LAC on Back-to-Back \u26a0\ufe0f per ESPN schedule data. TOR on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -217 to -170 (47pt move) \u2014 heavy professional action on Toronto Raptors.",
-        "injury_notes": "No key injuries."
-      },
-      "live": {
-        "status": "pre",
-        "status_detail": "Upcoming",
-        "period": 0,
-        "clock": "",
-        "home_score": 0,
-        "away_score": 0,
-        "spread_alert": null
-      },
-      "news": [
-        {
-          "title": "Lakers\u2019 Little-Used Big Man Seeking \u2018Physicality\u2019",
-          "source": "Heavy.com",
-          "link": "https://heavy.com/sports/nba/los-angeles-lakers/big-man-seeking-physicality/",
-          "published": "2026-11-02T03:09:53Z"
-        },
-        {
-          "title": "Lauri Markkanen Emerges As Warriors\u2019 Potential Trade Target",
-          "source": "Fadeaway World",
-          "link": "https://fadeawayworld.net/nba-trade-rumors/golden-state-warriors/lauri-markkanen-emerges-as-warriors-potential-trade-target",
-          "published": "2026-11-02T03:09:49Z"
-        },
-        {
-          "title": "Coby White Gets Positive Injury Update for Hornets",
-          "source": "Heavy.com",
-          "link": "https://heavy.com/sports/nba/charlotte-hornets/coby-white-positive-injury-update-hornets/",
-          "published": "2026-11-02T03:05:13Z"
+          "title": "Nolan Traore lifts Nets to first win of season with big second half",
+          "source": "ClutchPoints",
+          "link": "https://clutchpoints.com/nba/brooklyn-nets/nets-news-nolan-traore-reacts-to-big-second-half-lifting-brooklyn-first-win",
+          "published": "2026-11-02T05:49:58Z"
         }
       ]
     },
@@ -1506,7 +919,7 @@
           "old_ml": "-114",
           "new_ml": "-114"
         },
-        "snapshot_time": "November 02, 2026 at 08:38 PM UTC"
+        "snapshot_time": "November 03, 2026 at 03:19 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -1586,22 +999,22 @@
       },
       "news": [
         {
-          "title": "Lakers\u2019 Little-Used Big Man Seeking \u2018Physicality\u2019",
-          "source": "Heavy.com",
-          "link": "https://heavy.com/sports/nba/los-angeles-lakers/big-man-seeking-physicality/",
-          "published": "2026-11-02T03:09:53Z"
+          "title": "Luka Doncic Pours In 45 Points and 15 Rebounds as Lakers Bounce Back to Beat Raptors, Fueling MVP Buzz",
+          "source": "Ibtimes.com.au",
+          "link": "https://www.ibtimes.com.au/luka-doncic-45-points-lakers-beat-raptors-1877705",
+          "published": "2026-11-02T05:55:10Z"
         },
         {
-          "title": "Lauri Markkanen Emerges As Warriors\u2019 Potential Trade Target",
-          "source": "Fadeaway World",
-          "link": "https://fadeawayworld.net/nba-trade-rumors/golden-state-warriors/lauri-markkanen-emerges-as-warriors-potential-trade-target",
-          "published": "2026-11-02T03:09:49Z"
+          "title": "Lakers\u2019 Luka Doncic torches Raptors with stat line NBA has not seen before",
+          "source": "ClutchPoints",
+          "link": "https://clutchpoints.com/nba/los-angeles-lakers/lakers-news-luka-doncic-torches-raptors-historic-nba-stats",
+          "published": "2026-11-02T05:51:56Z"
         },
         {
-          "title": "Coby White Gets Positive Injury Update for Hornets",
-          "source": "Heavy.com",
-          "link": "https://heavy.com/sports/nba/charlotte-hornets/coby-white-positive-injury-update-hornets/",
-          "published": "2026-11-02T03:05:13Z"
+          "title": "Nolan Traore lifts Nets to first win of season with big second half",
+          "source": "ClutchPoints",
+          "link": "https://clutchpoints.com/nba/brooklyn-nets/nets-news-nolan-traore-reacts-to-big-second-half-lifting-brooklyn-first-win",
+          "published": "2026-11-02T05:49:58Z"
         }
       ]
     },
@@ -1651,7 +1064,7 @@
           "old_ml": "-212",
           "new_ml": "-212"
         },
-        "snapshot_time": "November 02, 2026 at 08:38 PM UTC"
+        "snapshot_time": "November 03, 2026 at 03:19 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -1732,22 +1145,22 @@
       },
       "news": [
         {
-          "title": "Lakers\u2019 Little-Used Big Man Seeking \u2018Physicality\u2019",
-          "source": "Heavy.com",
-          "link": "https://heavy.com/sports/nba/los-angeles-lakers/big-man-seeking-physicality/",
-          "published": "2026-11-02T03:09:53Z"
+          "title": "Luka Doncic Pours In 45 Points and 15 Rebounds as Lakers Bounce Back to Beat Raptors, Fueling MVP Buzz",
+          "source": "Ibtimes.com.au",
+          "link": "https://www.ibtimes.com.au/luka-doncic-45-points-lakers-beat-raptors-1877705",
+          "published": "2026-11-02T05:55:10Z"
         },
         {
-          "title": "Lauri Markkanen Emerges As Warriors\u2019 Potential Trade Target",
-          "source": "Fadeaway World",
-          "link": "https://fadeawayworld.net/nba-trade-rumors/golden-state-warriors/lauri-markkanen-emerges-as-warriors-potential-trade-target",
-          "published": "2026-11-02T03:09:49Z"
+          "title": "Lakers\u2019 Luka Doncic torches Raptors with stat line NBA has not seen before",
+          "source": "ClutchPoints",
+          "link": "https://clutchpoints.com/nba/los-angeles-lakers/lakers-news-luka-doncic-torches-raptors-historic-nba-stats",
+          "published": "2026-11-02T05:51:56Z"
         },
         {
-          "title": "Coby White Gets Positive Injury Update for Hornets",
-          "source": "Heavy.com",
-          "link": "https://heavy.com/sports/nba/charlotte-hornets/coby-white-positive-injury-update-hornets/",
-          "published": "2026-11-02T03:05:13Z"
+          "title": "Nolan Traore lifts Nets to first win of season with big second half",
+          "source": "ClutchPoints",
+          "link": "https://clutchpoints.com/nba/brooklyn-nets/nets-news-nolan-traore-reacts-to-big-second-half-lifting-brooklyn-first-win",
+          "published": "2026-11-02T05:49:58Z"
         }
       ]
     },
@@ -1797,7 +1210,7 @@
           "old_ml": "-114",
           "new_ml": "-114"
         },
-        "snapshot_time": "November 02, 2026 at 08:38 PM UTC"
+        "snapshot_time": "November 03, 2026 at 03:19 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -1877,22 +1290,22 @@
       },
       "news": [
         {
-          "title": "Lakers\u2019 Little-Used Big Man Seeking \u2018Physicality\u2019",
-          "source": "Heavy.com",
-          "link": "https://heavy.com/sports/nba/los-angeles-lakers/big-man-seeking-physicality/",
-          "published": "2026-11-02T03:09:53Z"
+          "title": "Luka Doncic Pours In 45 Points and 15 Rebounds as Lakers Bounce Back to Beat Raptors, Fueling MVP Buzz",
+          "source": "Ibtimes.com.au",
+          "link": "https://www.ibtimes.com.au/luka-doncic-45-points-lakers-beat-raptors-1877705",
+          "published": "2026-11-02T05:55:10Z"
         },
         {
-          "title": "Lauri Markkanen Emerges As Warriors\u2019 Potential Trade Target",
-          "source": "Fadeaway World",
-          "link": "https://fadeawayworld.net/nba-trade-rumors/golden-state-warriors/lauri-markkanen-emerges-as-warriors-potential-trade-target",
-          "published": "2026-11-02T03:09:49Z"
+          "title": "Lakers\u2019 Luka Doncic torches Raptors with stat line NBA has not seen before",
+          "source": "ClutchPoints",
+          "link": "https://clutchpoints.com/nba/los-angeles-lakers/lakers-news-luka-doncic-torches-raptors-historic-nba-stats",
+          "published": "2026-11-02T05:51:56Z"
         },
         {
-          "title": "Coby White Gets Positive Injury Update for Hornets",
-          "source": "Heavy.com",
-          "link": "https://heavy.com/sports/nba/charlotte-hornets/coby-white-positive-injury-update-hornets/",
-          "published": "2026-11-02T03:05:13Z"
+          "title": "Nolan Traore lifts Nets to first win of season with big second half",
+          "source": "ClutchPoints",
+          "link": "https://clutchpoints.com/nba/brooklyn-nets/nets-news-nolan-traore-reacts-to-big-second-half-lifting-brooklyn-first-win",
+          "published": "2026-11-02T05:49:58Z"
         }
       ]
     },
@@ -1942,7 +1355,7 @@
           "old_ml": "-156",
           "new_ml": "-156"
         },
-        "snapshot_time": "November 02, 2026 at 08:38 PM UTC"
+        "snapshot_time": "November 03, 2026 at 03:19 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -2022,22 +1435,22 @@
       },
       "news": [
         {
-          "title": "Lakers\u2019 Little-Used Big Man Seeking \u2018Physicality\u2019",
-          "source": "Heavy.com",
-          "link": "https://heavy.com/sports/nba/los-angeles-lakers/big-man-seeking-physicality/",
-          "published": "2026-11-02T03:09:53Z"
+          "title": "Luka Doncic Pours In 45 Points and 15 Rebounds as Lakers Bounce Back to Beat Raptors, Fueling MVP Buzz",
+          "source": "Ibtimes.com.au",
+          "link": "https://www.ibtimes.com.au/luka-doncic-45-points-lakers-beat-raptors-1877705",
+          "published": "2026-11-02T05:55:10Z"
         },
         {
-          "title": "Lauri Markkanen Emerges As Warriors\u2019 Potential Trade Target",
-          "source": "Fadeaway World",
-          "link": "https://fadeawayworld.net/nba-trade-rumors/golden-state-warriors/lauri-markkanen-emerges-as-warriors-potential-trade-target",
-          "published": "2026-11-02T03:09:49Z"
+          "title": "Lakers\u2019 Luka Doncic torches Raptors with stat line NBA has not seen before",
+          "source": "ClutchPoints",
+          "link": "https://clutchpoints.com/nba/los-angeles-lakers/lakers-news-luka-doncic-torches-raptors-historic-nba-stats",
+          "published": "2026-11-02T05:51:56Z"
         },
         {
-          "title": "Coby White Gets Positive Injury Update for Hornets",
-          "source": "Heavy.com",
-          "link": "https://heavy.com/sports/nba/charlotte-hornets/coby-white-positive-injury-update-hornets/",
-          "published": "2026-11-02T03:05:13Z"
+          "title": "Nolan Traore lifts Nets to first win of season with big second half",
+          "source": "ClutchPoints",
+          "link": "https://clutchpoints.com/nba/brooklyn-nets/nets-news-nolan-traore-reacts-to-big-second-half-lifting-brooklyn-first-win",
+          "published": "2026-11-02T05:49:58Z"
         }
       ]
     },
@@ -2087,7 +1500,7 @@
           "old_ml": "-136",
           "new_ml": "-136"
         },
-        "snapshot_time": "November 02, 2026 at 08:38 PM UTC"
+        "snapshot_time": "November 03, 2026 at 03:19 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -2167,66 +1580,66 @@
       },
       "news": [
         {
-          "title": "Lakers\u2019 Little-Used Big Man Seeking \u2018Physicality\u2019",
-          "source": "Heavy.com",
-          "link": "https://heavy.com/sports/nba/los-angeles-lakers/big-man-seeking-physicality/",
-          "published": "2026-11-02T03:09:53Z"
+          "title": "Luka Doncic Pours In 45 Points and 15 Rebounds as Lakers Bounce Back to Beat Raptors, Fueling MVP Buzz",
+          "source": "Ibtimes.com.au",
+          "link": "https://www.ibtimes.com.au/luka-doncic-45-points-lakers-beat-raptors-1877705",
+          "published": "2026-11-02T05:55:10Z"
         },
         {
-          "title": "Lauri Markkanen Emerges As Warriors\u2019 Potential Trade Target",
-          "source": "Fadeaway World",
-          "link": "https://fadeawayworld.net/nba-trade-rumors/golden-state-warriors/lauri-markkanen-emerges-as-warriors-potential-trade-target",
-          "published": "2026-11-02T03:09:49Z"
+          "title": "Lakers\u2019 Luka Doncic torches Raptors with stat line NBA has not seen before",
+          "source": "ClutchPoints",
+          "link": "https://clutchpoints.com/nba/los-angeles-lakers/lakers-news-luka-doncic-torches-raptors-historic-nba-stats",
+          "published": "2026-11-02T05:51:56Z"
         },
         {
-          "title": "Coby White Gets Positive Injury Update for Hornets",
-          "source": "Heavy.com",
-          "link": "https://heavy.com/sports/nba/charlotte-hornets/coby-white-positive-injury-update-hornets/",
-          "published": "2026-11-02T03:05:13Z"
+          "title": "Nolan Traore lifts Nets to first win of season with big second half",
+          "source": "ClutchPoints",
+          "link": "https://clutchpoints.com/nba/brooklyn-nets/nets-news-nolan-traore-reacts-to-big-second-half-lifting-brooklyn-first-win",
+          "published": "2026-11-02T05:49:58Z"
         }
       ]
     }
   ],
   "track_record": {
     "LOW": {
-      "wins": 13,
+      "wins": 14,
       "losses": 14,
-      "total": 27,
-      "win_pct": 48.1,
-      "roi": -11.5,
-      "profit": -310.05
+      "total": 28,
+      "win_pct": 50.0,
+      "roi": -8.3,
+      "profit": -233.13
     },
     "MEDIUM": {
-      "wins": 30,
-      "losses": 16,
-      "total": 46,
-      "win_pct": 65.2,
-      "roi": -1.5,
-      "profit": -69.76
+      "wins": 32,
+      "losses": 18,
+      "total": 50,
+      "win_pct": 64.0,
+      "roi": -3.2,
+      "profit": -162.12
     },
     "HIGH": {
-      "wins": 20,
-      "losses": 3,
-      "total": 23,
-      "win_pct": 87.0,
-      "roi": 5.5,
-      "profit": 127.31
+      "wins": 22,
+      "losses": 4,
+      "total": 26,
+      "win_pct": 84.6,
+      "roi": 2.2,
+      "profit": 56.54
     },
     "overall_7d": {
-      "wins": 25,
-      "losses": 8,
-      "total": 33,
-      "win_pct": 75.8,
-      "roi": 9.7,
-      "profit": 321.34
+      "wins": 27,
+      "losses": 11,
+      "total": 38,
+      "win_pct": 71.1,
+      "roi": 3.9,
+      "profit": 147.66
     },
     "overall_30d": {
-      "wins": 46,
-      "losses": 23,
-      "total": 69,
-      "win_pct": 66.7,
-      "roi": -2.5,
-      "profit": -170.33
+      "wins": 51,
+      "losses": 26,
+      "total": 77,
+      "win_pct": 66.2,
+      "roi": -3.3,
+      "profit": -256.54
     }
   }
 }

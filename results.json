@@ -1768,9 +1768,11 @@
       "win_probability": 66.4,
       "commence_time": "2026-11-03T01:10:00Z",
       "date": "2026-11-02T01:18:45.982021+00:00",
-      "graded": false,
-      "result": null,
-      "profit": null
+      "graded": true,
+      "result": "LOSS",
+      "profit": -100,
+      "home_score": 134,
+      "away_score": 135
     },
     {
       "game": "Milwaukee Bucks @ Minnesota Timberwolves",
@@ -1782,9 +1784,11 @@
       "win_probability": 80.4,
       "commence_time": "2026-11-03T01:10:00Z",
       "date": "2026-11-02T01:18:45.982021+00:00",
-      "graded": false,
-      "result": null,
-      "profit": null
+      "graded": true,
+      "result": "WIN",
+      "profit": 19.23,
+      "home_score": 112,
+      "away_score": 100
     },
     {
       "game": "Boston Celtics @ Houston Rockets",
@@ -1796,9 +1800,11 @@
       "win_probability": 63.1,
       "commence_time": "2026-11-03T01:40:00Z",
       "date": "2026-11-02T01:18:45.982021+00:00",
-      "graded": false,
-      "result": null,
-      "profit": null
+      "graded": true,
+      "result": "WIN",
+      "profit": 52.08,
+      "home_score": 109,
+      "away_score": 93
     },
     {
       "game": "Utah Jazz @ San Antonio Spurs",
@@ -1810,9 +1816,11 @@
       "win_probability": 87.2,
       "commence_time": "2026-11-03T01:40:00Z",
       "date": "2026-11-02T01:18:45.982021+00:00",
-      "graded": false,
-      "result": null,
-      "profit": null
+      "graded": true,
+      "result": "WIN",
+      "profit": 10.0,
+      "home_score": 119,
+      "away_score": 97
     },
     {
       "game": "Portland Trail Blazers @ Denver Nuggets",
@@ -1824,9 +1832,11 @@
       "win_probability": 60.4,
       "commence_time": "2026-11-03T02:10:00Z",
       "date": "2026-11-02T01:18:45.982021+00:00",
-      "graded": false,
-      "result": null,
-      "profit": null
+      "graded": true,
+      "result": "LOSS",
+      "profit": -100,
+      "home_score": 110,
+      "away_score": 118
     },
     {
       "game": "Atlanta Hawks @ Indiana Pacers",
@@ -1854,9 +1864,11 @@
       "win_probability": 76.6,
       "commence_time": "2026-11-03T01:10:00Z",
       "date": "2026-11-02T05:13:30.539976+00:00",
-      "graded": false,
-      "result": null,
-      "profit": null
+      "graded": true,
+      "result": "LOSS",
+      "profit": -100,
+      "home_score": 100,
+      "away_score": 115
     },
     {
       "game": "Phoenix Suns @ Golden State Warriors",
@@ -1868,9 +1880,11 @@
       "win_probability": 61.6,
       "commence_time": "2026-11-03T03:10:00Z",
       "date": "2026-11-02T05:13:30.539976+00:00",
-      "graded": false,
-      "result": null,
-      "profit": null
+      "graded": true,
+      "result": "WIN",
+      "profit": 55.56,
+      "home_score": 116,
+      "away_score": 113
     },
     {
       "game": "Toronto Raptors @ Los Angeles Clippers",
@@ -1896,6 +1910,50 @@
       "win_probability": 54.3,
       "commence_time": "2026-11-03T03:10:00Z",
       "date": "2026-11-02T05:13:30.539976+00:00",
+      "graded": true,
+      "result": "WIN",
+      "profit": 76.92,
+      "home_score": 138,
+      "away_score": 117
+    },
+    {
+      "game": "Philadelphia 76ers @ Detroit Pistons",
+      "pick": "Detroit Pistons",
+      "pick_abbr": "DET",
+      "moneyline": "-125",
+      "moneyline_raw": -125,
+      "confidence": "LOW",
+      "win_probability": 53.4,
+      "commence_time": "2026-11-05T00:10:00Z",
+      "date": "2026-11-03T05:57:00.328827+00:00",
+      "graded": false,
+      "result": null,
+      "profit": null
+    },
+    {
+      "game": "Minnesota Timberwolves @ Houston Rockets",
+      "pick": "Houston Rockets",
+      "pick_abbr": "HOU",
+      "moneyline": "-348",
+      "moneyline_raw": -348,
+      "confidence": "HIGH",
+      "win_probability": 74.6,
+      "commence_time": "2026-11-05T01:40:00Z",
+      "date": "2026-11-03T05:57:00.328827+00:00",
+      "graded": false,
+      "result": null,
+      "profit": null
+    },
+    {
+      "game": "Dallas Mavericks @ San Antonio Spurs",
+      "pick": "San Antonio Spurs",
+      "pick_abbr": "SAS",
+      "moneyline": "-700",
+      "moneyline_raw": -700,
+      "confidence": "HIGH",
+      "win_probability": 84.0,
+      "commence_time": "2026-11-05T02:40:00Z",
+      "date": "2026-11-03T05:57:00.328827+00:00",
       "graded": false,
       "result": null,
       "profit": null
@@ -1903,45 +1961,45 @@
   ],
   "summary": {
     "LOW": {
-      "wins": 13,
+      "wins": 14,
       "losses": 14,
-      "total": 27,
-      "win_pct": 48.1,
-      "roi": -11.5,
-      "profit": -310.05
+      "total": 28,
+      "win_pct": 50.0,
+      "roi": -8.3,
+      "profit": -233.13
     },
     "MEDIUM": {
-      "wins": 30,
-      "losses": 16,
-      "total": 46,
-      "win_pct": 65.2,
-      "roi": -1.5,
-      "profit": -69.76
+      "wins": 32,
+      "losses": 18,
+      "total": 50,
+      "win_pct": 64.0,
+      "roi": -3.2,
+      "profit": -162.12
     },
     "HIGH": {
-      "wins": 20,
-      "losses": 3,
-      "total": 23,
-      "win_pct": 87.0,
-      "roi": 5.5,
-      "profit": 127.31
+      "wins": 22,
+      "losses": 4,
+      "total": 26,
+      "win_pct": 84.6,
+      "roi": 2.2,
+      "profit": 56.54
     },
     "overall_7d": {
-      "wins": 25,
-      "losses": 8,
-      "total": 33,
-      "win_pct": 75.8,
-      "roi": 9.7,
-      "profit": 321.34
+      "wins": 27,
+      "losses": 11,
+      "total": 38,
+      "win_pct": 71.1,
+      "roi": 3.9,
+      "profit": 147.66
     },
     "overall_30d": {
-      "wins": 46,
-      "losses": 23,
-      "total": 69,
-      "win_pct": 66.7,
-      "roi": -2.5,
-      "profit": -170.33
+      "wins": 51,
+      "losses": 26,
+      "total": 77,
+      "win_pct": 66.2,
+      "roi": -3.3,
+      "profit": -256.54
     }
   },
-  "last_graded": "2026-11-03T03:19:04.277784+00:00"
+  "last_graded": "2026-11-03T05:56:12.487789+00:00"
 }
