@@ -1,345 +1,54 @@
 {
-  "last_updated": "November 05, 2026 at 05:53 AM UTC",
-  "total_games": 8,
+  "last_updated": "November 05, 2026 at 06:32 PM UTC",
+  "total_games": 6,
   "games": [
-    {
-      "game": "Los Angeles Lakers @ Sacramento Kings",
-      "home_team": "Sacramento Kings",
-      "away_team": "Los Angeles Lakers",
-      "home_abbr": "SAC",
-      "away_abbr": "LAL",
-      "home_ml": "N/A",
-      "away_ml": "N/A",
-      "home_ml_raw": null,
-      "away_ml_raw": null,
-      "home_prob": 50.0,
-      "away_prob": 50.0,
-      "spread": "SAC +12.5",
-      "favorite": "Sacramento Kings",
-      "pick": "Sacramento Kings",
-      "pick_abbr": "SAC",
-      "moneyline": "N/A",
-      "win_probability": 50.0,
-      "confidence": "LOW",
-      "confidence_stars": "\u2605\u2606\u2606",
-      "commence_time": "2026-11-05T03:10:38Z",
-      "line_movement": {
-        "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
-        },
-        "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
-        },
-        "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
-        },
-        "snapshot_time": "November 05, 2026 at 02:00 AM UTC"
-      },
-      "fatigue": {
-        "home": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
-          "last_game": "Nov 04",
-          "days_rest": 1,
-          "games_last_4d": 2,
-          "travel_miles": 1437,
-          "travel_desc": "1,437 mi road trip",
-          "source": "ESPN Scoreboard API"
-        },
-        "away": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
-          "last_game": "Nov 04",
-          "days_rest": 1,
-          "games_last_4d": 3,
-          "travel_miles": 361,
-          "travel_desc": "361 mi road trip",
-          "source": "ESPN Scoreboard API"
-        }
-      },
-      "edge_factors": [
-        "\ud83d\udca4 LAL fatigued (B2B) \u2014 source: ESPN"
-      ],
-      "injury_notes": "No key injuries.",
-      "sharp": {
-        "away_t": null,
-        "home_t": null,
-        "source": null,
-        "sharp_signal": null,
-        "sharp_label": "Pending \u2014 check closer to tip-off",
-        "rlm": false
-      },
-      "form": {
-        "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        },
-        "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        }
-      },
-      "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
-      },
-      "briefing": {
-        "trend": "SAC on Back-to-Back \u26a0\ufe0f per ESPN schedule data. LAL on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
-        "injury_notes": "No key injuries."
-      },
-      "live": {
-        "status": "pre",
-        "status_detail": "Upcoming",
-        "period": 0,
-        "clock": "",
-        "home_score": 0,
-        "away_score": 0,
-        "spread_alert": null
-      },
-      "news": [
-        {
-          "title": "Bulls Reportedly Open to Trading All-Star as Deadline Approaches",
-          "source": "Heavy.com",
-          "link": "https://heavy.com/sports/nba/chicago-bulls/bulls-norman-powell-trade-offers-report/",
-          "published": "2026-11-04T05:46:55Z"
-        },
-        {
-          "title": "Sports Leagues Can\u2019t Stop Putting Ad Revenue Ahead Of Fan And Player Interests",
-          "source": "AdExchanger",
-          "link": "http://www.adexchanger.com/ctv-roundup/sports-leagues-cant-stop-putting-ad-revenue-ahead-of-fan-and-player-interests/",
-          "published": "2026-11-04T05:45:01Z"
-        },
-        {
-          "title": "Timberwolves\u2019 Norchad Omier changes mind on two-way contract, joins Cavs instead",
-          "source": "ClutchPoints",
-          "link": "https://clutchpoints.com/nba/minnesota-timberwolves/timberwolves-news-norchad-omier-changes-mind-on-two-way-contract-joins-cavs-instead",
-          "published": "2026-11-04T05:35:25Z"
-        }
-      ]
-    },
-    {
-      "game": "Miami Heat @ Los Angeles Clippers",
-      "home_team": "Los Angeles Clippers",
-      "away_team": "Miami Heat",
-      "home_abbr": "LAC",
-      "away_abbr": "MIA",
-      "home_ml": "+110",
-      "away_ml": "-145",
-      "home_ml_raw": 110,
-      "away_ml_raw": -145,
-      "home_prob": 44.6,
-      "away_prob": 55.4,
-      "spread": "LAC +1.5",
-      "favorite": "Miami Heat",
-      "pick": "Miami Heat",
-      "pick_abbr": "MIA",
-      "moneyline": "-145",
-      "win_probability": 55.4,
-      "confidence": "LOW",
-      "confidence_stars": "\u2605\u2606\u2606",
-      "commence_time": "2026-11-05T03:41:00Z",
-      "line_movement": {
-        "home": {
-          "direction": "shorter",
-          "points_moved": 70,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM +110 \u2190 +180",
-          "old_ml": "+180",
-          "new_ml": "+110"
-        },
-        "away": {
-          "direction": "longer",
-          "points_moved": 71,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -145 \u2190 -216",
-          "old_ml": "-216",
-          "new_ml": "-145"
-        },
-        "pick": {
-          "direction": "longer",
-          "points_moved": 71,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -145 \u2190 -216",
-          "old_ml": "-216",
-          "new_ml": "-145"
-        },
-        "snapshot_time": "November 05, 2026 at 02:00 AM UTC"
-      },
-      "fatigue": {
-        "home": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
-          "last_game": "Nov 04",
-          "days_rest": 1,
-          "games_last_4d": 3,
-          "travel_miles": 346,
-          "travel_desc": "346 mi road trip",
-          "source": "ESPN Scoreboard API"
-        },
-        "away": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
-          "last_game": "Nov 04",
-          "days_rest": 1,
-          "games_last_4d": 2,
-          "travel_miles": 2337,
-          "travel_desc": "2,337 mi road trip",
-          "source": "ESPN Scoreboard API"
-        }
-      },
-      "edge_factors": [
-        "\ud83d\udd25 Sharp steam detected",
-        "\ud83d\udca4 LAC fatigued (B2B) \u2014 source: ESPN"
-      ],
-      "injury_notes": "No key injuries.",
-      "sharp": {
-        "away_t": null,
-        "home_t": null,
-        "source": null,
-        "sharp_signal": null,
-        "sharp_label": "Pending \u2014 check closer to tip-off",
-        "rlm": false
-      },
-      "form": {
-        "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        },
-        "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        }
-      },
-      "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
-      },
-      "briefing": {
-        "trend": "LAC on Back-to-Back \u26a0\ufe0f per ESPN schedule data. MIA on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -216 to -145 (71pt move) \u2014 heavy professional action on Miami Heat.",
-        "injury_notes": "No key injuries."
-      },
-      "live": {
-        "status": "pre",
-        "status_detail": "Upcoming",
-        "period": 0,
-        "clock": "",
-        "home_score": 0,
-        "away_score": 0,
-        "spread_alert": null
-      },
-      "news": [
-        {
-          "title": "Bulls Reportedly Open to Trading All-Star as Deadline Approaches",
-          "source": "Heavy.com",
-          "link": "https://heavy.com/sports/nba/chicago-bulls/bulls-norman-powell-trade-offers-report/",
-          "published": "2026-11-04T05:46:55Z"
-        },
-        {
-          "title": "Sports Leagues Can\u2019t Stop Putting Ad Revenue Ahead Of Fan And Player Interests",
-          "source": "AdExchanger",
-          "link": "http://www.adexchanger.com/ctv-roundup/sports-leagues-cant-stop-putting-ad-revenue-ahead-of-fan-and-player-interests/",
-          "published": "2026-11-04T05:45:01Z"
-        },
-        {
-          "title": "Timberwolves\u2019 Norchad Omier changes mind on two-way contract, joins Cavs instead",
-          "source": "ClutchPoints",
-          "link": "https://clutchpoints.com/nba/minnesota-timberwolves/timberwolves-news-norchad-omier-changes-mind-on-two-way-contract-joins-cavs-instead",
-          "published": "2026-11-04T05:35:25Z"
-        }
-      ]
-    },
     {
       "game": "Orlando Magic @ Phoenix Suns",
       "home_team": "Phoenix Suns",
       "away_team": "Orlando Magic",
       "home_abbr": "PHX",
       "away_abbr": "ORL",
-      "home_ml": "-121",
-      "away_ml": "+102",
-      "home_ml_raw": -121,
-      "away_ml_raw": 102,
-      "home_prob": 52.5,
-      "away_prob": 47.5,
+      "home_ml": "-114",
+      "away_ml": "-104",
+      "home_ml_raw": -114,
+      "away_ml_raw": -104,
+      "home_prob": 51.1,
+      "away_prob": 48.9,
       "spread": "PHX -1.5",
       "favorite": "Phoenix Suns",
       "pick": "Phoenix Suns",
       "pick_abbr": "PHX",
-      "moneyline": "-121",
-      "win_probability": 52.5,
+      "moneyline": "-114",
+      "win_probability": 51.1,
       "confidence": "LOW",
       "confidence_stars": "\u2605\u2606\u2606",
       "commence_time": "2026-11-06T02:10:00Z",
       "line_movement": {
         "home": {
-          "direction": "none",
-          "points_moved": 0,
+          "direction": "longer",
+          "points_moved": 7,
           "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "label": "\ud83d\udd34 -114 \u2190 -121",
+          "old_ml": "-121",
+          "new_ml": "-114"
         },
         "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "direction": "shorter",
+          "points_moved": 206,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -104 \u2190 +102",
+          "old_ml": "+102",
+          "new_ml": "-104"
         },
         "pick": {
-          "direction": "none",
-          "points_moved": 0,
+          "direction": "longer",
+          "points_moved": 7,
           "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "label": "\ud83d\udd34 -114 \u2190 -121",
+          "old_ml": "-121",
+          "new_ml": "-114"
         },
-        "snapshot_time": "\u2014"
+        "snapshot_time": "November 05, 2026 at 05:53 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -366,7 +75,7 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udcca 5.0pt probability edge"
+        "\ud83d\udd25 Sharp steam detected"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -405,7 +114,7 @@
       "briefing": {
         "trend": "PHX on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "steam": "Line moved -121\u2192-114 (7pts). Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -419,22 +128,22 @@
       },
       "news": [
         {
-          "title": "Bulls Reportedly Open to Trading All-Star as Deadline Approaches",
-          "source": "Heavy.com",
-          "link": "https://heavy.com/sports/nba/chicago-bulls/bulls-norman-powell-trade-offers-report/",
-          "published": "2026-11-04T05:46:55Z"
-        },
-        {
-          "title": "Sports Leagues Can\u2019t Stop Putting Ad Revenue Ahead Of Fan And Player Interests",
-          "source": "AdExchanger",
-          "link": "http://www.adexchanger.com/ctv-roundup/sports-leagues-cant-stop-putting-ad-revenue-ahead-of-fan-and-player-interests/",
-          "published": "2026-11-04T05:45:01Z"
-        },
-        {
-          "title": "Timberwolves\u2019 Norchad Omier changes mind on two-way contract, joins Cavs instead",
+          "title": "NBA rumors: Nobody should be surprised by these Michael Porter Jr., Julius Randle, Norman Powell trade updates",
           "source": "ClutchPoints",
-          "link": "https://clutchpoints.com/nba/minnesota-timberwolves/timberwolves-news-norchad-omier-changes-mind-on-two-way-contract-joins-cavs-instead",
-          "published": "2026-11-04T05:35:25Z"
+          "link": "https://clutchpoints.com/nba/nba-stories/nba-rumors-nobody-surprised-michael-porter-jr-julius-randle-norman-powell-trade-updates",
+          "published": "2026-11-04T18:27:43Z"
+        },
+        {
+          "title": "Kon Knueppel leaves season debut with Hornets early with leg injury after offseason hamstring issue",
+          "source": "Yahoo Entertainment",
+          "link": "https://sports.yahoo.com/nba/article/kon-knueppel-leaves-season-debut-with-hornets-early-with-leg-injury-after-offseason-hamstring-issue-015937845.html",
+          "published": "2026-11-04T18:22:17Z"
+        },
+        {
+          "title": "Hornets' Kon Knueppel to make season debut Wednesday vs. Nets following hamstring injury",
+          "source": "Yahoo Entertainment",
+          "link": "https://sports.yahoo.com/nba/article/hornets-kon-knueppel-to-make-season-debut-wednesday-vs-nets-following-hamstring-injury-182217623.html",
+          "published": "2026-11-04T18:22:17Z"
         }
       ]
     },
@@ -444,47 +153,47 @@
       "away_team": "Miami Heat",
       "home_abbr": "GSW",
       "away_abbr": "MIA",
-      "home_ml": "-185",
-      "away_ml": "+155",
-      "home_ml_raw": -185,
-      "away_ml_raw": 155,
-      "home_prob": 62.3,
-      "away_prob": 37.7,
-      "spread": "GSW -4.5",
+      "home_ml": "-269",
+      "away_ml": "+221",
+      "home_ml_raw": -269,
+      "away_ml_raw": 221,
+      "home_prob": 70.1,
+      "away_prob": 29.9,
+      "spread": "GSW -7.5",
       "favorite": "Golden State Warriors",
       "pick": "Golden State Warriors",
       "pick_abbr": "GSW",
-      "moneyline": "-185",
-      "win_probability": 62.3,
+      "moneyline": "-269",
+      "win_probability": 70.1,
       "confidence": "MEDIUM",
       "confidence_stars": "\u2605\u2605\u2606",
       "commence_time": "2026-11-06T03:10:00Z",
       "line_movement": {
         "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "direction": "shorter",
+          "points_moved": 84,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -269 \u2190 -185",
+          "old_ml": "-185",
+          "new_ml": "-269"
         },
         "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "direction": "longer",
+          "points_moved": 66,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM +221 \u2190 +155",
+          "old_ml": "+155",
+          "new_ml": "+221"
         },
         "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "direction": "shorter",
+          "points_moved": 84,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -269 \u2190 -185",
+          "old_ml": "-185",
+          "new_ml": "-269"
         },
-        "snapshot_time": "\u2014"
+        "snapshot_time": "November 05, 2026 at 05:53 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -511,6 +220,7 @@
         }
       },
       "edge_factors": [
+        "\ud83d\udd25 Sharp steam detected",
         "\ud83d\udca4 MIA fatigued (B2B) \u2014 source: ESPN",
         "\u2708\ufe0f MIA traveled 2,337 mi"
       ],
@@ -551,7 +261,7 @@
       "briefing": {
         "trend": "MIA on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "steam": "Line steamed from -185 to -269 (84pt move) \u2014 heavy professional action on Golden State Warriors.",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -565,22 +275,22 @@
       },
       "news": [
         {
-          "title": "Bulls Reportedly Open to Trading All-Star as Deadline Approaches",
-          "source": "Heavy.com",
-          "link": "https://heavy.com/sports/nba/chicago-bulls/bulls-norman-powell-trade-offers-report/",
-          "published": "2026-11-04T05:46:55Z"
-        },
-        {
-          "title": "Sports Leagues Can\u2019t Stop Putting Ad Revenue Ahead Of Fan And Player Interests",
-          "source": "AdExchanger",
-          "link": "http://www.adexchanger.com/ctv-roundup/sports-leagues-cant-stop-putting-ad-revenue-ahead-of-fan-and-player-interests/",
-          "published": "2026-11-04T05:45:01Z"
-        },
-        {
-          "title": "Timberwolves\u2019 Norchad Omier changes mind on two-way contract, joins Cavs instead",
+          "title": "NBA rumors: Nobody should be surprised by these Michael Porter Jr., Julius Randle, Norman Powell trade updates",
           "source": "ClutchPoints",
-          "link": "https://clutchpoints.com/nba/minnesota-timberwolves/timberwolves-news-norchad-omier-changes-mind-on-two-way-contract-joins-cavs-instead",
-          "published": "2026-11-04T05:35:25Z"
+          "link": "https://clutchpoints.com/nba/nba-stories/nba-rumors-nobody-surprised-michael-porter-jr-julius-randle-norman-powell-trade-updates",
+          "published": "2026-11-04T18:27:43Z"
+        },
+        {
+          "title": "Kon Knueppel leaves season debut with Hornets early with leg injury after offseason hamstring issue",
+          "source": "Yahoo Entertainment",
+          "link": "https://sports.yahoo.com/nba/article/kon-knueppel-leaves-season-debut-with-hornets-early-with-leg-injury-after-offseason-hamstring-issue-015937845.html",
+          "published": "2026-11-04T18:22:17Z"
+        },
+        {
+          "title": "Hornets' Kon Knueppel to make season debut Wednesday vs. Nets following hamstring injury",
+          "source": "Yahoo Entertainment",
+          "link": "https://sports.yahoo.com/nba/article/hornets-kon-knueppel-to-make-season-debut-wednesday-vs-nets-following-hamstring-injury-182217623.html",
+          "published": "2026-11-04T18:22:17Z"
         }
       ]
     },
@@ -630,7 +340,7 @@
           "old_ml": "\u2014",
           "new_ml": "\u2014"
         },
-        "snapshot_time": "November 05, 2026 at 02:00 AM UTC"
+        "snapshot_time": "November 05, 2026 at 05:53 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -710,22 +420,22 @@
       },
       "news": [
         {
-          "title": "Bulls Reportedly Open to Trading All-Star as Deadline Approaches",
-          "source": "Heavy.com",
-          "link": "https://heavy.com/sports/nba/chicago-bulls/bulls-norman-powell-trade-offers-report/",
-          "published": "2026-11-04T05:46:55Z"
-        },
-        {
-          "title": "Sports Leagues Can\u2019t Stop Putting Ad Revenue Ahead Of Fan And Player Interests",
-          "source": "AdExchanger",
-          "link": "http://www.adexchanger.com/ctv-roundup/sports-leagues-cant-stop-putting-ad-revenue-ahead-of-fan-and-player-interests/",
-          "published": "2026-11-04T05:45:01Z"
-        },
-        {
-          "title": "Timberwolves\u2019 Norchad Omier changes mind on two-way contract, joins Cavs instead",
+          "title": "NBA rumors: Nobody should be surprised by these Michael Porter Jr., Julius Randle, Norman Powell trade updates",
           "source": "ClutchPoints",
-          "link": "https://clutchpoints.com/nba/minnesota-timberwolves/timberwolves-news-norchad-omier-changes-mind-on-two-way-contract-joins-cavs-instead",
-          "published": "2026-11-04T05:35:25Z"
+          "link": "https://clutchpoints.com/nba/nba-stories/nba-rumors-nobody-surprised-michael-porter-jr-julius-randle-norman-powell-trade-updates",
+          "published": "2026-11-04T18:27:43Z"
+        },
+        {
+          "title": "Kon Knueppel leaves season debut with Hornets early with leg injury after offseason hamstring issue",
+          "source": "Yahoo Entertainment",
+          "link": "https://sports.yahoo.com/nba/article/kon-knueppel-leaves-season-debut-with-hornets-early-with-leg-injury-after-offseason-hamstring-issue-015937845.html",
+          "published": "2026-11-04T18:22:17Z"
+        },
+        {
+          "title": "Hornets' Kon Knueppel to make season debut Wednesday vs. Nets following hamstring injury",
+          "source": "Yahoo Entertainment",
+          "link": "https://sports.yahoo.com/nba/article/hornets-kon-knueppel-to-make-season-debut-wednesday-vs-nets-following-hamstring-injury-182217623.html",
+          "published": "2026-11-04T18:22:17Z"
         }
       ]
     },
@@ -775,7 +485,7 @@
           "old_ml": "\u2014",
           "new_ml": "\u2014"
         },
-        "snapshot_time": "November 05, 2026 at 02:00 AM UTC"
+        "snapshot_time": "November 05, 2026 at 05:53 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -856,22 +566,22 @@
       },
       "news": [
         {
-          "title": "Bulls Reportedly Open to Trading All-Star as Deadline Approaches",
-          "source": "Heavy.com",
-          "link": "https://heavy.com/sports/nba/chicago-bulls/bulls-norman-powell-trade-offers-report/",
-          "published": "2026-11-04T05:46:55Z"
-        },
-        {
-          "title": "Sports Leagues Can\u2019t Stop Putting Ad Revenue Ahead Of Fan And Player Interests",
-          "source": "AdExchanger",
-          "link": "http://www.adexchanger.com/ctv-roundup/sports-leagues-cant-stop-putting-ad-revenue-ahead-of-fan-and-player-interests/",
-          "published": "2026-11-04T05:45:01Z"
-        },
-        {
-          "title": "Timberwolves\u2019 Norchad Omier changes mind on two-way contract, joins Cavs instead",
+          "title": "NBA rumors: Nobody should be surprised by these Michael Porter Jr., Julius Randle, Norman Powell trade updates",
           "source": "ClutchPoints",
-          "link": "https://clutchpoints.com/nba/minnesota-timberwolves/timberwolves-news-norchad-omier-changes-mind-on-two-way-contract-joins-cavs-instead",
-          "published": "2026-11-04T05:35:25Z"
+          "link": "https://clutchpoints.com/nba/nba-stories/nba-rumors-nobody-surprised-michael-porter-jr-julius-randle-norman-powell-trade-updates",
+          "published": "2026-11-04T18:27:43Z"
+        },
+        {
+          "title": "Hornets' Kon Knueppel to make season debut Wednesday vs. Nets following hamstring injury",
+          "source": "Yahoo Entertainment",
+          "link": "https://sports.yahoo.com/nba/article/hornets-kon-knueppel-to-make-season-debut-wednesday-vs-nets-following-hamstring-injury-182217623.html",
+          "published": "2026-11-04T18:22:17Z"
+        },
+        {
+          "title": "Kon Knueppel leaves season debut with Hornets early with leg injury after offseason hamstring issue",
+          "source": "Yahoo Entertainment",
+          "link": "https://sports.yahoo.com/nba/article/kon-knueppel-leaves-season-debut-with-hornets-early-with-leg-injury-after-offseason-hamstring-issue-015937845.html",
+          "published": "2026-11-04T18:22:17Z"
         }
       ]
     },
@@ -921,7 +631,7 @@
           "old_ml": "\u2014",
           "new_ml": "\u2014"
         },
-        "snapshot_time": "November 05, 2026 at 02:00 AM UTC"
+        "snapshot_time": "November 05, 2026 at 05:53 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -1001,22 +711,22 @@
       },
       "news": [
         {
-          "title": "Bulls Reportedly Open to Trading All-Star as Deadline Approaches",
-          "source": "Heavy.com",
-          "link": "https://heavy.com/sports/nba/chicago-bulls/bulls-norman-powell-trade-offers-report/",
-          "published": "2026-11-04T05:46:55Z"
-        },
-        {
-          "title": "Sports Leagues Can\u2019t Stop Putting Ad Revenue Ahead Of Fan And Player Interests",
-          "source": "AdExchanger",
-          "link": "http://www.adexchanger.com/ctv-roundup/sports-leagues-cant-stop-putting-ad-revenue-ahead-of-fan-and-player-interests/",
-          "published": "2026-11-04T05:45:01Z"
-        },
-        {
-          "title": "Timberwolves\u2019 Norchad Omier changes mind on two-way contract, joins Cavs instead",
+          "title": "NBA rumors: Nobody should be surprised by these Michael Porter Jr., Julius Randle, Norman Powell trade updates",
           "source": "ClutchPoints",
-          "link": "https://clutchpoints.com/nba/minnesota-timberwolves/timberwolves-news-norchad-omier-changes-mind-on-two-way-contract-joins-cavs-instead",
-          "published": "2026-11-04T05:35:25Z"
+          "link": "https://clutchpoints.com/nba/nba-stories/nba-rumors-nobody-surprised-michael-porter-jr-julius-randle-norman-powell-trade-updates",
+          "published": "2026-11-04T18:27:43Z"
+        },
+        {
+          "title": "Kon Knueppel leaves season debut with Hornets early with leg injury after offseason hamstring issue",
+          "source": "Yahoo Entertainment",
+          "link": "https://sports.yahoo.com/nba/article/kon-knueppel-leaves-season-debut-with-hornets-early-with-leg-injury-after-offseason-hamstring-issue-015937845.html",
+          "published": "2026-11-04T18:22:17Z"
+        },
+        {
+          "title": "Hornets' Kon Knueppel to make season debut Wednesday vs. Nets following hamstring injury",
+          "source": "Yahoo Entertainment",
+          "link": "https://sports.yahoo.com/nba/article/hornets-kon-knueppel-to-make-season-debut-wednesday-vs-nets-following-hamstring-injury-182217623.html",
+          "published": "2026-11-04T18:22:17Z"
         }
       ]
     },
@@ -1066,7 +776,7 @@
           "old_ml": "\u2014",
           "new_ml": "\u2014"
         },
-        "snapshot_time": "November 05, 2026 at 02:00 AM UTC"
+        "snapshot_time": "November 05, 2026 at 05:53 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -1146,22 +856,22 @@
       },
       "news": [
         {
-          "title": "Bulls Reportedly Open to Trading All-Star as Deadline Approaches",
-          "source": "Heavy.com",
-          "link": "https://heavy.com/sports/nba/chicago-bulls/bulls-norman-powell-trade-offers-report/",
-          "published": "2026-11-04T05:46:55Z"
-        },
-        {
-          "title": "Sports Leagues Can\u2019t Stop Putting Ad Revenue Ahead Of Fan And Player Interests",
-          "source": "AdExchanger",
-          "link": "http://www.adexchanger.com/ctv-roundup/sports-leagues-cant-stop-putting-ad-revenue-ahead-of-fan-and-player-interests/",
-          "published": "2026-11-04T05:45:01Z"
-        },
-        {
-          "title": "Timberwolves\u2019 Norchad Omier changes mind on two-way contract, joins Cavs instead",
+          "title": "NBA rumors: Nobody should be surprised by these Michael Porter Jr., Julius Randle, Norman Powell trade updates",
           "source": "ClutchPoints",
-          "link": "https://clutchpoints.com/nba/minnesota-timberwolves/timberwolves-news-norchad-omier-changes-mind-on-two-way-contract-joins-cavs-instead",
-          "published": "2026-11-04T05:35:25Z"
+          "link": "https://clutchpoints.com/nba/nba-stories/nba-rumors-nobody-surprised-michael-porter-jr-julius-randle-norman-powell-trade-updates",
+          "published": "2026-11-04T18:27:43Z"
+        },
+        {
+          "title": "Kon Knueppel leaves season debut with Hornets early with leg injury after offseason hamstring issue",
+          "source": "Yahoo Entertainment",
+          "link": "https://sports.yahoo.com/nba/article/kon-knueppel-leaves-season-debut-with-hornets-early-with-leg-injury-after-offseason-hamstring-issue-015937845.html",
+          "published": "2026-11-04T18:22:17Z"
+        },
+        {
+          "title": "Hornets' Kon Knueppel to make season debut Wednesday vs. Nets following hamstring injury",
+          "source": "Yahoo Entertainment",
+          "link": "https://sports.yahoo.com/nba/article/hornets-kon-knueppel-to-make-season-debut-wednesday-vs-nets-following-hamstring-injury-182217623.html",
+          "published": "2026-11-04T18:22:17Z"
         }
       ]
     }
@@ -1176,12 +886,12 @@
       "profit": -187.14
     },
     "MEDIUM": {
-      "wins": 36,
+      "wins": 37,
       "losses": 19,
-      "total": 55,
-      "win_pct": 65.5,
-      "roi": -0.8,
-      "profit": -46.7
+      "total": 56,
+      "win_pct": 66.1,
+      "roi": 0.1,
+      "profit": 3.05
     },
     "HIGH": {
       "wins": 26,
@@ -1192,20 +902,20 @@
       "profit": 25.56
     },
     "overall_7d": {
-      "wins": 28,
+      "wins": 29,
       "losses": 10,
-      "total": 38,
-      "win_pct": 73.7,
-      "roi": 7.6,
-      "profit": 287.35
+      "total": 39,
+      "win_pct": 74.4,
+      "roi": 8.6,
+      "profit": 337.1
     },
     "overall_30d": {
-      "wins": 59,
+      "wins": 60,
       "losses": 29,
-      "total": 88,
-      "win_pct": 67.0,
-      "roi": -3.7,
-      "profit": -326.11
+      "total": 89,
+      "win_pct": 67.4,
+      "roi": -3.1,
+      "profit": -276.36
     }
   }
 }
