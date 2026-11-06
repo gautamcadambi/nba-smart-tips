@@ -1,54 +1,200 @@
 {
-  "last_updated": "November 06, 2026 at 02:00 AM UTC",
-  "total_games": 13,
+  "last_updated": "November 06, 2026 at 05:50 AM UTC",
+  "total_games": 14,
   "games": [
     {
-      "game": "Orlando Magic @ Phoenix Suns",
-      "home_team": "Phoenix Suns",
-      "away_team": "Orlando Magic",
-      "home_abbr": "PHX",
-      "away_abbr": "ORL",
-      "home_ml": "-121",
-      "away_ml": "+102",
-      "home_ml_raw": -121,
-      "away_ml_raw": 102,
-      "home_prob": 52.5,
-      "away_prob": 47.5,
-      "spread": "PHX -1.5",
-      "favorite": "Phoenix Suns",
-      "pick": "Phoenix Suns",
-      "pick_abbr": "PHX",
-      "moneyline": "-121",
-      "win_probability": 52.5,
+      "game": "Miami Heat @ Golden State Warriors",
+      "home_team": "Golden State Warriors",
+      "away_team": "Miami Heat",
+      "home_abbr": "GSW",
+      "away_abbr": "MIA",
+      "home_ml": "N/A",
+      "away_ml": "N/A",
+      "home_ml_raw": null,
+      "away_ml_raw": null,
+      "home_prob": 50.0,
+      "away_prob": 50.0,
+      "spread": "GSW -19.5",
+      "favorite": "Golden State Warriors",
+      "pick": "Golden State Warriors",
+      "pick_abbr": "GSW",
+      "moneyline": "N/A",
+      "win_probability": 50.0,
       "confidence": "LOW",
       "confidence_stars": "\u2605\u2606\u2606",
-      "commence_time": "2026-11-06T02:10:00Z",
+      "commence_time": "2026-11-06T03:11:16Z",
       "line_movement": {
         "home": {
-          "direction": "shorter",
-          "points_moved": 7,
+          "direction": "none",
+          "points_moved": 0,
           "steam": false,
-          "label": "\ud83d\udfe2 -121 \u2190 -114",
-          "old_ml": "-114",
-          "new_ml": "-121"
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
         },
         "away": {
-          "direction": "longer",
-          "points_moved": 206,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM +102 \u2190 -104",
-          "old_ml": "-104",
-          "new_ml": "+102"
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
         },
         "pick": {
-          "direction": "shorter",
-          "points_moved": 7,
+          "direction": "none",
+          "points_moved": 0,
           "steam": false,
-          "label": "\ud83d\udfe2 -121 \u2190 -114",
-          "old_ml": "-114",
-          "new_ml": "-121"
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
         },
-        "snapshot_time": "November 05, 2026 at 06:32 PM UTC"
+        "snapshot_time": "November 06, 2026 at 02:00 AM UTC"
+      },
+      "fatigue": {
+        "home": {
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Nov 05",
+          "days_rest": 1,
+          "games_last_4d": 2,
+          "travel_miles": 0,
+          "travel_desc": "",
+          "source": "ESPN Scoreboard API"
+        },
+        "away": {
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Nov 05",
+          "days_rest": 1,
+          "games_last_4d": 3,
+          "travel_miles": 2589,
+          "travel_desc": "2,589 mi road trip",
+          "source": "ESPN Scoreboard API"
+        }
+      },
+      "edge_factors": [
+        "\ud83d\udca4 MIA fatigued (B2B) \u2014 source: ESPN",
+        "\u2708\ufe0f MIA traveled 2,589 mi"
+      ],
+      "injury_notes": "No key injuries.",
+      "sharp": {
+        "away_t": null,
+        "home_t": null,
+        "source": null,
+        "sharp_signal": null,
+        "sharp_label": "Pending \u2014 check closer to tip-off",
+        "rlm": false
+      },
+      "form": {
+        "home": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        },
+        "away": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        }
+      },
+      "h2h": {
+        "total_meetings": 0,
+        "home_wins": 0,
+        "away_wins": 0,
+        "meetings": [],
+        "source": "\u2014"
+      },
+      "briefing": {
+        "trend": "GSW on Back-to-Back \u26a0\ufe0f per ESPN schedule data. MIA on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "matchup": "Both rosters appear healthy \u2014 clean line.",
+        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "injury_notes": "No key injuries."
+      },
+      "live": {
+        "status": "pre",
+        "status_detail": "Upcoming",
+        "period": 0,
+        "clock": "",
+        "home_score": 0,
+        "away_score": 0,
+        "spread_alert": null
+      },
+      "news": [
+        {
+          "title": "Watch Lakers\u2019 Luka Doncic show Darius Acuff Jr. how it\u2019s done with bonkers heater",
+          "source": "ClutchPoints",
+          "link": "https://clutchpoints.com/nba/los-angeles-lakers/lakers-news-luka-doncic-darius-acuff-jr-how-its-done-bonkers-heater",
+          "published": "2026-11-05T05:49:06Z"
+        },
+        {
+          "title": "Photos: Best images from Thunder's 124-116 win over Cavaliers",
+          "source": "USA Today",
+          "link": "https://okcthunderwire.usatoday.com/story/sports/nba/thunder/2026/11/04/photos-best-images-from-thunder-124-116-win-over-cavaliers/92621590007/",
+          "published": "2026-11-05T05:48:40Z"
+        },
+        {
+          "title": "Luka Doncic's 40 points lead the Lakers past the Kings 116-103",
+          "source": "Yahoo Entertainment",
+          "link": "https://sports.yahoo.com/articles/luka-doncics-40-points-lead-054623276.html",
+          "published": "2026-11-05T05:46:23Z"
+        }
+      ]
+    },
+    {
+      "game": "Washington Wizards @ Atlanta Hawks",
+      "home_team": "Atlanta Hawks",
+      "away_team": "Washington Wizards",
+      "home_abbr": "ATL",
+      "away_abbr": "WAS",
+      "home_ml": "-241",
+      "away_ml": "+199",
+      "home_ml_raw": -241,
+      "away_ml_raw": 199,
+      "home_prob": 67.9,
+      "away_prob": 32.1,
+      "spread": "ATL -6.5",
+      "favorite": "Atlanta Hawks",
+      "pick": "Atlanta Hawks",
+      "pick_abbr": "ATL",
+      "moneyline": "-241",
+      "win_probability": 67.9,
+      "confidence": "MEDIUM",
+      "confidence_stars": "\u2605\u2605\u2606",
+      "commence_time": "2026-11-07T00:10:00Z",
+      "line_movement": {
+        "home": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "away": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "pick": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "snapshot_time": "\u2014"
       },
       "fatigue": {
         "home": {
@@ -58,19 +204,599 @@
           "last_game": "Nov 04",
           "days_rest": 2,
           "games_last_4d": 2,
-          "travel_miles": 651,
-          "travel_desc": "651 mi road trip",
+          "travel_miles": 543,
+          "travel_desc": "543 mi road trip",
+          "source": "ESPN Scoreboard API"
+        },
+        "away": {
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
+          "last_game": "Nov 04",
+          "days_rest": 2,
+          "games_last_4d": 2,
+          "travel_miles": 758,
+          "travel_desc": "758 mi road trip",
+          "source": "ESPN Scoreboard API"
+        }
+      },
+      "edge_factors": [
+        "\ud83d\udcca 35.8pt probability edge"
+      ],
+      "injury_notes": "No key injuries.",
+      "sharp": {
+        "away_t": null,
+        "home_t": null,
+        "source": null,
+        "sharp_signal": null,
+        "sharp_label": "Pending \u2014 check closer to tip-off",
+        "rlm": false
+      },
+      "form": {
+        "home": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        },
+        "away": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        }
+      },
+      "h2h": {
+        "total_meetings": 0,
+        "home_wins": 0,
+        "away_wins": 0,
+        "meetings": [],
+        "source": "\u2014"
+      },
+      "briefing": {
+        "trend": "Atlanta Hawks hold a 67.9% edge.",
+        "matchup": "Both rosters appear healthy \u2014 clean line.",
+        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "injury_notes": "No key injuries."
+      },
+      "live": {
+        "status": "pre",
+        "status_detail": "Upcoming",
+        "period": 0,
+        "clock": "",
+        "home_score": 0,
+        "away_score": 0,
+        "spread_alert": null
+      },
+      "news": [
+        {
+          "title": "Watch Lakers\u2019 Luka Doncic show Darius Acuff Jr. how it\u2019s done with bonkers heater",
+          "source": "ClutchPoints",
+          "link": "https://clutchpoints.com/nba/los-angeles-lakers/lakers-news-luka-doncic-darius-acuff-jr-how-its-done-bonkers-heater",
+          "published": "2026-11-05T05:49:06Z"
+        },
+        {
+          "title": "Photos: Best images from Thunder's 124-116 win over Cavaliers",
+          "source": "USA Today",
+          "link": "https://okcthunderwire.usatoday.com/story/sports/nba/thunder/2026/11/04/photos-best-images-from-thunder-124-116-win-over-cavaliers/92621590007/",
+          "published": "2026-11-05T05:48:40Z"
+        },
+        {
+          "title": "Luka Doncic's 40 points lead the Lakers past the Kings 116-103",
+          "source": "Yahoo Entertainment",
+          "link": "https://sports.yahoo.com/articles/luka-doncics-40-points-lead-054623276.html",
+          "published": "2026-11-05T05:46:23Z"
+        }
+      ]
+    },
+    {
+      "game": "Boston Celtics @ Charlotte Hornets",
+      "home_team": "Charlotte Hornets",
+      "away_team": "Boston Celtics",
+      "home_abbr": "CHA",
+      "away_abbr": "BOS",
+      "home_ml": "+276",
+      "away_ml": "-344",
+      "home_ml_raw": 276,
+      "away_ml_raw": -344,
+      "home_prob": 25.6,
+      "away_prob": 74.4,
+      "spread": "CHA +8.5",
+      "favorite": "Boston Celtics",
+      "pick": "Boston Celtics",
+      "pick_abbr": "BOS",
+      "moneyline": "-344",
+      "win_probability": 74.4,
+      "confidence": "HIGH",
+      "confidence_stars": "\u2605\u2605\u2605",
+      "commence_time": "2026-11-07T00:10:00Z",
+      "line_movement": {
+        "home": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "away": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "pick": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "snapshot_time": "\u2014"
+      },
+      "fatigue": {
+        "home": {
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
+          "last_game": "Nov 04",
+          "days_rest": 2,
+          "games_last_4d": 2,
+          "travel_miles": 531,
+          "travel_desc": "531 mi road trip",
+          "source": "ESPN Scoreboard API"
+        },
+        "away": {
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
+          "last_game": "Nov 04",
+          "days_rest": 2,
+          "games_last_4d": 2,
+          "travel_miles": 1604,
+          "travel_desc": "1,604 mi road trip",
+          "source": "ESPN Scoreboard API"
+        }
+      },
+      "edge_factors": [
+        "\ud83d\udcca 48.8pt probability edge"
+      ],
+      "injury_notes": "No key injuries.",
+      "sharp": {
+        "away_t": null,
+        "home_t": null,
+        "source": null,
+        "sharp_signal": null,
+        "sharp_label": "Pending \u2014 check closer to tip-off",
+        "rlm": false
+      },
+      "form": {
+        "home": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        },
+        "away": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        }
+      },
+      "h2h": {
+        "total_meetings": 0,
+        "home_wins": 0,
+        "away_wins": 0,
+        "meetings": [],
+        "source": "\u2014"
+      },
+      "briefing": {
+        "trend": "Boston Celtics hold a 74.4% edge.",
+        "matchup": "Both rosters appear healthy \u2014 clean line.",
+        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "injury_notes": "No key injuries."
+      },
+      "live": {
+        "status": "pre",
+        "status_detail": "Upcoming",
+        "period": 0,
+        "clock": "",
+        "home_score": 0,
+        "away_score": 0,
+        "spread_alert": null
+      },
+      "news": [
+        {
+          "title": "Watch Lakers\u2019 Luka Doncic show Darius Acuff Jr. how it\u2019s done with bonkers heater",
+          "source": "ClutchPoints",
+          "link": "https://clutchpoints.com/nba/los-angeles-lakers/lakers-news-luka-doncic-darius-acuff-jr-how-its-done-bonkers-heater",
+          "published": "2026-11-05T05:49:06Z"
+        },
+        {
+          "title": "Photos: Best images from Thunder's 124-116 win over Cavaliers",
+          "source": "USA Today",
+          "link": "https://okcthunderwire.usatoday.com/story/sports/nba/thunder/2026/11/04/photos-best-images-from-thunder-124-116-win-over-cavaliers/92621590007/",
+          "published": "2026-11-05T05:48:40Z"
+        },
+        {
+          "title": "Luka Doncic's 40 points lead the Lakers past the Kings 116-103",
+          "source": "Yahoo Entertainment",
+          "link": "https://sports.yahoo.com/articles/luka-doncics-40-points-lead-054623276.html",
+          "published": "2026-11-05T05:46:23Z"
+        }
+      ]
+    },
+    {
+      "game": "Philadelphia 76ers @ Cleveland Cavaliers",
+      "home_team": "Cleveland Cavaliers",
+      "away_team": "Philadelphia 76ers",
+      "home_abbr": "CLE",
+      "away_abbr": "PHI",
+      "home_ml": "+111",
+      "away_ml": "-132",
+      "home_ml_raw": 111,
+      "away_ml_raw": -132,
+      "home_prob": 45.4,
+      "away_prob": 54.6,
+      "spread": "CLE +2.5",
+      "favorite": "Philadelphia 76ers",
+      "pick": "Philadelphia 76ers",
+      "pick_abbr": "PHI",
+      "moneyline": "-132",
+      "win_probability": 54.6,
+      "confidence": "LOW",
+      "confidence_stars": "\u2605\u2606\u2606",
+      "commence_time": "2026-11-07T00:40:00Z",
+      "line_movement": {
+        "home": {
+          "direction": "longer",
+          "points_moved": 3,
+          "steam": false,
+          "label": "\ud83d\udd34 +111 \u2190 +108",
+          "old_ml": "+108",
+          "new_ml": "+111"
+        },
+        "away": {
+          "direction": "shorter",
+          "points_moved": 4,
+          "steam": false,
+          "label": "\ud83d\udfe2 -132 \u2190 -128",
+          "old_ml": "-128",
+          "new_ml": "-132"
+        },
+        "pick": {
+          "direction": "shorter",
+          "points_moved": 4,
+          "steam": false,
+          "label": "\ud83d\udfe2 -132 \u2190 -128",
+          "old_ml": "-128",
+          "new_ml": "-132"
+        },
+        "snapshot_time": "November 06, 2026 at 02:00 AM UTC"
+      },
+      "fatigue": {
+        "home": {
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
+          "last_game": "Nov 04",
+          "days_rest": 2,
+          "games_last_4d": 2,
+          "travel_miles": 950,
+          "travel_desc": "950 mi road trip",
+          "source": "ESPN Scoreboard API"
+        },
+        "away": {
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
+          "last_game": "Nov 04",
+          "days_rest": 2,
+          "games_last_4d": 2,
+          "travel_miles": 443,
+          "travel_desc": "443 mi road trip",
+          "source": "ESPN Scoreboard API"
+        }
+      },
+      "edge_factors": [
+        "\ud83d\udcca 9.2pt probability edge"
+      ],
+      "injury_notes": "No key injuries.",
+      "sharp": {
+        "away_t": null,
+        "home_t": null,
+        "source": null,
+        "sharp_signal": null,
+        "sharp_label": "Pending \u2014 check closer to tip-off",
+        "rlm": false
+      },
+      "form": {
+        "home": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        },
+        "away": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        }
+      },
+      "h2h": {
+        "total_meetings": 0,
+        "home_wins": 0,
+        "away_wins": 0,
+        "meetings": [],
+        "source": "\u2014"
+      },
+      "briefing": {
+        "trend": "Philadelphia 76ers hold a 54.6% edge.",
+        "matchup": "Both rosters appear healthy \u2014 clean line.",
+        "steam": "Line moved -128\u2192-132 (4pts). Pending \u2014 check closer to tip-off",
+        "injury_notes": "No key injuries."
+      },
+      "live": {
+        "status": "pre",
+        "status_detail": "Upcoming",
+        "period": 0,
+        "clock": "",
+        "home_score": 0,
+        "away_score": 0,
+        "spread_alert": null
+      },
+      "news": [
+        {
+          "title": "Watch Lakers\u2019 Luka Doncic show Darius Acuff Jr. how it\u2019s done with bonkers heater",
+          "source": "ClutchPoints",
+          "link": "https://clutchpoints.com/nba/los-angeles-lakers/lakers-news-luka-doncic-darius-acuff-jr-how-its-done-bonkers-heater",
+          "published": "2026-11-05T05:49:06Z"
+        },
+        {
+          "title": "Photos: Best images from Thunder's 124-116 win over Cavaliers",
+          "source": "USA Today",
+          "link": "https://okcthunderwire.usatoday.com/story/sports/nba/thunder/2026/11/04/photos-best-images-from-thunder-124-116-win-over-cavaliers/92621590007/",
+          "published": "2026-11-05T05:48:40Z"
+        },
+        {
+          "title": "Luka Doncic's 40 points lead the Lakers past the Kings 116-103",
+          "source": "Yahoo Entertainment",
+          "link": "https://sports.yahoo.com/articles/luka-doncics-40-points-lead-054623276.html",
+          "published": "2026-11-05T05:46:23Z"
+        }
+      ]
+    },
+    {
+      "game": "Utah Jazz @ Dallas Mavericks",
+      "home_team": "Dallas Mavericks",
+      "away_team": "Utah Jazz",
+      "home_abbr": "DAL",
+      "away_abbr": "UTA",
+      "home_ml": "-253",
+      "away_ml": "+208",
+      "home_ml_raw": -253,
+      "away_ml_raw": 208,
+      "home_prob": 68.8,
+      "away_prob": 31.2,
+      "spread": "DAL -7.5",
+      "favorite": "Dallas Mavericks",
+      "pick": "Dallas Mavericks",
+      "pick_abbr": "DAL",
+      "moneyline": "-253",
+      "win_probability": 68.8,
+      "confidence": "MEDIUM",
+      "confidence_stars": "\u2605\u2605\u2606",
+      "commence_time": "2026-11-07T01:10:00Z",
+      "line_movement": {
+        "home": {
+          "direction": "shorter",
+          "points_moved": 7,
+          "steam": false,
+          "label": "\ud83d\udfe2 -253 \u2190 -246",
+          "old_ml": "-246",
+          "new_ml": "-253"
+        },
+        "away": {
+          "direction": "longer",
+          "points_moved": 5,
+          "steam": false,
+          "label": "\ud83d\udd34 +208 \u2190 +203",
+          "old_ml": "+203",
+          "new_ml": "+208"
+        },
+        "pick": {
+          "direction": "shorter",
+          "points_moved": 7,
+          "steam": false,
+          "label": "\ud83d\udfe2 -253 \u2190 -246",
+          "old_ml": "-246",
+          "new_ml": "-253"
+        },
+        "snapshot_time": "November 06, 2026 at 02:00 AM UTC"
+      },
+      "fatigue": {
+        "home": {
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
+          "last_game": "Nov 04",
+          "days_rest": 2,
+          "games_last_4d": 2,
+          "travel_miles": 252,
+          "travel_desc": "252 mi road trip",
           "source": "ESPN Scoreboard API"
         },
         "away": {
           "status": "FRESH",
           "label": "Well rested \u2705",
           "battery": 100,
-          "last_game": "Nov 02",
-          "days_rest": 4,
-          "games_last_4d": 1,
+          "last_game": "\u2014",
+          "days_rest": 99,
+          "games_last_4d": 0,
           "travel_miles": 0,
           "travel_desc": "",
+          "source": "ESPN Scoreboard API"
+        }
+      },
+      "edge_factors": [
+        "\ud83d\udcca 37.6pt probability edge"
+      ],
+      "injury_notes": "No key injuries.",
+      "sharp": {
+        "away_t": null,
+        "home_t": null,
+        "source": null,
+        "sharp_signal": null,
+        "sharp_label": "Pending \u2014 check closer to tip-off",
+        "rlm": false
+      },
+      "form": {
+        "home": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        },
+        "away": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        }
+      },
+      "h2h": {
+        "total_meetings": 0,
+        "home_wins": 0,
+        "away_wins": 0,
+        "meetings": [],
+        "source": "\u2014"
+      },
+      "briefing": {
+        "trend": "Dallas Mavericks hold a 68.8% edge.",
+        "matchup": "Both rosters appear healthy \u2014 clean line.",
+        "steam": "Line moved -246\u2192-253 (7pts). Pending \u2014 check closer to tip-off",
+        "injury_notes": "No key injuries."
+      },
+      "live": {
+        "status": "pre",
+        "status_detail": "Upcoming",
+        "period": 0,
+        "clock": "",
+        "home_score": 0,
+        "away_score": 0,
+        "spread_alert": null
+      },
+      "news": [
+        {
+          "title": "Watch Lakers\u2019 Luka Doncic show Darius Acuff Jr. how it\u2019s done with bonkers heater",
+          "source": "ClutchPoints",
+          "link": "https://clutchpoints.com/nba/los-angeles-lakers/lakers-news-luka-doncic-darius-acuff-jr-how-its-done-bonkers-heater",
+          "published": "2026-11-05T05:49:06Z"
+        },
+        {
+          "title": "Photos: Best images from Thunder's 124-116 win over Cavaliers",
+          "source": "USA Today",
+          "link": "https://okcthunderwire.usatoday.com/story/sports/nba/thunder/2026/11/04/photos-best-images-from-thunder-124-116-win-over-cavaliers/92621590007/",
+          "published": "2026-11-05T05:48:40Z"
+        },
+        {
+          "title": "Luka Doncic's 40 points lead the Lakers past the Kings 116-103",
+          "source": "Yahoo Entertainment",
+          "link": "https://sports.yahoo.com/articles/luka-doncics-40-points-lead-054623276.html",
+          "published": "2026-11-05T05:46:23Z"
+        }
+      ]
+    },
+    {
+      "game": "Oklahoma City Thunder @ Memphis Grizzlies",
+      "home_team": "Memphis Grizzlies",
+      "away_team": "Oklahoma City Thunder",
+      "home_abbr": "MEM",
+      "away_abbr": "OKC",
+      "home_ml": "+128",
+      "away_ml": "-152",
+      "home_ml_raw": 128,
+      "away_ml_raw": -152,
+      "home_prob": 42.1,
+      "away_prob": 57.9,
+      "spread": "MEM +3.5",
+      "favorite": "Oklahoma City Thunder",
+      "pick": "Oklahoma City Thunder",
+      "pick_abbr": "OKC",
+      "moneyline": "-152",
+      "win_probability": 57.9,
+      "confidence": "LOW",
+      "confidence_stars": "\u2605\u2606\u2606",
+      "commence_time": "2026-11-07T01:10:00Z",
+      "line_movement": {
+        "home": {
+          "direction": "shorter",
+          "points_moved": 11,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM +128 \u2190 +139",
+          "old_ml": "+139",
+          "new_ml": "+128"
+        },
+        "away": {
+          "direction": "longer",
+          "points_moved": 13,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -152 \u2190 -165",
+          "old_ml": "-165",
+          "new_ml": "-152"
+        },
+        "pick": {
+          "direction": "longer",
+          "points_moved": 13,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -152 \u2190 -165",
+          "old_ml": "-165",
+          "new_ml": "-152"
+        },
+        "snapshot_time": "November 06, 2026 at 02:00 AM UTC"
+      },
+      "fatigue": {
+        "home": {
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
+          "last_game": "Nov 04",
+          "days_rest": 2,
+          "games_last_4d": 2,
+          "travel_miles": 0,
+          "travel_desc": "",
+          "source": "ESPN Scoreboard API"
+        },
+        "away": {
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
+          "last_game": "Nov 04",
+          "days_rest": 2,
+          "games_last_4d": 2,
+          "travel_miles": 950,
+          "travel_desc": "950 mi road trip",
           "source": "ESPN Scoreboard API"
         }
       },
@@ -112,9 +838,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "Phoenix Suns hold a 52.5% edge.",
+        "trend": "Oklahoma City Thunder hold a 57.9% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line moved -114\u2192-121 (7pts). Pending \u2014 check closer to tip-off",
+        "steam": "Line steamed from -165 to -152 (13pt move) \u2014 heavy professional action on Oklahoma City Thunder.",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -128,603 +854,22 @@
       },
       "news": [
         {
-          "title": "Every player from California to play for the Brooklyn Nets - Spencer Dinwiddie",
+          "title": "Watch Lakers\u2019 Luka Doncic show Darius Acuff Jr. how it\u2019s done with bonkers heater",
+          "source": "ClutchPoints",
+          "link": "https://clutchpoints.com/nba/los-angeles-lakers/lakers-news-luka-doncic-darius-acuff-jr-how-its-done-bonkers-heater",
+          "published": "2026-11-05T05:49:06Z"
+        },
+        {
+          "title": "Photos: Best images from Thunder's 124-116 win over Cavaliers",
           "source": "USA Today",
-          "link": "https://netswire.usatoday.com/story/sports/nba/nets/2026/11/04/every-player-from-california-to-play-for-the-nets-spencer-dinwiddie/92525266007/",
-          "published": "2026-11-05T02:00:17Z"
+          "link": "https://okcthunderwire.usatoday.com/story/sports/nba/thunder/2026/11/04/photos-best-images-from-thunder-124-116-win-over-cavaliers/92621590007/",
+          "published": "2026-11-05T05:48:40Z"
         },
         {
-          "title": "The Pistons Bringing Kyrie Irving Has Potential at the Right Price",
+          "title": "Luka Doncic's 40 points lead the Lakers past the Kings 116-103",
           "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/articles/pistons-bringing-kyrie-irving-potential-015753064.html",
-          "published": "2026-11-05T01:57:53Z"
-        },
-        {
-          "title": "Carmelo Anthony and La La Anthony broke up in 2017, 9 years later, the former NBA power couple finally reached a divorce settlement",
-          "source": "The Times of India",
-          "link": "https://timesofindia.indiatimes.com/sports/nba/top-stories/carmelo-anthony-and-la-la-anthony-broke-up-in-2017-9-years-later-the-former-nba-power-couple-finally-reached-a-divorce-settlement/articleshow/135555696.cms",
-          "published": "2026-11-05T01:53:06Z"
-        }
-      ]
-    },
-    {
-      "game": "Miami Heat @ Golden State Warriors",
-      "home_team": "Golden State Warriors",
-      "away_team": "Miami Heat",
-      "home_abbr": "GSW",
-      "away_abbr": "MIA",
-      "home_ml": "-167",
-      "away_ml": "+140",
-      "home_ml_raw": -167,
-      "away_ml_raw": 140,
-      "home_prob": 60.0,
-      "away_prob": 40.0,
-      "spread": "GSW -3.5",
-      "favorite": "Golden State Warriors",
-      "pick": "Golden State Warriors",
-      "pick_abbr": "GSW",
-      "moneyline": "-167",
-      "win_probability": 60.0,
-      "confidence": "MEDIUM",
-      "confidence_stars": "\u2605\u2605\u2606",
-      "commence_time": "2026-11-06T03:10:00Z",
-      "line_movement": {
-        "home": {
-          "direction": "longer",
-          "points_moved": 102,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -167 \u2190 -269",
-          "old_ml": "-269",
-          "new_ml": "-167"
-        },
-        "away": {
-          "direction": "shorter",
-          "points_moved": 81,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM +140 \u2190 +221",
-          "old_ml": "+221",
-          "new_ml": "+140"
-        },
-        "pick": {
-          "direction": "longer",
-          "points_moved": 102,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -167 \u2190 -269",
-          "old_ml": "-269",
-          "new_ml": "-167"
-        },
-        "snapshot_time": "November 05, 2026 at 06:32 PM UTC"
-      },
-      "fatigue": {
-        "home": {
-          "status": "FRESH",
-          "label": "Well rested \u2705",
-          "battery": 100,
-          "last_game": "Nov 02",
-          "days_rest": 4,
-          "games_last_4d": 1,
-          "travel_miles": 0,
-          "travel_desc": "",
-          "source": "ESPN Scoreboard API"
-        },
-        "away": {
-          "status": "TRAVEL",
-          "label": "Cross-country travel \ud83d\udfe3",
-          "battery": 50,
-          "last_game": "Nov 04",
-          "days_rest": 2,
-          "games_last_4d": 2,
-          "travel_miles": 2337,
-          "travel_desc": "2,337 mi road trip",
-          "source": "ESPN Scoreboard API"
-        }
-      },
-      "edge_factors": [
-        "\ud83d\udd25 Sharp steam detected",
-        "\u2708\ufe0f MIA traveled 2,337 mi"
-      ],
-      "injury_notes": "No key injuries.",
-      "sharp": {
-        "away_t": null,
-        "home_t": null,
-        "source": null,
-        "sharp_signal": null,
-        "sharp_label": "Pending \u2014 check closer to tip-off",
-        "rlm": false
-      },
-      "form": {
-        "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        },
-        "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        }
-      },
-      "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
-      },
-      "briefing": {
-        "trend": "Golden State Warriors hold a 60.0% edge.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -269 to -167 (102pt move) \u2014 heavy professional action on Golden State Warriors.",
-        "injury_notes": "No key injuries."
-      },
-      "live": {
-        "status": "pre",
-        "status_detail": "Upcoming",
-        "period": 0,
-        "clock": "",
-        "home_score": 0,
-        "away_score": 0,
-        "spread_alert": null
-      },
-      "news": [
-        {
-          "title": "Every player from California to play for the Brooklyn Nets - Spencer Dinwiddie",
-          "source": "USA Today",
-          "link": "https://netswire.usatoday.com/story/sports/nba/nets/2026/11/04/every-player-from-california-to-play-for-the-nets-spencer-dinwiddie/92525266007/",
-          "published": "2026-11-05T02:00:17Z"
-        },
-        {
-          "title": "The Pistons Bringing Kyrie Irving Has Potential at the Right Price",
-          "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/articles/pistons-bringing-kyrie-irving-potential-015753064.html",
-          "published": "2026-11-05T01:57:53Z"
-        },
-        {
-          "title": "Carmelo Anthony and La La Anthony broke up in 2017, 9 years later, the former NBA power couple finally reached a divorce settlement",
-          "source": "The Times of India",
-          "link": "https://timesofindia.indiatimes.com/sports/nba/top-stories/carmelo-anthony-and-la-la-anthony-broke-up-in-2017-9-years-later-the-former-nba-power-couple-finally-reached-a-divorce-settlement/articleshow/135555696.cms",
-          "published": "2026-11-05T01:53:06Z"
-        }
-      ]
-    },
-    {
-      "game": "Philadelphia 76ers @ Cleveland Cavaliers",
-      "home_team": "Cleveland Cavaliers",
-      "away_team": "Philadelphia 76ers",
-      "home_abbr": "CLE",
-      "away_abbr": "PHI",
-      "home_ml": "+108",
-      "away_ml": "-128",
-      "home_ml_raw": 108,
-      "away_ml_raw": -128,
-      "home_prob": 46.1,
-      "away_prob": 53.9,
-      "spread": "CLE +1.5",
-      "favorite": "Philadelphia 76ers",
-      "pick": "Philadelphia 76ers",
-      "pick_abbr": "PHI",
-      "moneyline": "-128",
-      "win_probability": 53.9,
-      "confidence": "LOW",
-      "confidence_stars": "\u2605\u2606\u2606",
-      "commence_time": "2026-11-07T00:40:00Z",
-      "line_movement": {
-        "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
-        },
-        "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
-        },
-        "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
-        },
-        "snapshot_time": "\u2014"
-      },
-      "fatigue": {
-        "home": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "Nov 04",
-          "days_rest": 2,
-          "games_last_4d": 2,
-          "travel_miles": 950,
-          "travel_desc": "950 mi road trip",
-          "source": "ESPN Scoreboard API"
-        },
-        "away": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "Nov 04",
-          "days_rest": 2,
-          "games_last_4d": 2,
-          "travel_miles": 443,
-          "travel_desc": "443 mi road trip",
-          "source": "ESPN Scoreboard API"
-        }
-      },
-      "edge_factors": [
-        "\ud83d\udcca 7.8pt probability edge"
-      ],
-      "injury_notes": "No key injuries.",
-      "sharp": {
-        "away_t": null,
-        "home_t": null,
-        "source": null,
-        "sharp_signal": null,
-        "sharp_label": "Pending \u2014 check closer to tip-off",
-        "rlm": false
-      },
-      "form": {
-        "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        },
-        "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        }
-      },
-      "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
-      },
-      "briefing": {
-        "trend": "Philadelphia 76ers hold a 53.9% edge.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
-        "injury_notes": "No key injuries."
-      },
-      "live": {
-        "status": "pre",
-        "status_detail": "Upcoming",
-        "period": 0,
-        "clock": "",
-        "home_score": 0,
-        "away_score": 0,
-        "spread_alert": null
-      },
-      "news": [
-        {
-          "title": "Every player from California to play for the Brooklyn Nets - Spencer Dinwiddie",
-          "source": "USA Today",
-          "link": "https://netswire.usatoday.com/story/sports/nba/nets/2026/11/04/every-player-from-california-to-play-for-the-nets-spencer-dinwiddie/92525266007/",
-          "published": "2026-11-05T02:00:17Z"
-        },
-        {
-          "title": "The Pistons Bringing Kyrie Irving Has Potential at the Right Price",
-          "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/articles/pistons-bringing-kyrie-irving-potential-015753064.html",
-          "published": "2026-11-05T01:57:53Z"
-        },
-        {
-          "title": "Carmelo Anthony and La La Anthony broke up in 2017, 9 years later, the former NBA power couple finally reached a divorce settlement",
-          "source": "The Times of India",
-          "link": "https://timesofindia.indiatimes.com/sports/nba/top-stories/carmelo-anthony-and-la-la-anthony-broke-up-in-2017-9-years-later-the-former-nba-power-couple-finally-reached-a-divorce-settlement/articleshow/135555696.cms",
-          "published": "2026-11-05T01:53:06Z"
-        }
-      ]
-    },
-    {
-      "game": "Utah Jazz @ Dallas Mavericks",
-      "home_team": "Dallas Mavericks",
-      "away_team": "Utah Jazz",
-      "home_abbr": "DAL",
-      "away_abbr": "UTA",
-      "home_ml": "-246",
-      "away_ml": "+203",
-      "home_ml_raw": -246,
-      "away_ml_raw": 203,
-      "home_prob": 68.3,
-      "away_prob": 31.7,
-      "spread": "DAL -7.5",
-      "favorite": "Dallas Mavericks",
-      "pick": "Dallas Mavericks",
-      "pick_abbr": "DAL",
-      "moneyline": "-246",
-      "win_probability": 68.3,
-      "confidence": "MEDIUM",
-      "confidence_stars": "\u2605\u2605\u2606",
-      "commence_time": "2026-11-07T01:10:00Z",
-      "line_movement": {
-        "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
-        },
-        "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
-        },
-        "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
-        },
-        "snapshot_time": "\u2014"
-      },
-      "fatigue": {
-        "home": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "Nov 04",
-          "days_rest": 2,
-          "games_last_4d": 2,
-          "travel_miles": 252,
-          "travel_desc": "252 mi road trip",
-          "source": "ESPN Scoreboard API"
-        },
-        "away": {
-          "status": "FRESH",
-          "label": "Well rested \u2705",
-          "battery": 100,
-          "last_game": "\u2014",
-          "days_rest": 99,
-          "games_last_4d": 0,
-          "travel_miles": 0,
-          "travel_desc": "",
-          "source": "ESPN Scoreboard API"
-        }
-      },
-      "edge_factors": [
-        "\ud83d\udcca 36.6pt probability edge"
-      ],
-      "injury_notes": "No key injuries.",
-      "sharp": {
-        "away_t": null,
-        "home_t": null,
-        "source": null,
-        "sharp_signal": null,
-        "sharp_label": "Pending \u2014 check closer to tip-off",
-        "rlm": false
-      },
-      "form": {
-        "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        },
-        "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        }
-      },
-      "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
-      },
-      "briefing": {
-        "trend": "Dallas Mavericks hold a 68.3% edge.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
-        "injury_notes": "No key injuries."
-      },
-      "live": {
-        "status": "pre",
-        "status_detail": "Upcoming",
-        "period": 0,
-        "clock": "",
-        "home_score": 0,
-        "away_score": 0,
-        "spread_alert": null
-      },
-      "news": [
-        {
-          "title": "Every player from California to play for the Brooklyn Nets - Spencer Dinwiddie",
-          "source": "USA Today",
-          "link": "https://netswire.usatoday.com/story/sports/nba/nets/2026/11/04/every-player-from-california-to-play-for-the-nets-spencer-dinwiddie/92525266007/",
-          "published": "2026-11-05T02:00:17Z"
-        },
-        {
-          "title": "The Pistons Bringing Kyrie Irving Has Potential at the Right Price",
-          "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/articles/pistons-bringing-kyrie-irving-potential-015753064.html",
-          "published": "2026-11-05T01:57:53Z"
-        },
-        {
-          "title": "Carmelo Anthony and La La Anthony broke up in 2017, 9 years later, the former NBA power couple finally reached a divorce settlement",
-          "source": "The Times of India",
-          "link": "https://timesofindia.indiatimes.com/sports/nba/top-stories/carmelo-anthony-and-la-la-anthony-broke-up-in-2017-9-years-later-the-former-nba-power-couple-finally-reached-a-divorce-settlement/articleshow/135555696.cms",
-          "published": "2026-11-05T01:53:06Z"
-        }
-      ]
-    },
-    {
-      "game": "Oklahoma City Thunder @ Memphis Grizzlies",
-      "home_team": "Memphis Grizzlies",
-      "away_team": "Oklahoma City Thunder",
-      "home_abbr": "MEM",
-      "away_abbr": "OKC",
-      "home_ml": "+139",
-      "away_ml": "-165",
-      "home_ml_raw": 139,
-      "away_ml_raw": -165,
-      "home_prob": 40.2,
-      "away_prob": 59.8,
-      "spread": "MEM +3.5",
-      "favorite": "Oklahoma City Thunder",
-      "pick": "Oklahoma City Thunder",
-      "pick_abbr": "OKC",
-      "moneyline": "-165",
-      "win_probability": 59.8,
-      "confidence": "MEDIUM",
-      "confidence_stars": "\u2605\u2605\u2606",
-      "commence_time": "2026-11-07T01:10:00Z",
-      "line_movement": {
-        "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
-        },
-        "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
-        },
-        "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
-        },
-        "snapshot_time": "\u2014"
-      },
-      "fatigue": {
-        "home": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "Nov 04",
-          "days_rest": 2,
-          "games_last_4d": 2,
-          "travel_miles": 0,
-          "travel_desc": "",
-          "source": "ESPN Scoreboard API"
-        },
-        "away": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "Nov 04",
-          "days_rest": 2,
-          "games_last_4d": 2,
-          "travel_miles": 950,
-          "travel_desc": "950 mi road trip",
-          "source": "ESPN Scoreboard API"
-        }
-      },
-      "edge_factors": [
-        "\ud83d\udcca 19.6pt probability edge"
-      ],
-      "injury_notes": "No key injuries.",
-      "sharp": {
-        "away_t": null,
-        "home_t": null,
-        "source": null,
-        "sharp_signal": null,
-        "sharp_label": "Pending \u2014 check closer to tip-off",
-        "rlm": false
-      },
-      "form": {
-        "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        },
-        "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        }
-      },
-      "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
-      },
-      "briefing": {
-        "trend": "Oklahoma City Thunder hold a 59.8% edge.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
-        "injury_notes": "No key injuries."
-      },
-      "live": {
-        "status": "pre",
-        "status_detail": "Upcoming",
-        "period": 0,
-        "clock": "",
-        "home_score": 0,
-        "away_score": 0,
-        "spread_alert": null
-      },
-      "news": [
-        {
-          "title": "Every player from California to play for the Brooklyn Nets - Spencer Dinwiddie",
-          "source": "USA Today",
-          "link": "https://netswire.usatoday.com/story/sports/nba/nets/2026/11/04/every-player-from-california-to-play-for-the-nets-spencer-dinwiddie/92525266007/",
-          "published": "2026-11-05T02:00:17Z"
-        },
-        {
-          "title": "The Pistons Bringing Kyrie Irving Has Potential at the Right Price",
-          "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/articles/pistons-bringing-kyrie-irving-potential-015753064.html",
-          "published": "2026-11-05T01:57:53Z"
-        },
-        {
-          "title": "Carmelo Anthony and La La Anthony broke up in 2017, 9 years later, the former NBA power couple finally reached a divorce settlement",
-          "source": "The Times of India",
-          "link": "https://timesofindia.indiatimes.com/sports/nba/top-stories/carmelo-anthony-and-la-la-anthony-broke-up-in-2017-9-years-later-the-former-nba-power-couple-finally-reached-a-divorce-settlement/articleshow/135555696.cms",
-          "published": "2026-11-05T01:53:06Z"
+          "link": "https://sports.yahoo.com/articles/luka-doncics-40-points-lead-054623276.html",
+          "published": "2026-11-05T05:46:23Z"
         }
       ]
     },
@@ -740,7 +885,7 @@
       "away_ml_raw": -263,
       "home_prob": 30.4,
       "away_prob": 69.6,
-      "spread": "MIL +7.5",
+      "spread": "MIL +6.5",
       "favorite": "Toronto Raptors",
       "pick": "Toronto Raptors",
       "pick_abbr": "TOR",
@@ -754,27 +899,27 @@
           "direction": "none",
           "points_moved": 0,
           "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "label": "No movement",
+          "old_ml": "+216",
+          "new_ml": "+216"
         },
         "away": {
           "direction": "none",
           "points_moved": 0,
           "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "label": "No movement",
+          "old_ml": "-263",
+          "new_ml": "-263"
         },
         "pick": {
           "direction": "none",
           "points_moved": 0,
           "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "label": "No movement",
+          "old_ml": "-263",
+          "new_ml": "-263"
         },
-        "snapshot_time": "\u2014"
+        "snapshot_time": "November 06, 2026 at 02:00 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -854,22 +999,22 @@
       },
       "news": [
         {
-          "title": "Every player from California to play for the Brooklyn Nets - Spencer Dinwiddie",
+          "title": "Watch Lakers\u2019 Luka Doncic show Darius Acuff Jr. how it\u2019s done with bonkers heater",
+          "source": "ClutchPoints",
+          "link": "https://clutchpoints.com/nba/los-angeles-lakers/lakers-news-luka-doncic-darius-acuff-jr-how-its-done-bonkers-heater",
+          "published": "2026-11-05T05:49:06Z"
+        },
+        {
+          "title": "Photos: Best images from Thunder's 124-116 win over Cavaliers",
           "source": "USA Today",
-          "link": "https://netswire.usatoday.com/story/sports/nba/nets/2026/11/04/every-player-from-california-to-play-for-the-nets-spencer-dinwiddie/92525266007/",
-          "published": "2026-11-05T02:00:17Z"
+          "link": "https://okcthunderwire.usatoday.com/story/sports/nba/thunder/2026/11/04/photos-best-images-from-thunder-124-116-win-over-cavaliers/92621590007/",
+          "published": "2026-11-05T05:48:40Z"
         },
         {
-          "title": "The Pistons Bringing Kyrie Irving Has Potential at the Right Price",
+          "title": "Luka Doncic's 40 points lead the Lakers past the Kings 116-103",
           "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/articles/pistons-bringing-kyrie-irving-potential-015753064.html",
-          "published": "2026-11-05T01:57:53Z"
-        },
-        {
-          "title": "Carmelo Anthony and La La Anthony broke up in 2017, 9 years later, the former NBA power couple finally reached a divorce settlement",
-          "source": "The Times of India",
-          "link": "https://timesofindia.indiatimes.com/sports/nba/top-stories/carmelo-anthony-and-la-la-anthony-broke-up-in-2017-9-years-later-the-former-nba-power-couple-finally-reached-a-divorce-settlement/articleshow/135555696.cms",
-          "published": "2026-11-05T01:53:06Z"
+          "link": "https://sports.yahoo.com/articles/luka-doncics-40-points-lead-054623276.html",
+          "published": "2026-11-05T05:46:23Z"
         }
       ]
     },
@@ -879,47 +1024,47 @@
       "away_team": "Minnesota Timberwolves",
       "home_abbr": "NOP",
       "away_abbr": "MIN",
-      "home_ml": "+139",
-      "away_ml": "-165",
-      "home_ml_raw": 139,
-      "away_ml_raw": -165,
-      "home_prob": 40.2,
-      "away_prob": 59.8,
+      "home_ml": "+154",
+      "away_ml": "-184",
+      "home_ml_raw": 154,
+      "away_ml_raw": -184,
+      "home_prob": 37.8,
+      "away_prob": 62.2,
       "spread": "NOP +4.5",
       "favorite": "Minnesota Timberwolves",
       "pick": "Minnesota Timberwolves",
       "pick_abbr": "MIN",
-      "moneyline": "-165",
-      "win_probability": 59.8,
+      "moneyline": "-184",
+      "win_probability": 62.2,
       "confidence": "MEDIUM",
       "confidence_stars": "\u2605\u2605\u2606",
       "commence_time": "2026-11-07T01:10:00Z",
       "line_movement": {
         "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "direction": "longer",
+          "points_moved": 15,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM +154 \u2190 +139",
+          "old_ml": "+139",
+          "new_ml": "+154"
         },
         "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "direction": "shorter",
+          "points_moved": 19,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -184 \u2190 -165",
+          "old_ml": "-165",
+          "new_ml": "-184"
         },
         "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "direction": "shorter",
+          "points_moved": 19,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -184 \u2190 -165",
+          "old_ml": "-165",
+          "new_ml": "-184"
         },
-        "snapshot_time": "\u2014"
+        "snapshot_time": "November 06, 2026 at 02:00 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -946,7 +1091,7 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udcca 19.6pt probability edge"
+        "\ud83d\udd25 Sharp steam detected"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -983,9 +1128,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "Minnesota Timberwolves hold a 59.8% edge.",
+        "trend": "Minnesota Timberwolves hold a 62.2% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "steam": "Line steamed from -165 to -184 (19pt move) \u2014 heavy professional action on Minnesota Timberwolves.",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -999,22 +1144,22 @@
       },
       "news": [
         {
-          "title": "Every player from California to play for the Brooklyn Nets - Spencer Dinwiddie",
+          "title": "Watch Lakers\u2019 Luka Doncic show Darius Acuff Jr. how it\u2019s done with bonkers heater",
+          "source": "ClutchPoints",
+          "link": "https://clutchpoints.com/nba/los-angeles-lakers/lakers-news-luka-doncic-darius-acuff-jr-how-its-done-bonkers-heater",
+          "published": "2026-11-05T05:49:06Z"
+        },
+        {
+          "title": "Photos: Best images from Thunder's 124-116 win over Cavaliers",
           "source": "USA Today",
-          "link": "https://netswire.usatoday.com/story/sports/nba/nets/2026/11/04/every-player-from-california-to-play-for-the-nets-spencer-dinwiddie/92525266007/",
-          "published": "2026-11-05T02:00:17Z"
+          "link": "https://okcthunderwire.usatoday.com/story/sports/nba/thunder/2026/11/04/photos-best-images-from-thunder-124-116-win-over-cavaliers/92621590007/",
+          "published": "2026-11-05T05:48:40Z"
         },
         {
-          "title": "The Pistons Bringing Kyrie Irving Has Potential at the Right Price",
+          "title": "Luka Doncic's 40 points lead the Lakers past the Kings 116-103",
           "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/articles/pistons-bringing-kyrie-irving-potential-015753064.html",
-          "published": "2026-11-05T01:57:53Z"
-        },
-        {
-          "title": "Carmelo Anthony and La La Anthony broke up in 2017, 9 years later, the former NBA power couple finally reached a divorce settlement",
-          "source": "The Times of India",
-          "link": "https://timesofindia.indiatimes.com/sports/nba/top-stories/carmelo-anthony-and-la-la-anthony-broke-up-in-2017-9-years-later-the-former-nba-power-couple-finally-reached-a-divorce-settlement/articleshow/135555696.cms",
-          "published": "2026-11-05T01:53:06Z"
+          "link": "https://sports.yahoo.com/articles/luka-doncics-40-points-lead-054623276.html",
+          "published": "2026-11-05T05:46:23Z"
         }
       ]
     },
@@ -1024,47 +1169,47 @@
       "away_team": "Portland Trail Blazers",
       "home_abbr": "LAL",
       "away_abbr": "POR",
-      "home_ml": "-130",
-      "away_ml": "+110",
-      "home_ml_raw": -130,
-      "away_ml_raw": 110,
-      "home_prob": 54.3,
-      "away_prob": 45.7,
+      "home_ml": "-148",
+      "away_ml": "+124",
+      "home_ml_raw": -148,
+      "away_ml_raw": 124,
+      "home_prob": 57.2,
+      "away_prob": 42.8,
       "spread": "LAL -2.5",
       "favorite": "Los Angeles Lakers",
       "pick": "Los Angeles Lakers",
       "pick_abbr": "LAL",
-      "moneyline": "-130",
-      "win_probability": 54.3,
+      "moneyline": "-148",
+      "win_probability": 57.2,
       "confidence": "LOW",
       "confidence_stars": "\u2605\u2606\u2606",
       "commence_time": "2026-11-07T03:10:00Z",
       "line_movement": {
         "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "direction": "shorter",
+          "points_moved": 18,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -148 \u2190 -130",
+          "old_ml": "-130",
+          "new_ml": "-148"
         },
         "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "direction": "longer",
+          "points_moved": 14,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM +124 \u2190 +110",
+          "old_ml": "+110",
+          "new_ml": "+124"
         },
         "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "direction": "shorter",
+          "points_moved": 18,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -148 \u2190 -130",
+          "old_ml": "-130",
+          "new_ml": "-148"
         },
-        "snapshot_time": "\u2014"
+        "snapshot_time": "November 06, 2026 at 02:00 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -1091,7 +1236,7 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udcca 8.6pt probability edge"
+        "\ud83d\udd25 Sharp steam detected"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -1128,9 +1273,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "Los Angeles Lakers hold a 54.3% edge.",
+        "trend": "Los Angeles Lakers hold a 57.2% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "steam": "Line steamed from -130 to -148 (18pt move) \u2014 heavy professional action on Los Angeles Lakers.",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -1144,22 +1289,22 @@
       },
       "news": [
         {
-          "title": "Every player from California to play for the Brooklyn Nets - Spencer Dinwiddie",
+          "title": "Watch Lakers\u2019 Luka Doncic show Darius Acuff Jr. how it\u2019s done with bonkers heater",
+          "source": "ClutchPoints",
+          "link": "https://clutchpoints.com/nba/los-angeles-lakers/lakers-news-luka-doncic-darius-acuff-jr-how-its-done-bonkers-heater",
+          "published": "2026-11-05T05:49:06Z"
+        },
+        {
+          "title": "Photos: Best images from Thunder's 124-116 win over Cavaliers",
           "source": "USA Today",
-          "link": "https://netswire.usatoday.com/story/sports/nba/nets/2026/11/04/every-player-from-california-to-play-for-the-nets-spencer-dinwiddie/92525266007/",
-          "published": "2026-11-05T02:00:17Z"
+          "link": "https://okcthunderwire.usatoday.com/story/sports/nba/thunder/2026/11/04/photos-best-images-from-thunder-124-116-win-over-cavaliers/92621590007/",
+          "published": "2026-11-05T05:48:40Z"
         },
         {
-          "title": "The Pistons Bringing Kyrie Irving Has Potential at the Right Price",
+          "title": "Luka Doncic's 40 points lead the Lakers past the Kings 116-103",
           "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/articles/pistons-bringing-kyrie-irving-potential-015753064.html",
-          "published": "2026-11-05T01:57:53Z"
-        },
-        {
-          "title": "Carmelo Anthony and La La Anthony broke up in 2017, 9 years later, the former NBA power couple finally reached a divorce settlement",
-          "source": "The Times of India",
-          "link": "https://timesofindia.indiatimes.com/sports/nba/top-stories/carmelo-anthony-and-la-la-anthony-broke-up-in-2017-9-years-later-the-former-nba-power-couple-finally-reached-a-divorce-settlement/articleshow/135555696.cms",
-          "published": "2026-11-05T01:53:06Z"
+          "link": "https://sports.yahoo.com/articles/luka-doncics-40-points-lead-054623276.html",
+          "published": "2026-11-05T05:46:23Z"
         }
       ]
     },
@@ -1169,47 +1314,47 @@
       "away_team": "San Antonio Spurs",
       "home_abbr": "SAC",
       "away_abbr": "SAS",
-      "home_ml": "+610",
-      "away_ml": "-900",
-      "home_ml_raw": 610,
-      "away_ml_raw": -900,
-      "home_prob": 13.5,
-      "away_prob": 86.5,
+      "home_ml": "+710",
+      "away_ml": "-1100",
+      "home_ml_raw": 710,
+      "away_ml_raw": -1100,
+      "home_prob": 11.9,
+      "away_prob": 88.1,
       "spread": "SAC +15.5",
       "favorite": "San Antonio Spurs",
       "pick": "San Antonio Spurs",
       "pick_abbr": "SAS",
-      "moneyline": "-900",
-      "win_probability": 86.5,
+      "moneyline": "-1100",
+      "win_probability": 88.1,
       "confidence": "HIGH",
       "confidence_stars": "\u2605\u2605\u2605",
       "commence_time": "2026-11-07T03:10:00Z",
       "line_movement": {
         "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "direction": "longer",
+          "points_moved": 100,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM +710 \u2190 +610",
+          "old_ml": "+610",
+          "new_ml": "+710"
         },
         "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "direction": "shorter",
+          "points_moved": 200,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -1100 \u2190 -900",
+          "old_ml": "-900",
+          "new_ml": "-1100"
         },
         "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "direction": "shorter",
+          "points_moved": 200,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -1100 \u2190 -900",
+          "old_ml": "-900",
+          "new_ml": "-1100"
         },
-        "snapshot_time": "\u2014"
+        "snapshot_time": "November 06, 2026 at 02:00 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -1236,7 +1381,7 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udcca 73.0pt probability edge"
+        "\ud83d\udd25 Sharp steam detected"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -1273,9 +1418,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "San Antonio Spurs hold a 86.5% edge.",
+        "trend": "San Antonio Spurs hold a 88.1% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "steam": "Line steamed from -900 to -1100 (200pt move) \u2014 heavy professional action on San Antonio Spurs.",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -1289,22 +1434,22 @@
       },
       "news": [
         {
-          "title": "Every player from California to play for the Brooklyn Nets - Spencer Dinwiddie",
+          "title": "Watch Lakers\u2019 Luka Doncic show Darius Acuff Jr. how it\u2019s done with bonkers heater",
+          "source": "ClutchPoints",
+          "link": "https://clutchpoints.com/nba/los-angeles-lakers/lakers-news-luka-doncic-darius-acuff-jr-how-its-done-bonkers-heater",
+          "published": "2026-11-05T05:49:06Z"
+        },
+        {
+          "title": "Photos: Best images from Thunder's 124-116 win over Cavaliers",
           "source": "USA Today",
-          "link": "https://netswire.usatoday.com/story/sports/nba/nets/2026/11/04/every-player-from-california-to-play-for-the-nets-spencer-dinwiddie/92525266007/",
-          "published": "2026-11-05T02:00:17Z"
+          "link": "https://okcthunderwire.usatoday.com/story/sports/nba/thunder/2026/11/04/photos-best-images-from-thunder-124-116-win-over-cavaliers/92621590007/",
+          "published": "2026-11-05T05:48:40Z"
         },
         {
-          "title": "The Pistons Bringing Kyrie Irving Has Potential at the Right Price",
+          "title": "Luka Doncic's 40 points lead the Lakers past the Kings 116-103",
           "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/articles/pistons-bringing-kyrie-irving-potential-015753064.html",
-          "published": "2026-11-05T01:57:53Z"
-        },
-        {
-          "title": "Carmelo Anthony and La La Anthony broke up in 2017, 9 years later, the former NBA power couple finally reached a divorce settlement",
-          "source": "The Times of India",
-          "link": "https://timesofindia.indiatimes.com/sports/nba/top-stories/carmelo-anthony-and-la-la-anthony-broke-up-in-2017-9-years-later-the-former-nba-power-couple-finally-reached-a-divorce-settlement/articleshow/135555696.cms",
-          "published": "2026-11-05T01:53:06Z"
+          "link": "https://sports.yahoo.com/articles/luka-doncics-40-points-lead-054623276.html",
+          "published": "2026-11-05T05:46:23Z"
         }
       ]
     },
@@ -1354,7 +1499,7 @@
           "old_ml": "\u2014",
           "new_ml": "\u2014"
         },
-        "snapshot_time": "November 05, 2026 at 06:32 PM UTC"
+        "snapshot_time": "November 06, 2026 at 02:00 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -1434,22 +1579,22 @@
       },
       "news": [
         {
-          "title": "Every player from California to play for the Brooklyn Nets - Spencer Dinwiddie",
+          "title": "Watch Lakers\u2019 Luka Doncic show Darius Acuff Jr. how it\u2019s done with bonkers heater",
+          "source": "ClutchPoints",
+          "link": "https://clutchpoints.com/nba/los-angeles-lakers/lakers-news-luka-doncic-darius-acuff-jr-how-its-done-bonkers-heater",
+          "published": "2026-11-05T05:49:06Z"
+        },
+        {
+          "title": "Photos: Best images from Thunder's 124-116 win over Cavaliers",
           "source": "USA Today",
-          "link": "https://netswire.usatoday.com/story/sports/nba/nets/2026/11/04/every-player-from-california-to-play-for-the-nets-spencer-dinwiddie/92525266007/",
-          "published": "2026-11-05T02:00:17Z"
+          "link": "https://okcthunderwire.usatoday.com/story/sports/nba/thunder/2026/11/04/photos-best-images-from-thunder-124-116-win-over-cavaliers/92621590007/",
+          "published": "2026-11-05T05:48:40Z"
         },
         {
-          "title": "The Pistons Bringing Kyrie Irving Has Potential at the Right Price",
+          "title": "Luka Doncic's 40 points lead the Lakers past the Kings 116-103",
           "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/articles/pistons-bringing-kyrie-irving-potential-015753064.html",
-          "published": "2026-11-05T01:57:53Z"
-        },
-        {
-          "title": "Carmelo Anthony and La La Anthony broke up in 2017, 9 years later, the former NBA power couple finally reached a divorce settlement",
-          "source": "The Times of India",
-          "link": "https://timesofindia.indiatimes.com/sports/nba/top-stories/carmelo-anthony-and-la-la-anthony-broke-up-in-2017-9-years-later-the-former-nba-power-couple-finally-reached-a-divorce-settlement/articleshow/135555696.cms",
-          "published": "2026-11-05T01:53:06Z"
+          "link": "https://sports.yahoo.com/articles/luka-doncics-40-points-lead-054623276.html",
+          "published": "2026-11-05T05:46:23Z"
         }
       ]
     },
@@ -1499,7 +1644,7 @@
           "old_ml": "\u2014",
           "new_ml": "\u2014"
         },
-        "snapshot_time": "November 05, 2026 at 06:32 PM UTC"
+        "snapshot_time": "November 06, 2026 at 02:00 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -1514,19 +1659,20 @@
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "TRAVEL",
-          "label": "Cross-country travel \ud83d\udfe3",
-          "battery": 50,
-          "last_game": "Nov 04",
-          "days_rest": 2,
-          "games_last_4d": 2,
-          "travel_miles": 2337,
-          "travel_desc": "2,337 mi road trip",
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Nov 05",
+          "days_rest": 1,
+          "games_last_4d": 3,
+          "travel_miles": 2589,
+          "travel_desc": "2,589 mi road trip",
           "source": "ESPN Scoreboard API"
         }
       },
       "edge_factors": [
-        "\u2708\ufe0f MIA traveled 2,337 mi"
+        "\ud83d\udca4 MIA fatigued (B2B) \u2014 source: ESPN",
+        "\u2708\ufe0f MIA traveled 2,589 mi"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -1563,7 +1709,7 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "Boston Celtics hold a 50.0% edge.",
+        "trend": "MIA on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
         "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
@@ -1579,22 +1725,22 @@
       },
       "news": [
         {
-          "title": "Every player from California to play for the Brooklyn Nets - Spencer Dinwiddie",
+          "title": "Watch Lakers\u2019 Luka Doncic show Darius Acuff Jr. how it\u2019s done with bonkers heater",
+          "source": "ClutchPoints",
+          "link": "https://clutchpoints.com/nba/los-angeles-lakers/lakers-news-luka-doncic-darius-acuff-jr-how-its-done-bonkers-heater",
+          "published": "2026-11-05T05:49:06Z"
+        },
+        {
+          "title": "Photos: Best images from Thunder's 124-116 win over Cavaliers",
           "source": "USA Today",
-          "link": "https://netswire.usatoday.com/story/sports/nba/nets/2026/11/04/every-player-from-california-to-play-for-the-nets-spencer-dinwiddie/92525266007/",
-          "published": "2026-11-05T02:00:17Z"
+          "link": "https://okcthunderwire.usatoday.com/story/sports/nba/thunder/2026/11/04/photos-best-images-from-thunder-124-116-win-over-cavaliers/92621590007/",
+          "published": "2026-11-05T05:48:40Z"
         },
         {
-          "title": "The Pistons Bringing Kyrie Irving Has Potential at the Right Price",
+          "title": "Luka Doncic's 40 points lead the Lakers past the Kings 116-103",
           "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/articles/pistons-bringing-kyrie-irving-potential-015753064.html",
-          "published": "2026-11-05T01:57:53Z"
-        },
-        {
-          "title": "Carmelo Anthony and La La Anthony broke up in 2017, 9 years later, the former NBA power couple finally reached a divorce settlement",
-          "source": "The Times of India",
-          "link": "https://timesofindia.indiatimes.com/sports/nba/top-stories/carmelo-anthony-and-la-la-anthony-broke-up-in-2017-9-years-later-the-former-nba-power-couple-finally-reached-a-divorce-settlement/articleshow/135555696.cms",
-          "published": "2026-11-05T01:53:06Z"
+          "link": "https://sports.yahoo.com/articles/luka-doncics-40-points-lead-054623276.html",
+          "published": "2026-11-05T05:46:23Z"
         }
       ]
     },
@@ -1644,7 +1790,7 @@
           "old_ml": "\u2014",
           "new_ml": "\u2014"
         },
-        "snapshot_time": "November 05, 2026 at 06:32 PM UTC"
+        "snapshot_time": "November 06, 2026 at 02:00 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -1724,22 +1870,22 @@
       },
       "news": [
         {
-          "title": "Every player from California to play for the Brooklyn Nets - Spencer Dinwiddie",
+          "title": "Watch Lakers\u2019 Luka Doncic show Darius Acuff Jr. how it\u2019s done with bonkers heater",
+          "source": "ClutchPoints",
+          "link": "https://clutchpoints.com/nba/los-angeles-lakers/lakers-news-luka-doncic-darius-acuff-jr-how-its-done-bonkers-heater",
+          "published": "2026-11-05T05:49:06Z"
+        },
+        {
+          "title": "Photos: Best images from Thunder's 124-116 win over Cavaliers",
           "source": "USA Today",
-          "link": "https://netswire.usatoday.com/story/sports/nba/nets/2026/11/04/every-player-from-california-to-play-for-the-nets-spencer-dinwiddie/92525266007/",
-          "published": "2026-11-05T02:00:17Z"
+          "link": "https://okcthunderwire.usatoday.com/story/sports/nba/thunder/2026/11/04/photos-best-images-from-thunder-124-116-win-over-cavaliers/92621590007/",
+          "published": "2026-11-05T05:48:40Z"
         },
         {
-          "title": "The Pistons Bringing Kyrie Irving Has Potential at the Right Price",
+          "title": "Luka Doncic's 40 points lead the Lakers past the Kings 116-103",
           "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/articles/pistons-bringing-kyrie-irving-potential-015753064.html",
-          "published": "2026-11-05T01:57:53Z"
-        },
-        {
-          "title": "Carmelo Anthony and La La Anthony broke up in 2017, 9 years later, the former NBA power couple finally reached a divorce settlement",
-          "source": "The Times of India",
-          "link": "https://timesofindia.indiatimes.com/sports/nba/top-stories/carmelo-anthony-and-la-la-anthony-broke-up-in-2017-9-years-later-the-former-nba-power-couple-finally-reached-a-divorce-settlement/articleshow/135555696.cms",
-          "published": "2026-11-05T01:53:06Z"
+          "link": "https://sports.yahoo.com/articles/luka-doncics-40-points-lead-054623276.html",
+          "published": "2026-11-05T05:46:23Z"
         }
       ]
     },
@@ -1789,16 +1935,16 @@
           "old_ml": "\u2014",
           "new_ml": "\u2014"
         },
-        "snapshot_time": "November 05, 2026 at 06:32 PM UTC"
+        "snapshot_time": "November 06, 2026 at 02:00 AM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "FRESH",
-          "label": "Well rested \u2705",
-          "battery": 100,
-          "last_game": "Nov 02",
-          "days_rest": 4,
-          "games_last_4d": 1,
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Nov 05",
+          "days_rest": 1,
+          "games_last_4d": 2,
           "travel_miles": 0,
           "travel_desc": "",
           "source": "ESPN Scoreboard API"
@@ -1853,7 +1999,7 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "Golden State Warriors hold a 50.0% edge.",
+        "trend": "GSW on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
         "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
@@ -1869,42 +2015,42 @@
       },
       "news": [
         {
-          "title": "Every player from California to play for the Brooklyn Nets - Spencer Dinwiddie",
+          "title": "Watch Lakers\u2019 Luka Doncic show Darius Acuff Jr. how it\u2019s done with bonkers heater",
+          "source": "ClutchPoints",
+          "link": "https://clutchpoints.com/nba/los-angeles-lakers/lakers-news-luka-doncic-darius-acuff-jr-how-its-done-bonkers-heater",
+          "published": "2026-11-05T05:49:06Z"
+        },
+        {
+          "title": "Photos: Best images from Thunder's 124-116 win over Cavaliers",
           "source": "USA Today",
-          "link": "https://netswire.usatoday.com/story/sports/nba/nets/2026/11/04/every-player-from-california-to-play-for-the-nets-spencer-dinwiddie/92525266007/",
-          "published": "2026-11-05T02:00:17Z"
+          "link": "https://okcthunderwire.usatoday.com/story/sports/nba/thunder/2026/11/04/photos-best-images-from-thunder-124-116-win-over-cavaliers/92621590007/",
+          "published": "2026-11-05T05:48:40Z"
         },
         {
-          "title": "The Pistons Bringing Kyrie Irving Has Potential at the Right Price",
+          "title": "Luka Doncic's 40 points lead the Lakers past the Kings 116-103",
           "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/articles/pistons-bringing-kyrie-irving-potential-015753064.html",
-          "published": "2026-11-05T01:57:53Z"
-        },
-        {
-          "title": "Carmelo Anthony and La La Anthony broke up in 2017, 9 years later, the former NBA power couple finally reached a divorce settlement",
-          "source": "The Times of India",
-          "link": "https://timesofindia.indiatimes.com/sports/nba/top-stories/carmelo-anthony-and-la-la-anthony-broke-up-in-2017-9-years-later-the-former-nba-power-couple-finally-reached-a-divorce-settlement/articleshow/135555696.cms",
-          "published": "2026-11-05T01:53:06Z"
+          "link": "https://sports.yahoo.com/articles/luka-doncics-40-points-lead-054623276.html",
+          "published": "2026-11-05T05:46:23Z"
         }
       ]
     }
   ],
   "track_record": {
     "LOW": {
-      "wins": 16,
+      "wins": 17,
       "losses": 15,
-      "total": 31,
-      "win_pct": 51.6,
-      "roi": -6.0,
-      "profit": -187.14
+      "total": 32,
+      "win_pct": 53.1,
+      "roi": -3.3,
+      "profit": -104.5
     },
     "MEDIUM": {
-      "wins": 37,
+      "wins": 38,
       "losses": 19,
-      "total": 56,
-      "win_pct": 66.1,
-      "roi": 0.1,
-      "profit": 3.05
+      "total": 57,
+      "win_pct": 66.7,
+      "roi": 1.0,
+      "profit": 57.1
     },
     "HIGH": {
       "wins": 26,
@@ -1915,20 +2061,20 @@
       "profit": 25.56
     },
     "overall_7d": {
-      "wins": 29,
+      "wins": 31,
       "losses": 10,
-      "total": 39,
-      "win_pct": 74.4,
-      "roi": 8.6,
-      "profit": 337.1
+      "total": 41,
+      "win_pct": 75.6,
+      "roi": 11.6,
+      "profit": 473.79
     },
     "overall_30d": {
-      "wins": 60,
+      "wins": 62,
       "losses": 29,
-      "total": 89,
-      "win_pct": 67.4,
-      "roi": -3.1,
-      "profit": -276.36
+      "total": 91,
+      "win_pct": 68.1,
+      "roi": -1.5,
+      "profit": -139.67
     }
   }
 }
