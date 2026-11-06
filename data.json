@@ -1,6 +1,6 @@
 {
-  "last_updated": "November 05, 2026 at 06:32 PM UTC",
-  "total_games": 6,
+  "last_updated": "November 06, 2026 at 02:00 AM UTC",
+  "total_games": 13,
   "games": [
     {
       "game": "Orlando Magic @ Phoenix Suns",
@@ -8,67 +8,67 @@
       "away_team": "Orlando Magic",
       "home_abbr": "PHX",
       "away_abbr": "ORL",
-      "home_ml": "-114",
-      "away_ml": "-104",
-      "home_ml_raw": -114,
-      "away_ml_raw": -104,
-      "home_prob": 51.1,
-      "away_prob": 48.9,
+      "home_ml": "-121",
+      "away_ml": "+102",
+      "home_ml_raw": -121,
+      "away_ml_raw": 102,
+      "home_prob": 52.5,
+      "away_prob": 47.5,
       "spread": "PHX -1.5",
       "favorite": "Phoenix Suns",
       "pick": "Phoenix Suns",
       "pick_abbr": "PHX",
-      "moneyline": "-114",
-      "win_probability": 51.1,
+      "moneyline": "-121",
+      "win_probability": 52.5,
       "confidence": "LOW",
       "confidence_stars": "\u2605\u2606\u2606",
       "commence_time": "2026-11-06T02:10:00Z",
       "line_movement": {
         "home": {
-          "direction": "longer",
+          "direction": "shorter",
           "points_moved": 7,
           "steam": false,
-          "label": "\ud83d\udd34 -114 \u2190 -121",
-          "old_ml": "-121",
-          "new_ml": "-114"
+          "label": "\ud83d\udfe2 -121 \u2190 -114",
+          "old_ml": "-114",
+          "new_ml": "-121"
         },
         "away": {
-          "direction": "shorter",
+          "direction": "longer",
           "points_moved": 206,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM -104 \u2190 +102",
-          "old_ml": "+102",
-          "new_ml": "-104"
+          "label": "\ud83d\udd25 STEAM +102 \u2190 -104",
+          "old_ml": "-104",
+          "new_ml": "+102"
         },
         "pick": {
-          "direction": "longer",
+          "direction": "shorter",
           "points_moved": 7,
           "steam": false,
-          "label": "\ud83d\udd34 -114 \u2190 -121",
-          "old_ml": "-121",
-          "new_ml": "-114"
+          "label": "\ud83d\udfe2 -121 \u2190 -114",
+          "old_ml": "-114",
+          "new_ml": "-121"
         },
-        "snapshot_time": "November 05, 2026 at 05:53 AM UTC"
+        "snapshot_time": "November 05, 2026 at 06:32 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
           "last_game": "Nov 04",
-          "days_rest": 1,
+          "days_rest": 2,
           "games_last_4d": 2,
           "travel_miles": 651,
           "travel_desc": "651 mi road trip",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "RESTED",
-          "label": "2 days rest \u2705",
-          "battery": 88,
+          "status": "FRESH",
+          "label": "Well rested \u2705",
+          "battery": 100,
           "last_game": "Nov 02",
-          "days_rest": 3,
-          "games_last_4d": 2,
+          "days_rest": 4,
+          "games_last_4d": 1,
           "travel_miles": 0,
           "travel_desc": "",
           "source": "ESPN Scoreboard API"
@@ -112,9 +112,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "PHX on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "trend": "Phoenix Suns hold a 52.5% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line moved -121\u2192-114 (7pts). Pending \u2014 check closer to tip-off",
+        "steam": "Line moved -114\u2192-121 (7pts). Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -128,22 +128,22 @@
       },
       "news": [
         {
-          "title": "NBA rumors: Nobody should be surprised by these Michael Porter Jr., Julius Randle, Norman Powell trade updates",
-          "source": "ClutchPoints",
-          "link": "https://clutchpoints.com/nba/nba-stories/nba-rumors-nobody-surprised-michael-porter-jr-julius-randle-norman-powell-trade-updates",
-          "published": "2026-11-04T18:27:43Z"
+          "title": "Every player from California to play for the Brooklyn Nets - Spencer Dinwiddie",
+          "source": "USA Today",
+          "link": "https://netswire.usatoday.com/story/sports/nba/nets/2026/11/04/every-player-from-california-to-play-for-the-nets-spencer-dinwiddie/92525266007/",
+          "published": "2026-11-05T02:00:17Z"
         },
         {
-          "title": "Kon Knueppel leaves season debut with Hornets early with leg injury after offseason hamstring issue",
+          "title": "The Pistons Bringing Kyrie Irving Has Potential at the Right Price",
           "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/nba/article/kon-knueppel-leaves-season-debut-with-hornets-early-with-leg-injury-after-offseason-hamstring-issue-015937845.html",
-          "published": "2026-11-04T18:22:17Z"
+          "link": "https://sports.yahoo.com/articles/pistons-bringing-kyrie-irving-potential-015753064.html",
+          "published": "2026-11-05T01:57:53Z"
         },
         {
-          "title": "Hornets' Kon Knueppel to make season debut Wednesday vs. Nets following hamstring injury",
-          "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/nba/article/hornets-kon-knueppel-to-make-season-debut-wednesday-vs-nets-following-hamstring-injury-182217623.html",
-          "published": "2026-11-04T18:22:17Z"
+          "title": "Carmelo Anthony and La La Anthony broke up in 2017, 9 years later, the former NBA power couple finally reached a divorce settlement",
+          "source": "The Times of India",
+          "link": "https://timesofindia.indiatimes.com/sports/nba/top-stories/carmelo-anthony-and-la-la-anthony-broke-up-in-2017-9-years-later-the-former-nba-power-couple-finally-reached-a-divorce-settlement/articleshow/135555696.cms",
+          "published": "2026-11-05T01:53:06Z"
         }
       ]
     },
@@ -153,66 +153,66 @@
       "away_team": "Miami Heat",
       "home_abbr": "GSW",
       "away_abbr": "MIA",
-      "home_ml": "-269",
-      "away_ml": "+221",
-      "home_ml_raw": -269,
-      "away_ml_raw": 221,
-      "home_prob": 70.1,
-      "away_prob": 29.9,
-      "spread": "GSW -7.5",
+      "home_ml": "-167",
+      "away_ml": "+140",
+      "home_ml_raw": -167,
+      "away_ml_raw": 140,
+      "home_prob": 60.0,
+      "away_prob": 40.0,
+      "spread": "GSW -3.5",
       "favorite": "Golden State Warriors",
       "pick": "Golden State Warriors",
       "pick_abbr": "GSW",
-      "moneyline": "-269",
-      "win_probability": 70.1,
+      "moneyline": "-167",
+      "win_probability": 60.0,
       "confidence": "MEDIUM",
       "confidence_stars": "\u2605\u2605\u2606",
       "commence_time": "2026-11-06T03:10:00Z",
       "line_movement": {
         "home": {
-          "direction": "shorter",
-          "points_moved": 84,
+          "direction": "longer",
+          "points_moved": 102,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM -269 \u2190 -185",
-          "old_ml": "-185",
-          "new_ml": "-269"
+          "label": "\ud83d\udd25 STEAM -167 \u2190 -269",
+          "old_ml": "-269",
+          "new_ml": "-167"
         },
         "away": {
-          "direction": "longer",
-          "points_moved": 66,
+          "direction": "shorter",
+          "points_moved": 81,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM +221 \u2190 +155",
-          "old_ml": "+155",
-          "new_ml": "+221"
+          "label": "\ud83d\udd25 STEAM +140 \u2190 +221",
+          "old_ml": "+221",
+          "new_ml": "+140"
         },
         "pick": {
-          "direction": "shorter",
-          "points_moved": 84,
+          "direction": "longer",
+          "points_moved": 102,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM -269 \u2190 -185",
-          "old_ml": "-185",
-          "new_ml": "-269"
+          "label": "\ud83d\udd25 STEAM -167 \u2190 -269",
+          "old_ml": "-269",
+          "new_ml": "-167"
         },
-        "snapshot_time": "November 05, 2026 at 05:53 AM UTC"
+        "snapshot_time": "November 05, 2026 at 06:32 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "RESTED",
-          "label": "2 days rest \u2705",
-          "battery": 88,
+          "status": "FRESH",
+          "label": "Well rested \u2705",
+          "battery": 100,
           "last_game": "Nov 02",
-          "days_rest": 3,
-          "games_last_4d": 2,
+          "days_rest": 4,
+          "games_last_4d": 1,
           "travel_miles": 0,
           "travel_desc": "",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
+          "status": "TRAVEL",
+          "label": "Cross-country travel \ud83d\udfe3",
+          "battery": 50,
           "last_game": "Nov 04",
-          "days_rest": 1,
+          "days_rest": 2,
           "games_last_4d": 2,
           "travel_miles": 2337,
           "travel_desc": "2,337 mi road trip",
@@ -221,7 +221,6 @@
       },
       "edge_factors": [
         "\ud83d\udd25 Sharp steam detected",
-        "\ud83d\udca4 MIA fatigued (B2B) \u2014 source: ESPN",
         "\u2708\ufe0f MIA traveled 2,337 mi"
       ],
       "injury_notes": "No key injuries.",
@@ -259,9 +258,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "MIA on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "trend": "Golden State Warriors hold a 60.0% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -185 to -269 (84pt move) \u2014 heavy professional action on Golden State Warriors.",
+        "steam": "Line steamed from -269 to -167 (102pt move) \u2014 heavy professional action on Golden State Warriors.",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -275,22 +274,1037 @@
       },
       "news": [
         {
-          "title": "NBA rumors: Nobody should be surprised by these Michael Porter Jr., Julius Randle, Norman Powell trade updates",
-          "source": "ClutchPoints",
-          "link": "https://clutchpoints.com/nba/nba-stories/nba-rumors-nobody-surprised-michael-porter-jr-julius-randle-norman-powell-trade-updates",
-          "published": "2026-11-04T18:27:43Z"
+          "title": "Every player from California to play for the Brooklyn Nets - Spencer Dinwiddie",
+          "source": "USA Today",
+          "link": "https://netswire.usatoday.com/story/sports/nba/nets/2026/11/04/every-player-from-california-to-play-for-the-nets-spencer-dinwiddie/92525266007/",
+          "published": "2026-11-05T02:00:17Z"
         },
         {
-          "title": "Kon Knueppel leaves season debut with Hornets early with leg injury after offseason hamstring issue",
+          "title": "The Pistons Bringing Kyrie Irving Has Potential at the Right Price",
           "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/nba/article/kon-knueppel-leaves-season-debut-with-hornets-early-with-leg-injury-after-offseason-hamstring-issue-015937845.html",
-          "published": "2026-11-04T18:22:17Z"
+          "link": "https://sports.yahoo.com/articles/pistons-bringing-kyrie-irving-potential-015753064.html",
+          "published": "2026-11-05T01:57:53Z"
         },
         {
-          "title": "Hornets' Kon Knueppel to make season debut Wednesday vs. Nets following hamstring injury",
+          "title": "Carmelo Anthony and La La Anthony broke up in 2017, 9 years later, the former NBA power couple finally reached a divorce settlement",
+          "source": "The Times of India",
+          "link": "https://timesofindia.indiatimes.com/sports/nba/top-stories/carmelo-anthony-and-la-la-anthony-broke-up-in-2017-9-years-later-the-former-nba-power-couple-finally-reached-a-divorce-settlement/articleshow/135555696.cms",
+          "published": "2026-11-05T01:53:06Z"
+        }
+      ]
+    },
+    {
+      "game": "Philadelphia 76ers @ Cleveland Cavaliers",
+      "home_team": "Cleveland Cavaliers",
+      "away_team": "Philadelphia 76ers",
+      "home_abbr": "CLE",
+      "away_abbr": "PHI",
+      "home_ml": "+108",
+      "away_ml": "-128",
+      "home_ml_raw": 108,
+      "away_ml_raw": -128,
+      "home_prob": 46.1,
+      "away_prob": 53.9,
+      "spread": "CLE +1.5",
+      "favorite": "Philadelphia 76ers",
+      "pick": "Philadelphia 76ers",
+      "pick_abbr": "PHI",
+      "moneyline": "-128",
+      "win_probability": 53.9,
+      "confidence": "LOW",
+      "confidence_stars": "\u2605\u2606\u2606",
+      "commence_time": "2026-11-07T00:40:00Z",
+      "line_movement": {
+        "home": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "away": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "pick": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "snapshot_time": "\u2014"
+      },
+      "fatigue": {
+        "home": {
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
+          "last_game": "Nov 04",
+          "days_rest": 2,
+          "games_last_4d": 2,
+          "travel_miles": 950,
+          "travel_desc": "950 mi road trip",
+          "source": "ESPN Scoreboard API"
+        },
+        "away": {
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
+          "last_game": "Nov 04",
+          "days_rest": 2,
+          "games_last_4d": 2,
+          "travel_miles": 443,
+          "travel_desc": "443 mi road trip",
+          "source": "ESPN Scoreboard API"
+        }
+      },
+      "edge_factors": [
+        "\ud83d\udcca 7.8pt probability edge"
+      ],
+      "injury_notes": "No key injuries.",
+      "sharp": {
+        "away_t": null,
+        "home_t": null,
+        "source": null,
+        "sharp_signal": null,
+        "sharp_label": "Pending \u2014 check closer to tip-off",
+        "rlm": false
+      },
+      "form": {
+        "home": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        },
+        "away": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        }
+      },
+      "h2h": {
+        "total_meetings": 0,
+        "home_wins": 0,
+        "away_wins": 0,
+        "meetings": [],
+        "source": "\u2014"
+      },
+      "briefing": {
+        "trend": "Philadelphia 76ers hold a 53.9% edge.",
+        "matchup": "Both rosters appear healthy \u2014 clean line.",
+        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "injury_notes": "No key injuries."
+      },
+      "live": {
+        "status": "pre",
+        "status_detail": "Upcoming",
+        "period": 0,
+        "clock": "",
+        "home_score": 0,
+        "away_score": 0,
+        "spread_alert": null
+      },
+      "news": [
+        {
+          "title": "Every player from California to play for the Brooklyn Nets - Spencer Dinwiddie",
+          "source": "USA Today",
+          "link": "https://netswire.usatoday.com/story/sports/nba/nets/2026/11/04/every-player-from-california-to-play-for-the-nets-spencer-dinwiddie/92525266007/",
+          "published": "2026-11-05T02:00:17Z"
+        },
+        {
+          "title": "The Pistons Bringing Kyrie Irving Has Potential at the Right Price",
           "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/nba/article/hornets-kon-knueppel-to-make-season-debut-wednesday-vs-nets-following-hamstring-injury-182217623.html",
-          "published": "2026-11-04T18:22:17Z"
+          "link": "https://sports.yahoo.com/articles/pistons-bringing-kyrie-irving-potential-015753064.html",
+          "published": "2026-11-05T01:57:53Z"
+        },
+        {
+          "title": "Carmelo Anthony and La La Anthony broke up in 2017, 9 years later, the former NBA power couple finally reached a divorce settlement",
+          "source": "The Times of India",
+          "link": "https://timesofindia.indiatimes.com/sports/nba/top-stories/carmelo-anthony-and-la-la-anthony-broke-up-in-2017-9-years-later-the-former-nba-power-couple-finally-reached-a-divorce-settlement/articleshow/135555696.cms",
+          "published": "2026-11-05T01:53:06Z"
+        }
+      ]
+    },
+    {
+      "game": "Utah Jazz @ Dallas Mavericks",
+      "home_team": "Dallas Mavericks",
+      "away_team": "Utah Jazz",
+      "home_abbr": "DAL",
+      "away_abbr": "UTA",
+      "home_ml": "-246",
+      "away_ml": "+203",
+      "home_ml_raw": -246,
+      "away_ml_raw": 203,
+      "home_prob": 68.3,
+      "away_prob": 31.7,
+      "spread": "DAL -7.5",
+      "favorite": "Dallas Mavericks",
+      "pick": "Dallas Mavericks",
+      "pick_abbr": "DAL",
+      "moneyline": "-246",
+      "win_probability": 68.3,
+      "confidence": "MEDIUM",
+      "confidence_stars": "\u2605\u2605\u2606",
+      "commence_time": "2026-11-07T01:10:00Z",
+      "line_movement": {
+        "home": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "away": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "pick": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "snapshot_time": "\u2014"
+      },
+      "fatigue": {
+        "home": {
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
+          "last_game": "Nov 04",
+          "days_rest": 2,
+          "games_last_4d": 2,
+          "travel_miles": 252,
+          "travel_desc": "252 mi road trip",
+          "source": "ESPN Scoreboard API"
+        },
+        "away": {
+          "status": "FRESH",
+          "label": "Well rested \u2705",
+          "battery": 100,
+          "last_game": "\u2014",
+          "days_rest": 99,
+          "games_last_4d": 0,
+          "travel_miles": 0,
+          "travel_desc": "",
+          "source": "ESPN Scoreboard API"
+        }
+      },
+      "edge_factors": [
+        "\ud83d\udcca 36.6pt probability edge"
+      ],
+      "injury_notes": "No key injuries.",
+      "sharp": {
+        "away_t": null,
+        "home_t": null,
+        "source": null,
+        "sharp_signal": null,
+        "sharp_label": "Pending \u2014 check closer to tip-off",
+        "rlm": false
+      },
+      "form": {
+        "home": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        },
+        "away": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        }
+      },
+      "h2h": {
+        "total_meetings": 0,
+        "home_wins": 0,
+        "away_wins": 0,
+        "meetings": [],
+        "source": "\u2014"
+      },
+      "briefing": {
+        "trend": "Dallas Mavericks hold a 68.3% edge.",
+        "matchup": "Both rosters appear healthy \u2014 clean line.",
+        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "injury_notes": "No key injuries."
+      },
+      "live": {
+        "status": "pre",
+        "status_detail": "Upcoming",
+        "period": 0,
+        "clock": "",
+        "home_score": 0,
+        "away_score": 0,
+        "spread_alert": null
+      },
+      "news": [
+        {
+          "title": "Every player from California to play for the Brooklyn Nets - Spencer Dinwiddie",
+          "source": "USA Today",
+          "link": "https://netswire.usatoday.com/story/sports/nba/nets/2026/11/04/every-player-from-california-to-play-for-the-nets-spencer-dinwiddie/92525266007/",
+          "published": "2026-11-05T02:00:17Z"
+        },
+        {
+          "title": "The Pistons Bringing Kyrie Irving Has Potential at the Right Price",
+          "source": "Yahoo Entertainment",
+          "link": "https://sports.yahoo.com/articles/pistons-bringing-kyrie-irving-potential-015753064.html",
+          "published": "2026-11-05T01:57:53Z"
+        },
+        {
+          "title": "Carmelo Anthony and La La Anthony broke up in 2017, 9 years later, the former NBA power couple finally reached a divorce settlement",
+          "source": "The Times of India",
+          "link": "https://timesofindia.indiatimes.com/sports/nba/top-stories/carmelo-anthony-and-la-la-anthony-broke-up-in-2017-9-years-later-the-former-nba-power-couple-finally-reached-a-divorce-settlement/articleshow/135555696.cms",
+          "published": "2026-11-05T01:53:06Z"
+        }
+      ]
+    },
+    {
+      "game": "Oklahoma City Thunder @ Memphis Grizzlies",
+      "home_team": "Memphis Grizzlies",
+      "away_team": "Oklahoma City Thunder",
+      "home_abbr": "MEM",
+      "away_abbr": "OKC",
+      "home_ml": "+139",
+      "away_ml": "-165",
+      "home_ml_raw": 139,
+      "away_ml_raw": -165,
+      "home_prob": 40.2,
+      "away_prob": 59.8,
+      "spread": "MEM +3.5",
+      "favorite": "Oklahoma City Thunder",
+      "pick": "Oklahoma City Thunder",
+      "pick_abbr": "OKC",
+      "moneyline": "-165",
+      "win_probability": 59.8,
+      "confidence": "MEDIUM",
+      "confidence_stars": "\u2605\u2605\u2606",
+      "commence_time": "2026-11-07T01:10:00Z",
+      "line_movement": {
+        "home": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "away": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "pick": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "snapshot_time": "\u2014"
+      },
+      "fatigue": {
+        "home": {
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
+          "last_game": "Nov 04",
+          "days_rest": 2,
+          "games_last_4d": 2,
+          "travel_miles": 0,
+          "travel_desc": "",
+          "source": "ESPN Scoreboard API"
+        },
+        "away": {
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
+          "last_game": "Nov 04",
+          "days_rest": 2,
+          "games_last_4d": 2,
+          "travel_miles": 950,
+          "travel_desc": "950 mi road trip",
+          "source": "ESPN Scoreboard API"
+        }
+      },
+      "edge_factors": [
+        "\ud83d\udcca 19.6pt probability edge"
+      ],
+      "injury_notes": "No key injuries.",
+      "sharp": {
+        "away_t": null,
+        "home_t": null,
+        "source": null,
+        "sharp_signal": null,
+        "sharp_label": "Pending \u2014 check closer to tip-off",
+        "rlm": false
+      },
+      "form": {
+        "home": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        },
+        "away": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        }
+      },
+      "h2h": {
+        "total_meetings": 0,
+        "home_wins": 0,
+        "away_wins": 0,
+        "meetings": [],
+        "source": "\u2014"
+      },
+      "briefing": {
+        "trend": "Oklahoma City Thunder hold a 59.8% edge.",
+        "matchup": "Both rosters appear healthy \u2014 clean line.",
+        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "injury_notes": "No key injuries."
+      },
+      "live": {
+        "status": "pre",
+        "status_detail": "Upcoming",
+        "period": 0,
+        "clock": "",
+        "home_score": 0,
+        "away_score": 0,
+        "spread_alert": null
+      },
+      "news": [
+        {
+          "title": "Every player from California to play for the Brooklyn Nets - Spencer Dinwiddie",
+          "source": "USA Today",
+          "link": "https://netswire.usatoday.com/story/sports/nba/nets/2026/11/04/every-player-from-california-to-play-for-the-nets-spencer-dinwiddie/92525266007/",
+          "published": "2026-11-05T02:00:17Z"
+        },
+        {
+          "title": "The Pistons Bringing Kyrie Irving Has Potential at the Right Price",
+          "source": "Yahoo Entertainment",
+          "link": "https://sports.yahoo.com/articles/pistons-bringing-kyrie-irving-potential-015753064.html",
+          "published": "2026-11-05T01:57:53Z"
+        },
+        {
+          "title": "Carmelo Anthony and La La Anthony broke up in 2017, 9 years later, the former NBA power couple finally reached a divorce settlement",
+          "source": "The Times of India",
+          "link": "https://timesofindia.indiatimes.com/sports/nba/top-stories/carmelo-anthony-and-la-la-anthony-broke-up-in-2017-9-years-later-the-former-nba-power-couple-finally-reached-a-divorce-settlement/articleshow/135555696.cms",
+          "published": "2026-11-05T01:53:06Z"
+        }
+      ]
+    },
+    {
+      "game": "Toronto Raptors @ Milwaukee Bucks",
+      "home_team": "Milwaukee Bucks",
+      "away_team": "Toronto Raptors",
+      "home_abbr": "MIL",
+      "away_abbr": "TOR",
+      "home_ml": "+216",
+      "away_ml": "-263",
+      "home_ml_raw": 216,
+      "away_ml_raw": -263,
+      "home_prob": 30.4,
+      "away_prob": 69.6,
+      "spread": "MIL +7.5",
+      "favorite": "Toronto Raptors",
+      "pick": "Toronto Raptors",
+      "pick_abbr": "TOR",
+      "moneyline": "-263",
+      "win_probability": 69.6,
+      "confidence": "MEDIUM",
+      "confidence_stars": "\u2605\u2605\u2606",
+      "commence_time": "2026-11-07T01:10:00Z",
+      "line_movement": {
+        "home": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "away": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "pick": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "snapshot_time": "\u2014"
+      },
+      "fatigue": {
+        "home": {
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
+          "last_game": "Nov 04",
+          "days_rest": 2,
+          "games_last_4d": 2,
+          "travel_miles": 856,
+          "travel_desc": "856 mi road trip",
+          "source": "ESPN Scoreboard API"
+        },
+        "away": {
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
+          "last_game": "Nov 04",
+          "days_rest": 2,
+          "games_last_4d": 2,
+          "travel_miles": 1344,
+          "travel_desc": "1,344 mi road trip",
+          "source": "ESPN Scoreboard API"
+        }
+      },
+      "edge_factors": [
+        "\ud83d\udcca 39.2pt probability edge"
+      ],
+      "injury_notes": "No key injuries.",
+      "sharp": {
+        "away_t": null,
+        "home_t": null,
+        "source": null,
+        "sharp_signal": null,
+        "sharp_label": "Pending \u2014 check closer to tip-off",
+        "rlm": false
+      },
+      "form": {
+        "home": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        },
+        "away": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        }
+      },
+      "h2h": {
+        "total_meetings": 0,
+        "home_wins": 0,
+        "away_wins": 0,
+        "meetings": [],
+        "source": "\u2014"
+      },
+      "briefing": {
+        "trend": "Toronto Raptors hold a 69.6% edge.",
+        "matchup": "Both rosters appear healthy \u2014 clean line.",
+        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "injury_notes": "No key injuries."
+      },
+      "live": {
+        "status": "pre",
+        "status_detail": "Upcoming",
+        "period": 0,
+        "clock": "",
+        "home_score": 0,
+        "away_score": 0,
+        "spread_alert": null
+      },
+      "news": [
+        {
+          "title": "Every player from California to play for the Brooklyn Nets - Spencer Dinwiddie",
+          "source": "USA Today",
+          "link": "https://netswire.usatoday.com/story/sports/nba/nets/2026/11/04/every-player-from-california-to-play-for-the-nets-spencer-dinwiddie/92525266007/",
+          "published": "2026-11-05T02:00:17Z"
+        },
+        {
+          "title": "The Pistons Bringing Kyrie Irving Has Potential at the Right Price",
+          "source": "Yahoo Entertainment",
+          "link": "https://sports.yahoo.com/articles/pistons-bringing-kyrie-irving-potential-015753064.html",
+          "published": "2026-11-05T01:57:53Z"
+        },
+        {
+          "title": "Carmelo Anthony and La La Anthony broke up in 2017, 9 years later, the former NBA power couple finally reached a divorce settlement",
+          "source": "The Times of India",
+          "link": "https://timesofindia.indiatimes.com/sports/nba/top-stories/carmelo-anthony-and-la-la-anthony-broke-up-in-2017-9-years-later-the-former-nba-power-couple-finally-reached-a-divorce-settlement/articleshow/135555696.cms",
+          "published": "2026-11-05T01:53:06Z"
+        }
+      ]
+    },
+    {
+      "game": "Minnesota Timberwolves @ New Orleans Pelicans",
+      "home_team": "New Orleans Pelicans",
+      "away_team": "Minnesota Timberwolves",
+      "home_abbr": "NOP",
+      "away_abbr": "MIN",
+      "home_ml": "+139",
+      "away_ml": "-165",
+      "home_ml_raw": 139,
+      "away_ml_raw": -165,
+      "home_prob": 40.2,
+      "away_prob": 59.8,
+      "spread": "NOP +4.5",
+      "favorite": "Minnesota Timberwolves",
+      "pick": "Minnesota Timberwolves",
+      "pick_abbr": "MIN",
+      "moneyline": "-165",
+      "win_probability": 59.8,
+      "confidence": "MEDIUM",
+      "confidence_stars": "\u2605\u2605\u2606",
+      "commence_time": "2026-11-07T01:10:00Z",
+      "line_movement": {
+        "home": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "away": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "pick": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "snapshot_time": "\u2014"
+      },
+      "fatigue": {
+        "home": {
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
+          "last_game": "Nov 04",
+          "days_rest": 2,
+          "games_last_4d": 2,
+          "travel_miles": 359,
+          "travel_desc": "359 mi road trip",
+          "source": "ESPN Scoreboard API"
+        },
+        "away": {
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
+          "last_game": "Nov 04",
+          "days_rest": 2,
+          "games_last_4d": 2,
+          "travel_miles": 1058,
+          "travel_desc": "1,058 mi road trip",
+          "source": "ESPN Scoreboard API"
+        }
+      },
+      "edge_factors": [
+        "\ud83d\udcca 19.6pt probability edge"
+      ],
+      "injury_notes": "No key injuries.",
+      "sharp": {
+        "away_t": null,
+        "home_t": null,
+        "source": null,
+        "sharp_signal": null,
+        "sharp_label": "Pending \u2014 check closer to tip-off",
+        "rlm": false
+      },
+      "form": {
+        "home": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        },
+        "away": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        }
+      },
+      "h2h": {
+        "total_meetings": 0,
+        "home_wins": 0,
+        "away_wins": 0,
+        "meetings": [],
+        "source": "\u2014"
+      },
+      "briefing": {
+        "trend": "Minnesota Timberwolves hold a 59.8% edge.",
+        "matchup": "Both rosters appear healthy \u2014 clean line.",
+        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "injury_notes": "No key injuries."
+      },
+      "live": {
+        "status": "pre",
+        "status_detail": "Upcoming",
+        "period": 0,
+        "clock": "",
+        "home_score": 0,
+        "away_score": 0,
+        "spread_alert": null
+      },
+      "news": [
+        {
+          "title": "Every player from California to play for the Brooklyn Nets - Spencer Dinwiddie",
+          "source": "USA Today",
+          "link": "https://netswire.usatoday.com/story/sports/nba/nets/2026/11/04/every-player-from-california-to-play-for-the-nets-spencer-dinwiddie/92525266007/",
+          "published": "2026-11-05T02:00:17Z"
+        },
+        {
+          "title": "The Pistons Bringing Kyrie Irving Has Potential at the Right Price",
+          "source": "Yahoo Entertainment",
+          "link": "https://sports.yahoo.com/articles/pistons-bringing-kyrie-irving-potential-015753064.html",
+          "published": "2026-11-05T01:57:53Z"
+        },
+        {
+          "title": "Carmelo Anthony and La La Anthony broke up in 2017, 9 years later, the former NBA power couple finally reached a divorce settlement",
+          "source": "The Times of India",
+          "link": "https://timesofindia.indiatimes.com/sports/nba/top-stories/carmelo-anthony-and-la-la-anthony-broke-up-in-2017-9-years-later-the-former-nba-power-couple-finally-reached-a-divorce-settlement/articleshow/135555696.cms",
+          "published": "2026-11-05T01:53:06Z"
+        }
+      ]
+    },
+    {
+      "game": "Portland Trail Blazers @ Los Angeles Lakers",
+      "home_team": "Los Angeles Lakers",
+      "away_team": "Portland Trail Blazers",
+      "home_abbr": "LAL",
+      "away_abbr": "POR",
+      "home_ml": "-130",
+      "away_ml": "+110",
+      "home_ml_raw": -130,
+      "away_ml_raw": 110,
+      "home_prob": 54.3,
+      "away_prob": 45.7,
+      "spread": "LAL -2.5",
+      "favorite": "Los Angeles Lakers",
+      "pick": "Los Angeles Lakers",
+      "pick_abbr": "LAL",
+      "moneyline": "-130",
+      "win_probability": 54.3,
+      "confidence": "LOW",
+      "confidence_stars": "\u2605\u2606\u2606",
+      "commence_time": "2026-11-07T03:10:00Z",
+      "line_movement": {
+        "home": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "away": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "pick": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "snapshot_time": "\u2014"
+      },
+      "fatigue": {
+        "home": {
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
+          "last_game": "Nov 04",
+          "days_rest": 2,
+          "games_last_4d": 2,
+          "travel_miles": 361,
+          "travel_desc": "361 mi road trip",
+          "source": "ESPN Scoreboard API"
+        },
+        "away": {
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
+          "last_game": "Nov 04",
+          "days_rest": 2,
+          "games_last_4d": 2,
+          "travel_miles": 1006,
+          "travel_desc": "1,006 mi road trip",
+          "source": "ESPN Scoreboard API"
+        }
+      },
+      "edge_factors": [
+        "\ud83d\udcca 8.6pt probability edge"
+      ],
+      "injury_notes": "No key injuries.",
+      "sharp": {
+        "away_t": null,
+        "home_t": null,
+        "source": null,
+        "sharp_signal": null,
+        "sharp_label": "Pending \u2014 check closer to tip-off",
+        "rlm": false
+      },
+      "form": {
+        "home": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        },
+        "away": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        }
+      },
+      "h2h": {
+        "total_meetings": 0,
+        "home_wins": 0,
+        "away_wins": 0,
+        "meetings": [],
+        "source": "\u2014"
+      },
+      "briefing": {
+        "trend": "Los Angeles Lakers hold a 54.3% edge.",
+        "matchup": "Both rosters appear healthy \u2014 clean line.",
+        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "injury_notes": "No key injuries."
+      },
+      "live": {
+        "status": "pre",
+        "status_detail": "Upcoming",
+        "period": 0,
+        "clock": "",
+        "home_score": 0,
+        "away_score": 0,
+        "spread_alert": null
+      },
+      "news": [
+        {
+          "title": "Every player from California to play for the Brooklyn Nets - Spencer Dinwiddie",
+          "source": "USA Today",
+          "link": "https://netswire.usatoday.com/story/sports/nba/nets/2026/11/04/every-player-from-california-to-play-for-the-nets-spencer-dinwiddie/92525266007/",
+          "published": "2026-11-05T02:00:17Z"
+        },
+        {
+          "title": "The Pistons Bringing Kyrie Irving Has Potential at the Right Price",
+          "source": "Yahoo Entertainment",
+          "link": "https://sports.yahoo.com/articles/pistons-bringing-kyrie-irving-potential-015753064.html",
+          "published": "2026-11-05T01:57:53Z"
+        },
+        {
+          "title": "Carmelo Anthony and La La Anthony broke up in 2017, 9 years later, the former NBA power couple finally reached a divorce settlement",
+          "source": "The Times of India",
+          "link": "https://timesofindia.indiatimes.com/sports/nba/top-stories/carmelo-anthony-and-la-la-anthony-broke-up-in-2017-9-years-later-the-former-nba-power-couple-finally-reached-a-divorce-settlement/articleshow/135555696.cms",
+          "published": "2026-11-05T01:53:06Z"
+        }
+      ]
+    },
+    {
+      "game": "San Antonio Spurs @ Sacramento Kings",
+      "home_team": "Sacramento Kings",
+      "away_team": "San Antonio Spurs",
+      "home_abbr": "SAC",
+      "away_abbr": "SAS",
+      "home_ml": "+610",
+      "away_ml": "-900",
+      "home_ml_raw": 610,
+      "away_ml_raw": -900,
+      "home_prob": 13.5,
+      "away_prob": 86.5,
+      "spread": "SAC +15.5",
+      "favorite": "San Antonio Spurs",
+      "pick": "San Antonio Spurs",
+      "pick_abbr": "SAS",
+      "moneyline": "-900",
+      "win_probability": 86.5,
+      "confidence": "HIGH",
+      "confidence_stars": "\u2605\u2605\u2605",
+      "commence_time": "2026-11-07T03:10:00Z",
+      "line_movement": {
+        "home": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "away": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "pick": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "snapshot_time": "\u2014"
+      },
+      "fatigue": {
+        "home": {
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
+          "last_game": "Nov 04",
+          "days_rest": 2,
+          "games_last_4d": 2,
+          "travel_miles": 1437,
+          "travel_desc": "1,437 mi road trip",
+          "source": "ESPN Scoreboard API"
+        },
+        "away": {
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
+          "last_game": "Nov 04",
+          "days_rest": 2,
+          "games_last_4d": 2,
+          "travel_miles": 0,
+          "travel_desc": "",
+          "source": "ESPN Scoreboard API"
+        }
+      },
+      "edge_factors": [
+        "\ud83d\udcca 73.0pt probability edge"
+      ],
+      "injury_notes": "No key injuries.",
+      "sharp": {
+        "away_t": null,
+        "home_t": null,
+        "source": null,
+        "sharp_signal": null,
+        "sharp_label": "Pending \u2014 check closer to tip-off",
+        "rlm": false
+      },
+      "form": {
+        "home": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        },
+        "away": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        }
+      },
+      "h2h": {
+        "total_meetings": 0,
+        "home_wins": 0,
+        "away_wins": 0,
+        "meetings": [],
+        "source": "\u2014"
+      },
+      "briefing": {
+        "trend": "San Antonio Spurs hold a 86.5% edge.",
+        "matchup": "Both rosters appear healthy \u2014 clean line.",
+        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "injury_notes": "No key injuries."
+      },
+      "live": {
+        "status": "pre",
+        "status_detail": "Upcoming",
+        "period": 0,
+        "clock": "",
+        "home_score": 0,
+        "away_score": 0,
+        "spread_alert": null
+      },
+      "news": [
+        {
+          "title": "Every player from California to play for the Brooklyn Nets - Spencer Dinwiddie",
+          "source": "USA Today",
+          "link": "https://netswire.usatoday.com/story/sports/nba/nets/2026/11/04/every-player-from-california-to-play-for-the-nets-spencer-dinwiddie/92525266007/",
+          "published": "2026-11-05T02:00:17Z"
+        },
+        {
+          "title": "The Pistons Bringing Kyrie Irving Has Potential at the Right Price",
+          "source": "Yahoo Entertainment",
+          "link": "https://sports.yahoo.com/articles/pistons-bringing-kyrie-irving-potential-015753064.html",
+          "published": "2026-11-05T01:57:53Z"
+        },
+        {
+          "title": "Carmelo Anthony and La La Anthony broke up in 2017, 9 years later, the former NBA power couple finally reached a divorce settlement",
+          "source": "The Times of India",
+          "link": "https://timesofindia.indiatimes.com/sports/nba/top-stories/carmelo-anthony-and-la-la-anthony-broke-up-in-2017-9-years-later-the-former-nba-power-couple-finally-reached-a-divorce-settlement/articleshow/135555696.cms",
+          "published": "2026-11-05T01:53:06Z"
         }
       ]
     },
@@ -340,26 +1354,26 @@
           "old_ml": "\u2014",
           "new_ml": "\u2014"
         },
-        "snapshot_time": "November 05, 2026 at 05:53 AM UTC"
+        "snapshot_time": "November 05, 2026 at 06:32 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
           "last_game": "Nov 04",
-          "days_rest": 1,
+          "days_rest": 2,
           "games_last_4d": 2,
           "travel_miles": 0,
           "travel_desc": "",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
           "last_game": "Nov 04",
-          "days_rest": 1,
+          "days_rest": 2,
           "games_last_4d": 2,
           "travel_miles": 0,
           "travel_desc": "",
@@ -367,7 +1381,7 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udca4 SAS fatigued (B2B) \u2014 source: ESPN"
+        "\ud83d\udcca 0.0pt probability edge"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -404,7 +1418,7 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "NYK on Back-to-Back \u26a0\ufe0f per ESPN schedule data. SAS on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "trend": "New York Knicks hold a 50.0% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
         "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
@@ -420,22 +1434,22 @@
       },
       "news": [
         {
-          "title": "NBA rumors: Nobody should be surprised by these Michael Porter Jr., Julius Randle, Norman Powell trade updates",
-          "source": "ClutchPoints",
-          "link": "https://clutchpoints.com/nba/nba-stories/nba-rumors-nobody-surprised-michael-porter-jr-julius-randle-norman-powell-trade-updates",
-          "published": "2026-11-04T18:27:43Z"
+          "title": "Every player from California to play for the Brooklyn Nets - Spencer Dinwiddie",
+          "source": "USA Today",
+          "link": "https://netswire.usatoday.com/story/sports/nba/nets/2026/11/04/every-player-from-california-to-play-for-the-nets-spencer-dinwiddie/92525266007/",
+          "published": "2026-11-05T02:00:17Z"
         },
         {
-          "title": "Kon Knueppel leaves season debut with Hornets early with leg injury after offseason hamstring issue",
+          "title": "The Pistons Bringing Kyrie Irving Has Potential at the Right Price",
           "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/nba/article/kon-knueppel-leaves-season-debut-with-hornets-early-with-leg-injury-after-offseason-hamstring-issue-015937845.html",
-          "published": "2026-11-04T18:22:17Z"
+          "link": "https://sports.yahoo.com/articles/pistons-bringing-kyrie-irving-potential-015753064.html",
+          "published": "2026-11-05T01:57:53Z"
         },
         {
-          "title": "Hornets' Kon Knueppel to make season debut Wednesday vs. Nets following hamstring injury",
-          "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/nba/article/hornets-kon-knueppel-to-make-season-debut-wednesday-vs-nets-following-hamstring-injury-182217623.html",
-          "published": "2026-11-04T18:22:17Z"
+          "title": "Carmelo Anthony and La La Anthony broke up in 2017, 9 years later, the former NBA power couple finally reached a divorce settlement",
+          "source": "The Times of India",
+          "link": "https://timesofindia.indiatimes.com/sports/nba/top-stories/carmelo-anthony-and-la-la-anthony-broke-up-in-2017-9-years-later-the-former-nba-power-couple-finally-reached-a-divorce-settlement/articleshow/135555696.cms",
+          "published": "2026-11-05T01:53:06Z"
         }
       ]
     },
@@ -485,26 +1499,26 @@
           "old_ml": "\u2014",
           "new_ml": "\u2014"
         },
-        "snapshot_time": "November 05, 2026 at 05:53 AM UTC"
+        "snapshot_time": "November 05, 2026 at 06:32 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
           "last_game": "Nov 04",
-          "days_rest": 1,
-          "games_last_4d": 3,
+          "days_rest": 2,
+          "games_last_4d": 2,
           "travel_miles": 1604,
           "travel_desc": "1,604 mi road trip",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
+          "status": "TRAVEL",
+          "label": "Cross-country travel \ud83d\udfe3",
+          "battery": 50,
           "last_game": "Nov 04",
-          "days_rest": 1,
+          "days_rest": 2,
           "games_last_4d": 2,
           "travel_miles": 2337,
           "travel_desc": "2,337 mi road trip",
@@ -512,7 +1526,6 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udca4 MIA fatigued (B2B) \u2014 source: ESPN",
         "\u2708\ufe0f MIA traveled 2,337 mi"
       ],
       "injury_notes": "No key injuries.",
@@ -550,7 +1563,7 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "BOS on Back-to-Back \u26a0\ufe0f per ESPN schedule data. MIA on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "trend": "Boston Celtics hold a 50.0% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
         "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
@@ -566,22 +1579,22 @@
       },
       "news": [
         {
-          "title": "NBA rumors: Nobody should be surprised by these Michael Porter Jr., Julius Randle, Norman Powell trade updates",
-          "source": "ClutchPoints",
-          "link": "https://clutchpoints.com/nba/nba-stories/nba-rumors-nobody-surprised-michael-porter-jr-julius-randle-norman-powell-trade-updates",
-          "published": "2026-11-04T18:27:43Z"
+          "title": "Every player from California to play for the Brooklyn Nets - Spencer Dinwiddie",
+          "source": "USA Today",
+          "link": "https://netswire.usatoday.com/story/sports/nba/nets/2026/11/04/every-player-from-california-to-play-for-the-nets-spencer-dinwiddie/92525266007/",
+          "published": "2026-11-05T02:00:17Z"
         },
         {
-          "title": "Hornets' Kon Knueppel to make season debut Wednesday vs. Nets following hamstring injury",
+          "title": "The Pistons Bringing Kyrie Irving Has Potential at the Right Price",
           "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/nba/article/hornets-kon-knueppel-to-make-season-debut-wednesday-vs-nets-following-hamstring-injury-182217623.html",
-          "published": "2026-11-04T18:22:17Z"
+          "link": "https://sports.yahoo.com/articles/pistons-bringing-kyrie-irving-potential-015753064.html",
+          "published": "2026-11-05T01:57:53Z"
         },
         {
-          "title": "Kon Knueppel leaves season debut with Hornets early with leg injury after offseason hamstring issue",
-          "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/nba/article/kon-knueppel-leaves-season-debut-with-hornets-early-with-leg-injury-after-offseason-hamstring-issue-015937845.html",
-          "published": "2026-11-04T18:22:17Z"
+          "title": "Carmelo Anthony and La La Anthony broke up in 2017, 9 years later, the former NBA power couple finally reached a divorce settlement",
+          "source": "The Times of India",
+          "link": "https://timesofindia.indiatimes.com/sports/nba/top-stories/carmelo-anthony-and-la-la-anthony-broke-up-in-2017-9-years-later-the-former-nba-power-couple-finally-reached-a-divorce-settlement/articleshow/135555696.cms",
+          "published": "2026-11-05T01:53:06Z"
         }
       ]
     },
@@ -631,26 +1644,26 @@
           "old_ml": "\u2014",
           "new_ml": "\u2014"
         },
-        "snapshot_time": "November 05, 2026 at 05:53 AM UTC"
+        "snapshot_time": "November 05, 2026 at 06:32 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
           "last_game": "Nov 04",
-          "days_rest": 1,
-          "games_last_4d": 3,
+          "days_rest": 2,
+          "games_last_4d": 2,
           "travel_miles": 361,
           "travel_desc": "361 mi road trip",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
           "last_game": "Nov 04",
-          "days_rest": 1,
+          "days_rest": 2,
           "games_last_4d": 2,
           "travel_miles": 443,
           "travel_desc": "443 mi road trip",
@@ -658,7 +1671,7 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udca4 PHI fatigued (B2B) \u2014 source: ESPN"
+        "\ud83d\udcca 0.0pt probability edge"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -695,7 +1708,7 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "LAL on Back-to-Back \u26a0\ufe0f per ESPN schedule data. PHI on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "trend": "Los Angeles Lakers hold a 50.0% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
         "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
@@ -711,22 +1724,22 @@
       },
       "news": [
         {
-          "title": "NBA rumors: Nobody should be surprised by these Michael Porter Jr., Julius Randle, Norman Powell trade updates",
-          "source": "ClutchPoints",
-          "link": "https://clutchpoints.com/nba/nba-stories/nba-rumors-nobody-surprised-michael-porter-jr-julius-randle-norman-powell-trade-updates",
-          "published": "2026-11-04T18:27:43Z"
+          "title": "Every player from California to play for the Brooklyn Nets - Spencer Dinwiddie",
+          "source": "USA Today",
+          "link": "https://netswire.usatoday.com/story/sports/nba/nets/2026/11/04/every-player-from-california-to-play-for-the-nets-spencer-dinwiddie/92525266007/",
+          "published": "2026-11-05T02:00:17Z"
         },
         {
-          "title": "Kon Knueppel leaves season debut with Hornets early with leg injury after offseason hamstring issue",
+          "title": "The Pistons Bringing Kyrie Irving Has Potential at the Right Price",
           "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/nba/article/kon-knueppel-leaves-season-debut-with-hornets-early-with-leg-injury-after-offseason-hamstring-issue-015937845.html",
-          "published": "2026-11-04T18:22:17Z"
+          "link": "https://sports.yahoo.com/articles/pistons-bringing-kyrie-irving-potential-015753064.html",
+          "published": "2026-11-05T01:57:53Z"
         },
         {
-          "title": "Hornets' Kon Knueppel to make season debut Wednesday vs. Nets following hamstring injury",
-          "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/nba/article/hornets-kon-knueppel-to-make-season-debut-wednesday-vs-nets-following-hamstring-injury-182217623.html",
-          "published": "2026-11-04T18:22:17Z"
+          "title": "Carmelo Anthony and La La Anthony broke up in 2017, 9 years later, the former NBA power couple finally reached a divorce settlement",
+          "source": "The Times of India",
+          "link": "https://timesofindia.indiatimes.com/sports/nba/top-stories/carmelo-anthony-and-la-la-anthony-broke-up-in-2017-9-years-later-the-former-nba-power-couple-finally-reached-a-divorce-settlement/articleshow/135555696.cms",
+          "published": "2026-11-05T01:53:06Z"
         }
       ]
     },
@@ -776,26 +1789,26 @@
           "old_ml": "\u2014",
           "new_ml": "\u2014"
         },
-        "snapshot_time": "November 05, 2026 at 05:53 AM UTC"
+        "snapshot_time": "November 05, 2026 at 06:32 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "RESTED",
-          "label": "2 days rest \u2705",
-          "battery": 88,
+          "status": "FRESH",
+          "label": "Well rested \u2705",
+          "battery": 100,
           "last_game": "Nov 02",
-          "days_rest": 3,
-          "games_last_4d": 2,
+          "days_rest": 4,
+          "games_last_4d": 1,
           "travel_miles": 0,
           "travel_desc": "",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
           "last_game": "Nov 04",
-          "days_rest": 1,
+          "days_rest": 2,
           "games_last_4d": 2,
           "travel_miles": 0,
           "travel_desc": "",
@@ -803,7 +1816,7 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udca4 DEN fatigued (B2B) \u2014 source: ESPN"
+        "\ud83d\udcca 0.0pt probability edge"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -840,7 +1853,7 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "DEN on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "trend": "Golden State Warriors hold a 50.0% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
         "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
@@ -856,22 +1869,22 @@
       },
       "news": [
         {
-          "title": "NBA rumors: Nobody should be surprised by these Michael Porter Jr., Julius Randle, Norman Powell trade updates",
-          "source": "ClutchPoints",
-          "link": "https://clutchpoints.com/nba/nba-stories/nba-rumors-nobody-surprised-michael-porter-jr-julius-randle-norman-powell-trade-updates",
-          "published": "2026-11-04T18:27:43Z"
+          "title": "Every player from California to play for the Brooklyn Nets - Spencer Dinwiddie",
+          "source": "USA Today",
+          "link": "https://netswire.usatoday.com/story/sports/nba/nets/2026/11/04/every-player-from-california-to-play-for-the-nets-spencer-dinwiddie/92525266007/",
+          "published": "2026-11-05T02:00:17Z"
         },
         {
-          "title": "Kon Knueppel leaves season debut with Hornets early with leg injury after offseason hamstring issue",
+          "title": "The Pistons Bringing Kyrie Irving Has Potential at the Right Price",
           "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/nba/article/kon-knueppel-leaves-season-debut-with-hornets-early-with-leg-injury-after-offseason-hamstring-issue-015937845.html",
-          "published": "2026-11-04T18:22:17Z"
+          "link": "https://sports.yahoo.com/articles/pistons-bringing-kyrie-irving-potential-015753064.html",
+          "published": "2026-11-05T01:57:53Z"
         },
         {
-          "title": "Hornets' Kon Knueppel to make season debut Wednesday vs. Nets following hamstring injury",
-          "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/nba/article/hornets-kon-knueppel-to-make-season-debut-wednesday-vs-nets-following-hamstring-injury-182217623.html",
-          "published": "2026-11-04T18:22:17Z"
+          "title": "Carmelo Anthony and La La Anthony broke up in 2017, 9 years later, the former NBA power couple finally reached a divorce settlement",
+          "source": "The Times of India",
+          "link": "https://timesofindia.indiatimes.com/sports/nba/top-stories/carmelo-anthony-and-la-la-anthony-broke-up-in-2017-9-years-later-the-former-nba-power-couple-finally-reached-a-divorce-settlement/articleshow/135555696.cms",
+          "published": "2026-11-05T01:53:06Z"
         }
       ]
     }
