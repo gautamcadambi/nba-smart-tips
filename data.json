@@ -1,298 +1,7 @@
 {
-  "last_updated": "November 07, 2026 at 05:20 AM UTC",
-  "total_games": 13,
+  "last_updated": "November 07, 2026 at 11:50 AM UTC",
+  "total_games": 11,
   "games": [
-    {
-      "game": "Portland Trail Blazers @ Los Angeles Lakers",
-      "home_team": "Los Angeles Lakers",
-      "away_team": "Portland Trail Blazers",
-      "home_abbr": "LAL",
-      "away_abbr": "POR",
-      "home_ml": "-3000",
-      "away_ml": "+1300",
-      "home_ml_raw": -3000,
-      "away_ml_raw": 1300,
-      "home_prob": 93.1,
-      "away_prob": 6.9,
-      "spread": "LAL -12.5",
-      "favorite": "Los Angeles Lakers",
-      "pick": "Los Angeles Lakers",
-      "pick_abbr": "LAL",
-      "moneyline": "-3000",
-      "win_probability": 93.1,
-      "confidence": "HIGH",
-      "confidence_stars": "\u2605\u2605\u2605",
-      "commence_time": "2026-11-07T03:14:00Z",
-      "line_movement": {
-        "home": {
-          "direction": "shorter",
-          "points_moved": 2846,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -3000 \u2190 -154",
-          "old_ml": "-154",
-          "new_ml": "-3000"
-        },
-        "away": {
-          "direction": "longer",
-          "points_moved": 1170,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM +1300 \u2190 +130",
-          "old_ml": "+130",
-          "new_ml": "+1300"
-        },
-        "pick": {
-          "direction": "shorter",
-          "points_moved": 2846,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -3000 \u2190 -154",
-          "old_ml": "-154",
-          "new_ml": "-3000"
-        },
-        "snapshot_time": "November 07, 2026 at 01:40 AM UTC"
-      },
-      "fatigue": {
-        "home": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
-          "last_game": "Nov 06",
-          "days_rest": 1,
-          "games_last_4d": 2,
-          "travel_miles": 361,
-          "travel_desc": "361 mi road trip",
-          "source": "ESPN Scoreboard API"
-        },
-        "away": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
-          "last_game": "Nov 06",
-          "days_rest": 1,
-          "games_last_4d": 2,
-          "travel_miles": 827,
-          "travel_desc": "827 mi road trip",
-          "source": "ESPN Scoreboard API"
-        }
-      },
-      "edge_factors": [
-        "\ud83d\udd25 Sharp steam detected",
-        "\ud83d\udca4 POR fatigued (B2B) \u2014 source: ESPN"
-      ],
-      "injury_notes": "No key injuries.",
-      "sharp": {
-        "away_t": null,
-        "home_t": null,
-        "source": null,
-        "sharp_signal": null,
-        "sharp_label": "Pending \u2014 check closer to tip-off",
-        "rlm": false
-      },
-      "form": {
-        "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        },
-        "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        }
-      },
-      "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
-      },
-      "briefing": {
-        "trend": "LAL on Back-to-Back \u26a0\ufe0f per ESPN schedule data. POR on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -154 to -3000 (2846pt move) \u2014 heavy professional action on Los Angeles Lakers.",
-        "injury_notes": "No key injuries."
-      },
-      "live": {
-        "status": "pre",
-        "status_detail": "Upcoming",
-        "period": 0,
-        "clock": "",
-        "home_score": 0,
-        "away_score": 0,
-        "spread_alert": null
-      },
-      "news": [
-        {
-          "title": "Lakers Get Major Adou Thiero Boost, But New Injury Concern Emerges Before Blazers Game",
-          "source": "Heavy.com",
-          "link": "https://heavy.com/sports/nba/los-angeles-lakers/lakers-injury-report-adou-thiero-mamukelashvili/",
-          "published": "2026-11-06T05:15:55Z"
-        },
-        {
-          "title": "NBA rumors: Could Pelicans emerge as Domantas Sabonis trade suitor?",
-          "source": "ClutchPoints",
-          "link": "https://clutchpoints.com/nba/new-orleans-pelicans/nba-rumors-could-pelicans-emerge-as-domantas-sabonis-trade-suitor",
-          "published": "2026-11-06T05:10:08Z"
-        },
-        {
-          "title": "Thunder\u2019s Latest Signing Reveals Unexpected Alex Caruso Connection",
-          "source": "Heavy.com",
-          "link": "https://heavy.com/sports/nba/oklahoma-city-thunder/thunder-dalen-terry-alex-caruso-connection/",
-          "published": "2026-11-06T05:07:17Z"
-        }
-      ]
-    },
-    {
-      "game": "San Antonio Spurs @ Sacramento Kings",
-      "home_team": "Sacramento Kings",
-      "away_team": "San Antonio Spurs",
-      "home_abbr": "SAC",
-      "away_abbr": "SAS",
-      "home_ml": "N/A",
-      "away_ml": "N/A",
-      "home_ml_raw": null,
-      "away_ml_raw": null,
-      "home_prob": 50.0,
-      "away_prob": 50.0,
-      "spread": "SAC +16.5",
-      "favorite": "Sacramento Kings",
-      "pick": "Sacramento Kings",
-      "pick_abbr": "SAC",
-      "moneyline": "N/A",
-      "win_probability": 50.0,
-      "confidence": "LOW",
-      "confidence_stars": "\u2605\u2606\u2606",
-      "commence_time": "2026-11-07T03:24:12Z",
-      "line_movement": {
-        "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
-        },
-        "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
-        },
-        "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
-        },
-        "snapshot_time": "November 07, 2026 at 01:40 AM UTC"
-      },
-      "fatigue": {
-        "home": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
-          "last_game": "Nov 06",
-          "days_rest": 1,
-          "games_last_4d": 2,
-          "travel_miles": 0,
-          "travel_desc": "",
-          "source": "ESPN Scoreboard API"
-        },
-        "away": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
-          "last_game": "Nov 06",
-          "days_rest": 1,
-          "games_last_4d": 2,
-          "travel_miles": 1459,
-          "travel_desc": "1,459 mi road trip",
-          "source": "ESPN Scoreboard API"
-        }
-      },
-      "edge_factors": [
-        "\ud83d\udca4 SAS fatigued (B2B) \u2014 source: ESPN"
-      ],
-      "injury_notes": "No key injuries.",
-      "sharp": {
-        "away_t": null,
-        "home_t": null,
-        "source": null,
-        "sharp_signal": null,
-        "sharp_label": "Pending \u2014 check closer to tip-off",
-        "rlm": false
-      },
-      "form": {
-        "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        },
-        "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        }
-      },
-      "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
-      },
-      "briefing": {
-        "trend": "SAC on Back-to-Back \u26a0\ufe0f per ESPN schedule data. SAS on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
-        "injury_notes": "No key injuries."
-      },
-      "live": {
-        "status": "pre",
-        "status_detail": "Upcoming",
-        "period": 0,
-        "clock": "",
-        "home_score": 0,
-        "away_score": 0,
-        "spread_alert": null
-      },
-      "news": [
-        {
-          "title": "Lakers Get Major Adou Thiero Boost, But New Injury Concern Emerges Before Blazers Game",
-          "source": "Heavy.com",
-          "link": "https://heavy.com/sports/nba/los-angeles-lakers/lakers-injury-report-adou-thiero-mamukelashvili/",
-          "published": "2026-11-06T05:15:55Z"
-        },
-        {
-          "title": "NBA rumors: Could Pelicans emerge as Domantas Sabonis trade suitor?",
-          "source": "ClutchPoints",
-          "link": "https://clutchpoints.com/nba/new-orleans-pelicans/nba-rumors-could-pelicans-emerge-as-domantas-sabonis-trade-suitor",
-          "published": "2026-11-06T05:10:08Z"
-        },
-        {
-          "title": "Thunder\u2019s Latest Signing Reveals Unexpected Alex Caruso Connection",
-          "source": "Heavy.com",
-          "link": "https://heavy.com/sports/nba/oklahoma-city-thunder/thunder-dalen-terry-alex-caruso-connection/",
-          "published": "2026-11-06T05:07:17Z"
-        }
-      ]
-    },
     {
       "game": "Denver Nuggets @ Indiana Pacers",
       "home_team": "Indiana Pacers",
@@ -316,30 +25,30 @@
       "commence_time": "2026-11-07T22:10:00Z",
       "line_movement": {
         "home": {
-          "direction": "longer",
-          "points_moved": 24,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM +220 \u2190 +196",
-          "old_ml": "+196",
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "No movement",
+          "old_ml": "+220",
           "new_ml": "+220"
         },
         "away": {
-          "direction": "shorter",
-          "points_moved": 31,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -268 \u2190 -237",
-          "old_ml": "-237",
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "No movement",
+          "old_ml": "-268",
           "new_ml": "-268"
         },
         "pick": {
-          "direction": "shorter",
-          "points_moved": 31,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -268 \u2190 -237",
-          "old_ml": "-237",
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "No movement",
+          "old_ml": "-268",
           "new_ml": "-268"
         },
-        "snapshot_time": "November 07, 2026 at 01:40 AM UTC"
+        "snapshot_time": "November 07, 2026 at 05:20 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -366,7 +75,7 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udd25 Sharp steam detected"
+        "\ud83d\udcca 40.0pt probability edge"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -405,7 +114,7 @@
       "briefing": {
         "trend": "Denver Nuggets hold a 70.0% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -237 to -268 (31pt move) \u2014 heavy professional action on Denver Nuggets.",
+        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -419,22 +128,22 @@
       },
       "news": [
         {
-          "title": "Lakers Get Major Adou Thiero Boost, But New Injury Concern Emerges Before Blazers Game",
-          "source": "Heavy.com",
-          "link": "https://heavy.com/sports/nba/los-angeles-lakers/lakers-injury-report-adou-thiero-mamukelashvili/",
-          "published": "2026-11-06T05:15:55Z"
+          "title": "LeBron James returns to Cleveland with 76ers after stunning free agency decision",
+          "source": "Sporting News",
+          "link": "https://www.sportingnews.com/us/nba/philadelphia-76ers/news/lebron-james-returns-cleveland-76ers-after-stunning-free-agency-decision/9704e012867845cd95b12cbd",
+          "published": "2026-11-06T11:50:03Z"
         },
         {
-          "title": "NBA rumors: Could Pelicans emerge as Domantas Sabonis trade suitor?",
-          "source": "ClutchPoints",
-          "link": "https://clutchpoints.com/nba/new-orleans-pelicans/nba-rumors-could-pelicans-emerge-as-domantas-sabonis-trade-suitor",
-          "published": "2026-11-06T05:10:08Z"
+          "title": "New York Knicks stars name \u2018performative\u2019 Taylor Swift in response to fakest celeb question",
+          "source": "HITC - Football, Gaming, Movies, TV, Music",
+          "link": "https://www.hitc.com/new-york-knicks-stars-name-performative-taylor-swift-in-response-to-fakest-celeb-question/",
+          "published": "2026-11-06T11:40:00Z"
         },
         {
-          "title": "Thunder\u2019s Latest Signing Reveals Unexpected Alex Caruso Connection",
-          "source": "Heavy.com",
-          "link": "https://heavy.com/sports/nba/oklahoma-city-thunder/thunder-dalen-terry-alex-caruso-connection/",
-          "published": "2026-11-06T05:07:17Z"
+          "title": "Kentucky Wildcats News: James Madison Gameday for UK Basketball",
+          "source": "A Sea Of Blue",
+          "link": "https://www.aseaofblue.com/kentucky-wildcats-news/186923/uk-basketball-james-madison-gameday",
+          "published": "2026-11-06T11:40:00Z"
         }
       ]
     },
@@ -464,27 +173,27 @@
           "direction": "none",
           "points_moved": 0,
           "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "label": "No movement",
+          "old_ml": "-258",
+          "new_ml": "-258"
         },
         "away": {
           "direction": "none",
           "points_moved": 0,
           "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "label": "No movement",
+          "old_ml": "+212",
+          "new_ml": "+212"
         },
         "pick": {
           "direction": "none",
           "points_moved": 0,
           "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "label": "No movement",
+          "old_ml": "-258",
+          "new_ml": "-258"
         },
-        "snapshot_time": "\u2014"
+        "snapshot_time": "November 07, 2026 at 05:20 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -564,22 +273,22 @@
       },
       "news": [
         {
-          "title": "Lakers Get Major Adou Thiero Boost, But New Injury Concern Emerges Before Blazers Game",
-          "source": "Heavy.com",
-          "link": "https://heavy.com/sports/nba/los-angeles-lakers/lakers-injury-report-adou-thiero-mamukelashvili/",
-          "published": "2026-11-06T05:15:55Z"
+          "title": "LeBron James returns to Cleveland with 76ers after stunning free agency decision",
+          "source": "Sporting News",
+          "link": "https://www.sportingnews.com/us/nba/philadelphia-76ers/news/lebron-james-returns-cleveland-76ers-after-stunning-free-agency-decision/9704e012867845cd95b12cbd",
+          "published": "2026-11-06T11:50:03Z"
         },
         {
-          "title": "NBA rumors: Could Pelicans emerge as Domantas Sabonis trade suitor?",
-          "source": "ClutchPoints",
-          "link": "https://clutchpoints.com/nba/new-orleans-pelicans/nba-rumors-could-pelicans-emerge-as-domantas-sabonis-trade-suitor",
-          "published": "2026-11-06T05:10:08Z"
+          "title": "New York Knicks stars name \u2018performative\u2019 Taylor Swift in response to fakest celeb question",
+          "source": "HITC - Football, Gaming, Movies, TV, Music",
+          "link": "https://www.hitc.com/new-york-knicks-stars-name-performative-taylor-swift-in-response-to-fakest-celeb-question/",
+          "published": "2026-11-06T11:40:00Z"
         },
         {
-          "title": "Thunder\u2019s Latest Signing Reveals Unexpected Alex Caruso Connection",
-          "source": "Heavy.com",
-          "link": "https://heavy.com/sports/nba/oklahoma-city-thunder/thunder-dalen-terry-alex-caruso-connection/",
-          "published": "2026-11-06T05:07:17Z"
+          "title": "Kentucky Wildcats News: James Madison Gameday for UK Basketball",
+          "source": "A Sea Of Blue",
+          "link": "https://www.aseaofblue.com/kentucky-wildcats-news/186923/uk-basketball-james-madison-gameday",
+          "published": "2026-11-06T11:40:00Z"
         }
       ]
     },
@@ -609,27 +318,27 @@
           "direction": "none",
           "points_moved": 0,
           "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "label": "No movement",
+          "old_ml": "+160",
+          "new_ml": "+160"
         },
         "away": {
           "direction": "none",
           "points_moved": 0,
           "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "label": "No movement",
+          "old_ml": "-191",
+          "new_ml": "-191"
         },
         "pick": {
           "direction": "none",
           "points_moved": 0,
           "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "label": "No movement",
+          "old_ml": "-191",
+          "new_ml": "-191"
         },
-        "snapshot_time": "\u2014"
+        "snapshot_time": "November 07, 2026 at 05:20 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -709,22 +418,22 @@
       },
       "news": [
         {
-          "title": "Lakers Get Major Adou Thiero Boost, But New Injury Concern Emerges Before Blazers Game",
-          "source": "Heavy.com",
-          "link": "https://heavy.com/sports/nba/los-angeles-lakers/lakers-injury-report-adou-thiero-mamukelashvili/",
-          "published": "2026-11-06T05:15:55Z"
+          "title": "LeBron James returns to Cleveland with 76ers after stunning free agency decision",
+          "source": "Sporting News",
+          "link": "https://www.sportingnews.com/us/nba/philadelphia-76ers/news/lebron-james-returns-cleveland-76ers-after-stunning-free-agency-decision/9704e012867845cd95b12cbd",
+          "published": "2026-11-06T11:50:03Z"
         },
         {
-          "title": "NBA rumors: Could Pelicans emerge as Domantas Sabonis trade suitor?",
-          "source": "ClutchPoints",
-          "link": "https://clutchpoints.com/nba/new-orleans-pelicans/nba-rumors-could-pelicans-emerge-as-domantas-sabonis-trade-suitor",
-          "published": "2026-11-06T05:10:08Z"
+          "title": "New York Knicks stars name \u2018performative\u2019 Taylor Swift in response to fakest celeb question",
+          "source": "HITC - Football, Gaming, Movies, TV, Music",
+          "link": "https://www.hitc.com/new-york-knicks-stars-name-performative-taylor-swift-in-response-to-fakest-celeb-question/",
+          "published": "2026-11-06T11:40:00Z"
         },
         {
-          "title": "Thunder\u2019s Latest Signing Reveals Unexpected Alex Caruso Connection",
-          "source": "Heavy.com",
-          "link": "https://heavy.com/sports/nba/oklahoma-city-thunder/thunder-dalen-terry-alex-caruso-connection/",
-          "published": "2026-11-06T05:07:17Z"
+          "title": "Kentucky Wildcats News: James Madison Gameday for UK Basketball",
+          "source": "A Sea Of Blue",
+          "link": "https://www.aseaofblue.com/kentucky-wildcats-news/186923/uk-basketball-james-madison-gameday",
+          "published": "2026-11-06T11:40:00Z"
         }
       ]
     },
@@ -734,47 +443,47 @@
       "away_team": "Washington Wizards",
       "home_abbr": "OKC",
       "away_abbr": "WAS",
-      "home_ml": "-486",
-      "away_ml": "+373",
-      "home_ml_raw": -486,
-      "away_ml_raw": 373,
-      "home_prob": 79.7,
-      "away_prob": 20.3,
+      "home_ml": "-477",
+      "away_ml": "+367",
+      "home_ml_raw": -477,
+      "away_ml_raw": 367,
+      "home_prob": 79.4,
+      "away_prob": 20.6,
       "spread": "OKC -11.5",
       "favorite": "Oklahoma City Thunder",
       "pick": "Oklahoma City Thunder",
       "pick_abbr": "OKC",
-      "moneyline": "-486",
-      "win_probability": 79.7,
+      "moneyline": "-477",
+      "win_probability": 79.4,
       "confidence": "HIGH",
       "confidence_stars": "\u2605\u2605\u2605",
       "commence_time": "2026-11-08T01:10:00Z",
       "line_movement": {
         "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "direction": "longer",
+          "points_moved": 9,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -477 \u2190 -486",
+          "old_ml": "-486",
+          "new_ml": "-477"
         },
         "away": {
-          "direction": "none",
-          "points_moved": 0,
+          "direction": "shorter",
+          "points_moved": 6,
           "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "label": "\ud83d\udfe2 +367 \u2190 +373",
+          "old_ml": "+373",
+          "new_ml": "+367"
         },
         "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "direction": "longer",
+          "points_moved": 9,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -477 \u2190 -486",
+          "old_ml": "-486",
+          "new_ml": "-477"
         },
-        "snapshot_time": "\u2014"
+        "snapshot_time": "November 07, 2026 at 05:20 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -801,6 +510,7 @@
         }
       },
       "edge_factors": [
+        "\ud83d\udd25 Sharp steam detected",
         "\ud83d\udca4 WAS fatigued (B2B) \u2014 source: ESPN"
       ],
       "injury_notes": "No key injuries.",
@@ -840,7 +550,7 @@
       "briefing": {
         "trend": "OKC on Back-to-Back \u26a0\ufe0f per ESPN schedule data. WAS on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "steam": "Line steamed from -486 to -477 (9pt move) \u2014 heavy professional action on Oklahoma City Thunder.",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -854,22 +564,22 @@
       },
       "news": [
         {
-          "title": "Lakers Get Major Adou Thiero Boost, But New Injury Concern Emerges Before Blazers Game",
-          "source": "Heavy.com",
-          "link": "https://heavy.com/sports/nba/los-angeles-lakers/lakers-injury-report-adou-thiero-mamukelashvili/",
-          "published": "2026-11-06T05:15:55Z"
+          "title": "LeBron James returns to Cleveland with 76ers after stunning free agency decision",
+          "source": "Sporting News",
+          "link": "https://www.sportingnews.com/us/nba/philadelphia-76ers/news/lebron-james-returns-cleveland-76ers-after-stunning-free-agency-decision/9704e012867845cd95b12cbd",
+          "published": "2026-11-06T11:50:03Z"
         },
         {
-          "title": "NBA rumors: Could Pelicans emerge as Domantas Sabonis trade suitor?",
-          "source": "ClutchPoints",
-          "link": "https://clutchpoints.com/nba/new-orleans-pelicans/nba-rumors-could-pelicans-emerge-as-domantas-sabonis-trade-suitor",
-          "published": "2026-11-06T05:10:08Z"
+          "title": "New York Knicks stars name \u2018performative\u2019 Taylor Swift in response to fakest celeb question",
+          "source": "HITC - Football, Gaming, Movies, TV, Music",
+          "link": "https://www.hitc.com/new-york-knicks-stars-name-performative-taylor-swift-in-response-to-fakest-celeb-question/",
+          "published": "2026-11-06T11:40:00Z"
         },
         {
-          "title": "Thunder\u2019s Latest Signing Reveals Unexpected Alex Caruso Connection",
-          "source": "Heavy.com",
-          "link": "https://heavy.com/sports/nba/oklahoma-city-thunder/thunder-dalen-terry-alex-caruso-connection/",
-          "published": "2026-11-06T05:07:17Z"
+          "title": "Kentucky Wildcats News: James Madison Gameday for UK Basketball",
+          "source": "A Sea Of Blue",
+          "link": "https://www.aseaofblue.com/kentucky-wildcats-news/186923/uk-basketball-james-madison-gameday",
+          "published": "2026-11-06T11:40:00Z"
         }
       ]
     },
@@ -899,27 +609,27 @@
           "direction": "none",
           "points_moved": 0,
           "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "label": "No movement",
+          "old_ml": "-258",
+          "new_ml": "-258"
         },
         "away": {
           "direction": "none",
           "points_moved": 0,
           "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "label": "No movement",
+          "old_ml": "+212",
+          "new_ml": "+212"
         },
         "pick": {
           "direction": "none",
           "points_moved": 0,
           "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "label": "No movement",
+          "old_ml": "-258",
+          "new_ml": "-258"
         },
-        "snapshot_time": "November 07, 2026 at 01:40 AM UTC"
+        "snapshot_time": "November 07, 2026 at 05:20 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -999,22 +709,22 @@
       },
       "news": [
         {
-          "title": "Lakers Get Major Adou Thiero Boost, But New Injury Concern Emerges Before Blazers Game",
-          "source": "Heavy.com",
-          "link": "https://heavy.com/sports/nba/los-angeles-lakers/lakers-injury-report-adou-thiero-mamukelashvili/",
-          "published": "2026-11-06T05:15:55Z"
+          "title": "LeBron James returns to Cleveland with 76ers after stunning free agency decision",
+          "source": "Sporting News",
+          "link": "https://www.sportingnews.com/us/nba/philadelphia-76ers/news/lebron-james-returns-cleveland-76ers-after-stunning-free-agency-decision/9704e012867845cd95b12cbd",
+          "published": "2026-11-06T11:50:03Z"
         },
         {
-          "title": "NBA rumors: Could Pelicans emerge as Domantas Sabonis trade suitor?",
-          "source": "ClutchPoints",
-          "link": "https://clutchpoints.com/nba/new-orleans-pelicans/nba-rumors-could-pelicans-emerge-as-domantas-sabonis-trade-suitor",
-          "published": "2026-11-06T05:10:08Z"
+          "title": "New York Knicks stars name \u2018performative\u2019 Taylor Swift in response to fakest celeb question",
+          "source": "HITC - Football, Gaming, Movies, TV, Music",
+          "link": "https://www.hitc.com/new-york-knicks-stars-name-performative-taylor-swift-in-response-to-fakest-celeb-question/",
+          "published": "2026-11-06T11:40:00Z"
         },
         {
-          "title": "Thunder\u2019s Latest Signing Reveals Unexpected Alex Caruso Connection",
-          "source": "Heavy.com",
-          "link": "https://heavy.com/sports/nba/oklahoma-city-thunder/thunder-dalen-terry-alex-caruso-connection/",
-          "published": "2026-11-06T05:07:17Z"
+          "title": "Kentucky Wildcats News: James Madison Gameday for UK Basketball",
+          "source": "A Sea Of Blue",
+          "link": "https://www.aseaofblue.com/kentucky-wildcats-news/186923/uk-basketball-james-madison-gameday",
+          "published": "2026-11-06T11:40:00Z"
         }
       ]
     },
@@ -1024,47 +734,47 @@
       "away_team": "Houston Rockets",
       "home_abbr": "PHX",
       "away_abbr": "HOU",
-      "home_ml": "+237",
-      "away_ml": "-291",
-      "home_ml_raw": 237,
-      "away_ml_raw": -291,
-      "home_prob": 28.5,
-      "away_prob": 71.5,
+      "home_ml": "+249",
+      "away_ml": "-308",
+      "home_ml_raw": 249,
+      "away_ml_raw": -308,
+      "home_prob": 27.5,
+      "away_prob": 72.5,
       "spread": "PHX +7.5",
       "favorite": "Houston Rockets",
       "pick": "Houston Rockets",
       "pick_abbr": "HOU",
-      "moneyline": "-291",
-      "win_probability": 71.5,
-      "confidence": "MEDIUM",
-      "confidence_stars": "\u2605\u2605\u2606",
+      "moneyline": "-308",
+      "win_probability": 72.5,
+      "confidence": "HIGH",
+      "confidence_stars": "\u2605\u2605\u2605",
       "commence_time": "2026-11-08T02:10:00Z",
       "line_movement": {
         "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "direction": "longer",
+          "points_moved": 12,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM +249 \u2190 +237",
+          "old_ml": "+237",
+          "new_ml": "+249"
         },
         "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "direction": "shorter",
+          "points_moved": 17,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -308 \u2190 -291",
+          "old_ml": "-291",
+          "new_ml": "-308"
         },
         "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "direction": "shorter",
+          "points_moved": 17,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -308 \u2190 -291",
+          "old_ml": "-291",
+          "new_ml": "-308"
         },
-        "snapshot_time": "November 07, 2026 at 01:40 AM UTC"
+        "snapshot_time": "November 07, 2026 at 05:20 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -1091,7 +801,7 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udcca 43.0pt probability edge"
+        "\ud83d\udd25 Sharp steam detected"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -1128,9 +838,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "Houston Rockets hold a 71.5% edge.",
+        "trend": "Houston Rockets hold a 72.5% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "steam": "Line steamed from -291 to -308 (17pt move) \u2014 heavy professional action on Houston Rockets.",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -1144,22 +854,22 @@
       },
       "news": [
         {
-          "title": "Lakers Get Major Adou Thiero Boost, But New Injury Concern Emerges Before Blazers Game",
-          "source": "Heavy.com",
-          "link": "https://heavy.com/sports/nba/los-angeles-lakers/lakers-injury-report-adou-thiero-mamukelashvili/",
-          "published": "2026-11-06T05:15:55Z"
+          "title": "LeBron James returns to Cleveland with 76ers after stunning free agency decision",
+          "source": "Sporting News",
+          "link": "https://www.sportingnews.com/us/nba/philadelphia-76ers/news/lebron-james-returns-cleveland-76ers-after-stunning-free-agency-decision/9704e012867845cd95b12cbd",
+          "published": "2026-11-06T11:50:03Z"
         },
         {
-          "title": "NBA rumors: Could Pelicans emerge as Domantas Sabonis trade suitor?",
-          "source": "ClutchPoints",
-          "link": "https://clutchpoints.com/nba/new-orleans-pelicans/nba-rumors-could-pelicans-emerge-as-domantas-sabonis-trade-suitor",
-          "published": "2026-11-06T05:10:08Z"
+          "title": "New York Knicks stars name \u2018performative\u2019 Taylor Swift in response to fakest celeb question",
+          "source": "HITC - Football, Gaming, Movies, TV, Music",
+          "link": "https://www.hitc.com/new-york-knicks-stars-name-performative-taylor-swift-in-response-to-fakest-celeb-question/",
+          "published": "2026-11-06T11:40:00Z"
         },
         {
-          "title": "Thunder\u2019s Latest Signing Reveals Unexpected Alex Caruso Connection",
-          "source": "Heavy.com",
-          "link": "https://heavy.com/sports/nba/oklahoma-city-thunder/thunder-dalen-terry-alex-caruso-connection/",
-          "published": "2026-11-06T05:07:17Z"
+          "title": "Kentucky Wildcats News: James Madison Gameday for UK Basketball",
+          "source": "A Sea Of Blue",
+          "link": "https://www.aseaofblue.com/kentucky-wildcats-news/186923/uk-basketball-james-madison-gameday",
+          "published": "2026-11-06T11:40:00Z"
         }
       ]
     },
@@ -1169,47 +879,47 @@
       "away_team": "San Antonio Spurs",
       "home_abbr": "POR",
       "away_abbr": "SAS",
-      "home_ml": "+128",
-      "away_ml": "-152",
-      "home_ml_raw": 128,
-      "away_ml_raw": -152,
-      "home_prob": 42.1,
-      "away_prob": 57.9,
-      "spread": "POR +3.5",
+      "home_ml": "+180",
+      "away_ml": "-216",
+      "home_ml_raw": 180,
+      "away_ml_raw": -216,
+      "home_prob": 34.3,
+      "away_prob": 65.7,
+      "spread": "POR +5.5",
       "favorite": "San Antonio Spurs",
       "pick": "San Antonio Spurs",
       "pick_abbr": "SAS",
-      "moneyline": "-152",
-      "win_probability": 57.9,
-      "confidence": "LOW",
-      "confidence_stars": "\u2605\u2606\u2606",
+      "moneyline": "-216",
+      "win_probability": 65.7,
+      "confidence": "MEDIUM",
+      "confidence_stars": "\u2605\u2605\u2606",
       "commence_time": "2026-11-08T03:00:00Z",
       "line_movement": {
         "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "direction": "longer",
+          "points_moved": 52,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM +180 \u2190 +128",
+          "old_ml": "+128",
+          "new_ml": "+180"
         },
         "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "direction": "shorter",
+          "points_moved": 64,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -216 \u2190 -152",
+          "old_ml": "-152",
+          "new_ml": "-216"
         },
         "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "direction": "shorter",
+          "points_moved": 64,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -216 \u2190 -152",
+          "old_ml": "-152",
+          "new_ml": "-216"
         },
-        "snapshot_time": "\u2014"
+        "snapshot_time": "November 07, 2026 at 05:20 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -1236,6 +946,7 @@
         }
       },
       "edge_factors": [
+        "\ud83d\udd25 Sharp steam detected",
         "\ud83d\udca4 POR fatigued (B2B) \u2014 source: ESPN"
       ],
       "injury_notes": "No key injuries.",
@@ -1275,7 +986,7 @@
       "briefing": {
         "trend": "POR on Back-to-Back \u26a0\ufe0f per ESPN schedule data. SAS on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "steam": "Line steamed from -152 to -216 (64pt move) \u2014 heavy professional action on San Antonio Spurs.",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -1289,22 +1000,22 @@
       },
       "news": [
         {
-          "title": "Lakers Get Major Adou Thiero Boost, But New Injury Concern Emerges Before Blazers Game",
-          "source": "Heavy.com",
-          "link": "https://heavy.com/sports/nba/los-angeles-lakers/lakers-injury-report-adou-thiero-mamukelashvili/",
-          "published": "2026-11-06T05:15:55Z"
+          "title": "LeBron James returns to Cleveland with 76ers after stunning free agency decision",
+          "source": "Sporting News",
+          "link": "https://www.sportingnews.com/us/nba/philadelphia-76ers/news/lebron-james-returns-cleveland-76ers-after-stunning-free-agency-decision/9704e012867845cd95b12cbd",
+          "published": "2026-11-06T11:50:03Z"
         },
         {
-          "title": "NBA rumors: Could Pelicans emerge as Domantas Sabonis trade suitor?",
-          "source": "ClutchPoints",
-          "link": "https://clutchpoints.com/nba/new-orleans-pelicans/nba-rumors-could-pelicans-emerge-as-domantas-sabonis-trade-suitor",
-          "published": "2026-11-06T05:10:08Z"
+          "title": "New York Knicks stars name \u2018performative\u2019 Taylor Swift in response to fakest celeb question",
+          "source": "HITC - Football, Gaming, Movies, TV, Music",
+          "link": "https://www.hitc.com/new-york-knicks-stars-name-performative-taylor-swift-in-response-to-fakest-celeb-question/",
+          "published": "2026-11-06T11:40:00Z"
         },
         {
-          "title": "Thunder\u2019s Latest Signing Reveals Unexpected Alex Caruso Connection",
-          "source": "Heavy.com",
-          "link": "https://heavy.com/sports/nba/oklahoma-city-thunder/thunder-dalen-terry-alex-caruso-connection/",
-          "published": "2026-11-06T05:07:17Z"
+          "title": "Kentucky Wildcats News: James Madison Gameday for UK Basketball",
+          "source": "A Sea Of Blue",
+          "link": "https://www.aseaofblue.com/kentucky-wildcats-news/186923/uk-basketball-james-madison-gameday",
+          "published": "2026-11-06T11:40:00Z"
         }
       ]
     },
@@ -1354,7 +1065,7 @@
           "old_ml": "\u2014",
           "new_ml": "\u2014"
         },
-        "snapshot_time": "November 07, 2026 at 01:40 AM UTC"
+        "snapshot_time": "November 07, 2026 at 05:20 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -1434,22 +1145,22 @@
       },
       "news": [
         {
-          "title": "Lakers Get Major Adou Thiero Boost, But New Injury Concern Emerges Before Blazers Game",
-          "source": "Heavy.com",
-          "link": "https://heavy.com/sports/nba/los-angeles-lakers/lakers-injury-report-adou-thiero-mamukelashvili/",
-          "published": "2026-11-06T05:15:55Z"
+          "title": "LeBron James returns to Cleveland with 76ers after stunning free agency decision",
+          "source": "Sporting News",
+          "link": "https://www.sportingnews.com/us/nba/philadelphia-76ers/news/lebron-james-returns-cleveland-76ers-after-stunning-free-agency-decision/9704e012867845cd95b12cbd",
+          "published": "2026-11-06T11:50:03Z"
         },
         {
-          "title": "NBA rumors: Could Pelicans emerge as Domantas Sabonis trade suitor?",
-          "source": "ClutchPoints",
-          "link": "https://clutchpoints.com/nba/new-orleans-pelicans/nba-rumors-could-pelicans-emerge-as-domantas-sabonis-trade-suitor",
-          "published": "2026-11-06T05:10:08Z"
+          "title": "New York Knicks stars name \u2018performative\u2019 Taylor Swift in response to fakest celeb question",
+          "source": "HITC - Football, Gaming, Movies, TV, Music",
+          "link": "https://www.hitc.com/new-york-knicks-stars-name-performative-taylor-swift-in-response-to-fakest-celeb-question/",
+          "published": "2026-11-06T11:40:00Z"
         },
         {
-          "title": "Thunder\u2019s Latest Signing Reveals Unexpected Alex Caruso Connection",
-          "source": "Heavy.com",
-          "link": "https://heavy.com/sports/nba/oklahoma-city-thunder/thunder-dalen-terry-alex-caruso-connection/",
-          "published": "2026-11-06T05:07:17Z"
+          "title": "Kentucky Wildcats News: James Madison Gameday for UK Basketball",
+          "source": "A Sea Of Blue",
+          "link": "https://www.aseaofblue.com/kentucky-wildcats-news/186923/uk-basketball-james-madison-gameday",
+          "published": "2026-11-06T11:40:00Z"
         }
       ]
     },
@@ -1499,7 +1210,7 @@
           "old_ml": "\u2014",
           "new_ml": "\u2014"
         },
-        "snapshot_time": "November 07, 2026 at 01:40 AM UTC"
+        "snapshot_time": "November 07, 2026 at 05:20 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -1579,22 +1290,22 @@
       },
       "news": [
         {
-          "title": "Lakers Get Major Adou Thiero Boost, But New Injury Concern Emerges Before Blazers Game",
-          "source": "Heavy.com",
-          "link": "https://heavy.com/sports/nba/los-angeles-lakers/lakers-injury-report-adou-thiero-mamukelashvili/",
-          "published": "2026-11-06T05:15:55Z"
+          "title": "LeBron James returns to Cleveland with 76ers after stunning free agency decision",
+          "source": "Sporting News",
+          "link": "https://www.sportingnews.com/us/nba/philadelphia-76ers/news/lebron-james-returns-cleveland-76ers-after-stunning-free-agency-decision/9704e012867845cd95b12cbd",
+          "published": "2026-11-06T11:50:03Z"
         },
         {
-          "title": "NBA rumors: Could Pelicans emerge as Domantas Sabonis trade suitor?",
-          "source": "ClutchPoints",
-          "link": "https://clutchpoints.com/nba/new-orleans-pelicans/nba-rumors-could-pelicans-emerge-as-domantas-sabonis-trade-suitor",
-          "published": "2026-11-06T05:10:08Z"
+          "title": "New York Knicks stars name \u2018performative\u2019 Taylor Swift in response to fakest celeb question",
+          "source": "HITC - Football, Gaming, Movies, TV, Music",
+          "link": "https://www.hitc.com/new-york-knicks-stars-name-performative-taylor-swift-in-response-to-fakest-celeb-question/",
+          "published": "2026-11-06T11:40:00Z"
         },
         {
-          "title": "Thunder\u2019s Latest Signing Reveals Unexpected Alex Caruso Connection",
-          "source": "Heavy.com",
-          "link": "https://heavy.com/sports/nba/oklahoma-city-thunder/thunder-dalen-terry-alex-caruso-connection/",
-          "published": "2026-11-06T05:07:17Z"
+          "title": "Kentucky Wildcats News: James Madison Gameday for UK Basketball",
+          "source": "A Sea Of Blue",
+          "link": "https://www.aseaofblue.com/kentucky-wildcats-news/186923/uk-basketball-james-madison-gameday",
+          "published": "2026-11-06T11:40:00Z"
         }
       ]
     },
@@ -1644,7 +1355,7 @@
           "old_ml": "\u2014",
           "new_ml": "\u2014"
         },
-        "snapshot_time": "November 07, 2026 at 01:40 AM UTC"
+        "snapshot_time": "November 07, 2026 at 05:20 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -1724,22 +1435,22 @@
       },
       "news": [
         {
-          "title": "Lakers Get Major Adou Thiero Boost, But New Injury Concern Emerges Before Blazers Game",
-          "source": "Heavy.com",
-          "link": "https://heavy.com/sports/nba/los-angeles-lakers/lakers-injury-report-adou-thiero-mamukelashvili/",
-          "published": "2026-11-06T05:15:55Z"
+          "title": "LeBron James returns to Cleveland with 76ers after stunning free agency decision",
+          "source": "Sporting News",
+          "link": "https://www.sportingnews.com/us/nba/philadelphia-76ers/news/lebron-james-returns-cleveland-76ers-after-stunning-free-agency-decision/9704e012867845cd95b12cbd",
+          "published": "2026-11-06T11:50:03Z"
         },
         {
-          "title": "NBA rumors: Could Pelicans emerge as Domantas Sabonis trade suitor?",
-          "source": "ClutchPoints",
-          "link": "https://clutchpoints.com/nba/new-orleans-pelicans/nba-rumors-could-pelicans-emerge-as-domantas-sabonis-trade-suitor",
-          "published": "2026-11-06T05:10:08Z"
+          "title": "New York Knicks stars name \u2018performative\u2019 Taylor Swift in response to fakest celeb question",
+          "source": "HITC - Football, Gaming, Movies, TV, Music",
+          "link": "https://www.hitc.com/new-york-knicks-stars-name-performative-taylor-swift-in-response-to-fakest-celeb-question/",
+          "published": "2026-11-06T11:40:00Z"
         },
         {
-          "title": "Thunder\u2019s Latest Signing Reveals Unexpected Alex Caruso Connection",
-          "source": "Heavy.com",
-          "link": "https://heavy.com/sports/nba/oklahoma-city-thunder/thunder-dalen-terry-alex-caruso-connection/",
-          "published": "2026-11-06T05:07:17Z"
+          "title": "Kentucky Wildcats News: James Madison Gameday for UK Basketball",
+          "source": "A Sea Of Blue",
+          "link": "https://www.aseaofblue.com/kentucky-wildcats-news/186923/uk-basketball-james-madison-gameday",
+          "published": "2026-11-06T11:40:00Z"
         }
       ]
     },
@@ -1789,7 +1500,7 @@
           "old_ml": "\u2014",
           "new_ml": "\u2014"
         },
-        "snapshot_time": "November 07, 2026 at 01:40 AM UTC"
+        "snapshot_time": "November 07, 2026 at 05:20 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -1869,22 +1580,22 @@
       },
       "news": [
         {
-          "title": "Lakers Get Major Adou Thiero Boost, But New Injury Concern Emerges Before Blazers Game",
-          "source": "Heavy.com",
-          "link": "https://heavy.com/sports/nba/los-angeles-lakers/lakers-injury-report-adou-thiero-mamukelashvili/",
-          "published": "2026-11-06T05:15:55Z"
+          "title": "LeBron James returns to Cleveland with 76ers after stunning free agency decision",
+          "source": "Sporting News",
+          "link": "https://www.sportingnews.com/us/nba/philadelphia-76ers/news/lebron-james-returns-cleveland-76ers-after-stunning-free-agency-decision/9704e012867845cd95b12cbd",
+          "published": "2026-11-06T11:50:03Z"
         },
         {
-          "title": "NBA rumors: Could Pelicans emerge as Domantas Sabonis trade suitor?",
-          "source": "ClutchPoints",
-          "link": "https://clutchpoints.com/nba/new-orleans-pelicans/nba-rumors-could-pelicans-emerge-as-domantas-sabonis-trade-suitor",
-          "published": "2026-11-06T05:10:08Z"
+          "title": "New York Knicks stars name \u2018performative\u2019 Taylor Swift in response to fakest celeb question",
+          "source": "HITC - Football, Gaming, Movies, TV, Music",
+          "link": "https://www.hitc.com/new-york-knicks-stars-name-performative-taylor-swift-in-response-to-fakest-celeb-question/",
+          "published": "2026-11-06T11:40:00Z"
         },
         {
-          "title": "Thunder\u2019s Latest Signing Reveals Unexpected Alex Caruso Connection",
-          "source": "Heavy.com",
-          "link": "https://heavy.com/sports/nba/oklahoma-city-thunder/thunder-dalen-terry-alex-caruso-connection/",
-          "published": "2026-11-06T05:07:17Z"
+          "title": "Kentucky Wildcats News: James Madison Gameday for UK Basketball",
+          "source": "A Sea Of Blue",
+          "link": "https://www.aseaofblue.com/kentucky-wildcats-news/186923/uk-basketball-james-madison-gameday",
+          "published": "2026-11-06T11:40:00Z"
         }
       ]
     }
@@ -1907,28 +1618,28 @@
       "profit": 298.48
     },
     "HIGH": {
-      "wins": 27,
+      "wins": 28,
       "losses": 5,
-      "total": 32,
-      "win_pct": 84.4,
-      "roi": 1.7,
-      "profit": 54.63
+      "total": 33,
+      "win_pct": 84.8,
+      "roi": 2.0,
+      "profit": 65.74
     },
     "overall_7d": {
-      "wins": 31,
+      "wins": 32,
       "losses": 9,
-      "total": 40,
-      "win_pct": 77.5,
-      "roi": 12.7,
-      "profit": 507.14
+      "total": 41,
+      "win_pct": 78.0,
+      "roi": 12.6,
+      "profit": 518.25
     },
     "overall_30d": {
-      "wins": 68,
+      "wins": 69,
       "losses": 29,
-      "total": 97,
-      "win_pct": 70.1,
-      "roi": 1.3,
-      "profit": 130.78
+      "total": 98,
+      "win_pct": 70.4,
+      "roi": 1.4,
+      "profit": 141.89
     }
   }
 }
