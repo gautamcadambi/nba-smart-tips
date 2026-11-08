@@ -2282,9 +2282,11 @@
       "win_probability": 67.5,
       "commence_time": "2026-11-07T22:10:00Z",
       "date": "2026-11-07T01:40:33.149716+00:00",
-      "graded": false,
-      "result": null,
-      "profit": null
+      "graded": true,
+      "result": "WIN",
+      "profit": 42.19,
+      "home_score": 102,
+      "away_score": 114
     },
     {
       "game": "Orlando Magic @ Golden State Warriors",
@@ -2355,6 +2357,90 @@
       "graded": false,
       "result": null,
       "profit": null
+    },
+    {
+      "game": "Philadelphia 76ers @ Chicago Bulls",
+      "pick": "Philadelphia 76ers",
+      "pick_abbr": "PHI",
+      "moneyline": "-333",
+      "moneyline_raw": -333,
+      "confidence": "HIGH",
+      "win_probability": 73.9,
+      "commence_time": "2026-11-08T20:40:00Z",
+      "date": "2026-11-08T01:08:16.431700+00:00",
+      "graded": false,
+      "result": null,
+      "profit": null
+    },
+    {
+      "game": "Los Angeles Lakers @ Detroit Pistons",
+      "pick": "Detroit Pistons",
+      "pick_abbr": "DET",
+      "moneyline": "-185",
+      "moneyline_raw": -185,
+      "confidence": "MEDIUM",
+      "win_probability": 62.3,
+      "commence_time": "2026-11-08T23:10:00Z",
+      "date": "2026-11-08T01:08:16.431700+00:00",
+      "graded": false,
+      "result": null,
+      "profit": null
+    },
+    {
+      "game": "Utah Jazz @ Minnesota Timberwolves",
+      "pick": "Minnesota Timberwolves",
+      "pick_abbr": "MIN",
+      "moneyline": "-569",
+      "moneyline_raw": -569,
+      "confidence": "HIGH",
+      "win_probability": 81.7,
+      "commence_time": "2026-11-09T00:10:00Z",
+      "date": "2026-11-08T01:08:16.431700+00:00",
+      "graded": false,
+      "result": null,
+      "profit": null
+    },
+    {
+      "game": "Boston Celtics @ Milwaukee Bucks",
+      "pick": "Boston Celtics",
+      "pick_abbr": "BOS",
+      "moneyline": "-650",
+      "moneyline_raw": -650,
+      "confidence": "HIGH",
+      "win_probability": 83.2,
+      "commence_time": "2026-11-09T01:10:00Z",
+      "date": "2026-11-08T01:08:16.431700+00:00",
+      "graded": false,
+      "result": null,
+      "profit": null
+    },
+    {
+      "game": "New Orleans Pelicans @ Los Angeles Clippers",
+      "pick": "New Orleans Pelicans",
+      "pick_abbr": "NOP",
+      "moneyline": "-119",
+      "moneyline_raw": -119,
+      "confidence": "LOW",
+      "win_probability": 52.1,
+      "commence_time": "2026-11-09T02:10:00Z",
+      "date": "2026-11-08T01:08:16.431700+00:00",
+      "graded": false,
+      "result": null,
+      "profit": null
+    },
+    {
+      "game": "Miami Heat @ Sacramento Kings",
+      "pick": "Miami Heat",
+      "pick_abbr": "MIA",
+      "moneyline": "-316",
+      "moneyline_raw": -316,
+      "confidence": "HIGH",
+      "win_probability": 72.9,
+      "commence_time": "2026-11-09T02:10:00Z",
+      "date": "2026-11-08T01:08:16.431700+00:00",
+      "graded": false,
+      "result": null,
+      "profit": null
     }
   ],
   "summary": {
@@ -2367,12 +2453,12 @@
       "profit": -24.5
     },
     "MEDIUM": {
-      "wins": 43,
+      "wins": 44,
       "losses": 19,
-      "total": 62,
-      "win_pct": 69.4,
-      "roi": 4.8,
-      "profit": 298.48
+      "total": 63,
+      "win_pct": 69.8,
+      "roi": 5.4,
+      "profit": 340.67
     },
     "HIGH": {
       "wins": 28,
@@ -2383,21 +2469,21 @@
       "profit": 65.74
     },
     "overall_7d": {
-      "wins": 32,
+      "wins": 33,
       "losses": 9,
-      "total": 41,
-      "win_pct": 78.0,
-      "roi": 12.6,
-      "profit": 518.25
+      "total": 42,
+      "win_pct": 78.6,
+      "roi": 13.3,
+      "profit": 560.44
     },
     "overall_30d": {
-      "wins": 69,
+      "wins": 70,
       "losses": 29,
-      "total": 98,
-      "win_pct": 70.4,
-      "roi": 1.4,
-      "profit": 141.89
+      "total": 99,
+      "win_pct": 70.7,
+      "roi": 1.9,
+      "profit": 184.08
     }
   },
-  "last_graded": "2026-11-07T11:49:58.248441+00:00"
+  "last_graded": "2026-11-08T01:07:27.703337+00:00"
 }
