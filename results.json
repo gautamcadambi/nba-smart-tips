@@ -452,9 +452,11 @@
       "win_probability": 60.4,
       "commence_time": "2026-11-26T03:10:00Z",
       "date": "2026-08-12T22:41:16.274924+00:00",
-      "graded": false,
-      "result": null,
-      "profit": null
+      "graded": true,
+      "result": "WIN",
+      "profit": 58.82,
+      "home_score": 103,
+      "away_score": 125
     },
     {
       "game": "Miami Heat @ New York Knicks",
@@ -2477,12 +2479,12 @@
       "profit": 175.5
     },
     "MEDIUM": {
-      "wins": 46,
+      "wins": 47,
       "losses": 19,
-      "total": 65,
-      "win_pct": 70.8,
-      "roi": 6.6,
-      "profit": 431.79
+      "total": 66,
+      "win_pct": 71.2,
+      "roi": 7.4,
+      "profit": 490.61
     },
     "HIGH": {
       "wins": 29,
@@ -2509,5 +2511,5 @@
       "profit": 495.78
     }
   },
-  "last_graded": "2026-11-08T05:17:25.110790+00:00"
+  "last_graded": "2026-11-08T12:00:16.895466+00:00"
 }
