@@ -1,901 +1,28 @@
 {
-  "last_updated": "November 09, 2026 at 01:28 AM UTC",
+  "last_updated": "November 09, 2026 at 05:29 AM UTC",
   "total_games": 13,
   "games": [
     {
-      "game": "Los Angeles Lakers @ Detroit Pistons",
-      "home_team": "Detroit Pistons",
+      "game": "Los Angeles Lakers @ Atlanta Hawks",
+      "home_team": "Atlanta Hawks",
       "away_team": "Los Angeles Lakers",
-      "home_abbr": "DET",
+      "home_abbr": "ATL",
       "away_abbr": "LAL",
-      "home_ml": "+2200",
-      "away_ml": "-8000",
-      "home_ml_raw": 2200,
-      "away_ml_raw": -8000,
-      "home_prob": 4.2,
-      "away_prob": 95.8,
-      "spread": "DET +5.5",
+      "home_ml": "+117",
+      "away_ml": "-138",
+      "home_ml_raw": 117,
+      "away_ml_raw": -138,
+      "home_prob": 44.3,
+      "away_prob": 55.7,
+      "spread": "ATL +2.5",
       "favorite": "Los Angeles Lakers",
       "pick": "Los Angeles Lakers",
       "pick_abbr": "LAL",
-      "moneyline": "-8000",
-      "win_probability": 95.8,
-      "confidence": "HIGH",
-      "confidence_stars": "\u2605\u2605\u2605",
-      "commence_time": "2026-11-08T23:11:00Z",
-      "line_movement": {
-        "home": {
-          "direction": "longer",
-          "points_moved": 2391,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM +2200 \u2190 -191",
-          "old_ml": "-191",
-          "new_ml": "+2200"
-        },
-        "away": {
-          "direction": "shorter",
-          "points_moved": 8160,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -8000 \u2190 +160",
-          "old_ml": "+160",
-          "new_ml": "-8000"
-        },
-        "pick": {
-          "direction": "shorter",
-          "points_moved": 8160,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -8000 \u2190 +160",
-          "old_ml": "+160",
-          "new_ml": "-8000"
-        },
-        "snapshot_time": "November 08, 2026 at 04:55 PM UTC"
-      },
-      "fatigue": {
-        "home": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
-          "last_game": "Nov 08",
-          "days_rest": 1,
-          "games_last_4d": 1,
-          "travel_miles": 0,
-          "travel_desc": "",
-          "source": "ESPN Scoreboard API"
-        },
-        "away": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
-          "last_game": "Nov 08",
-          "days_rest": 1,
-          "games_last_4d": 2,
-          "travel_miles": 1980,
-          "travel_desc": "1,980 mi road trip",
-          "source": "ESPN Scoreboard API"
-        }
-      },
-      "edge_factors": [
-        "\ud83d\udd25 Sharp steam detected",
-        "\ud83d\udca4 DET fatigued (B2B) \u2014 source: ESPN"
-      ],
-      "injury_notes": "No key injuries.",
-      "sharp": {
-        "away_t": null,
-        "home_t": null,
-        "source": null,
-        "sharp_signal": null,
-        "sharp_label": "Pending \u2014 check closer to tip-off",
-        "rlm": false
-      },
-      "form": {
-        "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        },
-        "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        }
-      },
-      "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
-      },
-      "briefing": {
-        "trend": "DET on Back-to-Back \u26a0\ufe0f per ESPN schedule data. LAL on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from +160 to -8000 (8160pt move) \u2014 heavy professional action on Los Angeles Lakers.",
-        "injury_notes": "No key injuries."
-      },
-      "live": {
-        "status": "pre",
-        "status_detail": "Upcoming",
-        "period": 0,
-        "clock": "",
-        "home_score": 0,
-        "away_score": 0,
-        "spread_alert": null
-      },
-      "news": [
-        {
-          "title": "Things you should know about the newest Raptor, Kevin McCullar Jr.",
-          "source": "RaptorsHQ",
-          "link": "https://www.raptorshq.com/raptors-roster/52713/things-you-should-know-about-the-newest-raptor-kevin-mccullar-jr",
-          "published": "2026-11-08T01:16:20Z"
-        },
-        {
-          "title": "Lakers vs. Pistons Preview: Strength vs. strength",
-          "source": "Silver Screen and Roll ",
-          "link": "https://www.silverscreenandroll.com/lakers-game-previews/128587/lakers-vs-pistons-discussion-injury-report-how-to-watch-tv-stream-start-time-luka-doncic-cade-cunningham",
-          "published": "2026-11-08T01:09:31Z"
-        },
-        {
-          "title": "Nuggets hold off Pacers in NBA Mexico City game",
-          "source": "Yahoo Entertainment",
-          "link": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_6ca40ce7-d37c-405e-b794-82c3327425a8",
-          "published": "2026-11-08T01:07:46Z"
-        }
-      ]
-    },
-    {
-      "game": "Utah Jazz @ Minnesota Timberwolves",
-      "home_team": "Minnesota Timberwolves",
-      "away_team": "Utah Jazz",
-      "home_abbr": "MIN",
-      "away_abbr": "UTA",
-      "home_ml": "-450",
-      "away_ml": "+320",
-      "home_ml_raw": -450,
-      "away_ml_raw": 320,
-      "home_prob": 77.5,
-      "away_prob": 22.5,
-      "spread": "MIN -8.5",
-      "favorite": "Minnesota Timberwolves",
-      "pick": "Minnesota Timberwolves",
-      "pick_abbr": "MIN",
-      "moneyline": "-450",
-      "win_probability": 77.5,
-      "confidence": "HIGH",
-      "confidence_stars": "\u2605\u2605\u2605",
-      "commence_time": "2026-11-09T00:11:00Z",
-      "line_movement": {
-        "home": {
-          "direction": "longer",
-          "points_moved": 200,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -450 \u2190 -650",
-          "old_ml": "-650",
-          "new_ml": "-450"
-        },
-        "away": {
-          "direction": "shorter",
-          "points_moved": 150,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM +320 \u2190 +470",
-          "old_ml": "+470",
-          "new_ml": "+320"
-        },
-        "pick": {
-          "direction": "longer",
-          "points_moved": 200,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -450 \u2190 -650",
-          "old_ml": "-650",
-          "new_ml": "-450"
-        },
-        "snapshot_time": "November 08, 2026 at 04:55 PM UTC"
-      },
-      "fatigue": {
-        "home": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
-          "last_game": "Nov 08",
-          "days_rest": 1,
-          "games_last_4d": 2,
-          "travel_miles": 1053,
-          "travel_desc": "1,053 mi road trip",
-          "source": "ESPN Scoreboard API"
-        },
-        "away": {
-          "status": "FRESH",
-          "label": "Well rested \u2705",
-          "battery": 100,
-          "last_game": "\u2014",
-          "days_rest": 99,
-          "games_last_4d": 0,
-          "travel_miles": 0,
-          "travel_desc": "",
-          "source": "ESPN Scoreboard API"
-        }
-      },
-      "edge_factors": [
-        "\ud83d\udd25 Sharp steam detected"
-      ],
-      "injury_notes": "No key injuries.",
-      "sharp": {
-        "away_t": null,
-        "home_t": null,
-        "source": null,
-        "sharp_signal": null,
-        "sharp_label": "Pending \u2014 check closer to tip-off",
-        "rlm": false
-      },
-      "form": {
-        "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        },
-        "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        }
-      },
-      "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
-      },
-      "briefing": {
-        "trend": "MIN on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -650 to -450 (200pt move) \u2014 heavy professional action on Minnesota Timberwolves.",
-        "injury_notes": "No key injuries."
-      },
-      "live": {
-        "status": "pre",
-        "status_detail": "Upcoming",
-        "period": 0,
-        "clock": "",
-        "home_score": 0,
-        "away_score": 0,
-        "spread_alert": null
-      },
-      "news": [
-        {
-          "title": "Things you should know about the newest Raptor, Kevin McCullar Jr.",
-          "source": "RaptorsHQ",
-          "link": "https://www.raptorshq.com/raptors-roster/52713/things-you-should-know-about-the-newest-raptor-kevin-mccullar-jr",
-          "published": "2026-11-08T01:16:20Z"
-        },
-        {
-          "title": "Lakers vs. Pistons Preview: Strength vs. strength",
-          "source": "Silver Screen and Roll ",
-          "link": "https://www.silverscreenandroll.com/lakers-game-previews/128587/lakers-vs-pistons-discussion-injury-report-how-to-watch-tv-stream-start-time-luka-doncic-cade-cunningham",
-          "published": "2026-11-08T01:09:31Z"
-        },
-        {
-          "title": "Nuggets hold off Pacers in NBA Mexico City game",
-          "source": "Yahoo Entertainment",
-          "link": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_6ca40ce7-d37c-405e-b794-82c3327425a8",
-          "published": "2026-11-08T01:07:46Z"
-        }
-      ]
-    },
-    {
-      "game": "Brooklyn Nets @ Dallas Mavericks",
-      "home_team": "Dallas Mavericks",
-      "away_team": "Brooklyn Nets",
-      "home_abbr": "DAL",
-      "away_abbr": "BKN",
-      "home_ml": "-5000",
-      "away_ml": "+1800",
-      "home_ml_raw": -5000,
-      "away_ml_raw": 1800,
-      "home_prob": 94.9,
-      "away_prob": 5.1,
-      "spread": "DAL -22.5",
-      "favorite": "Dallas Mavericks",
-      "pick": "Dallas Mavericks",
-      "pick_abbr": "DAL",
-      "moneyline": "-5000",
-      "win_probability": 94.9,
-      "confidence": "HIGH",
-      "confidence_stars": "\u2605\u2605\u2605",
-      "commence_time": "2026-11-09T00:41:00Z",
-      "line_movement": {
-        "home": {
-          "direction": "shorter",
-          "points_moved": 4676,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -5000 \u2190 -324",
-          "old_ml": "-324",
-          "new_ml": "-5000"
-        },
-        "away": {
-          "direction": "longer",
-          "points_moved": 1539,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM +1800 \u2190 +261",
-          "old_ml": "+261",
-          "new_ml": "+1800"
-        },
-        "pick": {
-          "direction": "shorter",
-          "points_moved": 4676,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -5000 \u2190 -324",
-          "old_ml": "-324",
-          "new_ml": "-5000"
-        },
-        "snapshot_time": "November 08, 2026 at 04:55 PM UTC"
-      },
-      "fatigue": {
-        "home": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
-          "last_game": "Nov 08",
-          "days_rest": 1,
-          "games_last_4d": 2,
-          "travel_miles": 0,
-          "travel_desc": "",
-          "source": "ESPN Scoreboard API"
-        },
-        "away": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
-          "last_game": "Nov 08",
-          "days_rest": 1,
-          "games_last_4d": 2,
-          "travel_miles": 1372,
-          "travel_desc": "1,372 mi road trip",
-          "source": "ESPN Scoreboard API"
-        }
-      },
-      "edge_factors": [
-        "\ud83d\udd25 Sharp steam detected",
-        "\ud83d\udca4 BKN fatigued (B2B) \u2014 source: ESPN"
-      ],
-      "injury_notes": "No key injuries.",
-      "sharp": {
-        "away_t": null,
-        "home_t": null,
-        "source": null,
-        "sharp_signal": null,
-        "sharp_label": "Pending \u2014 check closer to tip-off",
-        "rlm": false
-      },
-      "form": {
-        "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        },
-        "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        }
-      },
-      "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
-      },
-      "briefing": {
-        "trend": "DAL on Back-to-Back \u26a0\ufe0f per ESPN schedule data. BKN on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -324 to -5000 (4676pt move) \u2014 heavy professional action on Dallas Mavericks.",
-        "injury_notes": "No key injuries."
-      },
-      "live": {
-        "status": "pre",
-        "status_detail": "Upcoming",
-        "period": 0,
-        "clock": "",
-        "home_score": 0,
-        "away_score": 0,
-        "spread_alert": null
-      },
-      "news": [
-        {
-          "title": "Things you should know about the newest Raptor, Kevin McCullar Jr.",
-          "source": "RaptorsHQ",
-          "link": "https://www.raptorshq.com/raptors-roster/52713/things-you-should-know-about-the-newest-raptor-kevin-mccullar-jr",
-          "published": "2026-11-08T01:16:20Z"
-        },
-        {
-          "title": "Lakers vs. Pistons Preview: Strength vs. strength",
-          "source": "Silver Screen and Roll ",
-          "link": "https://www.silverscreenandroll.com/lakers-game-previews/128587/lakers-vs-pistons-discussion-injury-report-how-to-watch-tv-stream-start-time-luka-doncic-cade-cunningham",
-          "published": "2026-11-08T01:09:31Z"
-        },
-        {
-          "title": "Nuggets hold off Pacers in NBA Mexico City game",
-          "source": "Yahoo Entertainment",
-          "link": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_6ca40ce7-d37c-405e-b794-82c3327425a8",
-          "published": "2026-11-08T01:07:46Z"
-        }
-      ]
-    },
-    {
-      "game": "Boston Celtics @ Milwaukee Bucks",
-      "home_team": "Milwaukee Bucks",
-      "away_team": "Boston Celtics",
-      "home_abbr": "MIL",
-      "away_abbr": "BOS",
-      "home_ml": "+200",
-      "away_ml": "-270",
-      "home_ml_raw": 200,
-      "away_ml_raw": -270,
-      "home_prob": 31.4,
-      "away_prob": 68.6,
-      "spread": "MIL +6.5",
-      "favorite": "Boston Celtics",
-      "pick": "Boston Celtics",
-      "pick_abbr": "BOS",
-      "moneyline": "-270",
-      "win_probability": 68.6,
-      "confidence": "MEDIUM",
-      "confidence_stars": "\u2605\u2605\u2606",
-      "commence_time": "2026-11-09T01:12:00Z",
-      "line_movement": {
-        "home": {
-          "direction": "shorter",
-          "points_moved": 330,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM +200 \u2190 +530",
-          "old_ml": "+530",
-          "new_ml": "+200"
-        },
-        "away": {
-          "direction": "longer",
-          "points_moved": 480,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -270 \u2190 -750",
-          "old_ml": "-750",
-          "new_ml": "-270"
-        },
-        "pick": {
-          "direction": "longer",
-          "points_moved": 480,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -270 \u2190 -750",
-          "old_ml": "-750",
-          "new_ml": "-270"
-        },
-        "snapshot_time": "November 08, 2026 at 04:55 PM UTC"
-      },
-      "fatigue": {
-        "home": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
-          "last_game": "Nov 08",
-          "days_rest": 1,
-          "games_last_4d": 2,
-          "travel_miles": 0,
-          "travel_desc": "",
-          "source": "ESPN Scoreboard API"
-        },
-        "away": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
-          "last_game": "Nov 08",
-          "days_rest": 1,
-          "games_last_4d": 2,
-          "travel_miles": 856,
-          "travel_desc": "856 mi road trip",
-          "source": "ESPN Scoreboard API"
-        }
-      },
-      "edge_factors": [
-        "\ud83d\udd25 Sharp steam detected",
-        "\ud83d\udca4 MIL fatigued (B2B) \u2014 source: ESPN"
-      ],
-      "injury_notes": "No key injuries.",
-      "sharp": {
-        "away_t": null,
-        "home_t": null,
-        "source": null,
-        "sharp_signal": null,
-        "sharp_label": "Pending \u2014 check closer to tip-off",
-        "rlm": false
-      },
-      "form": {
-        "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        },
-        "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        }
-      },
-      "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
-      },
-      "briefing": {
-        "trend": "MIL on Back-to-Back \u26a0\ufe0f per ESPN schedule data. BOS on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -750 to -270 (480pt move) \u2014 heavy professional action on Boston Celtics.",
-        "injury_notes": "No key injuries."
-      },
-      "live": {
-        "status": "pre",
-        "status_detail": "Upcoming",
-        "period": 0,
-        "clock": "",
-        "home_score": 0,
-        "away_score": 0,
-        "spread_alert": null
-      },
-      "news": [
-        {
-          "title": "Things you should know about the newest Raptor, Kevin McCullar Jr.",
-          "source": "RaptorsHQ",
-          "link": "https://www.raptorshq.com/raptors-roster/52713/things-you-should-know-about-the-newest-raptor-kevin-mccullar-jr",
-          "published": "2026-11-08T01:16:20Z"
-        },
-        {
-          "title": "Lakers vs. Pistons Preview: Strength vs. strength",
-          "source": "Silver Screen and Roll ",
-          "link": "https://www.silverscreenandroll.com/lakers-game-previews/128587/lakers-vs-pistons-discussion-injury-report-how-to-watch-tv-stream-start-time-luka-doncic-cade-cunningham",
-          "published": "2026-11-08T01:09:31Z"
-        },
-        {
-          "title": "Nuggets hold off Pacers in NBA Mexico City game",
-          "source": "Yahoo Entertainment",
-          "link": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_6ca40ce7-d37c-405e-b794-82c3327425a8",
-          "published": "2026-11-08T01:07:46Z"
-        }
-      ]
-    },
-    {
-      "game": "New Orleans Pelicans @ Los Angeles Clippers",
-      "home_team": "Los Angeles Clippers",
-      "away_team": "New Orleans Pelicans",
-      "home_abbr": "LAC",
-      "away_abbr": "NOP",
-      "home_ml": "+103",
-      "away_ml": "-121",
-      "home_ml_raw": 103,
-      "away_ml_raw": -121,
-      "home_prob": 47.4,
-      "away_prob": 52.6,
-      "spread": "LAC +1.5",
-      "favorite": "New Orleans Pelicans",
-      "pick": "New Orleans Pelicans",
-      "pick_abbr": "NOP",
-      "moneyline": "-121",
-      "win_probability": 52.6,
+      "moneyline": "-138",
+      "win_probability": 55.7,
       "confidence": "LOW",
       "confidence_stars": "\u2605\u2606\u2606",
-      "commence_time": "2026-11-09T02:10:00Z",
-      "line_movement": {
-        "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
-          "old_ml": "+103",
-          "new_ml": "+103"
-        },
-        "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
-          "old_ml": "-121",
-          "new_ml": "-121"
-        },
-        "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
-          "old_ml": "-121",
-          "new_ml": "-121"
-        },
-        "snapshot_time": "November 08, 2026 at 04:55 PM UTC"
-      },
-      "fatigue": {
-        "home": {
-          "status": "FRESH",
-          "label": "Well rested \u2705",
-          "battery": 100,
-          "last_game": "\u2014",
-          "days_rest": 99,
-          "games_last_4d": 0,
-          "travel_miles": 0,
-          "travel_desc": "",
-          "source": "ESPN Scoreboard API"
-        },
-        "away": {
-          "status": "RESTED",
-          "label": "2 days rest \u2705",
-          "battery": 88,
-          "last_game": "Nov 06",
-          "days_rest": 3,
-          "games_last_4d": 1,
-          "travel_miles": 0,
-          "travel_desc": "",
-          "source": "ESPN Scoreboard API"
-        }
-      },
-      "edge_factors": [
-        "\ud83d\udcca 5.2pt probability edge"
-      ],
-      "injury_notes": "No key injuries.",
-      "sharp": {
-        "away_t": null,
-        "home_t": null,
-        "source": null,
-        "sharp_signal": null,
-        "sharp_label": "Pending \u2014 check closer to tip-off",
-        "rlm": false
-      },
-      "form": {
-        "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        },
-        "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        }
-      },
-      "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
-      },
-      "briefing": {
-        "trend": "New Orleans Pelicans hold a 52.6% edge.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
-        "injury_notes": "No key injuries."
-      },
-      "live": {
-        "status": "pre",
-        "status_detail": "Upcoming",
-        "period": 0,
-        "clock": "",
-        "home_score": 0,
-        "away_score": 0,
-        "spread_alert": null
-      },
-      "news": [
-        {
-          "title": "Things you should know about the newest Raptor, Kevin McCullar Jr.",
-          "source": "RaptorsHQ",
-          "link": "https://www.raptorshq.com/raptors-roster/52713/things-you-should-know-about-the-newest-raptor-kevin-mccullar-jr",
-          "published": "2026-11-08T01:16:20Z"
-        },
-        {
-          "title": "Lakers vs. Pistons Preview: Strength vs. strength",
-          "source": "Silver Screen and Roll ",
-          "link": "https://www.silverscreenandroll.com/lakers-game-previews/128587/lakers-vs-pistons-discussion-injury-report-how-to-watch-tv-stream-start-time-luka-doncic-cade-cunningham",
-          "published": "2026-11-08T01:09:31Z"
-        },
-        {
-          "title": "Nuggets hold off Pacers in NBA Mexico City game",
-          "source": "Yahoo Entertainment",
-          "link": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_6ca40ce7-d37c-405e-b794-82c3327425a8",
-          "published": "2026-11-08T01:07:46Z"
-        }
-      ]
-    },
-    {
-      "game": "Miami Heat @ Sacramento Kings",
-      "home_team": "Sacramento Kings",
-      "away_team": "Miami Heat",
-      "home_abbr": "SAC",
-      "away_abbr": "MIA",
-      "home_ml": "+432",
-      "away_ml": "-580",
-      "home_ml_raw": 432,
-      "away_ml_raw": -580,
-      "home_prob": 18.1,
-      "away_prob": 81.9,
-      "spread": "SAC +11.5",
-      "favorite": "Miami Heat",
-      "pick": "Miami Heat",
-      "pick_abbr": "MIA",
-      "moneyline": "-580",
-      "win_probability": 81.9,
-      "confidence": "HIGH",
-      "confidence_stars": "\u2605\u2605\u2605",
-      "commence_time": "2026-11-09T02:10:00Z",
-      "line_movement": {
-        "home": {
-          "direction": "longer",
-          "points_moved": 86,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM +432 \u2190 +346",
-          "old_ml": "+346",
-          "new_ml": "+432"
-        },
-        "away": {
-          "direction": "shorter",
-          "points_moved": 134,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -580 \u2190 -446",
-          "old_ml": "-446",
-          "new_ml": "-580"
-        },
-        "pick": {
-          "direction": "shorter",
-          "points_moved": 134,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -580 \u2190 -446",
-          "old_ml": "-446",
-          "new_ml": "-580"
-        },
-        "snapshot_time": "November 08, 2026 at 04:55 PM UTC"
-      },
-      "fatigue": {
-        "home": {
-          "status": "RESTED",
-          "label": "2 days rest \u2705",
-          "battery": 88,
-          "last_game": "Nov 06",
-          "days_rest": 3,
-          "games_last_4d": 1,
-          "travel_miles": 0,
-          "travel_desc": "",
-          "source": "ESPN Scoreboard API"
-        },
-        "away": {
-          "status": "FRESH",
-          "label": "Well rested \u2705",
-          "battery": 100,
-          "last_game": "Nov 05",
-          "days_rest": 4,
-          "games_last_4d": 1,
-          "travel_miles": 2589,
-          "travel_desc": "2,589 mi road trip",
-          "source": "ESPN Scoreboard API"
-        }
-      },
-      "edge_factors": [
-        "\ud83d\udd25 Sharp steam detected"
-      ],
-      "injury_notes": "No key injuries.",
-      "sharp": {
-        "away_t": null,
-        "home_t": null,
-        "source": null,
-        "sharp_signal": null,
-        "sharp_label": "Pending \u2014 check closer to tip-off",
-        "rlm": false
-      },
-      "form": {
-        "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        },
-        "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        }
-      },
-      "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
-      },
-      "briefing": {
-        "trend": "Miami Heat hold a 81.9% edge.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -446 to -580 (134pt move) \u2014 heavy professional action on Miami Heat.",
-        "injury_notes": "No key injuries."
-      },
-      "live": {
-        "status": "pre",
-        "status_detail": "Upcoming",
-        "period": 0,
-        "clock": "",
-        "home_score": 0,
-        "away_score": 0,
-        "spread_alert": null
-      },
-      "news": [
-        {
-          "title": "Things you should know about the newest Raptor, Kevin McCullar Jr.",
-          "source": "RaptorsHQ",
-          "link": "https://www.raptorshq.com/raptors-roster/52713/things-you-should-know-about-the-newest-raptor-kevin-mccullar-jr",
-          "published": "2026-11-08T01:16:20Z"
-        },
-        {
-          "title": "Lakers vs. Pistons Preview: Strength vs. strength",
-          "source": "Silver Screen and Roll ",
-          "link": "https://www.silverscreenandroll.com/lakers-game-previews/128587/lakers-vs-pistons-discussion-injury-report-how-to-watch-tv-stream-start-time-luka-doncic-cade-cunningham",
-          "published": "2026-11-08T01:09:31Z"
-        },
-        {
-          "title": "Nuggets hold off Pacers in NBA Mexico City game",
-          "source": "Yahoo Entertainment",
-          "link": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_6ca40ce7-d37c-405e-b794-82c3327425a8",
-          "published": "2026-11-08T01:07:46Z"
-        }
-      ]
-    },
-    {
-      "game": "Denver Nuggets @ Houston Rockets",
-      "home_team": "Houston Rockets",
-      "away_team": "Denver Nuggets",
-      "home_abbr": "HOU",
-      "away_abbr": "DEN",
-      "home_ml": "-291",
-      "away_ml": "+237",
-      "home_ml_raw": -291,
-      "away_ml_raw": 237,
-      "home_prob": 71.5,
-      "away_prob": 28.5,
-      "spread": "HOU -8.5",
-      "favorite": "Houston Rockets",
-      "pick": "Houston Rockets",
-      "pick_abbr": "HOU",
-      "moneyline": "-291",
-      "win_probability": 71.5,
-      "confidence": "MEDIUM",
-      "confidence_stars": "\u2605\u2605\u2606",
-      "commence_time": "2026-11-10T01:40:00Z",
+      "commence_time": "2026-11-10T00:10:00Z",
       "line_movement": {
         "home": {
           "direction": "none",
@@ -922,6 +49,731 @@
           "new_ml": "\u2014"
         },
         "snapshot_time": "\u2014"
+      },
+      "fatigue": {
+        "home": {
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
+          "last_game": "Nov 07",
+          "days_rest": 2,
+          "games_last_4d": 2,
+          "travel_miles": 0,
+          "travel_desc": "",
+          "source": "ESPN Scoreboard API"
+        },
+        "away": {
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Nov 08",
+          "days_rest": 1,
+          "games_last_4d": 2,
+          "travel_miles": 1980,
+          "travel_desc": "1,980 mi road trip",
+          "source": "ESPN Scoreboard API"
+        }
+      },
+      "edge_factors": [
+        "\ud83d\udcca 11.4pt probability edge"
+      ],
+      "injury_notes": "No key injuries.",
+      "sharp": {
+        "away_t": null,
+        "home_t": null,
+        "source": null,
+        "sharp_signal": null,
+        "sharp_label": "Pending \u2014 check closer to tip-off",
+        "rlm": false
+      },
+      "form": {
+        "home": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        },
+        "away": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        }
+      },
+      "h2h": {
+        "total_meetings": 0,
+        "home_wins": 0,
+        "away_wins": 0,
+        "meetings": [],
+        "source": "\u2014"
+      },
+      "briefing": {
+        "trend": "LAL on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "matchup": "Both rosters appear healthy \u2014 clean line.",
+        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "injury_notes": "No key injuries."
+      },
+      "live": {
+        "status": "pre",
+        "status_detail": "Upcoming",
+        "period": 0,
+        "clock": "",
+        "home_score": 0,
+        "away_score": 0,
+        "spread_alert": null
+      },
+      "news": [
+        {
+          "title": "Preview: Surviving a pack of Wolves",
+          "source": "Slcdunk.com",
+          "link": "https://www.slcdunk.com/utah-jazz-game-coverage/70619/preview-surviving-a-pack-of-wolves",
+          "published": "2026-11-08T05:26:51Z"
+        },
+        {
+          "title": "Stephen Curry drops 41 points vs. Magic as Warriors win seventh straight in OT",
+          "source": "Yahoo Entertainment",
+          "link": "https://sports.yahoo.com/nba/article/stephen-curry-drops-41-points-vs-magic-as-warriors-win-seventh-straight-in-ot-052337251.html",
+          "published": "2026-11-08T05:23:00Z"
+        },
+        {
+          "title": "Photos: Best images from Thunder's 114-75 win over Wizards",
+          "source": "USA Today",
+          "link": "https://okcthunderwire.usatoday.com/story/sports/nba/thunder/2026/11/07/photos-best-images-from-thunder-114-75-win-over-wizards/92674421007/",
+          "published": "2026-11-08T05:21:54Z"
+        }
+      ]
+    },
+    {
+      "game": "Cleveland Cavaliers @ Charlotte Hornets",
+      "home_team": "Charlotte Hornets",
+      "away_team": "Cleveland Cavaliers",
+      "home_abbr": "CHA",
+      "away_abbr": "CLE",
+      "home_ml": "+284",
+      "away_ml": "-356",
+      "home_ml_raw": 284,
+      "away_ml_raw": -356,
+      "home_prob": 25.0,
+      "away_prob": 75.0,
+      "spread": "CHA +9.5",
+      "favorite": "Cleveland Cavaliers",
+      "pick": "Cleveland Cavaliers",
+      "pick_abbr": "CLE",
+      "moneyline": "-356",
+      "win_probability": 75.0,
+      "confidence": "HIGH",
+      "confidence_stars": "\u2605\u2605\u2605",
+      "commence_time": "2026-11-10T00:10:00Z",
+      "line_movement": {
+        "home": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "away": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "pick": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "snapshot_time": "\u2014"
+      },
+      "fatigue": {
+        "home": {
+          "status": "RESTED",
+          "label": "2 days rest \u2705",
+          "battery": 88,
+          "last_game": "Nov 06",
+          "days_rest": 3,
+          "games_last_4d": 1,
+          "travel_miles": 0,
+          "travel_desc": "",
+          "source": "ESPN Scoreboard API"
+        },
+        "away": {
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
+          "last_game": "Nov 07",
+          "days_rest": 2,
+          "games_last_4d": 2,
+          "travel_miles": 0,
+          "travel_desc": "",
+          "source": "ESPN Scoreboard API"
+        }
+      },
+      "edge_factors": [
+        "\ud83d\udcca 50.0pt probability edge"
+      ],
+      "injury_notes": "No key injuries.",
+      "sharp": {
+        "away_t": null,
+        "home_t": null,
+        "source": null,
+        "sharp_signal": null,
+        "sharp_label": "Pending \u2014 check closer to tip-off",
+        "rlm": false
+      },
+      "form": {
+        "home": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        },
+        "away": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        }
+      },
+      "h2h": {
+        "total_meetings": 0,
+        "home_wins": 0,
+        "away_wins": 0,
+        "meetings": [],
+        "source": "\u2014"
+      },
+      "briefing": {
+        "trend": "Cleveland Cavaliers hold a 75.0% edge.",
+        "matchup": "Both rosters appear healthy \u2014 clean line.",
+        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "injury_notes": "No key injuries."
+      },
+      "live": {
+        "status": "pre",
+        "status_detail": "Upcoming",
+        "period": 0,
+        "clock": "",
+        "home_score": 0,
+        "away_score": 0,
+        "spread_alert": null
+      },
+      "news": [
+        {
+          "title": "Preview: Surviving a pack of Wolves",
+          "source": "Slcdunk.com",
+          "link": "https://www.slcdunk.com/utah-jazz-game-coverage/70619/preview-surviving-a-pack-of-wolves",
+          "published": "2026-11-08T05:26:51Z"
+        },
+        {
+          "title": "Stephen Curry drops 41 points vs. Magic as Warriors win seventh straight in OT",
+          "source": "Yahoo Entertainment",
+          "link": "https://sports.yahoo.com/nba/article/stephen-curry-drops-41-points-vs-magic-as-warriors-win-seventh-straight-in-ot-052337251.html",
+          "published": "2026-11-08T05:23:00Z"
+        },
+        {
+          "title": "Photos: Best images from Thunder's 114-75 win over Wizards",
+          "source": "USA Today",
+          "link": "https://okcthunderwire.usatoday.com/story/sports/nba/thunder/2026/11/07/photos-best-images-from-thunder-114-75-win-over-wizards/92674421007/",
+          "published": "2026-11-08T05:21:54Z"
+        }
+      ]
+    },
+    {
+      "game": "Washington Wizards @ Detroit Pistons",
+      "home_team": "Detroit Pistons",
+      "away_team": "Washington Wizards",
+      "home_abbr": "DET",
+      "away_abbr": "WAS",
+      "home_ml": "-468",
+      "away_ml": "+361",
+      "home_ml_raw": -468,
+      "away_ml_raw": 361,
+      "home_prob": 79.2,
+      "away_prob": 20.8,
+      "spread": "DET -9.5",
+      "favorite": "Detroit Pistons",
+      "pick": "Detroit Pistons",
+      "pick_abbr": "DET",
+      "moneyline": "-468",
+      "win_probability": 79.2,
+      "confidence": "HIGH",
+      "confidence_stars": "\u2605\u2605\u2605",
+      "commence_time": "2026-11-10T00:10:00Z",
+      "line_movement": {
+        "home": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "away": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "pick": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "snapshot_time": "\u2014"
+      },
+      "fatigue": {
+        "home": {
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Nov 08",
+          "days_rest": 1,
+          "games_last_4d": 1,
+          "travel_miles": 0,
+          "travel_desc": "",
+          "source": "ESPN Scoreboard API"
+        },
+        "away": {
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
+          "last_game": "Nov 07",
+          "days_rest": 2,
+          "games_last_4d": 2,
+          "travel_miles": 1150,
+          "travel_desc": "1,150 mi road trip",
+          "source": "ESPN Scoreboard API"
+        }
+      },
+      "edge_factors": [
+        "\ud83d\udcca 58.4pt probability edge"
+      ],
+      "injury_notes": "No key injuries.",
+      "sharp": {
+        "away_t": null,
+        "home_t": null,
+        "source": null,
+        "sharp_signal": null,
+        "sharp_label": "Pending \u2014 check closer to tip-off",
+        "rlm": false
+      },
+      "form": {
+        "home": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        },
+        "away": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        }
+      },
+      "h2h": {
+        "total_meetings": 0,
+        "home_wins": 0,
+        "away_wins": 0,
+        "meetings": [],
+        "source": "\u2014"
+      },
+      "briefing": {
+        "trend": "DET on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "matchup": "Both rosters appear healthy \u2014 clean line.",
+        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "injury_notes": "No key injuries."
+      },
+      "live": {
+        "status": "pre",
+        "status_detail": "Upcoming",
+        "period": 0,
+        "clock": "",
+        "home_score": 0,
+        "away_score": 0,
+        "spread_alert": null
+      },
+      "news": [
+        {
+          "title": "Preview: Surviving a pack of Wolves",
+          "source": "Slcdunk.com",
+          "link": "https://www.slcdunk.com/utah-jazz-game-coverage/70619/preview-surviving-a-pack-of-wolves",
+          "published": "2026-11-08T05:26:51Z"
+        },
+        {
+          "title": "Stephen Curry drops 41 points vs. Magic as Warriors win seventh straight in OT",
+          "source": "Yahoo Entertainment",
+          "link": "https://sports.yahoo.com/nba/article/stephen-curry-drops-41-points-vs-magic-as-warriors-win-seventh-straight-in-ot-052337251.html",
+          "published": "2026-11-08T05:23:00Z"
+        },
+        {
+          "title": "Photos: Best images from Thunder's 114-75 win over Wizards",
+          "source": "USA Today",
+          "link": "https://okcthunderwire.usatoday.com/story/sports/nba/thunder/2026/11/07/photos-best-images-from-thunder-114-75-win-over-wizards/92674421007/",
+          "published": "2026-11-08T05:21:54Z"
+        }
+      ]
+    },
+    {
+      "game": "Memphis Grizzlies @ Toronto Raptors",
+      "home_team": "Toronto Raptors",
+      "away_team": "Memphis Grizzlies",
+      "home_abbr": "TOR",
+      "away_abbr": "MEM",
+      "home_ml": "-156",
+      "away_ml": "+131",
+      "home_ml_raw": -156,
+      "away_ml_raw": 131,
+      "home_prob": 58.5,
+      "away_prob": 41.5,
+      "spread": "TOR -3.5",
+      "favorite": "Toronto Raptors",
+      "pick": "Toronto Raptors",
+      "pick_abbr": "TOR",
+      "moneyline": "-156",
+      "win_probability": 58.5,
+      "confidence": "MEDIUM",
+      "confidence_stars": "\u2605\u2605\u2606",
+      "commence_time": "2026-11-10T00:40:00Z",
+      "line_movement": {
+        "home": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "away": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "pick": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "snapshot_time": "\u2014"
+      },
+      "fatigue": {
+        "home": {
+          "status": "RESTED",
+          "label": "2 days rest \u2705",
+          "battery": 88,
+          "last_game": "Nov 06",
+          "days_rest": 3,
+          "games_last_4d": 1,
+          "travel_miles": 431,
+          "travel_desc": "431 mi road trip",
+          "source": "ESPN Scoreboard API"
+        },
+        "away": {
+          "status": "RESTED",
+          "label": "2 days rest \u2705",
+          "battery": 88,
+          "last_game": "Nov 06",
+          "days_rest": 3,
+          "games_last_4d": 1,
+          "travel_miles": 0,
+          "travel_desc": "",
+          "source": "ESPN Scoreboard API"
+        }
+      },
+      "edge_factors": [
+        "\ud83d\udcca 17.0pt probability edge"
+      ],
+      "injury_notes": "No key injuries.",
+      "sharp": {
+        "away_t": null,
+        "home_t": null,
+        "source": null,
+        "sharp_signal": null,
+        "sharp_label": "Pending \u2014 check closer to tip-off",
+        "rlm": false
+      },
+      "form": {
+        "home": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        },
+        "away": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        }
+      },
+      "h2h": {
+        "total_meetings": 0,
+        "home_wins": 0,
+        "away_wins": 0,
+        "meetings": [],
+        "source": "\u2014"
+      },
+      "briefing": {
+        "trend": "Toronto Raptors hold a 58.5% edge.",
+        "matchup": "Both rosters appear healthy \u2014 clean line.",
+        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "injury_notes": "No key injuries."
+      },
+      "live": {
+        "status": "pre",
+        "status_detail": "Upcoming",
+        "period": 0,
+        "clock": "",
+        "home_score": 0,
+        "away_score": 0,
+        "spread_alert": null
+      },
+      "news": [
+        {
+          "title": "Preview: Surviving a pack of Wolves",
+          "source": "Slcdunk.com",
+          "link": "https://www.slcdunk.com/utah-jazz-game-coverage/70619/preview-surviving-a-pack-of-wolves",
+          "published": "2026-11-08T05:26:51Z"
+        },
+        {
+          "title": "Stephen Curry drops 41 points vs. Magic as Warriors win seventh straight in OT",
+          "source": "Yahoo Entertainment",
+          "link": "https://sports.yahoo.com/nba/article/stephen-curry-drops-41-points-vs-magic-as-warriors-win-seventh-straight-in-ot-052337251.html",
+          "published": "2026-11-08T05:23:00Z"
+        },
+        {
+          "title": "Photos: Best images from Thunder's 114-75 win over Wizards",
+          "source": "USA Today",
+          "link": "https://okcthunderwire.usatoday.com/story/sports/nba/thunder/2026/11/07/photos-best-images-from-thunder-114-75-win-over-wizards/92674421007/",
+          "published": "2026-11-08T05:21:54Z"
+        }
+      ]
+    },
+    {
+      "game": "Indiana Pacers @ Dallas Mavericks",
+      "home_team": "Dallas Mavericks",
+      "away_team": "Indiana Pacers",
+      "home_abbr": "DAL",
+      "away_abbr": "IND",
+      "home_ml": "-169",
+      "away_ml": "+142",
+      "home_ml_raw": -169,
+      "away_ml_raw": 142,
+      "home_prob": 60.3,
+      "away_prob": 39.7,
+      "spread": "DAL -4.5",
+      "favorite": "Dallas Mavericks",
+      "pick": "Dallas Mavericks",
+      "pick_abbr": "DAL",
+      "moneyline": "-169",
+      "win_probability": 60.3,
+      "confidence": "MEDIUM",
+      "confidence_stars": "\u2605\u2605\u2606",
+      "commence_time": "2026-11-10T01:10:00Z",
+      "line_movement": {
+        "home": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "away": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "pick": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "snapshot_time": "\u2014"
+      },
+      "fatigue": {
+        "home": {
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Nov 08",
+          "days_rest": 1,
+          "games_last_4d": 2,
+          "travel_miles": 0,
+          "travel_desc": "",
+          "source": "ESPN Scoreboard API"
+        },
+        "away": {
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
+          "last_game": "Nov 07",
+          "days_rest": 2,
+          "games_last_4d": 1,
+          "travel_miles": 0,
+          "travel_desc": "",
+          "source": "ESPN Scoreboard API"
+        }
+      },
+      "edge_factors": [
+        "\ud83d\udcca 20.6pt probability edge"
+      ],
+      "injury_notes": "No key injuries.",
+      "sharp": {
+        "away_t": null,
+        "home_t": null,
+        "source": null,
+        "sharp_signal": null,
+        "sharp_label": "Pending \u2014 check closer to tip-off",
+        "rlm": false
+      },
+      "form": {
+        "home": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        },
+        "away": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        }
+      },
+      "h2h": {
+        "total_meetings": 0,
+        "home_wins": 0,
+        "away_wins": 0,
+        "meetings": [],
+        "source": "\u2014"
+      },
+      "briefing": {
+        "trend": "DAL on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "matchup": "Both rosters appear healthy \u2014 clean line.",
+        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "injury_notes": "No key injuries."
+      },
+      "live": {
+        "status": "pre",
+        "status_detail": "Upcoming",
+        "period": 0,
+        "clock": "",
+        "home_score": 0,
+        "away_score": 0,
+        "spread_alert": null
+      },
+      "news": [
+        {
+          "title": "Preview: Surviving a pack of Wolves",
+          "source": "Slcdunk.com",
+          "link": "https://www.slcdunk.com/utah-jazz-game-coverage/70619/preview-surviving-a-pack-of-wolves",
+          "published": "2026-11-08T05:26:51Z"
+        },
+        {
+          "title": "Stephen Curry drops 41 points vs. Magic as Warriors win seventh straight in OT",
+          "source": "Yahoo Entertainment",
+          "link": "https://sports.yahoo.com/nba/article/stephen-curry-drops-41-points-vs-magic-as-warriors-win-seventh-straight-in-ot-052337251.html",
+          "published": "2026-11-08T05:23:00Z"
+        },
+        {
+          "title": "Photos: Best images from Thunder's 114-75 win over Wizards",
+          "source": "USA Today",
+          "link": "https://okcthunderwire.usatoday.com/story/sports/nba/thunder/2026/11/07/photos-best-images-from-thunder-114-75-win-over-wizards/92674421007/",
+          "published": "2026-11-08T05:21:54Z"
+        }
+      ]
+    },
+    {
+      "game": "Denver Nuggets @ Houston Rockets",
+      "home_team": "Houston Rockets",
+      "away_team": "Denver Nuggets",
+      "home_abbr": "HOU",
+      "away_abbr": "DEN",
+      "home_ml": "-359",
+      "away_ml": "+286",
+      "home_ml_raw": -359,
+      "away_ml_raw": 286,
+      "home_prob": 75.1,
+      "away_prob": 24.9,
+      "spread": "HOU -8.5",
+      "favorite": "Houston Rockets",
+      "pick": "Houston Rockets",
+      "pick_abbr": "HOU",
+      "moneyline": "-359",
+      "win_probability": 75.1,
+      "confidence": "HIGH",
+      "confidence_stars": "\u2605\u2605\u2605",
+      "commence_time": "2026-11-10T01:40:00Z",
+      "line_movement": {
+        "home": {
+          "direction": "shorter",
+          "points_moved": 68,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -359 \u2190 -291",
+          "old_ml": "-291",
+          "new_ml": "-359"
+        },
+        "away": {
+          "direction": "longer",
+          "points_moved": 49,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM +286 \u2190 +237",
+          "old_ml": "+237",
+          "new_ml": "+286"
+        },
+        "pick": {
+          "direction": "shorter",
+          "points_moved": 68,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -359 \u2190 -291",
+          "old_ml": "-291",
+          "new_ml": "-359"
+        },
+        "snapshot_time": "November 09, 2026 at 01:28 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -948,7 +800,7 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udcca 43.0pt probability edge"
+        "\ud83d\udd25 Sharp steam detected"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -985,9 +837,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "Houston Rockets hold a 71.5% edge.",
+        "trend": "Houston Rockets hold a 75.1% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "steam": "Line steamed from -291 to -359 (68pt move) \u2014 heavy professional action on Houston Rockets.",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -1001,22 +853,22 @@
       },
       "news": [
         {
-          "title": "Things you should know about the newest Raptor, Kevin McCullar Jr.",
-          "source": "RaptorsHQ",
-          "link": "https://www.raptorshq.com/raptors-roster/52713/things-you-should-know-about-the-newest-raptor-kevin-mccullar-jr",
-          "published": "2026-11-08T01:16:20Z"
+          "title": "Preview: Surviving a pack of Wolves",
+          "source": "Slcdunk.com",
+          "link": "https://www.slcdunk.com/utah-jazz-game-coverage/70619/preview-surviving-a-pack-of-wolves",
+          "published": "2026-11-08T05:26:51Z"
         },
         {
-          "title": "Lakers vs. Pistons Preview: Strength vs. strength",
-          "source": "Silver Screen and Roll ",
-          "link": "https://www.silverscreenandroll.com/lakers-game-previews/128587/lakers-vs-pistons-discussion-injury-report-how-to-watch-tv-stream-start-time-luka-doncic-cade-cunningham",
-          "published": "2026-11-08T01:09:31Z"
-        },
-        {
-          "title": "Nuggets hold off Pacers in NBA Mexico City game",
+          "title": "Stephen Curry drops 41 points vs. Magic as Warriors win seventh straight in OT",
           "source": "Yahoo Entertainment",
-          "link": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_6ca40ce7-d37c-405e-b794-82c3327425a8",
-          "published": "2026-11-08T01:07:46Z"
+          "link": "https://sports.yahoo.com/nba/article/stephen-curry-drops-41-points-vs-magic-as-warriors-win-seventh-straight-in-ot-052337251.html",
+          "published": "2026-11-08T05:23:00Z"
+        },
+        {
+          "title": "Photos: Best images from Thunder's 114-75 win over Wizards",
+          "source": "USA Today",
+          "link": "https://okcthunderwire.usatoday.com/story/sports/nba/thunder/2026/11/07/photos-best-images-from-thunder-114-75-win-over-wizards/92674421007/",
+          "published": "2026-11-08T05:21:54Z"
         }
       ]
     },
@@ -1026,21 +878,166 @@
       "away_team": "San Antonio Spurs",
       "home_abbr": "PHX",
       "away_abbr": "SAS",
-      "home_ml": "+229",
-      "away_ml": "-281",
-      "home_ml_raw": 229,
-      "away_ml_raw": -281,
-      "home_prob": 29.2,
-      "away_prob": 70.8,
+      "home_ml": "+282",
+      "away_ml": "-352",
+      "home_ml_raw": 282,
+      "away_ml_raw": -352,
+      "home_prob": 25.2,
+      "away_prob": 74.8,
       "spread": "PHX +8.5",
       "favorite": "San Antonio Spurs",
       "pick": "San Antonio Spurs",
       "pick_abbr": "SAS",
-      "moneyline": "-281",
-      "win_probability": 70.8,
-      "confidence": "MEDIUM",
-      "confidence_stars": "\u2605\u2605\u2606",
+      "moneyline": "-352",
+      "win_probability": 74.8,
+      "confidence": "HIGH",
+      "confidence_stars": "\u2605\u2605\u2605",
       "commence_time": "2026-11-10T02:10:00Z",
+      "line_movement": {
+        "home": {
+          "direction": "longer",
+          "points_moved": 53,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM +282 \u2190 +229",
+          "old_ml": "+229",
+          "new_ml": "+282"
+        },
+        "away": {
+          "direction": "shorter",
+          "points_moved": 71,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -352 \u2190 -281",
+          "old_ml": "-281",
+          "new_ml": "-352"
+        },
+        "pick": {
+          "direction": "shorter",
+          "points_moved": 71,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -352 \u2190 -281",
+          "old_ml": "-281",
+          "new_ml": "-352"
+        },
+        "snapshot_time": "November 09, 2026 at 01:28 AM UTC"
+      },
+      "fatigue": {
+        "home": {
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
+          "last_game": "Nov 07",
+          "days_rest": 2,
+          "games_last_4d": 2,
+          "travel_miles": 0,
+          "travel_desc": "",
+          "source": "ESPN Scoreboard API"
+        },
+        "away": {
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
+          "last_game": "Nov 07",
+          "days_rest": 2,
+          "games_last_4d": 2,
+          "travel_miles": 1721,
+          "travel_desc": "1,721 mi road trip",
+          "source": "ESPN Scoreboard API"
+        }
+      },
+      "edge_factors": [
+        "\ud83d\udd25 Sharp steam detected"
+      ],
+      "injury_notes": "No key injuries.",
+      "sharp": {
+        "away_t": null,
+        "home_t": null,
+        "source": null,
+        "sharp_signal": null,
+        "sharp_label": "Pending \u2014 check closer to tip-off",
+        "rlm": false
+      },
+      "form": {
+        "home": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        },
+        "away": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        }
+      },
+      "h2h": {
+        "total_meetings": 0,
+        "home_wins": 0,
+        "away_wins": 0,
+        "meetings": [],
+        "source": "\u2014"
+      },
+      "briefing": {
+        "trend": "San Antonio Spurs hold a 74.8% edge.",
+        "matchup": "Both rosters appear healthy \u2014 clean line.",
+        "steam": "Line steamed from -281 to -352 (71pt move) \u2014 heavy professional action on San Antonio Spurs.",
+        "injury_notes": "No key injuries."
+      },
+      "live": {
+        "status": "pre",
+        "status_detail": "Upcoming",
+        "period": 0,
+        "clock": "",
+        "home_score": 0,
+        "away_score": 0,
+        "spread_alert": null
+      },
+      "news": [
+        {
+          "title": "Preview: Surviving a pack of Wolves",
+          "source": "Slcdunk.com",
+          "link": "https://www.slcdunk.com/utah-jazz-game-coverage/70619/preview-surviving-a-pack-of-wolves",
+          "published": "2026-11-08T05:26:51Z"
+        },
+        {
+          "title": "Stephen Curry drops 41 points vs. Magic as Warriors win seventh straight in OT",
+          "source": "Yahoo Entertainment",
+          "link": "https://sports.yahoo.com/nba/article/stephen-curry-drops-41-points-vs-magic-as-warriors-win-seventh-straight-in-ot-052337251.html",
+          "published": "2026-11-08T05:23:00Z"
+        },
+        {
+          "title": "Photos: Best images from Thunder's 114-75 win over Wizards",
+          "source": "USA Today",
+          "link": "https://okcthunderwire.usatoday.com/story/sports/nba/thunder/2026/11/07/photos-best-images-from-thunder-114-75-win-over-wizards/92674421007/",
+          "published": "2026-11-08T05:21:54Z"
+        }
+      ]
+    },
+    {
+      "game": "New Orleans Pelicans @ Golden State Warriors",
+      "home_team": "Golden State Warriors",
+      "away_team": "New Orleans Pelicans",
+      "home_abbr": "GSW",
+      "away_abbr": "NOP",
+      "home_ml": "-378",
+      "away_ml": "+300",
+      "home_ml_raw": -378,
+      "away_ml_raw": 300,
+      "home_prob": 76.0,
+      "away_prob": 24.0,
+      "spread": "GSW -9.5",
+      "favorite": "Golden State Warriors",
+      "pick": "Golden State Warriors",
+      "pick_abbr": "GSW",
+      "moneyline": "-378",
+      "win_probability": 76.0,
+      "confidence": "HIGH",
+      "confidence_stars": "\u2605\u2605\u2605",
+      "commence_time": "2026-11-10T03:10:00Z",
       "line_movement": {
         "home": {
           "direction": "none",
@@ -1081,19 +1078,19 @@
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "Nov 07",
-          "days_rest": 2,
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Nov 08",
+          "days_rest": 1,
           "games_last_4d": 2,
-          "travel_miles": 1721,
-          "travel_desc": "1,721 mi road trip",
+          "travel_miles": 1670,
+          "travel_desc": "1,670 mi road trip",
           "source": "ESPN Scoreboard API"
         }
       },
       "edge_factors": [
-        "\ud83d\udcca 41.6pt probability edge"
+        "\ud83d\udca4 NOP fatigued (B2B) \u2014 source: ESPN"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -1130,7 +1127,7 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "San Antonio Spurs hold a 70.8% edge.",
+        "trend": "NOP on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
         "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
@@ -1146,22 +1143,22 @@
       },
       "news": [
         {
-          "title": "Things you should know about the newest Raptor, Kevin McCullar Jr.",
-          "source": "RaptorsHQ",
-          "link": "https://www.raptorshq.com/raptors-roster/52713/things-you-should-know-about-the-newest-raptor-kevin-mccullar-jr",
-          "published": "2026-11-08T01:16:20Z"
+          "title": "Preview: Surviving a pack of Wolves",
+          "source": "Slcdunk.com",
+          "link": "https://www.slcdunk.com/utah-jazz-game-coverage/70619/preview-surviving-a-pack-of-wolves",
+          "published": "2026-11-08T05:26:51Z"
         },
         {
-          "title": "Lakers vs. Pistons Preview: Strength vs. strength",
-          "source": "Silver Screen and Roll ",
-          "link": "https://www.silverscreenandroll.com/lakers-game-previews/128587/lakers-vs-pistons-discussion-injury-report-how-to-watch-tv-stream-start-time-luka-doncic-cade-cunningham",
-          "published": "2026-11-08T01:09:31Z"
-        },
-        {
-          "title": "Nuggets hold off Pacers in NBA Mexico City game",
+          "title": "Stephen Curry drops 41 points vs. Magic as Warriors win seventh straight in OT",
           "source": "Yahoo Entertainment",
-          "link": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_6ca40ce7-d37c-405e-b794-82c3327425a8",
-          "published": "2026-11-08T01:07:46Z"
+          "link": "https://sports.yahoo.com/nba/article/stephen-curry-drops-41-points-vs-magic-as-warriors-win-seventh-straight-in-ot-052337251.html",
+          "published": "2026-11-08T05:23:00Z"
+        },
+        {
+          "title": "Photos: Best images from Thunder's 114-75 win over Wizards",
+          "source": "USA Today",
+          "link": "https://okcthunderwire.usatoday.com/story/sports/nba/thunder/2026/11/07/photos-best-images-from-thunder-114-75-win-over-wizards/92674421007/",
+          "published": "2026-11-08T05:21:54Z"
         }
       ]
     },
@@ -1191,27 +1188,27 @@
           "direction": "none",
           "points_moved": 0,
           "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "label": "No movement",
+          "old_ml": "-109",
+          "new_ml": "-109"
         },
         "away": {
           "direction": "none",
           "points_moved": 0,
           "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "label": "No movement",
+          "old_ml": "-109",
+          "new_ml": "-109"
         },
         "pick": {
           "direction": "none",
           "points_moved": 0,
           "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "label": "No movement",
+          "old_ml": "-109",
+          "new_ml": "-109"
         },
-        "snapshot_time": "\u2014"
+        "snapshot_time": "November 09, 2026 at 01:28 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -1291,22 +1288,22 @@
       },
       "news": [
         {
-          "title": "Things you should know about the newest Raptor, Kevin McCullar Jr.",
-          "source": "RaptorsHQ",
-          "link": "https://www.raptorshq.com/raptors-roster/52713/things-you-should-know-about-the-newest-raptor-kevin-mccullar-jr",
-          "published": "2026-11-08T01:16:20Z"
+          "title": "Preview: Surviving a pack of Wolves",
+          "source": "Slcdunk.com",
+          "link": "https://www.slcdunk.com/utah-jazz-game-coverage/70619/preview-surviving-a-pack-of-wolves",
+          "published": "2026-11-08T05:26:51Z"
         },
         {
-          "title": "Lakers vs. Pistons Preview: Strength vs. strength",
-          "source": "Silver Screen and Roll ",
-          "link": "https://www.silverscreenandroll.com/lakers-game-previews/128587/lakers-vs-pistons-discussion-injury-report-how-to-watch-tv-stream-start-time-luka-doncic-cade-cunningham",
-          "published": "2026-11-08T01:09:31Z"
-        },
-        {
-          "title": "Nuggets hold off Pacers in NBA Mexico City game",
+          "title": "Stephen Curry drops 41 points vs. Magic as Warriors win seventh straight in OT",
           "source": "Yahoo Entertainment",
-          "link": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_6ca40ce7-d37c-405e-b794-82c3327425a8",
-          "published": "2026-11-08T01:07:46Z"
+          "link": "https://sports.yahoo.com/nba/article/stephen-curry-drops-41-points-vs-magic-as-warriors-win-seventh-straight-in-ot-052337251.html",
+          "published": "2026-11-08T05:23:00Z"
+        },
+        {
+          "title": "Photos: Best images from Thunder's 114-75 win over Wizards",
+          "source": "USA Today",
+          "link": "https://okcthunderwire.usatoday.com/story/sports/nba/thunder/2026/11/07/photos-best-images-from-thunder-114-75-win-over-wizards/92674421007/",
+          "published": "2026-11-08T05:21:54Z"
         }
       ]
     },
@@ -1356,7 +1353,7 @@
           "old_ml": "\u2014",
           "new_ml": "\u2014"
         },
-        "snapshot_time": "November 08, 2026 at 04:55 PM UTC"
+        "snapshot_time": "November 09, 2026 at 01:28 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -1436,22 +1433,22 @@
       },
       "news": [
         {
-          "title": "Things you should know about the newest Raptor, Kevin McCullar Jr.",
-          "source": "RaptorsHQ",
-          "link": "https://www.raptorshq.com/raptors-roster/52713/things-you-should-know-about-the-newest-raptor-kevin-mccullar-jr",
-          "published": "2026-11-08T01:16:20Z"
+          "title": "Preview: Surviving a pack of Wolves",
+          "source": "Slcdunk.com",
+          "link": "https://www.slcdunk.com/utah-jazz-game-coverage/70619/preview-surviving-a-pack-of-wolves",
+          "published": "2026-11-08T05:26:51Z"
         },
         {
-          "title": "Lakers vs. Pistons Preview: Strength vs. strength",
-          "source": "Silver Screen and Roll ",
-          "link": "https://www.silverscreenandroll.com/lakers-game-previews/128587/lakers-vs-pistons-discussion-injury-report-how-to-watch-tv-stream-start-time-luka-doncic-cade-cunningham",
-          "published": "2026-11-08T01:09:31Z"
-        },
-        {
-          "title": "Nuggets hold off Pacers in NBA Mexico City game",
+          "title": "Stephen Curry drops 41 points vs. Magic as Warriors win seventh straight in OT",
           "source": "Yahoo Entertainment",
-          "link": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_6ca40ce7-d37c-405e-b794-82c3327425a8",
-          "published": "2026-11-08T01:07:46Z"
+          "link": "https://sports.yahoo.com/nba/article/stephen-curry-drops-41-points-vs-magic-as-warriors-win-seventh-straight-in-ot-052337251.html",
+          "published": "2026-11-08T05:23:00Z"
+        },
+        {
+          "title": "Photos: Best images from Thunder's 114-75 win over Wizards",
+          "source": "USA Today",
+          "link": "https://okcthunderwire.usatoday.com/story/sports/nba/thunder/2026/11/07/photos-best-images-from-thunder-114-75-win-over-wizards/92674421007/",
+          "published": "2026-11-08T05:21:54Z"
         }
       ]
     },
@@ -1501,7 +1498,7 @@
           "old_ml": "\u2014",
           "new_ml": "\u2014"
         },
-        "snapshot_time": "November 08, 2026 at 04:55 PM UTC"
+        "snapshot_time": "November 09, 2026 at 01:28 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -1516,19 +1513,20 @@
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "FRESH",
-          "label": "Well rested \u2705",
-          "battery": 100,
-          "last_game": "Nov 05",
-          "days_rest": 4,
-          "games_last_4d": 1,
-          "travel_miles": 2589,
-          "travel_desc": "2,589 mi road trip",
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Nov 08",
+          "days_rest": 1,
+          "games_last_4d": 2,
+          "travel_miles": 2548,
+          "travel_desc": "2,548 mi road trip",
           "source": "ESPN Scoreboard API"
         }
       },
       "edge_factors": [
-        "\u2708\ufe0f MIA traveled 2,589 mi"
+        "\ud83d\udca4 MIA fatigued (B2B) \u2014 source: ESPN",
+        "\u2708\ufe0f MIA traveled 2,548 mi"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -1565,7 +1563,7 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "BOS on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "trend": "BOS on Back-to-Back \u26a0\ufe0f per ESPN schedule data. MIA on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
         "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
@@ -1581,22 +1579,22 @@
       },
       "news": [
         {
-          "title": "Things you should know about the newest Raptor, Kevin McCullar Jr.",
-          "source": "RaptorsHQ",
-          "link": "https://www.raptorshq.com/raptors-roster/52713/things-you-should-know-about-the-newest-raptor-kevin-mccullar-jr",
-          "published": "2026-11-08T01:16:20Z"
+          "title": "Preview: Surviving a pack of Wolves",
+          "source": "Slcdunk.com",
+          "link": "https://www.slcdunk.com/utah-jazz-game-coverage/70619/preview-surviving-a-pack-of-wolves",
+          "published": "2026-11-08T05:26:51Z"
         },
         {
-          "title": "Lakers vs. Pistons Preview: Strength vs. strength",
-          "source": "Silver Screen and Roll ",
-          "link": "https://www.silverscreenandroll.com/lakers-game-previews/128587/lakers-vs-pistons-discussion-injury-report-how-to-watch-tv-stream-start-time-luka-doncic-cade-cunningham",
-          "published": "2026-11-08T01:09:31Z"
-        },
-        {
-          "title": "Nuggets hold off Pacers in NBA Mexico City game",
+          "title": "Stephen Curry drops 41 points vs. Magic as Warriors win seventh straight in OT",
           "source": "Yahoo Entertainment",
-          "link": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_6ca40ce7-d37c-405e-b794-82c3327425a8",
-          "published": "2026-11-08T01:07:46Z"
+          "link": "https://sports.yahoo.com/nba/article/stephen-curry-drops-41-points-vs-magic-as-warriors-win-seventh-straight-in-ot-052337251.html",
+          "published": "2026-11-08T05:23:00Z"
+        },
+        {
+          "title": "Photos: Best images from Thunder's 114-75 win over Wizards",
+          "source": "USA Today",
+          "link": "https://okcthunderwire.usatoday.com/story/sports/nba/thunder/2026/11/07/photos-best-images-from-thunder-114-75-win-over-wizards/92674421007/",
+          "published": "2026-11-08T05:21:54Z"
         }
       ]
     },
@@ -1646,7 +1644,7 @@
           "old_ml": "\u2014",
           "new_ml": "\u2014"
         },
-        "snapshot_time": "November 08, 2026 at 04:55 PM UTC"
+        "snapshot_time": "November 09, 2026 at 01:28 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -1726,22 +1724,22 @@
       },
       "news": [
         {
-          "title": "Things you should know about the newest Raptor, Kevin McCullar Jr.",
-          "source": "RaptorsHQ",
-          "link": "https://www.raptorshq.com/raptors-roster/52713/things-you-should-know-about-the-newest-raptor-kevin-mccullar-jr",
-          "published": "2026-11-08T01:16:20Z"
+          "title": "Preview: Surviving a pack of Wolves",
+          "source": "Slcdunk.com",
+          "link": "https://www.slcdunk.com/utah-jazz-game-coverage/70619/preview-surviving-a-pack-of-wolves",
+          "published": "2026-11-08T05:26:51Z"
         },
         {
-          "title": "Lakers vs. Pistons Preview: Strength vs. strength",
-          "source": "Silver Screen and Roll ",
-          "link": "https://www.silverscreenandroll.com/lakers-game-previews/128587/lakers-vs-pistons-discussion-injury-report-how-to-watch-tv-stream-start-time-luka-doncic-cade-cunningham",
-          "published": "2026-11-08T01:09:31Z"
-        },
-        {
-          "title": "Nuggets hold off Pacers in NBA Mexico City game",
+          "title": "Stephen Curry drops 41 points vs. Magic as Warriors win seventh straight in OT",
           "source": "Yahoo Entertainment",
-          "link": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_6ca40ce7-d37c-405e-b794-82c3327425a8",
-          "published": "2026-11-08T01:07:46Z"
+          "link": "https://sports.yahoo.com/nba/article/stephen-curry-drops-41-points-vs-magic-as-warriors-win-seventh-straight-in-ot-052337251.html",
+          "published": "2026-11-08T05:23:00Z"
+        },
+        {
+          "title": "Photos: Best images from Thunder's 114-75 win over Wizards",
+          "source": "USA Today",
+          "link": "https://okcthunderwire.usatoday.com/story/sports/nba/thunder/2026/11/07/photos-best-images-from-thunder-114-75-win-over-wizards/92674421007/",
+          "published": "2026-11-08T05:21:54Z"
         }
       ]
     },
@@ -1791,7 +1789,7 @@
           "old_ml": "\u2014",
           "new_ml": "\u2014"
         },
-        "snapshot_time": "November 08, 2026 at 04:55 PM UTC"
+        "snapshot_time": "November 09, 2026 at 01:28 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -1871,22 +1869,22 @@
       },
       "news": [
         {
-          "title": "Things you should know about the newest Raptor, Kevin McCullar Jr.",
-          "source": "RaptorsHQ",
-          "link": "https://www.raptorshq.com/raptors-roster/52713/things-you-should-know-about-the-newest-raptor-kevin-mccullar-jr",
-          "published": "2026-11-08T01:16:20Z"
+          "title": "Preview: Surviving a pack of Wolves",
+          "source": "Slcdunk.com",
+          "link": "https://www.slcdunk.com/utah-jazz-game-coverage/70619/preview-surviving-a-pack-of-wolves",
+          "published": "2026-11-08T05:26:51Z"
         },
         {
-          "title": "Lakers vs. Pistons Preview: Strength vs. strength",
-          "source": "Silver Screen and Roll ",
-          "link": "https://www.silverscreenandroll.com/lakers-game-previews/128587/lakers-vs-pistons-discussion-injury-report-how-to-watch-tv-stream-start-time-luka-doncic-cade-cunningham",
-          "published": "2026-11-08T01:09:31Z"
-        },
-        {
-          "title": "Nuggets hold off Pacers in NBA Mexico City game",
+          "title": "Stephen Curry drops 41 points vs. Magic as Warriors win seventh straight in OT",
           "source": "Yahoo Entertainment",
-          "link": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_6ca40ce7-d37c-405e-b794-82c3327425a8",
-          "published": "2026-11-08T01:07:46Z"
+          "link": "https://sports.yahoo.com/nba/article/stephen-curry-drops-41-points-vs-magic-as-warriors-win-seventh-straight-in-ot-052337251.html",
+          "published": "2026-11-08T05:23:00Z"
+        },
+        {
+          "title": "Photos: Best images from Thunder's 114-75 win over Wizards",
+          "source": "USA Today",
+          "link": "https://okcthunderwire.usatoday.com/story/sports/nba/thunder/2026/11/07/photos-best-images-from-thunder-114-75-win-over-wizards/92674421007/",
+          "published": "2026-11-08T05:21:54Z"
         }
       ]
     }
@@ -1894,43 +1892,43 @@
   "track_record": {
     "LOW": {
       "wins": 20,
-      "losses": 15,
-      "total": 35,
-      "win_pct": 57.1,
-      "roi": 5.0,
-      "profit": 175.5
+      "losses": 16,
+      "total": 36,
+      "win_pct": 55.6,
+      "roi": 2.1,
+      "profit": 75.5
     },
     "MEDIUM": {
       "wins": 47,
-      "losses": 19,
-      "total": 66,
-      "win_pct": 71.2,
-      "roi": 7.4,
-      "profit": 490.61
+      "losses": 20,
+      "total": 67,
+      "win_pct": 70.1,
+      "roi": 5.8,
+      "profit": 390.61
     },
     "HIGH": {
+      "wins": 34,
+      "losses": 5,
+      "total": 39,
+      "win_pct": 87.2,
+      "roi": 5.4,
+      "profit": 209.36
+    },
+    "overall_7d": {
       "wins": 30,
       "losses": 5,
       "total": 35,
       "win_pct": 85.7,
-      "roi": 3.3,
-      "profit": 116.35
-    },
-    "overall_7d": {
-      "wins": 30,
-      "losses": 4,
-      "total": 34,
-      "win_pct": 88.2,
-      "roi": 31.3,
-      "profit": 1065.34
+      "roi": 23.6,
+      "profit": 824.85
     },
     "overall_30d": {
-      "wins": 76,
-      "losses": 29,
-      "total": 105,
-      "win_pct": 72.4,
-      "roi": 5.0,
-      "profit": 525.81
+      "wins": 80,
+      "losses": 31,
+      "total": 111,
+      "win_pct": 72.1,
+      "roi": 3.8,
+      "profit": 418.82
     }
   }
 }
