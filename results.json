@@ -2380,9 +2380,11 @@
       "win_probability": 73.9,
       "commence_time": "2026-11-08T20:40:00Z",
       "date": "2026-11-08T01:08:16.431700+00:00",
-      "graded": false,
-      "result": null,
-      "profit": null
+      "graded": true,
+      "result": "WIN",
+      "profit": 30.03,
+      "home_score": 121,
+      "away_score": 127
     },
     {
       "game": "Los Angeles Lakers @ Detroit Pistons",
@@ -2467,6 +2469,48 @@
       "graded": false,
       "result": null,
       "profit": null
+    },
+    {
+      "game": "Denver Nuggets @ Houston Rockets",
+      "pick": "Houston Rockets",
+      "pick_abbr": "HOU",
+      "moneyline": "-291",
+      "moneyline_raw": -291,
+      "confidence": "MEDIUM",
+      "win_probability": 71.5,
+      "commence_time": "2026-11-10T01:40:00Z",
+      "date": "2026-11-09T01:28:45.306119+00:00",
+      "graded": false,
+      "result": null,
+      "profit": null
+    },
+    {
+      "game": "San Antonio Spurs @ Phoenix Suns",
+      "pick": "San Antonio Spurs",
+      "pick_abbr": "SAS",
+      "moneyline": "-281",
+      "moneyline_raw": -281,
+      "confidence": "MEDIUM",
+      "win_probability": 70.8,
+      "commence_time": "2026-11-10T02:10:00Z",
+      "date": "2026-11-09T01:28:45.306119+00:00",
+      "graded": false,
+      "result": null,
+      "profit": null
+    },
+    {
+      "game": "Boston Celtics @ Philadelphia 76ers",
+      "pick": "Philadelphia 76ers",
+      "pick_abbr": "PHI",
+      "moneyline": "-109",
+      "moneyline_raw": -109,
+      "confidence": "LOW",
+      "win_probability": 50.0,
+      "commence_time": "2026-11-11T01:10:00Z",
+      "date": "2026-11-09T01:28:45.306119+00:00",
+      "graded": false,
+      "result": null,
+      "profit": null
     }
   ],
   "summary": {
@@ -2487,29 +2531,29 @@
       "profit": 490.61
     },
     "HIGH": {
-      "wins": 29,
+      "wins": 30,
       "losses": 5,
-      "total": 34,
-      "win_pct": 85.3,
-      "roi": 2.5,
-      "profit": 86.32
+      "total": 35,
+      "win_pct": 85.7,
+      "roi": 3.3,
+      "profit": 116.35
     },
     "overall_7d": {
-      "wins": 35,
-      "losses": 8,
-      "total": 43,
-      "win_pct": 81.4,
-      "roi": 18.6,
-      "profit": 800.9
+      "wins": 30,
+      "losses": 4,
+      "total": 34,
+      "win_pct": 88.2,
+      "roi": 31.3,
+      "profit": 1065.34
     },
     "overall_30d": {
-      "wins": 75,
+      "wins": 76,
       "losses": 29,
-      "total": 104,
-      "win_pct": 72.1,
-      "roi": 4.8,
-      "profit": 495.78
+      "total": 105,
+      "win_pct": 72.4,
+      "roi": 5.0,
+      "profit": 525.81
     }
   },
-  "last_graded": "2026-11-08T12:00:16.895466+00:00"
+  "last_graded": "2026-11-09T01:27:56.460109+00:00"
 }
