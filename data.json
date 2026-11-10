@@ -1,490 +1,54 @@
 {
-  "last_updated": "November 10, 2026 at 03:58 AM UTC",
-  "total_games": 12,
+  "last_updated": "November 10, 2026 at 06:40 AM UTC",
+  "total_games": 10,
   "games": [
-    {
-      "game": "Denver Nuggets @ Houston Rockets",
-      "home_team": "Houston Rockets",
-      "away_team": "Denver Nuggets",
-      "home_abbr": "HOU",
-      "away_abbr": "DEN",
-      "home_ml": "N/A",
-      "away_ml": "N/A",
-      "home_ml_raw": null,
-      "away_ml_raw": null,
-      "home_prob": 50.0,
-      "away_prob": 50.0,
-      "spread": "HOU -11.5",
-      "favorite": "Houston Rockets",
-      "pick": "Houston Rockets",
-      "pick_abbr": "HOU",
-      "moneyline": "N/A",
-      "win_probability": 50.0,
-      "confidence": "LOW",
-      "confidence_stars": "\u2605\u2606\u2606",
-      "commence_time": "2026-11-10T01:41:00Z",
-      "line_movement": {
-        "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
-        },
-        "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
-        },
-        "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
-        },
-        "snapshot_time": "November 09, 2026 at 09:18 PM UTC"
-      },
-      "fatigue": {
-        "home": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
-          "last_game": "Nov 09",
-          "days_rest": 1,
-          "games_last_4d": 2,
-          "travel_miles": 1015,
-          "travel_desc": "1,015 mi road trip",
-          "source": "ESPN Scoreboard API"
-        },
-        "away": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
-          "last_game": "Nov 09",
-          "days_rest": 1,
-          "games_last_4d": 2,
-          "travel_miles": 880,
-          "travel_desc": "880 mi road trip",
-          "source": "ESPN Scoreboard API"
-        }
-      },
-      "edge_factors": [
-        "\ud83d\udca4 DEN fatigued (B2B) \u2014 source: ESPN"
-      ],
-      "injury_notes": "No key injuries.",
-      "sharp": {
-        "away_t": null,
-        "home_t": null,
-        "source": null,
-        "sharp_signal": null,
-        "sharp_label": "Pending \u2014 check closer to tip-off",
-        "rlm": false
-      },
-      "form": {
-        "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        },
-        "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        }
-      },
-      "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
-      },
-      "briefing": {
-        "trend": "HOU on Back-to-Back \u26a0\ufe0f per ESPN schedule data. DEN on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
-        "injury_notes": "No key injuries."
-      },
-      "live": {
-        "status": "pre",
-        "status_detail": "Upcoming",
-        "period": 0,
-        "clock": "",
-        "home_score": 0,
-        "away_score": 0,
-        "spread_alert": null
-      },
-      "news": [
-        {
-          "title": "Nets Must Clean Up Turnover Bug, Control Pace",
-          "source": "Roundtable.io",
-          "link": "https://roundtable.io/sports/nba/nets/players/nets-must-clean-up-turnover-bug-control-pace",
-          "published": "2026-11-09T03:51:28Z"
-        },
-        {
-          "title": "Former All-Star Claims LeBron Leaving Lakers Helped Luka Doncic",
-          "source": "Heavy.com",
-          "link": "https://heavy.com/sports/nba/los-angeles-lakers/lebron-leaving-lakers-helped-luka-doncic/",
-          "published": "2026-11-09T03:48:32Z"
-        },
-        {
-          "title": "Recap: Utah Jazz Make History vs. Timberwolves",
-          "source": "Slcdunk.com",
-          "link": "https://www.slcdunk.com/utah-jazz-game-coverage/70634/recap-utah-jazz-make-history-vs-timberwolves",
-          "published": "2026-11-09T03:39:47Z"
-        }
-      ]
-    },
-    {
-      "game": "San Antonio Spurs @ Phoenix Suns",
-      "home_team": "Phoenix Suns",
-      "away_team": "San Antonio Spurs",
-      "home_abbr": "PHX",
-      "away_abbr": "SAS",
-      "home_ml": "N/A",
-      "away_ml": "N/A",
-      "home_ml_raw": null,
-      "away_ml_raw": null,
-      "home_prob": 50.0,
-      "away_prob": 50.0,
-      "spread": "PHX +30.5",
-      "favorite": "Phoenix Suns",
-      "pick": "Phoenix Suns",
-      "pick_abbr": "PHX",
-      "moneyline": "N/A",
-      "win_probability": 50.0,
-      "confidence": "LOW",
-      "confidence_stars": "\u2605\u2606\u2606",
-      "commence_time": "2026-11-10T02:10:45Z",
-      "line_movement": {
-        "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
-        },
-        "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
-        },
-        "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
-        },
-        "snapshot_time": "November 09, 2026 at 09:18 PM UTC"
-      },
-      "fatigue": {
-        "home": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
-          "last_game": "Nov 09",
-          "days_rest": 1,
-          "games_last_4d": 2,
-          "travel_miles": 0,
-          "travel_desc": "",
-          "source": "ESPN Scoreboard API"
-        },
-        "away": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
-          "last_game": "Nov 09",
-          "days_rest": 1,
-          "games_last_4d": 3,
-          "travel_miles": 849,
-          "travel_desc": "849 mi road trip",
-          "source": "ESPN Scoreboard API"
-        }
-      },
-      "edge_factors": [
-        "\ud83d\udca4 SAS fatigued (B2B) \u2014 source: ESPN"
-      ],
-      "injury_notes": "No key injuries.",
-      "sharp": {
-        "away_t": null,
-        "home_t": null,
-        "source": null,
-        "sharp_signal": null,
-        "sharp_label": "Pending \u2014 check closer to tip-off",
-        "rlm": false
-      },
-      "form": {
-        "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        },
-        "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        }
-      },
-      "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
-      },
-      "briefing": {
-        "trend": "PHX on Back-to-Back \u26a0\ufe0f per ESPN schedule data. SAS on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
-        "injury_notes": "No key injuries."
-      },
-      "live": {
-        "status": "pre",
-        "status_detail": "Upcoming",
-        "period": 0,
-        "clock": "",
-        "home_score": 0,
-        "away_score": 0,
-        "spread_alert": null
-      },
-      "news": [
-        {
-          "title": "Nets Must Clean Up Turnover Bug, Control Pace",
-          "source": "Roundtable.io",
-          "link": "https://roundtable.io/sports/nba/nets/players/nets-must-clean-up-turnover-bug-control-pace",
-          "published": "2026-11-09T03:51:28Z"
-        },
-        {
-          "title": "Former All-Star Claims LeBron Leaving Lakers Helped Luka Doncic",
-          "source": "Heavy.com",
-          "link": "https://heavy.com/sports/nba/los-angeles-lakers/lebron-leaving-lakers-helped-luka-doncic/",
-          "published": "2026-11-09T03:48:32Z"
-        },
-        {
-          "title": "Recap: Utah Jazz Make History vs. Timberwolves",
-          "source": "Slcdunk.com",
-          "link": "https://www.slcdunk.com/utah-jazz-game-coverage/70634/recap-utah-jazz-make-history-vs-timberwolves",
-          "published": "2026-11-09T03:39:47Z"
-        }
-      ]
-    },
-    {
-      "game": "New Orleans Pelicans @ Golden State Warriors",
-      "home_team": "Golden State Warriors",
-      "away_team": "New Orleans Pelicans",
-      "home_abbr": "GSW",
-      "away_abbr": "NOP",
-      "home_ml": "N/A",
-      "away_ml": "N/A",
-      "home_ml_raw": null,
-      "away_ml_raw": null,
-      "home_prob": 50.0,
-      "away_prob": 50.0,
-      "spread": "GSW -30.5",
-      "favorite": "Golden State Warriors",
-      "pick": "Golden State Warriors",
-      "pick_abbr": "GSW",
-      "moneyline": "N/A",
-      "win_probability": 50.0,
-      "confidence": "LOW",
-      "confidence_stars": "\u2605\u2606\u2606",
-      "commence_time": "2026-11-10T03:12:00Z",
-      "line_movement": {
-        "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
-        },
-        "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
-        },
-        "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
-        },
-        "snapshot_time": "November 09, 2026 at 09:18 PM UTC"
-      },
-      "fatigue": {
-        "home": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
-          "last_game": "Nov 09",
-          "days_rest": 1,
-          "games_last_4d": 2,
-          "travel_miles": 0,
-          "travel_desc": "",
-          "source": "ESPN Scoreboard API"
-        },
-        "away": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
-          "last_game": "Nov 09",
-          "days_rest": 1,
-          "games_last_4d": 3,
-          "travel_miles": 1920,
-          "travel_desc": "1,920 mi road trip",
-          "source": "ESPN Scoreboard API"
-        }
-      },
-      "edge_factors": [
-        "\ud83d\udca4 NOP fatigued (B2B) \u2014 source: ESPN",
-        "\u2708\ufe0f NOP traveled 1,920 mi"
-      ],
-      "injury_notes": "No key injuries.",
-      "sharp": {
-        "away_t": null,
-        "home_t": null,
-        "source": null,
-        "sharp_signal": null,
-        "sharp_label": "Pending \u2014 check closer to tip-off",
-        "rlm": false
-      },
-      "form": {
-        "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        },
-        "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        }
-      },
-      "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
-      },
-      "briefing": {
-        "trend": "GSW on Back-to-Back \u26a0\ufe0f per ESPN schedule data. NOP on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
-        "injury_notes": "No key injuries."
-      },
-      "live": {
-        "status": "pre",
-        "status_detail": "Upcoming",
-        "period": 0,
-        "clock": "",
-        "home_score": 0,
-        "away_score": 0,
-        "spread_alert": null
-      },
-      "news": [
-        {
-          "title": "Nets Must Clean Up Turnover Bug, Control Pace",
-          "source": "Roundtable.io",
-          "link": "https://roundtable.io/sports/nba/nets/players/nets-must-clean-up-turnover-bug-control-pace",
-          "published": "2026-11-09T03:51:28Z"
-        },
-        {
-          "title": "Former All-Star Claims LeBron Leaving Lakers Helped Luka Doncic",
-          "source": "Heavy.com",
-          "link": "https://heavy.com/sports/nba/los-angeles-lakers/lebron-leaving-lakers-helped-luka-doncic/",
-          "published": "2026-11-09T03:48:32Z"
-        },
-        {
-          "title": "Recap: Utah Jazz Make History vs. Timberwolves",
-          "source": "Slcdunk.com",
-          "link": "https://www.slcdunk.com/utah-jazz-game-coverage/70634/recap-utah-jazz-make-history-vs-timberwolves",
-          "published": "2026-11-09T03:39:47Z"
-        }
-      ]
-    },
     {
       "game": "Milwaukee Bucks @ New York Knicks",
       "home_team": "New York Knicks",
       "away_team": "Milwaukee Bucks",
       "home_abbr": "NYK",
       "away_abbr": "MIL",
-      "home_ml": "-1180",
-      "away_ml": "+740",
-      "home_ml_raw": -1180,
-      "away_ml_raw": 740,
-      "home_prob": 88.6,
-      "away_prob": 11.4,
+      "home_ml": "-1100",
+      "away_ml": "+700",
+      "home_ml_raw": -1100,
+      "away_ml_raw": 700,
+      "home_prob": 88.0,
+      "away_prob": 12.0,
       "spread": "NYK -15.5",
       "favorite": "New York Knicks",
       "pick": "New York Knicks",
       "pick_abbr": "NYK",
-      "moneyline": "-1180",
-      "win_probability": 88.6,
+      "moneyline": "-1100",
+      "win_probability": 88.0,
       "confidence": "HIGH",
       "confidence_stars": "\u2605\u2605\u2605",
       "commence_time": "2026-11-11T00:40:00Z",
       "line_movement": {
         "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "direction": "longer",
+          "points_moved": 80,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -1100 \u2190 -1180",
+          "old_ml": "-1180",
+          "new_ml": "-1100"
         },
         "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "direction": "shorter",
+          "points_moved": 40,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM +700 \u2190 +740",
+          "old_ml": "+740",
+          "new_ml": "+700"
         },
         "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "direction": "longer",
+          "points_moved": 80,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -1100 \u2190 -1180",
+          "old_ml": "-1180",
+          "new_ml": "-1100"
         },
-        "snapshot_time": "\u2014"
+        "snapshot_time": "November 10, 2026 at 03:58 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -511,7 +75,7 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udcca 77.2pt probability edge"
+        "\ud83d\udd25 Sharp steam detected"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -548,9 +112,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "New York Knicks hold a 88.6% edge.",
+        "trend": "New York Knicks hold a 88.0% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "steam": "Line steamed from -1180 to -1100 (80pt move) \u2014 heavy professional action on New York Knicks.",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -564,22 +128,22 @@
       },
       "news": [
         {
-          "title": "Nets Must Clean Up Turnover Bug, Control Pace",
-          "source": "Roundtable.io",
-          "link": "https://roundtable.io/sports/nba/nets/players/nets-must-clean-up-turnover-bug-control-pace",
-          "published": "2026-11-09T03:51:28Z"
+          "title": "Erik Spoelstra wants the Heat to embrace the media pressure after their slow start",
+          "source": "Sporting News",
+          "link": "https://www.sportingnews.com/us/nba/miami-heat/news/erik-spoelstra-heat-embrace-media-pressure-after-slow-start/e156ac6cbeaae3257e94dd2f",
+          "published": "2026-11-09T06:39:27Z"
         },
         {
-          "title": "Former All-Star Claims LeBron Leaving Lakers Helped Luka Doncic",
+          "title": "Frederick: Timberwolves taking care of business amid soft season-opening schedule",
+          "source": "TwinCities.com-Pioneer Press",
+          "link": "https://www.twincities.com/2026/11/09/frederick-timberwolves-taking-care-of-business-amid-soft-season-opening-schedule/",
+          "published": "2026-11-09T06:23:00Z"
+        },
+        {
+          "title": "Rui Hachimura Having Career-Best Season for Clippers",
           "source": "Heavy.com",
-          "link": "https://heavy.com/sports/nba/los-angeles-lakers/lebron-leaving-lakers-helped-luka-doncic/",
-          "published": "2026-11-09T03:48:32Z"
-        },
-        {
-          "title": "Recap: Utah Jazz Make History vs. Timberwolves",
-          "source": "Slcdunk.com",
-          "link": "https://www.slcdunk.com/utah-jazz-game-coverage/70634/recap-utah-jazz-make-history-vs-timberwolves",
-          "published": "2026-11-09T03:39:47Z"
+          "link": "https://heavy.com/sports/nba/los-angeles-clippers/rui-hachimura-having-career-best-season/",
+          "published": "2026-11-09T06:22:34Z"
         }
       ]
     },
@@ -589,47 +153,47 @@
       "away_team": "Boston Celtics",
       "home_abbr": "PHI",
       "away_abbr": "BOS",
-      "home_ml": "-101",
-      "away_ml": "-117",
-      "home_ml_raw": -101,
-      "away_ml_raw": -117,
-      "home_prob": 48.2,
-      "away_prob": 51.8,
+      "home_ml": "+102",
+      "away_ml": "-121",
+      "home_ml_raw": 102,
+      "away_ml_raw": -121,
+      "home_prob": 47.5,
+      "away_prob": 52.5,
       "spread": "PHI +1.5",
       "favorite": "Boston Celtics",
       "pick": "Boston Celtics",
       "pick_abbr": "BOS",
-      "moneyline": "-117",
-      "win_probability": 51.8,
+      "moneyline": "-121",
+      "win_probability": 52.5,
       "confidence": "LOW",
       "confidence_stars": "\u2605\u2606\u2606",
       "commence_time": "2026-11-11T01:10:00Z",
       "line_movement": {
         "home": {
           "direction": "longer",
-          "points_moved": 8,
+          "points_moved": 203,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM -101 \u2190 -109",
-          "old_ml": "-109",
-          "new_ml": "-101"
+          "label": "\ud83d\udd25 STEAM +102 \u2190 -101",
+          "old_ml": "-101",
+          "new_ml": "+102"
         },
         "away": {
           "direction": "shorter",
-          "points_moved": 8,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -117 \u2190 -109",
-          "old_ml": "-109",
-          "new_ml": "-117"
+          "points_moved": 4,
+          "steam": false,
+          "label": "\ud83d\udfe2 -121 \u2190 -117",
+          "old_ml": "-117",
+          "new_ml": "-121"
         },
         "pick": {
           "direction": "shorter",
-          "points_moved": 8,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -117 \u2190 -109",
-          "old_ml": "-109",
-          "new_ml": "-117"
+          "points_moved": 4,
+          "steam": false,
+          "label": "\ud83d\udfe2 -121 \u2190 -117",
+          "old_ml": "-117",
+          "new_ml": "-121"
         },
-        "snapshot_time": "November 09, 2026 at 09:18 PM UTC"
+        "snapshot_time": "November 10, 2026 at 03:58 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -693,9 +257,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "Boston Celtics hold a 51.8% edge.",
+        "trend": "Boston Celtics hold a 52.5% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -109 to -117 (8pt move) \u2014 heavy professional action on Boston Celtics.",
+        "steam": "Line moved -117\u2192-121 (4pts). Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -709,22 +273,167 @@
       },
       "news": [
         {
-          "title": "Nets Must Clean Up Turnover Bug, Control Pace",
-          "source": "Roundtable.io",
-          "link": "https://roundtable.io/sports/nba/nets/players/nets-must-clean-up-turnover-bug-control-pace",
-          "published": "2026-11-09T03:51:28Z"
+          "title": "Erik Spoelstra wants the Heat to embrace the media pressure after their slow start",
+          "source": "Sporting News",
+          "link": "https://www.sportingnews.com/us/nba/miami-heat/news/erik-spoelstra-heat-embrace-media-pressure-after-slow-start/e156ac6cbeaae3257e94dd2f",
+          "published": "2026-11-09T06:39:27Z"
         },
         {
-          "title": "Former All-Star Claims LeBron Leaving Lakers Helped Luka Doncic",
+          "title": "Frederick: Timberwolves taking care of business amid soft season-opening schedule",
+          "source": "TwinCities.com-Pioneer Press",
+          "link": "https://www.twincities.com/2026/11/09/frederick-timberwolves-taking-care-of-business-amid-soft-season-opening-schedule/",
+          "published": "2026-11-09T06:23:00Z"
+        },
+        {
+          "title": "Rui Hachimura Having Career-Best Season for Clippers",
           "source": "Heavy.com",
-          "link": "https://heavy.com/sports/nba/los-angeles-lakers/lebron-leaving-lakers-helped-luka-doncic/",
-          "published": "2026-11-09T03:48:32Z"
+          "link": "https://heavy.com/sports/nba/los-angeles-clippers/rui-hachimura-having-career-best-season/",
+          "published": "2026-11-09T06:22:34Z"
+        }
+      ]
+    },
+    {
+      "game": "Los Angeles Clippers @ Phoenix Suns",
+      "home_team": "Phoenix Suns",
+      "away_team": "Los Angeles Clippers",
+      "home_abbr": "PHX",
+      "away_abbr": "LAC",
+      "home_ml": "-180",
+      "away_ml": "+151",
+      "home_ml_raw": -180,
+      "away_ml_raw": 151,
+      "home_prob": 61.7,
+      "away_prob": 38.3,
+      "spread": "PHX -4.5",
+      "favorite": "Phoenix Suns",
+      "pick": "Phoenix Suns",
+      "pick_abbr": "PHX",
+      "moneyline": "-180",
+      "win_probability": 61.7,
+      "confidence": "MEDIUM",
+      "confidence_stars": "\u2605\u2605\u2606",
+      "commence_time": "2026-11-11T02:10:00Z",
+      "line_movement": {
+        "home": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "away": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "pick": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "snapshot_time": "\u2014"
+      },
+      "fatigue": {
+        "home": {
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Nov 09",
+          "days_rest": 1,
+          "games_last_4d": 2,
+          "travel_miles": 0,
+          "travel_desc": "",
+          "source": "ESPN Scoreboard API"
+        },
+        "away": {
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
+          "last_game": "Nov 08",
+          "days_rest": 2,
+          "games_last_4d": 1,
+          "travel_miles": 0,
+          "travel_desc": "",
+          "source": "ESPN Scoreboard API"
+        }
+      },
+      "edge_factors": [
+        "\ud83d\udcca 23.4pt probability edge"
+      ],
+      "injury_notes": "No key injuries.",
+      "sharp": {
+        "away_t": null,
+        "home_t": null,
+        "source": null,
+        "sharp_signal": null,
+        "sharp_label": "Pending \u2014 check closer to tip-off",
+        "rlm": false
+      },
+      "form": {
+        "home": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        },
+        "away": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        }
+      },
+      "h2h": {
+        "total_meetings": 0,
+        "home_wins": 0,
+        "away_wins": 0,
+        "meetings": [],
+        "source": "\u2014"
+      },
+      "briefing": {
+        "trend": "PHX on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "matchup": "Both rosters appear healthy \u2014 clean line.",
+        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "injury_notes": "No key injuries."
+      },
+      "live": {
+        "status": "pre",
+        "status_detail": "Upcoming",
+        "period": 0,
+        "clock": "",
+        "home_score": 0,
+        "away_score": 0,
+        "spread_alert": null
+      },
+      "news": [
+        {
+          "title": "Erik Spoelstra wants the Heat to embrace the media pressure after their slow start",
+          "source": "Sporting News",
+          "link": "https://www.sportingnews.com/us/nba/miami-heat/news/erik-spoelstra-heat-embrace-media-pressure-after-slow-start/e156ac6cbeaae3257e94dd2f",
+          "published": "2026-11-09T06:39:27Z"
         },
         {
-          "title": "Recap: Utah Jazz Make History vs. Timberwolves",
-          "source": "Slcdunk.com",
-          "link": "https://www.slcdunk.com/utah-jazz-game-coverage/70634/recap-utah-jazz-make-history-vs-timberwolves",
-          "published": "2026-11-09T03:39:47Z"
+          "title": "Frederick: Timberwolves taking care of business amid soft season-opening schedule",
+          "source": "TwinCities.com-Pioneer Press",
+          "link": "https://www.twincities.com/2026/11/09/frederick-timberwolves-taking-care-of-business-amid-soft-season-opening-schedule/",
+          "published": "2026-11-09T06:23:00Z"
+        },
+        {
+          "title": "Rui Hachimura Having Career-Best Season for Clippers",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/los-angeles-clippers/rui-hachimura-having-career-best-season/",
+          "published": "2026-11-09T06:22:34Z"
         }
       ]
     },
@@ -754,27 +463,27 @@
           "direction": "none",
           "points_moved": 0,
           "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "label": "No movement",
+          "old_ml": "+331",
+          "new_ml": "+331"
         },
         "away": {
           "direction": "none",
           "points_moved": 0,
           "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "label": "No movement",
+          "old_ml": "-423",
+          "new_ml": "-423"
         },
         "pick": {
           "direction": "none",
           "points_moved": 0,
           "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "label": "No movement",
+          "old_ml": "-423",
+          "new_ml": "-423"
         },
-        "snapshot_time": "\u2014"
+        "snapshot_time": "November 10, 2026 at 03:58 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -854,22 +563,22 @@
       },
       "news": [
         {
-          "title": "Nets Must Clean Up Turnover Bug, Control Pace",
-          "source": "Roundtable.io",
-          "link": "https://roundtable.io/sports/nba/nets/players/nets-must-clean-up-turnover-bug-control-pace",
-          "published": "2026-11-09T03:51:28Z"
+          "title": "Erik Spoelstra wants the Heat to embrace the media pressure after their slow start",
+          "source": "Sporting News",
+          "link": "https://www.sportingnews.com/us/nba/miami-heat/news/erik-spoelstra-heat-embrace-media-pressure-after-slow-start/e156ac6cbeaae3257e94dd2f",
+          "published": "2026-11-09T06:39:27Z"
         },
         {
-          "title": "Former All-Star Claims LeBron Leaving Lakers Helped Luka Doncic",
+          "title": "Frederick: Timberwolves taking care of business amid soft season-opening schedule",
+          "source": "TwinCities.com-Pioneer Press",
+          "link": "https://www.twincities.com/2026/11/09/frederick-timberwolves-taking-care-of-business-amid-soft-season-opening-schedule/",
+          "published": "2026-11-09T06:23:00Z"
+        },
+        {
+          "title": "Rui Hachimura Having Career-Best Season for Clippers",
           "source": "Heavy.com",
-          "link": "https://heavy.com/sports/nba/los-angeles-lakers/lebron-leaving-lakers-helped-luka-doncic/",
-          "published": "2026-11-09T03:48:32Z"
-        },
-        {
-          "title": "Recap: Utah Jazz Make History vs. Timberwolves",
-          "source": "Slcdunk.com",
-          "link": "https://www.slcdunk.com/utah-jazz-game-coverage/70634/recap-utah-jazz-make-history-vs-timberwolves",
-          "published": "2026-11-09T03:39:47Z"
+          "link": "https://heavy.com/sports/nba/los-angeles-clippers/rui-hachimura-having-career-best-season/",
+          "published": "2026-11-09T06:22:34Z"
         }
       ]
     },
@@ -879,47 +588,47 @@
       "away_team": "Orlando Magic",
       "home_abbr": "SAC",
       "away_abbr": "ORL",
-      "home_ml": "+181",
-      "away_ml": "-218",
-      "home_ml_raw": 181,
-      "away_ml_raw": -218,
-      "home_prob": 34.2,
-      "away_prob": 65.8,
+      "home_ml": "+196",
+      "away_ml": "-237",
+      "home_ml_raw": 196,
+      "away_ml_raw": -237,
+      "home_prob": 32.5,
+      "away_prob": 67.5,
       "spread": "SAC +5.5",
       "favorite": "Orlando Magic",
       "pick": "Orlando Magic",
       "pick_abbr": "ORL",
-      "moneyline": "-218",
-      "win_probability": 65.8,
+      "moneyline": "-237",
+      "win_probability": 67.5,
       "confidence": "MEDIUM",
       "confidence_stars": "\u2605\u2605\u2606",
       "commence_time": "2026-11-11T03:10:00Z",
       "line_movement": {
         "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "direction": "longer",
+          "points_moved": 15,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM +196 \u2190 +181",
+          "old_ml": "+181",
+          "new_ml": "+196"
         },
         "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "direction": "shorter",
+          "points_moved": 19,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -237 \u2190 -218",
+          "old_ml": "-218",
+          "new_ml": "-237"
         },
         "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "direction": "shorter",
+          "points_moved": 19,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -237 \u2190 -218",
+          "old_ml": "-218",
+          "new_ml": "-237"
         },
-        "snapshot_time": "\u2014"
+        "snapshot_time": "November 10, 2026 at 03:58 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -946,7 +655,7 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udcca 31.6pt probability edge"
+        "\ud83d\udd25 Sharp steam detected"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -983,9 +692,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "Orlando Magic hold a 65.8% edge.",
+        "trend": "Orlando Magic hold a 67.5% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "steam": "Line steamed from -218 to -237 (19pt move) \u2014 heavy professional action on Orlando Magic.",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -999,22 +708,22 @@
       },
       "news": [
         {
-          "title": "Nets Must Clean Up Turnover Bug, Control Pace",
-          "source": "Roundtable.io",
-          "link": "https://roundtable.io/sports/nba/nets/players/nets-must-clean-up-turnover-bug-control-pace",
-          "published": "2026-11-09T03:51:28Z"
+          "title": "Erik Spoelstra wants the Heat to embrace the media pressure after their slow start",
+          "source": "Sporting News",
+          "link": "https://www.sportingnews.com/us/nba/miami-heat/news/erik-spoelstra-heat-embrace-media-pressure-after-slow-start/e156ac6cbeaae3257e94dd2f",
+          "published": "2026-11-09T06:39:27Z"
         },
         {
-          "title": "Former All-Star Claims LeBron Leaving Lakers Helped Luka Doncic",
+          "title": "Frederick: Timberwolves taking care of business amid soft season-opening schedule",
+          "source": "TwinCities.com-Pioneer Press",
+          "link": "https://www.twincities.com/2026/11/09/frederick-timberwolves-taking-care-of-business-amid-soft-season-opening-schedule/",
+          "published": "2026-11-09T06:23:00Z"
+        },
+        {
+          "title": "Rui Hachimura Having Career-Best Season for Clippers",
           "source": "Heavy.com",
-          "link": "https://heavy.com/sports/nba/los-angeles-lakers/lebron-leaving-lakers-helped-luka-doncic/",
-          "published": "2026-11-09T03:48:32Z"
-        },
-        {
-          "title": "Recap: Utah Jazz Make History vs. Timberwolves",
-          "source": "Slcdunk.com",
-          "link": "https://www.slcdunk.com/utah-jazz-game-coverage/70634/recap-utah-jazz-make-history-vs-timberwolves",
-          "published": "2026-11-09T03:39:47Z"
+          "link": "https://heavy.com/sports/nba/los-angeles-clippers/rui-hachimura-having-career-best-season/",
+          "published": "2026-11-09T06:22:34Z"
         }
       ]
     },
@@ -1024,47 +733,47 @@
       "away_team": "Oklahoma City Thunder",
       "home_abbr": "POR",
       "away_abbr": "OKC",
-      "home_ml": "+103",
-      "away_ml": "-122",
-      "home_ml_raw": 103,
-      "away_ml_raw": -122,
-      "home_prob": 47.3,
-      "away_prob": 52.7,
-      "spread": "POR +1.5",
+      "home_ml": "+110",
+      "away_ml": "-130",
+      "home_ml_raw": 110,
+      "away_ml_raw": -130,
+      "home_prob": 45.7,
+      "away_prob": 54.3,
+      "spread": "POR +2.5",
       "favorite": "Oklahoma City Thunder",
       "pick": "Oklahoma City Thunder",
       "pick_abbr": "OKC",
-      "moneyline": "-122",
-      "win_probability": 52.7,
+      "moneyline": "-130",
+      "win_probability": 54.3,
       "confidence": "LOW",
       "confidence_stars": "\u2605\u2606\u2606",
       "commence_time": "2026-11-11T04:10:00Z",
       "line_movement": {
         "home": {
-          "direction": "none",
-          "points_moved": 0,
+          "direction": "longer",
+          "points_moved": 7,
           "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "label": "\ud83d\udd34 +110 \u2190 +103",
+          "old_ml": "+103",
+          "new_ml": "+110"
         },
         "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "direction": "shorter",
+          "points_moved": 8,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -130 \u2190 -122",
+          "old_ml": "-122",
+          "new_ml": "-130"
         },
         "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "direction": "shorter",
+          "points_moved": 8,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -130 \u2190 -122",
+          "old_ml": "-122",
+          "new_ml": "-130"
         },
-        "snapshot_time": "\u2014"
+        "snapshot_time": "November 10, 2026 at 03:58 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -1091,7 +800,7 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udcca 5.4pt probability edge"
+        "\ud83d\udd25 Sharp steam detected"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -1128,9 +837,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "Oklahoma City Thunder hold a 52.7% edge.",
+        "trend": "Oklahoma City Thunder hold a 54.3% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "steam": "Line steamed from -122 to -130 (8pt move) \u2014 heavy professional action on Oklahoma City Thunder.",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -1144,22 +853,22 @@
       },
       "news": [
         {
-          "title": "Nets Must Clean Up Turnover Bug, Control Pace",
-          "source": "Roundtable.io",
-          "link": "https://roundtable.io/sports/nba/nets/players/nets-must-clean-up-turnover-bug-control-pace",
-          "published": "2026-11-09T03:51:28Z"
+          "title": "Erik Spoelstra wants the Heat to embrace the media pressure after their slow start",
+          "source": "Sporting News",
+          "link": "https://www.sportingnews.com/us/nba/miami-heat/news/erik-spoelstra-heat-embrace-media-pressure-after-slow-start/e156ac6cbeaae3257e94dd2f",
+          "published": "2026-11-09T06:39:27Z"
         },
         {
-          "title": "Former All-Star Claims LeBron Leaving Lakers Helped Luka Doncic",
+          "title": "Frederick: Timberwolves taking care of business amid soft season-opening schedule",
+          "source": "TwinCities.com-Pioneer Press",
+          "link": "https://www.twincities.com/2026/11/09/frederick-timberwolves-taking-care-of-business-amid-soft-season-opening-schedule/",
+          "published": "2026-11-09T06:23:00Z"
+        },
+        {
+          "title": "Rui Hachimura Having Career-Best Season for Clippers",
           "source": "Heavy.com",
-          "link": "https://heavy.com/sports/nba/los-angeles-lakers/lebron-leaving-lakers-helped-luka-doncic/",
-          "published": "2026-11-09T03:48:32Z"
-        },
-        {
-          "title": "Recap: Utah Jazz Make History vs. Timberwolves",
-          "source": "Slcdunk.com",
-          "link": "https://www.slcdunk.com/utah-jazz-game-coverage/70634/recap-utah-jazz-make-history-vs-timberwolves",
-          "published": "2026-11-09T03:39:47Z"
+          "link": "https://heavy.com/sports/nba/los-angeles-clippers/rui-hachimura-having-career-best-season/",
+          "published": "2026-11-09T06:22:34Z"
         }
       ]
     },
@@ -1209,7 +918,7 @@
           "old_ml": "\u2014",
           "new_ml": "\u2014"
         },
-        "snapshot_time": "November 09, 2026 at 09:18 PM UTC"
+        "snapshot_time": "November 10, 2026 at 03:58 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -1289,22 +998,22 @@
       },
       "news": [
         {
-          "title": "Nets Must Clean Up Turnover Bug, Control Pace",
-          "source": "Roundtable.io",
-          "link": "https://roundtable.io/sports/nba/nets/players/nets-must-clean-up-turnover-bug-control-pace",
-          "published": "2026-11-09T03:51:28Z"
+          "title": "Erik Spoelstra wants the Heat to embrace the media pressure after their slow start",
+          "source": "Sporting News",
+          "link": "https://www.sportingnews.com/us/nba/miami-heat/news/erik-spoelstra-heat-embrace-media-pressure-after-slow-start/e156ac6cbeaae3257e94dd2f",
+          "published": "2026-11-09T06:39:27Z"
         },
         {
-          "title": "Former All-Star Claims LeBron Leaving Lakers Helped Luka Doncic",
+          "title": "Frederick: Timberwolves taking care of business amid soft season-opening schedule",
+          "source": "TwinCities.com-Pioneer Press",
+          "link": "https://www.twincities.com/2026/11/09/frederick-timberwolves-taking-care-of-business-amid-soft-season-opening-schedule/",
+          "published": "2026-11-09T06:23:00Z"
+        },
+        {
+          "title": "Rui Hachimura Having Career-Best Season for Clippers",
           "source": "Heavy.com",
-          "link": "https://heavy.com/sports/nba/los-angeles-lakers/lebron-leaving-lakers-helped-luka-doncic/",
-          "published": "2026-11-09T03:48:32Z"
-        },
-        {
-          "title": "Recap: Utah Jazz Make History vs. Timberwolves",
-          "source": "Slcdunk.com",
-          "link": "https://www.slcdunk.com/utah-jazz-game-coverage/70634/recap-utah-jazz-make-history-vs-timberwolves",
-          "published": "2026-11-09T03:39:47Z"
+          "link": "https://heavy.com/sports/nba/los-angeles-clippers/rui-hachimura-having-career-best-season/",
+          "published": "2026-11-09T06:22:34Z"
         }
       ]
     },
@@ -1354,7 +1063,7 @@
           "old_ml": "\u2014",
           "new_ml": "\u2014"
         },
-        "snapshot_time": "November 09, 2026 at 09:18 PM UTC"
+        "snapshot_time": "November 10, 2026 at 03:58 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -1434,22 +1143,22 @@
       },
       "news": [
         {
-          "title": "Nets Must Clean Up Turnover Bug, Control Pace",
-          "source": "Roundtable.io",
-          "link": "https://roundtable.io/sports/nba/nets/players/nets-must-clean-up-turnover-bug-control-pace",
-          "published": "2026-11-09T03:51:28Z"
+          "title": "Erik Spoelstra wants the Heat to embrace the media pressure after their slow start",
+          "source": "Sporting News",
+          "link": "https://www.sportingnews.com/us/nba/miami-heat/news/erik-spoelstra-heat-embrace-media-pressure-after-slow-start/e156ac6cbeaae3257e94dd2f",
+          "published": "2026-11-09T06:39:27Z"
         },
         {
-          "title": "Former All-Star Claims LeBron Leaving Lakers Helped Luka Doncic",
+          "title": "Frederick: Timberwolves taking care of business amid soft season-opening schedule",
+          "source": "TwinCities.com-Pioneer Press",
+          "link": "https://www.twincities.com/2026/11/09/frederick-timberwolves-taking-care-of-business-amid-soft-season-opening-schedule/",
+          "published": "2026-11-09T06:23:00Z"
+        },
+        {
+          "title": "Rui Hachimura Having Career-Best Season for Clippers",
           "source": "Heavy.com",
-          "link": "https://heavy.com/sports/nba/los-angeles-lakers/lebron-leaving-lakers-helped-luka-doncic/",
-          "published": "2026-11-09T03:48:32Z"
-        },
-        {
-          "title": "Recap: Utah Jazz Make History vs. Timberwolves",
-          "source": "Slcdunk.com",
-          "link": "https://www.slcdunk.com/utah-jazz-game-coverage/70634/recap-utah-jazz-make-history-vs-timberwolves",
-          "published": "2026-11-09T03:39:47Z"
+          "link": "https://heavy.com/sports/nba/los-angeles-clippers/rui-hachimura-having-career-best-season/",
+          "published": "2026-11-09T06:22:34Z"
         }
       ]
     },
@@ -1499,7 +1208,7 @@
           "old_ml": "\u2014",
           "new_ml": "\u2014"
         },
-        "snapshot_time": "November 09, 2026 at 09:18 PM UTC"
+        "snapshot_time": "November 10, 2026 at 03:58 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -1579,22 +1288,22 @@
       },
       "news": [
         {
-          "title": "Nets Must Clean Up Turnover Bug, Control Pace",
-          "source": "Roundtable.io",
-          "link": "https://roundtable.io/sports/nba/nets/players/nets-must-clean-up-turnover-bug-control-pace",
-          "published": "2026-11-09T03:51:28Z"
+          "title": "Erik Spoelstra wants the Heat to embrace the media pressure after their slow start",
+          "source": "Sporting News",
+          "link": "https://www.sportingnews.com/us/nba/miami-heat/news/erik-spoelstra-heat-embrace-media-pressure-after-slow-start/e156ac6cbeaae3257e94dd2f",
+          "published": "2026-11-09T06:39:27Z"
         },
         {
-          "title": "Former All-Star Claims LeBron Leaving Lakers Helped Luka Doncic",
+          "title": "Frederick: Timberwolves taking care of business amid soft season-opening schedule",
+          "source": "TwinCities.com-Pioneer Press",
+          "link": "https://www.twincities.com/2026/11/09/frederick-timberwolves-taking-care-of-business-amid-soft-season-opening-schedule/",
+          "published": "2026-11-09T06:23:00Z"
+        },
+        {
+          "title": "Rui Hachimura Having Career-Best Season for Clippers",
           "source": "Heavy.com",
-          "link": "https://heavy.com/sports/nba/los-angeles-lakers/lebron-leaving-lakers-helped-luka-doncic/",
-          "published": "2026-11-09T03:48:32Z"
-        },
-        {
-          "title": "Recap: Utah Jazz Make History vs. Timberwolves",
-          "source": "Slcdunk.com",
-          "link": "https://www.slcdunk.com/utah-jazz-game-coverage/70634/recap-utah-jazz-make-history-vs-timberwolves",
-          "published": "2026-11-09T03:39:47Z"
+          "link": "https://heavy.com/sports/nba/los-angeles-clippers/rui-hachimura-having-career-best-season/",
+          "published": "2026-11-09T06:22:34Z"
         }
       ]
     },
@@ -1644,7 +1353,7 @@
           "old_ml": "\u2014",
           "new_ml": "\u2014"
         },
-        "snapshot_time": "November 09, 2026 at 09:18 PM UTC"
+        "snapshot_time": "November 10, 2026 at 03:58 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -1724,66 +1433,66 @@
       },
       "news": [
         {
-          "title": "Nets Must Clean Up Turnover Bug, Control Pace",
-          "source": "Roundtable.io",
-          "link": "https://roundtable.io/sports/nba/nets/players/nets-must-clean-up-turnover-bug-control-pace",
-          "published": "2026-11-09T03:51:28Z"
+          "title": "Erik Spoelstra wants the Heat to embrace the media pressure after their slow start",
+          "source": "Sporting News",
+          "link": "https://www.sportingnews.com/us/nba/miami-heat/news/erik-spoelstra-heat-embrace-media-pressure-after-slow-start/e156ac6cbeaae3257e94dd2f",
+          "published": "2026-11-09T06:39:27Z"
         },
         {
-          "title": "Former All-Star Claims LeBron Leaving Lakers Helped Luka Doncic",
+          "title": "Frederick: Timberwolves taking care of business amid soft season-opening schedule",
+          "source": "TwinCities.com-Pioneer Press",
+          "link": "https://www.twincities.com/2026/11/09/frederick-timberwolves-taking-care-of-business-amid-soft-season-opening-schedule/",
+          "published": "2026-11-09T06:23:00Z"
+        },
+        {
+          "title": "Rui Hachimura Having Career-Best Season for Clippers",
           "source": "Heavy.com",
-          "link": "https://heavy.com/sports/nba/los-angeles-lakers/lebron-leaving-lakers-helped-luka-doncic/",
-          "published": "2026-11-09T03:48:32Z"
-        },
-        {
-          "title": "Recap: Utah Jazz Make History vs. Timberwolves",
-          "source": "Slcdunk.com",
-          "link": "https://www.slcdunk.com/utah-jazz-game-coverage/70634/recap-utah-jazz-make-history-vs-timberwolves",
-          "published": "2026-11-09T03:39:47Z"
+          "link": "https://heavy.com/sports/nba/los-angeles-clippers/rui-hachimura-having-career-best-season/",
+          "published": "2026-11-09T06:22:34Z"
         }
       ]
     }
   ],
   "track_record": {
     "LOW": {
-      "wins": 21,
+      "wins": 19,
       "losses": 16,
-      "total": 37,
-      "win_pct": 56.8,
-      "roi": 4.0,
-      "profit": 147.96
-    },
-    "MEDIUM": {
-      "wins": 49,
-      "losses": 21,
-      "total": 70,
-      "win_pct": 70.0,
-      "roi": 5.5,
-      "profit": 384.14
+      "total": 35,
+      "win_pct": 54.3,
+      "roi": -0.3,
+      "profit": -8.96
     },
     "HIGH": {
-      "wins": 35,
+      "wins": 36,
       "losses": 6,
-      "total": 41,
-      "win_pct": 85.4,
-      "roi": 3.2,
-      "profit": 130.73
+      "total": 42,
+      "win_pct": 85.7,
+      "roi": 3.7,
+      "profit": 157.19
+    },
+    "MEDIUM": {
+      "wins": 47,
+      "losses": 18,
+      "total": 65,
+      "win_pct": 72.3,
+      "roi": 8.8,
+      "profit": 574.43
     },
     "overall_7d": {
-      "wins": 34,
-      "losses": 7,
-      "total": 41,
-      "win_pct": 82.9,
-      "roi": 19.8,
-      "profit": 812.21
+      "wins": 35,
+      "losses": 5,
+      "total": 40,
+      "win_pct": 87.5,
+      "roi": 26.5,
+      "profit": 1059.97
     },
     "overall_30d": {
-      "wins": 84,
+      "wins": 86,
       "losses": 33,
-      "total": 117,
-      "win_pct": 71.8,
-      "roi": 3.5,
-      "profit": 406.18
+      "total": 119,
+      "win_pct": 72.3,
+      "roi": 3.9,
+      "profit": 468.23
     }
   }
 }

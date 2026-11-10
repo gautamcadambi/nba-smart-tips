@@ -2324,9 +2324,11 @@
       "win_probability": 70.8,
       "commence_time": "2026-11-10T02:10:00Z",
       "date": "2026-11-09T01:28:45.306119+00:00",
-      "graded": false,
-      "result": null,
-      "profit": null
+      "graded": true,
+      "result": "WIN",
+      "profit": 35.59,
+      "home_score": 96,
+      "away_score": 122
     },
     {
       "game": "Boston Celtics @ Philadelphia 76ers",
@@ -2432,9 +2434,11 @@
       "win_probability": 76.0,
       "commence_time": "2026-11-10T03:10:00Z",
       "date": "2026-11-09T05:29:53.780415+00:00",
-      "graded": false,
-      "result": null,
-      "profit": null
+      "graded": true,
+      "result": "WIN",
+      "profit": 26.46,
+      "home_score": 138,
+      "away_score": 87
     },
     {
       "game": "Milwaukee Bucks @ New York Knicks",
@@ -2491,49 +2495,105 @@
       "graded": false,
       "result": null,
       "profit": null
+    },
+    {
+      "game": "Los Angeles Clippers @ Phoenix Suns",
+      "pick": "Phoenix Suns",
+      "pick_abbr": "PHX",
+      "moneyline": "-180",
+      "moneyline_raw": -180,
+      "confidence": "MEDIUM",
+      "win_probability": 61.7,
+      "commence_time": "2026-11-11T02:10:00Z",
+      "date": "2026-11-10T06:40:55.704224+00:00",
+      "graded": false,
+      "result": null,
+      "profit": null
+    },
+    {
+      "game": "Miami Heat @ Boston Celtics",
+      "pick": "Boston Celtics",
+      "pick_abbr": "BOS",
+      "moneyline": "N/A",
+      "moneyline_raw": null,
+      "confidence": "LOW",
+      "win_probability": 50.0,
+      "commence_time": "2026-12-25T19:30:00Z",
+      "date": "2026-11-10T06:40:55.704224+00:00",
+      "graded": false,
+      "result": null,
+      "profit": null
+    },
+    {
+      "game": "Philadelphia 76ers @ Los Angeles Lakers",
+      "pick": "Los Angeles Lakers",
+      "pick_abbr": "LAL",
+      "moneyline": "N/A",
+      "moneyline_raw": null,
+      "confidence": "LOW",
+      "win_probability": 50.0,
+      "commence_time": "2026-12-25T22:00:00Z",
+      "date": "2026-11-10T06:40:55.704224+00:00",
+      "graded": false,
+      "result": null,
+      "profit": null
+    },
+    {
+      "game": "Denver Nuggets @ Golden State Warriors",
+      "pick": "Golden State Warriors",
+      "pick_abbr": "GSW",
+      "moneyline": "N/A",
+      "moneyline_raw": null,
+      "confidence": "LOW",
+      "win_probability": 50.0,
+      "commence_time": "2026-12-26T03:30:00Z",
+      "date": "2026-11-10T06:40:55.704224+00:00",
+      "graded": false,
+      "result": null,
+      "profit": null
     }
   ],
   "summary": {
     "LOW": {
-      "wins": 21,
+      "wins": 19,
       "losses": 16,
-      "total": 37,
-      "win_pct": 56.8,
-      "roi": 4.0,
-      "profit": 147.96
-    },
-    "MEDIUM": {
-      "wins": 49,
-      "losses": 21,
-      "total": 70,
-      "win_pct": 70.0,
-      "roi": 5.5,
-      "profit": 384.14
+      "total": 35,
+      "win_pct": 54.3,
+      "roi": -0.3,
+      "profit": -8.96
     },
     "HIGH": {
-      "wins": 35,
+      "wins": 36,
       "losses": 6,
-      "total": 41,
-      "win_pct": 85.4,
-      "roi": 3.2,
-      "profit": 130.73
+      "total": 42,
+      "win_pct": 85.7,
+      "roi": 3.7,
+      "profit": 157.19
+    },
+    "MEDIUM": {
+      "wins": 47,
+      "losses": 18,
+      "total": 65,
+      "win_pct": 72.3,
+      "roi": 8.8,
+      "profit": 574.43
     },
     "overall_7d": {
-      "wins": 34,
-      "losses": 7,
-      "total": 41,
-      "win_pct": 82.9,
-      "roi": 19.8,
-      "profit": 812.21
+      "wins": 35,
+      "losses": 5,
+      "total": 40,
+      "win_pct": 87.5,
+      "roi": 26.5,
+      "profit": 1059.97
     },
     "overall_30d": {
-      "wins": 84,
+      "wins": 86,
       "losses": 33,
-      "total": 117,
-      "win_pct": 71.8,
-      "roi": 3.5,
-      "profit": 406.18
+      "total": 119,
+      "win_pct": 72.3,
+      "roi": 3.9,
+      "profit": 468.23
     }
   },
-  "last_graded": "2026-11-10T03:58:00.040708+00:00"
+  "last_graded": "2026-11-10T06:40:08.308943+00:00"
 }
