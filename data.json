@@ -1,1099 +1,81 @@
 {
-  "last_updated": "November 09, 2026 at 09:18 PM UTC",
-  "total_games": 13,
+  "last_updated": "November 10, 2026 at 03:58 AM UTC",
+  "total_games": 12,
   "games": [
-    {
-      "game": "Los Angeles Lakers @ Atlanta Hawks",
-      "home_team": "Atlanta Hawks",
-      "away_team": "Los Angeles Lakers",
-      "home_abbr": "ATL",
-      "away_abbr": "LAL",
-      "home_ml": "-120",
-      "away_ml": "+101",
-      "home_ml_raw": -120,
-      "away_ml_raw": 101,
-      "home_prob": 52.3,
-      "away_prob": 47.7,
-      "spread": "ATL -1.5",
-      "favorite": "Atlanta Hawks",
-      "pick": "Atlanta Hawks",
-      "pick_abbr": "ATL",
-      "moneyline": "-120",
-      "win_probability": 52.3,
-      "confidence": "LOW",
-      "confidence_stars": "\u2605\u2606\u2606",
-      "commence_time": "2026-11-10T00:10:00Z",
-      "line_movement": {
-        "home": {
-          "direction": "shorter",
-          "points_moved": 3,
-          "steam": false,
-          "label": "\ud83d\udfe2 -120 \u2190 -117",
-          "old_ml": "-117",
-          "new_ml": "-120"
-        },
-        "away": {
-          "direction": "longer",
-          "points_moved": 202,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM +101 \u2190 -101",
-          "old_ml": "-101",
-          "new_ml": "+101"
-        },
-        "pick": {
-          "direction": "shorter",
-          "points_moved": 3,
-          "steam": false,
-          "label": "\ud83d\udfe2 -120 \u2190 -117",
-          "old_ml": "-117",
-          "new_ml": "-120"
-        },
-        "snapshot_time": "November 09, 2026 at 02:20 PM UTC"
-      },
-      "fatigue": {
-        "home": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "Nov 07",
-          "days_rest": 2,
-          "games_last_4d": 2,
-          "travel_miles": 0,
-          "travel_desc": "",
-          "source": "ESPN Scoreboard API"
-        },
-        "away": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
-          "last_game": "Nov 08",
-          "days_rest": 1,
-          "games_last_4d": 2,
-          "travel_miles": 1980,
-          "travel_desc": "1,980 mi road trip",
-          "source": "ESPN Scoreboard API"
-        }
-      },
-      "edge_factors": [
-        "\ud83d\udd25 Sharp steam detected",
-        "\ud83d\udca4 LAL fatigued (B2B) \u2014 source: ESPN",
-        "\u2708\ufe0f LAL traveled 1,980 mi"
-      ],
-      "injury_notes": "No key injuries.",
-      "sharp": {
-        "away_t": null,
-        "home_t": null,
-        "source": null,
-        "sharp_signal": null,
-        "sharp_label": "Pending \u2014 check closer to tip-off",
-        "rlm": false
-      },
-      "form": {
-        "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        },
-        "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        }
-      },
-      "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
-      },
-      "briefing": {
-        "trend": "LAL on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line moved -117\u2192-120 (3pts). Pending \u2014 check closer to tip-off",
-        "injury_notes": "No key injuries."
-      },
-      "live": {
-        "status": "pre",
-        "status_detail": "Upcoming",
-        "period": 0,
-        "clock": "",
-        "home_score": 0,
-        "away_score": 0,
-        "spread_alert": null
-      },
-      "news": [
-        {
-          "title": "NBA rumors: Thunder beat out Lakers, Nuggets for Nique Clifford trade",
-          "source": "ClutchPoints",
-          "link": "https://clutchpoints.com/nba/nba-stories/nba-rumors-thunder-beat-lakers-nuggets-nique-clifford-trade",
-          "published": "2026-11-08T21:15:51Z"
-        },
-        {
-          "title": "Spurs' Mitch Johnson: Carter Bryant remains 'huge part of this team'",
-          "source": "San Antonio Express-News",
-          "link": "https://www.expressnews.com/sports/spurs/article/spurs-mitch-johnson-carter-bryant-remains-huge-22519649.php?utm_medium=referral&amp;utm_campaign=yahoo_syndication",
-          "published": "2026-11-08T21:05:54Z"
-        },
-        {
-          "title": "Six takeaways from UVA basketball\u2019s 91-72 win over No.\u00a012 Arkansas",
-          "source": "Streaking The Lawn",
-          "link": "https://www.streakingthelawn.com/virginia-cavaliers-basketball/54619/six-takeaways-from-uva-basketballs-91-72-win-over-no-12-arkansas",
-          "published": "2026-11-08T21:05:09Z"
-        }
-      ]
-    },
-    {
-      "game": "Cleveland Cavaliers @ Charlotte Hornets",
-      "home_team": "Charlotte Hornets",
-      "away_team": "Cleveland Cavaliers",
-      "home_abbr": "CHA",
-      "away_abbr": "CLE",
-      "home_ml": "+270",
-      "away_ml": "-337",
-      "home_ml_raw": 270,
-      "away_ml_raw": -337,
-      "home_prob": 26.0,
-      "away_prob": 74.0,
-      "spread": "CHA +8.5",
-      "favorite": "Cleveland Cavaliers",
-      "pick": "Cleveland Cavaliers",
-      "pick_abbr": "CLE",
-      "moneyline": "-337",
-      "win_probability": 74.0,
-      "confidence": "HIGH",
-      "confidence_stars": "\u2605\u2605\u2605",
-      "commence_time": "2026-11-10T00:10:00Z",
-      "line_movement": {
-        "home": {
-          "direction": "shorter",
-          "points_moved": 6,
-          "steam": false,
-          "label": "\ud83d\udfe2 +270 \u2190 +276",
-          "old_ml": "+276",
-          "new_ml": "+270"
-        },
-        "away": {
-          "direction": "longer",
-          "points_moved": 7,
-          "steam": false,
-          "label": "\ud83d\udd34 -337 \u2190 -344",
-          "old_ml": "-344",
-          "new_ml": "-337"
-        },
-        "pick": {
-          "direction": "longer",
-          "points_moved": 7,
-          "steam": false,
-          "label": "\ud83d\udd34 -337 \u2190 -344",
-          "old_ml": "-344",
-          "new_ml": "-337"
-        },
-        "snapshot_time": "November 09, 2026 at 02:20 PM UTC"
-      },
-      "fatigue": {
-        "home": {
-          "status": "RESTED",
-          "label": "2 days rest \u2705",
-          "battery": 88,
-          "last_game": "Nov 06",
-          "days_rest": 3,
-          "games_last_4d": 1,
-          "travel_miles": 0,
-          "travel_desc": "",
-          "source": "ESPN Scoreboard API"
-        },
-        "away": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "Nov 07",
-          "days_rest": 2,
-          "games_last_4d": 2,
-          "travel_miles": 0,
-          "travel_desc": "",
-          "source": "ESPN Scoreboard API"
-        }
-      },
-      "edge_factors": [
-        "\ud83d\udcca 48.0pt probability edge"
-      ],
-      "injury_notes": "No key injuries.",
-      "sharp": {
-        "away_t": null,
-        "home_t": null,
-        "source": null,
-        "sharp_signal": null,
-        "sharp_label": "Pending \u2014 check closer to tip-off",
-        "rlm": false
-      },
-      "form": {
-        "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        },
-        "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        }
-      },
-      "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
-      },
-      "briefing": {
-        "trend": "Cleveland Cavaliers hold a 74.0% edge.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line moved -344\u2192-337 (7pts). Pending \u2014 check closer to tip-off",
-        "injury_notes": "No key injuries."
-      },
-      "live": {
-        "status": "pre",
-        "status_detail": "Upcoming",
-        "period": 0,
-        "clock": "",
-        "home_score": 0,
-        "away_score": 0,
-        "spread_alert": null
-      },
-      "news": [
-        {
-          "title": "NBA rumors: Thunder beat out Lakers, Nuggets for Nique Clifford trade",
-          "source": "ClutchPoints",
-          "link": "https://clutchpoints.com/nba/nba-stories/nba-rumors-thunder-beat-lakers-nuggets-nique-clifford-trade",
-          "published": "2026-11-08T21:15:51Z"
-        },
-        {
-          "title": "Spurs' Mitch Johnson: Carter Bryant remains 'huge part of this team'",
-          "source": "San Antonio Express-News",
-          "link": "https://www.expressnews.com/sports/spurs/article/spurs-mitch-johnson-carter-bryant-remains-huge-22519649.php?utm_medium=referral&amp;utm_campaign=yahoo_syndication",
-          "published": "2026-11-08T21:05:54Z"
-        },
-        {
-          "title": "Six takeaways from UVA basketball\u2019s 91-72 win over No.\u00a012 Arkansas",
-          "source": "Streaking The Lawn",
-          "link": "https://www.streakingthelawn.com/virginia-cavaliers-basketball/54619/six-takeaways-from-uva-basketballs-91-72-win-over-no-12-arkansas",
-          "published": "2026-11-08T21:05:09Z"
-        }
-      ]
-    },
-    {
-      "game": "Washington Wizards @ Detroit Pistons",
-      "home_team": "Detroit Pistons",
-      "away_team": "Washington Wizards",
-      "home_abbr": "DET",
-      "away_abbr": "WAS",
-      "home_ml": "-518",
-      "away_ml": "+394",
-      "home_ml_raw": -518,
-      "away_ml_raw": 394,
-      "home_prob": 80.5,
-      "away_prob": 19.5,
-      "spread": "DET -10.5",
-      "favorite": "Detroit Pistons",
-      "pick": "Detroit Pistons",
-      "pick_abbr": "DET",
-      "moneyline": "-518",
-      "win_probability": 80.5,
-      "confidence": "HIGH",
-      "confidence_stars": "\u2605\u2605\u2605",
-      "commence_time": "2026-11-10T00:10:00Z",
-      "line_movement": {
-        "home": {
-          "direction": "shorter",
-          "points_moved": 28,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -518 \u2190 -490",
-          "old_ml": "-490",
-          "new_ml": "-518"
-        },
-        "away": {
-          "direction": "longer",
-          "points_moved": 18,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM +394 \u2190 +376",
-          "old_ml": "+376",
-          "new_ml": "+394"
-        },
-        "pick": {
-          "direction": "shorter",
-          "points_moved": 28,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -518 \u2190 -490",
-          "old_ml": "-490",
-          "new_ml": "-518"
-        },
-        "snapshot_time": "November 09, 2026 at 02:20 PM UTC"
-      },
-      "fatigue": {
-        "home": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
-          "last_game": "Nov 08",
-          "days_rest": 1,
-          "games_last_4d": 1,
-          "travel_miles": 0,
-          "travel_desc": "",
-          "source": "ESPN Scoreboard API"
-        },
-        "away": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "Nov 07",
-          "days_rest": 2,
-          "games_last_4d": 2,
-          "travel_miles": 1150,
-          "travel_desc": "1,150 mi road trip",
-          "source": "ESPN Scoreboard API"
-        }
-      },
-      "edge_factors": [
-        "\ud83d\udd25 Sharp steam detected"
-      ],
-      "injury_notes": "No key injuries.",
-      "sharp": {
-        "away_t": null,
-        "home_t": null,
-        "source": null,
-        "sharp_signal": null,
-        "sharp_label": "Pending \u2014 check closer to tip-off",
-        "rlm": false
-      },
-      "form": {
-        "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        },
-        "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        }
-      },
-      "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
-      },
-      "briefing": {
-        "trend": "DET on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -490 to -518 (28pt move) \u2014 heavy professional action on Detroit Pistons.",
-        "injury_notes": "No key injuries."
-      },
-      "live": {
-        "status": "pre",
-        "status_detail": "Upcoming",
-        "period": 0,
-        "clock": "",
-        "home_score": 0,
-        "away_score": 0,
-        "spread_alert": null
-      },
-      "news": [
-        {
-          "title": "NBA rumors: Thunder beat out Lakers, Nuggets for Nique Clifford trade",
-          "source": "ClutchPoints",
-          "link": "https://clutchpoints.com/nba/nba-stories/nba-rumors-thunder-beat-lakers-nuggets-nique-clifford-trade",
-          "published": "2026-11-08T21:15:51Z"
-        },
-        {
-          "title": "Spurs' Mitch Johnson: Carter Bryant remains 'huge part of this team'",
-          "source": "San Antonio Express-News",
-          "link": "https://www.expressnews.com/sports/spurs/article/spurs-mitch-johnson-carter-bryant-remains-huge-22519649.php?utm_medium=referral&amp;utm_campaign=yahoo_syndication",
-          "published": "2026-11-08T21:05:54Z"
-        },
-        {
-          "title": "Six takeaways from UVA basketball\u2019s 91-72 win over No.\u00a012 Arkansas",
-          "source": "Streaking The Lawn",
-          "link": "https://www.streakingthelawn.com/virginia-cavaliers-basketball/54619/six-takeaways-from-uva-basketballs-91-72-win-over-no-12-arkansas",
-          "published": "2026-11-08T21:05:09Z"
-        }
-      ]
-    },
-    {
-      "game": "Memphis Grizzlies @ Toronto Raptors",
-      "home_team": "Toronto Raptors",
-      "away_team": "Memphis Grizzlies",
-      "home_abbr": "TOR",
-      "away_abbr": "MEM",
-      "home_ml": "-142",
-      "away_ml": "+120",
-      "home_ml_raw": -142,
-      "away_ml_raw": 120,
-      "home_prob": 56.3,
-      "away_prob": 43.7,
-      "spread": "TOR -2.5",
-      "favorite": "Toronto Raptors",
-      "pick": "Toronto Raptors",
-      "pick_abbr": "TOR",
-      "moneyline": "-142",
-      "win_probability": 56.3,
-      "confidence": "LOW",
-      "confidence_stars": "\u2605\u2606\u2606",
-      "commence_time": "2026-11-10T00:40:00Z",
-      "line_movement": {
-        "home": {
-          "direction": "longer",
-          "points_moved": 14,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -142 \u2190 -156",
-          "old_ml": "-156",
-          "new_ml": "-142"
-        },
-        "away": {
-          "direction": "shorter",
-          "points_moved": 11,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM +120 \u2190 +131",
-          "old_ml": "+131",
-          "new_ml": "+120"
-        },
-        "pick": {
-          "direction": "longer",
-          "points_moved": 14,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -142 \u2190 -156",
-          "old_ml": "-156",
-          "new_ml": "-142"
-        },
-        "snapshot_time": "November 09, 2026 at 02:20 PM UTC"
-      },
-      "fatigue": {
-        "home": {
-          "status": "RESTED",
-          "label": "2 days rest \u2705",
-          "battery": 88,
-          "last_game": "Nov 06",
-          "days_rest": 3,
-          "games_last_4d": 1,
-          "travel_miles": 431,
-          "travel_desc": "431 mi road trip",
-          "source": "ESPN Scoreboard API"
-        },
-        "away": {
-          "status": "RESTED",
-          "label": "2 days rest \u2705",
-          "battery": 88,
-          "last_game": "Nov 06",
-          "days_rest": 3,
-          "games_last_4d": 1,
-          "travel_miles": 0,
-          "travel_desc": "",
-          "source": "ESPN Scoreboard API"
-        }
-      },
-      "edge_factors": [
-        "\ud83d\udd25 Sharp steam detected"
-      ],
-      "injury_notes": "No key injuries.",
-      "sharp": {
-        "away_t": null,
-        "home_t": null,
-        "source": null,
-        "sharp_signal": null,
-        "sharp_label": "Pending \u2014 check closer to tip-off",
-        "rlm": false
-      },
-      "form": {
-        "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        },
-        "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        }
-      },
-      "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
-      },
-      "briefing": {
-        "trend": "Toronto Raptors hold a 56.3% edge.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -156 to -142 (14pt move) \u2014 heavy professional action on Toronto Raptors.",
-        "injury_notes": "No key injuries."
-      },
-      "live": {
-        "status": "pre",
-        "status_detail": "Upcoming",
-        "period": 0,
-        "clock": "",
-        "home_score": 0,
-        "away_score": 0,
-        "spread_alert": null
-      },
-      "news": [
-        {
-          "title": "NBA rumors: Thunder beat out Lakers, Nuggets for Nique Clifford trade",
-          "source": "ClutchPoints",
-          "link": "https://clutchpoints.com/nba/nba-stories/nba-rumors-thunder-beat-lakers-nuggets-nique-clifford-trade",
-          "published": "2026-11-08T21:15:51Z"
-        },
-        {
-          "title": "Spurs' Mitch Johnson: Carter Bryant remains 'huge part of this team'",
-          "source": "San Antonio Express-News",
-          "link": "https://www.expressnews.com/sports/spurs/article/spurs-mitch-johnson-carter-bryant-remains-huge-22519649.php?utm_medium=referral&amp;utm_campaign=yahoo_syndication",
-          "published": "2026-11-08T21:05:54Z"
-        },
-        {
-          "title": "Six takeaways from UVA basketball\u2019s 91-72 win over No.\u00a012 Arkansas",
-          "source": "Streaking The Lawn",
-          "link": "https://www.streakingthelawn.com/virginia-cavaliers-basketball/54619/six-takeaways-from-uva-basketballs-91-72-win-over-no-12-arkansas",
-          "published": "2026-11-08T21:05:09Z"
-        }
-      ]
-    },
-    {
-      "game": "Indiana Pacers @ Dallas Mavericks",
-      "home_team": "Dallas Mavericks",
-      "away_team": "Indiana Pacers",
-      "home_abbr": "DAL",
-      "away_abbr": "IND",
-      "home_ml": "-170",
-      "away_ml": "+143",
-      "home_ml_raw": -170,
-      "away_ml_raw": 143,
-      "home_prob": 60.5,
-      "away_prob": 39.5,
-      "spread": "DAL -4.5",
-      "favorite": "Dallas Mavericks",
-      "pick": "Dallas Mavericks",
-      "pick_abbr": "DAL",
-      "moneyline": "-170",
-      "win_probability": 60.5,
-      "confidence": "MEDIUM",
-      "confidence_stars": "\u2605\u2605\u2606",
-      "commence_time": "2026-11-10T01:10:00Z",
-      "line_movement": {
-        "home": {
-          "direction": "shorter",
-          "points_moved": 15,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -170 \u2190 -155",
-          "old_ml": "-155",
-          "new_ml": "-170"
-        },
-        "away": {
-          "direction": "longer",
-          "points_moved": 12,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM +143 \u2190 +131",
-          "old_ml": "+131",
-          "new_ml": "+143"
-        },
-        "pick": {
-          "direction": "shorter",
-          "points_moved": 15,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -170 \u2190 -155",
-          "old_ml": "-155",
-          "new_ml": "-170"
-        },
-        "snapshot_time": "November 09, 2026 at 02:20 PM UTC"
-      },
-      "fatigue": {
-        "home": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
-          "last_game": "Nov 08",
-          "days_rest": 1,
-          "games_last_4d": 2,
-          "travel_miles": 0,
-          "travel_desc": "",
-          "source": "ESPN Scoreboard API"
-        },
-        "away": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "Nov 07",
-          "days_rest": 2,
-          "games_last_4d": 1,
-          "travel_miles": 0,
-          "travel_desc": "",
-          "source": "ESPN Scoreboard API"
-        }
-      },
-      "edge_factors": [
-        "\ud83d\udd25 Sharp steam detected"
-      ],
-      "injury_notes": "No key injuries.",
-      "sharp": {
-        "away_t": null,
-        "home_t": null,
-        "source": null,
-        "sharp_signal": null,
-        "sharp_label": "Pending \u2014 check closer to tip-off",
-        "rlm": false
-      },
-      "form": {
-        "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        },
-        "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        }
-      },
-      "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
-      },
-      "briefing": {
-        "trend": "DAL on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -155 to -170 (15pt move) \u2014 heavy professional action on Dallas Mavericks.",
-        "injury_notes": "No key injuries."
-      },
-      "live": {
-        "status": "pre",
-        "status_detail": "Upcoming",
-        "period": 0,
-        "clock": "",
-        "home_score": 0,
-        "away_score": 0,
-        "spread_alert": null
-      },
-      "news": [
-        {
-          "title": "NBA rumors: Thunder beat out Lakers, Nuggets for Nique Clifford trade",
-          "source": "ClutchPoints",
-          "link": "https://clutchpoints.com/nba/nba-stories/nba-rumors-thunder-beat-lakers-nuggets-nique-clifford-trade",
-          "published": "2026-11-08T21:15:51Z"
-        },
-        {
-          "title": "Spurs' Mitch Johnson: Carter Bryant remains 'huge part of this team'",
-          "source": "San Antonio Express-News",
-          "link": "https://www.expressnews.com/sports/spurs/article/spurs-mitch-johnson-carter-bryant-remains-huge-22519649.php?utm_medium=referral&amp;utm_campaign=yahoo_syndication",
-          "published": "2026-11-08T21:05:54Z"
-        },
-        {
-          "title": "Six takeaways from UVA basketball\u2019s 91-72 win over No.\u00a012 Arkansas",
-          "source": "Streaking The Lawn",
-          "link": "https://www.streakingthelawn.com/virginia-cavaliers-basketball/54619/six-takeaways-from-uva-basketballs-91-72-win-over-no-12-arkansas",
-          "published": "2026-11-08T21:05:09Z"
-        }
-      ]
-    },
     {
       "game": "Denver Nuggets @ Houston Rockets",
       "home_team": "Houston Rockets",
       "away_team": "Denver Nuggets",
       "home_abbr": "HOU",
       "away_abbr": "DEN",
-      "home_ml": "-173",
-      "away_ml": "+146",
-      "home_ml_raw": -173,
-      "away_ml_raw": 146,
-      "home_prob": 60.9,
-      "away_prob": 39.1,
-      "spread": "HOU -4.5",
+      "home_ml": "N/A",
+      "away_ml": "N/A",
+      "home_ml_raw": null,
+      "away_ml_raw": null,
+      "home_prob": 50.0,
+      "away_prob": 50.0,
+      "spread": "HOU -11.5",
       "favorite": "Houston Rockets",
       "pick": "Houston Rockets",
       "pick_abbr": "HOU",
-      "moneyline": "-173",
-      "win_probability": 60.9,
-      "confidence": "MEDIUM",
-      "confidence_stars": "\u2605\u2605\u2606",
-      "commence_time": "2026-11-10T01:40:00Z",
+      "moneyline": "N/A",
+      "win_probability": 50.0,
+      "confidence": "LOW",
+      "confidence_stars": "\u2605\u2606\u2606",
+      "commence_time": "2026-11-10T01:41:00Z",
       "line_movement": {
         "home": {
-          "direction": "longer",
-          "points_moved": 171,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -173 \u2190 -344",
-          "old_ml": "-344",
-          "new_ml": "-173"
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
         },
         "away": {
-          "direction": "shorter",
-          "points_moved": 130,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM +146 \u2190 +276",
-          "old_ml": "+276",
-          "new_ml": "+146"
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
         },
         "pick": {
-          "direction": "longer",
-          "points_moved": 171,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -173 \u2190 -344",
-          "old_ml": "-344",
-          "new_ml": "-173"
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
         },
-        "snapshot_time": "November 09, 2026 at 02:20 PM UTC"
+        "snapshot_time": "November 09, 2026 at 09:18 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "Nov 07",
-          "days_rest": 2,
-          "games_last_4d": 1,
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Nov 09",
+          "days_rest": 1,
+          "games_last_4d": 2,
           "travel_miles": 1015,
           "travel_desc": "1,015 mi road trip",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "Nov 07",
-          "days_rest": 2,
-          "games_last_4d": 1,
-          "travel_miles": 999,
-          "travel_desc": "999 mi road trip",
-          "source": "ESPN Scoreboard API"
-        }
-      },
-      "edge_factors": [
-        "\ud83d\udd25 Sharp steam detected"
-      ],
-      "injury_notes": "No key injuries.",
-      "sharp": {
-        "away_t": null,
-        "home_t": null,
-        "source": null,
-        "sharp_signal": null,
-        "sharp_label": "Pending \u2014 check closer to tip-off",
-        "rlm": false
-      },
-      "form": {
-        "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        },
-        "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        }
-      },
-      "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
-      },
-      "briefing": {
-        "trend": "Houston Rockets hold a 60.9% edge.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -344 to -173 (171pt move) \u2014 heavy professional action on Houston Rockets.",
-        "injury_notes": "No key injuries."
-      },
-      "live": {
-        "status": "pre",
-        "status_detail": "Upcoming",
-        "period": 0,
-        "clock": "",
-        "home_score": 0,
-        "away_score": 0,
-        "spread_alert": null
-      },
-      "news": [
-        {
-          "title": "NBA rumors: Thunder beat out Lakers, Nuggets for Nique Clifford trade",
-          "source": "ClutchPoints",
-          "link": "https://clutchpoints.com/nba/nba-stories/nba-rumors-thunder-beat-lakers-nuggets-nique-clifford-trade",
-          "published": "2026-11-08T21:15:51Z"
-        },
-        {
-          "title": "Spurs' Mitch Johnson: Carter Bryant remains 'huge part of this team'",
-          "source": "San Antonio Express-News",
-          "link": "https://www.expressnews.com/sports/spurs/article/spurs-mitch-johnson-carter-bryant-remains-huge-22519649.php?utm_medium=referral&amp;utm_campaign=yahoo_syndication",
-          "published": "2026-11-08T21:05:54Z"
-        },
-        {
-          "title": "Six takeaways from UVA basketball\u2019s 91-72 win over No.\u00a012 Arkansas",
-          "source": "Streaking The Lawn",
-          "link": "https://www.streakingthelawn.com/virginia-cavaliers-basketball/54619/six-takeaways-from-uva-basketballs-91-72-win-over-no-12-arkansas",
-          "published": "2026-11-08T21:05:09Z"
-        }
-      ]
-    },
-    {
-      "game": "San Antonio Spurs @ Phoenix Suns",
-      "home_team": "Phoenix Suns",
-      "away_team": "San Antonio Spurs",
-      "home_abbr": "PHX",
-      "away_abbr": "SAS",
-      "home_ml": "+296",
-      "away_ml": "-372",
-      "home_ml_raw": 296,
-      "away_ml_raw": -372,
-      "home_prob": 24.3,
-      "away_prob": 75.7,
-      "spread": "PHX +8.5",
-      "favorite": "San Antonio Spurs",
-      "pick": "San Antonio Spurs",
-      "pick_abbr": "SAS",
-      "moneyline": "-372",
-      "win_probability": 75.7,
-      "confidence": "HIGH",
-      "confidence_stars": "\u2605\u2605\u2605",
-      "commence_time": "2026-11-10T02:10:00Z",
-      "line_movement": {
-        "home": {
-          "direction": "longer",
-          "points_moved": 10,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM +296 \u2190 +286",
-          "old_ml": "+286",
-          "new_ml": "+296"
-        },
-        "away": {
-          "direction": "shorter",
-          "points_moved": 13,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -372 \u2190 -359",
-          "old_ml": "-359",
-          "new_ml": "-372"
-        },
-        "pick": {
-          "direction": "shorter",
-          "points_moved": 13,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -372 \u2190 -359",
-          "old_ml": "-359",
-          "new_ml": "-372"
-        },
-        "snapshot_time": "November 09, 2026 at 02:20 PM UTC"
-      },
-      "fatigue": {
-        "home": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "Nov 07",
-          "days_rest": 2,
-          "games_last_4d": 2,
-          "travel_miles": 0,
-          "travel_desc": "",
-          "source": "ESPN Scoreboard API"
-        },
-        "away": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "Nov 07",
-          "days_rest": 2,
-          "games_last_4d": 2,
-          "travel_miles": 1721,
-          "travel_desc": "1,721 mi road trip",
-          "source": "ESPN Scoreboard API"
-        }
-      },
-      "edge_factors": [
-        "\ud83d\udd25 Sharp steam detected"
-      ],
-      "injury_notes": "No key injuries.",
-      "sharp": {
-        "away_t": null,
-        "home_t": null,
-        "source": null,
-        "sharp_signal": null,
-        "sharp_label": "Pending \u2014 check closer to tip-off",
-        "rlm": false
-      },
-      "form": {
-        "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        },
-        "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        }
-      },
-      "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
-      },
-      "briefing": {
-        "trend": "San Antonio Spurs hold a 75.7% edge.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -359 to -372 (13pt move) \u2014 heavy professional action on San Antonio Spurs.",
-        "injury_notes": "No key injuries."
-      },
-      "live": {
-        "status": "pre",
-        "status_detail": "Upcoming",
-        "period": 0,
-        "clock": "",
-        "home_score": 0,
-        "away_score": 0,
-        "spread_alert": null
-      },
-      "news": [
-        {
-          "title": "NBA rumors: Thunder beat out Lakers, Nuggets for Nique Clifford trade",
-          "source": "ClutchPoints",
-          "link": "https://clutchpoints.com/nba/nba-stories/nba-rumors-thunder-beat-lakers-nuggets-nique-clifford-trade",
-          "published": "2026-11-08T21:15:51Z"
-        },
-        {
-          "title": "Spurs' Mitch Johnson: Carter Bryant remains 'huge part of this team'",
-          "source": "San Antonio Express-News",
-          "link": "https://www.expressnews.com/sports/spurs/article/spurs-mitch-johnson-carter-bryant-remains-huge-22519649.php?utm_medium=referral&amp;utm_campaign=yahoo_syndication",
-          "published": "2026-11-08T21:05:54Z"
-        },
-        {
-          "title": "Six takeaways from UVA basketball\u2019s 91-72 win over No.\u00a012 Arkansas",
-          "source": "Streaking The Lawn",
-          "link": "https://www.streakingthelawn.com/virginia-cavaliers-basketball/54619/six-takeaways-from-uva-basketballs-91-72-win-over-no-12-arkansas",
-          "published": "2026-11-08T21:05:09Z"
-        }
-      ]
-    },
-    {
-      "game": "New Orleans Pelicans @ Golden State Warriors",
-      "home_team": "Golden State Warriors",
-      "away_team": "New Orleans Pelicans",
-      "home_abbr": "GSW",
-      "away_abbr": "NOP",
-      "home_ml": "-448",
-      "away_ml": "+348",
-      "home_ml_raw": -448,
-      "away_ml_raw": 348,
-      "home_prob": 78.6,
-      "away_prob": 21.4,
-      "spread": "GSW -9.5",
-      "favorite": "Golden State Warriors",
-      "pick": "Golden State Warriors",
-      "pick_abbr": "GSW",
-      "moneyline": "-448",
-      "win_probability": 78.6,
-      "confidence": "HIGH",
-      "confidence_stars": "\u2605\u2605\u2605",
-      "commence_time": "2026-11-10T03:10:00Z",
-      "line_movement": {
-        "home": {
-          "direction": "shorter",
-          "points_moved": 53,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -448 \u2190 -395",
-          "old_ml": "-395",
-          "new_ml": "-448"
-        },
-        "away": {
-          "direction": "longer",
-          "points_moved": 36,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM +348 \u2190 +312",
-          "old_ml": "+312",
-          "new_ml": "+348"
-        },
-        "pick": {
-          "direction": "shorter",
-          "points_moved": 53,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -448 \u2190 -395",
-          "old_ml": "-395",
-          "new_ml": "-448"
-        },
-        "snapshot_time": "November 09, 2026 at 02:20 PM UTC"
-      },
-      "fatigue": {
-        "home": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "Nov 07",
-          "days_rest": 2,
-          "games_last_4d": 2,
-          "travel_miles": 0,
-          "travel_desc": "",
-          "source": "ESPN Scoreboard API"
-        },
-        "away": {
           "status": "B2B",
           "label": "Back-to-Back \u26a0\ufe0f",
           "battery": 20,
-          "last_game": "Nov 08",
+          "last_game": "Nov 09",
           "days_rest": 1,
           "games_last_4d": 2,
-          "travel_miles": 1670,
-          "travel_desc": "1,670 mi road trip",
+          "travel_miles": 880,
+          "travel_desc": "880 mi road trip",
           "source": "ESPN Scoreboard API"
         }
       },
       "edge_factors": [
-        "\ud83d\udd25 Sharp steam detected",
-        "\ud83d\udca4 NOP fatigued (B2B) \u2014 source: ESPN"
+        "\ud83d\udca4 DEN fatigued (B2B) \u2014 source: ESPN"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -1130,152 +112,7 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "NOP on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -395 to -448 (53pt move) \u2014 heavy professional action on Golden State Warriors.",
-        "injury_notes": "No key injuries."
-      },
-      "live": {
-        "status": "pre",
-        "status_detail": "Upcoming",
-        "period": 0,
-        "clock": "",
-        "home_score": 0,
-        "away_score": 0,
-        "spread_alert": null
-      },
-      "news": [
-        {
-          "title": "NBA rumors: Thunder beat out Lakers, Nuggets for Nique Clifford trade",
-          "source": "ClutchPoints",
-          "link": "https://clutchpoints.com/nba/nba-stories/nba-rumors-thunder-beat-lakers-nuggets-nique-clifford-trade",
-          "published": "2026-11-08T21:15:51Z"
-        },
-        {
-          "title": "Spurs' Mitch Johnson: Carter Bryant remains 'huge part of this team'",
-          "source": "San Antonio Express-News",
-          "link": "https://www.expressnews.com/sports/spurs/article/spurs-mitch-johnson-carter-bryant-remains-huge-22519649.php?utm_medium=referral&amp;utm_campaign=yahoo_syndication",
-          "published": "2026-11-08T21:05:54Z"
-        },
-        {
-          "title": "Six takeaways from UVA basketball\u2019s 91-72 win over No.\u00a012 Arkansas",
-          "source": "Streaking The Lawn",
-          "link": "https://www.streakingthelawn.com/virginia-cavaliers-basketball/54619/six-takeaways-from-uva-basketballs-91-72-win-over-no-12-arkansas",
-          "published": "2026-11-08T21:05:09Z"
-        }
-      ]
-    },
-    {
-      "game": "Boston Celtics @ Philadelphia 76ers",
-      "home_team": "Philadelphia 76ers",
-      "away_team": "Boston Celtics",
-      "home_abbr": "PHI",
-      "away_abbr": "BOS",
-      "home_ml": "-109",
-      "away_ml": "-109",
-      "home_ml_raw": -109,
-      "away_ml_raw": -109,
-      "home_prob": 50.0,
-      "away_prob": 50.0,
-      "spread": "PHI +1.5",
-      "favorite": "Philadelphia 76ers",
-      "pick": "Philadelphia 76ers",
-      "pick_abbr": "PHI",
-      "moneyline": "-109",
-      "win_probability": 50.0,
-      "confidence": "LOW",
-      "confidence_stars": "\u2605\u2606\u2606",
-      "commence_time": "2026-11-11T01:10:00Z",
-      "line_movement": {
-        "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
-          "old_ml": "-109",
-          "new_ml": "-109"
-        },
-        "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
-          "old_ml": "-109",
-          "new_ml": "-109"
-        },
-        "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
-          "old_ml": "-109",
-          "new_ml": "-109"
-        },
-        "snapshot_time": "November 09, 2026 at 02:20 PM UTC"
-      },
-      "fatigue": {
-        "home": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
-          "last_game": "Nov 08",
-          "days_rest": 1,
-          "games_last_4d": 2,
-          "travel_miles": 667,
-          "travel_desc": "667 mi road trip",
-          "source": "ESPN Scoreboard API"
-        },
-        "away": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
-          "last_game": "Nov 08",
-          "days_rest": 1,
-          "games_last_4d": 2,
-          "travel_miles": 856,
-          "travel_desc": "856 mi road trip",
-          "source": "ESPN Scoreboard API"
-        }
-      },
-      "edge_factors": [
-        "\ud83d\udca4 BOS fatigued (B2B) \u2014 source: ESPN"
-      ],
-      "injury_notes": "No key injuries.",
-      "sharp": {
-        "away_t": null,
-        "home_t": null,
-        "source": null,
-        "sharp_signal": null,
-        "sharp_label": "Pending \u2014 check closer to tip-off",
-        "rlm": false
-      },
-      "form": {
-        "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        },
-        "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        }
-      },
-      "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
-      },
-      "briefing": {
-        "trend": "PHI on Back-to-Back \u26a0\ufe0f per ESPN schedule data. BOS on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "trend": "HOU on Back-to-Back \u26a0\ufe0f per ESPN schedule data. DEN on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
         "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
@@ -1291,22 +128,1038 @@
       },
       "news": [
         {
-          "title": "NBA rumors: Thunder beat out Lakers, Nuggets for Nique Clifford trade",
-          "source": "ClutchPoints",
-          "link": "https://clutchpoints.com/nba/nba-stories/nba-rumors-thunder-beat-lakers-nuggets-nique-clifford-trade",
-          "published": "2026-11-08T21:15:51Z"
+          "title": "Nets Must Clean Up Turnover Bug, Control Pace",
+          "source": "Roundtable.io",
+          "link": "https://roundtable.io/sports/nba/nets/players/nets-must-clean-up-turnover-bug-control-pace",
+          "published": "2026-11-09T03:51:28Z"
         },
         {
-          "title": "Spurs' Mitch Johnson: Carter Bryant remains 'huge part of this team'",
-          "source": "San Antonio Express-News",
-          "link": "https://www.expressnews.com/sports/spurs/article/spurs-mitch-johnson-carter-bryant-remains-huge-22519649.php?utm_medium=referral&amp;utm_campaign=yahoo_syndication",
-          "published": "2026-11-08T21:05:54Z"
+          "title": "Former All-Star Claims LeBron Leaving Lakers Helped Luka Doncic",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/los-angeles-lakers/lebron-leaving-lakers-helped-luka-doncic/",
+          "published": "2026-11-09T03:48:32Z"
         },
         {
-          "title": "Six takeaways from UVA basketball\u2019s 91-72 win over No.\u00a012 Arkansas",
-          "source": "Streaking The Lawn",
-          "link": "https://www.streakingthelawn.com/virginia-cavaliers-basketball/54619/six-takeaways-from-uva-basketballs-91-72-win-over-no-12-arkansas",
-          "published": "2026-11-08T21:05:09Z"
+          "title": "Recap: Utah Jazz Make History vs. Timberwolves",
+          "source": "Slcdunk.com",
+          "link": "https://www.slcdunk.com/utah-jazz-game-coverage/70634/recap-utah-jazz-make-history-vs-timberwolves",
+          "published": "2026-11-09T03:39:47Z"
+        }
+      ]
+    },
+    {
+      "game": "San Antonio Spurs @ Phoenix Suns",
+      "home_team": "Phoenix Suns",
+      "away_team": "San Antonio Spurs",
+      "home_abbr": "PHX",
+      "away_abbr": "SAS",
+      "home_ml": "N/A",
+      "away_ml": "N/A",
+      "home_ml_raw": null,
+      "away_ml_raw": null,
+      "home_prob": 50.0,
+      "away_prob": 50.0,
+      "spread": "PHX +30.5",
+      "favorite": "Phoenix Suns",
+      "pick": "Phoenix Suns",
+      "pick_abbr": "PHX",
+      "moneyline": "N/A",
+      "win_probability": 50.0,
+      "confidence": "LOW",
+      "confidence_stars": "\u2605\u2606\u2606",
+      "commence_time": "2026-11-10T02:10:45Z",
+      "line_movement": {
+        "home": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "away": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "pick": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "snapshot_time": "November 09, 2026 at 09:18 PM UTC"
+      },
+      "fatigue": {
+        "home": {
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Nov 09",
+          "days_rest": 1,
+          "games_last_4d": 2,
+          "travel_miles": 0,
+          "travel_desc": "",
+          "source": "ESPN Scoreboard API"
+        },
+        "away": {
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Nov 09",
+          "days_rest": 1,
+          "games_last_4d": 3,
+          "travel_miles": 849,
+          "travel_desc": "849 mi road trip",
+          "source": "ESPN Scoreboard API"
+        }
+      },
+      "edge_factors": [
+        "\ud83d\udca4 SAS fatigued (B2B) \u2014 source: ESPN"
+      ],
+      "injury_notes": "No key injuries.",
+      "sharp": {
+        "away_t": null,
+        "home_t": null,
+        "source": null,
+        "sharp_signal": null,
+        "sharp_label": "Pending \u2014 check closer to tip-off",
+        "rlm": false
+      },
+      "form": {
+        "home": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        },
+        "away": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        }
+      },
+      "h2h": {
+        "total_meetings": 0,
+        "home_wins": 0,
+        "away_wins": 0,
+        "meetings": [],
+        "source": "\u2014"
+      },
+      "briefing": {
+        "trend": "PHX on Back-to-Back \u26a0\ufe0f per ESPN schedule data. SAS on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "matchup": "Both rosters appear healthy \u2014 clean line.",
+        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "injury_notes": "No key injuries."
+      },
+      "live": {
+        "status": "pre",
+        "status_detail": "Upcoming",
+        "period": 0,
+        "clock": "",
+        "home_score": 0,
+        "away_score": 0,
+        "spread_alert": null
+      },
+      "news": [
+        {
+          "title": "Nets Must Clean Up Turnover Bug, Control Pace",
+          "source": "Roundtable.io",
+          "link": "https://roundtable.io/sports/nba/nets/players/nets-must-clean-up-turnover-bug-control-pace",
+          "published": "2026-11-09T03:51:28Z"
+        },
+        {
+          "title": "Former All-Star Claims LeBron Leaving Lakers Helped Luka Doncic",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/los-angeles-lakers/lebron-leaving-lakers-helped-luka-doncic/",
+          "published": "2026-11-09T03:48:32Z"
+        },
+        {
+          "title": "Recap: Utah Jazz Make History vs. Timberwolves",
+          "source": "Slcdunk.com",
+          "link": "https://www.slcdunk.com/utah-jazz-game-coverage/70634/recap-utah-jazz-make-history-vs-timberwolves",
+          "published": "2026-11-09T03:39:47Z"
+        }
+      ]
+    },
+    {
+      "game": "New Orleans Pelicans @ Golden State Warriors",
+      "home_team": "Golden State Warriors",
+      "away_team": "New Orleans Pelicans",
+      "home_abbr": "GSW",
+      "away_abbr": "NOP",
+      "home_ml": "N/A",
+      "away_ml": "N/A",
+      "home_ml_raw": null,
+      "away_ml_raw": null,
+      "home_prob": 50.0,
+      "away_prob": 50.0,
+      "spread": "GSW -30.5",
+      "favorite": "Golden State Warriors",
+      "pick": "Golden State Warriors",
+      "pick_abbr": "GSW",
+      "moneyline": "N/A",
+      "win_probability": 50.0,
+      "confidence": "LOW",
+      "confidence_stars": "\u2605\u2606\u2606",
+      "commence_time": "2026-11-10T03:12:00Z",
+      "line_movement": {
+        "home": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "away": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "pick": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "snapshot_time": "November 09, 2026 at 09:18 PM UTC"
+      },
+      "fatigue": {
+        "home": {
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Nov 09",
+          "days_rest": 1,
+          "games_last_4d": 2,
+          "travel_miles": 0,
+          "travel_desc": "",
+          "source": "ESPN Scoreboard API"
+        },
+        "away": {
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Nov 09",
+          "days_rest": 1,
+          "games_last_4d": 3,
+          "travel_miles": 1920,
+          "travel_desc": "1,920 mi road trip",
+          "source": "ESPN Scoreboard API"
+        }
+      },
+      "edge_factors": [
+        "\ud83d\udca4 NOP fatigued (B2B) \u2014 source: ESPN",
+        "\u2708\ufe0f NOP traveled 1,920 mi"
+      ],
+      "injury_notes": "No key injuries.",
+      "sharp": {
+        "away_t": null,
+        "home_t": null,
+        "source": null,
+        "sharp_signal": null,
+        "sharp_label": "Pending \u2014 check closer to tip-off",
+        "rlm": false
+      },
+      "form": {
+        "home": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        },
+        "away": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        }
+      },
+      "h2h": {
+        "total_meetings": 0,
+        "home_wins": 0,
+        "away_wins": 0,
+        "meetings": [],
+        "source": "\u2014"
+      },
+      "briefing": {
+        "trend": "GSW on Back-to-Back \u26a0\ufe0f per ESPN schedule data. NOP on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "matchup": "Both rosters appear healthy \u2014 clean line.",
+        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "injury_notes": "No key injuries."
+      },
+      "live": {
+        "status": "pre",
+        "status_detail": "Upcoming",
+        "period": 0,
+        "clock": "",
+        "home_score": 0,
+        "away_score": 0,
+        "spread_alert": null
+      },
+      "news": [
+        {
+          "title": "Nets Must Clean Up Turnover Bug, Control Pace",
+          "source": "Roundtable.io",
+          "link": "https://roundtable.io/sports/nba/nets/players/nets-must-clean-up-turnover-bug-control-pace",
+          "published": "2026-11-09T03:51:28Z"
+        },
+        {
+          "title": "Former All-Star Claims LeBron Leaving Lakers Helped Luka Doncic",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/los-angeles-lakers/lebron-leaving-lakers-helped-luka-doncic/",
+          "published": "2026-11-09T03:48:32Z"
+        },
+        {
+          "title": "Recap: Utah Jazz Make History vs. Timberwolves",
+          "source": "Slcdunk.com",
+          "link": "https://www.slcdunk.com/utah-jazz-game-coverage/70634/recap-utah-jazz-make-history-vs-timberwolves",
+          "published": "2026-11-09T03:39:47Z"
+        }
+      ]
+    },
+    {
+      "game": "Milwaukee Bucks @ New York Knicks",
+      "home_team": "New York Knicks",
+      "away_team": "Milwaukee Bucks",
+      "home_abbr": "NYK",
+      "away_abbr": "MIL",
+      "home_ml": "-1180",
+      "away_ml": "+740",
+      "home_ml_raw": -1180,
+      "away_ml_raw": 740,
+      "home_prob": 88.6,
+      "away_prob": 11.4,
+      "spread": "NYK -15.5",
+      "favorite": "New York Knicks",
+      "pick": "New York Knicks",
+      "pick_abbr": "NYK",
+      "moneyline": "-1180",
+      "win_probability": 88.6,
+      "confidence": "HIGH",
+      "confidence_stars": "\u2605\u2605\u2605",
+      "commence_time": "2026-11-11T00:40:00Z",
+      "line_movement": {
+        "home": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "away": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "pick": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "snapshot_time": "\u2014"
+      },
+      "fatigue": {
+        "home": {
+          "status": "RESTED",
+          "label": "2 days rest \u2705",
+          "battery": 88,
+          "last_game": "Nov 07",
+          "days_rest": 3,
+          "games_last_4d": 1,
+          "travel_miles": 404,
+          "travel_desc": "404 mi road trip",
+          "source": "ESPN Scoreboard API"
+        },
+        "away": {
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
+          "last_game": "Nov 08",
+          "days_rest": 2,
+          "games_last_4d": 2,
+          "travel_miles": 0,
+          "travel_desc": "",
+          "source": "ESPN Scoreboard API"
+        }
+      },
+      "edge_factors": [
+        "\ud83d\udcca 77.2pt probability edge"
+      ],
+      "injury_notes": "No key injuries.",
+      "sharp": {
+        "away_t": null,
+        "home_t": null,
+        "source": null,
+        "sharp_signal": null,
+        "sharp_label": "Pending \u2014 check closer to tip-off",
+        "rlm": false
+      },
+      "form": {
+        "home": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        },
+        "away": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        }
+      },
+      "h2h": {
+        "total_meetings": 0,
+        "home_wins": 0,
+        "away_wins": 0,
+        "meetings": [],
+        "source": "\u2014"
+      },
+      "briefing": {
+        "trend": "New York Knicks hold a 88.6% edge.",
+        "matchup": "Both rosters appear healthy \u2014 clean line.",
+        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "injury_notes": "No key injuries."
+      },
+      "live": {
+        "status": "pre",
+        "status_detail": "Upcoming",
+        "period": 0,
+        "clock": "",
+        "home_score": 0,
+        "away_score": 0,
+        "spread_alert": null
+      },
+      "news": [
+        {
+          "title": "Nets Must Clean Up Turnover Bug, Control Pace",
+          "source": "Roundtable.io",
+          "link": "https://roundtable.io/sports/nba/nets/players/nets-must-clean-up-turnover-bug-control-pace",
+          "published": "2026-11-09T03:51:28Z"
+        },
+        {
+          "title": "Former All-Star Claims LeBron Leaving Lakers Helped Luka Doncic",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/los-angeles-lakers/lebron-leaving-lakers-helped-luka-doncic/",
+          "published": "2026-11-09T03:48:32Z"
+        },
+        {
+          "title": "Recap: Utah Jazz Make History vs. Timberwolves",
+          "source": "Slcdunk.com",
+          "link": "https://www.slcdunk.com/utah-jazz-game-coverage/70634/recap-utah-jazz-make-history-vs-timberwolves",
+          "published": "2026-11-09T03:39:47Z"
+        }
+      ]
+    },
+    {
+      "game": "Boston Celtics @ Philadelphia 76ers",
+      "home_team": "Philadelphia 76ers",
+      "away_team": "Boston Celtics",
+      "home_abbr": "PHI",
+      "away_abbr": "BOS",
+      "home_ml": "-101",
+      "away_ml": "-117",
+      "home_ml_raw": -101,
+      "away_ml_raw": -117,
+      "home_prob": 48.2,
+      "away_prob": 51.8,
+      "spread": "PHI +1.5",
+      "favorite": "Boston Celtics",
+      "pick": "Boston Celtics",
+      "pick_abbr": "BOS",
+      "moneyline": "-117",
+      "win_probability": 51.8,
+      "confidence": "LOW",
+      "confidence_stars": "\u2605\u2606\u2606",
+      "commence_time": "2026-11-11T01:10:00Z",
+      "line_movement": {
+        "home": {
+          "direction": "longer",
+          "points_moved": 8,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -101 \u2190 -109",
+          "old_ml": "-109",
+          "new_ml": "-101"
+        },
+        "away": {
+          "direction": "shorter",
+          "points_moved": 8,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -117 \u2190 -109",
+          "old_ml": "-109",
+          "new_ml": "-117"
+        },
+        "pick": {
+          "direction": "shorter",
+          "points_moved": 8,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -117 \u2190 -109",
+          "old_ml": "-109",
+          "new_ml": "-117"
+        },
+        "snapshot_time": "November 09, 2026 at 09:18 PM UTC"
+      },
+      "fatigue": {
+        "home": {
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
+          "last_game": "Nov 08",
+          "days_rest": 2,
+          "games_last_4d": 2,
+          "travel_miles": 667,
+          "travel_desc": "667 mi road trip",
+          "source": "ESPN Scoreboard API"
+        },
+        "away": {
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
+          "last_game": "Nov 08",
+          "days_rest": 2,
+          "games_last_4d": 2,
+          "travel_miles": 856,
+          "travel_desc": "856 mi road trip",
+          "source": "ESPN Scoreboard API"
+        }
+      },
+      "edge_factors": [
+        "\ud83d\udd25 Sharp steam detected"
+      ],
+      "injury_notes": "No key injuries.",
+      "sharp": {
+        "away_t": null,
+        "home_t": null,
+        "source": null,
+        "sharp_signal": null,
+        "sharp_label": "Pending \u2014 check closer to tip-off",
+        "rlm": false
+      },
+      "form": {
+        "home": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        },
+        "away": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        }
+      },
+      "h2h": {
+        "total_meetings": 0,
+        "home_wins": 0,
+        "away_wins": 0,
+        "meetings": [],
+        "source": "\u2014"
+      },
+      "briefing": {
+        "trend": "Boston Celtics hold a 51.8% edge.",
+        "matchup": "Both rosters appear healthy \u2014 clean line.",
+        "steam": "Line steamed from -109 to -117 (8pt move) \u2014 heavy professional action on Boston Celtics.",
+        "injury_notes": "No key injuries."
+      },
+      "live": {
+        "status": "pre",
+        "status_detail": "Upcoming",
+        "period": 0,
+        "clock": "",
+        "home_score": 0,
+        "away_score": 0,
+        "spread_alert": null
+      },
+      "news": [
+        {
+          "title": "Nets Must Clean Up Turnover Bug, Control Pace",
+          "source": "Roundtable.io",
+          "link": "https://roundtable.io/sports/nba/nets/players/nets-must-clean-up-turnover-bug-control-pace",
+          "published": "2026-11-09T03:51:28Z"
+        },
+        {
+          "title": "Former All-Star Claims LeBron Leaving Lakers Helped Luka Doncic",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/los-angeles-lakers/lebron-leaving-lakers-helped-luka-doncic/",
+          "published": "2026-11-09T03:48:32Z"
+        },
+        {
+          "title": "Recap: Utah Jazz Make History vs. Timberwolves",
+          "source": "Slcdunk.com",
+          "link": "https://www.slcdunk.com/utah-jazz-game-coverage/70634/recap-utah-jazz-make-history-vs-timberwolves",
+          "published": "2026-11-09T03:39:47Z"
+        }
+      ]
+    },
+    {
+      "game": "Miami Heat @ Utah Jazz",
+      "home_team": "Utah Jazz",
+      "away_team": "Miami Heat",
+      "home_abbr": "UTA",
+      "away_abbr": "MIA",
+      "home_ml": "+331",
+      "away_ml": "-423",
+      "home_ml_raw": 331,
+      "away_ml_raw": -423,
+      "home_prob": 22.3,
+      "away_prob": 77.7,
+      "spread": "UTA +9.5",
+      "favorite": "Miami Heat",
+      "pick": "Miami Heat",
+      "pick_abbr": "MIA",
+      "moneyline": "-423",
+      "win_probability": 77.7,
+      "confidence": "HIGH",
+      "confidence_stars": "\u2605\u2605\u2605",
+      "commence_time": "2026-11-11T02:10:00Z",
+      "line_movement": {
+        "home": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "away": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "pick": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "snapshot_time": "\u2014"
+      },
+      "fatigue": {
+        "home": {
+          "status": "FRESH",
+          "label": "Well rested \u2705",
+          "battery": 100,
+          "last_game": "\u2014",
+          "days_rest": 99,
+          "games_last_4d": 0,
+          "travel_miles": 0,
+          "travel_desc": "",
+          "source": "ESPN Scoreboard API"
+        },
+        "away": {
+          "status": "TRAVEL",
+          "label": "Cross-country travel \ud83d\udfe3",
+          "battery": 50,
+          "last_game": "Nov 08",
+          "days_rest": 2,
+          "games_last_4d": 1,
+          "travel_miles": 2548,
+          "travel_desc": "2,548 mi road trip",
+          "source": "ESPN Scoreboard API"
+        }
+      },
+      "edge_factors": [
+        "\ud83d\udcca 55.4pt probability edge"
+      ],
+      "injury_notes": "No key injuries.",
+      "sharp": {
+        "away_t": null,
+        "home_t": null,
+        "source": null,
+        "sharp_signal": null,
+        "sharp_label": "Pending \u2014 check closer to tip-off",
+        "rlm": false
+      },
+      "form": {
+        "home": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        },
+        "away": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        }
+      },
+      "h2h": {
+        "total_meetings": 0,
+        "home_wins": 0,
+        "away_wins": 0,
+        "meetings": [],
+        "source": "\u2014"
+      },
+      "briefing": {
+        "trend": "Miami Heat hold a 77.7% edge.",
+        "matchup": "Both rosters appear healthy \u2014 clean line.",
+        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "injury_notes": "No key injuries."
+      },
+      "live": {
+        "status": "pre",
+        "status_detail": "Upcoming",
+        "period": 0,
+        "clock": "",
+        "home_score": 0,
+        "away_score": 0,
+        "spread_alert": null
+      },
+      "news": [
+        {
+          "title": "Nets Must Clean Up Turnover Bug, Control Pace",
+          "source": "Roundtable.io",
+          "link": "https://roundtable.io/sports/nba/nets/players/nets-must-clean-up-turnover-bug-control-pace",
+          "published": "2026-11-09T03:51:28Z"
+        },
+        {
+          "title": "Former All-Star Claims LeBron Leaving Lakers Helped Luka Doncic",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/los-angeles-lakers/lebron-leaving-lakers-helped-luka-doncic/",
+          "published": "2026-11-09T03:48:32Z"
+        },
+        {
+          "title": "Recap: Utah Jazz Make History vs. Timberwolves",
+          "source": "Slcdunk.com",
+          "link": "https://www.slcdunk.com/utah-jazz-game-coverage/70634/recap-utah-jazz-make-history-vs-timberwolves",
+          "published": "2026-11-09T03:39:47Z"
+        }
+      ]
+    },
+    {
+      "game": "Orlando Magic @ Sacramento Kings",
+      "home_team": "Sacramento Kings",
+      "away_team": "Orlando Magic",
+      "home_abbr": "SAC",
+      "away_abbr": "ORL",
+      "home_ml": "+181",
+      "away_ml": "-218",
+      "home_ml_raw": 181,
+      "away_ml_raw": -218,
+      "home_prob": 34.2,
+      "away_prob": 65.8,
+      "spread": "SAC +5.5",
+      "favorite": "Orlando Magic",
+      "pick": "Orlando Magic",
+      "pick_abbr": "ORL",
+      "moneyline": "-218",
+      "win_probability": 65.8,
+      "confidence": "MEDIUM",
+      "confidence_stars": "\u2605\u2605\u2606",
+      "commence_time": "2026-11-11T03:10:00Z",
+      "line_movement": {
+        "home": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "away": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "pick": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "snapshot_time": "\u2014"
+      },
+      "fatigue": {
+        "home": {
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
+          "last_game": "Nov 08",
+          "days_rest": 2,
+          "games_last_4d": 2,
+          "travel_miles": 0,
+          "travel_desc": "",
+          "source": "ESPN Scoreboard API"
+        },
+        "away": {
+          "status": "RESTED",
+          "label": "2 days rest \u2705",
+          "battery": 88,
+          "last_game": "Nov 07",
+          "days_rest": 3,
+          "games_last_4d": 1,
+          "travel_miles": 2435,
+          "travel_desc": "2,435 mi road trip",
+          "source": "ESPN Scoreboard API"
+        }
+      },
+      "edge_factors": [
+        "\ud83d\udcca 31.6pt probability edge"
+      ],
+      "injury_notes": "No key injuries.",
+      "sharp": {
+        "away_t": null,
+        "home_t": null,
+        "source": null,
+        "sharp_signal": null,
+        "sharp_label": "Pending \u2014 check closer to tip-off",
+        "rlm": false
+      },
+      "form": {
+        "home": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        },
+        "away": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        }
+      },
+      "h2h": {
+        "total_meetings": 0,
+        "home_wins": 0,
+        "away_wins": 0,
+        "meetings": [],
+        "source": "\u2014"
+      },
+      "briefing": {
+        "trend": "Orlando Magic hold a 65.8% edge.",
+        "matchup": "Both rosters appear healthy \u2014 clean line.",
+        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "injury_notes": "No key injuries."
+      },
+      "live": {
+        "status": "pre",
+        "status_detail": "Upcoming",
+        "period": 0,
+        "clock": "",
+        "home_score": 0,
+        "away_score": 0,
+        "spread_alert": null
+      },
+      "news": [
+        {
+          "title": "Nets Must Clean Up Turnover Bug, Control Pace",
+          "source": "Roundtable.io",
+          "link": "https://roundtable.io/sports/nba/nets/players/nets-must-clean-up-turnover-bug-control-pace",
+          "published": "2026-11-09T03:51:28Z"
+        },
+        {
+          "title": "Former All-Star Claims LeBron Leaving Lakers Helped Luka Doncic",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/los-angeles-lakers/lebron-leaving-lakers-helped-luka-doncic/",
+          "published": "2026-11-09T03:48:32Z"
+        },
+        {
+          "title": "Recap: Utah Jazz Make History vs. Timberwolves",
+          "source": "Slcdunk.com",
+          "link": "https://www.slcdunk.com/utah-jazz-game-coverage/70634/recap-utah-jazz-make-history-vs-timberwolves",
+          "published": "2026-11-09T03:39:47Z"
+        }
+      ]
+    },
+    {
+      "game": "Oklahoma City Thunder @ Portland Trail Blazers",
+      "home_team": "Portland Trail Blazers",
+      "away_team": "Oklahoma City Thunder",
+      "home_abbr": "POR",
+      "away_abbr": "OKC",
+      "home_ml": "+103",
+      "away_ml": "-122",
+      "home_ml_raw": 103,
+      "away_ml_raw": -122,
+      "home_prob": 47.3,
+      "away_prob": 52.7,
+      "spread": "POR +1.5",
+      "favorite": "Oklahoma City Thunder",
+      "pick": "Oklahoma City Thunder",
+      "pick_abbr": "OKC",
+      "moneyline": "-122",
+      "win_probability": 52.7,
+      "confidence": "LOW",
+      "confidence_stars": "\u2605\u2606\u2606",
+      "commence_time": "2026-11-11T04:10:00Z",
+      "line_movement": {
+        "home": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "away": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "pick": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "snapshot_time": "\u2014"
+      },
+      "fatigue": {
+        "home": {
+          "status": "RESTED",
+          "label": "2 days rest \u2705",
+          "battery": 88,
+          "last_game": "Nov 07",
+          "days_rest": 3,
+          "games_last_4d": 2,
+          "travel_miles": 827,
+          "travel_desc": "827 mi road trip",
+          "source": "ESPN Scoreboard API"
+        },
+        "away": {
+          "status": "RESTED",
+          "label": "2 days rest \u2705",
+          "battery": 88,
+          "last_game": "Nov 07",
+          "days_rest": 3,
+          "games_last_4d": 2,
+          "travel_miles": 421,
+          "travel_desc": "421 mi road trip",
+          "source": "ESPN Scoreboard API"
+        }
+      },
+      "edge_factors": [
+        "\ud83d\udcca 5.4pt probability edge"
+      ],
+      "injury_notes": "No key injuries.",
+      "sharp": {
+        "away_t": null,
+        "home_t": null,
+        "source": null,
+        "sharp_signal": null,
+        "sharp_label": "Pending \u2014 check closer to tip-off",
+        "rlm": false
+      },
+      "form": {
+        "home": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        },
+        "away": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        }
+      },
+      "h2h": {
+        "total_meetings": 0,
+        "home_wins": 0,
+        "away_wins": 0,
+        "meetings": [],
+        "source": "\u2014"
+      },
+      "briefing": {
+        "trend": "Oklahoma City Thunder hold a 52.7% edge.",
+        "matchup": "Both rosters appear healthy \u2014 clean line.",
+        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "injury_notes": "No key injuries."
+      },
+      "live": {
+        "status": "pre",
+        "status_detail": "Upcoming",
+        "period": 0,
+        "clock": "",
+        "home_score": 0,
+        "away_score": 0,
+        "spread_alert": null
+      },
+      "news": [
+        {
+          "title": "Nets Must Clean Up Turnover Bug, Control Pace",
+          "source": "Roundtable.io",
+          "link": "https://roundtable.io/sports/nba/nets/players/nets-must-clean-up-turnover-bug-control-pace",
+          "published": "2026-11-09T03:51:28Z"
+        },
+        {
+          "title": "Former All-Star Claims LeBron Leaving Lakers Helped Luka Doncic",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/los-angeles-lakers/lebron-leaving-lakers-helped-luka-doncic/",
+          "published": "2026-11-09T03:48:32Z"
+        },
+        {
+          "title": "Recap: Utah Jazz Make History vs. Timberwolves",
+          "source": "Slcdunk.com",
+          "link": "https://www.slcdunk.com/utah-jazz-game-coverage/70634/recap-utah-jazz-make-history-vs-timberwolves",
+          "published": "2026-11-09T03:39:47Z"
         }
       ]
     },
@@ -1356,34 +1209,34 @@
           "old_ml": "\u2014",
           "new_ml": "\u2014"
         },
-        "snapshot_time": "November 09, 2026 at 02:20 PM UTC"
+        "snapshot_time": "November 09, 2026 at 09:18 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
+          "status": "RESTED",
+          "label": "2 days rest \u2705",
+          "battery": 88,
           "last_game": "Nov 07",
-          "days_rest": 2,
+          "days_rest": 3,
           "games_last_4d": 1,
           "travel_miles": 404,
           "travel_desc": "404 mi road trip",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "Nov 07",
-          "days_rest": 2,
-          "games_last_4d": 2,
-          "travel_miles": 1721,
-          "travel_desc": "1,721 mi road trip",
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Nov 09",
+          "days_rest": 1,
+          "games_last_4d": 3,
+          "travel_miles": 849,
+          "travel_desc": "849 mi road trip",
           "source": "ESPN Scoreboard API"
         }
       },
       "edge_factors": [
-        "\ud83d\udcca 0.0pt probability edge"
+        "\ud83d\udca4 SAS fatigued (B2B) \u2014 source: ESPN"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -1420,7 +1273,7 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "New York Knicks hold a 50.0% edge.",
+        "trend": "SAS on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
         "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
@@ -1436,22 +1289,22 @@
       },
       "news": [
         {
-          "title": "NBA rumors: Thunder beat out Lakers, Nuggets for Nique Clifford trade",
-          "source": "ClutchPoints",
-          "link": "https://clutchpoints.com/nba/nba-stories/nba-rumors-thunder-beat-lakers-nuggets-nique-clifford-trade",
-          "published": "2026-11-08T21:15:51Z"
+          "title": "Nets Must Clean Up Turnover Bug, Control Pace",
+          "source": "Roundtable.io",
+          "link": "https://roundtable.io/sports/nba/nets/players/nets-must-clean-up-turnover-bug-control-pace",
+          "published": "2026-11-09T03:51:28Z"
         },
         {
-          "title": "Spurs' Mitch Johnson: Carter Bryant remains 'huge part of this team'",
-          "source": "San Antonio Express-News",
-          "link": "https://www.expressnews.com/sports/spurs/article/spurs-mitch-johnson-carter-bryant-remains-huge-22519649.php?utm_medium=referral&amp;utm_campaign=yahoo_syndication",
-          "published": "2026-11-08T21:05:54Z"
+          "title": "Former All-Star Claims LeBron Leaving Lakers Helped Luka Doncic",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/los-angeles-lakers/lebron-leaving-lakers-helped-luka-doncic/",
+          "published": "2026-11-09T03:48:32Z"
         },
         {
-          "title": "Six takeaways from UVA basketball\u2019s 91-72 win over No.\u00a012 Arkansas",
-          "source": "Streaking The Lawn",
-          "link": "https://www.streakingthelawn.com/virginia-cavaliers-basketball/54619/six-takeaways-from-uva-basketballs-91-72-win-over-no-12-arkansas",
-          "published": "2026-11-08T21:05:09Z"
+          "title": "Recap: Utah Jazz Make History vs. Timberwolves",
+          "source": "Slcdunk.com",
+          "link": "https://www.slcdunk.com/utah-jazz-game-coverage/70634/recap-utah-jazz-make-history-vs-timberwolves",
+          "published": "2026-11-09T03:39:47Z"
         }
       ]
     },
@@ -1501,34 +1354,33 @@
           "old_ml": "\u2014",
           "new_ml": "\u2014"
         },
-        "snapshot_time": "November 09, 2026 at 02:20 PM UTC"
+        "snapshot_time": "November 09, 2026 at 09:18 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
           "last_game": "Nov 08",
-          "days_rest": 1,
+          "days_rest": 2,
           "games_last_4d": 2,
           "travel_miles": 856,
           "travel_desc": "856 mi road trip",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
+          "status": "TRAVEL",
+          "label": "Cross-country travel \ud83d\udfe3",
+          "battery": 50,
           "last_game": "Nov 08",
-          "days_rest": 1,
-          "games_last_4d": 2,
+          "days_rest": 2,
+          "games_last_4d": 1,
           "travel_miles": 2548,
           "travel_desc": "2,548 mi road trip",
           "source": "ESPN Scoreboard API"
         }
       },
       "edge_factors": [
-        "\ud83d\udca4 MIA fatigued (B2B) \u2014 source: ESPN",
         "\u2708\ufe0f MIA traveled 2,548 mi"
       ],
       "injury_notes": "No key injuries.",
@@ -1566,7 +1418,7 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "BOS on Back-to-Back \u26a0\ufe0f per ESPN schedule data. MIA on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "trend": "Boston Celtics hold a 50.0% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
         "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
@@ -1582,22 +1434,22 @@
       },
       "news": [
         {
-          "title": "NBA rumors: Thunder beat out Lakers, Nuggets for Nique Clifford trade",
-          "source": "ClutchPoints",
-          "link": "https://clutchpoints.com/nba/nba-stories/nba-rumors-thunder-beat-lakers-nuggets-nique-clifford-trade",
-          "published": "2026-11-08T21:15:51Z"
+          "title": "Nets Must Clean Up Turnover Bug, Control Pace",
+          "source": "Roundtable.io",
+          "link": "https://roundtable.io/sports/nba/nets/players/nets-must-clean-up-turnover-bug-control-pace",
+          "published": "2026-11-09T03:51:28Z"
         },
         {
-          "title": "Spurs' Mitch Johnson: Carter Bryant remains 'huge part of this team'",
-          "source": "San Antonio Express-News",
-          "link": "https://www.expressnews.com/sports/spurs/article/spurs-mitch-johnson-carter-bryant-remains-huge-22519649.php?utm_medium=referral&amp;utm_campaign=yahoo_syndication",
-          "published": "2026-11-08T21:05:54Z"
+          "title": "Former All-Star Claims LeBron Leaving Lakers Helped Luka Doncic",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/los-angeles-lakers/lebron-leaving-lakers-helped-luka-doncic/",
+          "published": "2026-11-09T03:48:32Z"
         },
         {
-          "title": "Six takeaways from UVA basketball\u2019s 91-72 win over No.\u00a012 Arkansas",
-          "source": "Streaking The Lawn",
-          "link": "https://www.streakingthelawn.com/virginia-cavaliers-basketball/54619/six-takeaways-from-uva-basketballs-91-72-win-over-no-12-arkansas",
-          "published": "2026-11-08T21:05:09Z"
+          "title": "Recap: Utah Jazz Make History vs. Timberwolves",
+          "source": "Slcdunk.com",
+          "link": "https://www.slcdunk.com/utah-jazz-game-coverage/70634/recap-utah-jazz-make-history-vs-timberwolves",
+          "published": "2026-11-09T03:39:47Z"
         }
       ]
     },
@@ -1647,26 +1499,26 @@
           "old_ml": "\u2014",
           "new_ml": "\u2014"
         },
-        "snapshot_time": "November 09, 2026 at 02:20 PM UTC"
+        "snapshot_time": "November 09, 2026 at 09:18 PM UTC"
       },
       "fatigue": {
         "home": {
           "status": "B2B",
           "label": "Back-to-Back \u26a0\ufe0f",
           "battery": 20,
-          "last_game": "Nov 08",
+          "last_game": "Nov 09",
           "days_rest": 1,
-          "games_last_4d": 2,
-          "travel_miles": 1980,
-          "travel_desc": "1,980 mi road trip",
+          "games_last_4d": 3,
+          "travel_miles": 1934,
+          "travel_desc": "1,934 mi road trip",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
           "last_game": "Nov 08",
-          "days_rest": 1,
+          "days_rest": 2,
           "games_last_4d": 2,
           "travel_miles": 667,
           "travel_desc": "667 mi road trip",
@@ -1674,7 +1526,7 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udca4 PHI fatigued (B2B) \u2014 source: ESPN"
+        "\ud83d\udcca 0.0pt probability edge"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -1711,7 +1563,7 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "LAL on Back-to-Back \u26a0\ufe0f per ESPN schedule data. PHI on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "trend": "LAL on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
         "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
@@ -1727,22 +1579,22 @@
       },
       "news": [
         {
-          "title": "NBA rumors: Thunder beat out Lakers, Nuggets for Nique Clifford trade",
-          "source": "ClutchPoints",
-          "link": "https://clutchpoints.com/nba/nba-stories/nba-rumors-thunder-beat-lakers-nuggets-nique-clifford-trade",
-          "published": "2026-11-08T21:15:51Z"
+          "title": "Nets Must Clean Up Turnover Bug, Control Pace",
+          "source": "Roundtable.io",
+          "link": "https://roundtable.io/sports/nba/nets/players/nets-must-clean-up-turnover-bug-control-pace",
+          "published": "2026-11-09T03:51:28Z"
         },
         {
-          "title": "Spurs' Mitch Johnson: Carter Bryant remains 'huge part of this team'",
-          "source": "San Antonio Express-News",
-          "link": "https://www.expressnews.com/sports/spurs/article/spurs-mitch-johnson-carter-bryant-remains-huge-22519649.php?utm_medium=referral&amp;utm_campaign=yahoo_syndication",
-          "published": "2026-11-08T21:05:54Z"
+          "title": "Former All-Star Claims LeBron Leaving Lakers Helped Luka Doncic",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/los-angeles-lakers/lebron-leaving-lakers-helped-luka-doncic/",
+          "published": "2026-11-09T03:48:32Z"
         },
         {
-          "title": "Six takeaways from UVA basketball\u2019s 91-72 win over No.\u00a012 Arkansas",
-          "source": "Streaking The Lawn",
-          "link": "https://www.streakingthelawn.com/virginia-cavaliers-basketball/54619/six-takeaways-from-uva-basketballs-91-72-win-over-no-12-arkansas",
-          "published": "2026-11-08T21:05:09Z"
+          "title": "Recap: Utah Jazz Make History vs. Timberwolves",
+          "source": "Slcdunk.com",
+          "link": "https://www.slcdunk.com/utah-jazz-game-coverage/70634/recap-utah-jazz-make-history-vs-timberwolves",
+          "published": "2026-11-09T03:39:47Z"
         }
       ]
     },
@@ -1792,34 +1644,34 @@
           "old_ml": "\u2014",
           "new_ml": "\u2014"
         },
-        "snapshot_time": "November 09, 2026 at 02:20 PM UTC"
+        "snapshot_time": "November 09, 2026 at 09:18 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "Nov 07",
-          "days_rest": 2,
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Nov 09",
+          "days_rest": 1,
           "games_last_4d": 2,
           "travel_miles": 0,
           "travel_desc": "",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "Nov 07",
-          "days_rest": 2,
-          "games_last_4d": 1,
-          "travel_miles": 999,
-          "travel_desc": "999 mi road trip",
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Nov 09",
+          "days_rest": 1,
+          "games_last_4d": 2,
+          "travel_miles": 880,
+          "travel_desc": "880 mi road trip",
           "source": "ESPN Scoreboard API"
         }
       },
       "edge_factors": [
-        "\ud83d\udcca 0.0pt probability edge"
+        "\ud83d\udca4 DEN fatigued (B2B) \u2014 source: ESPN"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -1856,7 +1708,7 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "Golden State Warriors hold a 50.0% edge.",
+        "trend": "GSW on Back-to-Back \u26a0\ufe0f per ESPN schedule data. DEN on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
         "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
@@ -1872,66 +1724,66 @@
       },
       "news": [
         {
-          "title": "NBA rumors: Thunder beat out Lakers, Nuggets for Nique Clifford trade",
-          "source": "ClutchPoints",
-          "link": "https://clutchpoints.com/nba/nba-stories/nba-rumors-thunder-beat-lakers-nuggets-nique-clifford-trade",
-          "published": "2026-11-08T21:15:51Z"
+          "title": "Nets Must Clean Up Turnover Bug, Control Pace",
+          "source": "Roundtable.io",
+          "link": "https://roundtable.io/sports/nba/nets/players/nets-must-clean-up-turnover-bug-control-pace",
+          "published": "2026-11-09T03:51:28Z"
         },
         {
-          "title": "Spurs' Mitch Johnson: Carter Bryant remains 'huge part of this team'",
-          "source": "San Antonio Express-News",
-          "link": "https://www.expressnews.com/sports/spurs/article/spurs-mitch-johnson-carter-bryant-remains-huge-22519649.php?utm_medium=referral&amp;utm_campaign=yahoo_syndication",
-          "published": "2026-11-08T21:05:54Z"
+          "title": "Former All-Star Claims LeBron Leaving Lakers Helped Luka Doncic",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/los-angeles-lakers/lebron-leaving-lakers-helped-luka-doncic/",
+          "published": "2026-11-09T03:48:32Z"
         },
         {
-          "title": "Six takeaways from UVA basketball\u2019s 91-72 win over No.\u00a012 Arkansas",
-          "source": "Streaking The Lawn",
-          "link": "https://www.streakingthelawn.com/virginia-cavaliers-basketball/54619/six-takeaways-from-uva-basketballs-91-72-win-over-no-12-arkansas",
-          "published": "2026-11-08T21:05:09Z"
+          "title": "Recap: Utah Jazz Make History vs. Timberwolves",
+          "source": "Slcdunk.com",
+          "link": "https://www.slcdunk.com/utah-jazz-game-coverage/70634/recap-utah-jazz-make-history-vs-timberwolves",
+          "published": "2026-11-09T03:39:47Z"
         }
       ]
     }
   ],
   "track_record": {
     "LOW": {
-      "wins": 20,
+      "wins": 21,
       "losses": 16,
-      "total": 36,
-      "win_pct": 55.6,
-      "roi": 2.1,
-      "profit": 75.5
+      "total": 37,
+      "win_pct": 56.8,
+      "roi": 4.0,
+      "profit": 147.96
     },
     "MEDIUM": {
-      "wins": 47,
-      "losses": 20,
-      "total": 67,
-      "win_pct": 70.1,
-      "roi": 5.8,
-      "profit": 390.61
+      "wins": 49,
+      "losses": 21,
+      "total": 70,
+      "win_pct": 70.0,
+      "roi": 5.5,
+      "profit": 384.14
     },
     "HIGH": {
-      "wins": 34,
-      "losses": 5,
-      "total": 39,
-      "win_pct": 87.2,
-      "roi": 5.4,
-      "profit": 209.36
+      "wins": 35,
+      "losses": 6,
+      "total": 41,
+      "win_pct": 85.4,
+      "roi": 3.2,
+      "profit": 130.73
     },
     "overall_7d": {
-      "wins": 30,
-      "losses": 5,
-      "total": 35,
-      "win_pct": 85.7,
-      "roi": 23.6,
-      "profit": 824.85
+      "wins": 34,
+      "losses": 7,
+      "total": 41,
+      "win_pct": 82.9,
+      "roi": 19.8,
+      "profit": 812.21
     },
     "overall_30d": {
-      "wins": 80,
-      "losses": 31,
-      "total": 111,
-      "win_pct": 72.1,
-      "roi": 3.8,
-      "profit": 418.82
+      "wins": 84,
+      "losses": 33,
+      "total": 117,
+      "win_pct": 71.8,
+      "roi": 3.5,
+      "profit": 406.18
     }
   }
 }
