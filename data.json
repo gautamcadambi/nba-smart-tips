@@ -1,28 +1,28 @@
 {
-  "last_updated": "November 11, 2026 at 01:44 AM UTC",
-  "total_games": 15,
+  "last_updated": "November 11, 2026 at 05:27 AM UTC",
+  "total_games": 14,
   "games": [
     {
-      "game": "Milwaukee Bucks @ New York Knicks",
-      "home_team": "New York Knicks",
-      "away_team": "Milwaukee Bucks",
-      "home_abbr": "NYK",
-      "away_abbr": "MIL",
+      "game": "Orlando Magic @ Sacramento Kings",
+      "home_team": "Sacramento Kings",
+      "away_team": "Orlando Magic",
+      "home_abbr": "SAC",
+      "away_abbr": "ORL",
       "home_ml": "N/A",
       "away_ml": "N/A",
       "home_ml_raw": null,
       "away_ml_raw": null,
       "home_prob": 50.0,
       "away_prob": 50.0,
-      "spread": "NYK -27.5",
-      "favorite": "New York Knicks",
-      "pick": "New York Knicks",
-      "pick_abbr": "NYK",
+      "spread": "SAC +6.5",
+      "favorite": "Sacramento Kings",
+      "pick": "Sacramento Kings",
+      "pick_abbr": "SAC",
       "moneyline": "N/A",
       "win_probability": 50.0,
       "confidence": "LOW",
       "confidence_stars": "\u2605\u2606\u2606",
-      "commence_time": "2026-11-11T00:41:00Z",
+      "commence_time": "2026-11-11T03:11:00Z",
       "line_movement": {
         "home": {
           "direction": "none",
@@ -48,7 +48,443 @@
           "old_ml": "\u2014",
           "new_ml": "\u2014"
         },
-        "snapshot_time": "November 10, 2026 at 06:29 PM UTC"
+        "snapshot_time": "November 11, 2026 at 01:44 AM UTC"
+      },
+      "fatigue": {
+        "home": {
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Nov 10",
+          "days_rest": 1,
+          "games_last_4d": 2,
+          "travel_miles": 0,
+          "travel_desc": "",
+          "source": "ESPN Scoreboard API"
+        },
+        "away": {
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Nov 10",
+          "days_rest": 1,
+          "games_last_4d": 2,
+          "travel_miles": 2391,
+          "travel_desc": "2,391 mi road trip",
+          "source": "ESPN Scoreboard API"
+        }
+      },
+      "edge_factors": [
+        "\ud83d\udca4 ORL fatigued (B2B) \u2014 source: ESPN",
+        "\u2708\ufe0f ORL traveled 2,391 mi"
+      ],
+      "injury_notes": "No key injuries.",
+      "sharp": {
+        "away_t": null,
+        "home_t": null,
+        "source": null,
+        "sharp_signal": null,
+        "sharp_label": "Pending \u2014 check closer to tip-off",
+        "rlm": false
+      },
+      "form": {
+        "home": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        },
+        "away": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        }
+      },
+      "h2h": {
+        "total_meetings": 0,
+        "home_wins": 0,
+        "away_wins": 0,
+        "meetings": [],
+        "source": "\u2014"
+      },
+      "briefing": {
+        "trend": "SAC on Back-to-Back \u26a0\ufe0f per ESPN schedule data. ORL on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "matchup": "Both rosters appear healthy \u2014 clean line.",
+        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "injury_notes": "No key injuries."
+      },
+      "live": {
+        "status": "pre",
+        "status_detail": "Upcoming",
+        "period": 0,
+        "clock": "",
+        "home_score": 0,
+        "away_score": 0,
+        "spread_alert": null
+      },
+      "news": [
+        {
+          "title": "Victor Wembanyama joins Shaq in NBA history",
+          "source": "ClutchPoints",
+          "link": "https://clutchpoints.com/nba/san-antonio-spurs/spurs-news-victor-wembanyama-joins-shaq-in-nba-history",
+          "published": "2026-11-10T05:26:42Z"
+        },
+        {
+          "title": "Spurs\u2019 Victor Wembanyama takes off from behind the FT line for insane finish",
+          "source": "ClutchPoints",
+          "link": "https://clutchpoints.com/nba/san-antonio-spurs/spurs-news-victor-wembanyama-behind-the-ft-line-for-finish",
+          "published": "2026-11-10T05:22:51Z"
+        },
+        {
+          "title": "Warriors Star Draymond Green Explains Importance of Georges Niang Signing",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/golden-state-warriors/draymond-green-explains-importance-georges-niang/",
+          "published": "2026-11-10T05:20:32Z"
+        }
+      ]
+    },
+    {
+      "game": "Oklahoma City Thunder @ Portland Trail Blazers",
+      "home_team": "Portland Trail Blazers",
+      "away_team": "Oklahoma City Thunder",
+      "home_abbr": "POR",
+      "away_abbr": "OKC",
+      "home_ml": "+100",
+      "away_ml": "-130",
+      "home_ml_raw": 100,
+      "away_ml_raw": -130,
+      "home_prob": 46.9,
+      "away_prob": 53.1,
+      "spread": "POR +1.5",
+      "favorite": "Oklahoma City Thunder",
+      "pick": "Oklahoma City Thunder",
+      "pick_abbr": "OKC",
+      "moneyline": "-130",
+      "win_probability": 53.1,
+      "confidence": "LOW",
+      "confidence_stars": "\u2605\u2606\u2606",
+      "commence_time": "2026-11-11T04:14:00Z",
+      "line_movement": {
+        "home": {
+          "direction": "shorter",
+          "points_moved": 6,
+          "steam": false,
+          "label": "\ud83d\udfe2 +100 \u2190 +106",
+          "old_ml": "+106",
+          "new_ml": "+100"
+        },
+        "away": {
+          "direction": "shorter",
+          "points_moved": 5,
+          "steam": false,
+          "label": "\ud83d\udfe2 -130 \u2190 -125",
+          "old_ml": "-125",
+          "new_ml": "-130"
+        },
+        "pick": {
+          "direction": "shorter",
+          "points_moved": 5,
+          "steam": false,
+          "label": "\ud83d\udfe2 -130 \u2190 -125",
+          "old_ml": "-125",
+          "new_ml": "-130"
+        },
+        "snapshot_time": "November 11, 2026 at 01:44 AM UTC"
+      },
+      "fatigue": {
+        "home": {
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Nov 10",
+          "days_rest": 1,
+          "games_last_4d": 2,
+          "travel_miles": 0,
+          "travel_desc": "",
+          "source": "ESPN Scoreboard API"
+        },
+        "away": {
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Nov 10",
+          "days_rest": 1,
+          "games_last_4d": 2,
+          "travel_miles": 1485,
+          "travel_desc": "1,485 mi road trip",
+          "source": "ESPN Scoreboard API"
+        }
+      },
+      "edge_factors": [
+        "\ud83d\udca4 POR fatigued (B2B) \u2014 source: ESPN"
+      ],
+      "injury_notes": "No key injuries.",
+      "sharp": {
+        "away_t": null,
+        "home_t": null,
+        "source": null,
+        "sharp_signal": null,
+        "sharp_label": "Pending \u2014 check closer to tip-off",
+        "rlm": false
+      },
+      "form": {
+        "home": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        },
+        "away": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        }
+      },
+      "h2h": {
+        "total_meetings": 0,
+        "home_wins": 0,
+        "away_wins": 0,
+        "meetings": [],
+        "source": "\u2014"
+      },
+      "briefing": {
+        "trend": "POR on Back-to-Back \u26a0\ufe0f per ESPN schedule data. OKC on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "matchup": "Both rosters appear healthy \u2014 clean line.",
+        "steam": "Line moved -125\u2192-130 (5pts). Pending \u2014 check closer to tip-off",
+        "injury_notes": "No key injuries."
+      },
+      "live": {
+        "status": "pre",
+        "status_detail": "Upcoming",
+        "period": 0,
+        "clock": "",
+        "home_score": 0,
+        "away_score": 0,
+        "spread_alert": null
+      },
+      "news": [
+        {
+          "title": "Victor Wembanyama joins Shaq in NBA history",
+          "source": "ClutchPoints",
+          "link": "https://clutchpoints.com/nba/san-antonio-spurs/spurs-news-victor-wembanyama-joins-shaq-in-nba-history",
+          "published": "2026-11-10T05:26:42Z"
+        },
+        {
+          "title": "Spurs\u2019 Victor Wembanyama takes off from behind the FT line for insane finish",
+          "source": "ClutchPoints",
+          "link": "https://clutchpoints.com/nba/san-antonio-spurs/spurs-news-victor-wembanyama-behind-the-ft-line-for-finish",
+          "published": "2026-11-10T05:22:51Z"
+        },
+        {
+          "title": "Warriors Star Draymond Green Explains Importance of Georges Niang Signing",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/golden-state-warriors/draymond-green-explains-importance-georges-niang/",
+          "published": "2026-11-10T05:20:32Z"
+        }
+      ]
+    },
+    {
+      "game": "Boston Celtics @ Toronto Raptors",
+      "home_team": "Toronto Raptors",
+      "away_team": "Boston Celtics",
+      "home_abbr": "TOR",
+      "away_abbr": "BOS",
+      "home_ml": "+206",
+      "away_ml": "-249",
+      "home_ml_raw": 206,
+      "away_ml_raw": -249,
+      "home_prob": 31.4,
+      "away_prob": 68.6,
+      "spread": "TOR +6.5",
+      "favorite": "Boston Celtics",
+      "pick": "Boston Celtics",
+      "pick_abbr": "BOS",
+      "moneyline": "-249",
+      "win_probability": 68.6,
+      "confidence": "MEDIUM",
+      "confidence_stars": "\u2605\u2605\u2606",
+      "commence_time": "2026-11-12T00:10:00Z",
+      "line_movement": {
+        "home": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "away": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "pick": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "snapshot_time": "\u2014"
+      },
+      "fatigue": {
+        "home": {
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
+          "last_game": "Nov 09",
+          "days_rest": 2,
+          "games_last_4d": 1,
+          "travel_miles": 0,
+          "travel_desc": "",
+          "source": "ESPN Scoreboard API"
+        },
+        "away": {
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Nov 10",
+          "days_rest": 1,
+          "games_last_4d": 2,
+          "travel_miles": 273,
+          "travel_desc": "273 mi road trip",
+          "source": "ESPN Scoreboard API"
+        }
+      },
+      "edge_factors": [
+        "\ud83d\udcca 37.2pt probability edge"
+      ],
+      "injury_notes": "No key injuries.",
+      "sharp": {
+        "away_t": null,
+        "home_t": null,
+        "source": null,
+        "sharp_signal": null,
+        "sharp_label": "Pending \u2014 check closer to tip-off",
+        "rlm": false
+      },
+      "form": {
+        "home": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        },
+        "away": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        }
+      },
+      "h2h": {
+        "total_meetings": 0,
+        "home_wins": 0,
+        "away_wins": 0,
+        "meetings": [],
+        "source": "\u2014"
+      },
+      "briefing": {
+        "trend": "BOS on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "matchup": "Both rosters appear healthy \u2014 clean line.",
+        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "injury_notes": "No key injuries."
+      },
+      "live": {
+        "status": "pre",
+        "status_detail": "Upcoming",
+        "period": 0,
+        "clock": "",
+        "home_score": 0,
+        "away_score": 0,
+        "spread_alert": null
+      },
+      "news": [
+        {
+          "title": "Victor Wembanyama joins Shaq in NBA history",
+          "source": "ClutchPoints",
+          "link": "https://clutchpoints.com/nba/san-antonio-spurs/spurs-news-victor-wembanyama-joins-shaq-in-nba-history",
+          "published": "2026-11-10T05:26:42Z"
+        },
+        {
+          "title": "Spurs\u2019 Victor Wembanyama takes off from behind the FT line for insane finish",
+          "source": "ClutchPoints",
+          "link": "https://clutchpoints.com/nba/san-antonio-spurs/spurs-news-victor-wembanyama-behind-the-ft-line-for-finish",
+          "published": "2026-11-10T05:22:51Z"
+        },
+        {
+          "title": "Warriors Star Draymond Green Explains Importance of Georges Niang Signing",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/golden-state-warriors/draymond-green-explains-importance-georges-niang/",
+          "published": "2026-11-10T05:20:32Z"
+        }
+      ]
+    },
+    {
+      "game": "Cleveland Cavaliers @ New York Knicks",
+      "home_team": "New York Knicks",
+      "away_team": "Cleveland Cavaliers",
+      "home_abbr": "NYK",
+      "away_abbr": "CLE",
+      "home_ml": "-166",
+      "away_ml": "+140",
+      "home_ml_raw": -166,
+      "away_ml_raw": 140,
+      "home_prob": 60.0,
+      "away_prob": 40.0,
+      "spread": "NYK -3.5",
+      "favorite": "New York Knicks",
+      "pick": "New York Knicks",
+      "pick_abbr": "NYK",
+      "moneyline": "-166",
+      "win_probability": 60.0,
+      "confidence": "MEDIUM",
+      "confidence_stars": "\u2605\u2605\u2606",
+      "commence_time": "2026-11-12T00:10:00Z",
+      "line_movement": {
+        "home": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "away": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "pick": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "snapshot_time": "\u2014"
       },
       "fatigue": {
         "home": {
@@ -63,6 +499,720 @@
           "source": "ESPN Scoreboard API"
         },
         "away": {
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
+          "last_game": "Nov 09",
+          "days_rest": 2,
+          "games_last_4d": 2,
+          "travel_miles": 436,
+          "travel_desc": "436 mi road trip",
+          "source": "ESPN Scoreboard API"
+        }
+      },
+      "edge_factors": [
+        "\ud83d\udcca 20.0pt probability edge"
+      ],
+      "injury_notes": "No key injuries.",
+      "sharp": {
+        "away_t": null,
+        "home_t": null,
+        "source": null,
+        "sharp_signal": null,
+        "sharp_label": "Pending \u2014 check closer to tip-off",
+        "rlm": false
+      },
+      "form": {
+        "home": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        },
+        "away": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        }
+      },
+      "h2h": {
+        "total_meetings": 0,
+        "home_wins": 0,
+        "away_wins": 0,
+        "meetings": [],
+        "source": "\u2014"
+      },
+      "briefing": {
+        "trend": "NYK on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "matchup": "Both rosters appear healthy \u2014 clean line.",
+        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "injury_notes": "No key injuries."
+      },
+      "live": {
+        "status": "pre",
+        "status_detail": "Upcoming",
+        "period": 0,
+        "clock": "",
+        "home_score": 0,
+        "away_score": 0,
+        "spread_alert": null
+      },
+      "news": [
+        {
+          "title": "Victor Wembanyama joins Shaq in NBA history",
+          "source": "ClutchPoints",
+          "link": "https://clutchpoints.com/nba/san-antonio-spurs/spurs-news-victor-wembanyama-joins-shaq-in-nba-history",
+          "published": "2026-11-10T05:26:42Z"
+        },
+        {
+          "title": "Spurs\u2019 Victor Wembanyama takes off from behind the FT line for insane finish",
+          "source": "ClutchPoints",
+          "link": "https://clutchpoints.com/nba/san-antonio-spurs/spurs-news-victor-wembanyama-behind-the-ft-line-for-finish",
+          "published": "2026-11-10T05:22:51Z"
+        },
+        {
+          "title": "Warriors Star Draymond Green Explains Importance of Georges Niang Signing",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/golden-state-warriors/draymond-green-explains-importance-georges-niang/",
+          "published": "2026-11-10T05:20:32Z"
+        }
+      ]
+    },
+    {
+      "game": "Washington Wizards @ Indiana Pacers",
+      "home_team": "Indiana Pacers",
+      "away_team": "Washington Wizards",
+      "home_abbr": "IND",
+      "away_abbr": "WAS",
+      "home_ml": "-166",
+      "away_ml": "+139",
+      "home_ml_raw": -166,
+      "away_ml_raw": 139,
+      "home_prob": 59.9,
+      "away_prob": 40.1,
+      "spread": "IND -3.5",
+      "favorite": "Indiana Pacers",
+      "pick": "Indiana Pacers",
+      "pick_abbr": "IND",
+      "moneyline": "-166",
+      "win_probability": 59.9,
+      "confidence": "MEDIUM",
+      "confidence_stars": "\u2605\u2605\u2606",
+      "commence_time": "2026-11-12T00:10:00Z",
+      "line_movement": {
+        "home": {
+          "direction": "shorter",
+          "points_moved": 6,
+          "steam": false,
+          "label": "\ud83d\udfe2 -166 \u2190 -160",
+          "old_ml": "-160",
+          "new_ml": "-166"
+        },
+        "away": {
+          "direction": "longer",
+          "points_moved": 4,
+          "steam": false,
+          "label": "\ud83d\udd34 +139 \u2190 +135",
+          "old_ml": "+135",
+          "new_ml": "+139"
+        },
+        "pick": {
+          "direction": "shorter",
+          "points_moved": 6,
+          "steam": false,
+          "label": "\ud83d\udfe2 -166 \u2190 -160",
+          "old_ml": "-160",
+          "new_ml": "-166"
+        },
+        "snapshot_time": "November 11, 2026 at 01:44 AM UTC"
+      },
+      "fatigue": {
+        "home": {
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
+          "last_game": "Nov 09",
+          "days_rest": 2,
+          "games_last_4d": 2,
+          "travel_miles": 763,
+          "travel_desc": "763 mi road trip",
+          "source": "ESPN Scoreboard API"
+        },
+        "away": {
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
+          "last_game": "Nov 09",
+          "days_rest": 2,
+          "games_last_4d": 2,
+          "travel_miles": 396,
+          "travel_desc": "396 mi road trip",
+          "source": "ESPN Scoreboard API"
+        }
+      },
+      "edge_factors": [
+        "\ud83d\udcca 19.8pt probability edge"
+      ],
+      "injury_notes": "No key injuries.",
+      "sharp": {
+        "away_t": null,
+        "home_t": null,
+        "source": null,
+        "sharp_signal": null,
+        "sharp_label": "Pending \u2014 check closer to tip-off",
+        "rlm": false
+      },
+      "form": {
+        "home": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        },
+        "away": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        }
+      },
+      "h2h": {
+        "total_meetings": 0,
+        "home_wins": 0,
+        "away_wins": 0,
+        "meetings": [],
+        "source": "\u2014"
+      },
+      "briefing": {
+        "trend": "Indiana Pacers hold a 59.9% edge.",
+        "matchup": "Both rosters appear healthy \u2014 clean line.",
+        "steam": "Line moved -160\u2192-166 (6pts). Pending \u2014 check closer to tip-off",
+        "injury_notes": "No key injuries."
+      },
+      "live": {
+        "status": "pre",
+        "status_detail": "Upcoming",
+        "period": 0,
+        "clock": "",
+        "home_score": 0,
+        "away_score": 0,
+        "spread_alert": null
+      },
+      "news": [
+        {
+          "title": "Victor Wembanyama joins Shaq in NBA history",
+          "source": "ClutchPoints",
+          "link": "https://clutchpoints.com/nba/san-antonio-spurs/spurs-news-victor-wembanyama-joins-shaq-in-nba-history",
+          "published": "2026-11-10T05:26:42Z"
+        },
+        {
+          "title": "Spurs\u2019 Victor Wembanyama takes off from behind the FT line for insane finish",
+          "source": "ClutchPoints",
+          "link": "https://clutchpoints.com/nba/san-antonio-spurs/spurs-news-victor-wembanyama-behind-the-ft-line-for-finish",
+          "published": "2026-11-10T05:22:51Z"
+        },
+        {
+          "title": "Warriors Star Draymond Green Explains Importance of Georges Niang Signing",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/golden-state-warriors/draymond-green-explains-importance-georges-niang/",
+          "published": "2026-11-10T05:20:32Z"
+        }
+      ]
+    },
+    {
+      "game": "Brooklyn Nets @ New Orleans Pelicans",
+      "home_team": "New Orleans Pelicans",
+      "away_team": "Brooklyn Nets",
+      "home_abbr": "NOP",
+      "away_abbr": "BKN",
+      "home_ml": "-191",
+      "away_ml": "+160",
+      "home_ml_raw": -191,
+      "away_ml_raw": 160,
+      "home_prob": 63.1,
+      "away_prob": 36.9,
+      "spread": "NOP -4.5",
+      "favorite": "New Orleans Pelicans",
+      "pick": "New Orleans Pelicans",
+      "pick_abbr": "NOP",
+      "moneyline": "-191",
+      "win_probability": 63.1,
+      "confidence": "MEDIUM",
+      "confidence_stars": "\u2605\u2605\u2606",
+      "commence_time": "2026-11-12T01:10:00Z",
+      "line_movement": {
+        "home": {
+          "direction": "shorter",
+          "points_moved": 17,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -191 \u2190 -174",
+          "old_ml": "-174",
+          "new_ml": "-191"
+        },
+        "away": {
+          "direction": "longer",
+          "points_moved": 14,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM +160 \u2190 +146",
+          "old_ml": "+146",
+          "new_ml": "+160"
+        },
+        "pick": {
+          "direction": "shorter",
+          "points_moved": 17,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -191 \u2190 -174",
+          "old_ml": "-174",
+          "new_ml": "-191"
+        },
+        "snapshot_time": "November 11, 2026 at 01:44 AM UTC"
+      },
+      "fatigue": {
+        "home": {
+          "status": "TRAVEL",
+          "label": "Cross-country travel \ud83d\udfe3",
+          "battery": 50,
+          "last_game": "Nov 09",
+          "days_rest": 2,
+          "games_last_4d": 2,
+          "travel_miles": 1920,
+          "travel_desc": "1,920 mi road trip",
+          "source": "ESPN Scoreboard API"
+        },
+        "away": {
+          "status": "RESTED",
+          "label": "2 days rest \u2705",
+          "battery": 88,
+          "last_game": "Nov 08",
+          "days_rest": 3,
+          "games_last_4d": 2,
+          "travel_miles": 1372,
+          "travel_desc": "1,372 mi road trip",
+          "source": "ESPN Scoreboard API"
+        }
+      },
+      "edge_factors": [
+        "\ud83d\udd25 Sharp steam detected"
+      ],
+      "injury_notes": "No key injuries.",
+      "sharp": {
+        "away_t": null,
+        "home_t": null,
+        "source": null,
+        "sharp_signal": null,
+        "sharp_label": "Pending \u2014 check closer to tip-off",
+        "rlm": false
+      },
+      "form": {
+        "home": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        },
+        "away": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        }
+      },
+      "h2h": {
+        "total_meetings": 0,
+        "home_wins": 0,
+        "away_wins": 0,
+        "meetings": [],
+        "source": "\u2014"
+      },
+      "briefing": {
+        "trend": "New Orleans Pelicans hold a 63.1% edge.",
+        "matchup": "Both rosters appear healthy \u2014 clean line.",
+        "steam": "Line steamed from -174 to -191 (17pt move) \u2014 heavy professional action on New Orleans Pelicans.",
+        "injury_notes": "No key injuries."
+      },
+      "live": {
+        "status": "pre",
+        "status_detail": "Upcoming",
+        "period": 0,
+        "clock": "",
+        "home_score": 0,
+        "away_score": 0,
+        "spread_alert": null
+      },
+      "news": [
+        {
+          "title": "Victor Wembanyama joins Shaq in NBA history",
+          "source": "ClutchPoints",
+          "link": "https://clutchpoints.com/nba/san-antonio-spurs/spurs-news-victor-wembanyama-joins-shaq-in-nba-history",
+          "published": "2026-11-10T05:26:42Z"
+        },
+        {
+          "title": "Spurs\u2019 Victor Wembanyama takes off from behind the FT line for insane finish",
+          "source": "ClutchPoints",
+          "link": "https://clutchpoints.com/nba/san-antonio-spurs/spurs-news-victor-wembanyama-behind-the-ft-line-for-finish",
+          "published": "2026-11-10T05:22:51Z"
+        },
+        {
+          "title": "Warriors Star Draymond Green Explains Importance of Georges Niang Signing",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/golden-state-warriors/draymond-green-explains-importance-georges-niang/",
+          "published": "2026-11-10T05:20:32Z"
+        }
+      ]
+    },
+    {
+      "game": "San Antonio Spurs @ Chicago Bulls",
+      "home_team": "Chicago Bulls",
+      "away_team": "San Antonio Spurs",
+      "home_abbr": "CHI",
+      "away_abbr": "SAS",
+      "home_ml": "+750",
+      "away_ml": "-1200",
+      "home_ml_raw": 750,
+      "away_ml_raw": -1200,
+      "home_prob": 11.3,
+      "away_prob": 88.7,
+      "spread": "CHI +14.5",
+      "favorite": "San Antonio Spurs",
+      "pick": "San Antonio Spurs",
+      "pick_abbr": "SAS",
+      "moneyline": "-1200",
+      "win_probability": 88.7,
+      "confidence": "HIGH",
+      "confidence_stars": "\u2605\u2605\u2605",
+      "commence_time": "2026-11-12T01:10:00Z",
+      "line_movement": {
+        "home": {
+          "direction": "longer",
+          "points_moved": 120,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM +750 \u2190 +630",
+          "old_ml": "+630",
+          "new_ml": "+750"
+        },
+        "away": {
+          "direction": "shorter",
+          "points_moved": 260,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -1200 \u2190 -940",
+          "old_ml": "-940",
+          "new_ml": "-1200"
+        },
+        "pick": {
+          "direction": "shorter",
+          "points_moved": 260,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -1200 \u2190 -940",
+          "old_ml": "-940",
+          "new_ml": "-1200"
+        },
+        "snapshot_time": "November 11, 2026 at 01:44 AM UTC"
+      },
+      "fatigue": {
+        "home": {
+          "status": "RESTED",
+          "label": "2 days rest \u2705",
+          "battery": 88,
+          "last_game": "Nov 08",
+          "days_rest": 3,
+          "games_last_4d": 1,
+          "travel_miles": 0,
+          "travel_desc": "",
+          "source": "ESPN Scoreboard API"
+        },
+        "away": {
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
+          "last_game": "Nov 09",
+          "days_rest": 2,
+          "games_last_4d": 2,
+          "travel_miles": 849,
+          "travel_desc": "849 mi road trip",
+          "source": "ESPN Scoreboard API"
+        }
+      },
+      "edge_factors": [
+        "\ud83d\udd25 Sharp steam detected"
+      ],
+      "injury_notes": "No key injuries.",
+      "sharp": {
+        "away_t": null,
+        "home_t": null,
+        "source": null,
+        "sharp_signal": null,
+        "sharp_label": "Pending \u2014 check closer to tip-off",
+        "rlm": false
+      },
+      "form": {
+        "home": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        },
+        "away": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        }
+      },
+      "h2h": {
+        "total_meetings": 0,
+        "home_wins": 0,
+        "away_wins": 0,
+        "meetings": [],
+        "source": "\u2014"
+      },
+      "briefing": {
+        "trend": "San Antonio Spurs hold a 88.7% edge.",
+        "matchup": "Both rosters appear healthy \u2014 clean line.",
+        "steam": "Line steamed from -940 to -1200 (260pt move) \u2014 heavy professional action on San Antonio Spurs.",
+        "injury_notes": "No key injuries."
+      },
+      "live": {
+        "status": "pre",
+        "status_detail": "Upcoming",
+        "period": 0,
+        "clock": "",
+        "home_score": 0,
+        "away_score": 0,
+        "spread_alert": null
+      },
+      "news": [
+        {
+          "title": "Victor Wembanyama joins Shaq in NBA history",
+          "source": "ClutchPoints",
+          "link": "https://clutchpoints.com/nba/san-antonio-spurs/spurs-news-victor-wembanyama-joins-shaq-in-nba-history",
+          "published": "2026-11-10T05:26:42Z"
+        },
+        {
+          "title": "Spurs\u2019 Victor Wembanyama takes off from behind the FT line for insane finish",
+          "source": "ClutchPoints",
+          "link": "https://clutchpoints.com/nba/san-antonio-spurs/spurs-news-victor-wembanyama-behind-the-ft-line-for-finish",
+          "published": "2026-11-10T05:22:51Z"
+        },
+        {
+          "title": "Warriors Star Draymond Green Explains Importance of Georges Niang Signing",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/golden-state-warriors/draymond-green-explains-importance-georges-niang/",
+          "published": "2026-11-10T05:20:32Z"
+        }
+      ]
+    },
+    {
+      "game": "Denver Nuggets @ Memphis Grizzlies",
+      "home_team": "Memphis Grizzlies",
+      "away_team": "Denver Nuggets",
+      "home_abbr": "MEM",
+      "away_abbr": "DEN",
+      "home_ml": "+133",
+      "away_ml": "-158",
+      "home_ml_raw": 133,
+      "away_ml_raw": -158,
+      "home_prob": 41.2,
+      "away_prob": 58.8,
+      "spread": "MEM +4.5",
+      "favorite": "Denver Nuggets",
+      "pick": "Denver Nuggets",
+      "pick_abbr": "DEN",
+      "moneyline": "-158",
+      "win_probability": 58.8,
+      "confidence": "MEDIUM",
+      "confidence_stars": "\u2605\u2605\u2606",
+      "commence_time": "2026-11-12T01:10:00Z",
+      "line_movement": {
+        "home": {
+          "direction": "longer",
+          "points_moved": 2,
+          "steam": false,
+          "label": "\ud83d\udd34 +133 \u2190 +131",
+          "old_ml": "+131",
+          "new_ml": "+133"
+        },
+        "away": {
+          "direction": "shorter",
+          "points_moved": 2,
+          "steam": false,
+          "label": "\ud83d\udfe2 -158 \u2190 -156",
+          "old_ml": "-156",
+          "new_ml": "-158"
+        },
+        "pick": {
+          "direction": "shorter",
+          "points_moved": 2,
+          "steam": false,
+          "label": "\ud83d\udfe2 -158 \u2190 -156",
+          "old_ml": "-156",
+          "new_ml": "-158"
+        },
+        "snapshot_time": "November 11, 2026 at 01:44 AM UTC"
+      },
+      "fatigue": {
+        "home": {
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
+          "last_game": "Nov 09",
+          "days_rest": 2,
+          "games_last_4d": 1,
+          "travel_miles": 817,
+          "travel_desc": "817 mi road trip",
+          "source": "ESPN Scoreboard API"
+        },
+        "away": {
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
+          "last_game": "Nov 09",
+          "days_rest": 2,
+          "games_last_4d": 2,
+          "travel_miles": 880,
+          "travel_desc": "880 mi road trip",
+          "source": "ESPN Scoreboard API"
+        }
+      },
+      "edge_factors": [
+        "\ud83d\udcca 17.6pt probability edge"
+      ],
+      "injury_notes": "No key injuries.",
+      "sharp": {
+        "away_t": null,
+        "home_t": null,
+        "source": null,
+        "sharp_signal": null,
+        "sharp_label": "Pending \u2014 check closer to tip-off",
+        "rlm": false
+      },
+      "form": {
+        "home": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        },
+        "away": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        }
+      },
+      "h2h": {
+        "total_meetings": 0,
+        "home_wins": 0,
+        "away_wins": 0,
+        "meetings": [],
+        "source": "\u2014"
+      },
+      "briefing": {
+        "trend": "Denver Nuggets hold a 58.8% edge.",
+        "matchup": "Both rosters appear healthy \u2014 clean line.",
+        "steam": "Line moved -156\u2192-158 (2pts). Pending \u2014 check closer to tip-off",
+        "injury_notes": "No key injuries."
+      },
+      "live": {
+        "status": "pre",
+        "status_detail": "Upcoming",
+        "period": 0,
+        "clock": "",
+        "home_score": 0,
+        "away_score": 0,
+        "spread_alert": null
+      },
+      "news": [
+        {
+          "title": "Victor Wembanyama joins Shaq in NBA history",
+          "source": "ClutchPoints",
+          "link": "https://clutchpoints.com/nba/san-antonio-spurs/spurs-news-victor-wembanyama-joins-shaq-in-nba-history",
+          "published": "2026-11-10T05:26:42Z"
+        },
+        {
+          "title": "Spurs\u2019 Victor Wembanyama takes off from behind the FT line for insane finish",
+          "source": "ClutchPoints",
+          "link": "https://clutchpoints.com/nba/san-antonio-spurs/spurs-news-victor-wembanyama-behind-the-ft-line-for-finish",
+          "published": "2026-11-10T05:22:51Z"
+        },
+        {
+          "title": "Warriors Star Draymond Green Explains Importance of Georges Niang Signing",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/golden-state-warriors/draymond-green-explains-importance-georges-niang/",
+          "published": "2026-11-10T05:20:32Z"
+        }
+      ]
+    },
+    {
+      "game": "Los Angeles Lakers @ Milwaukee Bucks",
+      "home_team": "Milwaukee Bucks",
+      "away_team": "Los Angeles Lakers",
+      "home_abbr": "MIL",
+      "away_abbr": "LAL",
+      "home_ml": "+473",
+      "away_ml": "-650",
+      "home_ml_raw": 473,
+      "away_ml_raw": -650,
+      "home_prob": 16.8,
+      "away_prob": 83.2,
+      "spread": "MIL +10.5",
+      "favorite": "Los Angeles Lakers",
+      "pick": "Los Angeles Lakers",
+      "pick_abbr": "LAL",
+      "moneyline": "-650",
+      "win_probability": 83.2,
+      "confidence": "HIGH",
+      "confidence_stars": "\u2605\u2605\u2605",
+      "commence_time": "2026-11-12T01:10:00Z",
+      "line_movement": {
+        "home": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "away": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "pick": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "snapshot_time": "\u2014"
+      },
+      "fatigue": {
+        "home": {
           "status": "B2B",
           "label": "Back-to-Back \u26a0\ufe0f",
           "battery": 20,
@@ -71,6 +1221,17 @@
           "games_last_4d": 2,
           "travel_miles": 732,
           "travel_desc": "732 mi road trip",
+          "source": "ESPN Scoreboard API"
+        },
+        "away": {
+          "status": "TRAVEL",
+          "label": "Cross-country travel \ud83d\udfe3",
+          "battery": 50,
+          "last_game": "Nov 09",
+          "days_rest": 2,
+          "games_last_4d": 2,
+          "travel_miles": 1934,
+          "travel_desc": "1,934 mi road trip",
           "source": "ESPN Scoreboard API"
         }
       },
@@ -112,7 +1273,7 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "NYK on Back-to-Back \u26a0\ufe0f per ESPN schedule data. MIL on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "trend": "MIL on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
         "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
@@ -128,1328 +1289,22 @@
       },
       "news": [
         {
-          "title": "Stephen Curry and Ayesha Curry turn 400 bidders into $1.7 million for the people of Oakland as they remain committed to their charity",
-          "source": "The Times of India",
-          "link": "https://timesofindia.indiatimes.com/sports/nba/top-stories/stephen-curry-and-ayesha-curry-turn-400-bidders-into-1-7-million-for-the-people-of-oakland-as-they-remain-committed-to-their-charity/articleshow/135696464.cms",
-          "published": "2026-11-10T01:41:51Z"
+          "title": "Victor Wembanyama joins Shaq in NBA history",
+          "source": "ClutchPoints",
+          "link": "https://clutchpoints.com/nba/san-antonio-spurs/spurs-news-victor-wembanyama-joins-shaq-in-nba-history",
+          "published": "2026-11-10T05:26:42Z"
         },
         {
-          "title": "Davis Fogle, Gonzaga Have Fruitful First Week of College Basketball",
-          "source": "The Slipper Still Fits",
-          "link": "https://www.slipperstillfits.com/gonzaga-mens-basketball/31234/davis-fogle-gonzaga-have-fruitful-first-week-of-college-basketball",
-          "published": "2026-11-10T01:40:03Z"
+          "title": "Spurs\u2019 Victor Wembanyama takes off from behind the FT line for insane finish",
+          "source": "ClutchPoints",
+          "link": "https://clutchpoints.com/nba/san-antonio-spurs/spurs-news-victor-wembanyama-behind-the-ft-line-for-finish",
+          "published": "2026-11-10T05:22:51Z"
         },
         {
-          "title": "The Utah Jazz have the worst record in the NBA",
-          "source": "Slcdunk.com",
-          "link": "https://www.slcdunk.com/jazz-analysis/70646/the-utah-jazz-have-the-worst-record-in-the-nba",
-          "published": "2026-11-10T01:37:37Z"
-        }
-      ]
-    },
-    {
-      "game": "Boston Celtics @ Philadelphia 76ers",
-      "home_team": "Philadelphia 76ers",
-      "away_team": "Boston Celtics",
-      "home_abbr": "PHI",
-      "away_abbr": "BOS",
-      "home_ml": "+160",
-      "away_ml": "-210",
-      "home_ml_raw": 160,
-      "away_ml_raw": -210,
-      "home_prob": 36.2,
-      "away_prob": 63.8,
-      "spread": "PHI +5.5",
-      "favorite": "Boston Celtics",
-      "pick": "Boston Celtics",
-      "pick_abbr": "BOS",
-      "moneyline": "-210",
-      "win_probability": 63.8,
-      "confidence": "MEDIUM",
-      "confidence_stars": "\u2605\u2605\u2606",
-      "commence_time": "2026-11-11T01:14:00Z",
-      "line_movement": {
-        "home": {
-          "direction": "longer",
-          "points_moved": 261,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM +160 \u2190 -101",
-          "old_ml": "-101",
-          "new_ml": "+160"
-        },
-        "away": {
-          "direction": "shorter",
-          "points_moved": 93,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -210 \u2190 -117",
-          "old_ml": "-117",
-          "new_ml": "-210"
-        },
-        "pick": {
-          "direction": "shorter",
-          "points_moved": 93,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -210 \u2190 -117",
-          "old_ml": "-117",
-          "new_ml": "-210"
-        },
-        "snapshot_time": "November 10, 2026 at 06:29 PM UTC"
-      },
-      "fatigue": {
-        "home": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
-          "last_game": "Nov 10",
-          "days_rest": 1,
-          "games_last_4d": 2,
-          "travel_miles": 667,
-          "travel_desc": "667 mi road trip",
-          "source": "ESPN Scoreboard API"
-        },
-        "away": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
-          "last_game": "Nov 10",
-          "days_rest": 1,
-          "games_last_4d": 2,
-          "travel_miles": 273,
-          "travel_desc": "273 mi road trip",
-          "source": "ESPN Scoreboard API"
-        }
-      },
-      "edge_factors": [
-        "\ud83d\udd25 Sharp steam detected",
-        "\ud83d\udca4 PHI fatigued (B2B) \u2014 source: ESPN"
-      ],
-      "injury_notes": "No key injuries.",
-      "sharp": {
-        "away_t": null,
-        "home_t": null,
-        "source": null,
-        "sharp_signal": null,
-        "sharp_label": "Pending \u2014 check closer to tip-off",
-        "rlm": false
-      },
-      "form": {
-        "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        },
-        "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        }
-      },
-      "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
-      },
-      "briefing": {
-        "trend": "PHI on Back-to-Back \u26a0\ufe0f per ESPN schedule data. BOS on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -117 to -210 (93pt move) \u2014 heavy professional action on Boston Celtics.",
-        "injury_notes": "No key injuries."
-      },
-      "live": {
-        "status": "pre",
-        "status_detail": "Upcoming",
-        "period": 0,
-        "clock": "",
-        "home_score": 0,
-        "away_score": 0,
-        "spread_alert": null
-      },
-      "news": [
-        {
-          "title": "Stephen Curry and Ayesha Curry turn 400 bidders into $1.7 million for the people of Oakland as they remain committed to their charity",
-          "source": "The Times of India",
-          "link": "https://timesofindia.indiatimes.com/sports/nba/top-stories/stephen-curry-and-ayesha-curry-turn-400-bidders-into-1-7-million-for-the-people-of-oakland-as-they-remain-committed-to-their-charity/articleshow/135696464.cms",
-          "published": "2026-11-10T01:41:51Z"
-        },
-        {
-          "title": "Davis Fogle, Gonzaga Have Fruitful First Week of College Basketball",
-          "source": "The Slipper Still Fits",
-          "link": "https://www.slipperstillfits.com/gonzaga-mens-basketball/31234/davis-fogle-gonzaga-have-fruitful-first-week-of-college-basketball",
-          "published": "2026-11-10T01:40:03Z"
-        },
-        {
-          "title": "The Utah Jazz have the worst record in the NBA",
-          "source": "Slcdunk.com",
-          "link": "https://www.slcdunk.com/jazz-analysis/70646/the-utah-jazz-have-the-worst-record-in-the-nba",
-          "published": "2026-11-10T01:37:37Z"
-        }
-      ]
-    },
-    {
-      "game": "Los Angeles Clippers @ Phoenix Suns",
-      "home_team": "Phoenix Suns",
-      "away_team": "Los Angeles Clippers",
-      "home_abbr": "PHX",
-      "away_abbr": "LAC",
-      "home_ml": "-179",
-      "away_ml": "+150",
-      "home_ml_raw": -179,
-      "away_ml_raw": 150,
-      "home_prob": 61.6,
-      "away_prob": 38.4,
-      "spread": "PHX -3.5",
-      "favorite": "Phoenix Suns",
-      "pick": "Phoenix Suns",
-      "pick_abbr": "PHX",
-      "moneyline": "-179",
-      "win_probability": 61.6,
-      "confidence": "MEDIUM",
-      "confidence_stars": "\u2605\u2605\u2606",
-      "commence_time": "2026-11-11T02:10:00Z",
-      "line_movement": {
-        "home": {
-          "direction": "shorter",
-          "points_moved": 12,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -179 \u2190 -167",
-          "old_ml": "-167",
-          "new_ml": "-179"
-        },
-        "away": {
-          "direction": "longer",
-          "points_moved": 10,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM +150 \u2190 +140",
-          "old_ml": "+140",
-          "new_ml": "+150"
-        },
-        "pick": {
-          "direction": "shorter",
-          "points_moved": 12,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -179 \u2190 -167",
-          "old_ml": "-167",
-          "new_ml": "-179"
-        },
-        "snapshot_time": "November 10, 2026 at 06:29 PM UTC"
-      },
-      "fatigue": {
-        "home": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "Nov 09",
-          "days_rest": 2,
-          "games_last_4d": 2,
-          "travel_miles": 0,
-          "travel_desc": "",
-          "source": "ESPN Scoreboard API"
-        },
-        "away": {
-          "status": "RESTED",
-          "label": "2 days rest \u2705",
-          "battery": 88,
-          "last_game": "Nov 08",
-          "days_rest": 3,
-          "games_last_4d": 1,
-          "travel_miles": 0,
-          "travel_desc": "",
-          "source": "ESPN Scoreboard API"
-        }
-      },
-      "edge_factors": [
-        "\ud83d\udd25 Sharp steam detected"
-      ],
-      "injury_notes": "No key injuries.",
-      "sharp": {
-        "away_t": null,
-        "home_t": null,
-        "source": null,
-        "sharp_signal": null,
-        "sharp_label": "Pending \u2014 check closer to tip-off",
-        "rlm": false
-      },
-      "form": {
-        "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        },
-        "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        }
-      },
-      "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
-      },
-      "briefing": {
-        "trend": "Phoenix Suns hold a 61.6% edge.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -167 to -179 (12pt move) \u2014 heavy professional action on Phoenix Suns.",
-        "injury_notes": "No key injuries."
-      },
-      "live": {
-        "status": "pre",
-        "status_detail": "Upcoming",
-        "period": 0,
-        "clock": "",
-        "home_score": 0,
-        "away_score": 0,
-        "spread_alert": null
-      },
-      "news": [
-        {
-          "title": "Stephen Curry and Ayesha Curry turn 400 bidders into $1.7 million for the people of Oakland as they remain committed to their charity",
-          "source": "The Times of India",
-          "link": "https://timesofindia.indiatimes.com/sports/nba/top-stories/stephen-curry-and-ayesha-curry-turn-400-bidders-into-1-7-million-for-the-people-of-oakland-as-they-remain-committed-to-their-charity/articleshow/135696464.cms",
-          "published": "2026-11-10T01:41:51Z"
-        },
-        {
-          "title": "Davis Fogle, Gonzaga Have Fruitful First Week of College Basketball",
-          "source": "The Slipper Still Fits",
-          "link": "https://www.slipperstillfits.com/gonzaga-mens-basketball/31234/davis-fogle-gonzaga-have-fruitful-first-week-of-college-basketball",
-          "published": "2026-11-10T01:40:03Z"
-        },
-        {
-          "title": "The Utah Jazz have the worst record in the NBA",
-          "source": "Slcdunk.com",
-          "link": "https://www.slcdunk.com/jazz-analysis/70646/the-utah-jazz-have-the-worst-record-in-the-nba",
-          "published": "2026-11-10T01:37:37Z"
-        }
-      ]
-    },
-    {
-      "game": "Miami Heat @ Utah Jazz",
-      "home_team": "Utah Jazz",
-      "away_team": "Miami Heat",
-      "home_abbr": "UTA",
-      "away_abbr": "MIA",
-      "home_ml": "+286",
-      "away_ml": "-358",
-      "home_ml_raw": 286,
-      "away_ml_raw": -358,
-      "home_prob": 24.9,
-      "away_prob": 75.1,
-      "spread": "UTA +8.5",
-      "favorite": "Miami Heat",
-      "pick": "Miami Heat",
-      "pick_abbr": "MIA",
-      "moneyline": "-358",
-      "win_probability": 75.1,
-      "confidence": "HIGH",
-      "confidence_stars": "\u2605\u2605\u2605",
-      "commence_time": "2026-11-11T02:10:00Z",
-      "line_movement": {
-        "home": {
-          "direction": "shorter",
-          "points_moved": 20,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM +286 \u2190 +306",
-          "old_ml": "+306",
-          "new_ml": "+286"
-        },
-        "away": {
-          "direction": "longer",
-          "points_moved": 28,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -358 \u2190 -386",
-          "old_ml": "-386",
-          "new_ml": "-358"
-        },
-        "pick": {
-          "direction": "longer",
-          "points_moved": 28,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -358 \u2190 -386",
-          "old_ml": "-386",
-          "new_ml": "-358"
-        },
-        "snapshot_time": "November 10, 2026 at 06:29 PM UTC"
-      },
-      "fatigue": {
-        "home": {
-          "status": "FRESH",
-          "label": "Well rested \u2705",
-          "battery": 100,
-          "last_game": "\u2014",
-          "days_rest": 99,
-          "games_last_4d": 0,
-          "travel_miles": 0,
-          "travel_desc": "",
-          "source": "ESPN Scoreboard API"
-        },
-        "away": {
-          "status": "RESTED",
-          "label": "2 days rest \u2705",
-          "battery": 88,
-          "last_game": "Nov 08",
-          "days_rest": 3,
-          "games_last_4d": 1,
-          "travel_miles": 2548,
-          "travel_desc": "2,548 mi road trip",
-          "source": "ESPN Scoreboard API"
-        }
-      },
-      "edge_factors": [
-        "\ud83d\udd25 Sharp steam detected"
-      ],
-      "injury_notes": "No key injuries.",
-      "sharp": {
-        "away_t": null,
-        "home_t": null,
-        "source": null,
-        "sharp_signal": null,
-        "sharp_label": "Pending \u2014 check closer to tip-off",
-        "rlm": false
-      },
-      "form": {
-        "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        },
-        "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        }
-      },
-      "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
-      },
-      "briefing": {
-        "trend": "Miami Heat hold a 75.1% edge.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -386 to -358 (28pt move) \u2014 heavy professional action on Miami Heat.",
-        "injury_notes": "No key injuries."
-      },
-      "live": {
-        "status": "pre",
-        "status_detail": "Upcoming",
-        "period": 0,
-        "clock": "",
-        "home_score": 0,
-        "away_score": 0,
-        "spread_alert": null
-      },
-      "news": [
-        {
-          "title": "Stephen Curry and Ayesha Curry turn 400 bidders into $1.7 million for the people of Oakland as they remain committed to their charity",
-          "source": "The Times of India",
-          "link": "https://timesofindia.indiatimes.com/sports/nba/top-stories/stephen-curry-and-ayesha-curry-turn-400-bidders-into-1-7-million-for-the-people-of-oakland-as-they-remain-committed-to-their-charity/articleshow/135696464.cms",
-          "published": "2026-11-10T01:41:51Z"
-        },
-        {
-          "title": "Davis Fogle, Gonzaga Have Fruitful First Week of College Basketball",
-          "source": "The Slipper Still Fits",
-          "link": "https://www.slipperstillfits.com/gonzaga-mens-basketball/31234/davis-fogle-gonzaga-have-fruitful-first-week-of-college-basketball",
-          "published": "2026-11-10T01:40:03Z"
-        },
-        {
-          "title": "The Utah Jazz have the worst record in the NBA",
-          "source": "Slcdunk.com",
-          "link": "https://www.slcdunk.com/jazz-analysis/70646/the-utah-jazz-have-the-worst-record-in-the-nba",
-          "published": "2026-11-10T01:37:37Z"
-        }
-      ]
-    },
-    {
-      "game": "Orlando Magic @ Sacramento Kings",
-      "home_team": "Sacramento Kings",
-      "away_team": "Orlando Magic",
-      "home_abbr": "SAC",
-      "away_abbr": "ORL",
-      "home_ml": "+180",
-      "away_ml": "-217",
-      "home_ml_raw": 180,
-      "away_ml_raw": -217,
-      "home_prob": 34.3,
-      "away_prob": 65.7,
-      "spread": "SAC +5.5",
-      "favorite": "Orlando Magic",
-      "pick": "Orlando Magic",
-      "pick_abbr": "ORL",
-      "moneyline": "-217",
-      "win_probability": 65.7,
-      "confidence": "MEDIUM",
-      "confidence_stars": "\u2605\u2605\u2606",
-      "commence_time": "2026-11-11T03:10:00Z",
-      "line_movement": {
-        "home": {
-          "direction": "shorter",
-          "points_moved": 16,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM +180 \u2190 +196",
-          "old_ml": "+196",
-          "new_ml": "+180"
-        },
-        "away": {
-          "direction": "longer",
-          "points_moved": 20,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -217 \u2190 -237",
-          "old_ml": "-237",
-          "new_ml": "-217"
-        },
-        "pick": {
-          "direction": "longer",
-          "points_moved": 20,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -217 \u2190 -237",
-          "old_ml": "-237",
-          "new_ml": "-217"
-        },
-        "snapshot_time": "November 10, 2026 at 06:29 PM UTC"
-      },
-      "fatigue": {
-        "home": {
-          "status": "RESTED",
-          "label": "2 days rest \u2705",
-          "battery": 88,
-          "last_game": "Nov 08",
-          "days_rest": 3,
-          "games_last_4d": 1,
-          "travel_miles": 0,
-          "travel_desc": "",
-          "source": "ESPN Scoreboard API"
-        },
-        "away": {
-          "status": "FRESH",
-          "label": "Well rested \u2705",
-          "battery": 100,
-          "last_game": "Nov 07",
-          "days_rest": 4,
-          "games_last_4d": 1,
-          "travel_miles": 2435,
-          "travel_desc": "2,435 mi road trip",
-          "source": "ESPN Scoreboard API"
-        }
-      },
-      "edge_factors": [
-        "\ud83d\udd25 Sharp steam detected"
-      ],
-      "injury_notes": "No key injuries.",
-      "sharp": {
-        "away_t": null,
-        "home_t": null,
-        "source": null,
-        "sharp_signal": null,
-        "sharp_label": "Pending \u2014 check closer to tip-off",
-        "rlm": false
-      },
-      "form": {
-        "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        },
-        "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        }
-      },
-      "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
-      },
-      "briefing": {
-        "trend": "Orlando Magic hold a 65.7% edge.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -237 to -217 (20pt move) \u2014 heavy professional action on Orlando Magic.",
-        "injury_notes": "No key injuries."
-      },
-      "live": {
-        "status": "pre",
-        "status_detail": "Upcoming",
-        "period": 0,
-        "clock": "",
-        "home_score": 0,
-        "away_score": 0,
-        "spread_alert": null
-      },
-      "news": [
-        {
-          "title": "Stephen Curry and Ayesha Curry turn 400 bidders into $1.7 million for the people of Oakland as they remain committed to their charity",
-          "source": "The Times of India",
-          "link": "https://timesofindia.indiatimes.com/sports/nba/top-stories/stephen-curry-and-ayesha-curry-turn-400-bidders-into-1-7-million-for-the-people-of-oakland-as-they-remain-committed-to-their-charity/articleshow/135696464.cms",
-          "published": "2026-11-10T01:41:51Z"
-        },
-        {
-          "title": "Davis Fogle, Gonzaga Have Fruitful First Week of College Basketball",
-          "source": "The Slipper Still Fits",
-          "link": "https://www.slipperstillfits.com/gonzaga-mens-basketball/31234/davis-fogle-gonzaga-have-fruitful-first-week-of-college-basketball",
-          "published": "2026-11-10T01:40:03Z"
-        },
-        {
-          "title": "The Utah Jazz have the worst record in the NBA",
-          "source": "Slcdunk.com",
-          "link": "https://www.slcdunk.com/jazz-analysis/70646/the-utah-jazz-have-the-worst-record-in-the-nba",
-          "published": "2026-11-10T01:37:37Z"
-        }
-      ]
-    },
-    {
-      "game": "Oklahoma City Thunder @ Portland Trail Blazers",
-      "home_team": "Portland Trail Blazers",
-      "away_team": "Oklahoma City Thunder",
-      "home_abbr": "POR",
-      "away_abbr": "OKC",
-      "home_ml": "+106",
-      "away_ml": "-125",
-      "home_ml_raw": 106,
-      "away_ml_raw": -125,
-      "home_prob": 46.6,
-      "away_prob": 53.4,
-      "spread": "POR +1.5",
-      "favorite": "Oklahoma City Thunder",
-      "pick": "Oklahoma City Thunder",
-      "pick_abbr": "OKC",
-      "moneyline": "-125",
-      "win_probability": 53.4,
-      "confidence": "LOW",
-      "confidence_stars": "\u2605\u2606\u2606",
-      "commence_time": "2026-11-11T04:10:00Z",
-      "line_movement": {
-        "home": {
-          "direction": "shorter",
-          "points_moved": 8,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM +106 \u2190 +114",
-          "old_ml": "+114",
-          "new_ml": "+106"
-        },
-        "away": {
-          "direction": "longer",
-          "points_moved": 10,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -125 \u2190 -135",
-          "old_ml": "-135",
-          "new_ml": "-125"
-        },
-        "pick": {
-          "direction": "longer",
-          "points_moved": 10,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -125 \u2190 -135",
-          "old_ml": "-135",
-          "new_ml": "-125"
-        },
-        "snapshot_time": "November 10, 2026 at 06:29 PM UTC"
-      },
-      "fatigue": {
-        "home": {
-          "status": "FRESH",
-          "label": "Well rested \u2705",
-          "battery": 100,
-          "last_game": "Nov 07",
-          "days_rest": 4,
-          "games_last_4d": 1,
-          "travel_miles": 0,
-          "travel_desc": "",
-          "source": "ESPN Scoreboard API"
-        },
-        "away": {
-          "status": "FRESH",
-          "label": "Well rested \u2705",
-          "battery": 100,
-          "last_game": "Nov 07",
-          "days_rest": 4,
-          "games_last_4d": 1,
-          "travel_miles": 0,
-          "travel_desc": "",
-          "source": "ESPN Scoreboard API"
-        }
-      },
-      "edge_factors": [
-        "\ud83d\udd25 Sharp steam detected"
-      ],
-      "injury_notes": "No key injuries.",
-      "sharp": {
-        "away_t": null,
-        "home_t": null,
-        "source": null,
-        "sharp_signal": null,
-        "sharp_label": "Pending \u2014 check closer to tip-off",
-        "rlm": false
-      },
-      "form": {
-        "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        },
-        "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        }
-      },
-      "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
-      },
-      "briefing": {
-        "trend": "Oklahoma City Thunder hold a 53.4% edge.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -135 to -125 (10pt move) \u2014 heavy professional action on Oklahoma City Thunder.",
-        "injury_notes": "No key injuries."
-      },
-      "live": {
-        "status": "pre",
-        "status_detail": "Upcoming",
-        "period": 0,
-        "clock": "",
-        "home_score": 0,
-        "away_score": 0,
-        "spread_alert": null
-      },
-      "news": [
-        {
-          "title": "Stephen Curry and Ayesha Curry turn 400 bidders into $1.7 million for the people of Oakland as they remain committed to their charity",
-          "source": "The Times of India",
-          "link": "https://timesofindia.indiatimes.com/sports/nba/top-stories/stephen-curry-and-ayesha-curry-turn-400-bidders-into-1-7-million-for-the-people-of-oakland-as-they-remain-committed-to-their-charity/articleshow/135696464.cms",
-          "published": "2026-11-10T01:41:51Z"
-        },
-        {
-          "title": "Davis Fogle, Gonzaga Have Fruitful First Week of College Basketball",
-          "source": "The Slipper Still Fits",
-          "link": "https://www.slipperstillfits.com/gonzaga-mens-basketball/31234/davis-fogle-gonzaga-have-fruitful-first-week-of-college-basketball",
-          "published": "2026-11-10T01:40:03Z"
-        },
-        {
-          "title": "The Utah Jazz have the worst record in the NBA",
-          "source": "Slcdunk.com",
-          "link": "https://www.slcdunk.com/jazz-analysis/70646/the-utah-jazz-have-the-worst-record-in-the-nba",
-          "published": "2026-11-10T01:37:37Z"
-        }
-      ]
-    },
-    {
-      "game": "Washington Wizards @ Indiana Pacers",
-      "home_team": "Indiana Pacers",
-      "away_team": "Washington Wizards",
-      "home_abbr": "IND",
-      "away_abbr": "WAS",
-      "home_ml": "-160",
-      "away_ml": "+135",
-      "home_ml_raw": -160,
-      "away_ml_raw": 135,
-      "home_prob": 59.1,
-      "away_prob": 40.9,
-      "spread": "IND -4.5",
-      "favorite": "Indiana Pacers",
-      "pick": "Indiana Pacers",
-      "pick_abbr": "IND",
-      "moneyline": "-160",
-      "win_probability": 59.1,
-      "confidence": "MEDIUM",
-      "confidence_stars": "\u2605\u2605\u2606",
-      "commence_time": "2026-11-12T00:10:00Z",
-      "line_movement": {
-        "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
-        },
-        "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
-        },
-        "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
-        },
-        "snapshot_time": "\u2014"
-      },
-      "fatigue": {
-        "home": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "Nov 09",
-          "days_rest": 2,
-          "games_last_4d": 2,
-          "travel_miles": 763,
-          "travel_desc": "763 mi road trip",
-          "source": "ESPN Scoreboard API"
-        },
-        "away": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "Nov 09",
-          "days_rest": 2,
-          "games_last_4d": 2,
-          "travel_miles": 396,
-          "travel_desc": "396 mi road trip",
-          "source": "ESPN Scoreboard API"
-        }
-      },
-      "edge_factors": [
-        "\ud83d\udcca 18.2pt probability edge"
-      ],
-      "injury_notes": "No key injuries.",
-      "sharp": {
-        "away_t": null,
-        "home_t": null,
-        "source": null,
-        "sharp_signal": null,
-        "sharp_label": "Pending \u2014 check closer to tip-off",
-        "rlm": false
-      },
-      "form": {
-        "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        },
-        "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        }
-      },
-      "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
-      },
-      "briefing": {
-        "trend": "Indiana Pacers hold a 59.1% edge.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
-        "injury_notes": "No key injuries."
-      },
-      "live": {
-        "status": "pre",
-        "status_detail": "Upcoming",
-        "period": 0,
-        "clock": "",
-        "home_score": 0,
-        "away_score": 0,
-        "spread_alert": null
-      },
-      "news": [
-        {
-          "title": "Stephen Curry and Ayesha Curry turn 400 bidders into $1.7 million for the people of Oakland as they remain committed to their charity",
-          "source": "The Times of India",
-          "link": "https://timesofindia.indiatimes.com/sports/nba/top-stories/stephen-curry-and-ayesha-curry-turn-400-bidders-into-1-7-million-for-the-people-of-oakland-as-they-remain-committed-to-their-charity/articleshow/135696464.cms",
-          "published": "2026-11-10T01:41:51Z"
-        },
-        {
-          "title": "Davis Fogle, Gonzaga Have Fruitful First Week of College Basketball",
-          "source": "The Slipper Still Fits",
-          "link": "https://www.slipperstillfits.com/gonzaga-mens-basketball/31234/davis-fogle-gonzaga-have-fruitful-first-week-of-college-basketball",
-          "published": "2026-11-10T01:40:03Z"
-        },
-        {
-          "title": "The Utah Jazz have the worst record in the NBA",
-          "source": "Slcdunk.com",
-          "link": "https://www.slcdunk.com/jazz-analysis/70646/the-utah-jazz-have-the-worst-record-in-the-nba",
-          "published": "2026-11-10T01:37:37Z"
-        }
-      ]
-    },
-    {
-      "game": "Brooklyn Nets @ New Orleans Pelicans",
-      "home_team": "New Orleans Pelicans",
-      "away_team": "Brooklyn Nets",
-      "home_abbr": "NOP",
-      "away_abbr": "BKN",
-      "home_ml": "-174",
-      "away_ml": "+146",
-      "home_ml_raw": -174,
-      "away_ml_raw": 146,
-      "home_prob": 61.0,
-      "away_prob": 39.0,
-      "spread": "NOP -5.5",
-      "favorite": "New Orleans Pelicans",
-      "pick": "New Orleans Pelicans",
-      "pick_abbr": "NOP",
-      "moneyline": "-174",
-      "win_probability": 61.0,
-      "confidence": "MEDIUM",
-      "confidence_stars": "\u2605\u2605\u2606",
-      "commence_time": "2026-11-12T01:10:00Z",
-      "line_movement": {
-        "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
-        },
-        "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
-        },
-        "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
-        },
-        "snapshot_time": "\u2014"
-      },
-      "fatigue": {
-        "home": {
-          "status": "TRAVEL",
-          "label": "Cross-country travel \ud83d\udfe3",
-          "battery": 50,
-          "last_game": "Nov 09",
-          "days_rest": 2,
-          "games_last_4d": 2,
-          "travel_miles": 1920,
-          "travel_desc": "1,920 mi road trip",
-          "source": "ESPN Scoreboard API"
-        },
-        "away": {
-          "status": "RESTED",
-          "label": "2 days rest \u2705",
-          "battery": 88,
-          "last_game": "Nov 08",
-          "days_rest": 3,
-          "games_last_4d": 2,
-          "travel_miles": 1372,
-          "travel_desc": "1,372 mi road trip",
-          "source": "ESPN Scoreboard API"
-        }
-      },
-      "edge_factors": [
-        "\ud83d\udcca 22.0pt probability edge"
-      ],
-      "injury_notes": "No key injuries.",
-      "sharp": {
-        "away_t": null,
-        "home_t": null,
-        "source": null,
-        "sharp_signal": null,
-        "sharp_label": "Pending \u2014 check closer to tip-off",
-        "rlm": false
-      },
-      "form": {
-        "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        },
-        "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        }
-      },
-      "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
-      },
-      "briefing": {
-        "trend": "New Orleans Pelicans hold a 61.0% edge.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
-        "injury_notes": "No key injuries."
-      },
-      "live": {
-        "status": "pre",
-        "status_detail": "Upcoming",
-        "period": 0,
-        "clock": "",
-        "home_score": 0,
-        "away_score": 0,
-        "spread_alert": null
-      },
-      "news": [
-        {
-          "title": "Stephen Curry and Ayesha Curry turn 400 bidders into $1.7 million for the people of Oakland as they remain committed to their charity",
-          "source": "The Times of India",
-          "link": "https://timesofindia.indiatimes.com/sports/nba/top-stories/stephen-curry-and-ayesha-curry-turn-400-bidders-into-1-7-million-for-the-people-of-oakland-as-they-remain-committed-to-their-charity/articleshow/135696464.cms",
-          "published": "2026-11-10T01:41:51Z"
-        },
-        {
-          "title": "Davis Fogle, Gonzaga Have Fruitful First Week of College Basketball",
-          "source": "The Slipper Still Fits",
-          "link": "https://www.slipperstillfits.com/gonzaga-mens-basketball/31234/davis-fogle-gonzaga-have-fruitful-first-week-of-college-basketball",
-          "published": "2026-11-10T01:40:03Z"
-        },
-        {
-          "title": "The Utah Jazz have the worst record in the NBA",
-          "source": "Slcdunk.com",
-          "link": "https://www.slcdunk.com/jazz-analysis/70646/the-utah-jazz-have-the-worst-record-in-the-nba",
-          "published": "2026-11-10T01:37:37Z"
-        }
-      ]
-    },
-    {
-      "game": "San Antonio Spurs @ Chicago Bulls",
-      "home_team": "Chicago Bulls",
-      "away_team": "San Antonio Spurs",
-      "home_abbr": "CHI",
-      "away_abbr": "SAS",
-      "home_ml": "+630",
-      "away_ml": "-940",
-      "home_ml_raw": 630,
-      "away_ml_raw": -940,
-      "home_prob": 13.2,
-      "away_prob": 86.8,
-      "spread": "CHI +15.5",
-      "favorite": "San Antonio Spurs",
-      "pick": "San Antonio Spurs",
-      "pick_abbr": "SAS",
-      "moneyline": "-940",
-      "win_probability": 86.8,
-      "confidence": "HIGH",
-      "confidence_stars": "\u2605\u2605\u2605",
-      "commence_time": "2026-11-12T01:10:00Z",
-      "line_movement": {
-        "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
-        },
-        "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
-        },
-        "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
-        },
-        "snapshot_time": "\u2014"
-      },
-      "fatigue": {
-        "home": {
-          "status": "RESTED",
-          "label": "2 days rest \u2705",
-          "battery": 88,
-          "last_game": "Nov 08",
-          "days_rest": 3,
-          "games_last_4d": 1,
-          "travel_miles": 0,
-          "travel_desc": "",
-          "source": "ESPN Scoreboard API"
-        },
-        "away": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "Nov 09",
-          "days_rest": 2,
-          "games_last_4d": 2,
-          "travel_miles": 849,
-          "travel_desc": "849 mi road trip",
-          "source": "ESPN Scoreboard API"
-        }
-      },
-      "edge_factors": [
-        "\ud83d\udcca 73.6pt probability edge"
-      ],
-      "injury_notes": "No key injuries.",
-      "sharp": {
-        "away_t": null,
-        "home_t": null,
-        "source": null,
-        "sharp_signal": null,
-        "sharp_label": "Pending \u2014 check closer to tip-off",
-        "rlm": false
-      },
-      "form": {
-        "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        },
-        "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        }
-      },
-      "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
-      },
-      "briefing": {
-        "trend": "San Antonio Spurs hold a 86.8% edge.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
-        "injury_notes": "No key injuries."
-      },
-      "live": {
-        "status": "pre",
-        "status_detail": "Upcoming",
-        "period": 0,
-        "clock": "",
-        "home_score": 0,
-        "away_score": 0,
-        "spread_alert": null
-      },
-      "news": [
-        {
-          "title": "Stephen Curry and Ayesha Curry turn 400 bidders into $1.7 million for the people of Oakland as they remain committed to their charity",
-          "source": "The Times of India",
-          "link": "https://timesofindia.indiatimes.com/sports/nba/top-stories/stephen-curry-and-ayesha-curry-turn-400-bidders-into-1-7-million-for-the-people-of-oakland-as-they-remain-committed-to-their-charity/articleshow/135696464.cms",
-          "published": "2026-11-10T01:41:51Z"
-        },
-        {
-          "title": "Davis Fogle, Gonzaga Have Fruitful First Week of College Basketball",
-          "source": "The Slipper Still Fits",
-          "link": "https://www.slipperstillfits.com/gonzaga-mens-basketball/31234/davis-fogle-gonzaga-have-fruitful-first-week-of-college-basketball",
-          "published": "2026-11-10T01:40:03Z"
-        },
-        {
-          "title": "The Utah Jazz have the worst record in the NBA",
-          "source": "Slcdunk.com",
-          "link": "https://www.slcdunk.com/jazz-analysis/70646/the-utah-jazz-have-the-worst-record-in-the-nba",
-          "published": "2026-11-10T01:37:37Z"
-        }
-      ]
-    },
-    {
-      "game": "Denver Nuggets @ Memphis Grizzlies",
-      "home_team": "Memphis Grizzlies",
-      "away_team": "Denver Nuggets",
-      "home_abbr": "MEM",
-      "away_abbr": "DEN",
-      "home_ml": "+131",
-      "away_ml": "-156",
-      "home_ml_raw": 131,
-      "away_ml_raw": -156,
-      "home_prob": 41.5,
-      "away_prob": 58.5,
-      "spread": "MEM +4.5",
-      "favorite": "Denver Nuggets",
-      "pick": "Denver Nuggets",
-      "pick_abbr": "DEN",
-      "moneyline": "-156",
-      "win_probability": 58.5,
-      "confidence": "MEDIUM",
-      "confidence_stars": "\u2605\u2605\u2606",
-      "commence_time": "2026-11-12T01:10:00Z",
-      "line_movement": {
-        "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
-        },
-        "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
-        },
-        "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
-        },
-        "snapshot_time": "\u2014"
-      },
-      "fatigue": {
-        "home": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "Nov 09",
-          "days_rest": 2,
-          "games_last_4d": 1,
-          "travel_miles": 817,
-          "travel_desc": "817 mi road trip",
-          "source": "ESPN Scoreboard API"
-        },
-        "away": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "Nov 09",
-          "days_rest": 2,
-          "games_last_4d": 2,
-          "travel_miles": 880,
-          "travel_desc": "880 mi road trip",
-          "source": "ESPN Scoreboard API"
-        }
-      },
-      "edge_factors": [
-        "\ud83d\udcca 17.0pt probability edge"
-      ],
-      "injury_notes": "No key injuries.",
-      "sharp": {
-        "away_t": null,
-        "home_t": null,
-        "source": null,
-        "sharp_signal": null,
-        "sharp_label": "Pending \u2014 check closer to tip-off",
-        "rlm": false
-      },
-      "form": {
-        "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        },
-        "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        }
-      },
-      "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
-      },
-      "briefing": {
-        "trend": "Denver Nuggets hold a 58.5% edge.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
-        "injury_notes": "No key injuries."
-      },
-      "live": {
-        "status": "pre",
-        "status_detail": "Upcoming",
-        "period": 0,
-        "clock": "",
-        "home_score": 0,
-        "away_score": 0,
-        "spread_alert": null
-      },
-      "news": [
-        {
-          "title": "Stephen Curry and Ayesha Curry turn 400 bidders into $1.7 million for the people of Oakland as they remain committed to their charity",
-          "source": "The Times of India",
-          "link": "https://timesofindia.indiatimes.com/sports/nba/top-stories/stephen-curry-and-ayesha-curry-turn-400-bidders-into-1-7-million-for-the-people-of-oakland-as-they-remain-committed-to-their-charity/articleshow/135696464.cms",
-          "published": "2026-11-10T01:41:51Z"
-        },
-        {
-          "title": "Davis Fogle, Gonzaga Have Fruitful First Week of College Basketball",
-          "source": "The Slipper Still Fits",
-          "link": "https://www.slipperstillfits.com/gonzaga-mens-basketball/31234/davis-fogle-gonzaga-have-fruitful-first-week-of-college-basketball",
-          "published": "2026-11-10T01:40:03Z"
-        },
-        {
-          "title": "The Utah Jazz have the worst record in the NBA",
-          "source": "Slcdunk.com",
-          "link": "https://www.slcdunk.com/jazz-analysis/70646/the-utah-jazz-have-the-worst-record-in-the-nba",
-          "published": "2026-11-10T01:37:37Z"
+          "title": "Warriors Star Draymond Green Explains Importance of Georges Niang Signing",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/golden-state-warriors/draymond-green-explains-importance-georges-niang/",
+          "published": "2026-11-10T05:20:32Z"
         }
       ]
     },
@@ -1459,47 +1314,47 @@
       "away_team": "Golden State Warriors",
       "home_abbr": "HOU",
       "away_abbr": "GSW",
-      "home_ml": "-197",
-      "away_ml": "+165",
-      "home_ml_raw": -197,
-      "away_ml_raw": 165,
-      "home_prob": 63.7,
-      "away_prob": 36.3,
-      "spread": "HOU -5.5",
+      "home_ml": "-217",
+      "away_ml": "+180",
+      "home_ml_raw": -217,
+      "away_ml_raw": 180,
+      "home_prob": 65.7,
+      "away_prob": 34.3,
+      "spread": "HOU -6.5",
       "favorite": "Houston Rockets",
       "pick": "Houston Rockets",
       "pick_abbr": "HOU",
-      "moneyline": "-197",
-      "win_probability": 63.7,
+      "moneyline": "-217",
+      "win_probability": 65.7,
       "confidence": "MEDIUM",
       "confidence_stars": "\u2605\u2605\u2606",
       "commence_time": "2026-11-12T02:40:00Z",
       "line_movement": {
         "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "direction": "shorter",
+          "points_moved": 20,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -217 \u2190 -197",
+          "old_ml": "-197",
+          "new_ml": "-217"
         },
         "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "direction": "longer",
+          "points_moved": 15,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM +180 \u2190 +165",
+          "old_ml": "+165",
+          "new_ml": "+180"
         },
         "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "direction": "shorter",
+          "points_moved": 20,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -217 \u2190 -197",
+          "old_ml": "-197",
+          "new_ml": "-217"
         },
-        "snapshot_time": "\u2014"
+        "snapshot_time": "November 11, 2026 at 01:44 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -1526,7 +1381,7 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udcca 27.4pt probability edge"
+        "\ud83d\udd25 Sharp steam detected"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -1563,9 +1418,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "Houston Rockets hold a 63.7% edge.",
+        "trend": "Houston Rockets hold a 65.7% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "steam": "Line steamed from -197 to -217 (20pt move) \u2014 heavy professional action on Houston Rockets.",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -1579,22 +1434,22 @@
       },
       "news": [
         {
-          "title": "Stephen Curry and Ayesha Curry turn 400 bidders into $1.7 million for the people of Oakland as they remain committed to their charity",
-          "source": "The Times of India",
-          "link": "https://timesofindia.indiatimes.com/sports/nba/top-stories/stephen-curry-and-ayesha-curry-turn-400-bidders-into-1-7-million-for-the-people-of-oakland-as-they-remain-committed-to-their-charity/articleshow/135696464.cms",
-          "published": "2026-11-10T01:41:51Z"
+          "title": "Victor Wembanyama joins Shaq in NBA history",
+          "source": "ClutchPoints",
+          "link": "https://clutchpoints.com/nba/san-antonio-spurs/spurs-news-victor-wembanyama-joins-shaq-in-nba-history",
+          "published": "2026-11-10T05:26:42Z"
         },
         {
-          "title": "Davis Fogle, Gonzaga Have Fruitful First Week of College Basketball",
-          "source": "The Slipper Still Fits",
-          "link": "https://www.slipperstillfits.com/gonzaga-mens-basketball/31234/davis-fogle-gonzaga-have-fruitful-first-week-of-college-basketball",
-          "published": "2026-11-10T01:40:03Z"
+          "title": "Spurs\u2019 Victor Wembanyama takes off from behind the FT line for insane finish",
+          "source": "ClutchPoints",
+          "link": "https://clutchpoints.com/nba/san-antonio-spurs/spurs-news-victor-wembanyama-behind-the-ft-line-for-finish",
+          "published": "2026-11-10T05:22:51Z"
         },
         {
-          "title": "The Utah Jazz have the worst record in the NBA",
-          "source": "Slcdunk.com",
-          "link": "https://www.slcdunk.com/jazz-analysis/70646/the-utah-jazz-have-the-worst-record-in-the-nba",
-          "published": "2026-11-10T01:37:37Z"
+          "title": "Warriors Star Draymond Green Explains Importance of Georges Niang Signing",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/golden-state-warriors/draymond-green-explains-importance-georges-niang/",
+          "published": "2026-11-10T05:20:32Z"
         }
       ]
     },
@@ -1644,7 +1499,7 @@
           "old_ml": "\u2014",
           "new_ml": "\u2014"
         },
-        "snapshot_time": "November 10, 2026 at 06:29 PM UTC"
+        "snapshot_time": "November 11, 2026 at 01:44 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -1724,22 +1579,22 @@
       },
       "news": [
         {
-          "title": "Stephen Curry and Ayesha Curry turn 400 bidders into $1.7 million for the people of Oakland as they remain committed to their charity",
-          "source": "The Times of India",
-          "link": "https://timesofindia.indiatimes.com/sports/nba/top-stories/stephen-curry-and-ayesha-curry-turn-400-bidders-into-1-7-million-for-the-people-of-oakland-as-they-remain-committed-to-their-charity/articleshow/135696464.cms",
-          "published": "2026-11-10T01:41:51Z"
+          "title": "Victor Wembanyama joins Shaq in NBA history",
+          "source": "ClutchPoints",
+          "link": "https://clutchpoints.com/nba/san-antonio-spurs/spurs-news-victor-wembanyama-joins-shaq-in-nba-history",
+          "published": "2026-11-10T05:26:42Z"
         },
         {
-          "title": "Davis Fogle, Gonzaga Have Fruitful First Week of College Basketball",
-          "source": "The Slipper Still Fits",
-          "link": "https://www.slipperstillfits.com/gonzaga-mens-basketball/31234/davis-fogle-gonzaga-have-fruitful-first-week-of-college-basketball",
-          "published": "2026-11-10T01:40:03Z"
+          "title": "Spurs\u2019 Victor Wembanyama takes off from behind the FT line for insane finish",
+          "source": "ClutchPoints",
+          "link": "https://clutchpoints.com/nba/san-antonio-spurs/spurs-news-victor-wembanyama-behind-the-ft-line-for-finish",
+          "published": "2026-11-10T05:22:51Z"
         },
         {
-          "title": "The Utah Jazz have the worst record in the NBA",
-          "source": "Slcdunk.com",
-          "link": "https://www.slcdunk.com/jazz-analysis/70646/the-utah-jazz-have-the-worst-record-in-the-nba",
-          "published": "2026-11-10T01:37:37Z"
+          "title": "Warriors Star Draymond Green Explains Importance of Georges Niang Signing",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/golden-state-warriors/draymond-green-explains-importance-georges-niang/",
+          "published": "2026-11-10T05:20:32Z"
         }
       ]
     },
@@ -1789,7 +1644,7 @@
           "old_ml": "\u2014",
           "new_ml": "\u2014"
         },
-        "snapshot_time": "November 10, 2026 at 06:29 PM UTC"
+        "snapshot_time": "November 11, 2026 at 01:44 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -1804,18 +1659,19 @@
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "RESTED",
-          "label": "2 days rest \u2705",
-          "battery": 88,
-          "last_game": "Nov 08",
-          "days_rest": 3,
-          "games_last_4d": 1,
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Nov 10",
+          "days_rest": 1,
+          "games_last_4d": 2,
           "travel_miles": 2548,
           "travel_desc": "2,548 mi road trip",
           "source": "ESPN Scoreboard API"
         }
       },
       "edge_factors": [
+        "\ud83d\udca4 MIA fatigued (B2B) \u2014 source: ESPN",
         "\u2708\ufe0f MIA traveled 2,548 mi"
       ],
       "injury_notes": "No key injuries.",
@@ -1853,7 +1709,7 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "BOS on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "trend": "BOS on Back-to-Back \u26a0\ufe0f per ESPN schedule data. MIA on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
         "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
@@ -1869,22 +1725,22 @@
       },
       "news": [
         {
-          "title": "Stephen Curry and Ayesha Curry turn 400 bidders into $1.7 million for the people of Oakland as they remain committed to their charity",
-          "source": "The Times of India",
-          "link": "https://timesofindia.indiatimes.com/sports/nba/top-stories/stephen-curry-and-ayesha-curry-turn-400-bidders-into-1-7-million-for-the-people-of-oakland-as-they-remain-committed-to-their-charity/articleshow/135696464.cms",
-          "published": "2026-11-10T01:41:51Z"
+          "title": "Victor Wembanyama joins Shaq in NBA history",
+          "source": "ClutchPoints",
+          "link": "https://clutchpoints.com/nba/san-antonio-spurs/spurs-news-victor-wembanyama-joins-shaq-in-nba-history",
+          "published": "2026-11-10T05:26:42Z"
         },
         {
-          "title": "Davis Fogle, Gonzaga Have Fruitful First Week of College Basketball",
-          "source": "The Slipper Still Fits",
-          "link": "https://www.slipperstillfits.com/gonzaga-mens-basketball/31234/davis-fogle-gonzaga-have-fruitful-first-week-of-college-basketball",
-          "published": "2026-11-10T01:40:03Z"
+          "title": "Spurs\u2019 Victor Wembanyama takes off from behind the FT line for insane finish",
+          "source": "ClutchPoints",
+          "link": "https://clutchpoints.com/nba/san-antonio-spurs/spurs-news-victor-wembanyama-behind-the-ft-line-for-finish",
+          "published": "2026-11-10T05:22:51Z"
         },
         {
-          "title": "The Utah Jazz have the worst record in the NBA",
-          "source": "Slcdunk.com",
-          "link": "https://www.slcdunk.com/jazz-analysis/70646/the-utah-jazz-have-the-worst-record-in-the-nba",
-          "published": "2026-11-10T01:37:37Z"
+          "title": "Warriors Star Draymond Green Explains Importance of Georges Niang Signing",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/golden-state-warriors/draymond-green-explains-importance-georges-niang/",
+          "published": "2026-11-10T05:20:32Z"
         }
       ]
     },
@@ -1934,7 +1790,7 @@
           "old_ml": "\u2014",
           "new_ml": "\u2014"
         },
-        "snapshot_time": "November 10, 2026 at 06:29 PM UTC"
+        "snapshot_time": "November 11, 2026 at 01:44 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -2014,22 +1870,22 @@
       },
       "news": [
         {
-          "title": "Stephen Curry and Ayesha Curry turn 400 bidders into $1.7 million for the people of Oakland as they remain committed to their charity",
-          "source": "The Times of India",
-          "link": "https://timesofindia.indiatimes.com/sports/nba/top-stories/stephen-curry-and-ayesha-curry-turn-400-bidders-into-1-7-million-for-the-people-of-oakland-as-they-remain-committed-to-their-charity/articleshow/135696464.cms",
-          "published": "2026-11-10T01:41:51Z"
+          "title": "Victor Wembanyama joins Shaq in NBA history",
+          "source": "ClutchPoints",
+          "link": "https://clutchpoints.com/nba/san-antonio-spurs/spurs-news-victor-wembanyama-joins-shaq-in-nba-history",
+          "published": "2026-11-10T05:26:42Z"
         },
         {
-          "title": "Davis Fogle, Gonzaga Have Fruitful First Week of College Basketball",
-          "source": "The Slipper Still Fits",
-          "link": "https://www.slipperstillfits.com/gonzaga-mens-basketball/31234/davis-fogle-gonzaga-have-fruitful-first-week-of-college-basketball",
-          "published": "2026-11-10T01:40:03Z"
+          "title": "Spurs\u2019 Victor Wembanyama takes off from behind the FT line for insane finish",
+          "source": "ClutchPoints",
+          "link": "https://clutchpoints.com/nba/san-antonio-spurs/spurs-news-victor-wembanyama-behind-the-ft-line-for-finish",
+          "published": "2026-11-10T05:22:51Z"
         },
         {
-          "title": "The Utah Jazz have the worst record in the NBA",
-          "source": "Slcdunk.com",
-          "link": "https://www.slcdunk.com/jazz-analysis/70646/the-utah-jazz-have-the-worst-record-in-the-nba",
-          "published": "2026-11-10T01:37:37Z"
+          "title": "Warriors Star Draymond Green Explains Importance of Georges Niang Signing",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/golden-state-warriors/draymond-green-explains-importance-georges-niang/",
+          "published": "2026-11-10T05:20:32Z"
         }
       ]
     },
@@ -2079,7 +1935,7 @@
           "old_ml": "\u2014",
           "new_ml": "\u2014"
         },
-        "snapshot_time": "November 10, 2026 at 06:29 PM UTC"
+        "snapshot_time": "November 11, 2026 at 01:44 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -2159,66 +2015,66 @@
       },
       "news": [
         {
-          "title": "Stephen Curry and Ayesha Curry turn 400 bidders into $1.7 million for the people of Oakland as they remain committed to their charity",
-          "source": "The Times of India",
-          "link": "https://timesofindia.indiatimes.com/sports/nba/top-stories/stephen-curry-and-ayesha-curry-turn-400-bidders-into-1-7-million-for-the-people-of-oakland-as-they-remain-committed-to-their-charity/articleshow/135696464.cms",
-          "published": "2026-11-10T01:41:51Z"
+          "title": "Victor Wembanyama joins Shaq in NBA history",
+          "source": "ClutchPoints",
+          "link": "https://clutchpoints.com/nba/san-antonio-spurs/spurs-news-victor-wembanyama-joins-shaq-in-nba-history",
+          "published": "2026-11-10T05:26:42Z"
         },
         {
-          "title": "Davis Fogle, Gonzaga Have Fruitful First Week of College Basketball",
-          "source": "The Slipper Still Fits",
-          "link": "https://www.slipperstillfits.com/gonzaga-mens-basketball/31234/davis-fogle-gonzaga-have-fruitful-first-week-of-college-basketball",
-          "published": "2026-11-10T01:40:03Z"
+          "title": "Spurs\u2019 Victor Wembanyama takes off from behind the FT line for insane finish",
+          "source": "ClutchPoints",
+          "link": "https://clutchpoints.com/nba/san-antonio-spurs/spurs-news-victor-wembanyama-behind-the-ft-line-for-finish",
+          "published": "2026-11-10T05:22:51Z"
         },
         {
-          "title": "The Utah Jazz have the worst record in the NBA",
-          "source": "Slcdunk.com",
-          "link": "https://www.slcdunk.com/jazz-analysis/70646/the-utah-jazz-have-the-worst-record-in-the-nba",
-          "published": "2026-11-10T01:37:37Z"
+          "title": "Warriors Star Draymond Green Explains Importance of Georges Niang Signing",
+          "source": "Heavy.com",
+          "link": "https://heavy.com/sports/nba/golden-state-warriors/draymond-green-explains-importance-georges-niang/",
+          "published": "2026-11-10T05:20:32Z"
         }
       ]
     }
   ],
   "track_record": {
     "LOW": {
-      "wins": 19,
+      "wins": 16,
+      "losses": 15,
+      "total": 31,
+      "win_pct": 51.6,
+      "roi": -4.6,
+      "profit": -143.03
+    },
+    "MEDIUM": {
+      "wins": 46,
       "losses": 16,
-      "total": 35,
-      "win_pct": 54.3,
-      "roi": -0.3,
-      "profit": -8.96
+      "total": 62,
+      "win_pct": 74.2,
+      "roi": 11.4,
+      "profit": 706.65
     },
     "HIGH": {
       "wins": 36,
       "losses": 6,
       "total": 42,
       "win_pct": 85.7,
-      "roi": 3.7,
-      "profit": 157.19
-    },
-    "MEDIUM": {
-      "wins": 47,
-      "losses": 18,
-      "total": 65,
-      "win_pct": 72.3,
-      "roi": 8.8,
-      "profit": 574.43
+      "roi": 3.3,
+      "profit": 139.65
     },
     "overall_7d": {
-      "wins": 35,
+      "wins": 29,
       "losses": 5,
-      "total": 40,
-      "win_pct": 87.5,
-      "roi": 26.5,
-      "profit": 1059.97
+      "total": 34,
+      "win_pct": 85.3,
+      "roi": 21.5,
+      "profit": 732.26
     },
     "overall_30d": {
-      "wins": 86,
-      "losses": 33,
-      "total": 119,
-      "win_pct": 72.3,
-      "roi": 3.9,
-      "profit": 468.23
+      "wins": 89,
+      "losses": 34,
+      "total": 123,
+      "win_pct": 72.4,
+      "roi": 3.7,
+      "profit": 455.9
     }
   }
 }
