@@ -1,1365 +1,54 @@
 {
-  "last_updated": "November 12, 2026 at 02:43 AM UTC",
-  "total_games": 16,
+  "last_updated": "November 12, 2026 at 06:31 AM UTC",
+  "total_games": 8,
   "games": [
-    {
-      "game": "Boston Celtics @ Toronto Raptors",
-      "home_team": "Toronto Raptors",
-      "away_team": "Boston Celtics",
-      "home_abbr": "TOR",
-      "away_abbr": "BOS",
-      "home_ml": "+1100",
-      "away_ml": "-2500",
-      "home_ml_raw": 1100,
-      "away_ml_raw": -2500,
-      "home_prob": 8.0,
-      "away_prob": 92.0,
-      "spread": "N/A",
-      "favorite": "Boston Celtics",
-      "pick": "Boston Celtics",
-      "pick_abbr": "BOS",
-      "moneyline": "-2500",
-      "win_probability": 92.0,
-      "confidence": "HIGH",
-      "confidence_stars": "\u2605\u2605\u2605",
-      "commence_time": "2026-11-12T00:13:00Z",
-      "line_movement": {
-        "home": {
-          "direction": "longer",
-          "points_moved": 916,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM +1100 \u2190 +184",
-          "old_ml": "+184",
-          "new_ml": "+1100"
-        },
-        "away": {
-          "direction": "shorter",
-          "points_moved": 2278,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -2500 \u2190 -222",
-          "old_ml": "-222",
-          "new_ml": "-2500"
-        },
-        "pick": {
-          "direction": "shorter",
-          "points_moved": 2278,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -2500 \u2190 -222",
-          "old_ml": "-222",
-          "new_ml": "-2500"
-        },
-        "snapshot_time": "November 11, 2026 at 06:23 PM UTC"
-      },
-      "fatigue": {
-        "home": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
-          "last_game": "Nov 11",
-          "days_rest": 1,
-          "games_last_4d": 2,
-          "travel_miles": 0,
-          "travel_desc": "",
-          "source": "ESPN Scoreboard API"
-        },
-        "away": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
-          "last_game": "Nov 11",
-          "days_rest": 1,
-          "games_last_4d": 3,
-          "travel_miles": 429,
-          "travel_desc": "429 mi road trip",
-          "source": "ESPN Scoreboard API"
-        }
-      },
-      "edge_factors": [
-        "\ud83d\udd25 Sharp steam detected",
-        "\ud83d\udca4 TOR fatigued (B2B) \u2014 source: ESPN"
-      ],
-      "injury_notes": "No key injuries.",
-      "sharp": {
-        "away_t": null,
-        "home_t": null,
-        "source": null,
-        "sharp_signal": null,
-        "sharp_label": "Pending \u2014 check closer to tip-off",
-        "rlm": false
-      },
-      "form": {
-        "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        },
-        "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        }
-      },
-      "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
-      },
-      "briefing": {
-        "trend": "TOR on Back-to-Back \u26a0\ufe0f per ESPN schedule data. BOS on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -222 to -2500 (2278pt move) \u2014 heavy professional action on Boston Celtics.",
-        "injury_notes": "No key injuries."
-      },
-      "live": {
-        "status": "pre",
-        "status_detail": "Upcoming",
-        "period": 0,
-        "clock": "",
-        "home_score": 0,
-        "away_score": 0,
-        "spread_alert": null
-      },
-      "news": [
-        {
-          "title": "Paul George flips the script \u2014 and the bird \u2014 in Philadelphia return",
-          "source": "Nbcsportsphiladelphia.com",
-          "link": "https://www.nbcsportsphiladelphia.com/nba/philadelphia-76ers/sixers-paul-george-middle-finger-36-points-celtics/766206/?partner=yahoo",
-          "published": "2026-11-11T02:35:00Z"
-        },
-        {
-          "title": "GTA 6 Now the Most Preordered Game in PlayStation Store and Microsoft Store History, Official Preload Warning Issued - IGN",
-          "source": "Slashdot.org",
-          "link": "https://slashdot.org/firehose.pl?op=view&amp;id=186683827",
-          "published": "2026-11-11T02:33:07Z"
-        },
-        {
-          "title": "WATCH: Joel Embiid goes down with concerning injury-laden fall during Celtics vs. 76ers clash",
-          "source": "Sporting News",
-          "link": "https://www.sportingnews.com/us/nba/philadelphia-76ers/news/nba-news-watch-joel-embiid-goes-down-concerning-injury-laden-fall-during-celtics-vs-76ers-clash/2ae368a31e808001f04a07a8",
-          "published": "2026-11-11T02:31:20Z"
-        }
-      ]
-    },
-    {
-      "game": "Cleveland Cavaliers @ New York Knicks",
-      "home_team": "New York Knicks",
-      "away_team": "Cleveland Cavaliers",
-      "home_abbr": "NYK",
-      "away_abbr": "CLE",
-      "home_ml": "N/A",
-      "away_ml": "N/A",
-      "home_ml_raw": null,
-      "away_ml_raw": null,
-      "home_prob": 50.0,
-      "away_prob": 50.0,
-      "spread": "NYK +8.5",
-      "favorite": "New York Knicks",
-      "pick": "New York Knicks",
-      "pick_abbr": "NYK",
-      "moneyline": "N/A",
-      "win_probability": 50.0,
-      "confidence": "LOW",
-      "confidence_stars": "\u2605\u2606\u2606",
-      "commence_time": "2026-11-12T00:13:00Z",
-      "line_movement": {
-        "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
-        },
-        "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
-        },
-        "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
-        },
-        "snapshot_time": "November 11, 2026 at 06:23 PM UTC"
-      },
-      "fatigue": {
-        "home": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
-          "last_game": "Nov 11",
-          "days_rest": 1,
-          "games_last_4d": 2,
-          "travel_miles": 0,
-          "travel_desc": "",
-          "source": "ESPN Scoreboard API"
-        },
-        "away": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
-          "last_game": "Nov 11",
-          "days_rest": 1,
-          "games_last_4d": 2,
-          "travel_miles": 404,
-          "travel_desc": "404 mi road trip",
-          "source": "ESPN Scoreboard API"
-        }
-      },
-      "edge_factors": [
-        "\ud83d\udca4 CLE fatigued (B2B) \u2014 source: ESPN"
-      ],
-      "injury_notes": "No key injuries.",
-      "sharp": {
-        "away_t": null,
-        "home_t": null,
-        "source": null,
-        "sharp_signal": null,
-        "sharp_label": "Pending \u2014 check closer to tip-off",
-        "rlm": false
-      },
-      "form": {
-        "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        },
-        "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        }
-      },
-      "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
-      },
-      "briefing": {
-        "trend": "NYK on Back-to-Back \u26a0\ufe0f per ESPN schedule data. CLE on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
-        "injury_notes": "No key injuries."
-      },
-      "live": {
-        "status": "pre",
-        "status_detail": "Upcoming",
-        "period": 0,
-        "clock": "",
-        "home_score": 0,
-        "away_score": 0,
-        "spread_alert": null
-      },
-      "news": [
-        {
-          "title": "Paul George flips the script \u2014 and the bird \u2014 in Philadelphia return",
-          "source": "Nbcsportsphiladelphia.com",
-          "link": "https://www.nbcsportsphiladelphia.com/nba/philadelphia-76ers/sixers-paul-george-middle-finger-36-points-celtics/766206/?partner=yahoo",
-          "published": "2026-11-11T02:35:00Z"
-        },
-        {
-          "title": "GTA 6 Now the Most Preordered Game in PlayStation Store and Microsoft Store History, Official Preload Warning Issued - IGN",
-          "source": "Slashdot.org",
-          "link": "https://slashdot.org/firehose.pl?op=view&amp;id=186683827",
-          "published": "2026-11-11T02:33:07Z"
-        },
-        {
-          "title": "WATCH: Joel Embiid goes down with concerning injury-laden fall during Celtics vs. 76ers clash",
-          "source": "Sporting News",
-          "link": "https://www.sportingnews.com/us/nba/philadelphia-76ers/news/nba-news-watch-joel-embiid-goes-down-concerning-injury-laden-fall-during-celtics-vs-76ers-clash/2ae368a31e808001f04a07a8",
-          "published": "2026-11-11T02:31:20Z"
-        }
-      ]
-    },
-    {
-      "game": "Denver Nuggets @ Memphis Grizzlies",
-      "home_team": "Memphis Grizzlies",
-      "away_team": "Denver Nuggets",
-      "home_abbr": "MEM",
-      "away_abbr": "DEN",
-      "home_ml": "+190",
-      "away_ml": "-255",
-      "home_ml_raw": 190,
-      "away_ml_raw": -255,
-      "home_prob": 32.4,
-      "away_prob": 67.6,
-      "spread": "MEM +4.5",
-      "favorite": "Denver Nuggets",
-      "pick": "Denver Nuggets",
-      "pick_abbr": "DEN",
-      "moneyline": "-255",
-      "win_probability": 67.6,
-      "confidence": "MEDIUM",
-      "confidence_stars": "\u2605\u2605\u2606",
-      "commence_time": "2026-11-12T01:10:00Z",
-      "line_movement": {
-        "home": {
-          "direction": "longer",
-          "points_moved": 50,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM +190 \u2190 +140",
-          "old_ml": "+140",
-          "new_ml": "+190"
-        },
-        "away": {
-          "direction": "shorter",
-          "points_moved": 88,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -255 \u2190 -167",
-          "old_ml": "-167",
-          "new_ml": "-255"
-        },
-        "pick": {
-          "direction": "shorter",
-          "points_moved": 88,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -255 \u2190 -167",
-          "old_ml": "-167",
-          "new_ml": "-255"
-        },
-        "snapshot_time": "November 11, 2026 at 06:23 PM UTC"
-      },
-      "fatigue": {
-        "home": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
-          "last_game": "Nov 11",
-          "days_rest": 1,
-          "games_last_4d": 2,
-          "travel_miles": 817,
-          "travel_desc": "817 mi road trip",
-          "source": "ESPN Scoreboard API"
-        },
-        "away": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
-          "last_game": "Nov 11",
-          "days_rest": 1,
-          "games_last_4d": 2,
-          "travel_miles": 879,
-          "travel_desc": "879 mi road trip",
-          "source": "ESPN Scoreboard API"
-        }
-      },
-      "edge_factors": [
-        "\ud83d\udd25 Sharp steam detected",
-        "\ud83d\udca4 MEM fatigued (B2B) \u2014 source: ESPN"
-      ],
-      "injury_notes": "No key injuries.",
-      "sharp": {
-        "away_t": null,
-        "home_t": null,
-        "source": null,
-        "sharp_signal": null,
-        "sharp_label": "Pending \u2014 check closer to tip-off",
-        "rlm": false
-      },
-      "form": {
-        "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        },
-        "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        }
-      },
-      "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
-      },
-      "briefing": {
-        "trend": "MEM on Back-to-Back \u26a0\ufe0f per ESPN schedule data. DEN on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -167 to -255 (88pt move) \u2014 heavy professional action on Denver Nuggets.",
-        "injury_notes": "No key injuries."
-      },
-      "live": {
-        "status": "pre",
-        "status_detail": "Upcoming",
-        "period": 0,
-        "clock": "",
-        "home_score": 0,
-        "away_score": 0,
-        "spread_alert": null
-      },
-      "news": [
-        {
-          "title": "Paul George flips the script \u2014 and the bird \u2014 in Philadelphia return",
-          "source": "Nbcsportsphiladelphia.com",
-          "link": "https://www.nbcsportsphiladelphia.com/nba/philadelphia-76ers/sixers-paul-george-middle-finger-36-points-celtics/766206/?partner=yahoo",
-          "published": "2026-11-11T02:35:00Z"
-        },
-        {
-          "title": "GTA 6 Now the Most Preordered Game in PlayStation Store and Microsoft Store History, Official Preload Warning Issued - IGN",
-          "source": "Slashdot.org",
-          "link": "https://slashdot.org/firehose.pl?op=view&amp;id=186683827",
-          "published": "2026-11-11T02:33:07Z"
-        },
-        {
-          "title": "WATCH: Joel Embiid goes down with concerning injury-laden fall during Celtics vs. 76ers clash",
-          "source": "Sporting News",
-          "link": "https://www.sportingnews.com/us/nba/philadelphia-76ers/news/nba-news-watch-joel-embiid-goes-down-concerning-injury-laden-fall-during-celtics-vs-76ers-clash/2ae368a31e808001f04a07a8",
-          "published": "2026-11-11T02:31:20Z"
-        }
-      ]
-    },
-    {
-      "game": "Brooklyn Nets @ New Orleans Pelicans",
-      "home_team": "New Orleans Pelicans",
-      "away_team": "Brooklyn Nets",
-      "home_abbr": "NOP",
-      "away_abbr": "BKN",
-      "home_ml": "+1700",
-      "away_ml": "-4000",
-      "home_ml_raw": 1700,
-      "away_ml_raw": -4000,
-      "home_prob": 5.4,
-      "away_prob": 94.6,
-      "spread": "NOP +17.5",
-      "favorite": "Brooklyn Nets",
-      "pick": "Brooklyn Nets",
-      "pick_abbr": "BKN",
-      "moneyline": "-4000",
-      "win_probability": 94.6,
-      "confidence": "HIGH",
-      "confidence_stars": "\u2605\u2605\u2605",
-      "commence_time": "2026-11-12T01:10:34Z",
-      "line_movement": {
-        "home": {
-          "direction": "longer",
-          "points_moved": 1862,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM +1700 \u2190 -162",
-          "old_ml": "-162",
-          "new_ml": "+1700"
-        },
-        "away": {
-          "direction": "shorter",
-          "points_moved": 4136,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -4000 \u2190 +136",
-          "old_ml": "+136",
-          "new_ml": "-4000"
-        },
-        "pick": {
-          "direction": "shorter",
-          "points_moved": 4136,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -4000 \u2190 +136",
-          "old_ml": "+136",
-          "new_ml": "-4000"
-        },
-        "snapshot_time": "November 11, 2026 at 06:23 PM UTC"
-      },
-      "fatigue": {
-        "home": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
-          "last_game": "Nov 11",
-          "days_rest": 1,
-          "games_last_4d": 3,
-          "travel_miles": 1920,
-          "travel_desc": "1,920 mi road trip",
-          "source": "ESPN Scoreboard API"
-        },
-        "away": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
-          "last_game": "Nov 11",
-          "days_rest": 1,
-          "games_last_4d": 2,
-          "travel_miles": 1169,
-          "travel_desc": "1,169 mi road trip",
-          "source": "ESPN Scoreboard API"
-        }
-      },
-      "edge_factors": [
-        "\ud83d\udd25 Sharp steam detected",
-        "\ud83d\udca4 NOP fatigued (B2B) \u2014 source: ESPN",
-        "\u2708\ufe0f NOP traveled 1,920 mi"
-      ],
-      "injury_notes": "No key injuries.",
-      "sharp": {
-        "away_t": null,
-        "home_t": null,
-        "source": null,
-        "sharp_signal": null,
-        "sharp_label": "Pending \u2014 check closer to tip-off",
-        "rlm": false
-      },
-      "form": {
-        "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        },
-        "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        }
-      },
-      "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
-      },
-      "briefing": {
-        "trend": "NOP on Back-to-Back \u26a0\ufe0f per ESPN schedule data. BKN on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from +136 to -4000 (4136pt move) \u2014 heavy professional action on Brooklyn Nets.",
-        "injury_notes": "No key injuries."
-      },
-      "live": {
-        "status": "pre",
-        "status_detail": "Upcoming",
-        "period": 0,
-        "clock": "",
-        "home_score": 0,
-        "away_score": 0,
-        "spread_alert": null
-      },
-      "news": [
-        {
-          "title": "Paul George flips the script \u2014 and the bird \u2014 in Philadelphia return",
-          "source": "Nbcsportsphiladelphia.com",
-          "link": "https://www.nbcsportsphiladelphia.com/nba/philadelphia-76ers/sixers-paul-george-middle-finger-36-points-celtics/766206/?partner=yahoo",
-          "published": "2026-11-11T02:35:00Z"
-        },
-        {
-          "title": "GTA 6 Now the Most Preordered Game in PlayStation Store and Microsoft Store History, Official Preload Warning Issued - IGN",
-          "source": "Slashdot.org",
-          "link": "https://slashdot.org/firehose.pl?op=view&amp;id=186683827",
-          "published": "2026-11-11T02:33:07Z"
-        },
-        {
-          "title": "WATCH: Joel Embiid goes down with concerning injury-laden fall during Celtics vs. 76ers clash",
-          "source": "Sporting News",
-          "link": "https://www.sportingnews.com/us/nba/philadelphia-76ers/news/nba-news-watch-joel-embiid-goes-down-concerning-injury-laden-fall-during-celtics-vs-76ers-clash/2ae368a31e808001f04a07a8",
-          "published": "2026-11-11T02:31:20Z"
-        }
-      ]
-    },
-    {
-      "game": "San Antonio Spurs @ Chicago Bulls",
-      "home_team": "Chicago Bulls",
-      "away_team": "San Antonio Spurs",
-      "home_abbr": "CHI",
-      "away_abbr": "SAS",
-      "home_ml": "+700",
-      "away_ml": "-1200",
-      "home_ml_raw": 700,
-      "away_ml_raw": -1200,
-      "home_prob": 11.9,
-      "away_prob": 88.1,
-      "spread": "CHI +11.5",
-      "favorite": "San Antonio Spurs",
-      "pick": "San Antonio Spurs",
-      "pick_abbr": "SAS",
-      "moneyline": "-1200",
-      "win_probability": 88.1,
-      "confidence": "HIGH",
-      "confidence_stars": "\u2605\u2605\u2605",
-      "commence_time": "2026-11-12T01:10:36Z",
-      "line_movement": {
-        "home": {
-          "direction": "shorter",
-          "points_moved": 40,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM +700 \u2190 +740",
-          "old_ml": "+740",
-          "new_ml": "+700"
-        },
-        "away": {
-          "direction": "shorter",
-          "points_moved": 20,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -1200 \u2190 -1180",
-          "old_ml": "-1180",
-          "new_ml": "-1200"
-        },
-        "pick": {
-          "direction": "shorter",
-          "points_moved": 20,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -1200 \u2190 -1180",
-          "old_ml": "-1180",
-          "new_ml": "-1200"
-        },
-        "snapshot_time": "November 11, 2026 at 06:23 PM UTC"
-      },
-      "fatigue": {
-        "home": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
-          "last_game": "Nov 11",
-          "days_rest": 1,
-          "games_last_4d": 2,
-          "travel_miles": 0,
-          "travel_desc": "",
-          "source": "ESPN Scoreboard API"
-        },
-        "away": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
-          "last_game": "Nov 11",
-          "days_rest": 1,
-          "games_last_4d": 2,
-          "travel_miles": 1050,
-          "travel_desc": "1,050 mi road trip",
-          "source": "ESPN Scoreboard API"
-        }
-      },
-      "edge_factors": [
-        "\ud83d\udd25 Sharp steam detected",
-        "\ud83d\udca4 CHI fatigued (B2B) \u2014 source: ESPN"
-      ],
-      "injury_notes": "No key injuries.",
-      "sharp": {
-        "away_t": null,
-        "home_t": null,
-        "source": null,
-        "sharp_signal": null,
-        "sharp_label": "Pending \u2014 check closer to tip-off",
-        "rlm": false
-      },
-      "form": {
-        "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        },
-        "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        }
-      },
-      "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
-      },
-      "briefing": {
-        "trend": "CHI on Back-to-Back \u26a0\ufe0f per ESPN schedule data. SAS on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -1180 to -1200 (20pt move) \u2014 heavy professional action on San Antonio Spurs.",
-        "injury_notes": "No key injuries."
-      },
-      "live": {
-        "status": "pre",
-        "status_detail": "Upcoming",
-        "period": 0,
-        "clock": "",
-        "home_score": 0,
-        "away_score": 0,
-        "spread_alert": null
-      },
-      "news": [
-        {
-          "title": "Paul George flips the script \u2014 and the bird \u2014 in Philadelphia return",
-          "source": "Nbcsportsphiladelphia.com",
-          "link": "https://www.nbcsportsphiladelphia.com/nba/philadelphia-76ers/sixers-paul-george-middle-finger-36-points-celtics/766206/?partner=yahoo",
-          "published": "2026-11-11T02:35:00Z"
-        },
-        {
-          "title": "GTA 6 Now the Most Preordered Game in PlayStation Store and Microsoft Store History, Official Preload Warning Issued - IGN",
-          "source": "Slashdot.org",
-          "link": "https://slashdot.org/firehose.pl?op=view&amp;id=186683827",
-          "published": "2026-11-11T02:33:07Z"
-        },
-        {
-          "title": "WATCH: Joel Embiid goes down with concerning injury-laden fall during Celtics vs. 76ers clash",
-          "source": "Sporting News",
-          "link": "https://www.sportingnews.com/us/nba/philadelphia-76ers/news/nba-news-watch-joel-embiid-goes-down-concerning-injury-laden-fall-during-celtics-vs-76ers-clash/2ae368a31e808001f04a07a8",
-          "published": "2026-11-11T02:31:20Z"
-        }
-      ]
-    },
-    {
-      "game": "Los Angeles Lakers @ Milwaukee Bucks",
-      "home_team": "Milwaukee Bucks",
-      "away_team": "Los Angeles Lakers",
-      "home_abbr": "MIL",
-      "away_abbr": "LAL",
-      "home_ml": "N/A",
-      "away_ml": "N/A",
-      "home_ml_raw": null,
-      "away_ml_raw": null,
-      "home_prob": 50.0,
-      "away_prob": 50.0,
-      "spread": "MIL +19.5",
-      "favorite": "Milwaukee Bucks",
-      "pick": "Milwaukee Bucks",
-      "pick_abbr": "MIL",
-      "moneyline": "N/A",
-      "win_probability": 50.0,
-      "confidence": "LOW",
-      "confidence_stars": "\u2605\u2606\u2606",
-      "commence_time": "2026-11-12T01:12:00Z",
-      "line_movement": {
-        "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
-        },
-        "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
-        },
-        "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
-        },
-        "snapshot_time": "November 11, 2026 at 06:23 PM UTC"
-      },
-      "fatigue": {
-        "home": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
-          "last_game": "Nov 11",
-          "days_rest": 1,
-          "games_last_4d": 3,
-          "travel_miles": 732,
-          "travel_desc": "732 mi road trip",
-          "source": "ESPN Scoreboard API"
-        },
-        "away": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
-          "last_game": "Nov 11",
-          "days_rest": 1,
-          "games_last_4d": 3,
-          "travel_miles": 1742,
-          "travel_desc": "1,742 mi road trip",
-          "source": "ESPN Scoreboard API"
-        }
-      },
-      "edge_factors": [
-        "\ud83d\udca4 LAL fatigued (B2B) \u2014 source: ESPN"
-      ],
-      "injury_notes": "No key injuries.",
-      "sharp": {
-        "away_t": null,
-        "home_t": null,
-        "source": null,
-        "sharp_signal": null,
-        "sharp_label": "Pending \u2014 check closer to tip-off",
-        "rlm": false
-      },
-      "form": {
-        "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        },
-        "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        }
-      },
-      "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
-      },
-      "briefing": {
-        "trend": "MIL on Back-to-Back \u26a0\ufe0f per ESPN schedule data. LAL on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
-        "injury_notes": "No key injuries."
-      },
-      "live": {
-        "status": "pre",
-        "status_detail": "Upcoming",
-        "period": 0,
-        "clock": "",
-        "home_score": 0,
-        "away_score": 0,
-        "spread_alert": null
-      },
-      "news": [
-        {
-          "title": "Paul George flips the script \u2014 and the bird \u2014 in Philadelphia return",
-          "source": "Nbcsportsphiladelphia.com",
-          "link": "https://www.nbcsportsphiladelphia.com/nba/philadelphia-76ers/sixers-paul-george-middle-finger-36-points-celtics/766206/?partner=yahoo",
-          "published": "2026-11-11T02:35:00Z"
-        },
-        {
-          "title": "GTA 6 Now the Most Preordered Game in PlayStation Store and Microsoft Store History, Official Preload Warning Issued - IGN",
-          "source": "Slashdot.org",
-          "link": "https://slashdot.org/firehose.pl?op=view&amp;id=186683827",
-          "published": "2026-11-11T02:33:07Z"
-        },
-        {
-          "title": "WATCH: Joel Embiid goes down with concerning injury-laden fall during Celtics vs. 76ers clash",
-          "source": "Sporting News",
-          "link": "https://www.sportingnews.com/us/nba/philadelphia-76ers/news/nba-news-watch-joel-embiid-goes-down-concerning-injury-laden-fall-during-celtics-vs-76ers-clash/2ae368a31e808001f04a07a8",
-          "published": "2026-11-11T02:31:20Z"
-        }
-      ]
-    },
-    {
-      "game": "Orlando Magic @ Utah Jazz",
-      "home_team": "Utah Jazz",
-      "away_team": "Orlando Magic",
-      "home_abbr": "UTA",
-      "away_abbr": "ORL",
-      "home_ml": "-110",
-      "away_ml": "-120",
-      "home_ml_raw": -110,
-      "away_ml_raw": -120,
-      "home_prob": 49.0,
-      "away_prob": 51.0,
-      "spread": "UTA +1.5",
-      "favorite": "Orlando Magic",
-      "pick": "Orlando Magic",
-      "pick_abbr": "ORL",
-      "moneyline": "-120",
-      "win_probability": 51.0,
-      "confidence": "LOW",
-      "confidence_stars": "\u2605\u2606\u2606",
-      "commence_time": "2026-11-12T02:12:00Z",
-      "line_movement": {
-        "home": {
-          "direction": "shorter",
-          "points_moved": 240,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -110 \u2190 +130",
-          "old_ml": "+130",
-          "new_ml": "-110"
-        },
-        "away": {
-          "direction": "longer",
-          "points_moved": 34,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -120 \u2190 -154",
-          "old_ml": "-154",
-          "new_ml": "-120"
-        },
-        "pick": {
-          "direction": "longer",
-          "points_moved": 34,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -120 \u2190 -154",
-          "old_ml": "-154",
-          "new_ml": "-120"
-        },
-        "snapshot_time": "November 11, 2026 at 06:23 PM UTC"
-      },
-      "fatigue": {
-        "home": {
-          "status": "FRESH",
-          "label": "Well rested \u2705",
-          "battery": 100,
-          "last_game": "\u2014",
-          "days_rest": 99,
-          "games_last_4d": 0,
-          "travel_miles": 0,
-          "travel_desc": "",
-          "source": "ESPN Scoreboard API"
-        },
-        "away": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
-          "last_game": "Nov 11",
-          "days_rest": 1,
-          "games_last_4d": 2,
-          "travel_miles": 2391,
-          "travel_desc": "2,391 mi road trip",
-          "source": "ESPN Scoreboard API"
-        }
-      },
-      "edge_factors": [
-        "\ud83d\udd25 Sharp steam detected"
-      ],
-      "injury_notes": "No key injuries.",
-      "sharp": {
-        "away_t": null,
-        "home_t": null,
-        "source": null,
-        "sharp_signal": null,
-        "sharp_label": "Pending \u2014 check closer to tip-off",
-        "rlm": false
-      },
-      "form": {
-        "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        },
-        "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        }
-      },
-      "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
-      },
-      "briefing": {
-        "trend": "ORL on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -154 to -120 (34pt move) \u2014 heavy professional action on Orlando Magic.",
-        "injury_notes": "No key injuries."
-      },
-      "live": {
-        "status": "pre",
-        "status_detail": "Upcoming",
-        "period": 0,
-        "clock": "",
-        "home_score": 0,
-        "away_score": 0,
-        "spread_alert": null
-      },
-      "news": [
-        {
-          "title": "Paul George flips the script \u2014 and the bird \u2014 in Philadelphia return",
-          "source": "Nbcsportsphiladelphia.com",
-          "link": "https://www.nbcsportsphiladelphia.com/nba/philadelphia-76ers/sixers-paul-george-middle-finger-36-points-celtics/766206/?partner=yahoo",
-          "published": "2026-11-11T02:35:00Z"
-        },
-        {
-          "title": "GTA 6 Now the Most Preordered Game in PlayStation Store and Microsoft Store History, Official Preload Warning Issued - IGN",
-          "source": "Slashdot.org",
-          "link": "https://slashdot.org/firehose.pl?op=view&amp;id=186683827",
-          "published": "2026-11-11T02:33:07Z"
-        },
-        {
-          "title": "WATCH: Joel Embiid goes down with concerning injury-laden fall during Celtics vs. 76ers clash",
-          "source": "Sporting News",
-          "link": "https://www.sportingnews.com/us/nba/philadelphia-76ers/news/nba-news-watch-joel-embiid-goes-down-concerning-injury-laden-fall-during-celtics-vs-76ers-clash/2ae368a31e808001f04a07a8",
-          "published": "2026-11-11T02:31:20Z"
-        }
-      ]
-    },
-    {
-      "game": "Golden State Warriors @ Houston Rockets",
-      "home_team": "Houston Rockets",
-      "away_team": "Golden State Warriors",
-      "home_abbr": "HOU",
-      "away_abbr": "GSW",
-      "home_ml": "-249",
-      "away_ml": "+205",
-      "home_ml_raw": -249,
-      "away_ml_raw": 205,
-      "home_prob": 68.5,
-      "away_prob": 31.5,
-      "spread": "HOU -6.5",
-      "favorite": "Houston Rockets",
-      "pick": "Houston Rockets",
-      "pick_abbr": "HOU",
-      "moneyline": "-249",
-      "win_probability": 68.5,
-      "confidence": "MEDIUM",
-      "confidence_stars": "\u2605\u2605\u2606",
-      "commence_time": "2026-11-12T02:50:00Z",
-      "line_movement": {
-        "home": {
-          "direction": "longer",
-          "points_moved": 15,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -249 \u2190 -264",
-          "old_ml": "-264",
-          "new_ml": "-249"
-        },
-        "away": {
-          "direction": "shorter",
-          "points_moved": 12,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM +205 \u2190 +217",
-          "old_ml": "+217",
-          "new_ml": "+205"
-        },
-        "pick": {
-          "direction": "longer",
-          "points_moved": 15,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -249 \u2190 -264",
-          "old_ml": "-264",
-          "new_ml": "-249"
-        },
-        "snapshot_time": "November 11, 2026 at 06:23 PM UTC"
-      },
-      "fatigue": {
-        "home": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
-          "last_game": "Nov 11",
-          "days_rest": 1,
-          "games_last_4d": 2,
-          "travel_miles": 0,
-          "travel_desc": "",
-          "source": "ESPN Scoreboard API"
-        },
-        "away": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
-          "last_game": "Nov 11",
-          "days_rest": 1,
-          "games_last_4d": 2,
-          "travel_miles": 1641,
-          "travel_desc": "1,641 mi road trip",
-          "source": "ESPN Scoreboard API"
-        }
-      },
-      "edge_factors": [
-        "\ud83d\udd25 Sharp steam detected",
-        "\ud83d\udca4 GSW fatigued (B2B) \u2014 source: ESPN"
-      ],
-      "injury_notes": "No key injuries.",
-      "sharp": {
-        "away_t": null,
-        "home_t": null,
-        "source": null,
-        "sharp_signal": null,
-        "sharp_label": "Pending \u2014 check closer to tip-off",
-        "rlm": false
-      },
-      "form": {
-        "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        },
-        "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        }
-      },
-      "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
-      },
-      "briefing": {
-        "trend": "HOU on Back-to-Back \u26a0\ufe0f per ESPN schedule data. GSW on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -264 to -249 (15pt move) \u2014 heavy professional action on Houston Rockets.",
-        "injury_notes": "No key injuries."
-      },
-      "live": {
-        "status": "pre",
-        "status_detail": "Upcoming",
-        "period": 0,
-        "clock": "",
-        "home_score": 0,
-        "away_score": 0,
-        "spread_alert": null
-      },
-      "news": [
-        {
-          "title": "Paul George flips the script \u2014 and the bird \u2014 in Philadelphia return",
-          "source": "Nbcsportsphiladelphia.com",
-          "link": "https://www.nbcsportsphiladelphia.com/nba/philadelphia-76ers/sixers-paul-george-middle-finger-36-points-celtics/766206/?partner=yahoo",
-          "published": "2026-11-11T02:35:00Z"
-        },
-        {
-          "title": "GTA 6 Now the Most Preordered Game in PlayStation Store and Microsoft Store History, Official Preload Warning Issued - IGN",
-          "source": "Slashdot.org",
-          "link": "https://slashdot.org/firehose.pl?op=view&amp;id=186683827",
-          "published": "2026-11-11T02:33:07Z"
-        },
-        {
-          "title": "WATCH: Joel Embiid goes down with concerning injury-laden fall during Celtics vs. 76ers clash",
-          "source": "Sporting News",
-          "link": "https://www.sportingnews.com/us/nba/philadelphia-76ers/news/nba-news-watch-joel-embiid-goes-down-concerning-injury-laden-fall-during-celtics-vs-76ers-clash/2ae368a31e808001f04a07a8",
-          "published": "2026-11-11T02:31:20Z"
-        }
-      ]
-    },
-    {
-      "game": "Oklahoma City Thunder @ Portland Trail Blazers",
-      "home_team": "Portland Trail Blazers",
-      "away_team": "Oklahoma City Thunder",
-      "home_abbr": "POR",
-      "away_abbr": "OKC",
-      "home_ml": "-147",
-      "away_ml": "+124",
-      "home_ml_raw": -147,
-      "away_ml_raw": 124,
-      "home_prob": 57.1,
-      "away_prob": 42.9,
-      "spread": "POR -2.5",
-      "favorite": "Portland Trail Blazers",
-      "pick": "Portland Trail Blazers",
-      "pick_abbr": "POR",
-      "moneyline": "-147",
-      "win_probability": 57.1,
-      "confidence": "LOW",
-      "confidence_stars": "\u2605\u2606\u2606",
-      "commence_time": "2026-11-12T03:10:00Z",
-      "line_movement": {
-        "home": {
-          "direction": "shorter",
-          "points_moved": 42,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -147 \u2190 -105",
-          "old_ml": "-105",
-          "new_ml": "-147"
-        },
-        "away": {
-          "direction": "longer",
-          "points_moved": 237,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM +124 \u2190 -113",
-          "old_ml": "-113",
-          "new_ml": "+124"
-        },
-        "pick": {
-          "direction": "shorter",
-          "points_moved": 42,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -147 \u2190 -105",
-          "old_ml": "-105",
-          "new_ml": "-147"
-        },
-        "snapshot_time": "November 11, 2026 at 06:23 PM UTC"
-      },
-      "fatigue": {
-        "home": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "Nov 10",
-          "days_rest": 2,
-          "games_last_4d": 1,
-          "travel_miles": 0,
-          "travel_desc": "",
-          "source": "ESPN Scoreboard API"
-        },
-        "away": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "Nov 10",
-          "days_rest": 2,
-          "games_last_4d": 1,
-          "travel_miles": 1485,
-          "travel_desc": "1,485 mi road trip",
-          "source": "ESPN Scoreboard API"
-        }
-      },
-      "edge_factors": [
-        "\ud83d\udd25 Sharp steam detected"
-      ],
-      "injury_notes": "No key injuries.",
-      "sharp": {
-        "away_t": null,
-        "home_t": null,
-        "source": null,
-        "sharp_signal": null,
-        "sharp_label": "Pending \u2014 check closer to tip-off",
-        "rlm": false
-      },
-      "form": {
-        "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        },
-        "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        }
-      },
-      "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
-      },
-      "briefing": {
-        "trend": "Portland Trail Blazers hold a 57.1% edge.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -105 to -147 (42pt move) \u2014 heavy professional action on Portland Trail Blazers.",
-        "injury_notes": "No key injuries."
-      },
-      "live": {
-        "status": "pre",
-        "status_detail": "Upcoming",
-        "period": 0,
-        "clock": "",
-        "home_score": 0,
-        "away_score": 0,
-        "spread_alert": null
-      },
-      "news": [
-        {
-          "title": "Paul George flips the script \u2014 and the bird \u2014 in Philadelphia return",
-          "source": "Nbcsportsphiladelphia.com",
-          "link": "https://www.nbcsportsphiladelphia.com/nba/philadelphia-76ers/sixers-paul-george-middle-finger-36-points-celtics/766206/?partner=yahoo",
-          "published": "2026-11-11T02:35:00Z"
-        },
-        {
-          "title": "GTA 6 Now the Most Preordered Game in PlayStation Store and Microsoft Store History, Official Preload Warning Issued - IGN",
-          "source": "Slashdot.org",
-          "link": "https://slashdot.org/firehose.pl?op=view&amp;id=186683827",
-          "published": "2026-11-11T02:33:07Z"
-        },
-        {
-          "title": "WATCH: Joel Embiid goes down with concerning injury-laden fall during Celtics vs. 76ers clash",
-          "source": "Sporting News",
-          "link": "https://www.sportingnews.com/us/nba/philadelphia-76ers/news/nba-news-watch-joel-embiid-goes-down-concerning-injury-laden-fall-during-celtics-vs-76ers-clash/2ae368a31e808001f04a07a8",
-          "published": "2026-11-11T02:31:20Z"
-        }
-      ]
-    },
     {
       "game": "Detroit Pistons @ Washington Wizards",
       "home_team": "Washington Wizards",
       "away_team": "Detroit Pistons",
       "home_abbr": "WAS",
       "away_abbr": "DET",
-      "home_ml": "+293",
-      "away_ml": "-369",
-      "home_ml_raw": 293,
-      "away_ml_raw": -369,
-      "home_prob": 24.4,
-      "away_prob": 75.6,
+      "home_ml": "+331",
+      "away_ml": "-423",
+      "home_ml_raw": 331,
+      "away_ml_raw": -423,
+      "home_prob": 22.3,
+      "away_prob": 77.7,
       "spread": "WAS +9.5",
       "favorite": "Detroit Pistons",
       "pick": "Detroit Pistons",
       "pick_abbr": "DET",
-      "moneyline": "-369",
-      "win_probability": 75.6,
+      "moneyline": "-423",
+      "win_probability": 77.7,
       "confidence": "HIGH",
       "confidence_stars": "\u2605\u2605\u2605",
       "commence_time": "2026-11-13T00:10:00Z",
       "line_movement": {
         "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "direction": "longer",
+          "points_moved": 38,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM +331 \u2190 +293",
+          "old_ml": "+293",
+          "new_ml": "+331"
         },
         "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "direction": "shorter",
+          "points_moved": 54,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -423 \u2190 -369",
+          "old_ml": "-369",
+          "new_ml": "-423"
         },
         "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "direction": "shorter",
+          "points_moved": 54,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -423 \u2190 -369",
+          "old_ml": "-369",
+          "new_ml": "-423"
         },
-        "snapshot_time": "\u2014"
+        "snapshot_time": "November 12, 2026 at 02:43 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -1386,6 +75,7 @@
         }
       },
       "edge_factors": [
+        "\ud83d\udd25 Sharp steam detected",
         "\ud83d\udca4 WAS fatigued (B2B) \u2014 source: ESPN"
       ],
       "injury_notes": "No key injuries.",
@@ -1425,7 +115,7 @@
       "briefing": {
         "trend": "WAS on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "steam": "Line steamed from -369 to -423 (54pt move) \u2014 heavy professional action on Detroit Pistons.",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -1439,191 +129,46 @@
       },
       "news": [
         {
-          "title": "Paul George flips the script \u2014 and the bird \u2014 in Philadelphia return",
-          "source": "Nbcsportsphiladelphia.com",
-          "link": "https://www.nbcsportsphiladelphia.com/nba/philadelphia-76ers/sixers-paul-george-middle-finger-36-points-celtics/766206/?partner=yahoo",
-          "published": "2026-11-11T02:35:00Z"
-        },
-        {
-          "title": "GTA 6 Now the Most Preordered Game in PlayStation Store and Microsoft Store History, Official Preload Warning Issued - IGN",
-          "source": "Slashdot.org",
-          "link": "https://slashdot.org/firehose.pl?op=view&amp;id=186683827",
-          "published": "2026-11-11T02:33:07Z"
-        },
-        {
-          "title": "WATCH: Joel Embiid goes down with concerning injury-laden fall during Celtics vs. 76ers clash",
+          "title": "Raptors predicted to trade for ex-Thunder All-Star, rebounding merchant to pair with Kawhi Leonard",
           "source": "Sporting News",
-          "link": "https://www.sportingnews.com/us/nba/philadelphia-76ers/news/nba-news-watch-joel-embiid-goes-down-concerning-injury-laden-fall-during-celtics-vs-76ers-clash/2ae368a31e808001f04a07a8",
-          "published": "2026-11-11T02:31:20Z"
+          "link": "https://www.sportingnews.com/us/nba/toronto-raptors/news/raptors-predicted-trade-ex-thunder-all-star-rebounding-merchant-pair-kawhi-leonard/18095f331f7a728dc3e3c4e8",
+          "published": "2026-11-11T06:21:51Z"
+        },
+        {
+          "title": "\u2018Downright Terrible,\u2019 \u2018Celtics Won the Trade\u2019 \u2013 Dave Portnoy, NBA World Rip Jaylen Brown\u2019s No-Show in Highly Anticipated Revenge Game vs. Jayson Tatum",
+          "source": "Yahoo Entertainment",
+          "link": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_7b911d2e-f90f-49cd-884c-bdb4f3e7f14a",
+          "published": "2026-11-11T06:21:21Z"
+        },
+        {
+          "title": "Jacob Elordi and Kendall Jenner look smitten as they show off PDA on NYC outing before first holidays together",
+          "source": "Dailymail.com",
+          "link": "https://www.dailymail.com/tvshowbiz/article-16283399/Jacob-Elordi-Kendall-Jenner-PDA-NYC-holidays.html",
+          "published": "2026-11-11T06:17:49Z"
         }
       ]
     },
     {
-      "game": "Dallas Mavericks @ Minnesota Timberwolves",
-      "home_team": "Minnesota Timberwolves",
-      "away_team": "Dallas Mavericks",
-      "home_abbr": "MIN",
-      "away_abbr": "DAL",
-      "home_ml": "-196",
-      "away_ml": "+164",
-      "home_ml_raw": -196,
-      "away_ml_raw": 164,
-      "home_prob": 63.6,
-      "away_prob": 36.4,
-      "spread": "MIN -5.5",
-      "favorite": "Minnesota Timberwolves",
-      "pick": "Minnesota Timberwolves",
-      "pick_abbr": "MIN",
-      "moneyline": "-196",
-      "win_probability": 63.6,
-      "confidence": "MEDIUM",
-      "confidence_stars": "\u2605\u2605\u2606",
-      "commence_time": "2026-11-13T01:10:00Z",
-      "line_movement": {
-        "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
-        },
-        "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
-        },
-        "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
-        },
-        "snapshot_time": "\u2014"
-      },
-      "fatigue": {
-        "home": {
-          "status": "FRESH",
-          "label": "Well rested \u2705",
-          "battery": 100,
-          "last_game": "Nov 08",
-          "days_rest": 4,
-          "games_last_4d": 1,
-          "travel_miles": 0,
-          "travel_desc": "",
-          "source": "ESPN Scoreboard API"
-        },
-        "away": {
-          "status": "RESTED",
-          "label": "2 days rest \u2705",
-          "battery": 88,
-          "last_game": "Nov 09",
-          "days_rest": 3,
-          "games_last_4d": 2,
-          "travel_miles": 0,
-          "travel_desc": "",
-          "source": "ESPN Scoreboard API"
-        }
-      },
-      "edge_factors": [
-        "\ud83d\udcca 27.2pt probability edge"
-      ],
-      "injury_notes": "No key injuries.",
-      "sharp": {
-        "away_t": null,
-        "home_t": null,
-        "source": null,
-        "sharp_signal": null,
-        "sharp_label": "Pending \u2014 check closer to tip-off",
-        "rlm": false
-      },
-      "form": {
-        "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        },
-        "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        }
-      },
-      "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
-      },
-      "briefing": {
-        "trend": "Minnesota Timberwolves hold a 63.6% edge.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
-        "injury_notes": "No key injuries."
-      },
-      "live": {
-        "status": "pre",
-        "status_detail": "Upcoming",
-        "period": 0,
-        "clock": "",
-        "home_score": 0,
-        "away_score": 0,
-        "spread_alert": null
-      },
-      "news": [
-        {
-          "title": "Paul George flips the script \u2014 and the bird \u2014 in Philadelphia return",
-          "source": "Nbcsportsphiladelphia.com",
-          "link": "https://www.nbcsportsphiladelphia.com/nba/philadelphia-76ers/sixers-paul-george-middle-finger-36-points-celtics/766206/?partner=yahoo",
-          "published": "2026-11-11T02:35:00Z"
-        },
-        {
-          "title": "GTA 6 Now the Most Preordered Game in PlayStation Store and Microsoft Store History, Official Preload Warning Issued - IGN",
-          "source": "Slashdot.org",
-          "link": "https://slashdot.org/firehose.pl?op=view&amp;id=186683827",
-          "published": "2026-11-11T02:33:07Z"
-        },
-        {
-          "title": "WATCH: Joel Embiid goes down with concerning injury-laden fall during Celtics vs. 76ers clash",
-          "source": "Sporting News",
-          "link": "https://www.sportingnews.com/us/nba/philadelphia-76ers/news/nba-news-watch-joel-embiid-goes-down-concerning-injury-laden-fall-during-celtics-vs-76ers-clash/2ae368a31e808001f04a07a8",
-          "published": "2026-11-11T02:31:20Z"
-        }
-      ]
-    },
-    {
-      "game": "Charlotte Hornets @ Phoenix Suns",
-      "home_team": "Phoenix Suns",
-      "away_team": "Charlotte Hornets",
-      "home_abbr": "PHX",
-      "away_abbr": "CHA",
-      "home_ml": "-250",
-      "away_ml": "+206",
-      "home_ml_raw": -250,
-      "away_ml_raw": 206,
-      "home_prob": 68.6,
-      "away_prob": 31.4,
-      "spread": "PHX -7.5",
-      "favorite": "Phoenix Suns",
-      "pick": "Phoenix Suns",
-      "pick_abbr": "PHX",
-      "moneyline": "-250",
-      "win_probability": 68.6,
-      "confidence": "MEDIUM",
-      "confidence_stars": "\u2605\u2605\u2606",
-      "commence_time": "2026-11-13T02:10:00Z",
+      "game": "Toronto Raptors @ Philadelphia 76ers",
+      "home_team": "Philadelphia 76ers",
+      "away_team": "Toronto Raptors",
+      "home_abbr": "PHI",
+      "away_abbr": "TOR",
+      "home_ml": "-410",
+      "away_ml": "+322",
+      "home_ml_raw": -410,
+      "away_ml_raw": 322,
+      "home_prob": 77.2,
+      "away_prob": 22.8,
+      "spread": "PHI -10.5",
+      "favorite": "Philadelphia 76ers",
+      "pick": "Philadelphia 76ers",
+      "pick_abbr": "PHI",
+      "moneyline": "-410",
+      "win_probability": 77.2,
+      "confidence": "HIGH",
+      "confidence_stars": "\u2605\u2605\u2605",
+      "commence_time": "2026-11-13T00:10:00Z",
       "line_movement": {
         "home": {
           "direction": "none",
@@ -1659,24 +204,24 @@
           "last_game": "Nov 10",
           "days_rest": 2,
           "games_last_4d": 2,
-          "travel_miles": 0,
-          "travel_desc": "",
+          "travel_miles": 667,
+          "travel_desc": "667 mi road trip",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "RESTED",
-          "label": "2 days rest \u2705",
-          "battery": 88,
-          "last_game": "Nov 09",
-          "days_rest": 3,
-          "games_last_4d": 1,
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Nov 11",
+          "days_rest": 1,
+          "games_last_4d": 2,
           "travel_miles": 0,
           "travel_desc": "",
           "source": "ESPN Scoreboard API"
         }
       },
       "edge_factors": [
-        "\ud83d\udcca 37.2pt probability edge"
+        "\ud83d\udca4 TOR fatigued (B2B) \u2014 source: ESPN"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -1713,7 +258,7 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "Phoenix Suns hold a 68.6% edge.",
+        "trend": "TOR on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
         "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
@@ -1729,22 +274,312 @@
       },
       "news": [
         {
-          "title": "Paul George flips the script \u2014 and the bird \u2014 in Philadelphia return",
-          "source": "Nbcsportsphiladelphia.com",
-          "link": "https://www.nbcsportsphiladelphia.com/nba/philadelphia-76ers/sixers-paul-george-middle-finger-36-points-celtics/766206/?partner=yahoo",
-          "published": "2026-11-11T02:35:00Z"
-        },
-        {
-          "title": "GTA 6 Now the Most Preordered Game in PlayStation Store and Microsoft Store History, Official Preload Warning Issued - IGN",
-          "source": "Slashdot.org",
-          "link": "https://slashdot.org/firehose.pl?op=view&amp;id=186683827",
-          "published": "2026-11-11T02:33:07Z"
-        },
-        {
-          "title": "WATCH: Joel Embiid goes down with concerning injury-laden fall during Celtics vs. 76ers clash",
+          "title": "Raptors predicted to trade for ex-Thunder All-Star, rebounding merchant to pair with Kawhi Leonard",
           "source": "Sporting News",
-          "link": "https://www.sportingnews.com/us/nba/philadelphia-76ers/news/nba-news-watch-joel-embiid-goes-down-concerning-injury-laden-fall-during-celtics-vs-76ers-clash/2ae368a31e808001f04a07a8",
-          "published": "2026-11-11T02:31:20Z"
+          "link": "https://www.sportingnews.com/us/nba/toronto-raptors/news/raptors-predicted-trade-ex-thunder-all-star-rebounding-merchant-pair-kawhi-leonard/18095f331f7a728dc3e3c4e8",
+          "published": "2026-11-11T06:21:51Z"
+        },
+        {
+          "title": "\u2018Downright Terrible,\u2019 \u2018Celtics Won the Trade\u2019 \u2013 Dave Portnoy, NBA World Rip Jaylen Brown\u2019s No-Show in Highly Anticipated Revenge Game vs. Jayson Tatum",
+          "source": "Yahoo Entertainment",
+          "link": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_7b911d2e-f90f-49cd-884c-bdb4f3e7f14a",
+          "published": "2026-11-11T06:21:21Z"
+        },
+        {
+          "title": "Jacob Elordi and Kendall Jenner look smitten as they show off PDA on NYC outing before first holidays together",
+          "source": "Dailymail.com",
+          "link": "https://www.dailymail.com/tvshowbiz/article-16283399/Jacob-Elordi-Kendall-Jenner-PDA-NYC-holidays.html",
+          "published": "2026-11-11T06:17:49Z"
+        }
+      ]
+    },
+    {
+      "game": "Dallas Mavericks @ Minnesota Timberwolves",
+      "home_team": "Minnesota Timberwolves",
+      "away_team": "Dallas Mavericks",
+      "home_abbr": "MIN",
+      "away_abbr": "DAL",
+      "home_ml": "-222",
+      "away_ml": "+184",
+      "home_ml_raw": -222,
+      "away_ml_raw": 184,
+      "home_prob": 66.2,
+      "away_prob": 33.8,
+      "spread": "MIN -5.5",
+      "favorite": "Minnesota Timberwolves",
+      "pick": "Minnesota Timberwolves",
+      "pick_abbr": "MIN",
+      "moneyline": "-222",
+      "win_probability": 66.2,
+      "confidence": "MEDIUM",
+      "confidence_stars": "\u2605\u2605\u2606",
+      "commence_time": "2026-11-13T01:10:00Z",
+      "line_movement": {
+        "home": {
+          "direction": "shorter",
+          "points_moved": 26,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -222 \u2190 -196",
+          "old_ml": "-196",
+          "new_ml": "-222"
+        },
+        "away": {
+          "direction": "longer",
+          "points_moved": 20,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM +184 \u2190 +164",
+          "old_ml": "+164",
+          "new_ml": "+184"
+        },
+        "pick": {
+          "direction": "shorter",
+          "points_moved": 26,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -222 \u2190 -196",
+          "old_ml": "-196",
+          "new_ml": "-222"
+        },
+        "snapshot_time": "November 12, 2026 at 02:43 AM UTC"
+      },
+      "fatigue": {
+        "home": {
+          "status": "FRESH",
+          "label": "Well rested \u2705",
+          "battery": 100,
+          "last_game": "Nov 08",
+          "days_rest": 4,
+          "games_last_4d": 1,
+          "travel_miles": 0,
+          "travel_desc": "",
+          "source": "ESPN Scoreboard API"
+        },
+        "away": {
+          "status": "RESTED",
+          "label": "2 days rest \u2705",
+          "battery": 88,
+          "last_game": "Nov 09",
+          "days_rest": 3,
+          "games_last_4d": 2,
+          "travel_miles": 0,
+          "travel_desc": "",
+          "source": "ESPN Scoreboard API"
+        }
+      },
+      "edge_factors": [
+        "\ud83d\udd25 Sharp steam detected"
+      ],
+      "injury_notes": "No key injuries.",
+      "sharp": {
+        "away_t": null,
+        "home_t": null,
+        "source": null,
+        "sharp_signal": null,
+        "sharp_label": "Pending \u2014 check closer to tip-off",
+        "rlm": false
+      },
+      "form": {
+        "home": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        },
+        "away": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        }
+      },
+      "h2h": {
+        "total_meetings": 0,
+        "home_wins": 0,
+        "away_wins": 0,
+        "meetings": [],
+        "source": "\u2014"
+      },
+      "briefing": {
+        "trend": "Minnesota Timberwolves hold a 66.2% edge.",
+        "matchup": "Both rosters appear healthy \u2014 clean line.",
+        "steam": "Line steamed from -196 to -222 (26pt move) \u2014 heavy professional action on Minnesota Timberwolves.",
+        "injury_notes": "No key injuries."
+      },
+      "live": {
+        "status": "pre",
+        "status_detail": "Upcoming",
+        "period": 0,
+        "clock": "",
+        "home_score": 0,
+        "away_score": 0,
+        "spread_alert": null
+      },
+      "news": [
+        {
+          "title": "Raptors predicted to trade for ex-Thunder All-Star, rebounding merchant to pair with Kawhi Leonard",
+          "source": "Sporting News",
+          "link": "https://www.sportingnews.com/us/nba/toronto-raptors/news/raptors-predicted-trade-ex-thunder-all-star-rebounding-merchant-pair-kawhi-leonard/18095f331f7a728dc3e3c4e8",
+          "published": "2026-11-11T06:21:51Z"
+        },
+        {
+          "title": "\u2018Downright Terrible,\u2019 \u2018Celtics Won the Trade\u2019 \u2013 Dave Portnoy, NBA World Rip Jaylen Brown\u2019s No-Show in Highly Anticipated Revenge Game vs. Jayson Tatum",
+          "source": "Yahoo Entertainment",
+          "link": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_7b911d2e-f90f-49cd-884c-bdb4f3e7f14a",
+          "published": "2026-11-11T06:21:21Z"
+        },
+        {
+          "title": "Jacob Elordi and Kendall Jenner look smitten as they show off PDA on NYC outing before first holidays together",
+          "source": "Dailymail.com",
+          "link": "https://www.dailymail.com/tvshowbiz/article-16283399/Jacob-Elordi-Kendall-Jenner-PDA-NYC-holidays.html",
+          "published": "2026-11-11T06:17:49Z"
+        }
+      ]
+    },
+    {
+      "game": "Charlotte Hornets @ Phoenix Suns",
+      "home_team": "Phoenix Suns",
+      "away_team": "Charlotte Hornets",
+      "home_abbr": "PHX",
+      "away_abbr": "CHA",
+      "home_ml": "-244",
+      "away_ml": "+201",
+      "home_ml_raw": -244,
+      "away_ml_raw": 201,
+      "home_prob": 68.1,
+      "away_prob": 31.9,
+      "spread": "PHX -6.5",
+      "favorite": "Phoenix Suns",
+      "pick": "Phoenix Suns",
+      "pick_abbr": "PHX",
+      "moneyline": "-244",
+      "win_probability": 68.1,
+      "confidence": "MEDIUM",
+      "confidence_stars": "\u2605\u2605\u2606",
+      "commence_time": "2026-11-13T02:10:00Z",
+      "line_movement": {
+        "home": {
+          "direction": "longer",
+          "points_moved": 6,
+          "steam": false,
+          "label": "\ud83d\udd34 -244 \u2190 -250",
+          "old_ml": "-250",
+          "new_ml": "-244"
+        },
+        "away": {
+          "direction": "shorter",
+          "points_moved": 5,
+          "steam": false,
+          "label": "\ud83d\udfe2 +201 \u2190 +206",
+          "old_ml": "+206",
+          "new_ml": "+201"
+        },
+        "pick": {
+          "direction": "longer",
+          "points_moved": 6,
+          "steam": false,
+          "label": "\ud83d\udd34 -244 \u2190 -250",
+          "old_ml": "-250",
+          "new_ml": "-244"
+        },
+        "snapshot_time": "November 12, 2026 at 02:43 AM UTC"
+      },
+      "fatigue": {
+        "home": {
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
+          "last_game": "Nov 10",
+          "days_rest": 2,
+          "games_last_4d": 2,
+          "travel_miles": 0,
+          "travel_desc": "",
+          "source": "ESPN Scoreboard API"
+        },
+        "away": {
+          "status": "RESTED",
+          "label": "2 days rest \u2705",
+          "battery": 88,
+          "last_game": "Nov 09",
+          "days_rest": 3,
+          "games_last_4d": 1,
+          "travel_miles": 0,
+          "travel_desc": "",
+          "source": "ESPN Scoreboard API"
+        }
+      },
+      "edge_factors": [
+        "\ud83d\udcca 36.2pt probability edge"
+      ],
+      "injury_notes": "No key injuries.",
+      "sharp": {
+        "away_t": null,
+        "home_t": null,
+        "source": null,
+        "sharp_signal": null,
+        "sharp_label": "Pending \u2014 check closer to tip-off",
+        "rlm": false
+      },
+      "form": {
+        "home": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        },
+        "away": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        }
+      },
+      "h2h": {
+        "total_meetings": 0,
+        "home_wins": 0,
+        "away_wins": 0,
+        "meetings": [],
+        "source": "\u2014"
+      },
+      "briefing": {
+        "trend": "Phoenix Suns hold a 68.1% edge.",
+        "matchup": "Both rosters appear healthy \u2014 clean line.",
+        "steam": "Line moved -250\u2192-244 (6pts). Pending \u2014 check closer to tip-off",
+        "injury_notes": "No key injuries."
+      },
+      "live": {
+        "status": "pre",
+        "status_detail": "Upcoming",
+        "period": 0,
+        "clock": "",
+        "home_score": 0,
+        "away_score": 0,
+        "spread_alert": null
+      },
+      "news": [
+        {
+          "title": "Raptors predicted to trade for ex-Thunder All-Star, rebounding merchant to pair with Kawhi Leonard",
+          "source": "Sporting News",
+          "link": "https://www.sportingnews.com/us/nba/toronto-raptors/news/raptors-predicted-trade-ex-thunder-all-star-rebounding-merchant-pair-kawhi-leonard/18095f331f7a728dc3e3c4e8",
+          "published": "2026-11-11T06:21:51Z"
+        },
+        {
+          "title": "\u2018Downright Terrible,\u2019 \u2018Celtics Won the Trade\u2019 \u2013 Dave Portnoy, NBA World Rip Jaylen Brown\u2019s No-Show in Highly Anticipated Revenge Game vs. Jayson Tatum",
+          "source": "Yahoo Entertainment",
+          "link": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_7b911d2e-f90f-49cd-884c-bdb4f3e7f14a",
+          "published": "2026-11-11T06:21:21Z"
+        },
+        {
+          "title": "Jacob Elordi and Kendall Jenner look smitten as they show off PDA on NYC outing before first holidays together",
+          "source": "Dailymail.com",
+          "link": "https://www.dailymail.com/tvshowbiz/article-16283399/Jacob-Elordi-Kendall-Jenner-PDA-NYC-holidays.html",
+          "published": "2026-11-11T06:17:49Z"
         }
       ]
     },
@@ -1794,7 +629,7 @@
           "old_ml": "\u2014",
           "new_ml": "\u2014"
         },
-        "snapshot_time": "November 11, 2026 at 06:23 PM UTC"
+        "snapshot_time": "November 12, 2026 at 02:43 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -1874,22 +709,22 @@
       },
       "news": [
         {
-          "title": "Paul George flips the script \u2014 and the bird \u2014 in Philadelphia return",
-          "source": "Nbcsportsphiladelphia.com",
-          "link": "https://www.nbcsportsphiladelphia.com/nba/philadelphia-76ers/sixers-paul-george-middle-finger-36-points-celtics/766206/?partner=yahoo",
-          "published": "2026-11-11T02:35:00Z"
-        },
-        {
-          "title": "GTA 6 Now the Most Preordered Game in PlayStation Store and Microsoft Store History, Official Preload Warning Issued - IGN",
-          "source": "Slashdot.org",
-          "link": "https://slashdot.org/firehose.pl?op=view&amp;id=186683827",
-          "published": "2026-11-11T02:33:07Z"
-        },
-        {
-          "title": "WATCH: Joel Embiid goes down with concerning injury-laden fall during Celtics vs. 76ers clash",
+          "title": "Raptors predicted to trade for ex-Thunder All-Star, rebounding merchant to pair with Kawhi Leonard",
           "source": "Sporting News",
-          "link": "https://www.sportingnews.com/us/nba/philadelphia-76ers/news/nba-news-watch-joel-embiid-goes-down-concerning-injury-laden-fall-during-celtics-vs-76ers-clash/2ae368a31e808001f04a07a8",
-          "published": "2026-11-11T02:31:20Z"
+          "link": "https://www.sportingnews.com/us/nba/toronto-raptors/news/raptors-predicted-trade-ex-thunder-all-star-rebounding-merchant-pair-kawhi-leonard/18095f331f7a728dc3e3c4e8",
+          "published": "2026-11-11T06:21:51Z"
+        },
+        {
+          "title": "\u2018Downright Terrible,\u2019 \u2018Celtics Won the Trade\u2019 \u2013 Dave Portnoy, NBA World Rip Jaylen Brown\u2019s No-Show in Highly Anticipated Revenge Game vs. Jayson Tatum",
+          "source": "Yahoo Entertainment",
+          "link": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_7b911d2e-f90f-49cd-884c-bdb4f3e7f14a",
+          "published": "2026-11-11T06:21:21Z"
+        },
+        {
+          "title": "Jacob Elordi and Kendall Jenner look smitten as they show off PDA on NYC outing before first holidays together",
+          "source": "Dailymail.com",
+          "link": "https://www.dailymail.com/tvshowbiz/article-16283399/Jacob-Elordi-Kendall-Jenner-PDA-NYC-holidays.html",
+          "published": "2026-11-11T06:17:49Z"
         }
       ]
     },
@@ -1939,7 +774,7 @@
           "old_ml": "\u2014",
           "new_ml": "\u2014"
         },
-        "snapshot_time": "November 11, 2026 at 06:23 PM UTC"
+        "snapshot_time": "November 12, 2026 at 02:43 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -2019,22 +854,22 @@
       },
       "news": [
         {
-          "title": "Paul George flips the script \u2014 and the bird \u2014 in Philadelphia return",
-          "source": "Nbcsportsphiladelphia.com",
-          "link": "https://www.nbcsportsphiladelphia.com/nba/philadelphia-76ers/sixers-paul-george-middle-finger-36-points-celtics/766206/?partner=yahoo",
-          "published": "2026-11-11T02:35:00Z"
-        },
-        {
-          "title": "GTA 6 Now the Most Preordered Game in PlayStation Store and Microsoft Store History, Official Preload Warning Issued - IGN",
-          "source": "Slashdot.org",
-          "link": "https://slashdot.org/firehose.pl?op=view&amp;id=186683827",
-          "published": "2026-11-11T02:33:07Z"
-        },
-        {
-          "title": "WATCH: Joel Embiid goes down with concerning injury-laden fall during Celtics vs. 76ers clash",
+          "title": "Raptors predicted to trade for ex-Thunder All-Star, rebounding merchant to pair with Kawhi Leonard",
           "source": "Sporting News",
-          "link": "https://www.sportingnews.com/us/nba/philadelphia-76ers/news/nba-news-watch-joel-embiid-goes-down-concerning-injury-laden-fall-during-celtics-vs-76ers-clash/2ae368a31e808001f04a07a8",
-          "published": "2026-11-11T02:31:20Z"
+          "link": "https://www.sportingnews.com/us/nba/toronto-raptors/news/raptors-predicted-trade-ex-thunder-all-star-rebounding-merchant-pair-kawhi-leonard/18095f331f7a728dc3e3c4e8",
+          "published": "2026-11-11T06:21:51Z"
+        },
+        {
+          "title": "\u2018Downright Terrible,\u2019 \u2018Celtics Won the Trade\u2019 \u2013 Dave Portnoy, NBA World Rip Jaylen Brown\u2019s No-Show in Highly Anticipated Revenge Game vs. Jayson Tatum",
+          "source": "Yahoo Entertainment",
+          "link": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_7b911d2e-f90f-49cd-884c-bdb4f3e7f14a",
+          "published": "2026-11-11T06:21:21Z"
+        },
+        {
+          "title": "Jacob Elordi and Kendall Jenner look smitten as they show off PDA on NYC outing before first holidays together",
+          "source": "Dailymail.com",
+          "link": "https://www.dailymail.com/tvshowbiz/article-16283399/Jacob-Elordi-Kendall-Jenner-PDA-NYC-holidays.html",
+          "published": "2026-11-11T06:17:49Z"
         }
       ]
     },
@@ -2084,7 +919,7 @@
           "old_ml": "\u2014",
           "new_ml": "\u2014"
         },
-        "snapshot_time": "November 11, 2026 at 06:23 PM UTC"
+        "snapshot_time": "November 12, 2026 at 02:43 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -2164,22 +999,22 @@
       },
       "news": [
         {
-          "title": "Paul George flips the script \u2014 and the bird \u2014 in Philadelphia return",
-          "source": "Nbcsportsphiladelphia.com",
-          "link": "https://www.nbcsportsphiladelphia.com/nba/philadelphia-76ers/sixers-paul-george-middle-finger-36-points-celtics/766206/?partner=yahoo",
-          "published": "2026-11-11T02:35:00Z"
-        },
-        {
-          "title": "GTA 6 Now the Most Preordered Game in PlayStation Store and Microsoft Store History, Official Preload Warning Issued - IGN",
-          "source": "Slashdot.org",
-          "link": "https://slashdot.org/firehose.pl?op=view&amp;id=186683827",
-          "published": "2026-11-11T02:33:07Z"
-        },
-        {
-          "title": "WATCH: Joel Embiid goes down with concerning injury-laden fall during Celtics vs. 76ers clash",
+          "title": "Raptors predicted to trade for ex-Thunder All-Star, rebounding merchant to pair with Kawhi Leonard",
           "source": "Sporting News",
-          "link": "https://www.sportingnews.com/us/nba/philadelphia-76ers/news/nba-news-watch-joel-embiid-goes-down-concerning-injury-laden-fall-during-celtics-vs-76ers-clash/2ae368a31e808001f04a07a8",
-          "published": "2026-11-11T02:31:20Z"
+          "link": "https://www.sportingnews.com/us/nba/toronto-raptors/news/raptors-predicted-trade-ex-thunder-all-star-rebounding-merchant-pair-kawhi-leonard/18095f331f7a728dc3e3c4e8",
+          "published": "2026-11-11T06:21:51Z"
+        },
+        {
+          "title": "\u2018Downright Terrible,\u2019 \u2018Celtics Won the Trade\u2019 \u2013 Dave Portnoy, NBA World Rip Jaylen Brown\u2019s No-Show in Highly Anticipated Revenge Game vs. Jayson Tatum",
+          "source": "Yahoo Entertainment",
+          "link": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_7b911d2e-f90f-49cd-884c-bdb4f3e7f14a",
+          "published": "2026-11-11T06:21:21Z"
+        },
+        {
+          "title": "Jacob Elordi and Kendall Jenner look smitten as they show off PDA on NYC outing before first holidays together",
+          "source": "Dailymail.com",
+          "link": "https://www.dailymail.com/tvshowbiz/article-16283399/Jacob-Elordi-Kendall-Jenner-PDA-NYC-holidays.html",
+          "published": "2026-11-11T06:17:49Z"
         }
       ]
     },
@@ -2229,7 +1064,7 @@
           "old_ml": "\u2014",
           "new_ml": "\u2014"
         },
-        "snapshot_time": "November 11, 2026 at 06:23 PM UTC"
+        "snapshot_time": "November 12, 2026 at 02:43 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -2309,22 +1144,22 @@
       },
       "news": [
         {
-          "title": "Paul George flips the script \u2014 and the bird \u2014 in Philadelphia return",
-          "source": "Nbcsportsphiladelphia.com",
-          "link": "https://www.nbcsportsphiladelphia.com/nba/philadelphia-76ers/sixers-paul-george-middle-finger-36-points-celtics/766206/?partner=yahoo",
-          "published": "2026-11-11T02:35:00Z"
-        },
-        {
-          "title": "GTA 6 Now the Most Preordered Game in PlayStation Store and Microsoft Store History, Official Preload Warning Issued - IGN",
-          "source": "Slashdot.org",
-          "link": "https://slashdot.org/firehose.pl?op=view&amp;id=186683827",
-          "published": "2026-11-11T02:33:07Z"
-        },
-        {
-          "title": "WATCH: Joel Embiid goes down with concerning injury-laden fall during Celtics vs. 76ers clash",
+          "title": "Raptors predicted to trade for ex-Thunder All-Star, rebounding merchant to pair with Kawhi Leonard",
           "source": "Sporting News",
-          "link": "https://www.sportingnews.com/us/nba/philadelphia-76ers/news/nba-news-watch-joel-embiid-goes-down-concerning-injury-laden-fall-during-celtics-vs-76ers-clash/2ae368a31e808001f04a07a8",
-          "published": "2026-11-11T02:31:20Z"
+          "link": "https://www.sportingnews.com/us/nba/toronto-raptors/news/raptors-predicted-trade-ex-thunder-all-star-rebounding-merchant-pair-kawhi-leonard/18095f331f7a728dc3e3c4e8",
+          "published": "2026-11-11T06:21:51Z"
+        },
+        {
+          "title": "\u2018Downright Terrible,\u2019 \u2018Celtics Won the Trade\u2019 \u2013 Dave Portnoy, NBA World Rip Jaylen Brown\u2019s No-Show in Highly Anticipated Revenge Game vs. Jayson Tatum",
+          "source": "Yahoo Entertainment",
+          "link": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_7b911d2e-f90f-49cd-884c-bdb4f3e7f14a",
+          "published": "2026-11-11T06:21:21Z"
+        },
+        {
+          "title": "Jacob Elordi and Kendall Jenner look smitten as they show off PDA on NYC outing before first holidays together",
+          "source": "Dailymail.com",
+          "link": "https://www.dailymail.com/tvshowbiz/article-16283399/Jacob-Elordi-Kendall-Jenner-PDA-NYC-holidays.html",
+          "published": "2026-11-11T06:17:49Z"
         }
       ]
     }
@@ -2332,43 +1167,43 @@
   "track_record": {
     "LOW": {
       "wins": 16,
-      "losses": 16,
-      "total": 32,
-      "win_pct": 50.0,
-      "roi": -7.6,
-      "profit": -243.03
+      "losses": 14,
+      "total": 30,
+      "win_pct": 53.3,
+      "roi": -1.4,
+      "profit": -43.03
     },
     "MEDIUM": {
-      "wins": 49,
-      "losses": 17,
+      "wins": 48,
+      "losses": 18,
       "total": 66,
-      "win_pct": 74.2,
-      "roi": 11.4,
-      "profit": 755.18
+      "win_pct": 72.7,
+      "roi": 9.1,
+      "profit": 603.1
     },
     "HIGH": {
-      "wins": 36,
+      "wins": 37,
       "losses": 6,
-      "total": 42,
-      "win_pct": 85.7,
-      "roi": 3.3,
-      "profit": 139.65
+      "total": 43,
+      "win_pct": 86.0,
+      "roi": 3.1,
+      "profit": 133.41
     },
     "overall_7d": {
-      "wins": 32,
-      "losses": 7,
-      "total": 39,
-      "win_pct": 82.1,
-      "roi": 17.5,
-      "profit": 680.79
+      "wins": 35,
+      "losses": 8,
+      "total": 43,
+      "win_pct": 81.4,
+      "roi": 14.9,
+      "profit": 640.85
     },
     "overall_30d": {
-      "wins": 92,
-      "losses": 36,
-      "total": 128,
-      "win_pct": 71.9,
-      "roi": 3.2,
-      "profit": 404.43
+      "wins": 97,
+      "losses": 37,
+      "total": 134,
+      "win_pct": 72.4,
+      "roi": 3.7,
+      "profit": 501.18
     }
   }
 }
