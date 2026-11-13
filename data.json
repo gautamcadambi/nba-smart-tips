@@ -1,637 +1,54 @@
 {
-  "last_updated": "November 13, 2026 at 02:27 AM UTC",
-  "total_games": 17,
+  "last_updated": "November 13, 2026 at 05:51 AM UTC",
+  "total_games": 13,
   "games": [
-    {
-      "game": "Detroit Pistons @ Washington Wizards",
-      "home_team": "Washington Wizards",
-      "away_team": "Detroit Pistons",
-      "home_abbr": "WAS",
-      "away_abbr": "DET",
-      "home_ml": "-130",
-      "away_ml": "-105",
-      "home_ml_raw": -130,
-      "away_ml_raw": -105,
-      "home_prob": 52.5,
-      "away_prob": 47.5,
-      "spread": "WAS -1.5",
-      "favorite": "Washington Wizards",
-      "pick": "Washington Wizards",
-      "pick_abbr": "WAS",
-      "moneyline": "-130",
-      "win_probability": 52.5,
-      "confidence": "LOW",
-      "confidence_stars": "\u2605\u2606\u2606",
-      "commence_time": "2026-11-13T00:12:00Z",
-      "line_movement": {
-        "home": {
-          "direction": "shorter",
-          "points_moved": 490,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -130 \u2190 +360",
-          "old_ml": "+360",
-          "new_ml": "-130"
-        },
-        "away": {
-          "direction": "longer",
-          "points_moved": 362,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -105 \u2190 -467",
-          "old_ml": "-467",
-          "new_ml": "-105"
-        },
-        "pick": {
-          "direction": "shorter",
-          "points_moved": 490,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -130 \u2190 +360",
-          "old_ml": "+360",
-          "new_ml": "-130"
-        },
-        "snapshot_time": "November 12, 2026 at 06:41 PM UTC"
-      },
-      "fatigue": {
-        "home": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
-          "last_game": "Nov 12",
-          "days_rest": 1,
-          "games_last_4d": 3,
-          "travel_miles": 492,
-          "travel_desc": "492 mi road trip",
-          "source": "ESPN Scoreboard API"
-        },
-        "away": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
-          "last_game": "Nov 12",
-          "days_rest": 1,
-          "games_last_4d": 2,
-          "travel_miles": 396,
-          "travel_desc": "396 mi road trip",
-          "source": "ESPN Scoreboard API"
-        }
-      },
-      "edge_factors": [
-        "\ud83d\udd25 Sharp steam detected",
-        "\ud83d\udca4 DET fatigued (B2B) \u2014 source: ESPN"
-      ],
-      "injury_notes": "No key injuries.",
-      "sharp": {
-        "away_t": null,
-        "home_t": null,
-        "source": null,
-        "sharp_signal": null,
-        "sharp_label": "Pending \u2014 check closer to tip-off",
-        "rlm": false
-      },
-      "form": {
-        "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        },
-        "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        }
-      },
-      "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
-      },
-      "briefing": {
-        "trend": "WAS on Back-to-Back \u26a0\ufe0f per ESPN schedule data. DET on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from +360 to -130 (490pt move) \u2014 heavy professional action on Washington Wizards.",
-        "injury_notes": "No key injuries."
-      },
-      "live": {
-        "status": "pre",
-        "status_detail": "Upcoming",
-        "period": 0,
-        "clock": "",
-        "home_score": 0,
-        "away_score": 0,
-        "spread_alert": null
-      },
-      "news": [
-        {
-          "title": "Domantas Sabonis Is \u201cQuietly Quitting\u201d On The Kings Amid Difficult Season",
-          "source": "Fadeaway World",
-          "link": "https://fadeawayworld.net/nba-trade-rumors/sacramento-kings/domantas-sabonis-is-quietly-quitting-on-the-kings-amid-difficult-season",
-          "published": "2026-11-12T02:17:12Z"
-        },
-        {
-          "title": "\"I Apologize Like a Man\": Nick Young Responds to Stephen Curry Callout as Gilbert Arenas Finally Backs Down Over Ayesha Curry",
-          "source": "Essentially Sports",
-          "link": "https://www.essentiallysports.com/nba-legends-basketball-news-i-apologize-like-a-man-nick-young-responds-to-stephen-curry-callout-as-gilbert-arenas-finally-backs-down-over-ayesha-curry/",
-          "published": "2026-11-12T02:08:41Z"
-        },
-        {
-          "title": "NBA trade rumor: Warriors may bid farewell to multiple stars to welcome their long-time target Anthony Davis",
-          "source": "The Times of India",
-          "link": "https://timesofindia.indiatimes.com/sports/nba/top-stories/nba-trade-rumor-warriors-may-bid-farewell-to-multiple-stars-to-welcome-their-long-time-target-anthony-davis/articleshow/135752230.cms",
-          "published": "2026-11-12T02:08:16Z"
-        }
-      ]
-    },
-    {
-      "game": "Toronto Raptors @ Philadelphia 76ers",
-      "home_team": "Philadelphia 76ers",
-      "away_team": "Toronto Raptors",
-      "home_abbr": "PHI",
-      "away_abbr": "TOR",
-      "home_ml": "N/A",
-      "away_ml": "N/A",
-      "home_ml_raw": null,
-      "away_ml_raw": null,
-      "home_prob": 50.0,
-      "away_prob": 50.0,
-      "spread": "PHI -11.5",
-      "favorite": "Philadelphia 76ers",
-      "pick": "Philadelphia 76ers",
-      "pick_abbr": "PHI",
-      "moneyline": "N/A",
-      "win_probability": 50.0,
-      "confidence": "LOW",
-      "confidence_stars": "\u2605\u2606\u2606",
-      "commence_time": "2026-11-13T00:13:00Z",
-      "line_movement": {
-        "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
-        },
-        "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
-        },
-        "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
-        },
-        "snapshot_time": "November 12, 2026 at 06:41 PM UTC"
-      },
-      "fatigue": {
-        "home": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
-          "last_game": "Nov 12",
-          "days_rest": 1,
-          "games_last_4d": 2,
-          "travel_miles": 0,
-          "travel_desc": "",
-          "source": "ESPN Scoreboard API"
-        },
-        "away": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
-          "last_game": "Nov 12",
-          "days_rest": 1,
-          "games_last_4d": 3,
-          "travel_miles": 337,
-          "travel_desc": "337 mi road trip",
-          "source": "ESPN Scoreboard API"
-        }
-      },
-      "edge_factors": [
-        "\ud83d\udca4 TOR fatigued (B2B) \u2014 source: ESPN"
-      ],
-      "injury_notes": "No key injuries.",
-      "sharp": {
-        "away_t": null,
-        "home_t": null,
-        "source": null,
-        "sharp_signal": null,
-        "sharp_label": "Pending \u2014 check closer to tip-off",
-        "rlm": false
-      },
-      "form": {
-        "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        },
-        "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        }
-      },
-      "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
-      },
-      "briefing": {
-        "trend": "PHI on Back-to-Back \u26a0\ufe0f per ESPN schedule data. TOR on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
-        "injury_notes": "No key injuries."
-      },
-      "live": {
-        "status": "pre",
-        "status_detail": "Upcoming",
-        "period": 0,
-        "clock": "",
-        "home_score": 0,
-        "away_score": 0,
-        "spread_alert": null
-      },
-      "news": [
-        {
-          "title": "Domantas Sabonis Is \u201cQuietly Quitting\u201d On The Kings Amid Difficult Season",
-          "source": "Fadeaway World",
-          "link": "https://fadeawayworld.net/nba-trade-rumors/sacramento-kings/domantas-sabonis-is-quietly-quitting-on-the-kings-amid-difficult-season",
-          "published": "2026-11-12T02:17:12Z"
-        },
-        {
-          "title": "\"I Apologize Like a Man\": Nick Young Responds to Stephen Curry Callout as Gilbert Arenas Finally Backs Down Over Ayesha Curry",
-          "source": "Essentially Sports",
-          "link": "https://www.essentiallysports.com/nba-legends-basketball-news-i-apologize-like-a-man-nick-young-responds-to-stephen-curry-callout-as-gilbert-arenas-finally-backs-down-over-ayesha-curry/",
-          "published": "2026-11-12T02:08:41Z"
-        },
-        {
-          "title": "NBA trade rumor: Warriors may bid farewell to multiple stars to welcome their long-time target Anthony Davis",
-          "source": "The Times of India",
-          "link": "https://timesofindia.indiatimes.com/sports/nba/top-stories/nba-trade-rumor-warriors-may-bid-farewell-to-multiple-stars-to-welcome-their-long-time-target-anthony-davis/articleshow/135752230.cms",
-          "published": "2026-11-12T02:08:16Z"
-        }
-      ]
-    },
-    {
-      "game": "Dallas Mavericks @ Minnesota Timberwolves",
-      "home_team": "Minnesota Timberwolves",
-      "away_team": "Dallas Mavericks",
-      "home_abbr": "MIN",
-      "away_abbr": "DAL",
-      "home_ml": "-5000",
-      "away_ml": "+1800",
-      "home_ml_raw": -5000,
-      "away_ml_raw": 1800,
-      "home_prob": 94.9,
-      "away_prob": 5.1,
-      "spread": "MIN -19.5",
-      "favorite": "Minnesota Timberwolves",
-      "pick": "Minnesota Timberwolves",
-      "pick_abbr": "MIN",
-      "moneyline": "-5000",
-      "win_probability": 94.9,
-      "confidence": "HIGH",
-      "confidence_stars": "\u2605\u2605\u2605",
-      "commence_time": "2026-11-13T01:12:00Z",
-      "line_movement": {
-        "home": {
-          "direction": "shorter",
-          "points_moved": 4777,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -5000 \u2190 -223",
-          "old_ml": "-223",
-          "new_ml": "-5000"
-        },
-        "away": {
-          "direction": "longer",
-          "points_moved": 1615,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM +1800 \u2190 +185",
-          "old_ml": "+185",
-          "new_ml": "+1800"
-        },
-        "pick": {
-          "direction": "shorter",
-          "points_moved": 4777,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -5000 \u2190 -223",
-          "old_ml": "-223",
-          "new_ml": "-5000"
-        },
-        "snapshot_time": "November 12, 2026 at 06:41 PM UTC"
-      },
-      "fatigue": {
-        "home": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
-          "last_game": "Nov 12",
-          "days_rest": 1,
-          "games_last_4d": 1,
-          "travel_miles": 0,
-          "travel_desc": "",
-          "source": "ESPN Scoreboard API"
-        },
-        "away": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
-          "last_game": "Nov 12",
-          "days_rest": 1,
-          "games_last_4d": 2,
-          "travel_miles": 863,
-          "travel_desc": "863 mi road trip",
-          "source": "ESPN Scoreboard API"
-        }
-      },
-      "edge_factors": [
-        "\ud83d\udd25 Sharp steam detected",
-        "\ud83d\udca4 DAL fatigued (B2B) \u2014 source: ESPN"
-      ],
-      "injury_notes": "No key injuries.",
-      "sharp": {
-        "away_t": null,
-        "home_t": null,
-        "source": null,
-        "sharp_signal": null,
-        "sharp_label": "Pending \u2014 check closer to tip-off",
-        "rlm": false
-      },
-      "form": {
-        "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        },
-        "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        }
-      },
-      "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
-      },
-      "briefing": {
-        "trend": "MIN on Back-to-Back \u26a0\ufe0f per ESPN schedule data. DAL on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -223 to -5000 (4777pt move) \u2014 heavy professional action on Minnesota Timberwolves.",
-        "injury_notes": "No key injuries."
-      },
-      "live": {
-        "status": "pre",
-        "status_detail": "Upcoming",
-        "period": 0,
-        "clock": "",
-        "home_score": 0,
-        "away_score": 0,
-        "spread_alert": null
-      },
-      "news": [
-        {
-          "title": "Domantas Sabonis Is \u201cQuietly Quitting\u201d On The Kings Amid Difficult Season",
-          "source": "Fadeaway World",
-          "link": "https://fadeawayworld.net/nba-trade-rumors/sacramento-kings/domantas-sabonis-is-quietly-quitting-on-the-kings-amid-difficult-season",
-          "published": "2026-11-12T02:17:12Z"
-        },
-        {
-          "title": "\"I Apologize Like a Man\": Nick Young Responds to Stephen Curry Callout as Gilbert Arenas Finally Backs Down Over Ayesha Curry",
-          "source": "Essentially Sports",
-          "link": "https://www.essentiallysports.com/nba-legends-basketball-news-i-apologize-like-a-man-nick-young-responds-to-stephen-curry-callout-as-gilbert-arenas-finally-backs-down-over-ayesha-curry/",
-          "published": "2026-11-12T02:08:41Z"
-        },
-        {
-          "title": "NBA trade rumor: Warriors may bid farewell to multiple stars to welcome their long-time target Anthony Davis",
-          "source": "The Times of India",
-          "link": "https://timesofindia.indiatimes.com/sports/nba/top-stories/nba-trade-rumor-warriors-may-bid-farewell-to-multiple-stars-to-welcome-their-long-time-target-anthony-davis/articleshow/135752230.cms",
-          "published": "2026-11-12T02:08:16Z"
-        }
-      ]
-    },
-    {
-      "game": "Charlotte Hornets @ Phoenix Suns",
-      "home_team": "Phoenix Suns",
-      "away_team": "Charlotte Hornets",
-      "home_abbr": "PHX",
-      "away_abbr": "CHA",
-      "home_ml": "-260",
-      "away_ml": "+190",
-      "home_ml_raw": -260,
-      "away_ml_raw": 190,
-      "home_prob": 67.7,
-      "away_prob": 32.3,
-      "spread": "PHX -6.5",
-      "favorite": "Phoenix Suns",
-      "pick": "Phoenix Suns",
-      "pick_abbr": "PHX",
-      "moneyline": "-260",
-      "win_probability": 67.7,
-      "confidence": "MEDIUM",
-      "confidence_stars": "\u2605\u2605\u2606",
-      "commence_time": "2026-11-13T02:11:00Z",
-      "line_movement": {
-        "home": {
-          "direction": "shorter",
-          "points_moved": 16,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -260 \u2190 -244",
-          "old_ml": "-244",
-          "new_ml": "-260"
-        },
-        "away": {
-          "direction": "shorter",
-          "points_moved": 11,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM +190 \u2190 +201",
-          "old_ml": "+201",
-          "new_ml": "+190"
-        },
-        "pick": {
-          "direction": "shorter",
-          "points_moved": 16,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -260 \u2190 -244",
-          "old_ml": "-244",
-          "new_ml": "-260"
-        },
-        "snapshot_time": "November 12, 2026 at 06:41 PM UTC"
-      },
-      "fatigue": {
-        "home": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
-          "last_game": "Nov 12",
-          "days_rest": 1,
-          "games_last_4d": 3,
-          "travel_miles": 0,
-          "travel_desc": "",
-          "source": "ESPN Scoreboard API"
-        },
-        "away": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
-          "last_game": "Nov 12",
-          "days_rest": 1,
-          "games_last_4d": 2,
-          "travel_miles": 1779,
-          "travel_desc": "1,779 mi road trip",
-          "source": "ESPN Scoreboard API"
-        }
-      },
-      "edge_factors": [
-        "\ud83d\udd25 Sharp steam detected",
-        "\ud83d\udca4 CHA fatigued (B2B) \u2014 source: ESPN"
-      ],
-      "injury_notes": "No key injuries.",
-      "sharp": {
-        "away_t": null,
-        "home_t": null,
-        "source": null,
-        "sharp_signal": null,
-        "sharp_label": "Pending \u2014 check closer to tip-off",
-        "rlm": false
-      },
-      "form": {
-        "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        },
-        "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        }
-      },
-      "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
-      },
-      "briefing": {
-        "trend": "PHX on Back-to-Back \u26a0\ufe0f per ESPN schedule data. CHA on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -244 to -260 (16pt move) \u2014 heavy professional action on Phoenix Suns.",
-        "injury_notes": "No key injuries."
-      },
-      "live": {
-        "status": "pre",
-        "status_detail": "Upcoming",
-        "period": 0,
-        "clock": "",
-        "home_score": 0,
-        "away_score": 0,
-        "spread_alert": null
-      },
-      "news": [
-        {
-          "title": "Domantas Sabonis Is \u201cQuietly Quitting\u201d On The Kings Amid Difficult Season",
-          "source": "Fadeaway World",
-          "link": "https://fadeawayworld.net/nba-trade-rumors/sacramento-kings/domantas-sabonis-is-quietly-quitting-on-the-kings-amid-difficult-season",
-          "published": "2026-11-12T02:17:12Z"
-        },
-        {
-          "title": "\"I Apologize Like a Man\": Nick Young Responds to Stephen Curry Callout as Gilbert Arenas Finally Backs Down Over Ayesha Curry",
-          "source": "Essentially Sports",
-          "link": "https://www.essentiallysports.com/nba-legends-basketball-news-i-apologize-like-a-man-nick-young-responds-to-stephen-curry-callout-as-gilbert-arenas-finally-backs-down-over-ayesha-curry/",
-          "published": "2026-11-12T02:08:41Z"
-        },
-        {
-          "title": "NBA trade rumor: Warriors may bid farewell to multiple stars to welcome their long-time target Anthony Davis",
-          "source": "The Times of India",
-          "link": "https://timesofindia.indiatimes.com/sports/nba/top-stories/nba-trade-rumor-warriors-may-bid-farewell-to-multiple-stars-to-welcome-their-long-time-target-anthony-davis/articleshow/135752230.cms",
-          "published": "2026-11-12T02:08:16Z"
-        }
-      ]
-    },
     {
       "game": "New York Knicks @ Indiana Pacers",
       "home_team": "Indiana Pacers",
       "away_team": "New York Knicks",
       "home_abbr": "IND",
       "away_abbr": "NYK",
-      "home_ml": "+199",
-      "away_ml": "-241",
-      "home_ml_raw": 199,
-      "away_ml_raw": -241,
-      "home_prob": 32.1,
-      "away_prob": 67.9,
+      "home_ml": "+220",
+      "away_ml": "-269",
+      "home_ml_raw": 220,
+      "away_ml_raw": -269,
+      "home_prob": 30.0,
+      "away_prob": 70.0,
       "spread": "IND +6.5",
       "favorite": "New York Knicks",
       "pick": "New York Knicks",
       "pick_abbr": "NYK",
-      "moneyline": "-241",
-      "win_probability": 67.9,
+      "moneyline": "-269",
+      "win_probability": 70.0,
       "confidence": "MEDIUM",
       "confidence_stars": "\u2605\u2605\u2606",
       "commence_time": "2026-11-14T00:10:00Z",
       "line_movement": {
         "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "direction": "longer",
+          "points_moved": 21,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM +220 \u2190 +199",
+          "old_ml": "+199",
+          "new_ml": "+220"
         },
         "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "direction": "shorter",
+          "points_moved": 28,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -269 \u2190 -241",
+          "old_ml": "-241",
+          "new_ml": "-269"
         },
         "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "direction": "shorter",
+          "points_moved": 28,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -269 \u2190 -241",
+          "old_ml": "-241",
+          "new_ml": "-269"
         },
-        "snapshot_time": "\u2014"
+        "snapshot_time": "November 13, 2026 at 02:27 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -658,7 +75,7 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udcca 35.8pt probability edge"
+        "\ud83d\udd25 Sharp steam detected"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -695,9 +112,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "New York Knicks hold a 67.9% edge.",
+        "trend": "New York Knicks hold a 70.0% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "steam": "Line steamed from -241 to -269 (28pt move) \u2014 heavy professional action on New York Knicks.",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -711,22 +128,22 @@
       },
       "news": [
         {
-          "title": "Domantas Sabonis Is \u201cQuietly Quitting\u201d On The Kings Amid Difficult Season",
+          "title": "\u2018Suspend him\u2019 \u2013 Fans can\u2019t believe Marcus Smart punched a Warriors player during Rockets game",
+          "source": "HITC - Football, Gaming, Movies, TV, Music",
+          "link": "https://www.hitc.com/suspend-him-fans-cant-believe-marcus-smart-punched-a-warriors-player-during-rockets-game/",
+          "published": "2026-11-12T05:47:57Z"
+        },
+        {
+          "title": "Victor Wembanyama Carries Spurs To Comeback Win Over Bulls: 3 Takeaways From Competitive Battle",
           "source": "Fadeaway World",
-          "link": "https://fadeawayworld.net/nba-trade-rumors/sacramento-kings/domantas-sabonis-is-quietly-quitting-on-the-kings-amid-difficult-season",
-          "published": "2026-11-12T02:17:12Z"
+          "link": "https://fadeawayworld.net/nba/chicago-bulls/victor-wembanyama-carries-spurs-to-comeback-win-over-bulls-3-takeaways-from-competitive-battle",
+          "published": "2026-11-12T05:46:39Z"
         },
         {
-          "title": "\"I Apologize Like a Man\": Nick Young Responds to Stephen Curry Callout as Gilbert Arenas Finally Backs Down Over Ayesha Curry",
-          "source": "Essentially Sports",
-          "link": "https://www.essentiallysports.com/nba-legends-basketball-news-i-apologize-like-a-man-nick-young-responds-to-stephen-curry-callout-as-gilbert-arenas-finally-backs-down-over-ayesha-curry/",
-          "published": "2026-11-12T02:08:41Z"
-        },
-        {
-          "title": "NBA trade rumor: Warriors may bid farewell to multiple stars to welcome their long-time target Anthony Davis",
-          "source": "The Times of India",
-          "link": "https://timesofindia.indiatimes.com/sports/nba/top-stories/nba-trade-rumor-warriors-may-bid-farewell-to-multiple-stars-to-welcome-their-long-time-target-anthony-davis/articleshow/135752230.cms",
-          "published": "2026-11-12T02:08:16Z"
+          "title": "Shai Gilgeous-Alexander, OKC Thunder fall short vs Trail Blazers for second straight night",
+          "source": "Oklahoman.com",
+          "link": "https://www.oklahoman.com/story/sports/nba/thunder/2026/11/11/okc-thunder-score-vs-trail-blazers-nba-game-sga-jared-mccain-aday-mara-damian-lillard-stats/92736124007/",
+          "published": "2026-11-12T05:42:38Z"
         }
       ]
     },
@@ -736,47 +153,47 @@
       "away_team": "Milwaukee Bucks",
       "home_abbr": "ORL",
       "away_abbr": "MIL",
-      "home_ml": "-368",
-      "away_ml": "+293",
-      "home_ml_raw": -368,
-      "away_ml_raw": 293,
-      "home_prob": 75.6,
-      "away_prob": 24.4,
+      "home_ml": "-378",
+      "away_ml": "+300",
+      "home_ml_raw": -378,
+      "away_ml_raw": 300,
+      "home_prob": 76.0,
+      "away_prob": 24.0,
       "spread": "ORL -9.5",
       "favorite": "Orlando Magic",
       "pick": "Orlando Magic",
       "pick_abbr": "ORL",
-      "moneyline": "-368",
-      "win_probability": 75.6,
+      "moneyline": "-378",
+      "win_probability": 76.0,
       "confidence": "HIGH",
       "confidence_stars": "\u2605\u2605\u2605",
       "commence_time": "2026-11-14T00:10:00Z",
       "line_movement": {
         "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "direction": "shorter",
+          "points_moved": 10,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -378 \u2190 -368",
+          "old_ml": "-368",
+          "new_ml": "-378"
         },
         "away": {
-          "direction": "none",
-          "points_moved": 0,
+          "direction": "longer",
+          "points_moved": 7,
           "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "label": "\ud83d\udd34 +300 \u2190 +293",
+          "old_ml": "+293",
+          "new_ml": "+300"
         },
         "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "direction": "shorter",
+          "points_moved": 10,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -378 \u2190 -368",
+          "old_ml": "-368",
+          "new_ml": "-378"
         },
-        "snapshot_time": "\u2014"
+        "snapshot_time": "November 13, 2026 at 02:27 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -803,7 +220,7 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udcca 51.2pt probability edge"
+        "\ud83d\udd25 Sharp steam detected"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -840,9 +257,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "Orlando Magic hold a 75.6% edge.",
+        "trend": "Orlando Magic hold a 76.0% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "steam": "Line steamed from -368 to -378 (10pt move) \u2014 heavy professional action on Orlando Magic.",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -856,22 +273,22 @@
       },
       "news": [
         {
-          "title": "Domantas Sabonis Is \u201cQuietly Quitting\u201d On The Kings Amid Difficult Season",
+          "title": "\u2018Suspend him\u2019 \u2013 Fans can\u2019t believe Marcus Smart punched a Warriors player during Rockets game",
+          "source": "HITC - Football, Gaming, Movies, TV, Music",
+          "link": "https://www.hitc.com/suspend-him-fans-cant-believe-marcus-smart-punched-a-warriors-player-during-rockets-game/",
+          "published": "2026-11-12T05:47:57Z"
+        },
+        {
+          "title": "Victor Wembanyama Carries Spurs To Comeback Win Over Bulls: 3 Takeaways From Competitive Battle",
           "source": "Fadeaway World",
-          "link": "https://fadeawayworld.net/nba-trade-rumors/sacramento-kings/domantas-sabonis-is-quietly-quitting-on-the-kings-amid-difficult-season",
-          "published": "2026-11-12T02:17:12Z"
+          "link": "https://fadeawayworld.net/nba/chicago-bulls/victor-wembanyama-carries-spurs-to-comeback-win-over-bulls-3-takeaways-from-competitive-battle",
+          "published": "2026-11-12T05:46:39Z"
         },
         {
-          "title": "\"I Apologize Like a Man\": Nick Young Responds to Stephen Curry Callout as Gilbert Arenas Finally Backs Down Over Ayesha Curry",
-          "source": "Essentially Sports",
-          "link": "https://www.essentiallysports.com/nba-legends-basketball-news-i-apologize-like-a-man-nick-young-responds-to-stephen-curry-callout-as-gilbert-arenas-finally-backs-down-over-ayesha-curry/",
-          "published": "2026-11-12T02:08:41Z"
-        },
-        {
-          "title": "NBA trade rumor: Warriors may bid farewell to multiple stars to welcome their long-time target Anthony Davis",
-          "source": "The Times of India",
-          "link": "https://timesofindia.indiatimes.com/sports/nba/top-stories/nba-trade-rumor-warriors-may-bid-farewell-to-multiple-stars-to-welcome-their-long-time-target-anthony-davis/articleshow/135752230.cms",
-          "published": "2026-11-12T02:08:16Z"
+          "title": "Shai Gilgeous-Alexander, OKC Thunder fall short vs Trail Blazers for second straight night",
+          "source": "Oklahoman.com",
+          "link": "https://www.oklahoman.com/story/sports/nba/thunder/2026/11/11/okc-thunder-score-vs-trail-blazers-nba-game-sga-jared-mccain-aday-mara-damian-lillard-stats/92736124007/",
+          "published": "2026-11-12T05:42:38Z"
         }
       ]
     },
@@ -881,47 +298,47 @@
       "away_team": "Atlanta Hawks",
       "home_abbr": "CHI",
       "away_abbr": "ATL",
-      "home_ml": "+216",
-      "away_ml": "-263",
-      "home_ml_raw": 216,
-      "away_ml_raw": -263,
-      "home_prob": 30.4,
-      "away_prob": 69.6,
+      "home_ml": "+227",
+      "away_ml": "-277",
+      "home_ml_raw": 227,
+      "away_ml_raw": -277,
+      "home_prob": 29.4,
+      "away_prob": 70.6,
       "spread": "CHI +6.5",
       "favorite": "Atlanta Hawks",
       "pick": "Atlanta Hawks",
       "pick_abbr": "ATL",
-      "moneyline": "-263",
-      "win_probability": 69.6,
+      "moneyline": "-277",
+      "win_probability": 70.6,
       "confidence": "MEDIUM",
       "confidence_stars": "\u2605\u2605\u2606",
       "commence_time": "2026-11-14T01:10:00Z",
       "line_movement": {
         "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "direction": "longer",
+          "points_moved": 11,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM +227 \u2190 +216",
+          "old_ml": "+216",
+          "new_ml": "+227"
         },
         "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "direction": "shorter",
+          "points_moved": 14,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -277 \u2190 -263",
+          "old_ml": "-263",
+          "new_ml": "-277"
         },
         "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "direction": "shorter",
+          "points_moved": 14,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -277 \u2190 -263",
+          "old_ml": "-263",
+          "new_ml": "-277"
         },
-        "snapshot_time": "\u2014"
+        "snapshot_time": "November 13, 2026 at 02:27 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -948,7 +365,7 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udcca 39.2pt probability edge"
+        "\ud83d\udd25 Sharp steam detected"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -985,9 +402,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "Atlanta Hawks hold a 69.6% edge.",
+        "trend": "Atlanta Hawks hold a 70.6% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "steam": "Line steamed from -263 to -277 (14pt move) \u2014 heavy professional action on Atlanta Hawks.",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -1001,22 +418,22 @@
       },
       "news": [
         {
-          "title": "Domantas Sabonis Is \u201cQuietly Quitting\u201d On The Kings Amid Difficult Season",
+          "title": "\u2018Suspend him\u2019 \u2013 Fans can\u2019t believe Marcus Smart punched a Warriors player during Rockets game",
+          "source": "HITC - Football, Gaming, Movies, TV, Music",
+          "link": "https://www.hitc.com/suspend-him-fans-cant-believe-marcus-smart-punched-a-warriors-player-during-rockets-game/",
+          "published": "2026-11-12T05:47:57Z"
+        },
+        {
+          "title": "Victor Wembanyama Carries Spurs To Comeback Win Over Bulls: 3 Takeaways From Competitive Battle",
           "source": "Fadeaway World",
-          "link": "https://fadeawayworld.net/nba-trade-rumors/sacramento-kings/domantas-sabonis-is-quietly-quitting-on-the-kings-amid-difficult-season",
-          "published": "2026-11-12T02:17:12Z"
+          "link": "https://fadeawayworld.net/nba/chicago-bulls/victor-wembanyama-carries-spurs-to-comeback-win-over-bulls-3-takeaways-from-competitive-battle",
+          "published": "2026-11-12T05:46:39Z"
         },
         {
-          "title": "\"I Apologize Like a Man\": Nick Young Responds to Stephen Curry Callout as Gilbert Arenas Finally Backs Down Over Ayesha Curry",
-          "source": "Essentially Sports",
-          "link": "https://www.essentiallysports.com/nba-legends-basketball-news-i-apologize-like-a-man-nick-young-responds-to-stephen-curry-callout-as-gilbert-arenas-finally-backs-down-over-ayesha-curry/",
-          "published": "2026-11-12T02:08:41Z"
-        },
-        {
-          "title": "NBA trade rumor: Warriors may bid farewell to multiple stars to welcome their long-time target Anthony Davis",
-          "source": "The Times of India",
-          "link": "https://timesofindia.indiatimes.com/sports/nba/top-stories/nba-trade-rumor-warriors-may-bid-farewell-to-multiple-stars-to-welcome-their-long-time-target-anthony-davis/articleshow/135752230.cms",
-          "published": "2026-11-12T02:08:16Z"
+          "title": "Shai Gilgeous-Alexander, OKC Thunder fall short vs Trail Blazers for second straight night",
+          "source": "Oklahoman.com",
+          "link": "https://www.oklahoman.com/story/sports/nba/thunder/2026/11/11/okc-thunder-score-vs-trail-blazers-nba-game-sga-jared-mccain-aday-mara-damian-lillard-stats/92736124007/",
+          "published": "2026-11-12T05:42:38Z"
         }
       ]
     },
@@ -1026,47 +443,47 @@
       "away_team": "Cleveland Cavaliers",
       "home_abbr": "MIA",
       "away_abbr": "CLE",
-      "home_ml": "-124",
-      "away_ml": "+105",
-      "home_ml_raw": -124,
-      "away_ml_raw": 105,
-      "home_prob": 53.2,
-      "away_prob": 46.8,
+      "home_ml": "-135",
+      "away_ml": "+114",
+      "home_ml_raw": -135,
+      "away_ml_raw": 114,
+      "home_prob": 55.1,
+      "away_prob": 44.9,
       "spread": "MIA -2.5",
       "favorite": "Miami Heat",
       "pick": "Miami Heat",
       "pick_abbr": "MIA",
-      "moneyline": "-124",
-      "win_probability": 53.2,
+      "moneyline": "-135",
+      "win_probability": 55.1,
       "confidence": "LOW",
       "confidence_stars": "\u2605\u2606\u2606",
       "commence_time": "2026-11-14T01:10:00Z",
       "line_movement": {
         "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "direction": "shorter",
+          "points_moved": 11,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -135 \u2190 -124",
+          "old_ml": "-124",
+          "new_ml": "-135"
         },
         "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "direction": "longer",
+          "points_moved": 9,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM +114 \u2190 +105",
+          "old_ml": "+105",
+          "new_ml": "+114"
         },
         "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "direction": "shorter",
+          "points_moved": 11,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -135 \u2190 -124",
+          "old_ml": "-124",
+          "new_ml": "-135"
         },
-        "snapshot_time": "\u2014"
+        "snapshot_time": "November 13, 2026 at 02:27 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -1093,7 +510,7 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udcca 6.4pt probability edge"
+        "\ud83d\udd25 Sharp steam detected"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -1130,9 +547,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "Miami Heat hold a 53.2% edge.",
+        "trend": "Miami Heat hold a 55.1% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "steam": "Line steamed from -124 to -135 (11pt move) \u2014 heavy professional action on Miami Heat.",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -1146,22 +563,22 @@
       },
       "news": [
         {
-          "title": "Domantas Sabonis Is \u201cQuietly Quitting\u201d On The Kings Amid Difficult Season",
+          "title": "\u2018Suspend him\u2019 \u2013 Fans can\u2019t believe Marcus Smart punched a Warriors player during Rockets game",
+          "source": "HITC - Football, Gaming, Movies, TV, Music",
+          "link": "https://www.hitc.com/suspend-him-fans-cant-believe-marcus-smart-punched-a-warriors-player-during-rockets-game/",
+          "published": "2026-11-12T05:47:57Z"
+        },
+        {
+          "title": "Victor Wembanyama Carries Spurs To Comeback Win Over Bulls: 3 Takeaways From Competitive Battle",
           "source": "Fadeaway World",
-          "link": "https://fadeawayworld.net/nba-trade-rumors/sacramento-kings/domantas-sabonis-is-quietly-quitting-on-the-kings-amid-difficult-season",
-          "published": "2026-11-12T02:17:12Z"
+          "link": "https://fadeawayworld.net/nba/chicago-bulls/victor-wembanyama-carries-spurs-to-comeback-win-over-bulls-3-takeaways-from-competitive-battle",
+          "published": "2026-11-12T05:46:39Z"
         },
         {
-          "title": "\"I Apologize Like a Man\": Nick Young Responds to Stephen Curry Callout as Gilbert Arenas Finally Backs Down Over Ayesha Curry",
-          "source": "Essentially Sports",
-          "link": "https://www.essentiallysports.com/nba-legends-basketball-news-i-apologize-like-a-man-nick-young-responds-to-stephen-curry-callout-as-gilbert-arenas-finally-backs-down-over-ayesha-curry/",
-          "published": "2026-11-12T02:08:41Z"
-        },
-        {
-          "title": "NBA trade rumor: Warriors may bid farewell to multiple stars to welcome their long-time target Anthony Davis",
-          "source": "The Times of India",
-          "link": "https://timesofindia.indiatimes.com/sports/nba/top-stories/nba-trade-rumor-warriors-may-bid-farewell-to-multiple-stars-to-welcome-their-long-time-target-anthony-davis/articleshow/135752230.cms",
-          "published": "2026-11-12T02:08:16Z"
+          "title": "Shai Gilgeous-Alexander, OKC Thunder fall short vs Trail Blazers for second straight night",
+          "source": "Oklahoman.com",
+          "link": "https://www.oklahoman.com/story/sports/nba/thunder/2026/11/11/okc-thunder-score-vs-trail-blazers-nba-game-sga-jared-mccain-aday-mara-damian-lillard-stats/92736124007/",
+          "published": "2026-11-12T05:42:38Z"
         }
       ]
     },
@@ -1191,27 +608,27 @@
           "direction": "none",
           "points_moved": 0,
           "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "label": "No movement",
+          "old_ml": "+133",
+          "new_ml": "+133"
         },
         "away": {
           "direction": "none",
           "points_moved": 0,
           "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "label": "No movement",
+          "old_ml": "-158",
+          "new_ml": "-158"
         },
         "pick": {
           "direction": "none",
           "points_moved": 0,
           "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "label": "No movement",
+          "old_ml": "-158",
+          "new_ml": "-158"
         },
-        "snapshot_time": "\u2014"
+        "snapshot_time": "November 13, 2026 at 02:27 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -1291,22 +708,22 @@
       },
       "news": [
         {
-          "title": "Domantas Sabonis Is \u201cQuietly Quitting\u201d On The Kings Amid Difficult Season",
+          "title": "\u2018Suspend him\u2019 \u2013 Fans can\u2019t believe Marcus Smart punched a Warriors player during Rockets game",
+          "source": "HITC - Football, Gaming, Movies, TV, Music",
+          "link": "https://www.hitc.com/suspend-him-fans-cant-believe-marcus-smart-punched-a-warriors-player-during-rockets-game/",
+          "published": "2026-11-12T05:47:57Z"
+        },
+        {
+          "title": "Victor Wembanyama Carries Spurs To Comeback Win Over Bulls: 3 Takeaways From Competitive Battle",
           "source": "Fadeaway World",
-          "link": "https://fadeawayworld.net/nba-trade-rumors/sacramento-kings/domantas-sabonis-is-quietly-quitting-on-the-kings-amid-difficult-season",
-          "published": "2026-11-12T02:17:12Z"
+          "link": "https://fadeawayworld.net/nba/chicago-bulls/victor-wembanyama-carries-spurs-to-comeback-win-over-bulls-3-takeaways-from-competitive-battle",
+          "published": "2026-11-12T05:46:39Z"
         },
         {
-          "title": "\"I Apologize Like a Man\": Nick Young Responds to Stephen Curry Callout as Gilbert Arenas Finally Backs Down Over Ayesha Curry",
-          "source": "Essentially Sports",
-          "link": "https://www.essentiallysports.com/nba-legends-basketball-news-i-apologize-like-a-man-nick-young-responds-to-stephen-curry-callout-as-gilbert-arenas-finally-backs-down-over-ayesha-curry/",
-          "published": "2026-11-12T02:08:41Z"
-        },
-        {
-          "title": "NBA trade rumor: Warriors may bid farewell to multiple stars to welcome their long-time target Anthony Davis",
-          "source": "The Times of India",
-          "link": "https://timesofindia.indiatimes.com/sports/nba/top-stories/nba-trade-rumor-warriors-may-bid-farewell-to-multiple-stars-to-welcome-their-long-time-target-anthony-davis/articleshow/135752230.cms",
-          "published": "2026-11-12T02:08:16Z"
+          "title": "Shai Gilgeous-Alexander, OKC Thunder fall short vs Trail Blazers for second straight night",
+          "source": "Oklahoman.com",
+          "link": "https://www.oklahoman.com/story/sports/nba/thunder/2026/11/11/okc-thunder-score-vs-trail-blazers-nba-game-sga-jared-mccain-aday-mara-damian-lillard-stats/92736124007/",
+          "published": "2026-11-12T05:42:38Z"
         }
       ]
     },
@@ -1336,27 +753,27 @@
           "direction": "none",
           "points_moved": 0,
           "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "label": "No movement",
+          "old_ml": "-1580",
+          "new_ml": "-1580"
         },
         "away": {
           "direction": "none",
           "points_moved": 0,
           "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "label": "No movement",
+          "old_ml": "+900",
+          "new_ml": "+900"
         },
         "pick": {
           "direction": "none",
           "points_moved": 0,
           "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "label": "No movement",
+          "old_ml": "-1580",
+          "new_ml": "-1580"
         },
-        "snapshot_time": "\u2014"
+        "snapshot_time": "November 13, 2026 at 02:27 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -1436,22 +853,22 @@
       },
       "news": [
         {
-          "title": "Domantas Sabonis Is \u201cQuietly Quitting\u201d On The Kings Amid Difficult Season",
+          "title": "\u2018Suspend him\u2019 \u2013 Fans can\u2019t believe Marcus Smart punched a Warriors player during Rockets game",
+          "source": "HITC - Football, Gaming, Movies, TV, Music",
+          "link": "https://www.hitc.com/suspend-him-fans-cant-believe-marcus-smart-punched-a-warriors-player-during-rockets-game/",
+          "published": "2026-11-12T05:47:57Z"
+        },
+        {
+          "title": "Victor Wembanyama Carries Spurs To Comeback Win Over Bulls: 3 Takeaways From Competitive Battle",
           "source": "Fadeaway World",
-          "link": "https://fadeawayworld.net/nba-trade-rumors/sacramento-kings/domantas-sabonis-is-quietly-quitting-on-the-kings-amid-difficult-season",
-          "published": "2026-11-12T02:17:12Z"
+          "link": "https://fadeawayworld.net/nba/chicago-bulls/victor-wembanyama-carries-spurs-to-comeback-win-over-bulls-3-takeaways-from-competitive-battle",
+          "published": "2026-11-12T05:46:39Z"
         },
         {
-          "title": "\"I Apologize Like a Man\": Nick Young Responds to Stephen Curry Callout as Gilbert Arenas Finally Backs Down Over Ayesha Curry",
-          "source": "Essentially Sports",
-          "link": "https://www.essentiallysports.com/nba-legends-basketball-news-i-apologize-like-a-man-nick-young-responds-to-stephen-curry-callout-as-gilbert-arenas-finally-backs-down-over-ayesha-curry/",
-          "published": "2026-11-12T02:08:41Z"
-        },
-        {
-          "title": "NBA trade rumor: Warriors may bid farewell to multiple stars to welcome their long-time target Anthony Davis",
-          "source": "The Times of India",
-          "link": "https://timesofindia.indiatimes.com/sports/nba/top-stories/nba-trade-rumor-warriors-may-bid-farewell-to-multiple-stars-to-welcome-their-long-time-target-anthony-davis/articleshow/135752230.cms",
-          "published": "2026-11-12T02:08:16Z"
+          "title": "Shai Gilgeous-Alexander, OKC Thunder fall short vs Trail Blazers for second straight night",
+          "source": "Oklahoman.com",
+          "link": "https://www.oklahoman.com/story/sports/nba/thunder/2026/11/11/okc-thunder-score-vs-trail-blazers-nba-game-sga-jared-mccain-aday-mara-damian-lillard-stats/92736124007/",
+          "published": "2026-11-12T05:42:38Z"
         }
       ]
     },
@@ -1462,17 +879,17 @@
       "home_abbr": "SAS",
       "away_abbr": "GSW",
       "home_ml": "-750",
-      "away_ml": "+528",
+      "away_ml": "+530",
       "home_ml_raw": -750,
-      "away_ml_raw": 528,
-      "home_prob": 84.7,
-      "away_prob": 15.3,
-      "spread": "SAS -13.5",
+      "away_ml_raw": 530,
+      "home_prob": 84.8,
+      "away_prob": 15.2,
+      "spread": "SAS -12.5",
       "favorite": "San Antonio Spurs",
       "pick": "San Antonio Spurs",
       "pick_abbr": "SAS",
       "moneyline": "-750",
-      "win_probability": 84.7,
+      "win_probability": 84.8,
       "confidence": "HIGH",
       "confidence_stars": "\u2605\u2605\u2605",
       "commence_time": "2026-11-14T02:40:00Z",
@@ -1481,27 +898,27 @@
           "direction": "none",
           "points_moved": 0,
           "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "label": "No movement",
+          "old_ml": "-750",
+          "new_ml": "-750"
         },
         "away": {
-          "direction": "none",
-          "points_moved": 0,
+          "direction": "longer",
+          "points_moved": 2,
           "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "label": "\ud83d\udd34 +530 \u2190 +528",
+          "old_ml": "+528",
+          "new_ml": "+530"
         },
         "pick": {
           "direction": "none",
           "points_moved": 0,
           "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "label": "No movement",
+          "old_ml": "-750",
+          "new_ml": "-750"
         },
-        "snapshot_time": "\u2014"
+        "snapshot_time": "November 13, 2026 at 02:27 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -1528,7 +945,7 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udcca 69.4pt probability edge"
+        "\ud83d\udcca 69.6pt probability edge"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -1565,7 +982,7 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "San Antonio Spurs hold a 84.7% edge.",
+        "trend": "San Antonio Spurs hold a 84.8% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
         "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
@@ -1581,22 +998,22 @@
       },
       "news": [
         {
-          "title": "Domantas Sabonis Is \u201cQuietly Quitting\u201d On The Kings Amid Difficult Season",
+          "title": "\u2018Suspend him\u2019 \u2013 Fans can\u2019t believe Marcus Smart punched a Warriors player during Rockets game",
+          "source": "HITC - Football, Gaming, Movies, TV, Music",
+          "link": "https://www.hitc.com/suspend-him-fans-cant-believe-marcus-smart-punched-a-warriors-player-during-rockets-game/",
+          "published": "2026-11-12T05:47:57Z"
+        },
+        {
+          "title": "Victor Wembanyama Carries Spurs To Comeback Win Over Bulls: 3 Takeaways From Competitive Battle",
           "source": "Fadeaway World",
-          "link": "https://fadeawayworld.net/nba-trade-rumors/sacramento-kings/domantas-sabonis-is-quietly-quitting-on-the-kings-amid-difficult-season",
-          "published": "2026-11-12T02:17:12Z"
+          "link": "https://fadeawayworld.net/nba/chicago-bulls/victor-wembanyama-carries-spurs-to-comeback-win-over-bulls-3-takeaways-from-competitive-battle",
+          "published": "2026-11-12T05:46:39Z"
         },
         {
-          "title": "\"I Apologize Like a Man\": Nick Young Responds to Stephen Curry Callout as Gilbert Arenas Finally Backs Down Over Ayesha Curry",
-          "source": "Essentially Sports",
-          "link": "https://www.essentiallysports.com/nba-legends-basketball-news-i-apologize-like-a-man-nick-young-responds-to-stephen-curry-callout-as-gilbert-arenas-finally-backs-down-over-ayesha-curry/",
-          "published": "2026-11-12T02:08:41Z"
-        },
-        {
-          "title": "NBA trade rumor: Warriors may bid farewell to multiple stars to welcome their long-time target Anthony Davis",
-          "source": "The Times of India",
-          "link": "https://timesofindia.indiatimes.com/sports/nba/top-stories/nba-trade-rumor-warriors-may-bid-farewell-to-multiple-stars-to-welcome-their-long-time-target-anthony-davis/articleshow/135752230.cms",
-          "published": "2026-11-12T02:08:16Z"
+          "title": "Shai Gilgeous-Alexander, OKC Thunder fall short vs Trail Blazers for second straight night",
+          "source": "Oklahoman.com",
+          "link": "https://www.oklahoman.com/story/sports/nba/thunder/2026/11/11/okc-thunder-score-vs-trail-blazers-nba-game-sga-jared-mccain-aday-mara-damian-lillard-stats/92736124007/",
+          "published": "2026-11-12T05:42:38Z"
         }
       ]
     },
@@ -1606,47 +1023,47 @@
       "away_team": "Portland Trail Blazers",
       "home_abbr": "SAC",
       "away_abbr": "POR",
-      "home_ml": "+426",
-      "away_ml": "-569",
-      "home_ml_raw": 426,
-      "away_ml_raw": -569,
-      "home_prob": 18.3,
-      "away_prob": 81.7,
+      "home_ml": "+411",
+      "away_ml": "-546",
+      "home_ml_raw": 411,
+      "away_ml_raw": -546,
+      "home_prob": 18.8,
+      "away_prob": 81.2,
       "spread": "SAC +10.5",
       "favorite": "Portland Trail Blazers",
       "pick": "Portland Trail Blazers",
       "pick_abbr": "POR",
-      "moneyline": "-569",
-      "win_probability": 81.7,
+      "moneyline": "-546",
+      "win_probability": 81.2,
       "confidence": "HIGH",
       "confidence_stars": "\u2605\u2605\u2605",
       "commence_time": "2026-11-14T03:10:00Z",
       "line_movement": {
         "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "direction": "shorter",
+          "points_moved": 15,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM +411 \u2190 +426",
+          "old_ml": "+426",
+          "new_ml": "+411"
         },
         "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "direction": "longer",
+          "points_moved": 23,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -546 \u2190 -569",
+          "old_ml": "-569",
+          "new_ml": "-546"
         },
         "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "direction": "longer",
+          "points_moved": 23,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -546 \u2190 -569",
+          "old_ml": "-569",
+          "new_ml": "-546"
         },
-        "snapshot_time": "\u2014"
+        "snapshot_time": "November 13, 2026 at 02:27 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -1673,7 +1090,7 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udcca 63.4pt probability edge"
+        "\ud83d\udd25 Sharp steam detected"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -1710,9 +1127,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "Portland Trail Blazers hold a 81.7% edge.",
+        "trend": "Portland Trail Blazers hold a 81.2% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "steam": "Line steamed from -569 to -546 (23pt move) \u2014 heavy professional action on Portland Trail Blazers.",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -1726,22 +1143,22 @@
       },
       "news": [
         {
-          "title": "Domantas Sabonis Is \u201cQuietly Quitting\u201d On The Kings Amid Difficult Season",
+          "title": "\u2018Suspend him\u2019 \u2013 Fans can\u2019t believe Marcus Smart punched a Warriors player during Rockets game",
+          "source": "HITC - Football, Gaming, Movies, TV, Music",
+          "link": "https://www.hitc.com/suspend-him-fans-cant-believe-marcus-smart-punched-a-warriors-player-during-rockets-game/",
+          "published": "2026-11-12T05:47:57Z"
+        },
+        {
+          "title": "Victor Wembanyama Carries Spurs To Comeback Win Over Bulls: 3 Takeaways From Competitive Battle",
           "source": "Fadeaway World",
-          "link": "https://fadeawayworld.net/nba-trade-rumors/sacramento-kings/domantas-sabonis-is-quietly-quitting-on-the-kings-amid-difficult-season",
-          "published": "2026-11-12T02:17:12Z"
+          "link": "https://fadeawayworld.net/nba/chicago-bulls/victor-wembanyama-carries-spurs-to-comeback-win-over-bulls-3-takeaways-from-competitive-battle",
+          "published": "2026-11-12T05:46:39Z"
         },
         {
-          "title": "\"I Apologize Like a Man\": Nick Young Responds to Stephen Curry Callout as Gilbert Arenas Finally Backs Down Over Ayesha Curry",
-          "source": "Essentially Sports",
-          "link": "https://www.essentiallysports.com/nba-legends-basketball-news-i-apologize-like-a-man-nick-young-responds-to-stephen-curry-callout-as-gilbert-arenas-finally-backs-down-over-ayesha-curry/",
-          "published": "2026-11-12T02:08:41Z"
-        },
-        {
-          "title": "NBA trade rumor: Warriors may bid farewell to multiple stars to welcome their long-time target Anthony Davis",
-          "source": "The Times of India",
-          "link": "https://timesofindia.indiatimes.com/sports/nba/top-stories/nba-trade-rumor-warriors-may-bid-farewell-to-multiple-stars-to-welcome-their-long-time-target-anthony-davis/articleshow/135752230.cms",
-          "published": "2026-11-12T02:08:16Z"
+          "title": "Shai Gilgeous-Alexander, OKC Thunder fall short vs Trail Blazers for second straight night",
+          "source": "Oklahoman.com",
+          "link": "https://www.oklahoman.com/story/sports/nba/thunder/2026/11/11/okc-thunder-score-vs-trail-blazers-nba-game-sga-jared-mccain-aday-mara-damian-lillard-stats/92736124007/",
+          "published": "2026-11-12T05:42:38Z"
         }
       ]
     },
@@ -1751,47 +1168,47 @@
       "away_team": "Oklahoma City Thunder",
       "home_abbr": "LAC",
       "away_abbr": "OKC",
-      "home_ml": "+226",
-      "away_ml": "-276",
-      "home_ml_raw": 226,
-      "away_ml_raw": -276,
-      "home_prob": 29.5,
-      "away_prob": 70.5,
+      "home_ml": "+231",
+      "away_ml": "-283",
+      "home_ml_raw": 231,
+      "away_ml_raw": -283,
+      "home_prob": 29.0,
+      "away_prob": 71.0,
       "spread": "LAC +7.5",
       "favorite": "Oklahoma City Thunder",
       "pick": "Oklahoma City Thunder",
       "pick_abbr": "OKC",
-      "moneyline": "-276",
-      "win_probability": 70.5,
+      "moneyline": "-283",
+      "win_probability": 71.0,
       "confidence": "MEDIUM",
       "confidence_stars": "\u2605\u2605\u2606",
       "commence_time": "2026-11-14T03:40:00Z",
       "line_movement": {
         "home": {
-          "direction": "none",
-          "points_moved": 0,
+          "direction": "longer",
+          "points_moved": 5,
           "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "label": "\ud83d\udd34 +231 \u2190 +226",
+          "old_ml": "+226",
+          "new_ml": "+231"
         },
         "away": {
-          "direction": "none",
-          "points_moved": 0,
+          "direction": "shorter",
+          "points_moved": 7,
           "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "label": "\ud83d\udfe2 -283 \u2190 -276",
+          "old_ml": "-276",
+          "new_ml": "-283"
         },
         "pick": {
-          "direction": "none",
-          "points_moved": 0,
+          "direction": "shorter",
+          "points_moved": 7,
           "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "label": "\ud83d\udfe2 -283 \u2190 -276",
+          "old_ml": "-276",
+          "new_ml": "-283"
         },
-        "snapshot_time": "\u2014"
+        "snapshot_time": "November 13, 2026 at 02:27 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -1818,7 +1235,7 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udcca 41.0pt probability edge"
+        "\ud83d\udcca 42.0pt probability edge"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -1855,9 +1272,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "Oklahoma City Thunder hold a 70.5% edge.",
+        "trend": "Oklahoma City Thunder hold a 71.0% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "steam": "Line moved -276\u2192-283 (7pts). Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -1871,22 +1288,22 @@
       },
       "news": [
         {
-          "title": "Domantas Sabonis Is \u201cQuietly Quitting\u201d On The Kings Amid Difficult Season",
+          "title": "\u2018Suspend him\u2019 \u2013 Fans can\u2019t believe Marcus Smart punched a Warriors player during Rockets game",
+          "source": "HITC - Football, Gaming, Movies, TV, Music",
+          "link": "https://www.hitc.com/suspend-him-fans-cant-believe-marcus-smart-punched-a-warriors-player-during-rockets-game/",
+          "published": "2026-11-12T05:47:57Z"
+        },
+        {
+          "title": "Victor Wembanyama Carries Spurs To Comeback Win Over Bulls: 3 Takeaways From Competitive Battle",
           "source": "Fadeaway World",
-          "link": "https://fadeawayworld.net/nba-trade-rumors/sacramento-kings/domantas-sabonis-is-quietly-quitting-on-the-kings-amid-difficult-season",
-          "published": "2026-11-12T02:17:12Z"
+          "link": "https://fadeawayworld.net/nba/chicago-bulls/victor-wembanyama-carries-spurs-to-comeback-win-over-bulls-3-takeaways-from-competitive-battle",
+          "published": "2026-11-12T05:46:39Z"
         },
         {
-          "title": "\"I Apologize Like a Man\": Nick Young Responds to Stephen Curry Callout as Gilbert Arenas Finally Backs Down Over Ayesha Curry",
-          "source": "Essentially Sports",
-          "link": "https://www.essentiallysports.com/nba-legends-basketball-news-i-apologize-like-a-man-nick-young-responds-to-stephen-curry-callout-as-gilbert-arenas-finally-backs-down-over-ayesha-curry/",
-          "published": "2026-11-12T02:08:41Z"
-        },
-        {
-          "title": "NBA trade rumor: Warriors may bid farewell to multiple stars to welcome their long-time target Anthony Davis",
-          "source": "The Times of India",
-          "link": "https://timesofindia.indiatimes.com/sports/nba/top-stories/nba-trade-rumor-warriors-may-bid-farewell-to-multiple-stars-to-welcome-their-long-time-target-anthony-davis/articleshow/135752230.cms",
-          "published": "2026-11-12T02:08:16Z"
+          "title": "Shai Gilgeous-Alexander, OKC Thunder fall short vs Trail Blazers for second straight night",
+          "source": "Oklahoman.com",
+          "link": "https://www.oklahoman.com/story/sports/nba/thunder/2026/11/11/okc-thunder-score-vs-trail-blazers-nba-game-sga-jared-mccain-aday-mara-damian-lillard-stats/92736124007/",
+          "published": "2026-11-12T05:42:38Z"
         }
       ]
     },
@@ -1936,7 +1353,7 @@
           "old_ml": "\u2014",
           "new_ml": "\u2014"
         },
-        "snapshot_time": "November 12, 2026 at 06:41 PM UTC"
+        "snapshot_time": "November 13, 2026 at 02:27 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -2016,22 +1433,22 @@
       },
       "news": [
         {
-          "title": "Domantas Sabonis Is \u201cQuietly Quitting\u201d On The Kings Amid Difficult Season",
+          "title": "\u2018Suspend him\u2019 \u2013 Fans can\u2019t believe Marcus Smart punched a Warriors player during Rockets game",
+          "source": "HITC - Football, Gaming, Movies, TV, Music",
+          "link": "https://www.hitc.com/suspend-him-fans-cant-believe-marcus-smart-punched-a-warriors-player-during-rockets-game/",
+          "published": "2026-11-12T05:47:57Z"
+        },
+        {
+          "title": "Victor Wembanyama Carries Spurs To Comeback Win Over Bulls: 3 Takeaways From Competitive Battle",
           "source": "Fadeaway World",
-          "link": "https://fadeawayworld.net/nba-trade-rumors/sacramento-kings/domantas-sabonis-is-quietly-quitting-on-the-kings-amid-difficult-season",
-          "published": "2026-11-12T02:17:12Z"
+          "link": "https://fadeawayworld.net/nba/chicago-bulls/victor-wembanyama-carries-spurs-to-comeback-win-over-bulls-3-takeaways-from-competitive-battle",
+          "published": "2026-11-12T05:46:39Z"
         },
         {
-          "title": "\"I Apologize Like a Man\": Nick Young Responds to Stephen Curry Callout as Gilbert Arenas Finally Backs Down Over Ayesha Curry",
-          "source": "Essentially Sports",
-          "link": "https://www.essentiallysports.com/nba-legends-basketball-news-i-apologize-like-a-man-nick-young-responds-to-stephen-curry-callout-as-gilbert-arenas-finally-backs-down-over-ayesha-curry/",
-          "published": "2026-11-12T02:08:41Z"
-        },
-        {
-          "title": "NBA trade rumor: Warriors may bid farewell to multiple stars to welcome their long-time target Anthony Davis",
-          "source": "The Times of India",
-          "link": "https://timesofindia.indiatimes.com/sports/nba/top-stories/nba-trade-rumor-warriors-may-bid-farewell-to-multiple-stars-to-welcome-their-long-time-target-anthony-davis/articleshow/135752230.cms",
-          "published": "2026-11-12T02:08:16Z"
+          "title": "Shai Gilgeous-Alexander, OKC Thunder fall short vs Trail Blazers for second straight night",
+          "source": "Oklahoman.com",
+          "link": "https://www.oklahoman.com/story/sports/nba/thunder/2026/11/11/okc-thunder-score-vs-trail-blazers-nba-game-sga-jared-mccain-aday-mara-damian-lillard-stats/92736124007/",
+          "published": "2026-11-12T05:42:38Z"
         }
       ]
     },
@@ -2081,7 +1498,7 @@
           "old_ml": "\u2014",
           "new_ml": "\u2014"
         },
-        "snapshot_time": "November 12, 2026 at 06:41 PM UTC"
+        "snapshot_time": "November 13, 2026 at 02:27 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -2161,22 +1578,22 @@
       },
       "news": [
         {
-          "title": "Domantas Sabonis Is \u201cQuietly Quitting\u201d On The Kings Amid Difficult Season",
+          "title": "\u2018Suspend him\u2019 \u2013 Fans can\u2019t believe Marcus Smart punched a Warriors player during Rockets game",
+          "source": "HITC - Football, Gaming, Movies, TV, Music",
+          "link": "https://www.hitc.com/suspend-him-fans-cant-believe-marcus-smart-punched-a-warriors-player-during-rockets-game/",
+          "published": "2026-11-12T05:47:57Z"
+        },
+        {
+          "title": "Victor Wembanyama Carries Spurs To Comeback Win Over Bulls: 3 Takeaways From Competitive Battle",
           "source": "Fadeaway World",
-          "link": "https://fadeawayworld.net/nba-trade-rumors/sacramento-kings/domantas-sabonis-is-quietly-quitting-on-the-kings-amid-difficult-season",
-          "published": "2026-11-12T02:17:12Z"
+          "link": "https://fadeawayworld.net/nba/chicago-bulls/victor-wembanyama-carries-spurs-to-comeback-win-over-bulls-3-takeaways-from-competitive-battle",
+          "published": "2026-11-12T05:46:39Z"
         },
         {
-          "title": "\"I Apologize Like a Man\": Nick Young Responds to Stephen Curry Callout as Gilbert Arenas Finally Backs Down Over Ayesha Curry",
-          "source": "Essentially Sports",
-          "link": "https://www.essentiallysports.com/nba-legends-basketball-news-i-apologize-like-a-man-nick-young-responds-to-stephen-curry-callout-as-gilbert-arenas-finally-backs-down-over-ayesha-curry/",
-          "published": "2026-11-12T02:08:41Z"
-        },
-        {
-          "title": "NBA trade rumor: Warriors may bid farewell to multiple stars to welcome their long-time target Anthony Davis",
-          "source": "The Times of India",
-          "link": "https://timesofindia.indiatimes.com/sports/nba/top-stories/nba-trade-rumor-warriors-may-bid-farewell-to-multiple-stars-to-welcome-their-long-time-target-anthony-davis/articleshow/135752230.cms",
-          "published": "2026-11-12T02:08:16Z"
+          "title": "Shai Gilgeous-Alexander, OKC Thunder fall short vs Trail Blazers for second straight night",
+          "source": "Oklahoman.com",
+          "link": "https://www.oklahoman.com/story/sports/nba/thunder/2026/11/11/okc-thunder-score-vs-trail-blazers-nba-game-sga-jared-mccain-aday-mara-damian-lillard-stats/92736124007/",
+          "published": "2026-11-12T05:42:38Z"
         }
       ]
     },
@@ -2226,7 +1643,7 @@
           "old_ml": "\u2014",
           "new_ml": "\u2014"
         },
-        "snapshot_time": "November 12, 2026 at 06:41 PM UTC"
+        "snapshot_time": "November 13, 2026 at 02:27 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -2306,22 +1723,22 @@
       },
       "news": [
         {
-          "title": "Domantas Sabonis Is \u201cQuietly Quitting\u201d On The Kings Amid Difficult Season",
+          "title": "\u2018Suspend him\u2019 \u2013 Fans can\u2019t believe Marcus Smart punched a Warriors player during Rockets game",
+          "source": "HITC - Football, Gaming, Movies, TV, Music",
+          "link": "https://www.hitc.com/suspend-him-fans-cant-believe-marcus-smart-punched-a-warriors-player-during-rockets-game/",
+          "published": "2026-11-12T05:47:57Z"
+        },
+        {
+          "title": "Victor Wembanyama Carries Spurs To Comeback Win Over Bulls: 3 Takeaways From Competitive Battle",
           "source": "Fadeaway World",
-          "link": "https://fadeawayworld.net/nba-trade-rumors/sacramento-kings/domantas-sabonis-is-quietly-quitting-on-the-kings-amid-difficult-season",
-          "published": "2026-11-12T02:17:12Z"
+          "link": "https://fadeawayworld.net/nba/chicago-bulls/victor-wembanyama-carries-spurs-to-comeback-win-over-bulls-3-takeaways-from-competitive-battle",
+          "published": "2026-11-12T05:46:39Z"
         },
         {
-          "title": "\"I Apologize Like a Man\": Nick Young Responds to Stephen Curry Callout as Gilbert Arenas Finally Backs Down Over Ayesha Curry",
-          "source": "Essentially Sports",
-          "link": "https://www.essentiallysports.com/nba-legends-basketball-news-i-apologize-like-a-man-nick-young-responds-to-stephen-curry-callout-as-gilbert-arenas-finally-backs-down-over-ayesha-curry/",
-          "published": "2026-11-12T02:08:41Z"
-        },
-        {
-          "title": "NBA trade rumor: Warriors may bid farewell to multiple stars to welcome their long-time target Anthony Davis",
-          "source": "The Times of India",
-          "link": "https://timesofindia.indiatimes.com/sports/nba/top-stories/nba-trade-rumor-warriors-may-bid-farewell-to-multiple-stars-to-welcome-their-long-time-target-anthony-davis/articleshow/135752230.cms",
-          "published": "2026-11-12T02:08:16Z"
+          "title": "Shai Gilgeous-Alexander, OKC Thunder fall short vs Trail Blazers for second straight night",
+          "source": "Oklahoman.com",
+          "link": "https://www.oklahoman.com/story/sports/nba/thunder/2026/11/11/okc-thunder-score-vs-trail-blazers-nba-game-sga-jared-mccain-aday-mara-damian-lillard-stats/92736124007/",
+          "published": "2026-11-12T05:42:38Z"
         }
       ]
     },
@@ -2371,7 +1788,7 @@
           "old_ml": "\u2014",
           "new_ml": "\u2014"
         },
-        "snapshot_time": "November 12, 2026 at 06:41 PM UTC"
+        "snapshot_time": "November 13, 2026 at 02:27 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -2451,22 +1868,22 @@
       },
       "news": [
         {
-          "title": "Domantas Sabonis Is \u201cQuietly Quitting\u201d On The Kings Amid Difficult Season",
+          "title": "\u2018Suspend him\u2019 \u2013 Fans can\u2019t believe Marcus Smart punched a Warriors player during Rockets game",
+          "source": "HITC - Football, Gaming, Movies, TV, Music",
+          "link": "https://www.hitc.com/suspend-him-fans-cant-believe-marcus-smart-punched-a-warriors-player-during-rockets-game/",
+          "published": "2026-11-12T05:47:57Z"
+        },
+        {
+          "title": "Victor Wembanyama Carries Spurs To Comeback Win Over Bulls: 3 Takeaways From Competitive Battle",
           "source": "Fadeaway World",
-          "link": "https://fadeawayworld.net/nba-trade-rumors/sacramento-kings/domantas-sabonis-is-quietly-quitting-on-the-kings-amid-difficult-season",
-          "published": "2026-11-12T02:17:12Z"
+          "link": "https://fadeawayworld.net/nba/chicago-bulls/victor-wembanyama-carries-spurs-to-comeback-win-over-bulls-3-takeaways-from-competitive-battle",
+          "published": "2026-11-12T05:46:39Z"
         },
         {
-          "title": "\"I Apologize Like a Man\": Nick Young Responds to Stephen Curry Callout as Gilbert Arenas Finally Backs Down Over Ayesha Curry",
-          "source": "Essentially Sports",
-          "link": "https://www.essentiallysports.com/nba-legends-basketball-news-i-apologize-like-a-man-nick-young-responds-to-stephen-curry-callout-as-gilbert-arenas-finally-backs-down-over-ayesha-curry/",
-          "published": "2026-11-12T02:08:41Z"
-        },
-        {
-          "title": "NBA trade rumor: Warriors may bid farewell to multiple stars to welcome their long-time target Anthony Davis",
-          "source": "The Times of India",
-          "link": "https://timesofindia.indiatimes.com/sports/nba/top-stories/nba-trade-rumor-warriors-may-bid-farewell-to-multiple-stars-to-welcome-their-long-time-target-anthony-davis/articleshow/135752230.cms",
-          "published": "2026-11-12T02:08:16Z"
+          "title": "Shai Gilgeous-Alexander, OKC Thunder fall short vs Trail Blazers for second straight night",
+          "source": "Oklahoman.com",
+          "link": "https://www.oklahoman.com/story/sports/nba/thunder/2026/11/11/okc-thunder-score-vs-trail-blazers-nba-game-sga-jared-mccain-aday-mara-damian-lillard-stats/92736124007/",
+          "published": "2026-11-12T05:42:38Z"
         }
       ]
     }
@@ -2481,36 +1898,36 @@
       "profit": -43.03
     },
     "MEDIUM": {
-      "wins": 48,
+      "wins": 50,
       "losses": 18,
-      "total": 66,
-      "win_pct": 72.7,
-      "roi": 9.1,
-      "profit": 603.1
+      "total": 68,
+      "win_pct": 73.5,
+      "roi": 10.2,
+      "profit": 694.12
     },
     "HIGH": {
-      "wins": 37,
+      "wins": 39,
       "losses": 6,
-      "total": 43,
-      "win_pct": 86.0,
-      "roi": 3.1,
-      "profit": 133.41
+      "total": 45,
+      "win_pct": 86.7,
+      "roi": 4.1,
+      "profit": 184.9
     },
     "overall_7d": {
-      "wins": 35,
+      "wins": 32,
       "losses": 8,
-      "total": 43,
-      "win_pct": 81.4,
-      "roi": 14.9,
-      "profit": 640.85
+      "total": 40,
+      "win_pct": 80.0,
+      "roi": 12.5,
+      "profit": 501.8
     },
     "overall_30d": {
-      "wins": 97,
+      "wins": 101,
       "losses": 37,
-      "total": 134,
-      "win_pct": 72.4,
-      "roi": 3.7,
-      "profit": 501.18
+      "total": 138,
+      "win_pct": 73.2,
+      "roi": 4.7,
+      "profit": 643.69
     }
   }
 }
