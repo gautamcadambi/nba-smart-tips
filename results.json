@@ -2480,9 +2480,11 @@
       "win_probability": 70.5,
       "commence_time": "2026-11-14T03:40:00Z",
       "date": "2026-11-13T02:27:05.250406+00:00",
-      "graded": false,
-      "result": null,
-      "profit": null
+      "graded": true,
+      "result": "LOSS",
+      "profit": -100,
+      "home_score": 113,
+      "away_score": 112
     },
     {
       "game": "Dallas Mavericks @ Cleveland Cavaliers",
@@ -2538,11 +2540,11 @@
     },
     "MEDIUM": {
       "wins": 51,
-      "losses": 20,
-      "total": 71,
-      "win_pct": 71.8,
-      "roi": 7.9,
-      "profit": 557.41
+      "losses": 21,
+      "total": 72,
+      "win_pct": 70.8,
+      "roi": 6.4,
+      "profit": 457.41
     },
     "HIGH": {
       "wins": 42,
@@ -2554,20 +2556,20 @@
     },
     "overall_7d": {
       "wins": 31,
-      "losses": 10,
-      "total": 41,
-      "win_pct": 75.6,
-      "roi": 3.4,
-      "profit": 138.68
+      "losses": 11,
+      "total": 42,
+      "win_pct": 73.8,
+      "roi": 0.9,
+      "profit": 38.68
     },
     "overall_30d": {
       "wins": 106,
-      "losses": 39,
-      "total": 145,
-      "win_pct": 73.1,
-      "roi": 4.4,
-      "profit": 634.46
+      "losses": 40,
+      "total": 146,
+      "win_pct": 72.6,
+      "roi": 3.7,
+      "profit": 534.46
     }
   },
-  "last_graded": "2026-11-14T05:40:11.952623+00:00"
+  "last_graded": "2026-11-14T12:31:20.606075+00:00"
 }
