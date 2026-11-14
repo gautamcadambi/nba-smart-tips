@@ -1,492 +1,54 @@
 {
-  "last_updated": "November 14, 2026 at 01:59 AM UTC",
-  "total_games": 9,
+  "last_updated": "November 14, 2026 at 05:40 AM UTC",
+  "total_games": 7,
   "games": [
     {
-      "game": "Milwaukee Bucks @ Orlando Magic",
-      "home_team": "Orlando Magic",
-      "away_team": "Milwaukee Bucks",
-      "home_abbr": "ORL",
-      "away_abbr": "MIL",
-      "home_ml": "-5000",
-      "away_ml": "+1800",
-      "home_ml_raw": -5000,
-      "away_ml_raw": 1800,
-      "home_prob": 94.9,
-      "away_prob": 5.1,
-      "spread": "ORL -11.5",
-      "favorite": "Orlando Magic",
-      "pick": "Orlando Magic",
-      "pick_abbr": "ORL",
-      "moneyline": "-5000",
-      "win_probability": 94.9,
-      "confidence": "HIGH",
-      "confidence_stars": "\u2605\u2605\u2605",
-      "commence_time": "2026-11-14T00:11:00Z",
-      "line_movement": {
-        "home": {
-          "direction": "shorter",
-          "points_moved": 4605,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -5000 \u2190 -395",
-          "old_ml": "-395",
-          "new_ml": "-5000"
-        },
-        "away": {
-          "direction": "longer",
-          "points_moved": 1488,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM +1800 \u2190 +312",
-          "old_ml": "+312",
-          "new_ml": "+1800"
-        },
-        "pick": {
-          "direction": "shorter",
-          "points_moved": 4605,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -5000 \u2190 -395",
-          "old_ml": "-395",
-          "new_ml": "-5000"
-        },
-        "snapshot_time": "November 13, 2026 at 06:23 PM UTC"
-      },
-      "fatigue": {
-        "home": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
-          "last_game": "Nov 13",
-          "days_rest": 1,
-          "games_last_4d": 3,
-          "travel_miles": 2391,
-          "travel_desc": "2,391 mi road trip",
-          "source": "ESPN Scoreboard API"
-        },
-        "away": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
-          "last_game": "Nov 13",
-          "days_rest": 1,
-          "games_last_4d": 3,
-          "travel_miles": 1066,
-          "travel_desc": "1,066 mi road trip",
-          "source": "ESPN Scoreboard API"
-        }
-      },
-      "edge_factors": [
-        "\ud83d\udd25 Sharp steam detected",
-        "\ud83d\udca4 MIL fatigued (B2B) \u2014 source: ESPN"
-      ],
-      "injury_notes": "No key injuries.",
-      "sharp": {
-        "away_t": null,
-        "home_t": null,
-        "source": null,
-        "sharp_signal": null,
-        "sharp_label": "Pending \u2014 check closer to tip-off",
-        "rlm": false
-      },
-      "form": {
-        "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        },
-        "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        }
-      },
-      "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
-      },
-      "briefing": {
-        "trend": "ORL on Back-to-Back \u26a0\ufe0f per ESPN schedule data. MIL on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -395 to -5000 (4605pt move) \u2014 heavy professional action on Orlando Magic.",
-        "injury_notes": "No key injuries."
-      },
-      "live": {
-        "status": "pre",
-        "status_detail": "Upcoming",
-        "period": 0,
-        "clock": "",
-        "home_score": 0,
-        "away_score": 0,
-        "spread_alert": null
-      },
-      "news": [
-        {
-          "title": "Why Isn\u2019t LeBron James Playing Tonight? What to Know About 76ers Injury",
-          "source": "Heavy.com",
-          "link": "https://heavy.com/sports/nba/philadelphia-76ers/why-isnt-lebron-james-playing-tonight-what-know-76ers-injury/",
-          "published": "2026-11-13T01:58:45Z"
-        },
-        {
-          "title": "Shai Gilgeous-Alexander ranks his top three Drake albums",
-          "source": "ClutchPoints",
-          "link": "https://clutchpoints.com/celebrity/shai-gilgeous-alexander-ranks-his-top-three-drake-albums",
-          "published": "2026-11-13T01:53:40Z"
-        },
-        {
-          "title": "Hornets Projected Be Sellers This Year After Poor Start, Naz Reid Among Players Who May Be on Move What Could They Receive in Return",
-          "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/articles/hornets-projected-sellers-poor-start-014403174.html",
-          "published": "2026-11-13T01:44:03Z"
-        }
-      ]
-    },
-    {
-      "game": "New York Knicks @ Indiana Pacers",
-      "home_team": "Indiana Pacers",
-      "away_team": "New York Knicks",
-      "home_abbr": "IND",
-      "away_abbr": "NYK",
-      "home_ml": "+110",
-      "away_ml": "-145",
-      "home_ml_raw": 110,
-      "away_ml_raw": -145,
-      "home_prob": 44.6,
-      "away_prob": 55.4,
-      "spread": "IND +1.5",
-      "favorite": "New York Knicks",
-      "pick": "New York Knicks",
-      "pick_abbr": "NYK",
-      "moneyline": "-145",
-      "win_probability": 55.4,
-      "confidence": "LOW",
-      "confidence_stars": "\u2605\u2606\u2606",
-      "commence_time": "2026-11-14T00:13:00Z",
-      "line_movement": {
-        "home": {
-          "direction": "shorter",
-          "points_moved": 161,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM +110 \u2190 +271",
-          "old_ml": "+271",
-          "new_ml": "+110"
-        },
-        "away": {
-          "direction": "longer",
-          "points_moved": 192,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -145 \u2190 -337",
-          "old_ml": "-337",
-          "new_ml": "-145"
-        },
-        "pick": {
-          "direction": "longer",
-          "points_moved": 192,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -145 \u2190 -337",
-          "old_ml": "-337",
-          "new_ml": "-145"
-        },
-        "snapshot_time": "November 13, 2026 at 06:23 PM UTC"
-      },
-      "fatigue": {
-        "home": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
-          "last_game": "Nov 13",
-          "days_rest": 1,
-          "games_last_4d": 2,
-          "travel_miles": 0,
-          "travel_desc": "",
-          "source": "ESPN Scoreboard API"
-        },
-        "away": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
-          "last_game": "Nov 13",
-          "days_rest": 1,
-          "games_last_4d": 3,
-          "travel_miles": 644,
-          "travel_desc": "644 mi road trip",
-          "source": "ESPN Scoreboard API"
-        }
-      },
-      "edge_factors": [
-        "\ud83d\udd25 Sharp steam detected",
-        "\ud83d\udca4 IND fatigued (B2B) \u2014 source: ESPN"
-      ],
-      "injury_notes": "No key injuries.",
-      "sharp": {
-        "away_t": null,
-        "home_t": null,
-        "source": null,
-        "sharp_signal": null,
-        "sharp_label": "Pending \u2014 check closer to tip-off",
-        "rlm": false
-      },
-      "form": {
-        "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        },
-        "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        }
-      },
-      "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
-      },
-      "briefing": {
-        "trend": "IND on Back-to-Back \u26a0\ufe0f per ESPN schedule data. NYK on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -337 to -145 (192pt move) \u2014 heavy professional action on New York Knicks.",
-        "injury_notes": "No key injuries."
-      },
-      "live": {
-        "status": "pre",
-        "status_detail": "Upcoming",
-        "period": 0,
-        "clock": "",
-        "home_score": 0,
-        "away_score": 0,
-        "spread_alert": null
-      },
-      "news": [
-        {
-          "title": "Why Isn\u2019t LeBron James Playing Tonight? What to Know About 76ers Injury",
-          "source": "Heavy.com",
-          "link": "https://heavy.com/sports/nba/philadelphia-76ers/why-isnt-lebron-james-playing-tonight-what-know-76ers-injury/",
-          "published": "2026-11-13T01:58:45Z"
-        },
-        {
-          "title": "Shai Gilgeous-Alexander ranks his top three Drake albums",
-          "source": "ClutchPoints",
-          "link": "https://clutchpoints.com/celebrity/shai-gilgeous-alexander-ranks-his-top-three-drake-albums",
-          "published": "2026-11-13T01:53:40Z"
-        },
-        {
-          "title": "Hornets Projected Be Sellers This Year After Poor Start, Naz Reid Among Players Who May Be on Move What Could They Receive in Return",
-          "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/articles/hornets-projected-sellers-poor-start-014403174.html",
-          "published": "2026-11-13T01:44:03Z"
-        }
-      ]
-    },
-    {
-      "game": "Cleveland Cavaliers @ Miami Heat",
-      "home_team": "Miami Heat",
-      "away_team": "Cleveland Cavaliers",
-      "home_abbr": "MIA",
-      "away_abbr": "CLE",
-      "home_ml": "+145",
-      "away_ml": "-190",
-      "home_ml_raw": 145,
-      "away_ml_raw": -190,
-      "home_prob": 38.4,
-      "away_prob": 61.6,
-      "spread": "MIA +4.5",
-      "favorite": "Cleveland Cavaliers",
-      "pick": "Cleveland Cavaliers",
-      "pick_abbr": "CLE",
-      "moneyline": "-190",
-      "win_probability": 61.6,
-      "confidence": "MEDIUM",
-      "confidence_stars": "\u2605\u2605\u2606",
-      "commence_time": "2026-11-14T01:10:00Z",
-      "line_movement": {
-        "home": {
-          "direction": "longer",
-          "points_moved": 280,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM +145 \u2190 -135",
-          "old_ml": "-135",
-          "new_ml": "+145"
-        },
-        "away": {
-          "direction": "shorter",
-          "points_moved": 304,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -190 \u2190 +114",
-          "old_ml": "+114",
-          "new_ml": "-190"
-        },
-        "pick": {
-          "direction": "shorter",
-          "points_moved": 304,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -190 \u2190 +114",
-          "old_ml": "+114",
-          "new_ml": "-190"
-        },
-        "snapshot_time": "November 13, 2026 at 06:23 PM UTC"
-      },
-      "fatigue": {
-        "home": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
-          "last_game": "Nov 13",
-          "days_rest": 1,
-          "games_last_4d": 2,
-          "travel_miles": 0,
-          "travel_desc": "",
-          "source": "ESPN Scoreboard API"
-        },
-        "away": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
-          "last_game": "Nov 13",
-          "days_rest": 1,
-          "games_last_4d": 2,
-          "travel_miles": 1089,
-          "travel_desc": "1,089 mi road trip",
-          "source": "ESPN Scoreboard API"
-        }
-      },
-      "edge_factors": [
-        "\ud83d\udd25 Sharp steam detected",
-        "\ud83d\udca4 MIA fatigued (B2B) \u2014 source: ESPN"
-      ],
-      "injury_notes": "No key injuries.",
-      "sharp": {
-        "away_t": null,
-        "home_t": null,
-        "source": null,
-        "sharp_signal": null,
-        "sharp_label": "Pending \u2014 check closer to tip-off",
-        "rlm": false
-      },
-      "form": {
-        "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        },
-        "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        }
-      },
-      "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
-      },
-      "briefing": {
-        "trend": "MIA on Back-to-Back \u26a0\ufe0f per ESPN schedule data. CLE on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from +114 to -190 (304pt move) \u2014 heavy professional action on Cleveland Cavaliers.",
-        "injury_notes": "No key injuries."
-      },
-      "live": {
-        "status": "pre",
-        "status_detail": "Upcoming",
-        "period": 0,
-        "clock": "",
-        "home_score": 0,
-        "away_score": 0,
-        "spread_alert": null
-      },
-      "news": [
-        {
-          "title": "Why Isn\u2019t LeBron James Playing Tonight? What to Know About 76ers Injury",
-          "source": "Heavy.com",
-          "link": "https://heavy.com/sports/nba/philadelphia-76ers/why-isnt-lebron-james-playing-tonight-what-know-76ers-injury/",
-          "published": "2026-11-13T01:58:45Z"
-        },
-        {
-          "title": "Shai Gilgeous-Alexander ranks his top three Drake albums",
-          "source": "ClutchPoints",
-          "link": "https://clutchpoints.com/celebrity/shai-gilgeous-alexander-ranks-his-top-three-drake-albums",
-          "published": "2026-11-13T01:53:40Z"
-        },
-        {
-          "title": "Hornets Projected Be Sellers This Year After Poor Start, Naz Reid Among Players Who May Be on Move What Could They Receive in Return",
-          "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/articles/hornets-projected-sellers-poor-start-014403174.html",
-          "published": "2026-11-13T01:44:03Z"
-        }
-      ]
-    },
-    {
-      "game": "Atlanta Hawks @ Chicago Bulls",
-      "home_team": "Chicago Bulls",
-      "away_team": "Atlanta Hawks",
-      "home_abbr": "CHI",
-      "away_abbr": "ATL",
-      "home_ml": "-115",
-      "away_ml": "-115",
-      "home_ml_raw": -115,
-      "away_ml_raw": -115,
+      "game": "Portland Trail Blazers @ Sacramento Kings",
+      "home_team": "Sacramento Kings",
+      "away_team": "Portland Trail Blazers",
+      "home_abbr": "SAC",
+      "away_abbr": "POR",
+      "home_ml": "N/A",
+      "away_ml": "N/A",
+      "home_ml_raw": null,
+      "away_ml_raw": null,
       "home_prob": 50.0,
       "away_prob": 50.0,
-      "spread": "CHI +1.5",
-      "favorite": "Chicago Bulls",
-      "pick": "Chicago Bulls",
-      "pick_abbr": "CHI",
-      "moneyline": "-115",
+      "spread": "SAC +13.5",
+      "favorite": "Sacramento Kings",
+      "pick": "Sacramento Kings",
+      "pick_abbr": "SAC",
+      "moneyline": "N/A",
       "win_probability": 50.0,
       "confidence": "LOW",
       "confidence_stars": "\u2605\u2606\u2606",
-      "commence_time": "2026-11-14T01:11:00Z",
+      "commence_time": "2026-11-14T03:11:00Z",
       "line_movement": {
         "home": {
-          "direction": "shorter",
-          "points_moved": 351,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -115 \u2190 +236",
-          "old_ml": "+236",
-          "new_ml": "-115"
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
         },
         "away": {
-          "direction": "longer",
-          "points_moved": 175,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -115 \u2190 -290",
-          "old_ml": "-290",
-          "new_ml": "-115"
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
         },
         "pick": {
-          "direction": "shorter",
-          "points_moved": 351,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -115 \u2190 +236",
-          "old_ml": "+236",
-          "new_ml": "-115"
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
         },
-        "snapshot_time": "November 13, 2026 at 06:23 PM UTC"
+        "snapshot_time": "November 14, 2026 at 01:59 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -506,15 +68,14 @@
           "battery": 20,
           "last_game": "Nov 13",
           "days_rest": 1,
-          "games_last_4d": 1,
-          "travel_miles": 589,
-          "travel_desc": "589 mi road trip",
+          "games_last_4d": 3,
+          "travel_miles": 484,
+          "travel_desc": "484 mi road trip",
           "source": "ESPN Scoreboard API"
         }
       },
       "edge_factors": [
-        "\ud83d\udd25 Sharp steam detected",
-        "\ud83d\udca4 ATL fatigued (B2B) \u2014 source: ESPN"
+        "\ud83d\udca4 POR fatigued (B2B) \u2014 source: ESPN"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -551,9 +112,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "CHI on Back-to-Back \u26a0\ufe0f per ESPN schedule data. ATL on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "trend": "SAC on Back-to-Back \u26a0\ufe0f per ESPN schedule data. POR on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from +236 to -115 (351pt move) \u2014 heavy professional action on Chicago Bulls.",
+        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -567,72 +128,218 @@
       },
       "news": [
         {
-          "title": "Why Isn\u2019t LeBron James Playing Tonight? What to Know About 76ers Injury",
-          "source": "Heavy.com",
-          "link": "https://heavy.com/sports/nba/philadelphia-76ers/why-isnt-lebron-james-playing-tonight-what-know-76ers-injury/",
-          "published": "2026-11-13T01:58:45Z"
-        },
-        {
-          "title": "Shai Gilgeous-Alexander ranks his top three Drake albums",
+          "title": "Mavericks\u2019 Dusty May makes \u2018painfully obvious\u2019 LaMelo Ball admission after getting torched by Timberwolves",
           "source": "ClutchPoints",
-          "link": "https://clutchpoints.com/celebrity/shai-gilgeous-alexander-ranks-his-top-three-drake-albums",
-          "published": "2026-11-13T01:53:40Z"
+          "link": "https://clutchpoints.com/nba/dallas-mavericks/mavericks-news-dusty-may-makes-lamelo-ball-admission-torched-timberwolves-loss",
+          "published": "2026-11-13T05:39:14Z"
         },
         {
-          "title": "Hornets Projected Be Sellers This Year After Poor Start, Naz Reid Among Players Who May Be on Move What Could They Receive in Return",
-          "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/articles/hornets-projected-sellers-poor-start-014403174.html",
-          "published": "2026-11-13T01:44:03Z"
+          "title": "Wolves 133, Mavericks 94: You Like That?",
+          "source": "Canis Hoopus",
+          "link": "https://www.canishoopus.com/timberwolves-scores-results/71684/game-recap-minnesota-timberwolves-dallas-mavericks-lamelo-ball",
+          "published": "2026-11-13T05:35:15Z"
+        },
+        {
+          "title": "The 100th Macy's Thanksgiving Day Parade Returns Live on NBC and Peacock Nov. 26, Bringing Holiday Magic to Life for Millions?",
+          "source": "Thefutoncritic.com",
+          "link": "http://www.thefutoncritic.com/news/2026/11/13/the-100th-macys-thanksgiving-day-parade-returns-live-on-nbc-and-peacock-nov-26-bringing-holiday-magic-to-life-for-millions?-194010/20261113nbc01/",
+          "published": "2026-11-13T05:31:00Z"
         }
       ]
     },
     {
-      "game": "Memphis Grizzlies @ New Orleans Pelicans",
-      "home_team": "New Orleans Pelicans",
-      "away_team": "Memphis Grizzlies",
-      "home_abbr": "NOP",
-      "away_abbr": "MEM",
-      "home_ml": "+160",
-      "away_ml": "-215",
-      "home_ml_raw": 160,
-      "away_ml_raw": -215,
-      "home_prob": 36.0,
-      "away_prob": 64.0,
-      "spread": "NOP +4.5",
-      "favorite": "Memphis Grizzlies",
-      "pick": "Memphis Grizzlies",
-      "pick_abbr": "MEM",
-      "moneyline": "-215",
-      "win_probability": 64.0,
+      "game": "Oklahoma City Thunder @ Los Angeles Clippers",
+      "home_team": "Los Angeles Clippers",
+      "away_team": "Oklahoma City Thunder",
+      "home_abbr": "LAC",
+      "away_abbr": "OKC",
+      "home_ml": "+180",
+      "away_ml": "-245",
+      "home_ml_raw": 180,
+      "away_ml_raw": -245,
+      "home_prob": 33.5,
+      "away_prob": 66.5,
+      "spread": "LAC +4.5",
+      "favorite": "Oklahoma City Thunder",
+      "pick": "Oklahoma City Thunder",
+      "pick_abbr": "OKC",
+      "moneyline": "-245",
+      "win_probability": 66.5,
       "confidence": "MEDIUM",
       "confidence_stars": "\u2605\u2605\u2606",
-      "commence_time": "2026-11-14T01:11:00Z",
+      "commence_time": "2026-11-14T03:40:00Z",
       "line_movement": {
         "home": {
-          "direction": "longer",
-          "points_moved": 24,
+          "direction": "shorter",
+          "points_moved": 51,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM +160 \u2190 +136",
-          "old_ml": "+136",
-          "new_ml": "+160"
+          "label": "\ud83d\udd25 STEAM +180 \u2190 +231",
+          "old_ml": "+231",
+          "new_ml": "+180"
         },
         "away": {
-          "direction": "shorter",
-          "points_moved": 53,
+          "direction": "longer",
+          "points_moved": 38,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM -215 \u2190 -162",
-          "old_ml": "-162",
-          "new_ml": "-215"
+          "label": "\ud83d\udd25 STEAM -245 \u2190 -283",
+          "old_ml": "-283",
+          "new_ml": "-245"
         },
         "pick": {
-          "direction": "shorter",
-          "points_moved": 53,
+          "direction": "longer",
+          "points_moved": 38,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM -215 \u2190 -162",
-          "old_ml": "-162",
-          "new_ml": "-215"
+          "label": "\ud83d\udd25 STEAM -245 \u2190 -283",
+          "old_ml": "-283",
+          "new_ml": "-245"
         },
-        "snapshot_time": "November 13, 2026 at 06:23 PM UTC"
+        "snapshot_time": "November 14, 2026 at 01:59 AM UTC"
+      },
+      "fatigue": {
+        "home": {
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Nov 13",
+          "days_rest": 1,
+          "games_last_4d": 2,
+          "travel_miles": 358,
+          "travel_desc": "358 mi road trip",
+          "source": "ESPN Scoreboard API"
+        },
+        "away": {
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Nov 13",
+          "days_rest": 1,
+          "games_last_4d": 3,
+          "travel_miles": 1180,
+          "travel_desc": "1,180 mi road trip",
+          "source": "ESPN Scoreboard API"
+        }
+      },
+      "edge_factors": [
+        "\ud83d\udd25 Sharp steam detected",
+        "\ud83d\udca4 LAC fatigued (B2B) \u2014 source: ESPN"
+      ],
+      "injury_notes": "No key injuries.",
+      "sharp": {
+        "away_t": null,
+        "home_t": null,
+        "source": null,
+        "sharp_signal": null,
+        "sharp_label": "Pending \u2014 check closer to tip-off",
+        "rlm": false
+      },
+      "form": {
+        "home": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        },
+        "away": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        }
+      },
+      "h2h": {
+        "total_meetings": 0,
+        "home_wins": 0,
+        "away_wins": 0,
+        "meetings": [],
+        "source": "\u2014"
+      },
+      "briefing": {
+        "trend": "LAC on Back-to-Back \u26a0\ufe0f per ESPN schedule data. OKC on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "matchup": "Both rosters appear healthy \u2014 clean line.",
+        "steam": "Line steamed from -283 to -245 (38pt move) \u2014 heavy professional action on Oklahoma City Thunder.",
+        "injury_notes": "No key injuries."
+      },
+      "live": {
+        "status": "pre",
+        "status_detail": "Upcoming",
+        "period": 0,
+        "clock": "",
+        "home_score": 0,
+        "away_score": 0,
+        "spread_alert": null
+      },
+      "news": [
+        {
+          "title": "Mavericks\u2019 Dusty May makes \u2018painfully obvious\u2019 LaMelo Ball admission after getting torched by Timberwolves",
+          "source": "ClutchPoints",
+          "link": "https://clutchpoints.com/nba/dallas-mavericks/mavericks-news-dusty-may-makes-lamelo-ball-admission-torched-timberwolves-loss",
+          "published": "2026-11-13T05:39:14Z"
+        },
+        {
+          "title": "Wolves 133, Mavericks 94: You Like That?",
+          "source": "Canis Hoopus",
+          "link": "https://www.canishoopus.com/timberwolves-scores-results/71684/game-recap-minnesota-timberwolves-dallas-mavericks-lamelo-ball",
+          "published": "2026-11-13T05:35:15Z"
+        },
+        {
+          "title": "The 100th Macy's Thanksgiving Day Parade Returns Live on NBC and Peacock Nov. 26, Bringing Holiday Magic to Life for Millions?",
+          "source": "Thefutoncritic.com",
+          "link": "http://www.thefutoncritic.com/news/2026/11/13/the-100th-macys-thanksgiving-day-parade-returns-live-on-nbc-and-peacock-nov-26-bringing-holiday-magic-to-life-for-millions?-194010/20261113nbc01/",
+          "published": "2026-11-13T05:31:00Z"
+        }
+      ]
+    },
+    {
+      "game": "Denver Nuggets @ New Orleans Pelicans",
+      "home_team": "New Orleans Pelicans",
+      "away_team": "Denver Nuggets",
+      "home_abbr": "NOP",
+      "away_abbr": "DEN",
+      "home_ml": "+417",
+      "away_ml": "-556",
+      "home_ml_raw": 417,
+      "away_ml_raw": -556,
+      "home_prob": 18.6,
+      "away_prob": 81.4,
+      "spread": "NOP +10.5",
+      "favorite": "Denver Nuggets",
+      "pick": "Denver Nuggets",
+      "pick_abbr": "DEN",
+      "moneyline": "-556",
+      "win_probability": 81.4,
+      "confidence": "HIGH",
+      "confidence_stars": "\u2605\u2605\u2605",
+      "commence_time": "2026-11-15T00:10:00Z",
+      "line_movement": {
+        "home": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "away": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "pick": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "snapshot_time": "\u2014"
       },
       "fatigue": {
         "home": {
@@ -647,19 +354,18 @@
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
-          "last_game": "Nov 13",
-          "days_rest": 1,
-          "games_last_4d": 2,
-          "travel_miles": 359,
-          "travel_desc": "359 mi road trip",
+          "status": "RESTED",
+          "label": "2 days rest \u2705",
+          "battery": 88,
+          "last_game": "Nov 11",
+          "days_rest": 3,
+          "games_last_4d": 1,
+          "travel_miles": 879,
+          "travel_desc": "879 mi road trip",
           "source": "ESPN Scoreboard API"
         }
       },
       "edge_factors": [
-        "\ud83d\udd25 Sharp steam detected",
         "\ud83d\udca4 NOP fatigued (B2B) \u2014 source: ESPN"
       ],
       "injury_notes": "No key injuries.",
@@ -697,9 +403,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "NOP on Back-to-Back \u26a0\ufe0f per ESPN schedule data. MEM on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "trend": "NOP on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -162 to -215 (53pt move) \u2014 heavy professional action on Memphis Grizzlies.",
+        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -713,72 +419,507 @@
       },
       "news": [
         {
-          "title": "Why Isn\u2019t LeBron James Playing Tonight? What to Know About 76ers Injury",
-          "source": "Heavy.com",
-          "link": "https://heavy.com/sports/nba/philadelphia-76ers/why-isnt-lebron-james-playing-tonight-what-know-76ers-injury/",
-          "published": "2026-11-13T01:58:45Z"
-        },
-        {
-          "title": "Shai Gilgeous-Alexander ranks his top three Drake albums",
+          "title": "Mavericks\u2019 Dusty May makes \u2018painfully obvious\u2019 LaMelo Ball admission after getting torched by Timberwolves",
           "source": "ClutchPoints",
-          "link": "https://clutchpoints.com/celebrity/shai-gilgeous-alexander-ranks-his-top-three-drake-albums",
-          "published": "2026-11-13T01:53:40Z"
+          "link": "https://clutchpoints.com/nba/dallas-mavericks/mavericks-news-dusty-may-makes-lamelo-ball-admission-torched-timberwolves-loss",
+          "published": "2026-11-13T05:39:14Z"
         },
         {
-          "title": "Hornets Projected Be Sellers This Year After Poor Start, Naz Reid Among Players Who May Be on Move What Could They Receive in Return",
-          "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/articles/hornets-projected-sellers-poor-start-014403174.html",
-          "published": "2026-11-13T01:44:03Z"
+          "title": "Wolves 133, Mavericks 94: You Like That?",
+          "source": "Canis Hoopus",
+          "link": "https://www.canishoopus.com/timberwolves-scores-results/71684/game-recap-minnesota-timberwolves-dallas-mavericks-lamelo-ball",
+          "published": "2026-11-13T05:35:15Z"
+        },
+        {
+          "title": "The 100th Macy's Thanksgiving Day Parade Returns Live on NBC and Peacock Nov. 26, Bringing Holiday Magic to Life for Millions?",
+          "source": "Thefutoncritic.com",
+          "link": "http://www.thefutoncritic.com/news/2026/11/13/the-100th-macys-thanksgiving-day-parade-returns-live-on-nbc-and-peacock-nov-26-bringing-holiday-magic-to-life-for-millions?-194010/20261113nbc01/",
+          "published": "2026-11-13T05:31:00Z"
         }
       ]
     },
     {
-      "game": "Utah Jazz @ Houston Rockets",
-      "home_team": "Houston Rockets",
-      "away_team": "Utah Jazz",
-      "home_abbr": "HOU",
-      "away_abbr": "UTA",
-      "home_ml": "-1600",
-      "away_ml": "+850",
-      "home_ml_raw": -1600,
-      "away_ml_raw": 850,
-      "home_prob": 89.9,
-      "away_prob": 10.1,
-      "spread": "HOU -16.5",
-      "favorite": "Houston Rockets",
-      "pick": "Houston Rockets",
-      "pick_abbr": "HOU",
-      "moneyline": "-1600",
-      "win_probability": 89.9,
-      "confidence": "HIGH",
-      "confidence_stars": "\u2605\u2605\u2605",
-      "commence_time": "2026-11-14T01:42:00Z",
+      "game": "Dallas Mavericks @ Cleveland Cavaliers",
+      "home_team": "Cleveland Cavaliers",
+      "away_team": "Dallas Mavericks",
+      "home_abbr": "CLE",
+      "away_abbr": "DAL",
+      "home_ml": "-140",
+      "away_ml": "+118",
+      "home_ml_raw": -140,
+      "away_ml_raw": 118,
+      "home_prob": 56.0,
+      "away_prob": 44.0,
+      "spread": "CLE -3.5",
+      "favorite": "Cleveland Cavaliers",
+      "pick": "Cleveland Cavaliers",
+      "pick_abbr": "CLE",
+      "moneyline": "-140",
+      "win_probability": 56.0,
+      "confidence": "LOW",
+      "confidence_stars": "\u2605\u2606\u2606",
+      "commence_time": "2026-11-15T00:40:00Z",
       "line_movement": {
         "home": {
-          "direction": "shorter",
-          "points_moved": 260,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -1600 \u2190 -1340",
-          "old_ml": "-1340",
-          "new_ml": "-1600"
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
         },
         "away": {
-          "direction": "longer",
-          "points_moved": 40,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM +850 \u2190 +810",
-          "old_ml": "+810",
-          "new_ml": "+850"
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
         },
         "pick": {
-          "direction": "shorter",
-          "points_moved": 260,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -1600 \u2190 -1340",
-          "old_ml": "-1340",
-          "new_ml": "-1600"
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
         },
-        "snapshot_time": "November 13, 2026 at 06:23 PM UTC"
+        "snapshot_time": "\u2014"
+      },
+      "fatigue": {
+        "home": {
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Nov 13",
+          "days_rest": 1,
+          "games_last_4d": 2,
+          "travel_miles": 1089,
+          "travel_desc": "1,089 mi road trip",
+          "source": "ESPN Scoreboard API"
+        },
+        "away": {
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
+          "last_game": "Nov 12",
+          "days_rest": 2,
+          "games_last_4d": 1,
+          "travel_miles": 863,
+          "travel_desc": "863 mi road trip",
+          "source": "ESPN Scoreboard API"
+        }
+      },
+      "edge_factors": [
+        "\ud83d\udcca 12.0pt probability edge"
+      ],
+      "injury_notes": "No key injuries.",
+      "sharp": {
+        "away_t": null,
+        "home_t": null,
+        "source": null,
+        "sharp_signal": null,
+        "sharp_label": "Pending \u2014 check closer to tip-off",
+        "rlm": false
+      },
+      "form": {
+        "home": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        },
+        "away": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        }
+      },
+      "h2h": {
+        "total_meetings": 0,
+        "home_wins": 0,
+        "away_wins": 0,
+        "meetings": [],
+        "source": "\u2014"
+      },
+      "briefing": {
+        "trend": "CLE on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "matchup": "Both rosters appear healthy \u2014 clean line.",
+        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "injury_notes": "No key injuries."
+      },
+      "live": {
+        "status": "pre",
+        "status_detail": "Upcoming",
+        "period": 0,
+        "clock": "",
+        "home_score": 0,
+        "away_score": 0,
+        "spread_alert": null
+      },
+      "news": [
+        {
+          "title": "Mavericks\u2019 Dusty May makes \u2018painfully obvious\u2019 LaMelo Ball admission after getting torched by Timberwolves",
+          "source": "ClutchPoints",
+          "link": "https://clutchpoints.com/nba/dallas-mavericks/mavericks-news-dusty-may-makes-lamelo-ball-admission-torched-timberwolves-loss",
+          "published": "2026-11-13T05:39:14Z"
+        },
+        {
+          "title": "Wolves 133, Mavericks 94: You Like That?",
+          "source": "Canis Hoopus",
+          "link": "https://www.canishoopus.com/timberwolves-scores-results/71684/game-recap-minnesota-timberwolves-dallas-mavericks-lamelo-ball",
+          "published": "2026-11-13T05:35:15Z"
+        },
+        {
+          "title": "The 100th Macy's Thanksgiving Day Parade Returns Live on NBC and Peacock Nov. 26, Bringing Holiday Magic to Life for Millions?",
+          "source": "Thefutoncritic.com",
+          "link": "http://www.thefutoncritic.com/news/2026/11/13/the-100th-macys-thanksgiving-day-parade-returns-live-on-nbc-and-peacock-nov-26-bringing-holiday-magic-to-life-for-millions?-194010/20261113nbc01/",
+          "published": "2026-11-13T05:31:00Z"
+        }
+      ]
+    },
+    {
+      "game": "Brooklyn Nets @ Memphis Grizzlies",
+      "home_team": "Memphis Grizzlies",
+      "away_team": "Brooklyn Nets",
+      "home_abbr": "MEM",
+      "away_abbr": "BKN",
+      "home_ml": "-195",
+      "away_ml": "+163",
+      "home_ml_raw": -195,
+      "away_ml_raw": 163,
+      "home_prob": 63.5,
+      "away_prob": 36.5,
+      "spread": "MEM -5.5",
+      "favorite": "Memphis Grizzlies",
+      "pick": "Memphis Grizzlies",
+      "pick_abbr": "MEM",
+      "moneyline": "-195",
+      "win_probability": 63.5,
+      "confidence": "MEDIUM",
+      "confidence_stars": "\u2605\u2605\u2606",
+      "commence_time": "2026-11-15T01:10:00Z",
+      "line_movement": {
+        "home": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "away": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "pick": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "snapshot_time": "\u2014"
+      },
+      "fatigue": {
+        "home": {
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Nov 13",
+          "days_rest": 1,
+          "games_last_4d": 2,
+          "travel_miles": 359,
+          "travel_desc": "359 mi road trip",
+          "source": "ESPN Scoreboard API"
+        },
+        "away": {
+          "status": "RESTED",
+          "label": "2 days rest \u2705",
+          "battery": 88,
+          "last_game": "Nov 11",
+          "days_rest": 3,
+          "games_last_4d": 1,
+          "travel_miles": 1169,
+          "travel_desc": "1,169 mi road trip",
+          "source": "ESPN Scoreboard API"
+        }
+      },
+      "edge_factors": [
+        "\ud83d\udcca 27.0pt probability edge"
+      ],
+      "injury_notes": "No key injuries.",
+      "sharp": {
+        "away_t": null,
+        "home_t": null,
+        "source": null,
+        "sharp_signal": null,
+        "sharp_label": "Pending \u2014 check closer to tip-off",
+        "rlm": false
+      },
+      "form": {
+        "home": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        },
+        "away": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        }
+      },
+      "h2h": {
+        "total_meetings": 0,
+        "home_wins": 0,
+        "away_wins": 0,
+        "meetings": [],
+        "source": "\u2014"
+      },
+      "briefing": {
+        "trend": "MEM on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "matchup": "Both rosters appear healthy \u2014 clean line.",
+        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "injury_notes": "No key injuries."
+      },
+      "live": {
+        "status": "pre",
+        "status_detail": "Upcoming",
+        "period": 0,
+        "clock": "",
+        "home_score": 0,
+        "away_score": 0,
+        "spread_alert": null
+      },
+      "news": [
+        {
+          "title": "Mavericks\u2019 Dusty May makes \u2018painfully obvious\u2019 LaMelo Ball admission after getting torched by Timberwolves",
+          "source": "ClutchPoints",
+          "link": "https://clutchpoints.com/nba/dallas-mavericks/mavericks-news-dusty-may-makes-lamelo-ball-admission-torched-timberwolves-loss",
+          "published": "2026-11-13T05:39:14Z"
+        },
+        {
+          "title": "Wolves 133, Mavericks 94: You Like That?",
+          "source": "Canis Hoopus",
+          "link": "https://www.canishoopus.com/timberwolves-scores-results/71684/game-recap-minnesota-timberwolves-dallas-mavericks-lamelo-ball",
+          "published": "2026-11-13T05:35:15Z"
+        },
+        {
+          "title": "The 100th Macy's Thanksgiving Day Parade Returns Live on NBC and Peacock Nov. 26, Bringing Holiday Magic to Life for Millions?",
+          "source": "Thefutoncritic.com",
+          "link": "http://www.thefutoncritic.com/news/2026/11/13/the-100th-macys-thanksgiving-day-parade-returns-live-on-nbc-and-peacock-nov-26-bringing-holiday-magic-to-life-for-millions?-194010/20261113nbc01/",
+          "published": "2026-11-13T05:31:00Z"
+        }
+      ]
+    },
+    {
+      "game": "Chicago Bulls @ Minnesota Timberwolves",
+      "home_team": "Minnesota Timberwolves",
+      "away_team": "Chicago Bulls",
+      "home_abbr": "MIN",
+      "away_abbr": "CHI",
+      "home_ml": "N/A",
+      "away_ml": "N/A",
+      "home_ml_raw": null,
+      "away_ml_raw": null,
+      "home_prob": 50.0,
+      "away_prob": 50.0,
+      "spread": "N/A",
+      "favorite": "Minnesota Timberwolves",
+      "pick": "Minnesota Timberwolves",
+      "pick_abbr": "MIN",
+      "moneyline": "N/A",
+      "win_probability": 50.0,
+      "confidence": "LOW",
+      "confidence_stars": "\u2605\u2606\u2606",
+      "commence_time": "2026-11-15T01:10:00Z",
+      "line_movement": {
+        "home": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "away": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "pick": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "snapshot_time": "\u2014"
+      },
+      "fatigue": {
+        "home": {
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
+          "last_game": "Nov 12",
+          "days_rest": 2,
+          "games_last_4d": 1,
+          "travel_miles": 0,
+          "travel_desc": "",
+          "source": "ESPN Scoreboard API"
+        },
+        "away": {
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Nov 13",
+          "days_rest": 1,
+          "games_last_4d": 2,
+          "travel_miles": 0,
+          "travel_desc": "",
+          "source": "ESPN Scoreboard API"
+        }
+      },
+      "edge_factors": [
+        "\ud83d\udca4 CHI fatigued (B2B) \u2014 source: ESPN"
+      ],
+      "injury_notes": "No key injuries.",
+      "sharp": {
+        "away_t": null,
+        "home_t": null,
+        "source": null,
+        "sharp_signal": null,
+        "sharp_label": "Pending \u2014 check closer to tip-off",
+        "rlm": false
+      },
+      "form": {
+        "home": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        },
+        "away": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        }
+      },
+      "h2h": {
+        "total_meetings": 0,
+        "home_wins": 0,
+        "away_wins": 0,
+        "meetings": [],
+        "source": "\u2014"
+      },
+      "briefing": {
+        "trend": "CHI on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "matchup": "Both rosters appear healthy \u2014 clean line.",
+        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "injury_notes": "No key injuries."
+      },
+      "live": {
+        "status": "pre",
+        "status_detail": "Upcoming",
+        "period": 0,
+        "clock": "",
+        "home_score": 0,
+        "away_score": 0,
+        "spread_alert": null
+      },
+      "news": [
+        {
+          "title": "Mavericks\u2019 Dusty May makes \u2018painfully obvious\u2019 LaMelo Ball admission after getting torched by Timberwolves",
+          "source": "ClutchPoints",
+          "link": "https://clutchpoints.com/nba/dallas-mavericks/mavericks-news-dusty-may-makes-lamelo-ball-admission-torched-timberwolves-loss",
+          "published": "2026-11-13T05:39:14Z"
+        },
+        {
+          "title": "Wolves 133, Mavericks 94: You Like That?",
+          "source": "Canis Hoopus",
+          "link": "https://www.canishoopus.com/timberwolves-scores-results/71684/game-recap-minnesota-timberwolves-dallas-mavericks-lamelo-ball",
+          "published": "2026-11-13T05:35:15Z"
+        },
+        {
+          "title": "The 100th Macy's Thanksgiving Day Parade Returns Live on NBC and Peacock Nov. 26, Bringing Holiday Magic to Life for Millions?",
+          "source": "Thefutoncritic.com",
+          "link": "http://www.thefutoncritic.com/news/2026/11/13/the-100th-macys-thanksgiving-day-parade-returns-live-on-nbc-and-peacock-nov-26-bringing-holiday-magic-to-life-for-millions?-194010/20261113nbc01/",
+          "published": "2026-11-13T05:31:00Z"
+        }
+      ]
+    },
+    {
+      "game": "Detroit Pistons @ Miami Heat",
+      "home_team": "Miami Heat",
+      "away_team": "Detroit Pistons",
+      "home_abbr": "MIA",
+      "away_abbr": "DET",
+      "home_ml": "+152",
+      "away_ml": "-181",
+      "home_ml_raw": 152,
+      "away_ml_raw": -181,
+      "home_prob": 38.1,
+      "away_prob": 61.9,
+      "spread": "MIA +5.5",
+      "favorite": "Detroit Pistons",
+      "pick": "Detroit Pistons",
+      "pick_abbr": "DET",
+      "moneyline": "-181",
+      "win_probability": 61.9,
+      "confidence": "MEDIUM",
+      "confidence_stars": "\u2605\u2605\u2606",
+      "commence_time": "2026-11-15T01:10:00Z",
+      "line_movement": {
+        "home": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "away": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "pick": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "snapshot_time": "\u2014"
       },
       "fatigue": {
         "home": {
@@ -793,19 +934,19 @@
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "FRESH",
-          "label": "Well rested \u2705",
-          "battery": 100,
-          "last_game": "\u2014",
-          "days_rest": 99,
-          "games_last_4d": 0,
-          "travel_miles": 0,
-          "travel_desc": "",
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
+          "last_game": "Nov 12",
+          "days_rest": 2,
+          "games_last_4d": 1,
+          "travel_miles": 396,
+          "travel_desc": "396 mi road trip",
           "source": "ESPN Scoreboard API"
         }
       },
       "edge_factors": [
-        "\ud83d\udd25 Sharp steam detected"
+        "\ud83d\udca4 MIA fatigued (B2B) \u2014 source: ESPN"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -842,297 +983,7 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "HOU on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -1340 to -1600 (260pt move) \u2014 heavy professional action on Houston Rockets.",
-        "injury_notes": "No key injuries."
-      },
-      "live": {
-        "status": "pre",
-        "status_detail": "Upcoming",
-        "period": 0,
-        "clock": "",
-        "home_score": 0,
-        "away_score": 0,
-        "spread_alert": null
-      },
-      "news": [
-        {
-          "title": "Why Isn\u2019t LeBron James Playing Tonight? What to Know About 76ers Injury",
-          "source": "Heavy.com",
-          "link": "https://heavy.com/sports/nba/philadelphia-76ers/why-isnt-lebron-james-playing-tonight-what-know-76ers-injury/",
-          "published": "2026-11-13T01:58:45Z"
-        },
-        {
-          "title": "Shai Gilgeous-Alexander ranks his top three Drake albums",
-          "source": "ClutchPoints",
-          "link": "https://clutchpoints.com/celebrity/shai-gilgeous-alexander-ranks-his-top-three-drake-albums",
-          "published": "2026-11-13T01:53:40Z"
-        },
-        {
-          "title": "Hornets Projected Be Sellers This Year After Poor Start, Naz Reid Among Players Who May Be on Move What Could They Receive in Return",
-          "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/articles/hornets-projected-sellers-poor-start-014403174.html",
-          "published": "2026-11-13T01:44:03Z"
-        }
-      ]
-    },
-    {
-      "game": "Golden State Warriors @ San Antonio Spurs",
-      "home_team": "San Antonio Spurs",
-      "away_team": "Golden State Warriors",
-      "home_abbr": "SAS",
-      "away_abbr": "GSW",
-      "home_ml": "-700",
-      "away_ml": "+501",
-      "home_ml_raw": -700,
-      "away_ml_raw": 501,
-      "home_prob": 84.0,
-      "away_prob": 16.0,
-      "spread": "SAS -12.5",
-      "favorite": "San Antonio Spurs",
-      "pick": "San Antonio Spurs",
-      "pick_abbr": "SAS",
-      "moneyline": "-700",
-      "win_probability": 84.0,
-      "confidence": "HIGH",
-      "confidence_stars": "\u2605\u2605\u2605",
-      "commence_time": "2026-11-14T02:40:00Z",
-      "line_movement": {
-        "home": {
-          "direction": "shorter",
-          "points_moved": 30,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -700 \u2190 -670",
-          "old_ml": "-670",
-          "new_ml": "-700"
-        },
-        "away": {
-          "direction": "longer",
-          "points_moved": 14,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM +501 \u2190 +487",
-          "old_ml": "+487",
-          "new_ml": "+501"
-        },
-        "pick": {
-          "direction": "shorter",
-          "points_moved": 30,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -700 \u2190 -670",
-          "old_ml": "-670",
-          "new_ml": "-700"
-        },
-        "snapshot_time": "November 13, 2026 at 06:23 PM UTC"
-      },
-      "fatigue": {
-        "home": {
-          "status": "RESTED",
-          "label": "2 days rest \u2705",
-          "battery": 88,
-          "last_game": "Nov 11",
-          "days_rest": 3,
-          "games_last_4d": 1,
-          "travel_miles": 1050,
-          "travel_desc": "1,050 mi road trip",
-          "source": "ESPN Scoreboard API"
-        },
-        "away": {
-          "status": "RESTED",
-          "label": "2 days rest \u2705",
-          "battery": 88,
-          "last_game": "Nov 11",
-          "days_rest": 3,
-          "games_last_4d": 1,
-          "travel_miles": 1641,
-          "travel_desc": "1,641 mi road trip",
-          "source": "ESPN Scoreboard API"
-        }
-      },
-      "edge_factors": [
-        "\ud83d\udd25 Sharp steam detected"
-      ],
-      "injury_notes": "No key injuries.",
-      "sharp": {
-        "away_t": null,
-        "home_t": null,
-        "source": null,
-        "sharp_signal": null,
-        "sharp_label": "Pending \u2014 check closer to tip-off",
-        "rlm": false
-      },
-      "form": {
-        "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        },
-        "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        }
-      },
-      "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
-      },
-      "briefing": {
-        "trend": "San Antonio Spurs hold a 84.0% edge.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -670 to -700 (30pt move) \u2014 heavy professional action on San Antonio Spurs.",
-        "injury_notes": "No key injuries."
-      },
-      "live": {
-        "status": "pre",
-        "status_detail": "Upcoming",
-        "period": 0,
-        "clock": "",
-        "home_score": 0,
-        "away_score": 0,
-        "spread_alert": null
-      },
-      "news": [
-        {
-          "title": "Why Isn\u2019t LeBron James Playing Tonight? What to Know About 76ers Injury",
-          "source": "Heavy.com",
-          "link": "https://heavy.com/sports/nba/philadelphia-76ers/why-isnt-lebron-james-playing-tonight-what-know-76ers-injury/",
-          "published": "2026-11-13T01:58:45Z"
-        },
-        {
-          "title": "Shai Gilgeous-Alexander ranks his top three Drake albums",
-          "source": "ClutchPoints",
-          "link": "https://clutchpoints.com/celebrity/shai-gilgeous-alexander-ranks-his-top-three-drake-albums",
-          "published": "2026-11-13T01:53:40Z"
-        },
-        {
-          "title": "Hornets Projected Be Sellers This Year After Poor Start, Naz Reid Among Players Who May Be on Move What Could They Receive in Return",
-          "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/articles/hornets-projected-sellers-poor-start-014403174.html",
-          "published": "2026-11-13T01:44:03Z"
-        }
-      ]
-    },
-    {
-      "game": "Portland Trail Blazers @ Sacramento Kings",
-      "home_team": "Sacramento Kings",
-      "away_team": "Portland Trail Blazers",
-      "home_abbr": "SAC",
-      "away_abbr": "POR",
-      "home_ml": "+361",
-      "away_ml": "-468",
-      "home_ml_raw": 361,
-      "away_ml_raw": -468,
-      "home_prob": 20.8,
-      "away_prob": 79.2,
-      "spread": "SAC +10.5",
-      "favorite": "Portland Trail Blazers",
-      "pick": "Portland Trail Blazers",
-      "pick_abbr": "POR",
-      "moneyline": "-468",
-      "win_probability": 79.2,
-      "confidence": "HIGH",
-      "confidence_stars": "\u2605\u2605\u2605",
-      "commence_time": "2026-11-14T03:10:00Z",
-      "line_movement": {
-        "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
-          "old_ml": "+361",
-          "new_ml": "+361"
-        },
-        "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
-          "old_ml": "-468",
-          "new_ml": "-468"
-        },
-        "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
-          "old_ml": "-468",
-          "new_ml": "-468"
-        },
-        "snapshot_time": "November 13, 2026 at 06:23 PM UTC"
-      },
-      "fatigue": {
-        "home": {
-          "status": "FRESH",
-          "label": "Well rested \u2705",
-          "battery": 100,
-          "last_game": "Nov 10",
-          "days_rest": 4,
-          "games_last_4d": 1,
-          "travel_miles": 0,
-          "travel_desc": "",
-          "source": "ESPN Scoreboard API"
-        },
-        "away": {
-          "status": "RESTED",
-          "label": "2 days rest \u2705",
-          "battery": 88,
-          "last_game": "Nov 11",
-          "days_rest": 3,
-          "games_last_4d": 2,
-          "travel_miles": 0,
-          "travel_desc": "",
-          "source": "ESPN Scoreboard API"
-        }
-      },
-      "edge_factors": [
-        "\ud83d\udcca 58.4pt probability edge"
-      ],
-      "injury_notes": "No key injuries.",
-      "sharp": {
-        "away_t": null,
-        "home_t": null,
-        "source": null,
-        "sharp_signal": null,
-        "sharp_label": "Pending \u2014 check closer to tip-off",
-        "rlm": false
-      },
-      "form": {
-        "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        },
-        "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        }
-      },
-      "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
-      },
-      "briefing": {
-        "trend": "Portland Trail Blazers hold a 79.2% edge.",
+        "trend": "MIA on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
         "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
@@ -1148,211 +999,66 @@
       },
       "news": [
         {
-          "title": "Why Isn\u2019t LeBron James Playing Tonight? What to Know About 76ers Injury",
-          "source": "Heavy.com",
-          "link": "https://heavy.com/sports/nba/philadelphia-76ers/why-isnt-lebron-james-playing-tonight-what-know-76ers-injury/",
-          "published": "2026-11-13T01:58:45Z"
-        },
-        {
-          "title": "Shai Gilgeous-Alexander ranks his top three Drake albums",
+          "title": "Mavericks\u2019 Dusty May makes \u2018painfully obvious\u2019 LaMelo Ball admission after getting torched by Timberwolves",
           "source": "ClutchPoints",
-          "link": "https://clutchpoints.com/celebrity/shai-gilgeous-alexander-ranks-his-top-three-drake-albums",
-          "published": "2026-11-13T01:53:40Z"
+          "link": "https://clutchpoints.com/nba/dallas-mavericks/mavericks-news-dusty-may-makes-lamelo-ball-admission-torched-timberwolves-loss",
+          "published": "2026-11-13T05:39:14Z"
         },
         {
-          "title": "Hornets Projected Be Sellers This Year After Poor Start, Naz Reid Among Players Who May Be on Move What Could They Receive in Return",
-          "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/articles/hornets-projected-sellers-poor-start-014403174.html",
-          "published": "2026-11-13T01:44:03Z"
-        }
-      ]
-    },
-    {
-      "game": "Oklahoma City Thunder @ Los Angeles Clippers",
-      "home_team": "Los Angeles Clippers",
-      "away_team": "Oklahoma City Thunder",
-      "home_abbr": "LAC",
-      "away_abbr": "OKC",
-      "home_ml": "+231",
-      "away_ml": "-283",
-      "home_ml_raw": 231,
-      "away_ml_raw": -283,
-      "home_prob": 29.0,
-      "away_prob": 71.0,
-      "spread": "LAC +7.5",
-      "favorite": "Oklahoma City Thunder",
-      "pick": "Oklahoma City Thunder",
-      "pick_abbr": "OKC",
-      "moneyline": "-283",
-      "win_probability": 71.0,
-      "confidence": "MEDIUM",
-      "confidence_stars": "\u2605\u2605\u2606",
-      "commence_time": "2026-11-14T03:40:00Z",
-      "line_movement": {
-        "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
-          "old_ml": "+231",
-          "new_ml": "+231"
-        },
-        "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
-          "old_ml": "-283",
-          "new_ml": "-283"
-        },
-        "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
-          "old_ml": "-283",
-          "new_ml": "-283"
-        },
-        "snapshot_time": "November 13, 2026 at 06:23 PM UTC"
-      },
-      "fatigue": {
-        "home": {
-          "status": "FRESH",
-          "label": "Well rested \u2705",
-          "battery": 100,
-          "last_game": "Nov 10",
-          "days_rest": 4,
-          "games_last_4d": 1,
-          "travel_miles": 358,
-          "travel_desc": "358 mi road trip",
-          "source": "ESPN Scoreboard API"
-        },
-        "away": {
-          "status": "RESTED",
-          "label": "2 days rest \u2705",
-          "battery": 88,
-          "last_game": "Nov 11",
-          "days_rest": 3,
-          "games_last_4d": 2,
-          "travel_miles": 1485,
-          "travel_desc": "1,485 mi road trip",
-          "source": "ESPN Scoreboard API"
-        }
-      },
-      "edge_factors": [
-        "\ud83d\udcca 42.0pt probability edge"
-      ],
-      "injury_notes": "No key injuries.",
-      "sharp": {
-        "away_t": null,
-        "home_t": null,
-        "source": null,
-        "sharp_signal": null,
-        "sharp_label": "Pending \u2014 check closer to tip-off",
-        "rlm": false
-      },
-      "form": {
-        "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        },
-        "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        }
-      },
-      "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
-      },
-      "briefing": {
-        "trend": "Oklahoma City Thunder hold a 71.0% edge.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
-        "injury_notes": "No key injuries."
-      },
-      "live": {
-        "status": "pre",
-        "status_detail": "Upcoming",
-        "period": 0,
-        "clock": "",
-        "home_score": 0,
-        "away_score": 0,
-        "spread_alert": null
-      },
-      "news": [
-        {
-          "title": "Why Isn\u2019t LeBron James Playing Tonight? What to Know About 76ers Injury",
-          "source": "Heavy.com",
-          "link": "https://heavy.com/sports/nba/philadelphia-76ers/why-isnt-lebron-james-playing-tonight-what-know-76ers-injury/",
-          "published": "2026-11-13T01:58:45Z"
+          "title": "Wolves 133, Mavericks 94: You Like That?",
+          "source": "Canis Hoopus",
+          "link": "https://www.canishoopus.com/timberwolves-scores-results/71684/game-recap-minnesota-timberwolves-dallas-mavericks-lamelo-ball",
+          "published": "2026-11-13T05:35:15Z"
         },
         {
-          "title": "Shai Gilgeous-Alexander ranks his top three Drake albums",
-          "source": "ClutchPoints",
-          "link": "https://clutchpoints.com/celebrity/shai-gilgeous-alexander-ranks-his-top-three-drake-albums",
-          "published": "2026-11-13T01:53:40Z"
-        },
-        {
-          "title": "Hornets Projected Be Sellers This Year After Poor Start, Naz Reid Among Players Who May Be on Move What Could They Receive in Return",
-          "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/articles/hornets-projected-sellers-poor-start-014403174.html",
-          "published": "2026-11-13T01:44:03Z"
+          "title": "The 100th Macy's Thanksgiving Day Parade Returns Live on NBC and Peacock Nov. 26, Bringing Holiday Magic to Life for Millions?",
+          "source": "Thefutoncritic.com",
+          "link": "http://www.thefutoncritic.com/news/2026/11/13/the-100th-macys-thanksgiving-day-parade-returns-live-on-nbc-and-peacock-nov-26-bringing-holiday-magic-to-life-for-millions?-194010/20261113nbc01/",
+          "published": "2026-11-13T05:31:00Z"
         }
       ]
     }
   ],
   "track_record": {
     "LOW": {
-      "wins": 16,
+      "wins": 17,
       "losses": 14,
-      "total": 30,
-      "win_pct": 53.3,
-      "roi": -1.4,
-      "profit": -43.03
+      "total": 31,
+      "win_pct": 54.8,
+      "roi": 1.2,
+      "profit": 37.62
     },
     "MEDIUM": {
-      "wins": 50,
-      "losses": 18,
-      "total": 68,
-      "win_pct": 73.5,
-      "roi": 10.2,
-      "profit": 694.12
+      "wins": 51,
+      "losses": 20,
+      "total": 71,
+      "win_pct": 71.8,
+      "roi": 7.9,
+      "profit": 557.41
     },
     "HIGH": {
-      "wins": 39,
+      "wins": 42,
       "losses": 6,
-      "total": 45,
-      "win_pct": 86.7,
-      "roi": 4.1,
-      "profit": 184.9
+      "total": 48,
+      "win_pct": 87.5,
+      "roi": 4.8,
+      "profit": 231.73
     },
     "overall_7d": {
-      "wins": 32,
-      "losses": 8,
-      "total": 40,
-      "win_pct": 80.0,
-      "roi": 12.5,
-      "profit": 501.8
+      "wins": 31,
+      "losses": 10,
+      "total": 41,
+      "win_pct": 75.6,
+      "roi": 3.4,
+      "profit": 138.68
     },
     "overall_30d": {
-      "wins": 101,
-      "losses": 37,
-      "total": 138,
-      "win_pct": 73.2,
-      "roi": 4.7,
-      "profit": 643.69
+      "wins": 106,
+      "losses": 39,
+      "total": 145,
+      "win_pct": 73.1,
+      "roi": 4.4,
+      "profit": 634.46
     }
   }
 }
