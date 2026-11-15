@@ -2496,9 +2496,11 @@
       "win_probability": 56.0,
       "commence_time": "2026-11-15T00:40:00Z",
       "date": "2026-11-14T05:40:58.710225+00:00",
-      "graded": false,
-      "result": null,
-      "profit": null
+      "graded": true,
+      "result": "WIN",
+      "profit": 71.43,
+      "home_score": 127,
+      "away_score": 117
     },
     {
       "game": "Brooklyn Nets @ Memphis Grizzlies",
@@ -2510,9 +2512,11 @@
       "win_probability": 63.5,
       "commence_time": "2026-11-15T01:10:00Z",
       "date": "2026-11-14T05:40:58.710225+00:00",
-      "graded": false,
-      "result": null,
-      "profit": null
+      "graded": true,
+      "result": "WIN",
+      "profit": 51.28,
+      "home_score": 129,
+      "away_score": 110
     },
     {
       "game": "Chicago Bulls @ Minnesota Timberwolves",
@@ -2524,6 +2528,120 @@
       "win_probability": 50.0,
       "commence_time": "2026-11-15T01:10:00Z",
       "date": "2026-11-14T05:40:58.710225+00:00",
+      "graded": true,
+      "result": "LOSS",
+      "profit": -100,
+      "home_score": 106,
+      "away_score": 117
+    },
+    {
+      "game": "Indiana Pacers @ Philadelphia 76ers",
+      "pick": "Philadelphia 76ers",
+      "pick_abbr": "PHI",
+      "moneyline": "-288",
+      "moneyline_raw": -288,
+      "confidence": "MEDIUM",
+      "win_probability": 71.3,
+      "commence_time": "2026-11-15T18:10:00Z",
+      "date": "2026-11-15T05:39:55.174036+00:00",
+      "graded": false,
+      "result": null,
+      "profit": null
+    },
+    {
+      "game": "Los Angeles Lakers @ Phoenix Suns",
+      "pick": "Los Angeles Lakers",
+      "pick_abbr": "LAL",
+      "moneyline": "-148",
+      "moneyline_raw": -148,
+      "confidence": "LOW",
+      "win_probability": 57.2,
+      "commence_time": "2026-11-15T21:10:00Z",
+      "date": "2026-11-15T05:39:55.174036+00:00",
+      "graded": false,
+      "result": null,
+      "profit": null
+    },
+    {
+      "game": "Charlotte Hornets @ Los Angeles Clippers",
+      "pick": "Los Angeles Clippers",
+      "pick_abbr": "LAC",
+      "moneyline": "-118",
+      "moneyline_raw": -118,
+      "confidence": "LOW",
+      "win_probability": 52.0,
+      "commence_time": "2026-11-15T21:40:00Z",
+      "date": "2026-11-15T05:39:55.174036+00:00",
+      "graded": false,
+      "result": null,
+      "profit": null
+    },
+    {
+      "game": "Dallas Mavericks @ Boston Celtics",
+      "pick": "Boston Celtics",
+      "pick_abbr": "BOS",
+      "moneyline": "-800",
+      "moneyline_raw": -800,
+      "confidence": "HIGH",
+      "win_probability": 85.4,
+      "commence_time": "2026-11-15T23:10:00Z",
+      "date": "2026-11-15T05:39:55.174036+00:00",
+      "graded": false,
+      "result": null,
+      "profit": null
+    },
+    {
+      "game": "New York Knicks @ Toronto Raptors",
+      "pick": "New York Knicks",
+      "pick_abbr": "NYK",
+      "moneyline": "-192",
+      "moneyline_raw": -192,
+      "confidence": "MEDIUM",
+      "win_probability": 63.1,
+      "commence_time": "2026-11-15T23:10:00Z",
+      "date": "2026-11-15T05:39:55.174036+00:00",
+      "graded": false,
+      "result": null,
+      "profit": null
+    },
+    {
+      "game": "Houston Rockets @ Washington Wizards",
+      "pick": "Houston Rockets",
+      "pick_abbr": "HOU",
+      "moneyline": "-438",
+      "moneyline_raw": -438,
+      "confidence": "HIGH",
+      "win_probability": 78.2,
+      "commence_time": "2026-11-16T00:10:00Z",
+      "date": "2026-11-15T05:39:55.174036+00:00",
+      "graded": false,
+      "result": null,
+      "profit": null
+    },
+    {
+      "game": "Atlanta Hawks @ Milwaukee Bucks",
+      "pick": "Atlanta Hawks",
+      "pick_abbr": "ATL",
+      "moneyline": "-310",
+      "moneyline_raw": -310,
+      "confidence": "HIGH",
+      "win_probability": 72.6,
+      "commence_time": "2026-11-16T01:10:00Z",
+      "date": "2026-11-15T05:39:55.174036+00:00",
+      "graded": false,
+      "result": null,
+      "profit": null
+    },
+    {
+      "game": "Oklahoma City Thunder @ Sacramento Kings",
+      "pick": "Oklahoma City Thunder",
+      "pick_abbr": "OKC",
+      "moneyline": "-467",
+      "moneyline_raw": -467,
+      "confidence": "HIGH",
+      "win_probability": 79.1,
+      "commence_time": "2026-11-16T02:10:00Z",
+      "date": "2026-11-15T05:39:55.174036+00:00",
       "graded": false,
       "result": null,
       "profit": null
@@ -2531,20 +2649,20 @@
   ],
   "summary": {
     "LOW": {
-      "wins": 17,
-      "losses": 14,
-      "total": 31,
-      "win_pct": 54.8,
-      "roi": 1.2,
-      "profit": 37.62
+      "wins": 18,
+      "losses": 15,
+      "total": 33,
+      "win_pct": 54.5,
+      "roi": 0.3,
+      "profit": 9.05
     },
     "MEDIUM": {
-      "wins": 51,
+      "wins": 52,
       "losses": 21,
-      "total": 72,
-      "win_pct": 70.8,
-      "roi": 6.4,
-      "profit": 457.41
+      "total": 73,
+      "win_pct": 71.2,
+      "roi": 7.0,
+      "profit": 508.69
     },
     "HIGH": {
       "wins": 42,
@@ -2555,21 +2673,21 @@
       "profit": 231.73
     },
     "overall_7d": {
-      "wins": 31,
-      "losses": 11,
-      "total": 42,
-      "win_pct": 73.8,
-      "roi": 0.9,
-      "profit": 38.68
+      "wins": 28,
+      "losses": 10,
+      "total": 38,
+      "win_pct": 73.7,
+      "roi": 3.6,
+      "profit": 138.35
     },
     "overall_30d": {
-      "wins": 106,
-      "losses": 40,
-      "total": 146,
-      "win_pct": 72.6,
+      "wins": 108,
+      "losses": 41,
+      "total": 149,
+      "win_pct": 72.5,
       "roi": 3.7,
-      "profit": 534.46
+      "profit": 557.17
     }
   },
-  "last_graded": "2026-11-14T12:31:20.606075+00:00"
+  "last_graded": "2026-11-15T05:39:10.803506+00:00"
 }
