@@ -1,5 +1,5 @@
 {
-  "last_updated": "November 15, 2026 at 05:39 AM UTC",
+  "last_updated": "November 15, 2026 at 12:58 PM UTC",
   "total_games": 9,
   "games": [
     {
@@ -8,47 +8,47 @@
       "away_team": "Indiana Pacers",
       "home_abbr": "PHI",
       "away_abbr": "IND",
-      "home_ml": "-288",
-      "away_ml": "+235",
-      "home_ml_raw": -288,
-      "away_ml_raw": 235,
-      "home_prob": 71.3,
-      "away_prob": 28.7,
+      "home_ml": "-270",
+      "away_ml": "+221",
+      "home_ml_raw": -270,
+      "away_ml_raw": 221,
+      "home_prob": 70.1,
+      "away_prob": 29.9,
       "spread": "PHI -7.5",
       "favorite": "Philadelphia 76ers",
       "pick": "Philadelphia 76ers",
       "pick_abbr": "PHI",
-      "moneyline": "-288",
-      "win_probability": 71.3,
+      "moneyline": "-270",
+      "win_probability": 70.1,
       "confidence": "MEDIUM",
       "confidence_stars": "\u2605\u2605\u2606",
       "commence_time": "2026-11-15T18:10:00Z",
       "line_movement": {
         "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "direction": "longer",
+          "points_moved": 18,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -270 \u2190 -288",
+          "old_ml": "-288",
+          "new_ml": "-270"
         },
         "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "direction": "shorter",
+          "points_moved": 14,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM +221 \u2190 +235",
+          "old_ml": "+235",
+          "new_ml": "+221"
         },
         "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "direction": "longer",
+          "points_moved": 18,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -270 \u2190 -288",
+          "old_ml": "-288",
+          "new_ml": "-270"
         },
-        "snapshot_time": "\u2014"
+        "snapshot_time": "November 15, 2026 at 05:39 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -75,9 +75,9 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udcca 42.6pt probability edge"
+        "\ud83d\udd25 Sharp steam detected"
       ],
-      "injury_notes": "Joel Embiid (C); Dominick Barlow (F); Adem Bona (C); Ariel Hukporti (C)",
+      "injury_notes": "No key injuries.",
       "sharp": {
         "away_t": null,
         "home_t": null,
@@ -112,10 +112,10 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "Philadelphia 76ers hold a 71.3% edge.",
+        "trend": "Philadelphia 76ers hold a 70.1% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
-        "injury_notes": "Joel Embiid (C); Dominick Barlow (F); Adem Bona (C); Ariel Hukporti (C)"
+        "steam": "Line steamed from -288 to -270 (18pt move) \u2014 heavy professional action on Philadelphia 76ers.",
+        "injury_notes": "No key injuries."
       },
       "live": {
         "status": "pre",
@@ -128,16 +128,22 @@
       },
       "news": [
         {
-          "title": "Embiid to sit vs. Pacers due to plantar fascia management",
-          "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/nba/story/_/id/50484216/76ers-joel-embiid-vs-pacers-due-plantar-fascia-management",
-          "published": "Sun, 15 Nov 2026 00:18:43 EST"
+          "title": "How to watch the most college football games today with Sling",
+          "source": "USA Today",
+          "link": "https://www.usatoday.com/story/shopping/sports/streaming/2026/11/14/how-to-watch-college-football-games-today-sling-live-stream/92762062007/",
+          "published": "2026-11-14T12:56:34Z"
         },
         {
-          "title": "Knicks' Hart 'not in a good headspace' after scoreless night, benching",
-          "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/nba/story/_/id/50480516/josh-hart-seeking-answers-zero-points-knicks-loss",
-          "published": "Sun, 15 Nov 2026 00:18:43 EST"
+          "title": "Game vs. Baylor chance 'to establish who we are,' says Texas basketball coach Sean Miller",
+          "source": "Austin American-Statesman",
+          "link": "https://www.statesman.com/sports/longhorns/mens-basketball/article/texas-basketball-vs-baylor-sean-miller-22520637.php?utm_medium=referral&amp;utm_campaign=yahoo_syndication",
+          "published": "2026-11-14T12:30:00Z"
+        },
+        {
+          "title": "Polymarket promo code NYPMAX1: Deposit $10, get $25 for College Football Week 11",
+          "source": "New York Post",
+          "link": "https://nypost.com/2026/11/14/betting/polymarket-promo-code-nypmax1-deposit-10-get-25-for-college-football-week-11/",
+          "published": "2026-11-14T12:30:00Z"
         }
       ]
     },
@@ -147,47 +153,47 @@
       "away_team": "Los Angeles Lakers",
       "home_abbr": "PHX",
       "away_abbr": "LAL",
-      "home_ml": "+124",
-      "away_ml": "-148",
-      "home_ml_raw": 124,
-      "away_ml_raw": -148,
-      "home_prob": 42.8,
-      "away_prob": 57.2,
+      "home_ml": "+130",
+      "away_ml": "-155",
+      "home_ml_raw": 130,
+      "away_ml_raw": -155,
+      "home_prob": 41.7,
+      "away_prob": 58.3,
       "spread": "PHX +2.5",
       "favorite": "Los Angeles Lakers",
       "pick": "Los Angeles Lakers",
       "pick_abbr": "LAL",
-      "moneyline": "-148",
-      "win_probability": 57.2,
-      "confidence": "LOW",
-      "confidence_stars": "\u2605\u2606\u2606",
+      "moneyline": "-155",
+      "win_probability": 58.3,
+      "confidence": "MEDIUM",
+      "confidence_stars": "\u2605\u2605\u2606",
       "commence_time": "2026-11-15T21:10:00Z",
       "line_movement": {
         "home": {
-          "direction": "none",
-          "points_moved": 0,
+          "direction": "longer",
+          "points_moved": 6,
           "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "label": "\ud83d\udd34 +130 \u2190 +124",
+          "old_ml": "+124",
+          "new_ml": "+130"
         },
         "away": {
-          "direction": "none",
-          "points_moved": 0,
+          "direction": "shorter",
+          "points_moved": 7,
           "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "label": "\ud83d\udfe2 -155 \u2190 -148",
+          "old_ml": "-148",
+          "new_ml": "-155"
         },
         "pick": {
-          "direction": "none",
-          "points_moved": 0,
+          "direction": "shorter",
+          "points_moved": 7,
           "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "label": "\ud83d\udfe2 -155 \u2190 -148",
+          "old_ml": "-148",
+          "new_ml": "-155"
         },
-        "snapshot_time": "\u2014"
+        "snapshot_time": "November 15, 2026 at 05:39 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -214,9 +220,9 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udcca 14.4pt probability edge"
+        "\ud83d\udcca 16.6pt probability edge"
       ],
-      "injury_notes": "Drew Timme (F); Mark Williams (C); Adou Thiero (F); Collin Sexton (G)",
+      "injury_notes": "No key injuries.",
       "sharp": {
         "away_t": null,
         "home_t": null,
@@ -251,10 +257,10 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "Los Angeles Lakers hold a 57.2% edge.",
+        "trend": "Los Angeles Lakers hold a 58.3% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
-        "injury_notes": "Drew Timme (F); Mark Williams (C); Adou Thiero (F); Collin Sexton (G)"
+        "steam": "Line moved -148\u2192-155 (7pts). Pending \u2014 check closer to tip-off",
+        "injury_notes": "No key injuries."
       },
       "live": {
         "status": "pre",
@@ -267,16 +273,22 @@
       },
       "news": [
         {
-          "title": "Lakers' Reaves to sit out vs. Suns due to left heel bruise",
-          "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/nba/story/_/id/50485143/lakers-austin-reaves-heel-bruise-sit-vs-suns",
-          "published": "Sun, 15 Nov 2026 00:18:43 EST"
+          "title": "How to watch the most college football games today with Sling",
+          "source": "USA Today",
+          "link": "https://www.usatoday.com/story/shopping/sports/streaming/2026/11/14/how-to-watch-college-football-games-today-sling-live-stream/92762062007/",
+          "published": "2026-11-14T12:56:34Z"
         },
         {
-          "title": "Updated NBA championship and MVP odds: Lakers' odds shorten, Doncic in front",
-          "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/espn/betting/story/_/id/44679680/2026-nba-finals-championship-mvp-odds",
-          "published": "Wed, 11 Nov 2026 15:34:47 EST"
+          "title": "Game vs. Baylor chance 'to establish who we are,' says Texas basketball coach Sean Miller",
+          "source": "Austin American-Statesman",
+          "link": "https://www.statesman.com/sports/longhorns/mens-basketball/article/texas-basketball-vs-baylor-sean-miller-22520637.php?utm_medium=referral&amp;utm_campaign=yahoo_syndication",
+          "published": "2026-11-14T12:30:00Z"
+        },
+        {
+          "title": "Polymarket promo code NYPMAX1: Deposit $10, get $25 for College Football Week 11",
+          "source": "New York Post",
+          "link": "https://nypost.com/2026/11/14/betting/polymarket-promo-code-nypmax1-deposit-10-get-25-for-college-football-week-11/",
+          "published": "2026-11-14T12:30:00Z"
         }
       ]
     },
@@ -306,27 +318,27 @@
           "direction": "none",
           "points_moved": 0,
           "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "label": "No movement",
+          "old_ml": "-118",
+          "new_ml": "-118"
         },
         "away": {
           "direction": "none",
           "points_moved": 0,
           "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "label": "No movement",
+          "old_ml": "+100",
+          "new_ml": "+100"
         },
         "pick": {
           "direction": "none",
           "points_moved": 0,
           "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "label": "No movement",
+          "old_ml": "-118",
+          "new_ml": "-118"
         },
-        "snapshot_time": "\u2014"
+        "snapshot_time": "November 15, 2026 at 05:39 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -355,7 +367,7 @@
       "edge_factors": [
         "\ud83d\udcca 4.0pt probability edge"
       ],
-      "injury_notes": "Brandon Ingram (F); Yanic Konan Niederhauser (C); Bradley Beal (G); Jordan Miller (G)",
+      "injury_notes": "No key injuries.",
       "sharp": {
         "away_t": null,
         "home_t": null,
@@ -393,7 +405,7 @@
         "trend": "Los Angeles Clippers hold a 52.0% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
         "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
-        "injury_notes": "Brandon Ingram (F); Yanic Konan Niederhauser (C); Bradley Beal (G); Jordan Miller (G)"
+        "injury_notes": "No key injuries."
       },
       "live": {
         "status": "pre",
@@ -406,22 +418,22 @@
       },
       "news": [
         {
-          "title": "Utah Jazz vs. Houston Rockets: Recap and Final Score",
-          "source": "Slcdunk.com",
-          "link": "https://www.slcdunk.com/utah-jazz-game-coverage/70747/utah-jazz-vs-houston-rockets-recap-and-final-score",
-          "published": "2026-11-14T05:37:56Z"
-        },
-        {
-          "title": "Giannis, Bam join LeBron, Wade in exclusive Miami Heat club",
+          "title": "How to watch the most college football games today with Sling",
           "source": "USA Today",
-          "link": "https://www.usatoday.com/story/sports/nba/heat/2026/11/14/giannis-antetokounmpo-bam-adebayo-37-points-lebron-james-dwyane-wade-mark/92774407007/",
-          "published": "2026-11-14T05:36:05Z"
+          "link": "https://www.usatoday.com/story/shopping/sports/streaming/2026/11/14/how-to-watch-college-football-games-today-sling-live-stream/92762062007/",
+          "published": "2026-11-14T12:56:34Z"
         },
         {
-          "title": "Trump administration blames \u2018overloaded\u2019 systems for ground stop after FAA lets flights resume",
-          "source": "Abcnews.com",
-          "link": "https://abcnews.com/Travel/wireStory/trump-administration-blames-overloaded-systems-ground-stop-after-138132381",
-          "published": "2026-11-14T05:32:23Z"
+          "title": "Game vs. Baylor chance 'to establish who we are,' says Texas basketball coach Sean Miller",
+          "source": "Austin American-Statesman",
+          "link": "https://www.statesman.com/sports/longhorns/mens-basketball/article/texas-basketball-vs-baylor-sean-miller-22520637.php?utm_medium=referral&amp;utm_campaign=yahoo_syndication",
+          "published": "2026-11-14T12:30:00Z"
+        },
+        {
+          "title": "Polymarket promo code NYPMAX1: Deposit $10, get $25 for College Football Week 11",
+          "source": "New York Post",
+          "link": "https://nypost.com/2026/11/14/betting/polymarket-promo-code-nypmax1-deposit-10-get-25-for-college-football-week-11/",
+          "published": "2026-11-14T12:30:00Z"
         }
       ]
     },
@@ -437,7 +449,7 @@
       "away_ml_raw": -1460,
       "home_prob": 10.1,
       "away_prob": 89.9,
-      "spread": "UTA +17.5",
+      "spread": "UTA +16.5",
       "favorite": "San Antonio Spurs",
       "pick": "San Antonio Spurs",
       "pick_abbr": "SAS",
@@ -451,27 +463,27 @@
           "direction": "none",
           "points_moved": 0,
           "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "label": "No movement",
+          "old_ml": "+850",
+          "new_ml": "+850"
         },
         "away": {
           "direction": "none",
           "points_moved": 0,
           "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "label": "No movement",
+          "old_ml": "-1460",
+          "new_ml": "-1460"
         },
         "pick": {
           "direction": "none",
           "points_moved": 0,
           "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "label": "No movement",
+          "old_ml": "-1460",
+          "new_ml": "-1460"
         },
-        "snapshot_time": "\u2014"
+        "snapshot_time": "November 15, 2026 at 05:39 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -500,7 +512,7 @@
       "edge_factors": [
         "\ud83d\udcca 79.8pt probability edge"
       ],
-      "injury_notes": "Jaxson Hayes (C); Trey Alexander (G); Lauri Markkanen (F); Jusuf Nurkic (C)",
+      "injury_notes": "No key injuries.",
       "sharp": {
         "away_t": null,
         "home_t": null,
@@ -538,7 +550,7 @@
         "trend": "San Antonio Spurs hold a 89.9% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
         "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
-        "injury_notes": "Jaxson Hayes (C); Trey Alexander (G); Lauri Markkanen (F); Jusuf Nurkic (C)"
+        "injury_notes": "No key injuries."
       },
       "live": {
         "status": "pre",
@@ -551,22 +563,22 @@
       },
       "news": [
         {
-          "title": "Lendeborg 1-for-13 in Warriors' blowout loss: 'I was flustered the entire game'",
-          "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/nba/story/_/id/50478016/warriors-yaxel-lendeborg-struggles-blowout-loss-spurs-says-was-flustered-entire-game",
-          "published": "Sun, 15 Nov 2026 00:18:43 EST"
+          "title": "How to watch the most college football games today with Sling",
+          "source": "USA Today",
+          "link": "https://www.usatoday.com/story/shopping/sports/streaming/2026/11/14/how-to-watch-college-football-games-today-sling-live-stream/92762062007/",
+          "published": "2026-11-14T12:56:34Z"
         },
         {
-          "title": "Wemby, Spurs land early KO with 18-0 run, rout Warriors for 11th straight win",
-          "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/nba/story/_/id/50478136/victor-wembanyama-spurs-rout-warriors-11th-straight-win",
-          "published": "Sun, 15 Nov 2026 00:18:43 EST"
+          "title": "Game vs. Baylor chance 'to establish who we are,' says Texas basketball coach Sean Miller",
+          "source": "Austin American-Statesman",
+          "link": "https://www.statesman.com/sports/longhorns/mens-basketball/article/texas-basketball-vs-baylor-sean-miller-22520637.php?utm_medium=referral&amp;utm_campaign=yahoo_syndication",
+          "published": "2026-11-14T12:30:00Z"
         },
         {
-          "title": "Updated NBA championship and MVP odds: Lakers' odds shorten, Doncic in front",
-          "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/espn/betting/story/_/id/44679680/2026-nba-finals-championship-mvp-odds",
-          "published": "Wed, 11 Nov 2026 15:34:47 EST"
+          "title": "Polymarket promo code NYPMAX1: Deposit $10, get $25 for College Football Week 11",
+          "source": "New York Post",
+          "link": "https://nypost.com/2026/11/14/betting/polymarket-promo-code-nypmax1-deposit-10-get-25-for-college-football-week-11/",
+          "published": "2026-11-14T12:30:00Z"
         }
       ]
     },
@@ -596,27 +608,27 @@
           "direction": "none",
           "points_moved": 0,
           "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "label": "No movement",
+          "old_ml": "-800",
+          "new_ml": "-800"
         },
         "away": {
           "direction": "none",
           "points_moved": 0,
           "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "label": "No movement",
+          "old_ml": "+558",
+          "new_ml": "+558"
         },
         "pick": {
           "direction": "none",
           "points_moved": 0,
           "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "label": "No movement",
+          "old_ml": "-800",
+          "new_ml": "-800"
         },
-        "snapshot_time": "\u2014"
+        "snapshot_time": "November 15, 2026 at 05:39 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -645,7 +657,7 @@
       "edge_factors": [
         "\ud83d\udca4 DAL fatigued (B2B) \u2014 source: ESPN"
       ],
-      "injury_notes": "Daniel Gafford (F); Max Christie (G); Dereck Lively II (C); Tarik Biberovic (F)",
+      "injury_notes": "No key injuries.",
       "sharp": {
         "away_t": null,
         "home_t": null,
@@ -683,7 +695,7 @@
         "trend": "DAL on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
         "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
-        "injury_notes": "Daniel Gafford (F); Max Christie (G); Dereck Lively II (C); Tarik Biberovic (F)"
+        "injury_notes": "No key injuries."
       },
       "live": {
         "status": "pre",
@@ -696,16 +708,22 @@
       },
       "news": [
         {
-          "title": "Cavs overcome short turnaround, missing starters to beat Mavs",
-          "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/nba/story/_/id/50485303/cavaliers-starting-five-vs-mavs-flight-delay",
-          "published": "Sun, 15 Nov 2026 00:18:43 EST"
+          "title": "How to watch the most college football games today with Sling",
+          "source": "USA Today",
+          "link": "https://www.usatoday.com/story/shopping/sports/streaming/2026/11/14/how-to-watch-college-football-games-today-sling-live-stream/92762062007/",
+          "published": "2026-11-14T12:56:34Z"
         },
         {
-          "title": "Updated NBA championship and MVP odds: Lakers' odds shorten, Doncic in front",
-          "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/espn/betting/story/_/id/44679680/2026-nba-finals-championship-mvp-odds",
-          "published": "Wed, 11 Nov 2026 15:34:47 EST"
+          "title": "Game vs. Baylor chance 'to establish who we are,' says Texas basketball coach Sean Miller",
+          "source": "Austin American-Statesman",
+          "link": "https://www.statesman.com/sports/longhorns/mens-basketball/article/texas-basketball-vs-baylor-sean-miller-22520637.php?utm_medium=referral&amp;utm_campaign=yahoo_syndication",
+          "published": "2026-11-14T12:30:00Z"
+        },
+        {
+          "title": "Polymarket promo code NYPMAX1: Deposit $10, get $25 for College Football Week 11",
+          "source": "New York Post",
+          "link": "https://nypost.com/2026/11/14/betting/polymarket-promo-code-nypmax1-deposit-10-get-25-for-college-football-week-11/",
+          "published": "2026-11-14T12:30:00Z"
         }
       ]
     },
@@ -716,16 +734,16 @@
       "home_abbr": "TOR",
       "away_abbr": "NYK",
       "home_ml": "+160",
-      "away_ml": "-192",
+      "away_ml": "-191",
       "home_ml_raw": 160,
-      "away_ml_raw": -192,
+      "away_ml_raw": -191,
       "home_prob": 36.9,
       "away_prob": 63.1,
       "spread": "TOR +4.5",
       "favorite": "New York Knicks",
       "pick": "New York Knicks",
       "pick_abbr": "NYK",
-      "moneyline": "-192",
+      "moneyline": "-191",
       "win_probability": 63.1,
       "confidence": "MEDIUM",
       "confidence_stars": "\u2605\u2605\u2606",
@@ -735,27 +753,27 @@
           "direction": "none",
           "points_moved": 0,
           "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "label": "No movement",
+          "old_ml": "+160",
+          "new_ml": "+160"
         },
         "away": {
-          "direction": "none",
-          "points_moved": 0,
+          "direction": "longer",
+          "points_moved": 1,
           "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "label": "\ud83d\udd34 -191 \u2190 -192",
+          "old_ml": "-192",
+          "new_ml": "-191"
         },
         "pick": {
-          "direction": "none",
-          "points_moved": 0,
+          "direction": "longer",
+          "points_moved": 1,
           "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "label": "\ud83d\udd34 -191 \u2190 -192",
+          "old_ml": "-192",
+          "new_ml": "-191"
         },
-        "snapshot_time": "\u2014"
+        "snapshot_time": "November 15, 2026 at 05:39 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -784,7 +802,7 @@
       "edge_factors": [
         "\ud83d\udcca 26.2pt probability edge"
       ],
-      "injury_notes": "Nate Bittle (C); Scottie Barnes (F); Kevin McCullar Jr. (G); Kawhi Leonard (F)",
+      "injury_notes": "No key injuries.",
       "sharp": {
         "away_t": null,
         "home_t": null,
@@ -821,8 +839,8 @@
       "briefing": {
         "trend": "New York Knicks hold a 63.1% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
-        "injury_notes": "Nate Bittle (C); Scottie Barnes (F); Kevin McCullar Jr. (G); Kawhi Leonard (F)"
+        "steam": "Line moved -192\u2192-191 (1pts). Pending \u2014 check closer to tip-off",
+        "injury_notes": "No key injuries."
       },
       "live": {
         "status": "pre",
@@ -835,22 +853,22 @@
       },
       "news": [
         {
-          "title": "Knicks' Hart 'not in a good headspace' after scoreless night, benching",
-          "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/nba/story/_/id/50480516/josh-hart-seeking-answers-zero-points-knicks-loss",
-          "published": "Sun, 15 Nov 2026 00:18:43 EST"
+          "title": "How to watch the most college football games today with Sling",
+          "source": "USA Today",
+          "link": "https://www.usatoday.com/story/shopping/sports/streaming/2026/11/14/how-to-watch-college-football-games-today-sling-live-stream/92762062007/",
+          "published": "2026-11-14T12:56:34Z"
         },
         {
-          "title": "Early trade deadline questions: Knicks, Thunder and other contenders' next steps",
-          "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/nba/story/_/id/50434044/early-nba-trade-deadline-questions-top-contenders",
-          "published": "Thu, 12 Nov 2026 10:07:13 EST"
+          "title": "Game vs. Baylor chance 'to establish who we are,' says Texas basketball coach Sean Miller",
+          "source": "Austin American-Statesman",
+          "link": "https://www.statesman.com/sports/longhorns/mens-basketball/article/texas-basketball-vs-baylor-sean-miller-22520637.php?utm_medium=referral&amp;utm_campaign=yahoo_syndication",
+          "published": "2026-11-14T12:30:00Z"
         },
         {
-          "title": "Despite slump, Knicks' Bridges is a fantasy basketball trade target",
-          "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/fantasy/basketball/story/_/id/50473517/fantasy-basketball-nba-analytics-consistency-bridges",
-          "published": "Sat, 14 Nov 2026 15:57:19 EST"
+          "title": "Polymarket promo code NYPMAX1: Deposit $10, get $25 for College Football Week 11",
+          "source": "New York Post",
+          "link": "https://nypost.com/2026/11/14/betting/polymarket-promo-code-nypmax1-deposit-10-get-25-for-college-football-week-11/",
+          "published": "2026-11-14T12:30:00Z"
         }
       ]
     },
@@ -860,47 +878,47 @@
       "away_team": "Houston Rockets",
       "home_abbr": "WAS",
       "away_abbr": "HOU",
-      "home_ml": "+341",
-      "away_ml": "-438",
-      "home_ml_raw": 341,
-      "away_ml_raw": -438,
-      "home_prob": 21.8,
-      "away_prob": 78.2,
-      "spread": "WAS +9.5",
+      "home_ml": "+301",
+      "away_ml": "-380",
+      "home_ml_raw": 301,
+      "away_ml_raw": -380,
+      "home_prob": 24.0,
+      "away_prob": 76.0,
+      "spread": "WAS +8.5",
       "favorite": "Houston Rockets",
       "pick": "Houston Rockets",
       "pick_abbr": "HOU",
-      "moneyline": "-438",
-      "win_probability": 78.2,
+      "moneyline": "-380",
+      "win_probability": 76.0,
       "confidence": "HIGH",
       "confidence_stars": "\u2605\u2605\u2605",
       "commence_time": "2026-11-16T00:10:00Z",
       "line_movement": {
         "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "direction": "shorter",
+          "points_moved": 40,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM +301 \u2190 +341",
+          "old_ml": "+341",
+          "new_ml": "+301"
         },
         "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "direction": "longer",
+          "points_moved": 58,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -380 \u2190 -438",
+          "old_ml": "-438",
+          "new_ml": "-380"
         },
         "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "direction": "longer",
+          "points_moved": 58,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -380 \u2190 -438",
+          "old_ml": "-438",
+          "new_ml": "-380"
         },
-        "snapshot_time": "\u2014"
+        "snapshot_time": "November 15, 2026 at 05:39 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -927,9 +945,9 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udcca 56.4pt probability edge"
+        "\ud83d\udd25 Sharp steam detected"
       ],
-      "injury_notes": "Alex Sarr (C); Tre Johnson (G); Bub Carrington (G); Tristan Vukcevic (F)",
+      "injury_notes": "No key injuries.",
       "sharp": {
         "away_t": null,
         "home_t": null,
@@ -964,10 +982,10 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "Houston Rockets hold a 78.2% edge.",
+        "trend": "Houston Rockets hold a 76.0% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
-        "injury_notes": "Alex Sarr (C); Tre Johnson (G); Bub Carrington (G); Tristan Vukcevic (F)"
+        "steam": "Line steamed from -438 to -380 (58pt move) \u2014 heavy professional action on Houston Rockets.",
+        "injury_notes": "No key injuries."
       },
       "live": {
         "status": "pre",
@@ -980,22 +998,22 @@
       },
       "news": [
         {
-          "title": "Utah Jazz vs. Houston Rockets: Recap and Final Score",
-          "source": "Slcdunk.com",
-          "link": "https://www.slcdunk.com/utah-jazz-game-coverage/70747/utah-jazz-vs-houston-rockets-recap-and-final-score",
-          "published": "2026-11-14T05:37:56Z"
-        },
-        {
-          "title": "Giannis, Bam join LeBron, Wade in exclusive Miami Heat club",
+          "title": "How to watch the most college football games today with Sling",
           "source": "USA Today",
-          "link": "https://www.usatoday.com/story/sports/nba/heat/2026/11/14/giannis-antetokounmpo-bam-adebayo-37-points-lebron-james-dwyane-wade-mark/92774407007/",
-          "published": "2026-11-14T05:36:05Z"
+          "link": "https://www.usatoday.com/story/shopping/sports/streaming/2026/11/14/how-to-watch-college-football-games-today-sling-live-stream/92762062007/",
+          "published": "2026-11-14T12:56:34Z"
         },
         {
-          "title": "Trump administration blames \u2018overloaded\u2019 systems for ground stop after FAA lets flights resume",
-          "source": "Abcnews.com",
-          "link": "https://abcnews.com/Travel/wireStory/trump-administration-blames-overloaded-systems-ground-stop-after-138132381",
-          "published": "2026-11-14T05:32:23Z"
+          "title": "Game vs. Baylor chance 'to establish who we are,' says Texas basketball coach Sean Miller",
+          "source": "Austin American-Statesman",
+          "link": "https://www.statesman.com/sports/longhorns/mens-basketball/article/texas-basketball-vs-baylor-sean-miller-22520637.php?utm_medium=referral&amp;utm_campaign=yahoo_syndication",
+          "published": "2026-11-14T12:30:00Z"
+        },
+        {
+          "title": "Polymarket promo code NYPMAX1: Deposit $10, get $25 for College Football Week 11",
+          "source": "New York Post",
+          "link": "https://nypost.com/2026/11/14/betting/polymarket-promo-code-nypmax1-deposit-10-get-25-for-college-football-week-11/",
+          "published": "2026-11-14T12:30:00Z"
         }
       ]
     },
@@ -1025,27 +1043,27 @@
           "direction": "none",
           "points_moved": 0,
           "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "label": "No movement",
+          "old_ml": "+251",
+          "new_ml": "+251"
         },
         "away": {
           "direction": "none",
           "points_moved": 0,
           "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "label": "No movement",
+          "old_ml": "-310",
+          "new_ml": "-310"
         },
         "pick": {
           "direction": "none",
           "points_moved": 0,
           "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "label": "No movement",
+          "old_ml": "-310",
+          "new_ml": "-310"
         },
-        "snapshot_time": "\u2014"
+        "snapshot_time": "November 15, 2026 at 05:39 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -1074,7 +1092,7 @@
       "edge_factors": [
         "\ud83d\udcca 45.2pt probability edge"
       ],
-      "injury_notes": "Ousmane Dieng (F); Kingston Flemings (G); Mouhamed Gueye (F); Keshon Gilbert (G)",
+      "injury_notes": "No key injuries.",
       "sharp": {
         "away_t": null,
         "home_t": null,
@@ -1112,7 +1130,7 @@
         "trend": "Atlanta Hawks hold a 72.6% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
         "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
-        "injury_notes": "Ousmane Dieng (F); Kingston Flemings (G); Mouhamed Gueye (F); Keshon Gilbert (G)"
+        "injury_notes": "No key injuries."
       },
       "live": {
         "status": "pre",
@@ -1125,22 +1143,22 @@
       },
       "news": [
         {
-          "title": "Utah Jazz vs. Houston Rockets: Recap and Final Score",
-          "source": "Slcdunk.com",
-          "link": "https://www.slcdunk.com/utah-jazz-game-coverage/70747/utah-jazz-vs-houston-rockets-recap-and-final-score",
-          "published": "2026-11-14T05:37:56Z"
-        },
-        {
-          "title": "Giannis, Bam join LeBron, Wade in exclusive Miami Heat club",
+          "title": "How to watch the most college football games today with Sling",
           "source": "USA Today",
-          "link": "https://www.usatoday.com/story/sports/nba/heat/2026/11/14/giannis-antetokounmpo-bam-adebayo-37-points-lebron-james-dwyane-wade-mark/92774407007/",
-          "published": "2026-11-14T05:36:05Z"
+          "link": "https://www.usatoday.com/story/shopping/sports/streaming/2026/11/14/how-to-watch-college-football-games-today-sling-live-stream/92762062007/",
+          "published": "2026-11-14T12:56:34Z"
         },
         {
-          "title": "Trump administration blames \u2018overloaded\u2019 systems for ground stop after FAA lets flights resume",
-          "source": "Abcnews.com",
-          "link": "https://abcnews.com/Travel/wireStory/trump-administration-blames-overloaded-systems-ground-stop-after-138132381",
-          "published": "2026-11-14T05:32:23Z"
+          "title": "Game vs. Baylor chance 'to establish who we are,' says Texas basketball coach Sean Miller",
+          "source": "Austin American-Statesman",
+          "link": "https://www.statesman.com/sports/longhorns/mens-basketball/article/texas-basketball-vs-baylor-sean-miller-22520637.php?utm_medium=referral&amp;utm_campaign=yahoo_syndication",
+          "published": "2026-11-14T12:30:00Z"
+        },
+        {
+          "title": "Polymarket promo code NYPMAX1: Deposit $10, get $25 for College Football Week 11",
+          "source": "New York Post",
+          "link": "https://nypost.com/2026/11/14/betting/polymarket-promo-code-nypmax1-deposit-10-get-25-for-college-football-week-11/",
+          "published": "2026-11-14T12:30:00Z"
         }
       ]
     },
@@ -1170,27 +1188,27 @@
           "direction": "none",
           "points_moved": 0,
           "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "label": "No movement",
+          "old_ml": "+360",
+          "new_ml": "+360"
         },
         "away": {
           "direction": "none",
           "points_moved": 0,
           "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "label": "No movement",
+          "old_ml": "-467",
+          "new_ml": "-467"
         },
         "pick": {
           "direction": "none",
           "points_moved": 0,
           "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "label": "No movement",
+          "old_ml": "-467",
+          "new_ml": "-467"
         },
-        "snapshot_time": "\u2014"
+        "snapshot_time": "November 15, 2026 at 05:39 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -1219,7 +1237,7 @@
       "edge_factors": [
         "\ud83d\udcca 58.2pt probability edge"
       ],
-      "injury_notes": "Maxime Raynaud (C); Keegan Murray (F); Precious Achiuwa (F); Ben Simmons (G)",
+      "injury_notes": "No key injuries.",
       "sharp": {
         "away_t": null,
         "home_t": null,
@@ -1257,7 +1275,7 @@
         "trend": "Oklahoma City Thunder hold a 79.1% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
         "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
-        "injury_notes": "Maxime Raynaud (C); Keegan Murray (F); Precious Achiuwa (F); Ben Simmons (G)"
+        "injury_notes": "No key injuries."
       },
       "live": {
         "status": "pre",
@@ -1270,16 +1288,22 @@
       },
       "news": [
         {
-          "title": "\ud83d\udcc8 Updated Power Rankings: The best newcomer on all 30 teams",
-          "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/nba/story/_/id/50443607/nba-power-rankings-30-teams-best-newcomer",
-          "published": "Sun, 15 Nov 2026 00:18:43 EST"
+          "title": "How to watch the most college football games today with Sling",
+          "source": "USA Today",
+          "link": "https://www.usatoday.com/story/shopping/sports/streaming/2026/11/14/how-to-watch-college-football-games-today-sling-live-stream/92762062007/",
+          "published": "2026-11-14T12:56:34Z"
         },
         {
-          "title": "Early trade deadline questions: Knicks, Thunder and other contenders' next steps",
-          "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/nba/story/_/id/50434044/early-nba-trade-deadline-questions-top-contenders",
-          "published": "Thu, 12 Nov 2026 10:07:13 EST"
+          "title": "Game vs. Baylor chance 'to establish who we are,' says Texas basketball coach Sean Miller",
+          "source": "Austin American-Statesman",
+          "link": "https://www.statesman.com/sports/longhorns/mens-basketball/article/texas-basketball-vs-baylor-sean-miller-22520637.php?utm_medium=referral&amp;utm_campaign=yahoo_syndication",
+          "published": "2026-11-14T12:30:00Z"
+        },
+        {
+          "title": "Polymarket promo code NYPMAX1: Deposit $10, get $25 for College Football Week 11",
+          "source": "New York Post",
+          "link": "https://nypost.com/2026/11/14/betting/polymarket-promo-code-nypmax1-deposit-10-get-25-for-college-football-week-11/",
+          "published": "2026-11-14T12:30:00Z"
         }
       ]
     }
