@@ -2544,9 +2544,11 @@
       "win_probability": 71.3,
       "commence_time": "2026-11-15T18:10:00Z",
       "date": "2026-11-15T05:39:55.174036+00:00",
-      "graded": false,
-      "result": null,
-      "profit": null
+      "graded": true,
+      "result": "WIN",
+      "profit": 34.72,
+      "home_score": 131,
+      "away_score": 124
     },
     {
       "game": "Los Angeles Lakers @ Phoenix Suns",
@@ -2558,9 +2560,11 @@
       "win_probability": 57.2,
       "commence_time": "2026-11-15T21:10:00Z",
       "date": "2026-11-15T05:39:55.174036+00:00",
-      "graded": false,
-      "result": null,
-      "profit": null
+      "graded": true,
+      "result": "WIN",
+      "profit": 67.57,
+      "home_score": 123,
+      "away_score": 131
     },
     {
       "game": "Charlotte Hornets @ Los Angeles Clippers",
@@ -2572,9 +2576,11 @@
       "win_probability": 52.0,
       "commence_time": "2026-11-15T21:40:00Z",
       "date": "2026-11-15T05:39:55.174036+00:00",
-      "graded": false,
-      "result": null,
-      "profit": null
+      "graded": true,
+      "result": "WIN",
+      "profit": 84.75,
+      "home_score": 113,
+      "away_score": 105
     },
     {
       "game": "Dallas Mavericks @ Boston Celtics",
@@ -2586,9 +2592,11 @@
       "win_probability": 85.4,
       "commence_time": "2026-11-15T23:10:00Z",
       "date": "2026-11-15T05:39:55.174036+00:00",
-      "graded": false,
-      "result": null,
-      "profit": null
+      "graded": true,
+      "result": "WIN",
+      "profit": 12.5,
+      "home_score": 131,
+      "away_score": 94
     },
     {
       "game": "New York Knicks @ Toronto Raptors",
@@ -2645,49 +2653,77 @@
       "graded": false,
       "result": null,
       "profit": null
+    },
+    {
+      "game": "Golden State Warriors @ New Orleans Pelicans",
+      "pick": "Golden State Warriors",
+      "pick_abbr": "GSW",
+      "moneyline": "-131",
+      "moneyline_raw": -131,
+      "confidence": "LOW",
+      "win_probability": 54.5,
+      "commence_time": "2026-11-17T01:10:00Z",
+      "date": "2026-11-16T01:36:25.913771+00:00",
+      "graded": false,
+      "result": null,
+      "profit": null
+    },
+    {
+      "game": "Portland Trail Blazers @ Minnesota Timberwolves",
+      "pick": "Minnesota Timberwolves",
+      "pick_abbr": "MIN",
+      "moneyline": "-133",
+      "moneyline_raw": -133,
+      "confidence": "LOW",
+      "win_probability": 54.9,
+      "commence_time": "2026-11-17T01:10:00Z",
+      "date": "2026-11-16T01:36:25.913771+00:00",
+      "graded": false,
+      "result": null,
+      "profit": null
     }
   ],
   "summary": {
     "LOW": {
-      "wins": 18,
+      "wins": 20,
       "losses": 15,
-      "total": 33,
-      "win_pct": 54.5,
-      "roi": 0.3,
-      "profit": 9.05
+      "total": 35,
+      "win_pct": 57.1,
+      "roi": 4.6,
+      "profit": 161.37
     },
     "MEDIUM": {
-      "wins": 52,
+      "wins": 53,
       "losses": 21,
-      "total": 73,
-      "win_pct": 71.2,
-      "roi": 7.0,
-      "profit": 508.69
+      "total": 74,
+      "win_pct": 71.6,
+      "roi": 7.3,
+      "profit": 543.41
     },
     "HIGH": {
-      "wins": 42,
+      "wins": 43,
       "losses": 6,
-      "total": 48,
-      "win_pct": 87.5,
-      "roi": 4.8,
-      "profit": 231.73
+      "total": 49,
+      "win_pct": 87.8,
+      "roi": 5.0,
+      "profit": 244.23
     },
     "overall_7d": {
-      "wins": 28,
-      "losses": 10,
-      "total": 38,
-      "win_pct": 73.7,
-      "roi": 3.6,
-      "profit": 138.35
+      "wins": 30,
+      "losses": 9,
+      "total": 39,
+      "win_pct": 76.9,
+      "roi": 9.4,
+      "profit": 367.94
     },
     "overall_30d": {
-      "wins": 108,
+      "wins": 112,
       "losses": 41,
-      "total": 149,
-      "win_pct": 72.5,
-      "roi": 3.7,
-      "profit": 557.17
+      "total": 153,
+      "win_pct": 73.2,
+      "roi": 4.9,
+      "profit": 756.71
     }
   },
-  "last_graded": "2026-11-15T05:39:10.803506+00:00"
+  "last_graded": "2026-11-16T01:35:39.965420+00:00"
 }
