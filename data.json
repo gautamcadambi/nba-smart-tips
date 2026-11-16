@@ -1,54 +1,54 @@
 {
-  "last_updated": "November 16, 2026 at 01:36 AM UTC",
-  "total_games": 6,
+  "last_updated": "November 16, 2026 at 05:38 AM UTC",
+  "total_games": 8,
   "games": [
     {
-      "game": "New York Knicks @ Toronto Raptors",
-      "home_team": "Toronto Raptors",
-      "away_team": "New York Knicks",
-      "home_abbr": "TOR",
-      "away_abbr": "NYK",
-      "home_ml": "+170",
-      "away_ml": "-225",
-      "home_ml_raw": 170,
-      "away_ml_raw": -225,
-      "home_prob": 34.9,
-      "away_prob": 65.1,
-      "spread": "TOR +1.5",
-      "favorite": "New York Knicks",
-      "pick": "New York Knicks",
-      "pick_abbr": "NYK",
-      "moneyline": "-225",
-      "win_probability": 65.1,
-      "confidence": "MEDIUM",
-      "confidence_stars": "\u2605\u2605\u2606",
-      "commence_time": "2026-11-15T23:12:00Z",
+      "game": "Orlando Magic @ Boston Celtics",
+      "home_team": "Boston Celtics",
+      "away_team": "Orlando Magic",
+      "home_abbr": "BOS",
+      "away_abbr": "ORL",
+      "home_ml": "-378",
+      "away_ml": "+300",
+      "home_ml_raw": -378,
+      "away_ml_raw": 300,
+      "home_prob": 76.0,
+      "away_prob": 24.0,
+      "spread": "BOS -8.5",
+      "favorite": "Boston Celtics",
+      "pick": "Boston Celtics",
+      "pick_abbr": "BOS",
+      "moneyline": "-378",
+      "win_probability": 76.0,
+      "confidence": "HIGH",
+      "confidence_stars": "\u2605\u2605\u2605",
+      "commence_time": "2026-11-17T00:10:00Z",
       "line_movement": {
         "home": {
-          "direction": "longer",
-          "points_moved": 5,
+          "direction": "none",
+          "points_moved": 0,
           "steam": false,
-          "label": "\ud83d\udd34 +170 \u2190 +165",
-          "old_ml": "+165",
-          "new_ml": "+170"
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
         },
         "away": {
-          "direction": "shorter",
-          "points_moved": 28,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -225 \u2190 -197",
-          "old_ml": "-197",
-          "new_ml": "-225"
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
         },
         "pick": {
-          "direction": "shorter",
-          "points_moved": 28,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -225 \u2190 -197",
-          "old_ml": "-197",
-          "new_ml": "-225"
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
         },
-        "snapshot_time": "November 15, 2026 at 05:34 PM UTC"
+        "snapshot_time": "\u2014"
       },
       "fatigue": {
         "home": {
@@ -57,26 +57,25 @@
           "battery": 20,
           "last_game": "Nov 15",
           "days_rest": 1,
-          "games_last_4d": 2,
-          "travel_miles": 337,
-          "travel_desc": "337 mi road trip",
+          "games_last_4d": 1,
+          "travel_miles": 0,
+          "travel_desc": "",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
-          "last_game": "Nov 15",
-          "days_rest": 1,
-          "games_last_4d": 2,
-          "travel_miles": 340,
-          "travel_desc": "340 mi road trip",
+          "status": "RESTED",
+          "label": "2 days rest \u2705",
+          "battery": 88,
+          "last_game": "Nov 13",
+          "days_rest": 3,
+          "games_last_4d": 1,
+          "travel_miles": 0,
+          "travel_desc": "",
           "source": "ESPN Scoreboard API"
         }
       },
       "edge_factors": [
-        "\ud83d\udd25 Sharp steam detected",
-        "\ud83d\udca4 TOR fatigued (B2B) \u2014 source: ESPN"
+        "\ud83d\udcca 52.0pt probability edge"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -113,9 +112,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "TOR on Back-to-Back \u26a0\ufe0f per ESPN schedule data. NYK on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "trend": "BOS on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -197 to -225 (28pt move) \u2014 heavy professional action on New York Knicks.",
+        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -129,46 +128,46 @@
       },
       "news": [
         {
-          "title": "Ajay Mitchell injury update: Will OKC Thunder guard return vs Kings?",
-          "source": "Oklahoman.com",
-          "link": "https://www.oklahoman.com/story/sports/nba/thunder/2026/11/14/okc-thunder-ajay-mitchell-injury-update-vs-kings-left-ankle-sprain/92788216007/",
-          "published": "2026-11-15T01:08:23Z"
+          "title": "Kings\u2019 Ben Simmons returns to Sacramento facility after Achilles tear",
+          "source": "ClutchPoints",
+          "link": "https://clutchpoints.com/nba/sacramento-kings/kings-news-ben-simmons-returns-sacramento-facility-after-achilles-tear",
+          "published": "2026-11-15T05:33:45Z"
         },
         {
-          "title": "Lions vs. Patriots odds, picks, prediction, spread: Start time, betting preview, best bets for Munich game",
-          "source": "CBS Sports",
-          "link": "https://www.cbssports.com/betting/news/lions-vs-patriots-odds-picks-prediction-spread-start-time-betting-preview-best-bets-for-munich-game/",
-          "published": "2026-11-15T01:00:51Z"
+          "title": "Heat Outplay Pistons For Fourth Straight Win: 3 Takeaways From Star-Studded Clash",
+          "source": "Fadeaway World",
+          "link": "https://fadeawayworld.net/nba/miami-heat/heat-outplay-pistons-for-fourth-straight-win-3-takeaways-from-star-studded-clash",
+          "published": "2026-11-15T05:10:01Z"
         },
         {
-          "title": "Practical, possible, and unlikely trades for Jalen Green",
-          "source": "Bright Side of the Sun",
-          "link": "https://www.brightsideofthesun.com/suns-rumors/113706/jalen-green-three-trade-proposals-dejounte-murray-tyler-herro-jrue-holiday",
-          "published": "2026-11-15T01:00:00Z"
+          "title": "Jokic, Murray help Nuggets hand Pelicans a sixth straight loss",
+          "source": "Yahoo Entertainment",
+          "link": "https://sports.yahoo.com/articles/jokic-murray-help-nuggets-hand-050607024.html",
+          "published": "2026-11-15T05:06:07Z"
         }
       ]
     },
     {
-      "game": "Houston Rockets @ Washington Wizards",
-      "home_team": "Washington Wizards",
-      "away_team": "Houston Rockets",
-      "home_abbr": "WAS",
-      "away_abbr": "HOU",
-      "home_ml": "N/A",
-      "away_ml": "N/A",
-      "home_ml_raw": null,
-      "away_ml_raw": null,
-      "home_prob": 50.0,
-      "away_prob": 50.0,
-      "spread": "WAS +27.5",
-      "favorite": "Washington Wizards",
-      "pick": "Washington Wizards",
-      "pick_abbr": "WAS",
-      "moneyline": "N/A",
-      "win_probability": 50.0,
-      "confidence": "LOW",
-      "confidence_stars": "\u2605\u2606\u2606",
-      "commence_time": "2026-11-16T00:11:00Z",
+      "game": "Chicago Bulls @ Cleveland Cavaliers",
+      "home_team": "Cleveland Cavaliers",
+      "away_team": "Chicago Bulls",
+      "home_abbr": "CLE",
+      "away_abbr": "CHI",
+      "home_ml": "-395",
+      "away_ml": "+312",
+      "home_ml_raw": -395,
+      "away_ml_raw": 312,
+      "home_prob": 76.7,
+      "away_prob": 23.3,
+      "spread": "CLE -9.5",
+      "favorite": "Cleveland Cavaliers",
+      "pick": "Cleveland Cavaliers",
+      "pick_abbr": "CLE",
+      "moneyline": "-395",
+      "win_probability": 76.7,
+      "confidence": "HIGH",
+      "confidence_stars": "\u2605\u2605\u2605",
+      "commence_time": "2026-11-17T00:10:00Z",
       "line_movement": {
         "home": {
           "direction": "none",
@@ -194,7 +193,152 @@
           "old_ml": "\u2014",
           "new_ml": "\u2014"
         },
-        "snapshot_time": "November 15, 2026 at 05:34 PM UTC"
+        "snapshot_time": "\u2014"
+      },
+      "fatigue": {
+        "home": {
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
+          "last_game": "Nov 14",
+          "days_rest": 2,
+          "games_last_4d": 2,
+          "travel_miles": 1089,
+          "travel_desc": "1,089 mi road trip",
+          "source": "ESPN Scoreboard API"
+        },
+        "away": {
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
+          "last_game": "Nov 14",
+          "days_rest": 2,
+          "games_last_4d": 2,
+          "travel_miles": 353,
+          "travel_desc": "353 mi road trip",
+          "source": "ESPN Scoreboard API"
+        }
+      },
+      "edge_factors": [
+        "\ud83d\udcca 53.4pt probability edge"
+      ],
+      "injury_notes": "No key injuries.",
+      "sharp": {
+        "away_t": null,
+        "home_t": null,
+        "source": null,
+        "sharp_signal": null,
+        "sharp_label": "Pending \u2014 check closer to tip-off",
+        "rlm": false
+      },
+      "form": {
+        "home": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        },
+        "away": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        }
+      },
+      "h2h": {
+        "total_meetings": 0,
+        "home_wins": 0,
+        "away_wins": 0,
+        "meetings": [],
+        "source": "\u2014"
+      },
+      "briefing": {
+        "trend": "Cleveland Cavaliers hold a 76.7% edge.",
+        "matchup": "Both rosters appear healthy \u2014 clean line.",
+        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "injury_notes": "No key injuries."
+      },
+      "live": {
+        "status": "pre",
+        "status_detail": "Upcoming",
+        "period": 0,
+        "clock": "",
+        "home_score": 0,
+        "away_score": 0,
+        "spread_alert": null
+      },
+      "news": [
+        {
+          "title": "Kings\u2019 Ben Simmons returns to Sacramento facility after Achilles tear",
+          "source": "ClutchPoints",
+          "link": "https://clutchpoints.com/nba/sacramento-kings/kings-news-ben-simmons-returns-sacramento-facility-after-achilles-tear",
+          "published": "2026-11-15T05:33:45Z"
+        },
+        {
+          "title": "Heat Outplay Pistons For Fourth Straight Win: 3 Takeaways From Star-Studded Clash",
+          "source": "Fadeaway World",
+          "link": "https://fadeawayworld.net/nba/miami-heat/heat-outplay-pistons-for-fourth-straight-win-3-takeaways-from-star-studded-clash",
+          "published": "2026-11-15T05:10:01Z"
+        },
+        {
+          "title": "Jokic, Murray help Nuggets hand Pelicans a sixth straight loss",
+          "source": "Yahoo Entertainment",
+          "link": "https://sports.yahoo.com/articles/jokic-murray-help-nuggets-hand-050607024.html",
+          "published": "2026-11-15T05:06:07Z"
+        }
+      ]
+    },
+    {
+      "game": "Memphis Grizzlies @ Washington Wizards",
+      "home_team": "Washington Wizards",
+      "away_team": "Memphis Grizzlies",
+      "home_abbr": "WAS",
+      "away_abbr": "MEM",
+      "home_ml": "+146",
+      "away_ml": "-173",
+      "home_ml_raw": 146,
+      "away_ml_raw": -173,
+      "home_prob": 39.1,
+      "away_prob": 60.9,
+      "spread": "WAS +3.5",
+      "favorite": "Memphis Grizzlies",
+      "pick": "Memphis Grizzlies",
+      "pick_abbr": "MEM",
+      "moneyline": "-173",
+      "win_probability": 60.9,
+      "confidence": "MEDIUM",
+      "confidence_stars": "\u2605\u2605\u2606",
+      "commence_time": "2026-11-17T00:10:00Z",
+      "line_movement": {
+        "home": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "away": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "pick": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "snapshot_time": "\u2014"
       },
       "fatigue": {
         "home": {
@@ -203,6 +347,296 @@
           "battery": 20,
           "last_game": "Nov 15",
           "days_rest": 1,
+          "games_last_4d": 2,
+          "travel_miles": 0,
+          "travel_desc": "",
+          "source": "ESPN Scoreboard API"
+        },
+        "away": {
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
+          "last_game": "Nov 14",
+          "days_rest": 2,
+          "games_last_4d": 2,
+          "travel_miles": 359,
+          "travel_desc": "359 mi road trip",
+          "source": "ESPN Scoreboard API"
+        }
+      },
+      "edge_factors": [
+        "\ud83d\udca4 WAS fatigued (B2B) \u2014 source: ESPN"
+      ],
+      "injury_notes": "No key injuries.",
+      "sharp": {
+        "away_t": null,
+        "home_t": null,
+        "source": null,
+        "sharp_signal": null,
+        "sharp_label": "Pending \u2014 check closer to tip-off",
+        "rlm": false
+      },
+      "form": {
+        "home": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        },
+        "away": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        }
+      },
+      "h2h": {
+        "total_meetings": 0,
+        "home_wins": 0,
+        "away_wins": 0,
+        "meetings": [],
+        "source": "\u2014"
+      },
+      "briefing": {
+        "trend": "WAS on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "matchup": "Both rosters appear healthy \u2014 clean line.",
+        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "injury_notes": "No key injuries."
+      },
+      "live": {
+        "status": "pre",
+        "status_detail": "Upcoming",
+        "period": 0,
+        "clock": "",
+        "home_score": 0,
+        "away_score": 0,
+        "spread_alert": null
+      },
+      "news": [
+        {
+          "title": "Kings\u2019 Ben Simmons returns to Sacramento facility after Achilles tear",
+          "source": "ClutchPoints",
+          "link": "https://clutchpoints.com/nba/sacramento-kings/kings-news-ben-simmons-returns-sacramento-facility-after-achilles-tear",
+          "published": "2026-11-15T05:33:45Z"
+        },
+        {
+          "title": "Heat Outplay Pistons For Fourth Straight Win: 3 Takeaways From Star-Studded Clash",
+          "source": "Fadeaway World",
+          "link": "https://fadeawayworld.net/nba/miami-heat/heat-outplay-pistons-for-fourth-straight-win-3-takeaways-from-star-studded-clash",
+          "published": "2026-11-15T05:10:01Z"
+        },
+        {
+          "title": "Jokic, Murray help Nuggets hand Pelicans a sixth straight loss",
+          "source": "Yahoo Entertainment",
+          "link": "https://sports.yahoo.com/articles/jokic-murray-help-nuggets-hand-050607024.html",
+          "published": "2026-11-15T05:06:07Z"
+        }
+      ]
+    },
+    {
+      "game": "Philadelphia 76ers @ Brooklyn Nets",
+      "home_team": "Brooklyn Nets",
+      "away_team": "Philadelphia 76ers",
+      "home_abbr": "BKN",
+      "away_abbr": "PHI",
+      "home_ml": "+191",
+      "away_ml": "-230",
+      "home_ml_raw": 191,
+      "away_ml_raw": -230,
+      "home_prob": 33.0,
+      "away_prob": 67.0,
+      "spread": "BKN +5.5",
+      "favorite": "Philadelphia 76ers",
+      "pick": "Philadelphia 76ers",
+      "pick_abbr": "PHI",
+      "moneyline": "-230",
+      "win_probability": 67.0,
+      "confidence": "MEDIUM",
+      "confidence_stars": "\u2605\u2605\u2606",
+      "commence_time": "2026-11-17T00:40:00Z",
+      "line_movement": {
+        "home": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "away": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "pick": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "snapshot_time": "\u2014"
+      },
+      "fatigue": {
+        "home": {
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
+          "last_game": "Nov 14",
+          "days_rest": 2,
+          "games_last_4d": 1,
+          "travel_miles": 955,
+          "travel_desc": "955 mi road trip",
+          "source": "ESPN Scoreboard API"
+        },
+        "away": {
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Nov 15",
+          "days_rest": 1,
+          "games_last_4d": 2,
+          "travel_miles": 0,
+          "travel_desc": "",
+          "source": "ESPN Scoreboard API"
+        }
+      },
+      "edge_factors": [
+        "\ud83d\udcca 34.0pt probability edge"
+      ],
+      "injury_notes": "No key injuries.",
+      "sharp": {
+        "away_t": null,
+        "home_t": null,
+        "source": null,
+        "sharp_signal": null,
+        "sharp_label": "Pending \u2014 check closer to tip-off",
+        "rlm": false
+      },
+      "form": {
+        "home": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        },
+        "away": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        }
+      },
+      "h2h": {
+        "total_meetings": 0,
+        "home_wins": 0,
+        "away_wins": 0,
+        "meetings": [],
+        "source": "\u2014"
+      },
+      "briefing": {
+        "trend": "PHI on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "matchup": "Both rosters appear healthy \u2014 clean line.",
+        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "injury_notes": "No key injuries."
+      },
+      "live": {
+        "status": "pre",
+        "status_detail": "Upcoming",
+        "period": 0,
+        "clock": "",
+        "home_score": 0,
+        "away_score": 0,
+        "spread_alert": null
+      },
+      "news": [
+        {
+          "title": "Kings\u2019 Ben Simmons returns to Sacramento facility after Achilles tear",
+          "source": "ClutchPoints",
+          "link": "https://clutchpoints.com/nba/sacramento-kings/kings-news-ben-simmons-returns-sacramento-facility-after-achilles-tear",
+          "published": "2026-11-15T05:33:45Z"
+        },
+        {
+          "title": "Heat Outplay Pistons For Fourth Straight Win: 3 Takeaways From Star-Studded Clash",
+          "source": "Fadeaway World",
+          "link": "https://fadeawayworld.net/nba/miami-heat/heat-outplay-pistons-for-fourth-straight-win-3-takeaways-from-star-studded-clash",
+          "published": "2026-11-15T05:10:01Z"
+        },
+        {
+          "title": "Jokic, Murray help Nuggets hand Pelicans a sixth straight loss",
+          "source": "Yahoo Entertainment",
+          "link": "https://sports.yahoo.com/articles/jokic-murray-help-nuggets-hand-050607024.html",
+          "published": "2026-11-15T05:06:07Z"
+        }
+      ]
+    },
+    {
+      "game": "Houston Rockets @ Miami Heat",
+      "home_team": "Miami Heat",
+      "away_team": "Houston Rockets",
+      "home_abbr": "MIA",
+      "away_abbr": "HOU",
+      "home_ml": "+120",
+      "away_ml": "-142",
+      "home_ml_raw": 120,
+      "away_ml_raw": -142,
+      "home_prob": 43.7,
+      "away_prob": 56.3,
+      "spread": "MIA +2.5",
+      "favorite": "Houston Rockets",
+      "pick": "Houston Rockets",
+      "pick_abbr": "HOU",
+      "moneyline": "-142",
+      "win_probability": 56.3,
+      "confidence": "LOW",
+      "confidence_stars": "\u2605\u2606\u2606",
+      "commence_time": "2026-11-17T00:40:00Z",
+      "line_movement": {
+        "home": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "away": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "pick": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "snapshot_time": "\u2014"
+      },
+      "fatigue": {
+        "home": {
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
+          "last_game": "Nov 14",
+          "days_rest": 2,
           "games_last_4d": 2,
           "travel_miles": 0,
           "travel_desc": "",
@@ -221,7 +655,7 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udca4 HOU fatigued (B2B) \u2014 source: ESPN"
+        "\ud83d\udcca 12.6pt probability edge"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -258,7 +692,7 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "WAS on Back-to-Back \u26a0\ufe0f per ESPN schedule data. HOU on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "trend": "HOU on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
         "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
@@ -274,227 +708,81 @@
       },
       "news": [
         {
-          "title": "Ajay Mitchell injury update: Will OKC Thunder guard return vs Kings?",
-          "source": "Oklahoman.com",
-          "link": "https://www.oklahoman.com/story/sports/nba/thunder/2026/11/14/okc-thunder-ajay-mitchell-injury-update-vs-kings-left-ankle-sprain/92788216007/",
-          "published": "2026-11-15T01:08:23Z"
+          "title": "Kings\u2019 Ben Simmons returns to Sacramento facility after Achilles tear",
+          "source": "ClutchPoints",
+          "link": "https://clutchpoints.com/nba/sacramento-kings/kings-news-ben-simmons-returns-sacramento-facility-after-achilles-tear",
+          "published": "2026-11-15T05:33:45Z"
         },
         {
-          "title": "Lions vs. Patriots odds, picks, prediction, spread: Start time, betting preview, best bets for Munich game",
-          "source": "CBS Sports",
-          "link": "https://www.cbssports.com/betting/news/lions-vs-patriots-odds-picks-prediction-spread-start-time-betting-preview-best-bets-for-munich-game/",
-          "published": "2026-11-15T01:00:51Z"
+          "title": "Heat Outplay Pistons For Fourth Straight Win: 3 Takeaways From Star-Studded Clash",
+          "source": "Fadeaway World",
+          "link": "https://fadeawayworld.net/nba/miami-heat/heat-outplay-pistons-for-fourth-straight-win-3-takeaways-from-star-studded-clash",
+          "published": "2026-11-15T05:10:01Z"
         },
         {
-          "title": "Practical, possible, and unlikely trades for Jalen Green",
-          "source": "Bright Side of the Sun",
-          "link": "https://www.brightsideofthesun.com/suns-rumors/113706/jalen-green-three-trade-proposals-dejounte-murray-tyler-herro-jrue-holiday",
-          "published": "2026-11-15T01:00:00Z"
+          "title": "Jokic, Murray help Nuggets hand Pelicans a sixth straight loss",
+          "source": "Yahoo Entertainment",
+          "link": "https://sports.yahoo.com/articles/jokic-murray-help-nuggets-hand-050607024.html",
+          "published": "2026-11-15T05:06:07Z"
         }
       ]
     },
     {
-      "game": "Atlanta Hawks @ Milwaukee Bucks",
-      "home_team": "Milwaukee Bucks",
-      "away_team": "Atlanta Hawks",
-      "home_abbr": "MIL",
-      "away_abbr": "ATL",
-      "home_ml": "-200",
-      "away_ml": "+150",
-      "home_ml_raw": -200,
-      "away_ml_raw": 150,
-      "home_prob": 62.5,
-      "away_prob": 37.5,
-      "spread": "MIL -4.5",
-      "favorite": "Milwaukee Bucks",
-      "pick": "Milwaukee Bucks",
-      "pick_abbr": "MIL",
-      "moneyline": "-200",
-      "win_probability": 62.5,
-      "confidence": "MEDIUM",
-      "confidence_stars": "\u2605\u2605\u2606",
-      "commence_time": "2026-11-16T01:11:00Z",
-      "line_movement": {
-        "home": {
-          "direction": "shorter",
-          "points_moved": 461,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -200 \u2190 +261",
-          "old_ml": "+261",
-          "new_ml": "-200"
-        },
-        "away": {
-          "direction": "longer",
-          "points_moved": 474,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM +150 \u2190 -324",
-          "old_ml": "-324",
-          "new_ml": "+150"
-        },
-        "pick": {
-          "direction": "shorter",
-          "points_moved": 461,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -200 \u2190 +261",
-          "old_ml": "+261",
-          "new_ml": "-200"
-        },
-        "snapshot_time": "November 15, 2026 at 05:34 PM UTC"
-      },
-      "fatigue": {
-        "home": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
-          "last_game": "Nov 15",
-          "days_rest": 1,
-          "games_last_4d": 2,
-          "travel_miles": 1066,
-          "travel_desc": "1,066 mi road trip",
-          "source": "ESPN Scoreboard API"
-        },
-        "away": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
-          "last_game": "Nov 15",
-          "days_rest": 1,
-          "games_last_4d": 2,
-          "travel_miles": 669,
-          "travel_desc": "669 mi road trip",
-          "source": "ESPN Scoreboard API"
-        }
-      },
-      "edge_factors": [
-        "\ud83d\udd25 Sharp steam detected",
-        "\ud83d\udca4 ATL fatigued (B2B) \u2014 source: ESPN"
-      ],
-      "injury_notes": "No key injuries.",
-      "sharp": {
-        "away_t": null,
-        "home_t": null,
-        "source": null,
-        "sharp_signal": null,
-        "sharp_label": "Pending \u2014 check closer to tip-off",
-        "rlm": false
-      },
-      "form": {
-        "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        },
-        "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        }
-      },
-      "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
-      },
-      "briefing": {
-        "trend": "MIL on Back-to-Back \u26a0\ufe0f per ESPN schedule data. ATL on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from +261 to -200 (461pt move) \u2014 heavy professional action on Milwaukee Bucks.",
-        "injury_notes": "No key injuries."
-      },
-      "live": {
-        "status": "pre",
-        "status_detail": "Upcoming",
-        "period": 0,
-        "clock": "",
-        "home_score": 0,
-        "away_score": 0,
-        "spread_alert": null
-      },
-      "news": [
-        {
-          "title": "Ajay Mitchell injury update: Will OKC Thunder guard return vs Kings?",
-          "source": "Oklahoman.com",
-          "link": "https://www.oklahoman.com/story/sports/nba/thunder/2026/11/14/okc-thunder-ajay-mitchell-injury-update-vs-kings-left-ankle-sprain/92788216007/",
-          "published": "2026-11-15T01:08:23Z"
-        },
-        {
-          "title": "Lions vs. Patriots odds, picks, prediction, spread: Start time, betting preview, best bets for Munich game",
-          "source": "CBS Sports",
-          "link": "https://www.cbssports.com/betting/news/lions-vs-patriots-odds-picks-prediction-spread-start-time-betting-preview-best-bets-for-munich-game/",
-          "published": "2026-11-15T01:00:51Z"
-        },
-        {
-          "title": "Practical, possible, and unlikely trades for Jalen Green",
-          "source": "Bright Side of the Sun",
-          "link": "https://www.brightsideofthesun.com/suns-rumors/113706/jalen-green-three-trade-proposals-dejounte-murray-tyler-herro-jrue-holiday",
-          "published": "2026-11-15T01:00:00Z"
-        }
-      ]
-    },
-    {
-      "game": "Oklahoma City Thunder @ Sacramento Kings",
-      "home_team": "Sacramento Kings",
-      "away_team": "Oklahoma City Thunder",
-      "home_abbr": "SAC",
-      "away_abbr": "OKC",
-      "home_ml": "+443",
-      "away_ml": "-597",
-      "home_ml_raw": 443,
-      "away_ml_raw": -597,
-      "home_prob": 17.7,
-      "away_prob": 82.3,
-      "spread": "SAC +12.5",
-      "favorite": "Oklahoma City Thunder",
-      "pick": "Oklahoma City Thunder",
-      "pick_abbr": "OKC",
-      "moneyline": "-597",
-      "win_probability": 82.3,
-      "confidence": "HIGH",
-      "confidence_stars": "\u2605\u2605\u2605",
-      "commence_time": "2026-11-16T02:10:00Z",
+      "game": "Golden State Warriors @ New Orleans Pelicans",
+      "home_team": "New Orleans Pelicans",
+      "away_team": "Golden State Warriors",
+      "home_abbr": "NOP",
+      "away_abbr": "GSW",
+      "home_ml": "+128",
+      "away_ml": "-152",
+      "home_ml_raw": 128,
+      "away_ml_raw": -152,
+      "home_prob": 42.1,
+      "away_prob": 57.9,
+      "spread": "NOP +3.5",
+      "favorite": "Golden State Warriors",
+      "pick": "Golden State Warriors",
+      "pick_abbr": "GSW",
+      "moneyline": "-152",
+      "win_probability": 57.9,
+      "confidence": "LOW",
+      "confidence_stars": "\u2605\u2606\u2606",
+      "commence_time": "2026-11-17T01:10:00Z",
       "line_movement": {
         "home": {
           "direction": "longer",
-          "points_moved": 82,
+          "points_moved": 17,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM +443 \u2190 +361",
-          "old_ml": "+361",
-          "new_ml": "+443"
+          "label": "\ud83d\udd25 STEAM +128 \u2190 +111",
+          "old_ml": "+111",
+          "new_ml": "+128"
         },
         "away": {
           "direction": "shorter",
-          "points_moved": 129,
+          "points_moved": 21,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM -597 \u2190 -468",
-          "old_ml": "-468",
-          "new_ml": "-597"
+          "label": "\ud83d\udd25 STEAM -152 \u2190 -131",
+          "old_ml": "-131",
+          "new_ml": "-152"
         },
         "pick": {
           "direction": "shorter",
-          "points_moved": 129,
+          "points_moved": 21,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM -597 \u2190 -468",
-          "old_ml": "-468",
-          "new_ml": "-597"
+          "label": "\ud83d\udd25 STEAM -152 \u2190 -131",
+          "old_ml": "-131",
+          "new_ml": "-152"
         },
-        "snapshot_time": "November 15, 2026 at 05:34 PM UTC"
+        "snapshot_time": "November 16, 2026 at 01:36 AM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "RESTED",
-          "label": "2 days rest \u2705",
-          "battery": 88,
-          "last_game": "Nov 13",
-          "days_rest": 3,
-          "games_last_4d": 1,
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
+          "last_game": "Nov 14",
+          "days_rest": 2,
+          "games_last_4d": 2,
           "travel_miles": 0,
           "travel_desc": "",
           "source": "ESPN Scoreboard API"
@@ -506,8 +794,8 @@
           "last_game": "Nov 13",
           "days_rest": 3,
           "games_last_4d": 1,
-          "travel_miles": 1180,
-          "travel_desc": "1,180 mi road trip",
+          "travel_miles": 1489,
+          "travel_desc": "1,489 mi road trip",
           "source": "ESPN Scoreboard API"
         }
       },
@@ -549,9 +837,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "Oklahoma City Thunder hold a 82.3% edge.",
+        "trend": "Golden State Warriors hold a 57.9% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -468 to -597 (129pt move) \u2014 heavy professional action on Oklahoma City Thunder.",
+        "steam": "Line steamed from -131 to -152 (21pt move) \u2014 heavy professional action on Golden State Warriors.",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -565,167 +853,22 @@
       },
       "news": [
         {
-          "title": "Ajay Mitchell injury update: Will OKC Thunder guard return vs Kings?",
-          "source": "Oklahoman.com",
-          "link": "https://www.oklahoman.com/story/sports/nba/thunder/2026/11/14/okc-thunder-ajay-mitchell-injury-update-vs-kings-left-ankle-sprain/92788216007/",
-          "published": "2026-11-15T01:08:23Z"
+          "title": "Kings\u2019 Ben Simmons returns to Sacramento facility after Achilles tear",
+          "source": "ClutchPoints",
+          "link": "https://clutchpoints.com/nba/sacramento-kings/kings-news-ben-simmons-returns-sacramento-facility-after-achilles-tear",
+          "published": "2026-11-15T05:33:45Z"
         },
         {
-          "title": "Lions vs. Patriots odds, picks, prediction, spread: Start time, betting preview, best bets for Munich game",
-          "source": "CBS Sports",
-          "link": "https://www.cbssports.com/betting/news/lions-vs-patriots-odds-picks-prediction-spread-start-time-betting-preview-best-bets-for-munich-game/",
-          "published": "2026-11-15T01:00:51Z"
+          "title": "Heat Outplay Pistons For Fourth Straight Win: 3 Takeaways From Star-Studded Clash",
+          "source": "Fadeaway World",
+          "link": "https://fadeawayworld.net/nba/miami-heat/heat-outplay-pistons-for-fourth-straight-win-3-takeaways-from-star-studded-clash",
+          "published": "2026-11-15T05:10:01Z"
         },
         {
-          "title": "Practical, possible, and unlikely trades for Jalen Green",
-          "source": "Bright Side of the Sun",
-          "link": "https://www.brightsideofthesun.com/suns-rumors/113706/jalen-green-three-trade-proposals-dejounte-murray-tyler-herro-jrue-holiday",
-          "published": "2026-11-15T01:00:00Z"
-        }
-      ]
-    },
-    {
-      "game": "Golden State Warriors @ New Orleans Pelicans",
-      "home_team": "New Orleans Pelicans",
-      "away_team": "Golden State Warriors",
-      "home_abbr": "NOP",
-      "away_abbr": "GSW",
-      "home_ml": "+111",
-      "away_ml": "-131",
-      "home_ml_raw": 111,
-      "away_ml_raw": -131,
-      "home_prob": 45.5,
-      "away_prob": 54.5,
-      "spread": "NOP +2.5",
-      "favorite": "Golden State Warriors",
-      "pick": "Golden State Warriors",
-      "pick_abbr": "GSW",
-      "moneyline": "-131",
-      "win_probability": 54.5,
-      "confidence": "LOW",
-      "confidence_stars": "\u2605\u2606\u2606",
-      "commence_time": "2026-11-17T01:10:00Z",
-      "line_movement": {
-        "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
-        },
-        "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
-        },
-        "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
-        },
-        "snapshot_time": "\u2014"
-      },
-      "fatigue": {
-        "home": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "Nov 14",
-          "days_rest": 2,
-          "games_last_4d": 2,
-          "travel_miles": 0,
-          "travel_desc": "",
-          "source": "ESPN Scoreboard API"
-        },
-        "away": {
-          "status": "RESTED",
-          "label": "2 days rest \u2705",
-          "battery": 88,
-          "last_game": "Nov 13",
-          "days_rest": 3,
-          "games_last_4d": 1,
-          "travel_miles": 1489,
-          "travel_desc": "1,489 mi road trip",
-          "source": "ESPN Scoreboard API"
-        }
-      },
-      "edge_factors": [
-        "\ud83d\udcca 9.0pt probability edge"
-      ],
-      "injury_notes": "No key injuries.",
-      "sharp": {
-        "away_t": null,
-        "home_t": null,
-        "source": null,
-        "sharp_signal": null,
-        "sharp_label": "Pending \u2014 check closer to tip-off",
-        "rlm": false
-      },
-      "form": {
-        "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        },
-        "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        }
-      },
-      "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
-      },
-      "briefing": {
-        "trend": "Golden State Warriors hold a 54.5% edge.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
-        "injury_notes": "No key injuries."
-      },
-      "live": {
-        "status": "pre",
-        "status_detail": "Upcoming",
-        "period": 0,
-        "clock": "",
-        "home_score": 0,
-        "away_score": 0,
-        "spread_alert": null
-      },
-      "news": [
-        {
-          "title": "Ajay Mitchell injury update: Will OKC Thunder guard return vs Kings?",
-          "source": "Oklahoman.com",
-          "link": "https://www.oklahoman.com/story/sports/nba/thunder/2026/11/14/okc-thunder-ajay-mitchell-injury-update-vs-kings-left-ankle-sprain/92788216007/",
-          "published": "2026-11-15T01:08:23Z"
-        },
-        {
-          "title": "Lions vs. Patriots odds, picks, prediction, spread: Start time, betting preview, best bets for Munich game",
-          "source": "CBS Sports",
-          "link": "https://www.cbssports.com/betting/news/lions-vs-patriots-odds-picks-prediction-spread-start-time-betting-preview-best-bets-for-munich-game/",
-          "published": "2026-11-15T01:00:51Z"
-        },
-        {
-          "title": "Practical, possible, and unlikely trades for Jalen Green",
-          "source": "Bright Side of the Sun",
-          "link": "https://www.brightsideofthesun.com/suns-rumors/113706/jalen-green-three-trade-proposals-dejounte-murray-tyler-herro-jrue-holiday",
-          "published": "2026-11-15T01:00:00Z"
+          "title": "Jokic, Murray help Nuggets hand Pelicans a sixth straight loss",
+          "source": "Yahoo Entertainment",
+          "link": "https://sports.yahoo.com/articles/jokic-murray-help-nuggets-hand-050607024.html",
+          "published": "2026-11-15T05:06:07Z"
         }
       ]
     },
@@ -735,47 +878,47 @@
       "away_team": "Portland Trail Blazers",
       "home_abbr": "MIN",
       "away_abbr": "POR",
-      "home_ml": "-133",
-      "away_ml": "+113",
-      "home_ml_raw": -133,
-      "away_ml_raw": 113,
-      "home_prob": 54.9,
-      "away_prob": 45.1,
+      "home_ml": "-142",
+      "away_ml": "+120",
+      "home_ml_raw": -142,
+      "away_ml_raw": 120,
+      "home_prob": 56.3,
+      "away_prob": 43.7,
       "spread": "MIN -2.5",
       "favorite": "Minnesota Timberwolves",
       "pick": "Minnesota Timberwolves",
       "pick_abbr": "MIN",
-      "moneyline": "-133",
-      "win_probability": 54.9,
+      "moneyline": "-142",
+      "win_probability": 56.3,
       "confidence": "LOW",
       "confidence_stars": "\u2605\u2606\u2606",
       "commence_time": "2026-11-17T01:10:00Z",
       "line_movement": {
         "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "direction": "shorter",
+          "points_moved": 9,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -142 \u2190 -133",
+          "old_ml": "-133",
+          "new_ml": "-142"
         },
         "away": {
-          "direction": "none",
-          "points_moved": 0,
+          "direction": "longer",
+          "points_moved": 7,
           "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "label": "\ud83d\udd34 +120 \u2190 +113",
+          "old_ml": "+113",
+          "new_ml": "+120"
         },
         "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "direction": "shorter",
+          "points_moved": 9,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -142 \u2190 -133",
+          "old_ml": "-133",
+          "new_ml": "-142"
         },
-        "snapshot_time": "\u2014"
+        "snapshot_time": "November 16, 2026 at 01:36 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -802,7 +945,7 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udcca 9.8pt probability edge"
+        "\ud83d\udd25 Sharp steam detected"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -839,7 +982,152 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "Minnesota Timberwolves hold a 54.9% edge.",
+        "trend": "Minnesota Timberwolves hold a 56.3% edge.",
+        "matchup": "Both rosters appear healthy \u2014 clean line.",
+        "steam": "Line steamed from -133 to -142 (9pt move) \u2014 heavy professional action on Minnesota Timberwolves.",
+        "injury_notes": "No key injuries."
+      },
+      "live": {
+        "status": "pre",
+        "status_detail": "Upcoming",
+        "period": 0,
+        "clock": "",
+        "home_score": 0,
+        "away_score": 0,
+        "spread_alert": null
+      },
+      "news": [
+        {
+          "title": "Kings\u2019 Ben Simmons returns to Sacramento facility after Achilles tear",
+          "source": "ClutchPoints",
+          "link": "https://clutchpoints.com/nba/sacramento-kings/kings-news-ben-simmons-returns-sacramento-facility-after-achilles-tear",
+          "published": "2026-11-15T05:33:45Z"
+        },
+        {
+          "title": "Heat Outplay Pistons For Fourth Straight Win: 3 Takeaways From Star-Studded Clash",
+          "source": "Fadeaway World",
+          "link": "https://fadeawayworld.net/nba/miami-heat/heat-outplay-pistons-for-fourth-straight-win-3-takeaways-from-star-studded-clash",
+          "published": "2026-11-15T05:10:01Z"
+        },
+        {
+          "title": "Jokic, Murray help Nuggets hand Pelicans a sixth straight loss",
+          "source": "Yahoo Entertainment",
+          "link": "https://sports.yahoo.com/articles/jokic-murray-help-nuggets-hand-050607024.html",
+          "published": "2026-11-15T05:06:07Z"
+        }
+      ]
+    },
+    {
+      "game": "Phoenix Suns @ Denver Nuggets",
+      "home_team": "Denver Nuggets",
+      "away_team": "Phoenix Suns",
+      "home_abbr": "DEN",
+      "away_abbr": "PHX",
+      "home_ml": "-438",
+      "away_ml": "+341",
+      "home_ml_raw": -438,
+      "away_ml_raw": 341,
+      "home_prob": 78.2,
+      "away_prob": 21.8,
+      "spread": "DEN -10.5",
+      "favorite": "Denver Nuggets",
+      "pick": "Denver Nuggets",
+      "pick_abbr": "DEN",
+      "moneyline": "-438",
+      "win_probability": 78.2,
+      "confidence": "HIGH",
+      "confidence_stars": "\u2605\u2605\u2605",
+      "commence_time": "2026-11-17T02:10:00Z",
+      "line_movement": {
+        "home": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "away": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "pick": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "snapshot_time": "\u2014"
+      },
+      "fatigue": {
+        "home": {
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
+          "last_game": "Nov 14",
+          "days_rest": 2,
+          "games_last_4d": 1,
+          "travel_miles": 1081,
+          "travel_desc": "1,081 mi road trip",
+          "source": "ESPN Scoreboard API"
+        },
+        "away": {
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Nov 15",
+          "days_rest": 1,
+          "games_last_4d": 2,
+          "travel_miles": 0,
+          "travel_desc": "",
+          "source": "ESPN Scoreboard API"
+        }
+      },
+      "edge_factors": [
+        "\ud83d\udca4 PHX fatigued (B2B) \u2014 source: ESPN"
+      ],
+      "injury_notes": "No key injuries.",
+      "sharp": {
+        "away_t": null,
+        "home_t": null,
+        "source": null,
+        "sharp_signal": null,
+        "sharp_label": "Pending \u2014 check closer to tip-off",
+        "rlm": false
+      },
+      "form": {
+        "home": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        },
+        "away": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        }
+      },
+      "h2h": {
+        "total_meetings": 0,
+        "home_wins": 0,
+        "away_wins": 0,
+        "meetings": [],
+        "source": "\u2014"
+      },
+      "briefing": {
+        "trend": "PHX on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
         "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
@@ -855,22 +1143,22 @@
       },
       "news": [
         {
-          "title": "Ajay Mitchell injury update: Will OKC Thunder guard return vs Kings?",
-          "source": "Oklahoman.com",
-          "link": "https://www.oklahoman.com/story/sports/nba/thunder/2026/11/14/okc-thunder-ajay-mitchell-injury-update-vs-kings-left-ankle-sprain/92788216007/",
-          "published": "2026-11-15T01:08:23Z"
+          "title": "Kings\u2019 Ben Simmons returns to Sacramento facility after Achilles tear",
+          "source": "ClutchPoints",
+          "link": "https://clutchpoints.com/nba/sacramento-kings/kings-news-ben-simmons-returns-sacramento-facility-after-achilles-tear",
+          "published": "2026-11-15T05:33:45Z"
         },
         {
-          "title": "Lions vs. Patriots odds, picks, prediction, spread: Start time, betting preview, best bets for Munich game",
-          "source": "CBS Sports",
-          "link": "https://www.cbssports.com/betting/news/lions-vs-patriots-odds-picks-prediction-spread-start-time-betting-preview-best-bets-for-munich-game/",
-          "published": "2026-11-15T01:00:51Z"
+          "title": "Heat Outplay Pistons For Fourth Straight Win: 3 Takeaways From Star-Studded Clash",
+          "source": "Fadeaway World",
+          "link": "https://fadeawayworld.net/nba/miami-heat/heat-outplay-pistons-for-fourth-straight-win-3-takeaways-from-star-studded-clash",
+          "published": "2026-11-15T05:10:01Z"
         },
         {
-          "title": "Practical, possible, and unlikely trades for Jalen Green",
-          "source": "Bright Side of the Sun",
-          "link": "https://www.brightsideofthesun.com/suns-rumors/113706/jalen-green-three-trade-proposals-dejounte-murray-tyler-herro-jrue-holiday",
-          "published": "2026-11-15T01:00:00Z"
+          "title": "Jokic, Murray help Nuggets hand Pelicans a sixth straight loss",
+          "source": "Yahoo Entertainment",
+          "link": "https://sports.yahoo.com/articles/jokic-murray-help-nuggets-hand-050607024.html",
+          "published": "2026-11-15T05:06:07Z"
         }
       ]
     }
@@ -885,36 +1173,36 @@
       "profit": 161.37
     },
     "MEDIUM": {
-      "wins": 53,
+      "wins": 54,
       "losses": 21,
-      "total": 74,
-      "win_pct": 71.6,
-      "roi": 7.3,
-      "profit": 543.41
+      "total": 75,
+      "win_pct": 72.0,
+      "roi": 7.9,
+      "profit": 595.49
     },
     "HIGH": {
-      "wins": 43,
+      "wins": 46,
       "losses": 6,
-      "total": 49,
-      "win_pct": 87.8,
-      "roi": 5.0,
-      "profit": 244.23
+      "total": 52,
+      "win_pct": 88.5,
+      "roi": 6.2,
+      "profit": 320.73
     },
     "overall_7d": {
       "wins": 30,
-      "losses": 9,
-      "total": 39,
-      "win_pct": 76.9,
-      "roi": 9.4,
-      "profit": 367.94
+      "losses": 7,
+      "total": 37,
+      "win_pct": 81.1,
+      "roi": 14.0,
+      "profit": 517.06
     },
     "overall_30d": {
-      "wins": 112,
+      "wins": 116,
       "losses": 41,
-      "total": 153,
-      "win_pct": 73.2,
-      "roi": 4.9,
-      "profit": 756.71
+      "total": 157,
+      "win_pct": 73.9,
+      "roi": 5.6,
+      "profit": 885.29
     }
   }
 }
