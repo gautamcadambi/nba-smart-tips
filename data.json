@@ -1,152 +1,7 @@
 {
-  "last_updated": "November 17, 2026 at 04:20 AM UTC",
-  "total_games": 6,
+  "last_updated": "November 17, 2026 at 07:16 AM UTC",
+  "total_games": 5,
   "games": [
-    {
-      "game": "Phoenix Suns @ Denver Nuggets",
-      "home_team": "Denver Nuggets",
-      "away_team": "Phoenix Suns",
-      "home_abbr": "DEN",
-      "away_abbr": "PHX",
-      "home_ml": "N/A",
-      "away_ml": "N/A",
-      "home_ml_raw": null,
-      "away_ml_raw": null,
-      "home_prob": 50.0,
-      "away_prob": 50.0,
-      "spread": "DEN +7.5",
-      "favorite": "Denver Nuggets",
-      "pick": "Denver Nuggets",
-      "pick_abbr": "DEN",
-      "moneyline": "N/A",
-      "win_probability": 50.0,
-      "confidence": "LOW",
-      "confidence_stars": "\u2605\u2606\u2606",
-      "commence_time": "2026-11-17T02:11:15Z",
-      "line_movement": {
-        "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
-        },
-        "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
-        },
-        "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
-        },
-        "snapshot_time": "November 16, 2026 at 08:49 PM UTC"
-      },
-      "fatigue": {
-        "home": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
-          "last_game": "Nov 16",
-          "days_rest": 1,
-          "games_last_4d": 2,
-          "travel_miles": 1081,
-          "travel_desc": "1,081 mi road trip",
-          "source": "ESPN Scoreboard API"
-        },
-        "away": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
-          "last_game": "Nov 16",
-          "days_rest": 1,
-          "games_last_4d": 2,
-          "travel_miles": 585,
-          "travel_desc": "585 mi road trip",
-          "source": "ESPN Scoreboard API"
-        }
-      },
-      "edge_factors": [
-        "\ud83d\udca4 PHX fatigued (B2B) \u2014 source: ESPN"
-      ],
-      "injury_notes": "No key injuries.",
-      "sharp": {
-        "away_t": null,
-        "home_t": null,
-        "source": null,
-        "sharp_signal": null,
-        "sharp_label": "Pending \u2014 check closer to tip-off",
-        "rlm": false
-      },
-      "form": {
-        "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        },
-        "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        }
-      },
-      "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
-      },
-      "briefing": {
-        "trend": "DEN on Back-to-Back \u26a0\ufe0f per ESPN schedule data. PHX on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
-        "injury_notes": "No key injuries."
-      },
-      "live": {
-        "status": "pre",
-        "status_detail": "Upcoming",
-        "period": 0,
-        "clock": "",
-        "home_score": 0,
-        "away_score": 0,
-        "spread_alert": null
-      },
-      "news": [
-        {
-          "title": "\"I\u2019ve never complained a day in my life\u201d: Stephen Curry\u2019s wife Ayesha Curry hits back at criticism over her comments on motherhood",
-          "source": "The Times of India",
-          "link": "https://timesofindia.indiatimes.com/sports/nba/top-stories/ive-never-complained-a-day-in-my-life-stephen-currys-wife-ayesha-curry-hits-back-at-criticism-over-her-comments-on-motherhood/articleshow/135872507.cms",
-          "published": "2026-11-16T04:16:19Z"
-        },
-        {
-          "title": "Rockets (11-3) rout Wizards as Steven Adams makes return from injury",
-          "source": "USA Today",
-          "link": "https://rocketswire.usatoday.com/story/sports/nba/rockets/2026/11/15/rockets-11-3-rout-wizards-as-steven-adams-makes-return-from-injury/92804392007/",
-          "published": "2026-11-16T04:14:31Z"
-        },
-        {
-          "title": "How much longer can Jordan Ott ignore the obvious?",
-          "source": "Bright Side of the Sun",
-          "link": "https://www.brightsideofthesun.com/phoenx-suns-player-of-the-game/113630/starting-lineup-struggles-bench-identity-lakers-comeback-jordan-ott-roster-construction",
-          "published": "2026-11-16T04:00:00Z"
-        }
-      ]
-    },
     {
       "game": "New York Knicks @ Toronto Raptors",
       "home_team": "Toronto Raptors",
@@ -173,27 +28,27 @@
           "direction": "none",
           "points_moved": 0,
           "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "label": "No movement",
+          "old_ml": "+128",
+          "new_ml": "+128"
         },
         "away": {
           "direction": "none",
           "points_moved": 0,
           "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "label": "No movement",
+          "old_ml": "-152",
+          "new_ml": "-152"
         },
         "pick": {
           "direction": "none",
           "points_moved": 0,
           "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "label": "No movement",
+          "old_ml": "-152",
+          "new_ml": "-152"
         },
-        "snapshot_time": "\u2014"
+        "snapshot_time": "November 17, 2026 at 04:20 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -273,22 +128,22 @@
       },
       "news": [
         {
-          "title": "\"I\u2019ve never complained a day in my life\u201d: Stephen Curry\u2019s wife Ayesha Curry hits back at criticism over her comments on motherhood",
-          "source": "The Times of India",
-          "link": "https://timesofindia.indiatimes.com/sports/nba/top-stories/ive-never-complained-a-day-in-my-life-stephen-currys-wife-ayesha-curry-hits-back-at-criticism-over-her-comments-on-motherhood/articleshow/135872507.cms",
-          "published": "2026-11-16T04:16:19Z"
+          "title": "Weekend sports roundup",
+          "source": "Superpunch.net",
+          "link": "https://www.superpunch.net/2026/11/weekend-sports-roundup_01672344856.html",
+          "published": "2026-11-16T07:00:00Z"
         },
         {
-          "title": "Rockets (11-3) rout Wizards as Steven Adams makes return from injury",
-          "source": "USA Today",
-          "link": "https://rocketswire.usatoday.com/story/sports/nba/rockets/2026/11/15/rockets-11-3-rout-wizards-as-steven-adams-makes-return-from-injury/92804392007/",
-          "published": "2026-11-16T04:14:31Z"
+          "title": "\u2018Get better\u2019: Luka Doncic suggests there\u2019s something he\u2019s still not happy with despite Lakers going 12-2",
+          "source": "HITC - Football, Gaming, Movies, TV, Music",
+          "link": "https://www.hitc.com/get-better-luka-doncic-suggests-theres-something-hes-still-not-happy-with-despite-lakers-going-12-2/",
+          "published": "2026-11-16T06:50:57Z"
         },
         {
-          "title": "How much longer can Jordan Ott ignore the obvious?",
-          "source": "Bright Side of the Sun",
-          "link": "https://www.brightsideofthesun.com/phoenx-suns-player-of-the-game/113630/starting-lineup-struggles-bench-identity-lakers-comeback-jordan-ott-roster-construction",
-          "published": "2026-11-16T04:00:00Z"
+          "title": "Rockets star Kevin Durant spits out life lessons after knocking Wizards",
+          "source": "ClutchPoints",
+          "link": "https://clutchpoints.com/nba/houston-rockets/rockets-news-kevin-durant-spits-out-life-lessons-knocking-wizards",
+          "published": "2026-11-16T06:31:47Z"
         }
       ]
     },
@@ -298,47 +153,47 @@
       "away_team": "Detroit Pistons",
       "home_abbr": "SAS",
       "away_abbr": "DET",
-      "home_ml": "-345",
-      "away_ml": "+277",
-      "home_ml_raw": -345,
-      "away_ml_raw": 277,
-      "home_prob": 74.5,
-      "away_prob": 25.5,
-      "spread": "SAS -8.5",
+      "home_ml": "-371",
+      "away_ml": "+295",
+      "home_ml_raw": -371,
+      "away_ml_raw": 295,
+      "home_prob": 75.7,
+      "away_prob": 24.3,
+      "spread": "SAS -9.5",
       "favorite": "San Antonio Spurs",
       "pick": "San Antonio Spurs",
       "pick_abbr": "SAS",
-      "moneyline": "-345",
-      "win_probability": 74.5,
+      "moneyline": "-371",
+      "win_probability": 75.7,
       "confidence": "HIGH",
       "confidence_stars": "\u2605\u2605\u2605",
       "commence_time": "2026-11-18T01:10:00Z",
       "line_movement": {
         "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "direction": "shorter",
+          "points_moved": 26,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -371 \u2190 -345",
+          "old_ml": "-345",
+          "new_ml": "-371"
         },
         "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "direction": "longer",
+          "points_moved": 18,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM +295 \u2190 +277",
+          "old_ml": "+277",
+          "new_ml": "+295"
         },
         "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "direction": "shorter",
+          "points_moved": 26,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -371 \u2190 -345",
+          "old_ml": "-345",
+          "new_ml": "-371"
         },
-        "snapshot_time": "\u2014"
+        "snapshot_time": "November 17, 2026 at 04:20 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -365,7 +220,7 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udcca 49.0pt probability edge"
+        "\ud83d\udd25 Sharp steam detected"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -402,9 +257,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "San Antonio Spurs hold a 74.5% edge.",
+        "trend": "San Antonio Spurs hold a 75.7% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "steam": "Line steamed from -345 to -371 (26pt move) \u2014 heavy professional action on San Antonio Spurs.",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -418,22 +273,22 @@
       },
       "news": [
         {
-          "title": "\"I\u2019ve never complained a day in my life\u201d: Stephen Curry\u2019s wife Ayesha Curry hits back at criticism over her comments on motherhood",
-          "source": "The Times of India",
-          "link": "https://timesofindia.indiatimes.com/sports/nba/top-stories/ive-never-complained-a-day-in-my-life-stephen-currys-wife-ayesha-curry-hits-back-at-criticism-over-her-comments-on-motherhood/articleshow/135872507.cms",
-          "published": "2026-11-16T04:16:19Z"
+          "title": "Weekend sports roundup",
+          "source": "Superpunch.net",
+          "link": "https://www.superpunch.net/2026/11/weekend-sports-roundup_01672344856.html",
+          "published": "2026-11-16T07:00:00Z"
         },
         {
-          "title": "Rockets (11-3) rout Wizards as Steven Adams makes return from injury",
-          "source": "USA Today",
-          "link": "https://rocketswire.usatoday.com/story/sports/nba/rockets/2026/11/15/rockets-11-3-rout-wizards-as-steven-adams-makes-return-from-injury/92804392007/",
-          "published": "2026-11-16T04:14:31Z"
+          "title": "\u2018Get better\u2019: Luka Doncic suggests there\u2019s something he\u2019s still not happy with despite Lakers going 12-2",
+          "source": "HITC - Football, Gaming, Movies, TV, Music",
+          "link": "https://www.hitc.com/get-better-luka-doncic-suggests-theres-something-hes-still-not-happy-with-despite-lakers-going-12-2/",
+          "published": "2026-11-16T06:50:57Z"
         },
         {
-          "title": "How much longer can Jordan Ott ignore the obvious?",
-          "source": "Bright Side of the Sun",
-          "link": "https://www.brightsideofthesun.com/phoenx-suns-player-of-the-game/113630/starting-lineup-struggles-bench-identity-lakers-comeback-jordan-ott-roster-construction",
-          "published": "2026-11-16T04:00:00Z"
+          "title": "Rockets star Kevin Durant spits out life lessons after knocking Wizards",
+          "source": "ClutchPoints",
+          "link": "https://clutchpoints.com/nba/houston-rockets/rockets-news-kevin-durant-spits-out-life-lessons-knocking-wizards",
+          "published": "2026-11-16T06:31:47Z"
         }
       ]
     },
@@ -443,47 +298,47 @@
       "away_team": "Portland Trail Blazers",
       "home_abbr": "MIN",
       "away_abbr": "POR",
-      "home_ml": "-132",
-      "away_ml": "+111",
-      "home_ml_raw": -132,
-      "away_ml_raw": 111,
-      "home_prob": 54.6,
-      "away_prob": 45.4,
+      "home_ml": "-135",
+      "away_ml": "+114",
+      "home_ml_raw": -135,
+      "away_ml_raw": 114,
+      "home_prob": 55.1,
+      "away_prob": 44.9,
       "spread": "MIN -2.5",
       "favorite": "Minnesota Timberwolves",
       "pick": "Minnesota Timberwolves",
       "pick_abbr": "MIN",
-      "moneyline": "-132",
-      "win_probability": 54.6,
+      "moneyline": "-135",
+      "win_probability": 55.1,
       "confidence": "LOW",
       "confidence_stars": "\u2605\u2606\u2606",
       "commence_time": "2026-11-18T01:10:00Z",
       "line_movement": {
         "home": {
-          "direction": "longer",
-          "points_moved": 3,
-          "steam": false,
-          "label": "\ud83d\udd34 -132 \u2190 -135",
-          "old_ml": "-135",
-          "new_ml": "-132"
-        },
-        "away": {
           "direction": "shorter",
           "points_moved": 3,
           "steam": false,
-          "label": "\ud83d\udfe2 +111 \u2190 +114",
-          "old_ml": "+114",
-          "new_ml": "+111"
+          "label": "\ud83d\udfe2 -135 \u2190 -132",
+          "old_ml": "-132",
+          "new_ml": "-135"
         },
-        "pick": {
+        "away": {
           "direction": "longer",
           "points_moved": 3,
           "steam": false,
-          "label": "\ud83d\udd34 -132 \u2190 -135",
-          "old_ml": "-135",
-          "new_ml": "-132"
+          "label": "\ud83d\udd34 +114 \u2190 +111",
+          "old_ml": "+111",
+          "new_ml": "+114"
         },
-        "snapshot_time": "November 16, 2026 at 08:49 PM UTC"
+        "pick": {
+          "direction": "shorter",
+          "points_moved": 3,
+          "steam": false,
+          "label": "\ud83d\udfe2 -135 \u2190 -132",
+          "old_ml": "-132",
+          "new_ml": "-135"
+        },
+        "snapshot_time": "November 17, 2026 at 04:20 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -549,7 +404,7 @@
       "briefing": {
         "trend": "MIN on Back-to-Back \u26a0\ufe0f per ESPN schedule data. POR on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line moved -135\u2192-132 (3pts). Pending \u2014 check closer to tip-off",
+        "steam": "Line moved -132\u2192-135 (3pts). Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -563,22 +418,22 @@
       },
       "news": [
         {
-          "title": "\"I\u2019ve never complained a day in my life\u201d: Stephen Curry\u2019s wife Ayesha Curry hits back at criticism over her comments on motherhood",
-          "source": "The Times of India",
-          "link": "https://timesofindia.indiatimes.com/sports/nba/top-stories/ive-never-complained-a-day-in-my-life-stephen-currys-wife-ayesha-curry-hits-back-at-criticism-over-her-comments-on-motherhood/articleshow/135872507.cms",
-          "published": "2026-11-16T04:16:19Z"
+          "title": "Weekend sports roundup",
+          "source": "Superpunch.net",
+          "link": "https://www.superpunch.net/2026/11/weekend-sports-roundup_01672344856.html",
+          "published": "2026-11-16T07:00:00Z"
         },
         {
-          "title": "Rockets (11-3) rout Wizards as Steven Adams makes return from injury",
-          "source": "USA Today",
-          "link": "https://rocketswire.usatoday.com/story/sports/nba/rockets/2026/11/15/rockets-11-3-rout-wizards-as-steven-adams-makes-return-from-injury/92804392007/",
-          "published": "2026-11-16T04:14:31Z"
+          "title": "\u2018Get better\u2019: Luka Doncic suggests there\u2019s something he\u2019s still not happy with despite Lakers going 12-2",
+          "source": "HITC - Football, Gaming, Movies, TV, Music",
+          "link": "https://www.hitc.com/get-better-luka-doncic-suggests-theres-something-hes-still-not-happy-with-despite-lakers-going-12-2/",
+          "published": "2026-11-16T06:50:57Z"
         },
         {
-          "title": "How much longer can Jordan Ott ignore the obvious?",
-          "source": "Bright Side of the Sun",
-          "link": "https://www.brightsideofthesun.com/phoenx-suns-player-of-the-game/113630/starting-lineup-struggles-bench-identity-lakers-comeback-jordan-ott-roster-construction",
-          "published": "2026-11-16T04:00:00Z"
+          "title": "Rockets star Kevin Durant spits out life lessons after knocking Wizards",
+          "source": "ClutchPoints",
+          "link": "https://clutchpoints.com/nba/houston-rockets/rockets-news-kevin-durant-spits-out-life-lessons-knocking-wizards",
+          "published": "2026-11-16T06:31:47Z"
         }
       ]
     },
@@ -588,47 +443,47 @@
       "away_team": "Utah Jazz",
       "home_abbr": "LAC",
       "away_abbr": "UTA",
-      "home_ml": "-219",
-      "away_ml": "+182",
-      "home_ml_raw": -219,
-      "away_ml_raw": 182,
-      "home_prob": 65.9,
-      "away_prob": 34.1,
-      "spread": "LAC -5.5",
+      "home_ml": "-238",
+      "away_ml": "+197",
+      "home_ml_raw": -238,
+      "away_ml_raw": 197,
+      "home_prob": 67.7,
+      "away_prob": 32.3,
+      "spread": "LAC -6.5",
       "favorite": "Los Angeles Clippers",
       "pick": "Los Angeles Clippers",
       "pick_abbr": "LAC",
-      "moneyline": "-219",
-      "win_probability": 65.9,
+      "moneyline": "-238",
+      "win_probability": 67.7,
       "confidence": "MEDIUM",
       "confidence_stars": "\u2605\u2605\u2606",
       "commence_time": "2026-11-18T03:40:00Z",
       "line_movement": {
         "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "direction": "shorter",
+          "points_moved": 19,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -238 \u2190 -219",
+          "old_ml": "-219",
+          "new_ml": "-238"
         },
         "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "direction": "longer",
+          "points_moved": 15,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM +197 \u2190 +182",
+          "old_ml": "+182",
+          "new_ml": "+197"
         },
         "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "direction": "shorter",
+          "points_moved": 19,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -238 \u2190 -219",
+          "old_ml": "-219",
+          "new_ml": "-238"
         },
-        "snapshot_time": "\u2014"
+        "snapshot_time": "November 17, 2026 at 04:20 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -655,7 +510,7 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udcca 31.8pt probability edge"
+        "\ud83d\udd25 Sharp steam detected"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -692,9 +547,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "Los Angeles Clippers hold a 65.9% edge.",
+        "trend": "Los Angeles Clippers hold a 67.7% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "steam": "Line steamed from -219 to -238 (19pt move) \u2014 heavy professional action on Los Angeles Clippers.",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -708,22 +563,22 @@
       },
       "news": [
         {
-          "title": "\"I\u2019ve never complained a day in my life\u201d: Stephen Curry\u2019s wife Ayesha Curry hits back at criticism over her comments on motherhood",
-          "source": "The Times of India",
-          "link": "https://timesofindia.indiatimes.com/sports/nba/top-stories/ive-never-complained-a-day-in-my-life-stephen-currys-wife-ayesha-curry-hits-back-at-criticism-over-her-comments-on-motherhood/articleshow/135872507.cms",
-          "published": "2026-11-16T04:16:19Z"
+          "title": "Weekend sports roundup",
+          "source": "Superpunch.net",
+          "link": "https://www.superpunch.net/2026/11/weekend-sports-roundup_01672344856.html",
+          "published": "2026-11-16T07:00:00Z"
         },
         {
-          "title": "Rockets (11-3) rout Wizards as Steven Adams makes return from injury",
-          "source": "USA Today",
-          "link": "https://rocketswire.usatoday.com/story/sports/nba/rockets/2026/11/15/rockets-11-3-rout-wizards-as-steven-adams-makes-return-from-injury/92804392007/",
-          "published": "2026-11-16T04:14:31Z"
+          "title": "\u2018Get better\u2019: Luka Doncic suggests there\u2019s something he\u2019s still not happy with despite Lakers going 12-2",
+          "source": "HITC - Football, Gaming, Movies, TV, Music",
+          "link": "https://www.hitc.com/get-better-luka-doncic-suggests-theres-something-hes-still-not-happy-with-despite-lakers-going-12-2/",
+          "published": "2026-11-16T06:50:57Z"
         },
         {
-          "title": "How much longer can Jordan Ott ignore the obvious?",
-          "source": "Bright Side of the Sun",
-          "link": "https://www.brightsideofthesun.com/phoenx-suns-player-of-the-game/113630/starting-lineup-struggles-bench-identity-lakers-comeback-jordan-ott-roster-construction",
-          "published": "2026-11-16T04:00:00Z"
+          "title": "Rockets star Kevin Durant spits out life lessons after knocking Wizards",
+          "source": "ClutchPoints",
+          "link": "https://clutchpoints.com/nba/houston-rockets/rockets-news-kevin-durant-spits-out-life-lessons-knocking-wizards",
+          "published": "2026-11-16T06:31:47Z"
         }
       ]
     },
@@ -753,27 +608,27 @@
           "direction": "none",
           "points_moved": 0,
           "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "label": "No movement",
+          "old_ml": "-316",
+          "new_ml": "-316"
         },
         "away": {
           "direction": "none",
           "points_moved": 0,
           "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "label": "No movement",
+          "old_ml": "+255",
+          "new_ml": "+255"
         },
         "pick": {
           "direction": "none",
           "points_moved": 0,
           "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "label": "No movement",
+          "old_ml": "-316",
+          "new_ml": "-316"
         },
-        "snapshot_time": "\u2014"
+        "snapshot_time": "November 17, 2026 at 04:20 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -853,22 +708,22 @@
       },
       "news": [
         {
-          "title": "\"I\u2019ve never complained a day in my life\u201d: Stephen Curry\u2019s wife Ayesha Curry hits back at criticism over her comments on motherhood",
-          "source": "The Times of India",
-          "link": "https://timesofindia.indiatimes.com/sports/nba/top-stories/ive-never-complained-a-day-in-my-life-stephen-currys-wife-ayesha-curry-hits-back-at-criticism-over-her-comments-on-motherhood/articleshow/135872507.cms",
-          "published": "2026-11-16T04:16:19Z"
+          "title": "Weekend sports roundup",
+          "source": "Superpunch.net",
+          "link": "https://www.superpunch.net/2026/11/weekend-sports-roundup_01672344856.html",
+          "published": "2026-11-16T07:00:00Z"
         },
         {
-          "title": "Rockets (11-3) rout Wizards as Steven Adams makes return from injury",
-          "source": "USA Today",
-          "link": "https://rocketswire.usatoday.com/story/sports/nba/rockets/2026/11/15/rockets-11-3-rout-wizards-as-steven-adams-makes-return-from-injury/92804392007/",
-          "published": "2026-11-16T04:14:31Z"
+          "title": "\u2018Get better\u2019: Luka Doncic suggests there\u2019s something he\u2019s still not happy with despite Lakers going 12-2",
+          "source": "HITC - Football, Gaming, Movies, TV, Music",
+          "link": "https://www.hitc.com/get-better-luka-doncic-suggests-theres-something-hes-still-not-happy-with-despite-lakers-going-12-2/",
+          "published": "2026-11-16T06:50:57Z"
         },
         {
-          "title": "How much longer can Jordan Ott ignore the obvious?",
-          "source": "Bright Side of the Sun",
-          "link": "https://www.brightsideofthesun.com/phoenx-suns-player-of-the-game/113630/starting-lineup-struggles-bench-identity-lakers-comeback-jordan-ott-roster-construction",
-          "published": "2026-11-16T04:00:00Z"
+          "title": "Rockets star Kevin Durant spits out life lessons after knocking Wizards",
+          "source": "ClutchPoints",
+          "link": "https://clutchpoints.com/nba/houston-rockets/rockets-news-kevin-durant-spits-out-life-lessons-knocking-wizards",
+          "published": "2026-11-16T06:31:47Z"
         }
       ]
     }
@@ -892,27 +747,27 @@
     },
     "HIGH": {
       "wins": 47,
-      "losses": 7,
-      "total": 54,
-      "win_pct": 87.0,
-      "roi": 4.6,
-      "profit": 246.05
+      "losses": 8,
+      "total": 55,
+      "win_pct": 85.5,
+      "roi": 2.7,
+      "profit": 146.05
     },
     "overall_7d": {
-      "wins": 31,
-      "losses": 9,
+      "wins": 30,
+      "losses": 10,
       "total": 40,
-      "win_pct": 77.5,
-      "roi": 11.0,
-      "profit": 440.87
+      "win_pct": 75.0,
+      "roi": 7.1,
+      "profit": 285.31
     },
     "overall_30d": {
       "wins": 120,
-      "losses": 44,
-      "total": 164,
-      "win_pct": 73.2,
-      "roi": 4.8,
-      "profit": 787.08
+      "losses": 45,
+      "total": 165,
+      "win_pct": 72.7,
+      "roi": 4.2,
+      "profit": 687.08
     }
   }
 }

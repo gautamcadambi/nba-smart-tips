@@ -1,22 +1,6 @@
 {
   "picks": [
     {
-      "game": "Oklahoma City Thunder @ San Antonio Spurs",
-      "pick": "San Antonio Spurs",
-      "pick_abbr": "SAS",
-      "moneyline": "-120",
-      "moneyline_raw": -120,
-      "confidence": "LOW",
-      "win_probability": 52.2,
-      "commence_time": "2026-10-21T01:30:00Z",
-      "date": "2026-08-19T05:34:46.875909+00:00",
-      "graded": true,
-      "result": "LOSS",
-      "profit": -100,
-      "home_score": 104,
-      "away_score": 116
-    },
-    {
       "game": "San Antonio Spurs @ New York Knicks",
       "pick": "New York Knicks",
       "pick_abbr": "NYK",
@@ -2784,9 +2768,11 @@
       "win_probability": 78.2,
       "commence_time": "2026-11-17T02:10:00Z",
       "date": "2026-11-16T05:38:59.769326+00:00",
-      "graded": false,
-      "result": null,
-      "profit": null
+      "graded": true,
+      "result": "LOSS",
+      "profit": -100,
+      "home_score": 105,
+      "away_score": 117
     },
     {
       "game": "Detroit Pistons @ San Antonio Spurs",
@@ -2850,28 +2836,28 @@
     },
     "HIGH": {
       "wins": 47,
-      "losses": 7,
-      "total": 54,
-      "win_pct": 87.0,
-      "roi": 4.6,
-      "profit": 246.05
+      "losses": 8,
+      "total": 55,
+      "win_pct": 85.5,
+      "roi": 2.7,
+      "profit": 146.05
     },
     "overall_7d": {
-      "wins": 31,
-      "losses": 9,
+      "wins": 30,
+      "losses": 10,
       "total": 40,
-      "win_pct": 77.5,
-      "roi": 11.0,
-      "profit": 440.87
+      "win_pct": 75.0,
+      "roi": 7.1,
+      "profit": 285.31
     },
     "overall_30d": {
       "wins": 120,
-      "losses": 44,
-      "total": 164,
-      "win_pct": 73.2,
-      "roi": 4.8,
-      "profit": 787.08
+      "losses": 45,
+      "total": 165,
+      "win_pct": 72.7,
+      "roi": 4.2,
+      "profit": 687.08
     }
   },
-  "last_graded": "2026-11-17T04:19:37.622409+00:00"
+  "last_graded": "2026-11-17T07:15:23.715601+00:00"
 }
