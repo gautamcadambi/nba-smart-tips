@@ -2784,9 +2784,11 @@
       "win_probability": 74.5,
       "commence_time": "2026-11-18T01:10:00Z",
       "date": "2026-11-17T04:20:22.384155+00:00",
-      "graded": false,
-      "result": null,
-      "profit": null
+      "graded": true,
+      "result": "LOSS",
+      "profit": -100,
+      "home_score": 93,
+      "away_score": 105
     },
     {
       "game": "Utah Jazz @ Los Angeles Clippers",
@@ -2798,9 +2800,11 @@
       "win_probability": 65.9,
       "commence_time": "2026-11-18T03:40:00Z",
       "date": "2026-11-17T04:20:22.384155+00:00",
-      "graded": false,
-      "result": null,
-      "profit": null
+      "graded": true,
+      "result": "LOSS",
+      "profit": -100,
+      "home_score": 107,
+      "away_score": 132
     },
     {
       "game": "Charlotte Hornets @ Los Angeles Lakers",
@@ -2955,49 +2959,77 @@
       "graded": false,
       "result": null,
       "profit": null
+    },
+    {
+      "game": "Detroit Pistons @ New Orleans Pelicans",
+      "pick": "Detroit Pistons",
+      "pick_abbr": "DET",
+      "moneyline": "-277",
+      "moneyline_raw": -277,
+      "confidence": "MEDIUM",
+      "win_probability": 70.6,
+      "commence_time": "2026-11-19T01:10:00Z",
+      "date": "2026-11-18T06:40:55.097551+00:00",
+      "graded": false,
+      "result": null,
+      "profit": null
+    },
+    {
+      "game": "Utah Jazz @ Los Angeles Lakers",
+      "pick": "Los Angeles Lakers",
+      "pick_abbr": "LAL",
+      "moneyline": "-578",
+      "moneyline_raw": -578,
+      "confidence": "HIGH",
+      "win_probability": 81.9,
+      "commence_time": "2026-11-19T03:10:00Z",
+      "date": "2026-11-18T06:40:55.097551+00:00",
+      "graded": false,
+      "result": null,
+      "profit": null
     }
   ],
   "summary": {
-    "LOW": {
-      "wins": 21,
-      "losses": 17,
-      "total": 38,
-      "win_pct": 55.3,
-      "roi": 1.0,
-      "profit": 36.56
-    },
     "MEDIUM": {
       "wins": 56,
-      "losses": 21,
-      "total": 77,
-      "win_pct": 72.7,
-      "roi": 9.0,
-      "profit": 696.77
+      "losses": 22,
+      "total": 78,
+      "win_pct": 71.8,
+      "roi": 7.7,
+      "profit": 596.77
     },
     "HIGH": {
       "wins": 47,
-      "losses": 8,
-      "total": 55,
-      "win_pct": 85.5,
-      "roi": 2.7,
-      "profit": 146.05
+      "losses": 9,
+      "total": 56,
+      "win_pct": 83.9,
+      "roi": 0.8,
+      "profit": 46.05
+    },
+    "LOW": {
+      "wins": 21,
+      "losses": 16,
+      "total": 37,
+      "win_pct": 56.8,
+      "roi": 3.7,
+      "profit": 136.56
     },
     "overall_7d": {
-      "wins": 30,
+      "wins": 24,
       "losses": 10,
-      "total": 40,
-      "win_pct": 75.0,
-      "roi": 7.1,
-      "profit": 285.31
+      "total": 34,
+      "win_pct": 70.6,
+      "roi": 1.2,
+      "profit": 41.77
     },
     "overall_30d": {
       "wins": 120,
-      "losses": 45,
-      "total": 165,
-      "win_pct": 72.7,
-      "roi": 4.2,
-      "profit": 687.08
+      "losses": 47,
+      "total": 167,
+      "win_pct": 71.9,
+      "roi": 2.9,
+      "profit": 487.08
     }
   },
-  "last_graded": "2026-11-17T07:15:23.715601+00:00"
+  "last_graded": "2026-11-18T06:40:08.171694+00:00"
 }
