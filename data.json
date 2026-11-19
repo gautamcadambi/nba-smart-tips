@@ -1,371 +1,81 @@
 {
-  "last_updated": "November 18, 2026 at 07:15 PM UTC",
-  "total_games": 12,
+  "last_updated": "November 19, 2026 at 02:57 AM UTC",
+  "total_games": 10,
   "games": [
-    {
-      "game": "Memphis Grizzlies @ Cleveland Cavaliers",
-      "home_team": "Cleveland Cavaliers",
-      "away_team": "Memphis Grizzlies",
-      "home_abbr": "CLE",
-      "away_abbr": "MEM",
-      "home_ml": "-196",
-      "away_ml": "+164",
-      "home_ml_raw": -196,
-      "away_ml_raw": 164,
-      "home_prob": 63.6,
-      "away_prob": 36.4,
-      "spread": "CLE -4.5",
-      "favorite": "Cleveland Cavaliers",
-      "pick": "Cleveland Cavaliers",
-      "pick_abbr": "CLE",
-      "moneyline": "-196",
-      "win_probability": 63.6,
-      "confidence": "MEDIUM",
-      "confidence_stars": "\u2605\u2605\u2606",
-      "commence_time": "2026-11-19T00:10:00Z",
-      "line_movement": {
-        "home": {
-          "direction": "longer",
-          "points_moved": 9,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -196 \u2190 -205",
-          "old_ml": "-205",
-          "new_ml": "-196"
-        },
-        "away": {
-          "direction": "shorter",
-          "points_moved": 7,
-          "steam": false,
-          "label": "\ud83d\udfe2 +164 \u2190 +171",
-          "old_ml": "+171",
-          "new_ml": "+164"
-        },
-        "pick": {
-          "direction": "longer",
-          "points_moved": 9,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -196 \u2190 -205",
-          "old_ml": "-205",
-          "new_ml": "-196"
-        },
-        "snapshot_time": "November 18, 2026 at 06:40 AM UTC"
-      },
-      "fatigue": {
-        "home": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "Nov 16",
-          "days_rest": 2,
-          "games_last_4d": 2,
-          "travel_miles": 0,
-          "travel_desc": "",
-          "source": "ESPN Scoreboard API"
-        },
-        "away": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "Nov 16",
-          "days_rest": 2,
-          "games_last_4d": 2,
-          "travel_miles": 763,
-          "travel_desc": "763 mi road trip",
-          "source": "ESPN Scoreboard API"
-        }
-      },
-      "edge_factors": [
-        "\ud83d\udd25 Sharp steam detected"
-      ],
-      "injury_notes": "No key injuries.",
-      "sharp": {
-        "away_t": null,
-        "home_t": null,
-        "source": null,
-        "sharp_signal": null,
-        "sharp_label": "Pending \u2014 check closer to tip-off",
-        "rlm": false
-      },
-      "form": {
-        "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        },
-        "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        }
-      },
-      "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
-      },
-      "briefing": {
-        "trend": "Cleveland Cavaliers hold a 63.6% edge.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -205 to -196 (9pt move) \u2014 heavy professional action on Cleveland Cavaliers.",
-        "injury_notes": "No key injuries."
-      },
-      "live": {
-        "status": "pre",
-        "status_detail": "Upcoming",
-        "period": 0,
-        "clock": "",
-        "home_score": 0,
-        "away_score": 0,
-        "spread_alert": null
-      },
-      "news": [
-        {
-          "title": "Heat, Celtics deep dive + WNBA Lottery questions & Aces offseason outlook",
-          "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/nba/article/heat-celtics-deep-dive--wnba-lottery-questions--aces-offseason-outlook-191443352.html",
-          "published": "2026-11-17T19:14:43Z"
-        },
-        {
-          "title": "NBA rumors: The Rockets problem Jalen Green thought he was escaping is cropping up on Suns",
-          "source": "ClutchPoints",
-          "link": "https://clutchpoints.com/nba/phoenix-suns/nba-rumors-the-rockets-problem-jalen-green-thought-he-was-escaping-is-cropping-up-on-suns",
-          "published": "2026-11-17T19:10:02Z"
-        },
-        {
-          "title": "\u201cWhen He\u2019s Hated in a Place\u201d: Radio Host Blasts Kyrie Irving for Dodging Celtics Game Due to Troubling Past",
-          "source": "Essentially Sports",
-          "link": "https://www.essentiallysports.com/nba-active-basketball-news-when-hes-hated-in-a-place-radio-host-blasts-kyrie-irving-for-dodging-celtics-game-due-to-troubling-past/",
-          "published": "2026-11-17T19:09:30Z"
-        }
-      ]
-    },
-    {
-      "game": "Houston Rockets @ Indiana Pacers",
-      "home_team": "Indiana Pacers",
-      "away_team": "Houston Rockets",
-      "home_abbr": "IND",
-      "away_abbr": "HOU",
-      "home_ml": "+247",
-      "away_ml": "-304",
-      "home_ml_raw": 247,
-      "away_ml_raw": -304,
-      "home_prob": 27.7,
-      "away_prob": 72.3,
-      "spread": "IND +7.5",
-      "favorite": "Houston Rockets",
-      "pick": "Houston Rockets",
-      "pick_abbr": "HOU",
-      "moneyline": "-304",
-      "win_probability": 72.3,
-      "confidence": "HIGH",
-      "confidence_stars": "\u2605\u2605\u2605",
-      "commence_time": "2026-11-19T00:10:00Z",
-      "line_movement": {
-        "home": {
-          "direction": "longer",
-          "points_moved": 19,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM +247 \u2190 +228",
-          "old_ml": "+228",
-          "new_ml": "+247"
-        },
-        "away": {
-          "direction": "shorter",
-          "points_moved": 25,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -304 \u2190 -279",
-          "old_ml": "-279",
-          "new_ml": "-304"
-        },
-        "pick": {
-          "direction": "shorter",
-          "points_moved": 25,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -304 \u2190 -279",
-          "old_ml": "-279",
-          "new_ml": "-304"
-        },
-        "snapshot_time": "November 18, 2026 at 06:40 AM UTC"
-      },
-      "fatigue": {
-        "home": {
-          "status": "RESTED",
-          "label": "2 days rest \u2705",
-          "battery": 88,
-          "last_game": "Nov 15",
-          "days_rest": 3,
-          "games_last_4d": 1,
-          "travel_miles": 583,
-          "travel_desc": "583 mi road trip",
-          "source": "ESPN Scoreboard API"
-        },
-        "away": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "Nov 16",
-          "days_rest": 2,
-          "games_last_4d": 2,
-          "travel_miles": 967,
-          "travel_desc": "967 mi road trip",
-          "source": "ESPN Scoreboard API"
-        }
-      },
-      "edge_factors": [
-        "\ud83d\udd25 Sharp steam detected"
-      ],
-      "injury_notes": "No key injuries.",
-      "sharp": {
-        "away_t": null,
-        "home_t": null,
-        "source": null,
-        "sharp_signal": null,
-        "sharp_label": "Pending \u2014 check closer to tip-off",
-        "rlm": false
-      },
-      "form": {
-        "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        },
-        "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        }
-      },
-      "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
-      },
-      "briefing": {
-        "trend": "Houston Rockets hold a 72.3% edge.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -279 to -304 (25pt move) \u2014 heavy professional action on Houston Rockets.",
-        "injury_notes": "No key injuries."
-      },
-      "live": {
-        "status": "pre",
-        "status_detail": "Upcoming",
-        "period": 0,
-        "clock": "",
-        "home_score": 0,
-        "away_score": 0,
-        "spread_alert": null
-      },
-      "news": [
-        {
-          "title": "Heat, Celtics deep dive + WNBA Lottery questions & Aces offseason outlook",
-          "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/nba/article/heat-celtics-deep-dive--wnba-lottery-questions--aces-offseason-outlook-191443352.html",
-          "published": "2026-11-17T19:14:43Z"
-        },
-        {
-          "title": "NBA rumors: The Rockets problem Jalen Green thought he was escaping is cropping up on Suns",
-          "source": "ClutchPoints",
-          "link": "https://clutchpoints.com/nba/phoenix-suns/nba-rumors-the-rockets-problem-jalen-green-thought-he-was-escaping-is-cropping-up-on-suns",
-          "published": "2026-11-17T19:10:02Z"
-        },
-        {
-          "title": "\u201cWhen He\u2019s Hated in a Place\u201d: Radio Host Blasts Kyrie Irving for Dodging Celtics Game Due to Troubling Past",
-          "source": "Essentially Sports",
-          "link": "https://www.essentiallysports.com/nba-active-basketball-news-when-hes-hated-in-a-place-radio-host-blasts-kyrie-irving-for-dodging-celtics-game-due-to-troubling-past/",
-          "published": "2026-11-17T19:09:30Z"
-        }
-      ]
-    },
     {
       "game": "Milwaukee Bucks @ Miami Heat",
       "home_team": "Miami Heat",
       "away_team": "Milwaukee Bucks",
       "home_abbr": "MIA",
       "away_abbr": "MIL",
-      "home_ml": "-670",
-      "away_ml": "+487",
-      "home_ml_raw": -670,
-      "away_ml_raw": 487,
-      "home_prob": 83.6,
-      "away_prob": 16.4,
-      "spread": "MIA -11.5",
+      "home_ml": "N/A",
+      "away_ml": "N/A",
+      "home_ml_raw": null,
+      "away_ml_raw": null,
+      "home_prob": 50.0,
+      "away_prob": 50.0,
+      "spread": "MIA -9.5",
       "favorite": "Miami Heat",
       "pick": "Miami Heat",
       "pick_abbr": "MIA",
-      "moneyline": "-670",
-      "win_probability": 83.6,
-      "confidence": "HIGH",
-      "confidence_stars": "\u2605\u2605\u2605",
-      "commence_time": "2026-11-19T00:10:00Z",
+      "moneyline": "N/A",
+      "win_probability": 50.0,
+      "confidence": "LOW",
+      "confidence_stars": "\u2605\u2606\u2606",
+      "commence_time": "2026-11-19T00:18:00Z",
       "line_movement": {
         "home": {
-          "direction": "longer",
-          "points_moved": 130,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -670 \u2190 -800",
-          "old_ml": "-800",
-          "new_ml": "-670"
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
         },
         "away": {
-          "direction": "shorter",
-          "points_moved": 71,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM +487 \u2190 +558",
-          "old_ml": "+558",
-          "new_ml": "+487"
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
         },
         "pick": {
-          "direction": "longer",
-          "points_moved": 130,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -670 \u2190 -800",
-          "old_ml": "-800",
-          "new_ml": "-670"
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
         },
-        "snapshot_time": "November 18, 2026 at 06:40 AM UTC"
+        "snapshot_time": "November 18, 2026 at 07:15 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "Nov 16",
-          "days_rest": 2,
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Nov 18",
+          "days_rest": 1,
           "games_last_4d": 2,
           "travel_miles": 0,
           "travel_desc": "",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "RESTED",
-          "label": "2 days rest \u2705",
-          "battery": 88,
-          "last_game": "Nov 15",
-          "days_rest": 3,
-          "games_last_4d": 1,
-          "travel_miles": 0,
-          "travel_desc": "",
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Nov 18",
+          "days_rest": 1,
+          "games_last_4d": 2,
+          "travel_miles": 1270,
+          "travel_desc": "1,270 mi road trip",
           "source": "ESPN Scoreboard API"
         }
       },
       "edge_factors": [
-        "\ud83d\udd25 Sharp steam detected"
+        "\ud83d\udca4 MIL fatigued (B2B) \u2014 source: ESPN"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -402,297 +112,7 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "Miami Heat hold a 83.6% edge.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -800 to -670 (130pt move) \u2014 heavy professional action on Miami Heat.",
-        "injury_notes": "No key injuries."
-      },
-      "live": {
-        "status": "pre",
-        "status_detail": "Upcoming",
-        "period": 0,
-        "clock": "",
-        "home_score": 0,
-        "away_score": 0,
-        "spread_alert": null
-      },
-      "news": [
-        {
-          "title": "Heat, Celtics deep dive + WNBA Lottery questions & Aces offseason outlook",
-          "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/nba/article/heat-celtics-deep-dive--wnba-lottery-questions--aces-offseason-outlook-191443352.html",
-          "published": "2026-11-17T19:14:43Z"
-        },
-        {
-          "title": "NBA rumors: The Rockets problem Jalen Green thought he was escaping is cropping up on Suns",
-          "source": "ClutchPoints",
-          "link": "https://clutchpoints.com/nba/phoenix-suns/nba-rumors-the-rockets-problem-jalen-green-thought-he-was-escaping-is-cropping-up-on-suns",
-          "published": "2026-11-17T19:10:02Z"
-        },
-        {
-          "title": "\u201cWhen He\u2019s Hated in a Place\u201d: Radio Host Blasts Kyrie Irving for Dodging Celtics Game Due to Troubling Past",
-          "source": "Essentially Sports",
-          "link": "https://www.essentiallysports.com/nba-active-basketball-news-when-hes-hated-in-a-place-radio-host-blasts-kyrie-irving-for-dodging-celtics-game-due-to-troubling-past/",
-          "published": "2026-11-17T19:09:30Z"
-        }
-      ]
-    },
-    {
-      "game": "Philadelphia 76ers @ Orlando Magic",
-      "home_team": "Orlando Magic",
-      "away_team": "Philadelphia 76ers",
-      "home_abbr": "ORL",
-      "away_abbr": "PHI",
-      "home_ml": "-105",
-      "away_ml": "-113",
-      "home_ml_raw": -105,
-      "away_ml_raw": -113,
-      "home_prob": 49.1,
-      "away_prob": 50.9,
-      "spread": "ORL +1.5",
-      "favorite": "Philadelphia 76ers",
-      "pick": "Philadelphia 76ers",
-      "pick_abbr": "PHI",
-      "moneyline": "-113",
-      "win_probability": 50.9,
-      "confidence": "LOW",
-      "confidence_stars": "\u2605\u2606\u2606",
-      "commence_time": "2026-11-19T00:10:00Z",
-      "line_movement": {
-        "home": {
-          "direction": "shorter",
-          "points_moved": 4,
-          "steam": false,
-          "label": "\ud83d\udfe2 -105 \u2190 -101",
-          "old_ml": "-101",
-          "new_ml": "-105"
-        },
-        "away": {
-          "direction": "longer",
-          "points_moved": 4,
-          "steam": false,
-          "label": "\ud83d\udd34 -113 \u2190 -117",
-          "old_ml": "-117",
-          "new_ml": "-113"
-        },
-        "pick": {
-          "direction": "longer",
-          "points_moved": 4,
-          "steam": false,
-          "label": "\ud83d\udd34 -113 \u2190 -117",
-          "old_ml": "-117",
-          "new_ml": "-113"
-        },
-        "snapshot_time": "November 18, 2026 at 06:40 AM UTC"
-      },
-      "fatigue": {
-        "home": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "Nov 16",
-          "days_rest": 2,
-          "games_last_4d": 1,
-          "travel_miles": 1116,
-          "travel_desc": "1,116 mi road trip",
-          "source": "ESPN Scoreboard API"
-        },
-        "away": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "Nov 16",
-          "days_rest": 2,
-          "games_last_4d": 2,
-          "travel_miles": 83,
-          "travel_desc": "83 mi road trip",
-          "source": "ESPN Scoreboard API"
-        }
-      },
-      "edge_factors": [
-        "\ud83d\udcca 1.8pt probability edge"
-      ],
-      "injury_notes": "No key injuries.",
-      "sharp": {
-        "away_t": null,
-        "home_t": null,
-        "source": null,
-        "sharp_signal": null,
-        "sharp_label": "Pending \u2014 check closer to tip-off",
-        "rlm": false
-      },
-      "form": {
-        "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        },
-        "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        }
-      },
-      "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
-      },
-      "briefing": {
-        "trend": "Philadelphia 76ers hold a 50.9% edge.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line moved -117\u2192-113 (4pts). Pending \u2014 check closer to tip-off",
-        "injury_notes": "No key injuries."
-      },
-      "live": {
-        "status": "pre",
-        "status_detail": "Upcoming",
-        "period": 0,
-        "clock": "",
-        "home_score": 0,
-        "away_score": 0,
-        "spread_alert": null
-      },
-      "news": [
-        {
-          "title": "Heat, Celtics deep dive + WNBA Lottery questions & Aces offseason outlook",
-          "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/nba/article/heat-celtics-deep-dive--wnba-lottery-questions--aces-offseason-outlook-191443352.html",
-          "published": "2026-11-17T19:14:43Z"
-        },
-        {
-          "title": "NBA rumors: The Rockets problem Jalen Green thought he was escaping is cropping up on Suns",
-          "source": "ClutchPoints",
-          "link": "https://clutchpoints.com/nba/phoenix-suns/nba-rumors-the-rockets-problem-jalen-green-thought-he-was-escaping-is-cropping-up-on-suns",
-          "published": "2026-11-17T19:10:02Z"
-        },
-        {
-          "title": "\u201cWhen He\u2019s Hated in a Place\u201d: Radio Host Blasts Kyrie Irving for Dodging Celtics Game Due to Troubling Past",
-          "source": "Essentially Sports",
-          "link": "https://www.essentiallysports.com/nba-active-basketball-news-when-hes-hated-in-a-place-radio-host-blasts-kyrie-irving-for-dodging-celtics-game-due-to-troubling-past/",
-          "published": "2026-11-17T19:09:30Z"
-        }
-      ]
-    },
-    {
-      "game": "Chicago Bulls @ Brooklyn Nets",
-      "home_team": "Brooklyn Nets",
-      "away_team": "Chicago Bulls",
-      "home_abbr": "BKN",
-      "away_abbr": "CHI",
-      "home_ml": "-152",
-      "away_ml": "+128",
-      "home_ml_raw": -152,
-      "away_ml_raw": 128,
-      "home_prob": 57.9,
-      "away_prob": 42.1,
-      "spread": "BKN -2.5",
-      "favorite": "Brooklyn Nets",
-      "pick": "Brooklyn Nets",
-      "pick_abbr": "BKN",
-      "moneyline": "-152",
-      "win_probability": 57.9,
-      "confidence": "LOW",
-      "confidence_stars": "\u2605\u2606\u2606",
-      "commence_time": "2026-11-19T00:40:00Z",
-      "line_movement": {
-        "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
-          "old_ml": "-152",
-          "new_ml": "-152"
-        },
-        "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
-          "old_ml": "+128",
-          "new_ml": "+128"
-        },
-        "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
-          "old_ml": "-152",
-          "new_ml": "-152"
-        },
-        "snapshot_time": "November 18, 2026 at 06:40 AM UTC"
-      },
-      "fatigue": {
-        "home": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "Nov 16",
-          "days_rest": 2,
-          "games_last_4d": 2,
-          "travel_miles": 955,
-          "travel_desc": "955 mi road trip",
-          "source": "ESPN Scoreboard API"
-        },
-        "away": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "Nov 16",
-          "days_rest": 2,
-          "games_last_4d": 2,
-          "travel_miles": 310,
-          "travel_desc": "310 mi road trip",
-          "source": "ESPN Scoreboard API"
-        }
-      },
-      "edge_factors": [
-        "\ud83d\udcca 15.8pt probability edge"
-      ],
-      "injury_notes": "No key injuries.",
-      "sharp": {
-        "away_t": null,
-        "home_t": null,
-        "source": null,
-        "sharp_signal": null,
-        "sharp_label": "Pending \u2014 check closer to tip-off",
-        "rlm": false
-      },
-      "form": {
-        "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        },
-        "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        }
-      },
-      "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
-      },
-      "briefing": {
-        "trend": "Brooklyn Nets hold a 57.9% edge.",
+        "trend": "MIA on Back-to-Back \u26a0\ufe0f per ESPN schedule data. MIL on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
         "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
@@ -708,22 +128,167 @@
       },
       "news": [
         {
-          "title": "Heat, Celtics deep dive + WNBA Lottery questions & Aces offseason outlook",
-          "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/nba/article/heat-celtics-deep-dive--wnba-lottery-questions--aces-offseason-outlook-191443352.html",
-          "published": "2026-11-17T19:14:43Z"
-        },
-        {
-          "title": "NBA rumors: The Rockets problem Jalen Green thought he was escaping is cropping up on Suns",
+          "title": "Ben Simmons\u2019 demeanor during Kings practice amid injury says it all",
           "source": "ClutchPoints",
-          "link": "https://clutchpoints.com/nba/phoenix-suns/nba-rumors-the-rockets-problem-jalen-green-thought-he-was-escaping-is-cropping-up-on-suns",
-          "published": "2026-11-17T19:10:02Z"
+          "link": "https://clutchpoints.com/nba/sacramento-kings/kings-news-ben-simmons-demeanor-during-sacramento-practice-amid-injury-says-it-all",
+          "published": "2026-11-18T02:54:35Z"
         },
         {
-          "title": "\u201cWhen He\u2019s Hated in a Place\u201d: Radio Host Blasts Kyrie Irving for Dodging Celtics Game Due to Troubling Past",
-          "source": "Essentially Sports",
-          "link": "https://www.essentiallysports.com/nba-active-basketball-news-when-hes-hated-in-a-place-radio-host-blasts-kyrie-irving-for-dodging-celtics-game-due-to-troubling-past/",
-          "published": "2026-11-17T19:09:30Z"
+          "title": "\u2018Embarrassing\u2019 \u2013 Toronto Raptors coach Darko Rajakovic mocking Jalen Brunson for flopping goes viral",
+          "source": "HITC - Football, Gaming, Movies, TV, Music",
+          "link": "https://www.hitc.com/embarrassing-toronto-raptors-coach-darko-rajakovic-mocking-jalen-brunson-for-flopping-goes-viral/",
+          "published": "2026-11-18T02:52:12Z"
+        },
+        {
+          "title": "Stephen A. Smith drops harsh truth bomb on Steph Curry\u2019s NBA future",
+          "source": "Yahoo Entertainment",
+          "link": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_56b0e4d8-2d5f-455f-9754-69204619ad3d",
+          "published": "2026-11-18T02:52:09Z"
+        }
+      ]
+    },
+    {
+      "game": "Chicago Bulls @ Brooklyn Nets",
+      "home_team": "Brooklyn Nets",
+      "away_team": "Chicago Bulls",
+      "home_abbr": "BKN",
+      "away_abbr": "CHI",
+      "home_ml": "N/A",
+      "away_ml": "N/A",
+      "home_ml_raw": null,
+      "away_ml_raw": null,
+      "home_prob": 50.0,
+      "away_prob": 50.0,
+      "spread": "BKN +27.5",
+      "favorite": "Brooklyn Nets",
+      "pick": "Brooklyn Nets",
+      "pick_abbr": "BKN",
+      "moneyline": "N/A",
+      "win_probability": 50.0,
+      "confidence": "LOW",
+      "confidence_stars": "\u2605\u2606\u2606",
+      "commence_time": "2026-11-19T00:41:00Z",
+      "line_movement": {
+        "home": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "away": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "pick": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "snapshot_time": "November 18, 2026 at 07:15 PM UTC"
+      },
+      "fatigue": {
+        "home": {
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Nov 18",
+          "days_rest": 1,
+          "games_last_4d": 2,
+          "travel_miles": 0,
+          "travel_desc": "",
+          "source": "ESPN Scoreboard API"
+        },
+        "away": {
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Nov 18",
+          "days_rest": 1,
+          "games_last_4d": 2,
+          "travel_miles": 715,
+          "travel_desc": "715 mi road trip",
+          "source": "ESPN Scoreboard API"
+        }
+      },
+      "edge_factors": [
+        "\ud83d\udca4 CHI fatigued (B2B) \u2014 source: ESPN"
+      ],
+      "injury_notes": "No key injuries.",
+      "sharp": {
+        "away_t": null,
+        "home_t": null,
+        "source": null,
+        "sharp_signal": null,
+        "sharp_label": "Pending \u2014 check closer to tip-off",
+        "rlm": false
+      },
+      "form": {
+        "home": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        },
+        "away": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        }
+      },
+      "h2h": {
+        "total_meetings": 0,
+        "home_wins": 0,
+        "away_wins": 0,
+        "meetings": [],
+        "source": "\u2014"
+      },
+      "briefing": {
+        "trend": "BKN on Back-to-Back \u26a0\ufe0f per ESPN schedule data. CHI on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "matchup": "Both rosters appear healthy \u2014 clean line.",
+        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "injury_notes": "No key injuries."
+      },
+      "live": {
+        "status": "pre",
+        "status_detail": "Upcoming",
+        "period": 0,
+        "clock": "",
+        "home_score": 0,
+        "away_score": 0,
+        "spread_alert": null
+      },
+      "news": [
+        {
+          "title": "Ben Simmons\u2019 demeanor during Kings practice amid injury says it all",
+          "source": "ClutchPoints",
+          "link": "https://clutchpoints.com/nba/sacramento-kings/kings-news-ben-simmons-demeanor-during-sacramento-practice-amid-injury-says-it-all",
+          "published": "2026-11-18T02:54:35Z"
+        },
+        {
+          "title": "\u2018Embarrassing\u2019 \u2013 Toronto Raptors coach Darko Rajakovic mocking Jalen Brunson for flopping goes viral",
+          "source": "HITC - Football, Gaming, Movies, TV, Music",
+          "link": "https://www.hitc.com/embarrassing-toronto-raptors-coach-darko-rajakovic-mocking-jalen-brunson-for-flopping-goes-viral/",
+          "published": "2026-11-18T02:52:12Z"
+        },
+        {
+          "title": "Stephen A. Smith drops harsh truth bomb on Steph Curry\u2019s NBA future",
+          "source": "Yahoo Entertainment",
+          "link": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_56b0e4d8-2d5f-455f-9754-69204619ad3d",
+          "published": "2026-11-18T02:52:09Z"
         }
       ]
     },
@@ -733,74 +298,75 @@
       "away_team": "Washington Wizards",
       "home_abbr": "TOR",
       "away_abbr": "WAS",
-      "home_ml": "-191",
-      "away_ml": "+160",
-      "home_ml_raw": -191,
-      "away_ml_raw": 160,
-      "home_prob": 63.1,
-      "away_prob": 36.9,
-      "spread": "TOR -4.5",
-      "favorite": "Toronto Raptors",
-      "pick": "Toronto Raptors",
-      "pick_abbr": "TOR",
-      "moneyline": "-191",
-      "win_probability": 63.1,
-      "confidence": "MEDIUM",
-      "confidence_stars": "\u2605\u2605\u2606",
-      "commence_time": "2026-11-19T00:40:00Z",
+      "home_ml": "+600",
+      "away_ml": "-1000",
+      "home_ml_raw": 600,
+      "away_ml_raw": -1000,
+      "home_prob": 13.6,
+      "away_prob": 86.4,
+      "spread": "TOR +3.5",
+      "favorite": "Washington Wizards",
+      "pick": "Washington Wizards",
+      "pick_abbr": "WAS",
+      "moneyline": "-1000",
+      "win_probability": 86.4,
+      "confidence": "HIGH",
+      "confidence_stars": "\u2605\u2605\u2605",
+      "commence_time": "2026-11-19T00:42:00Z",
       "line_movement": {
         "home": {
           "direction": "longer",
-          "points_moved": 85,
+          "points_moved": 791,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM -191 \u2190 -276",
-          "old_ml": "-276",
-          "new_ml": "-191"
+          "label": "\ud83d\udd25 STEAM +600 \u2190 -191",
+          "old_ml": "-191",
+          "new_ml": "+600"
         },
         "away": {
           "direction": "shorter",
-          "points_moved": 66,
+          "points_moved": 1160,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM +160 \u2190 +226",
-          "old_ml": "+226",
-          "new_ml": "+160"
+          "label": "\ud83d\udd25 STEAM -1000 \u2190 +160",
+          "old_ml": "+160",
+          "new_ml": "-1000"
         },
         "pick": {
-          "direction": "longer",
-          "points_moved": 85,
+          "direction": "shorter",
+          "points_moved": 1160,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM -191 \u2190 -276",
-          "old_ml": "-276",
-          "new_ml": "-191"
+          "label": "\ud83d\udd25 STEAM -1000 \u2190 +160",
+          "old_ml": "+160",
+          "new_ml": "-1000"
         },
-        "snapshot_time": "November 18, 2026 at 06:40 AM UTC"
+        "snapshot_time": "November 18, 2026 at 07:15 PM UTC"
       },
       "fatigue": {
         "home": {
           "status": "B2B",
           "label": "Back-to-Back \u26a0\ufe0f",
           "battery": 20,
-          "last_game": "Nov 17",
+          "last_game": "Nov 18",
           "days_rest": 1,
-          "games_last_4d": 2,
+          "games_last_4d": 3,
           "travel_miles": 0,
           "travel_desc": "",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "Nov 16",
-          "days_rest": 2,
-          "games_last_4d": 2,
-          "travel_miles": 0,
-          "travel_desc": "",
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Nov 18",
+          "days_rest": 1,
+          "games_last_4d": 3,
+          "travel_miles": 350,
+          "travel_desc": "350 mi road trip",
           "source": "ESPN Scoreboard API"
         }
       },
       "edge_factors": [
-        "\ud83d\udd25 Sharp steam detected"
+        "\ud83d\udd25 Sharp steam detected",
+        "\ud83d\udca4 TOR fatigued (B2B) \u2014 source: ESPN"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -837,9 +403,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "TOR on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "trend": "TOR on Back-to-Back \u26a0\ufe0f per ESPN schedule data. WAS on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -276 to -191 (85pt move) \u2014 heavy professional action on Toronto Raptors.",
+        "steam": "Line steamed from +160 to -1000 (1160pt move) \u2014 heavy professional action on Washington Wizards.",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -853,22 +419,22 @@
       },
       "news": [
         {
-          "title": "Heat, Celtics deep dive + WNBA Lottery questions & Aces offseason outlook",
-          "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/nba/article/heat-celtics-deep-dive--wnba-lottery-questions--aces-offseason-outlook-191443352.html",
-          "published": "2026-11-17T19:14:43Z"
-        },
-        {
-          "title": "NBA rumors: The Rockets problem Jalen Green thought he was escaping is cropping up on Suns",
+          "title": "Ben Simmons\u2019 demeanor during Kings practice amid injury says it all",
           "source": "ClutchPoints",
-          "link": "https://clutchpoints.com/nba/phoenix-suns/nba-rumors-the-rockets-problem-jalen-green-thought-he-was-escaping-is-cropping-up-on-suns",
-          "published": "2026-11-17T19:10:02Z"
+          "link": "https://clutchpoints.com/nba/sacramento-kings/kings-news-ben-simmons-demeanor-during-sacramento-practice-amid-injury-says-it-all",
+          "published": "2026-11-18T02:54:35Z"
         },
         {
-          "title": "\u201cWhen He\u2019s Hated in a Place\u201d: Radio Host Blasts Kyrie Irving for Dodging Celtics Game Due to Troubling Past",
-          "source": "Essentially Sports",
-          "link": "https://www.essentiallysports.com/nba-active-basketball-news-when-hes-hated-in-a-place-radio-host-blasts-kyrie-irving-for-dodging-celtics-game-due-to-troubling-past/",
-          "published": "2026-11-17T19:09:30Z"
+          "title": "\u2018Embarrassing\u2019 \u2013 Toronto Raptors coach Darko Rajakovic mocking Jalen Brunson for flopping goes viral",
+          "source": "HITC - Football, Gaming, Movies, TV, Music",
+          "link": "https://www.hitc.com/embarrassing-toronto-raptors-coach-darko-rajakovic-mocking-jalen-brunson-for-flopping-goes-viral/",
+          "published": "2026-11-18T02:52:12Z"
+        },
+        {
+          "title": "Stephen A. Smith drops harsh truth bomb on Steph Curry\u2019s NBA future",
+          "source": "Yahoo Entertainment",
+          "link": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_56b0e4d8-2d5f-455f-9754-69204619ad3d",
+          "published": "2026-11-18T02:52:09Z"
         }
       ]
     },
@@ -878,220 +444,75 @@
       "away_team": "Atlanta Hawks",
       "home_abbr": "OKC",
       "away_abbr": "ATL",
-      "home_ml": "-249",
-      "away_ml": "+205",
-      "home_ml_raw": -249,
-      "away_ml_raw": 205,
-      "home_prob": 68.5,
-      "away_prob": 31.5,
-      "spread": "OKC -5.5",
+      "home_ml": "-120",
+      "away_ml": "-110",
+      "home_ml_raw": -120,
+      "away_ml_raw": -110,
+      "home_prob": 51.0,
+      "away_prob": 49.0,
+      "spread": "OKC -1.5",
       "favorite": "Oklahoma City Thunder",
       "pick": "Oklahoma City Thunder",
       "pick_abbr": "OKC",
-      "moneyline": "-249",
-      "win_probability": 68.5,
-      "confidence": "MEDIUM",
-      "confidence_stars": "\u2605\u2605\u2606",
-      "commence_time": "2026-11-19T01:10:00Z",
+      "moneyline": "-120",
+      "win_probability": 51.0,
+      "confidence": "LOW",
+      "confidence_stars": "\u2605\u2606\u2606",
+      "commence_time": "2026-11-19T01:11:00Z",
       "line_movement": {
         "home": {
           "direction": "longer",
-          "points_moved": 34,
+          "points_moved": 129,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM -249 \u2190 -283",
-          "old_ml": "-283",
-          "new_ml": "-249"
+          "label": "\ud83d\udd25 STEAM -120 \u2190 -249",
+          "old_ml": "-249",
+          "new_ml": "-120"
         },
         "away": {
           "direction": "shorter",
-          "points_moved": 26,
+          "points_moved": 315,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM +205 \u2190 +231",
-          "old_ml": "+231",
-          "new_ml": "+205"
+          "label": "\ud83d\udd25 STEAM -110 \u2190 +205",
+          "old_ml": "+205",
+          "new_ml": "-110"
         },
         "pick": {
           "direction": "longer",
-          "points_moved": 34,
+          "points_moved": 129,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM -249 \u2190 -283",
-          "old_ml": "-283",
-          "new_ml": "-249"
+          "label": "\ud83d\udd25 STEAM -120 \u2190 -249",
+          "old_ml": "-249",
+          "new_ml": "-120"
         },
-        "snapshot_time": "November 18, 2026 at 06:40 AM UTC"
+        "snapshot_time": "November 18, 2026 at 07:15 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "RESTED",
-          "label": "2 days rest \u2705",
-          "battery": 88,
-          "last_game": "Nov 15",
-          "days_rest": 3,
-          "games_last_4d": 1,
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Nov 18",
+          "days_rest": 1,
+          "games_last_4d": 2,
           "travel_miles": 1337,
           "travel_desc": "1,337 mi road trip",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "RESTED",
-          "label": "2 days rest \u2705",
-          "battery": 88,
-          "last_game": "Nov 15",
-          "days_rest": 3,
-          "games_last_4d": 1,
-          "travel_miles": 669,
-          "travel_desc": "669 mi road trip",
-          "source": "ESPN Scoreboard API"
-        }
-      },
-      "edge_factors": [
-        "\ud83d\udd25 Sharp steam detected"
-      ],
-      "injury_notes": "No key injuries.",
-      "sharp": {
-        "away_t": null,
-        "home_t": null,
-        "source": null,
-        "sharp_signal": null,
-        "sharp_label": "Pending \u2014 check closer to tip-off",
-        "rlm": false
-      },
-      "form": {
-        "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        },
-        "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        }
-      },
-      "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
-      },
-      "briefing": {
-        "trend": "Oklahoma City Thunder hold a 68.5% edge.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -283 to -249 (34pt move) \u2014 heavy professional action on Oklahoma City Thunder.",
-        "injury_notes": "No key injuries."
-      },
-      "live": {
-        "status": "pre",
-        "status_detail": "Upcoming",
-        "period": 0,
-        "clock": "",
-        "home_score": 0,
-        "away_score": 0,
-        "spread_alert": null
-      },
-      "news": [
-        {
-          "title": "Heat, Celtics deep dive + WNBA Lottery questions & Aces offseason outlook",
-          "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/nba/article/heat-celtics-deep-dive--wnba-lottery-questions--aces-offseason-outlook-191443352.html",
-          "published": "2026-11-17T19:14:43Z"
-        },
-        {
-          "title": "NBA rumors: The Rockets problem Jalen Green thought he was escaping is cropping up on Suns",
-          "source": "ClutchPoints",
-          "link": "https://clutchpoints.com/nba/phoenix-suns/nba-rumors-the-rockets-problem-jalen-green-thought-he-was-escaping-is-cropping-up-on-suns",
-          "published": "2026-11-17T19:10:02Z"
-        },
-        {
-          "title": "\u201cWhen He\u2019s Hated in a Place\u201d: Radio Host Blasts Kyrie Irving for Dodging Celtics Game Due to Troubling Past",
-          "source": "Essentially Sports",
-          "link": "https://www.essentiallysports.com/nba-active-basketball-news-when-hes-hated-in-a-place-radio-host-blasts-kyrie-irving-for-dodging-celtics-game-due-to-troubling-past/",
-          "published": "2026-11-17T19:09:30Z"
-        }
-      ]
-    },
-    {
-      "game": "Golden State Warriors @ Dallas Mavericks",
-      "home_team": "Dallas Mavericks",
-      "away_team": "Golden State Warriors",
-      "home_abbr": "DAL",
-      "away_abbr": "GSW",
-      "home_ml": "-197",
-      "away_ml": "+164",
-      "home_ml_raw": -197,
-      "away_ml_raw": 164,
-      "home_prob": 63.7,
-      "away_prob": 36.3,
-      "spread": "DAL -4.5",
-      "favorite": "Dallas Mavericks",
-      "pick": "Dallas Mavericks",
-      "pick_abbr": "DAL",
-      "moneyline": "-197",
-      "win_probability": 63.7,
-      "confidence": "MEDIUM",
-      "confidence_stars": "\u2605\u2605\u2606",
-      "commence_time": "2026-11-19T01:10:00Z",
-      "line_movement": {
-        "home": {
-          "direction": "longer",
-          "points_moved": 25,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -197 \u2190 -222",
-          "old_ml": "-222",
-          "new_ml": "-197"
-        },
-        "away": {
-          "direction": "shorter",
-          "points_moved": 20,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM +164 \u2190 +184",
-          "old_ml": "+184",
-          "new_ml": "+164"
-        },
-        "pick": {
-          "direction": "longer",
-          "points_moved": 25,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -197 \u2190 -222",
-          "old_ml": "-222",
-          "new_ml": "-197"
-        },
-        "snapshot_time": "November 18, 2026 at 06:40 AM UTC"
-      },
-      "fatigue": {
-        "home": {
-          "status": "RESTED",
-          "label": "2 days rest \u2705",
-          "battery": 88,
-          "last_game": "Nov 15",
-          "days_rest": 3,
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Nov 18",
+          "days_rest": 1,
           "games_last_4d": 2,
-          "travel_miles": 1549,
-          "travel_desc": "1,549 mi road trip",
-          "source": "ESPN Scoreboard API"
-        },
-        "away": {
-          "status": "TRAVEL",
-          "label": "Cross-country travel \ud83d\udfe3",
-          "battery": 50,
-          "last_game": "Nov 16",
-          "days_rest": 2,
-          "games_last_4d": 1,
-          "travel_miles": 1920,
-          "travel_desc": "1,920 mi road trip",
+          "travel_miles": 755,
+          "travel_desc": "755 mi road trip",
           "source": "ESPN Scoreboard API"
         }
       },
       "edge_factors": [
         "\ud83d\udd25 Sharp steam detected",
-        "\u2708\ufe0f GSW traveled 1,920 mi"
+        "\ud83d\udca4 ATL fatigued (B2B) \u2014 source: ESPN"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -1128,9 +549,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "Dallas Mavericks hold a 63.7% edge.",
+        "trend": "OKC on Back-to-Back \u26a0\ufe0f per ESPN schedule data. ATL on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -222 to -197 (25pt move) \u2014 heavy professional action on Dallas Mavericks.",
+        "steam": "Line steamed from -249 to -120 (129pt move) \u2014 heavy professional action on Oklahoma City Thunder.",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -1144,22 +565,22 @@
       },
       "news": [
         {
-          "title": "Heat, Celtics deep dive + WNBA Lottery questions & Aces offseason outlook",
-          "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/nba/article/heat-celtics-deep-dive--wnba-lottery-questions--aces-offseason-outlook-191443352.html",
-          "published": "2026-11-17T19:14:43Z"
-        },
-        {
-          "title": "NBA rumors: The Rockets problem Jalen Green thought he was escaping is cropping up on Suns",
+          "title": "Ben Simmons\u2019 demeanor during Kings practice amid injury says it all",
           "source": "ClutchPoints",
-          "link": "https://clutchpoints.com/nba/phoenix-suns/nba-rumors-the-rockets-problem-jalen-green-thought-he-was-escaping-is-cropping-up-on-suns",
-          "published": "2026-11-17T19:10:02Z"
+          "link": "https://clutchpoints.com/nba/sacramento-kings/kings-news-ben-simmons-demeanor-during-sacramento-practice-amid-injury-says-it-all",
+          "published": "2026-11-18T02:54:35Z"
         },
         {
-          "title": "\u201cWhen He\u2019s Hated in a Place\u201d: Radio Host Blasts Kyrie Irving for Dodging Celtics Game Due to Troubling Past",
-          "source": "Essentially Sports",
-          "link": "https://www.essentiallysports.com/nba-active-basketball-news-when-hes-hated-in-a-place-radio-host-blasts-kyrie-irving-for-dodging-celtics-game-due-to-troubling-past/",
-          "published": "2026-11-17T19:09:30Z"
+          "title": "\u2018Embarrassing\u2019 \u2013 Toronto Raptors coach Darko Rajakovic mocking Jalen Brunson for flopping goes viral",
+          "source": "HITC - Football, Gaming, Movies, TV, Music",
+          "link": "https://www.hitc.com/embarrassing-toronto-raptors-coach-darko-rajakovic-mocking-jalen-brunson-for-flopping-goes-viral/",
+          "published": "2026-11-18T02:52:12Z"
+        },
+        {
+          "title": "Stephen A. Smith drops harsh truth bomb on Steph Curry\u2019s NBA future",
+          "source": "Yahoo Entertainment",
+          "link": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_56b0e4d8-2d5f-455f-9754-69204619ad3d",
+          "published": "2026-11-18T02:52:09Z"
         }
       ]
     },
@@ -1169,55 +590,55 @@
       "away_team": "Detroit Pistons",
       "home_abbr": "NOP",
       "away_abbr": "DET",
-      "home_ml": "+160",
-      "away_ml": "-191",
-      "home_ml_raw": 160,
-      "away_ml_raw": -191,
-      "home_prob": 36.9,
-      "away_prob": 63.1,
-      "spread": "NOP +4.5",
+      "home_ml": "+340",
+      "away_ml": "-500",
+      "home_ml_raw": 340,
+      "away_ml_raw": -500,
+      "home_prob": 21.4,
+      "away_prob": 78.6,
+      "spread": "NOP +6.5",
       "favorite": "Detroit Pistons",
       "pick": "Detroit Pistons",
       "pick_abbr": "DET",
-      "moneyline": "-191",
-      "win_probability": 63.1,
-      "confidence": "MEDIUM",
-      "confidence_stars": "\u2605\u2605\u2606",
-      "commence_time": "2026-11-19T01:10:00Z",
+      "moneyline": "-500",
+      "win_probability": 78.6,
+      "confidence": "HIGH",
+      "confidence_stars": "\u2605\u2605\u2605",
+      "commence_time": "2026-11-19T01:11:00Z",
       "line_movement": {
         "home": {
-          "direction": "shorter",
-          "points_moved": 67,
+          "direction": "longer",
+          "points_moved": 180,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM +160 \u2190 +227",
-          "old_ml": "+227",
-          "new_ml": "+160"
+          "label": "\ud83d\udd25 STEAM +340 \u2190 +160",
+          "old_ml": "+160",
+          "new_ml": "+340"
         },
         "away": {
-          "direction": "longer",
-          "points_moved": 86,
+          "direction": "shorter",
+          "points_moved": 309,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM -191 \u2190 -277",
-          "old_ml": "-277",
-          "new_ml": "-191"
+          "label": "\ud83d\udd25 STEAM -500 \u2190 -191",
+          "old_ml": "-191",
+          "new_ml": "-500"
         },
         "pick": {
-          "direction": "longer",
-          "points_moved": 86,
+          "direction": "shorter",
+          "points_moved": 309,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM -191 \u2190 -277",
-          "old_ml": "-277",
-          "new_ml": "-191"
+          "label": "\ud83d\udd25 STEAM -500 \u2190 -191",
+          "old_ml": "-191",
+          "new_ml": "-500"
         },
-        "snapshot_time": "November 18, 2026 at 06:40 AM UTC"
+        "snapshot_time": "November 18, 2026 at 07:15 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "Nov 16",
-          "days_rest": 2,
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Nov 18",
+          "days_rest": 1,
           "games_last_4d": 2,
           "travel_miles": 0,
           "travel_desc": "",
@@ -1227,16 +648,17 @@
           "status": "B2B",
           "label": "Back-to-Back \u26a0\ufe0f",
           "battery": 20,
-          "last_game": "Nov 17",
+          "last_game": "Nov 18",
           "days_rest": 1,
           "games_last_4d": 2,
-          "travel_miles": 1236,
-          "travel_desc": "1,236 mi road trip",
+          "travel_miles": 941,
+          "travel_desc": "941 mi road trip",
           "source": "ESPN Scoreboard API"
         }
       },
       "edge_factors": [
-        "\ud83d\udd25 Sharp steam detected"
+        "\ud83d\udd25 Sharp steam detected",
+        "\ud83d\udca4 NOP fatigued (B2B) \u2014 source: ESPN"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -1273,9 +695,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "DET on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "trend": "NOP on Back-to-Back \u26a0\ufe0f per ESPN schedule data. DET on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -277 to -191 (86pt move) \u2014 heavy professional action on Detroit Pistons.",
+        "steam": "Line steamed from -191 to -500 (309pt move) \u2014 heavy professional action on Detroit Pistons.",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -1289,22 +711,167 @@
       },
       "news": [
         {
-          "title": "Heat, Celtics deep dive + WNBA Lottery questions & Aces offseason outlook",
-          "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/nba/article/heat-celtics-deep-dive--wnba-lottery-questions--aces-offseason-outlook-191443352.html",
-          "published": "2026-11-17T19:14:43Z"
-        },
-        {
-          "title": "NBA rumors: The Rockets problem Jalen Green thought he was escaping is cropping up on Suns",
+          "title": "Ben Simmons\u2019 demeanor during Kings practice amid injury says it all",
           "source": "ClutchPoints",
-          "link": "https://clutchpoints.com/nba/phoenix-suns/nba-rumors-the-rockets-problem-jalen-green-thought-he-was-escaping-is-cropping-up-on-suns",
-          "published": "2026-11-17T19:10:02Z"
+          "link": "https://clutchpoints.com/nba/sacramento-kings/kings-news-ben-simmons-demeanor-during-sacramento-practice-amid-injury-says-it-all",
+          "published": "2026-11-18T02:54:35Z"
         },
         {
-          "title": "\u201cWhen He\u2019s Hated in a Place\u201d: Radio Host Blasts Kyrie Irving for Dodging Celtics Game Due to Troubling Past",
-          "source": "Essentially Sports",
-          "link": "https://www.essentiallysports.com/nba-active-basketball-news-when-hes-hated-in-a-place-radio-host-blasts-kyrie-irving-for-dodging-celtics-game-due-to-troubling-past/",
-          "published": "2026-11-17T19:09:30Z"
+          "title": "\u2018Embarrassing\u2019 \u2013 Toronto Raptors coach Darko Rajakovic mocking Jalen Brunson for flopping goes viral",
+          "source": "HITC - Football, Gaming, Movies, TV, Music",
+          "link": "https://www.hitc.com/embarrassing-toronto-raptors-coach-darko-rajakovic-mocking-jalen-brunson-for-flopping-goes-viral/",
+          "published": "2026-11-18T02:52:12Z"
+        },
+        {
+          "title": "Stephen A. Smith drops harsh truth bomb on Steph Curry\u2019s NBA future",
+          "source": "Yahoo Entertainment",
+          "link": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_56b0e4d8-2d5f-455f-9754-69204619ad3d",
+          "published": "2026-11-18T02:52:09Z"
+        }
+      ]
+    },
+    {
+      "game": "Golden State Warriors @ Dallas Mavericks",
+      "home_team": "Dallas Mavericks",
+      "away_team": "Golden State Warriors",
+      "home_abbr": "DAL",
+      "away_abbr": "GSW",
+      "home_ml": "N/A",
+      "away_ml": "N/A",
+      "home_ml_raw": null,
+      "away_ml_raw": null,
+      "home_prob": 50.0,
+      "away_prob": 50.0,
+      "spread": "DAL -19.5",
+      "favorite": "Dallas Mavericks",
+      "pick": "Dallas Mavericks",
+      "pick_abbr": "DAL",
+      "moneyline": "N/A",
+      "win_probability": 50.0,
+      "confidence": "LOW",
+      "confidence_stars": "\u2605\u2606\u2606",
+      "commence_time": "2026-11-19T01:12:00Z",
+      "line_movement": {
+        "home": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "away": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "pick": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "snapshot_time": "November 18, 2026 at 07:15 PM UTC"
+      },
+      "fatigue": {
+        "home": {
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Nov 18",
+          "days_rest": 1,
+          "games_last_4d": 2,
+          "travel_miles": 1549,
+          "travel_desc": "1,549 mi road trip",
+          "source": "ESPN Scoreboard API"
+        },
+        "away": {
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Nov 18",
+          "days_rest": 1,
+          "games_last_4d": 2,
+          "travel_miles": 1478,
+          "travel_desc": "1,478 mi road trip",
+          "source": "ESPN Scoreboard API"
+        }
+      },
+      "edge_factors": [
+        "\ud83d\udca4 GSW fatigued (B2B) \u2014 source: ESPN"
+      ],
+      "injury_notes": "No key injuries.",
+      "sharp": {
+        "away_t": null,
+        "home_t": null,
+        "source": null,
+        "sharp_signal": null,
+        "sharp_label": "Pending \u2014 check closer to tip-off",
+        "rlm": false
+      },
+      "form": {
+        "home": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        },
+        "away": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        }
+      },
+      "h2h": {
+        "total_meetings": 0,
+        "home_wins": 0,
+        "away_wins": 0,
+        "meetings": [],
+        "source": "\u2014"
+      },
+      "briefing": {
+        "trend": "DAL on Back-to-Back \u26a0\ufe0f per ESPN schedule data. GSW on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "matchup": "Both rosters appear healthy \u2014 clean line.",
+        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "injury_notes": "No key injuries."
+      },
+      "live": {
+        "status": "pre",
+        "status_detail": "Upcoming",
+        "period": 0,
+        "clock": "",
+        "home_score": 0,
+        "away_score": 0,
+        "spread_alert": null
+      },
+      "news": [
+        {
+          "title": "Ben Simmons\u2019 demeanor during Kings practice amid injury says it all",
+          "source": "ClutchPoints",
+          "link": "https://clutchpoints.com/nba/sacramento-kings/kings-news-ben-simmons-demeanor-during-sacramento-practice-amid-injury-says-it-all",
+          "published": "2026-11-18T02:54:35Z"
+        },
+        {
+          "title": "\u2018Embarrassing\u2019 \u2013 Toronto Raptors coach Darko Rajakovic mocking Jalen Brunson for flopping goes viral",
+          "source": "HITC - Football, Gaming, Movies, TV, Music",
+          "link": "https://www.hitc.com/embarrassing-toronto-raptors-coach-darko-rajakovic-mocking-jalen-brunson-for-flopping-goes-viral/",
+          "published": "2026-11-18T02:52:12Z"
+        },
+        {
+          "title": "Stephen A. Smith drops harsh truth bomb on Steph Curry\u2019s NBA future",
+          "source": "Yahoo Entertainment",
+          "link": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_56b0e4d8-2d5f-455f-9754-69204619ad3d",
+          "published": "2026-11-18T02:52:09Z"
         }
       ]
     },
@@ -1314,74 +881,75 @@
       "away_team": "Boston Celtics",
       "home_abbr": "DEN",
       "away_abbr": "BOS",
-      "home_ml": "+120",
-      "away_ml": "-142",
-      "home_ml_raw": 120,
-      "away_ml_raw": -142,
-      "home_prob": 43.7,
-      "away_prob": 56.3,
-      "spread": "DEN +2.5",
+      "home_ml": "+150",
+      "away_ml": "-200",
+      "home_ml_raw": 150,
+      "away_ml_raw": -200,
+      "home_prob": 37.5,
+      "away_prob": 62.5,
+      "spread": "DEN +5.5",
       "favorite": "Boston Celtics",
       "pick": "Boston Celtics",
       "pick_abbr": "BOS",
-      "moneyline": "-142",
-      "win_probability": 56.3,
-      "confidence": "LOW",
-      "confidence_stars": "\u2605\u2606\u2606",
-      "commence_time": "2026-11-19T02:10:00Z",
+      "moneyline": "-200",
+      "win_probability": 62.5,
+      "confidence": "MEDIUM",
+      "confidence_stars": "\u2605\u2605\u2606",
+      "commence_time": "2026-11-19T02:48:00Z",
       "line_movement": {
         "home": {
           "direction": "longer",
-          "points_moved": 6,
-          "steam": false,
-          "label": "\ud83d\udd34 +120 \u2190 +114",
-          "old_ml": "+114",
-          "new_ml": "+120"
+          "points_moved": 30,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM +150 \u2190 +120",
+          "old_ml": "+120",
+          "new_ml": "+150"
         },
         "away": {
           "direction": "shorter",
-          "points_moved": 7,
-          "steam": false,
-          "label": "\ud83d\udfe2 -142 \u2190 -135",
-          "old_ml": "-135",
-          "new_ml": "-142"
+          "points_moved": 58,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -200 \u2190 -142",
+          "old_ml": "-142",
+          "new_ml": "-200"
         },
         "pick": {
           "direction": "shorter",
-          "points_moved": 7,
-          "steam": false,
-          "label": "\ud83d\udfe2 -142 \u2190 -135",
-          "old_ml": "-135",
-          "new_ml": "-142"
+          "points_moved": 58,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -200 \u2190 -142",
+          "old_ml": "-142",
+          "new_ml": "-200"
         },
-        "snapshot_time": "November 18, 2026 at 06:40 AM UTC"
+        "snapshot_time": "November 18, 2026 at 07:15 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "Nov 16",
-          "days_rest": 2,
-          "games_last_4d": 2,
-          "travel_miles": 1081,
-          "travel_desc": "1,081 mi road trip",
-          "source": "ESPN Scoreboard API"
-        },
-        "away": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "Nov 16",
-          "days_rest": 2,
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Nov 18",
+          "days_rest": 1,
           "games_last_4d": 2,
           "travel_miles": 0,
           "travel_desc": "",
           "source": "ESPN Scoreboard API"
+        },
+        "away": {
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Nov 18",
+          "days_rest": 1,
+          "games_last_4d": 3,
+          "travel_miles": 1766,
+          "travel_desc": "1,766 mi road trip",
+          "source": "ESPN Scoreboard API"
         }
       },
       "edge_factors": [
-        "\ud83d\udcca 12.6pt probability edge"
+        "\ud83d\udd25 Sharp steam detected",
+        "\ud83d\udca4 DEN fatigued (B2B) \u2014 source: ESPN"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -1418,9 +986,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "Boston Celtics hold a 56.3% edge.",
+        "trend": "DEN on Back-to-Back \u26a0\ufe0f per ESPN schedule data. BOS on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line moved -135\u2192-142 (7pts). Pending \u2014 check closer to tip-off",
+        "steam": "Line steamed from -142 to -200 (58pt move) \u2014 heavy professional action on Boston Celtics.",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -1434,22 +1002,22 @@
       },
       "news": [
         {
-          "title": "Heat, Celtics deep dive + WNBA Lottery questions & Aces offseason outlook",
-          "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/nba/article/heat-celtics-deep-dive--wnba-lottery-questions--aces-offseason-outlook-191443352.html",
-          "published": "2026-11-17T19:14:43Z"
-        },
-        {
-          "title": "NBA rumors: The Rockets problem Jalen Green thought he was escaping is cropping up on Suns",
+          "title": "Ben Simmons\u2019 demeanor during Kings practice amid injury says it all",
           "source": "ClutchPoints",
-          "link": "https://clutchpoints.com/nba/phoenix-suns/nba-rumors-the-rockets-problem-jalen-green-thought-he-was-escaping-is-cropping-up-on-suns",
-          "published": "2026-11-17T19:10:02Z"
+          "link": "https://clutchpoints.com/nba/sacramento-kings/kings-news-ben-simmons-demeanor-during-sacramento-practice-amid-injury-says-it-all",
+          "published": "2026-11-18T02:54:35Z"
         },
         {
-          "title": "\u201cWhen He\u2019s Hated in a Place\u201d: Radio Host Blasts Kyrie Irving for Dodging Celtics Game Due to Troubling Past",
-          "source": "Essentially Sports",
-          "link": "https://www.essentiallysports.com/nba-active-basketball-news-when-hes-hated-in-a-place-radio-host-blasts-kyrie-irving-for-dodging-celtics-game-due-to-troubling-past/",
-          "published": "2026-11-17T19:09:30Z"
+          "title": "\u2018Embarrassing\u2019 \u2013 Toronto Raptors coach Darko Rajakovic mocking Jalen Brunson for flopping goes viral",
+          "source": "HITC - Football, Gaming, Movies, TV, Music",
+          "link": "https://www.hitc.com/embarrassing-toronto-raptors-coach-darko-rajakovic-mocking-jalen-brunson-for-flopping-goes-viral/",
+          "published": "2026-11-18T02:52:12Z"
+        },
+        {
+          "title": "Stephen A. Smith drops harsh truth bomb on Steph Curry\u2019s NBA future",
+          "source": "Yahoo Entertainment",
+          "link": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_56b0e4d8-2d5f-455f-9754-69204619ad3d",
+          "published": "2026-11-18T02:52:09Z"
         }
       ]
     },
@@ -1459,55 +1027,55 @@
       "away_team": "Utah Jazz",
       "home_abbr": "LAL",
       "away_abbr": "UTA",
-      "home_ml": "-437",
-      "away_ml": "+341",
-      "home_ml_raw": -437,
-      "away_ml_raw": 341,
-      "home_prob": 78.2,
-      "away_prob": 21.8,
-      "spread": "LAL -10.5",
+      "home_ml": "-545",
+      "away_ml": "+411",
+      "home_ml_raw": -545,
+      "away_ml_raw": 411,
+      "home_prob": 81.2,
+      "away_prob": 18.8,
+      "spread": "LAL -11.5",
       "favorite": "Los Angeles Lakers",
       "pick": "Los Angeles Lakers",
       "pick_abbr": "LAL",
-      "moneyline": "-437",
-      "win_probability": 78.2,
+      "moneyline": "-545",
+      "win_probability": 81.2,
       "confidence": "HIGH",
       "confidence_stars": "\u2605\u2605\u2605",
       "commence_time": "2026-11-19T03:10:00Z",
       "line_movement": {
         "home": {
-          "direction": "longer",
-          "points_moved": 141,
+          "direction": "shorter",
+          "points_moved": 108,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM -437 \u2190 -578",
-          "old_ml": "-578",
-          "new_ml": "-437"
+          "label": "\ud83d\udd25 STEAM -545 \u2190 -437",
+          "old_ml": "-437",
+          "new_ml": "-545"
         },
         "away": {
-          "direction": "shorter",
-          "points_moved": 90,
+          "direction": "longer",
+          "points_moved": 70,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM +341 \u2190 +431",
-          "old_ml": "+431",
-          "new_ml": "+341"
+          "label": "\ud83d\udd25 STEAM +411 \u2190 +341",
+          "old_ml": "+341",
+          "new_ml": "+411"
         },
         "pick": {
-          "direction": "longer",
-          "points_moved": 141,
+          "direction": "shorter",
+          "points_moved": 108,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM -437 \u2190 -578",
-          "old_ml": "-578",
-          "new_ml": "-437"
+          "label": "\ud83d\udd25 STEAM -545 \u2190 -437",
+          "old_ml": "-437",
+          "new_ml": "-545"
         },
-        "snapshot_time": "November 18, 2026 at 06:40 AM UTC"
+        "snapshot_time": "November 18, 2026 at 07:15 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
           "last_game": "Nov 17",
-          "days_rest": 1,
+          "days_rest": 2,
           "games_last_4d": 2,
           "travel_miles": 358,
           "travel_desc": "358 mi road trip",
@@ -1563,9 +1131,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "LAL on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "trend": "Los Angeles Lakers hold a 81.2% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -578 to -437 (141pt move) \u2014 heavy professional action on Los Angeles Lakers.",
+        "steam": "Line steamed from -437 to -545 (108pt move) \u2014 heavy professional action on Los Angeles Lakers.",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -1579,22 +1147,22 @@
       },
       "news": [
         {
-          "title": "Heat, Celtics deep dive + WNBA Lottery questions & Aces offseason outlook",
-          "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/nba/article/heat-celtics-deep-dive--wnba-lottery-questions--aces-offseason-outlook-191443352.html",
-          "published": "2026-11-17T19:14:43Z"
-        },
-        {
-          "title": "NBA rumors: The Rockets problem Jalen Green thought he was escaping is cropping up on Suns",
+          "title": "Ben Simmons\u2019 demeanor during Kings practice amid injury says it all",
           "source": "ClutchPoints",
-          "link": "https://clutchpoints.com/nba/phoenix-suns/nba-rumors-the-rockets-problem-jalen-green-thought-he-was-escaping-is-cropping-up-on-suns",
-          "published": "2026-11-17T19:10:02Z"
+          "link": "https://clutchpoints.com/nba/sacramento-kings/kings-news-ben-simmons-demeanor-during-sacramento-practice-amid-injury-says-it-all",
+          "published": "2026-11-18T02:54:35Z"
         },
         {
-          "title": "\u201cWhen He\u2019s Hated in a Place\u201d: Radio Host Blasts Kyrie Irving for Dodging Celtics Game Due to Troubling Past",
-          "source": "Essentially Sports",
-          "link": "https://www.essentiallysports.com/nba-active-basketball-news-when-hes-hated-in-a-place-radio-host-blasts-kyrie-irving-for-dodging-celtics-game-due-to-troubling-past/",
-          "published": "2026-11-17T19:09:30Z"
+          "title": "\u2018Embarrassing\u2019 \u2013 Toronto Raptors coach Darko Rajakovic mocking Jalen Brunson for flopping goes viral",
+          "source": "HITC - Football, Gaming, Movies, TV, Music",
+          "link": "https://www.hitc.com/embarrassing-toronto-raptors-coach-darko-rajakovic-mocking-jalen-brunson-for-flopping-goes-viral/",
+          "published": "2026-11-18T02:52:12Z"
+        },
+        {
+          "title": "Stephen A. Smith drops harsh truth bomb on Steph Curry\u2019s NBA future",
+          "source": "Yahoo Entertainment",
+          "link": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_56b0e4d8-2d5f-455f-9754-69204619ad3d",
+          "published": "2026-11-18T02:52:09Z"
         }
       ]
     },
@@ -1604,66 +1172,66 @@
       "away_team": "Phoenix Suns",
       "home_abbr": "SAC",
       "away_abbr": "PHX",
-      "home_ml": "+211",
-      "away_ml": "-257",
-      "home_ml_raw": 211,
-      "away_ml_raw": -257,
-      "home_prob": 30.9,
-      "away_prob": 69.1,
+      "home_ml": "+221",
+      "away_ml": "-269",
+      "home_ml_raw": 221,
+      "away_ml_raw": -269,
+      "home_prob": 29.9,
+      "away_prob": 70.1,
       "spread": "SAC +7.5",
       "favorite": "Phoenix Suns",
       "pick": "Phoenix Suns",
       "pick_abbr": "PHX",
-      "moneyline": "-257",
-      "win_probability": 69.1,
+      "moneyline": "-269",
+      "win_probability": 70.1,
       "confidence": "MEDIUM",
       "confidence_stars": "\u2605\u2605\u2606",
       "commence_time": "2026-11-19T03:10:00Z",
       "line_movement": {
         "home": {
-          "direction": "shorter",
-          "points_moved": 9,
+          "direction": "longer",
+          "points_moved": 10,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM +211 \u2190 +220",
-          "old_ml": "+220",
-          "new_ml": "+211"
+          "label": "\ud83d\udd25 STEAM +221 \u2190 +211",
+          "old_ml": "+211",
+          "new_ml": "+221"
         },
         "away": {
-          "direction": "longer",
+          "direction": "shorter",
           "points_moved": 12,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM -257 \u2190 -269",
-          "old_ml": "-269",
-          "new_ml": "-257"
+          "label": "\ud83d\udd25 STEAM -269 \u2190 -257",
+          "old_ml": "-257",
+          "new_ml": "-269"
         },
         "pick": {
-          "direction": "longer",
+          "direction": "shorter",
           "points_moved": 12,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM -257 \u2190 -269",
-          "old_ml": "-269",
-          "new_ml": "-257"
+          "label": "\ud83d\udd25 STEAM -269 \u2190 -257",
+          "old_ml": "-257",
+          "new_ml": "-269"
         },
-        "snapshot_time": "November 18, 2026 at 06:40 AM UTC"
+        "snapshot_time": "November 18, 2026 at 07:15 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "RESTED",
-          "label": "2 days rest \u2705",
-          "battery": 88,
+          "status": "FRESH",
+          "label": "Well rested \u2705",
+          "battery": 100,
           "last_game": "Nov 15",
-          "days_rest": 3,
+          "days_rest": 4,
           "games_last_4d": 1,
           "travel_miles": 0,
           "travel_desc": "",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
+          "status": "RESTED",
+          "label": "2 days rest \u2705",
+          "battery": 88,
           "last_game": "Nov 16",
-          "days_rest": 2,
+          "days_rest": 3,
           "games_last_4d": 2,
           "travel_miles": 585,
           "travel_desc": "585 mi road trip",
@@ -1708,9 +1276,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "Phoenix Suns hold a 69.1% edge.",
+        "trend": "Phoenix Suns hold a 70.1% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -269 to -257 (12pt move) \u2014 heavy professional action on Phoenix Suns.",
+        "steam": "Line steamed from -257 to -269 (12pt move) \u2014 heavy professional action on Phoenix Suns.",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -1724,66 +1292,211 @@
       },
       "news": [
         {
-          "title": "Heat, Celtics deep dive + WNBA Lottery questions & Aces offseason outlook",
-          "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/nba/article/heat-celtics-deep-dive--wnba-lottery-questions--aces-offseason-outlook-191443352.html",
-          "published": "2026-11-17T19:14:43Z"
-        },
-        {
-          "title": "NBA rumors: The Rockets problem Jalen Green thought he was escaping is cropping up on Suns",
+          "title": "Ben Simmons\u2019 demeanor during Kings practice amid injury says it all",
           "source": "ClutchPoints",
-          "link": "https://clutchpoints.com/nba/phoenix-suns/nba-rumors-the-rockets-problem-jalen-green-thought-he-was-escaping-is-cropping-up-on-suns",
-          "published": "2026-11-17T19:10:02Z"
+          "link": "https://clutchpoints.com/nba/sacramento-kings/kings-news-ben-simmons-demeanor-during-sacramento-practice-amid-injury-says-it-all",
+          "published": "2026-11-18T02:54:35Z"
         },
         {
-          "title": "\u201cWhen He\u2019s Hated in a Place\u201d: Radio Host Blasts Kyrie Irving for Dodging Celtics Game Due to Troubling Past",
-          "source": "Essentially Sports",
-          "link": "https://www.essentiallysports.com/nba-active-basketball-news-when-hes-hated-in-a-place-radio-host-blasts-kyrie-irving-for-dodging-celtics-game-due-to-troubling-past/",
-          "published": "2026-11-17T19:09:30Z"
+          "title": "\u2018Embarrassing\u2019 \u2013 Toronto Raptors coach Darko Rajakovic mocking Jalen Brunson for flopping goes viral",
+          "source": "HITC - Football, Gaming, Movies, TV, Music",
+          "link": "https://www.hitc.com/embarrassing-toronto-raptors-coach-darko-rajakovic-mocking-jalen-brunson-for-flopping-goes-viral/",
+          "published": "2026-11-18T02:52:12Z"
+        },
+        {
+          "title": "Stephen A. Smith drops harsh truth bomb on Steph Curry\u2019s NBA future",
+          "source": "Yahoo Entertainment",
+          "link": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_56b0e4d8-2d5f-455f-9754-69204619ad3d",
+          "published": "2026-11-18T02:52:09Z"
+        }
+      ]
+    },
+    {
+      "game": "Los Angeles Clippers @ San Antonio Spurs",
+      "home_team": "San Antonio Spurs",
+      "away_team": "Los Angeles Clippers",
+      "home_abbr": "SAS",
+      "away_abbr": "LAC",
+      "home_ml": "-1140",
+      "away_ml": "+720",
+      "home_ml_raw": -1140,
+      "away_ml_raw": 720,
+      "home_prob": 88.3,
+      "away_prob": 11.7,
+      "spread": "SAS -16.5",
+      "favorite": "San Antonio Spurs",
+      "pick": "San Antonio Spurs",
+      "pick_abbr": "SAS",
+      "moneyline": "-1140",
+      "win_probability": 88.3,
+      "confidence": "HIGH",
+      "confidence_stars": "\u2605\u2605\u2605",
+      "commence_time": "2026-11-20T01:10:00Z",
+      "line_movement": {
+        "home": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "away": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "pick": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "snapshot_time": "\u2014"
+      },
+      "fatigue": {
+        "home": {
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
+          "last_game": "Nov 17",
+          "days_rest": 2,
+          "games_last_4d": 2,
+          "travel_miles": 0,
+          "travel_desc": "",
+          "source": "ESPN Scoreboard API"
+        },
+        "away": {
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
+          "last_game": "Nov 17",
+          "days_rest": 2,
+          "games_last_4d": 2,
+          "travel_miles": 0,
+          "travel_desc": "",
+          "source": "ESPN Scoreboard API"
+        }
+      },
+      "edge_factors": [
+        "\ud83d\udcca 76.6pt probability edge"
+      ],
+      "injury_notes": "No key injuries.",
+      "sharp": {
+        "away_t": null,
+        "home_t": null,
+        "source": null,
+        "sharp_signal": null,
+        "sharp_label": "Pending \u2014 check closer to tip-off",
+        "rlm": false
+      },
+      "form": {
+        "home": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        },
+        "away": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        }
+      },
+      "h2h": {
+        "total_meetings": 0,
+        "home_wins": 0,
+        "away_wins": 0,
+        "meetings": [],
+        "source": "\u2014"
+      },
+      "briefing": {
+        "trend": "San Antonio Spurs hold a 88.3% edge.",
+        "matchup": "Both rosters appear healthy \u2014 clean line.",
+        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "injury_notes": "No key injuries."
+      },
+      "live": {
+        "status": "pre",
+        "status_detail": "Upcoming",
+        "period": 0,
+        "clock": "",
+        "home_score": 0,
+        "away_score": 0,
+        "spread_alert": null
+      },
+      "news": [
+        {
+          "title": "Ben Simmons\u2019 demeanor during Kings practice amid injury says it all",
+          "source": "ClutchPoints",
+          "link": "https://clutchpoints.com/nba/sacramento-kings/kings-news-ben-simmons-demeanor-during-sacramento-practice-amid-injury-says-it-all",
+          "published": "2026-11-18T02:54:35Z"
+        },
+        {
+          "title": "\u2018Embarrassing\u2019 \u2013 Toronto Raptors coach Darko Rajakovic mocking Jalen Brunson for flopping goes viral",
+          "source": "HITC - Football, Gaming, Movies, TV, Music",
+          "link": "https://www.hitc.com/embarrassing-toronto-raptors-coach-darko-rajakovic-mocking-jalen-brunson-for-flopping-goes-viral/",
+          "published": "2026-11-18T02:52:12Z"
+        },
+        {
+          "title": "Stephen A. Smith drops harsh truth bomb on Steph Curry\u2019s NBA future",
+          "source": "Yahoo Entertainment",
+          "link": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_56b0e4d8-2d5f-455f-9754-69204619ad3d",
+          "published": "2026-11-18T02:52:09Z"
         }
       ]
     }
   ],
   "track_record": {
     "MEDIUM": {
-      "wins": 56,
-      "losses": 22,
-      "total": 78,
-      "win_pct": 71.8,
-      "roi": 7.7,
-      "profit": 596.77
+      "wins": 57,
+      "losses": 23,
+      "total": 80,
+      "win_pct": 71.2,
+      "roi": 6.7,
+      "profit": 534.65
     },
     "HIGH": {
-      "wins": 48,
+      "wins": 49,
       "losses": 9,
-      "total": 57,
-      "win_pct": 84.2,
-      "roi": 1.4,
-      "profit": 77.7
+      "total": 58,
+      "win_pct": 84.5,
+      "roi": 1.6,
+      "profit": 90.2
     },
     "LOW": {
-      "wins": 21,
-      "losses": 16,
-      "total": 37,
-      "win_pct": 56.8,
-      "roi": 3.7,
-      "profit": 136.56
+      "wins": 22,
+      "losses": 17,
+      "total": 39,
+      "win_pct": 56.4,
+      "roi": 3.0,
+      "profit": 118.53
     },
     "overall_7d": {
       "wins": 24,
-      "losses": 10,
-      "total": 34,
-      "win_pct": 70.6,
-      "roi": 0.5,
-      "profit": 17.55
+      "losses": 12,
+      "total": 36,
+      "win_pct": 66.7,
+      "roi": -4.7,
+      "profit": -168.22
     },
     "overall_30d": {
-      "wins": 121,
-      "losses": 47,
-      "total": 168,
-      "win_pct": 72.0,
-      "roi": 3.1,
-      "profit": 518.73
+      "wins": 124,
+      "losses": 49,
+      "total": 173,
+      "win_pct": 71.7,
+      "roi": 2.6,
+      "profit": 451.08
     }
   }
 }
