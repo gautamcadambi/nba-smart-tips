@@ -1,638 +1,54 @@
 {
-  "last_updated": "November 20, 2026 at 02:52 AM UTC",
-  "total_games": 13,
+  "last_updated": "November 20, 2026 at 06:30 AM UTC",
+  "total_games": 9,
   "games": [
-    {
-      "game": "Golden State Warriors @ Memphis Grizzlies",
-      "home_team": "Memphis Grizzlies",
-      "away_team": "Golden State Warriors",
-      "home_abbr": "MEM",
-      "away_abbr": "GSW",
-      "home_ml": "-2500",
-      "away_ml": "+1400",
-      "home_ml_raw": -2500,
-      "away_ml_raw": 1400,
-      "home_prob": 93.5,
-      "away_prob": 6.5,
-      "spread": "MEM -16.5",
-      "favorite": "Memphis Grizzlies",
-      "pick": "Memphis Grizzlies",
-      "pick_abbr": "MEM",
-      "moneyline": "-2500",
-      "win_probability": 93.5,
-      "confidence": "HIGH",
-      "confidence_stars": "\u2605\u2605\u2605",
-      "commence_time": "2026-11-20T01:11:00Z",
-      "line_movement": {
-        "home": {
-          "direction": "shorter",
-          "points_moved": 2283,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -2500 \u2190 -217",
-          "old_ml": "-217",
-          "new_ml": "-2500"
-        },
-        "away": {
-          "direction": "longer",
-          "points_moved": 1220,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM +1400 \u2190 +180",
-          "old_ml": "+180",
-          "new_ml": "+1400"
-        },
-        "pick": {
-          "direction": "shorter",
-          "points_moved": 2283,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -2500 \u2190 -217",
-          "old_ml": "-217",
-          "new_ml": "-2500"
-        },
-        "snapshot_time": "November 19, 2026 at 07:21 PM UTC"
-      },
-      "fatigue": {
-        "home": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
-          "last_game": "Nov 19",
-          "days_rest": 1,
-          "games_last_4d": 3,
-          "travel_miles": 631,
-          "travel_desc": "631 mi road trip",
-          "source": "ESPN Scoreboard API"
-        },
-        "away": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
-          "last_game": "Nov 19",
-          "days_rest": 1,
-          "games_last_4d": 3,
-          "travel_miles": 1797,
-          "travel_desc": "1,797 mi road trip",
-          "source": "ESPN Scoreboard API"
-        }
-      },
-      "edge_factors": [
-        "\ud83d\udd25 Sharp steam detected",
-        "\ud83d\udca4 GSW fatigued (B2B) \u2014 source: ESPN"
-      ],
-      "injury_notes": "No key injuries.",
-      "sharp": {
-        "away_t": null,
-        "home_t": null,
-        "source": null,
-        "sharp_signal": null,
-        "sharp_label": "Pending \u2014 check closer to tip-off",
-        "rlm": false
-      },
-      "form": {
-        "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        },
-        "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        }
-      },
-      "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
-      },
-      "briefing": {
-        "trend": "MEM on Back-to-Back \u26a0\ufe0f per ESPN schedule data. GSW on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -217 to -2500 (2283pt move) \u2014 heavy professional action on Memphis Grizzlies.",
-        "injury_notes": "No key injuries."
-      },
-      "live": {
-        "status": "pre",
-        "status_detail": "Upcoming",
-        "period": 0,
-        "clock": "",
-        "home_score": 0,
-        "away_score": 0,
-        "spread_alert": null
-      },
-      "news": [
-        {
-          "title": "Grizzlies beat Cavaliers 124-121 for a franchise-record 8th straight road win",
-          "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/articles/grizzlies-beat-cavaliers-124-121-025157326.html",
-          "published": "2026-11-19T02:51:57Z"
-        },
-        {
-          "title": "Georgia Attorney General Encourages SEC To Take Action Against LSU Over \u2018Contempt For The Rules\u2019",
-          "source": "The Daily Caller",
-          "link": "https://dailycaller.com/2026/11/18/s/",
-          "published": "2026-11-19T02:48:49Z"
-        },
-        {
-          "title": "Magic lose 121-116 battle against conference leaders 76ers",
-          "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/articles/magic-lose-121-116-battle-024754060.html",
-          "published": "2026-11-19T02:47:54Z"
-        }
-      ]
-    },
-    {
-      "game": "Los Angeles Clippers @ San Antonio Spurs",
-      "home_team": "San Antonio Spurs",
-      "away_team": "Los Angeles Clippers",
-      "home_abbr": "SAS",
-      "away_abbr": "LAC",
-      "home_ml": "-1400",
-      "away_ml": "+800",
-      "home_ml_raw": -1400,
-      "away_ml_raw": 800,
-      "home_prob": 89.4,
-      "away_prob": 10.6,
-      "spread": "SAS -10.5",
-      "favorite": "San Antonio Spurs",
-      "pick": "San Antonio Spurs",
-      "pick_abbr": "SAS",
-      "moneyline": "-1400",
-      "win_probability": 89.4,
-      "confidence": "HIGH",
-      "confidence_stars": "\u2605\u2605\u2605",
-      "commence_time": "2026-11-20T01:11:00Z",
-      "line_movement": {
-        "home": {
-          "direction": "shorter",
-          "points_moved": 360,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -1400 \u2190 -1040",
-          "old_ml": "-1040",
-          "new_ml": "-1400"
-        },
-        "away": {
-          "direction": "longer",
-          "points_moved": 130,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM +800 \u2190 +670",
-          "old_ml": "+670",
-          "new_ml": "+800"
-        },
-        "pick": {
-          "direction": "shorter",
-          "points_moved": 360,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -1400 \u2190 -1040",
-          "old_ml": "-1040",
-          "new_ml": "-1400"
-        },
-        "snapshot_time": "November 19, 2026 at 07:21 PM UTC"
-      },
-      "fatigue": {
-        "home": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
-          "last_game": "Nov 19",
-          "days_rest": 1,
-          "games_last_4d": 2,
-          "travel_miles": 0,
-          "travel_desc": "",
-          "source": "ESPN Scoreboard API"
-        },
-        "away": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
-          "last_game": "Nov 19",
-          "days_rest": 1,
-          "games_last_4d": 2,
-          "travel_miles": 1206,
-          "travel_desc": "1,206 mi road trip",
-          "source": "ESPN Scoreboard API"
-        }
-      },
-      "edge_factors": [
-        "\ud83d\udd25 Sharp steam detected",
-        "\ud83d\udca4 LAC fatigued (B2B) \u2014 source: ESPN"
-      ],
-      "injury_notes": "No key injuries.",
-      "sharp": {
-        "away_t": null,
-        "home_t": null,
-        "source": null,
-        "sharp_signal": null,
-        "sharp_label": "Pending \u2014 check closer to tip-off",
-        "rlm": false
-      },
-      "form": {
-        "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        },
-        "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        }
-      },
-      "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
-      },
-      "briefing": {
-        "trend": "SAS on Back-to-Back \u26a0\ufe0f per ESPN schedule data. LAC on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -1040 to -1400 (360pt move) \u2014 heavy professional action on San Antonio Spurs.",
-        "injury_notes": "No key injuries."
-      },
-      "live": {
-        "status": "pre",
-        "status_detail": "Upcoming",
-        "period": 0,
-        "clock": "",
-        "home_score": 0,
-        "away_score": 0,
-        "spread_alert": null
-      },
-      "news": [
-        {
-          "title": "Grizzlies beat Cavaliers 124-121 for a franchise-record 8th straight road win",
-          "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/articles/grizzlies-beat-cavaliers-124-121-025157326.html",
-          "published": "2026-11-19T02:51:57Z"
-        },
-        {
-          "title": "Georgia Attorney General Encourages SEC To Take Action Against LSU Over \u2018Contempt For The Rules\u2019",
-          "source": "The Daily Caller",
-          "link": "https://dailycaller.com/2026/11/18/s/",
-          "published": "2026-11-19T02:48:49Z"
-        },
-        {
-          "title": "Magic lose 121-116 battle against conference leaders 76ers",
-          "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/articles/magic-lose-121-116-battle-024754060.html",
-          "published": "2026-11-19T02:47:54Z"
-        }
-      ]
-    },
-    {
-      "game": "Portland Trail Blazers @ Milwaukee Bucks",
-      "home_team": "Milwaukee Bucks",
-      "away_team": "Portland Trail Blazers",
-      "home_abbr": "MIL",
-      "away_abbr": "POR",
-      "home_ml": "+500",
-      "away_ml": "-750",
-      "home_ml_raw": 500,
-      "away_ml_raw": -750,
-      "home_prob": 15.9,
-      "away_prob": 84.1,
-      "spread": "MIL +9.5",
-      "favorite": "Portland Trail Blazers",
-      "pick": "Portland Trail Blazers",
-      "pick_abbr": "POR",
-      "moneyline": "-750",
-      "win_probability": 84.1,
-      "confidence": "HIGH",
-      "confidence_stars": "\u2605\u2605\u2605",
-      "commence_time": "2026-11-20T01:11:00Z",
-      "line_movement": {
-        "home": {
-          "direction": "longer",
-          "points_moved": 89,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM +500 \u2190 +411",
-          "old_ml": "+411",
-          "new_ml": "+500"
-        },
-        "away": {
-          "direction": "shorter",
-          "points_moved": 204,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -750 \u2190 -546",
-          "old_ml": "-546",
-          "new_ml": "-750"
-        },
-        "pick": {
-          "direction": "shorter",
-          "points_moved": 204,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -750 \u2190 -546",
-          "old_ml": "-546",
-          "new_ml": "-750"
-        },
-        "snapshot_time": "November 19, 2026 at 07:21 PM UTC"
-      },
-      "fatigue": {
-        "home": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
-          "last_game": "Nov 19",
-          "days_rest": 1,
-          "games_last_4d": 2,
-          "travel_miles": 1270,
-          "travel_desc": "1,270 mi road trip",
-          "source": "ESPN Scoreboard API"
-        },
-        "away": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
-          "last_game": "Nov 19",
-          "days_rest": 1,
-          "games_last_4d": 3,
-          "travel_miles": 1714,
-          "travel_desc": "1,714 mi road trip",
-          "source": "ESPN Scoreboard API"
-        }
-      },
-      "edge_factors": [
-        "\ud83d\udd25 Sharp steam detected",
-        "\ud83d\udca4 MIL fatigued (B2B) \u2014 source: ESPN"
-      ],
-      "injury_notes": "No key injuries.",
-      "sharp": {
-        "away_t": null,
-        "home_t": null,
-        "source": null,
-        "sharp_signal": null,
-        "sharp_label": "Pending \u2014 check closer to tip-off",
-        "rlm": false
-      },
-      "form": {
-        "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        },
-        "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        }
-      },
-      "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
-      },
-      "briefing": {
-        "trend": "MIL on Back-to-Back \u26a0\ufe0f per ESPN schedule data. POR on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -546 to -750 (204pt move) \u2014 heavy professional action on Portland Trail Blazers.",
-        "injury_notes": "No key injuries."
-      },
-      "live": {
-        "status": "pre",
-        "status_detail": "Upcoming",
-        "period": 0,
-        "clock": "",
-        "home_score": 0,
-        "away_score": 0,
-        "spread_alert": null
-      },
-      "news": [
-        {
-          "title": "Grizzlies beat Cavaliers 124-121 for a franchise-record 8th straight road win",
-          "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/articles/grizzlies-beat-cavaliers-124-121-025157326.html",
-          "published": "2026-11-19T02:51:57Z"
-        },
-        {
-          "title": "Georgia Attorney General Encourages SEC To Take Action Against LSU Over \u2018Contempt For The Rules\u2019",
-          "source": "The Daily Caller",
-          "link": "https://dailycaller.com/2026/11/18/s/",
-          "published": "2026-11-19T02:48:49Z"
-        },
-        {
-          "title": "Magic lose 121-116 battle against conference leaders 76ers",
-          "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/articles/magic-lose-121-116-battle-024754060.html",
-          "published": "2026-11-19T02:47:54Z"
-        }
-      ]
-    },
-    {
-      "game": "New York Knicks @ Minnesota Timberwolves",
-      "home_team": "Minnesota Timberwolves",
-      "away_team": "New York Knicks",
-      "home_abbr": "MIN",
-      "away_abbr": "NYK",
-      "home_ml": "+1300",
-      "away_ml": "-3000",
-      "home_ml_raw": 1300,
-      "away_ml_raw": -3000,
-      "home_prob": 6.9,
-      "away_prob": 93.1,
-      "spread": "MIN +12.5",
-      "favorite": "New York Knicks",
-      "pick": "New York Knicks",
-      "pick_abbr": "NYK",
-      "moneyline": "-3000",
-      "win_probability": 93.1,
-      "confidence": "HIGH",
-      "confidence_stars": "\u2605\u2605\u2605",
-      "commence_time": "2026-11-20T01:11:00Z",
-      "line_movement": {
-        "home": {
-          "direction": "longer",
-          "points_moved": 1404,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM +1300 \u2190 -104",
-          "old_ml": "-104",
-          "new_ml": "+1300"
-        },
-        "away": {
-          "direction": "shorter",
-          "points_moved": 2887,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -3000 \u2190 -113",
-          "old_ml": "-113",
-          "new_ml": "-3000"
-        },
-        "pick": {
-          "direction": "shorter",
-          "points_moved": 2887,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -3000 \u2190 -113",
-          "old_ml": "-113",
-          "new_ml": "-3000"
-        },
-        "snapshot_time": "November 19, 2026 at 07:21 PM UTC"
-      },
-      "fatigue": {
-        "home": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
-          "last_game": "Nov 19",
-          "days_rest": 1,
-          "games_last_4d": 3,
-          "travel_miles": 0,
-          "travel_desc": "",
-          "source": "ESPN Scoreboard API"
-        },
-        "away": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
-          "last_game": "Nov 19",
-          "days_rest": 1,
-          "games_last_4d": 2,
-          "travel_miles": 1016,
-          "travel_desc": "1,016 mi road trip",
-          "source": "ESPN Scoreboard API"
-        }
-      },
-      "edge_factors": [
-        "\ud83d\udd25 Sharp steam detected",
-        "\ud83d\udca4 MIN fatigued (B2B) \u2014 source: ESPN"
-      ],
-      "injury_notes": "No key injuries.",
-      "sharp": {
-        "away_t": null,
-        "home_t": null,
-        "source": null,
-        "sharp_signal": null,
-        "sharp_label": "Pending \u2014 check closer to tip-off",
-        "rlm": false
-      },
-      "form": {
-        "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        },
-        "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        }
-      },
-      "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
-      },
-      "briefing": {
-        "trend": "MIN on Back-to-Back \u26a0\ufe0f per ESPN schedule data. NYK on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -113 to -3000 (2887pt move) \u2014 heavy professional action on New York Knicks.",
-        "injury_notes": "No key injuries."
-      },
-      "live": {
-        "status": "pre",
-        "status_detail": "Upcoming",
-        "period": 0,
-        "clock": "",
-        "home_score": 0,
-        "away_score": 0,
-        "spread_alert": null
-      },
-      "news": [
-        {
-          "title": "Grizzlies beat Cavaliers 124-121 for a franchise-record 8th straight road win",
-          "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/articles/grizzlies-beat-cavaliers-124-121-025157326.html",
-          "published": "2026-11-19T02:51:57Z"
-        },
-        {
-          "title": "Georgia Attorney General Encourages SEC To Take Action Against LSU Over \u2018Contempt For The Rules\u2019",
-          "source": "The Daily Caller",
-          "link": "https://dailycaller.com/2026/11/18/s/",
-          "published": "2026-11-19T02:48:49Z"
-        },
-        {
-          "title": "Magic lose 121-116 battle against conference leaders 76ers",
-          "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/articles/magic-lose-121-116-battle-024754060.html",
-          "published": "2026-11-19T02:47:54Z"
-        }
-      ]
-    },
     {
       "game": "Charlotte Hornets @ Atlanta Hawks",
       "home_team": "Atlanta Hawks",
       "away_team": "Charlotte Hornets",
       "home_abbr": "ATL",
       "away_abbr": "CHA",
-      "home_ml": "-218",
-      "away_ml": "+181",
-      "home_ml_raw": -218,
-      "away_ml_raw": 181,
-      "home_prob": 65.8,
-      "away_prob": 34.2,
-      "spread": "ATL -5.5",
+      "home_ml": "-230",
+      "away_ml": "+191",
+      "home_ml_raw": -230,
+      "away_ml_raw": 191,
+      "home_prob": 67.0,
+      "away_prob": 33.0,
+      "spread": "ATL -6.5",
       "favorite": "Atlanta Hawks",
       "pick": "Atlanta Hawks",
       "pick_abbr": "ATL",
-      "moneyline": "-218",
-      "win_probability": 65.8,
+      "moneyline": "-230",
+      "win_probability": 67.0,
       "confidence": "MEDIUM",
       "confidence_stars": "\u2605\u2605\u2606",
       "commence_time": "2026-11-21T00:10:00Z",
       "line_movement": {
         "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "direction": "shorter",
+          "points_moved": 12,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -230 \u2190 -218",
+          "old_ml": "-218",
+          "new_ml": "-230"
         },
         "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "direction": "longer",
+          "points_moved": 10,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM +191 \u2190 +181",
+          "old_ml": "+181",
+          "new_ml": "+191"
         },
         "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "direction": "shorter",
+          "points_moved": 12,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -230 \u2190 -218",
+          "old_ml": "-218",
+          "new_ml": "-230"
         },
-        "snapshot_time": "\u2014"
+        "snapshot_time": "November 20, 2026 at 02:52 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -659,6 +75,7 @@
         }
       },
       "edge_factors": [
+        "\ud83d\udd25 Sharp steam detected",
         "\u2708\ufe0f CHA traveled 2,117 mi"
       ],
       "injury_notes": "No key injuries.",
@@ -696,9 +113,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "Atlanta Hawks hold a 65.8% edge.",
+        "trend": "Atlanta Hawks hold a 67.0% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "steam": "Line steamed from -218 to -230 (12pt move) \u2014 heavy professional action on Atlanta Hawks.",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -712,22 +129,22 @@
       },
       "news": [
         {
-          "title": "Grizzlies beat Cavaliers 124-121 for a franchise-record 8th straight road win",
-          "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/articles/grizzlies-beat-cavaliers-124-121-025157326.html",
-          "published": "2026-11-19T02:51:57Z"
+          "title": "Where to watch Timberwolves vs. Knicks today: Channel, live stream, time, TV schedule for Thursday NBA game",
+          "source": "Sporting News",
+          "link": "https://www.sportingnews.com/us/nba/news/watch-timberwolves-knicks-channel-stream-time-schedule-nba/6c817d4a0b796bd6ef2d0356",
+          "published": "2026-11-19T06:30:01Z"
         },
         {
-          "title": "Georgia Attorney General Encourages SEC To Take Action Against LSU Over \u2018Contempt For The Rules\u2019",
-          "source": "The Daily Caller",
-          "link": "https://dailycaller.com/2026/11/18/s/",
-          "published": "2026-11-19T02:48:49Z"
+          "title": "Suns\u2019 Devin Booker enters rarefied NBA territory amid Kings game",
+          "source": "ClutchPoints",
+          "link": "https://clutchpoints.com/nba/phoenix-suns/suns-news-devin-booker-enters-rarefied-nba-territory-amid-kings-game",
+          "published": "2026-11-19T06:25:25Z"
         },
         {
-          "title": "Magic lose 121-116 battle against conference leaders 76ers",
+          "title": "\u99ac\u65af\u514b\u8b49\u5be6\u79c1\u4e0b\u8207\u9ec3\u4ec1\u52f3\u8ac7\u8a71\u300c\u9084\u63d0\u5230\u53f0\u7063\u300d\uff01\u3000\u8a9e\u5e36\u54fd\u54bd\uff1a\u4ed6\u7121\u53ef\u53d6\u4ee3",
           "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/articles/magic-lose-121-116-battle-024754060.html",
-          "published": "2026-11-19T02:47:54Z"
+          "link": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_e18dbebe-4832-47e1-a935-0e4448b17e9a",
+          "published": "2026-11-19T06:18:00Z"
         }
       ]
     },
@@ -737,47 +154,47 @@
       "away_team": "Orlando Magic",
       "home_abbr": "BKN",
       "away_abbr": "ORL",
-      "home_ml": "+168",
-      "away_ml": "-201",
-      "home_ml_raw": 168,
-      "away_ml_raw": -201,
-      "home_prob": 35.8,
-      "away_prob": 64.2,
+      "home_ml": "+181",
+      "away_ml": "-218",
+      "home_ml_raw": 181,
+      "away_ml_raw": -218,
+      "home_prob": 34.2,
+      "away_prob": 65.8,
       "spread": "BKN +5.5",
       "favorite": "Orlando Magic",
       "pick": "Orlando Magic",
       "pick_abbr": "ORL",
-      "moneyline": "-201",
-      "win_probability": 64.2,
+      "moneyline": "-218",
+      "win_probability": 65.8,
       "confidence": "MEDIUM",
       "confidence_stars": "\u2605\u2605\u2606",
       "commence_time": "2026-11-21T00:40:00Z",
       "line_movement": {
         "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "direction": "longer",
+          "points_moved": 13,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM +181 \u2190 +168",
+          "old_ml": "+168",
+          "new_ml": "+181"
         },
         "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "direction": "shorter",
+          "points_moved": 17,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -218 \u2190 -201",
+          "old_ml": "-201",
+          "new_ml": "-218"
         },
         "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "direction": "shorter",
+          "points_moved": 17,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -218 \u2190 -201",
+          "old_ml": "-201",
+          "new_ml": "-218"
         },
-        "snapshot_time": "\u2014"
+        "snapshot_time": "November 20, 2026 at 02:52 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -804,7 +221,7 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udcca 28.4pt probability edge"
+        "\ud83d\udd25 Sharp steam detected"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -841,9 +258,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "Orlando Magic hold a 64.2% edge.",
+        "trend": "Orlando Magic hold a 65.8% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "steam": "Line steamed from -201 to -218 (17pt move) \u2014 heavy professional action on Orlando Magic.",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -857,22 +274,22 @@
       },
       "news": [
         {
-          "title": "Grizzlies beat Cavaliers 124-121 for a franchise-record 8th straight road win",
-          "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/articles/grizzlies-beat-cavaliers-124-121-025157326.html",
-          "published": "2026-11-19T02:51:57Z"
+          "title": "Where to watch Timberwolves vs. Knicks today: Channel, live stream, time, TV schedule for Thursday NBA game",
+          "source": "Sporting News",
+          "link": "https://www.sportingnews.com/us/nba/news/watch-timberwolves-knicks-channel-stream-time-schedule-nba/6c817d4a0b796bd6ef2d0356",
+          "published": "2026-11-19T06:30:01Z"
         },
         {
-          "title": "Georgia Attorney General Encourages SEC To Take Action Against LSU Over \u2018Contempt For The Rules\u2019",
-          "source": "The Daily Caller",
-          "link": "https://dailycaller.com/2026/11/18/s/",
-          "published": "2026-11-19T02:48:49Z"
+          "title": "Suns\u2019 Devin Booker enters rarefied NBA territory amid Kings game",
+          "source": "ClutchPoints",
+          "link": "https://clutchpoints.com/nba/phoenix-suns/suns-news-devin-booker-enters-rarefied-nba-territory-amid-kings-game",
+          "published": "2026-11-19T06:25:25Z"
         },
         {
-          "title": "Magic lose 121-116 battle against conference leaders 76ers",
+          "title": "\u99ac\u65af\u514b\u8b49\u5be6\u79c1\u4e0b\u8207\u9ec3\u4ec1\u52f3\u8ac7\u8a71\u300c\u9084\u63d0\u5230\u53f0\u7063\u300d\uff01\u3000\u8a9e\u5e36\u54fd\u54bd\uff1a\u4ed6\u7121\u53ef\u53d6\u4ee3",
           "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/articles/magic-lose-121-116-battle-024754060.html",
-          "published": "2026-11-19T02:47:54Z"
+          "link": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_e18dbebe-4832-47e1-a935-0e4448b17e9a",
+          "published": "2026-11-19T06:18:00Z"
         }
       ]
     },
@@ -882,47 +299,47 @@
       "away_team": "Indiana Pacers",
       "home_abbr": "CLE",
       "away_abbr": "IND",
-      "home_ml": "-246",
-      "away_ml": "+203",
-      "home_ml_raw": -246,
-      "away_ml_raw": 203,
-      "home_prob": 68.3,
-      "away_prob": 31.7,
-      "spread": "CLE -7.5",
+      "home_ml": "-268",
+      "away_ml": "+220",
+      "home_ml_raw": -268,
+      "away_ml_raw": 220,
+      "home_prob": 70.0,
+      "away_prob": 30.0,
+      "spread": "CLE -6.5",
       "favorite": "Cleveland Cavaliers",
       "pick": "Cleveland Cavaliers",
       "pick_abbr": "CLE",
-      "moneyline": "-246",
-      "win_probability": 68.3,
+      "moneyline": "-268",
+      "win_probability": 70.0,
       "confidence": "MEDIUM",
       "confidence_stars": "\u2605\u2605\u2606",
       "commence_time": "2026-11-21T00:40:00Z",
       "line_movement": {
         "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "direction": "shorter",
+          "points_moved": 22,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -268 \u2190 -246",
+          "old_ml": "-246",
+          "new_ml": "-268"
         },
         "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "direction": "longer",
+          "points_moved": 17,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM +220 \u2190 +203",
+          "old_ml": "+203",
+          "new_ml": "+220"
         },
         "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "direction": "shorter",
+          "points_moved": 22,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -268 \u2190 -246",
+          "old_ml": "-246",
+          "new_ml": "-268"
         },
-        "snapshot_time": "\u2014"
+        "snapshot_time": "November 20, 2026 at 02:52 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -949,7 +366,7 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udcca 36.6pt probability edge"
+        "\ud83d\udd25 Sharp steam detected"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -986,9 +403,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "Cleveland Cavaliers hold a 68.3% edge.",
+        "trend": "Cleveland Cavaliers hold a 70.0% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "steam": "Line steamed from -246 to -268 (22pt move) \u2014 heavy professional action on Cleveland Cavaliers.",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -1002,22 +419,22 @@
       },
       "news": [
         {
-          "title": "Grizzlies beat Cavaliers 124-121 for a franchise-record 8th straight road win",
-          "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/articles/grizzlies-beat-cavaliers-124-121-025157326.html",
-          "published": "2026-11-19T02:51:57Z"
+          "title": "Where to watch Timberwolves vs. Knicks today: Channel, live stream, time, TV schedule for Thursday NBA game",
+          "source": "Sporting News",
+          "link": "https://www.sportingnews.com/us/nba/news/watch-timberwolves-knicks-channel-stream-time-schedule-nba/6c817d4a0b796bd6ef2d0356",
+          "published": "2026-11-19T06:30:01Z"
         },
         {
-          "title": "Georgia Attorney General Encourages SEC To Take Action Against LSU Over \u2018Contempt For The Rules\u2019",
-          "source": "The Daily Caller",
-          "link": "https://dailycaller.com/2026/11/18/s/",
-          "published": "2026-11-19T02:48:49Z"
+          "title": "Suns\u2019 Devin Booker enters rarefied NBA territory amid Kings game",
+          "source": "ClutchPoints",
+          "link": "https://clutchpoints.com/nba/phoenix-suns/suns-news-devin-booker-enters-rarefied-nba-territory-amid-kings-game",
+          "published": "2026-11-19T06:25:25Z"
         },
         {
-          "title": "Magic lose 121-116 battle against conference leaders 76ers",
+          "title": "\u99ac\u65af\u514b\u8b49\u5be6\u79c1\u4e0b\u8207\u9ec3\u4ec1\u52f3\u8ac7\u8a71\u300c\u9084\u63d0\u5230\u53f0\u7063\u300d\uff01\u3000\u8a9e\u5e36\u54fd\u54bd\uff1a\u4ed6\u7121\u53ef\u53d6\u4ee3",
           "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/articles/magic-lose-121-116-battle-024754060.html",
-          "published": "2026-11-19T02:47:54Z"
+          "link": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_e18dbebe-4832-47e1-a935-0e4448b17e9a",
+          "published": "2026-11-19T06:18:00Z"
         }
       ]
     },
@@ -1033,7 +450,7 @@
       "away_ml_raw": 237,
       "home_prob": 71.5,
       "away_prob": 28.5,
-      "spread": "DET -8.5",
+      "spread": "DET -7.5",
       "favorite": "Detroit Pistons",
       "pick": "Detroit Pistons",
       "pick_abbr": "DET",
@@ -1047,27 +464,27 @@
           "direction": "none",
           "points_moved": 0,
           "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "label": "No movement",
+          "old_ml": "-291",
+          "new_ml": "-291"
         },
         "away": {
           "direction": "none",
           "points_moved": 0,
           "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "label": "No movement",
+          "old_ml": "+237",
+          "new_ml": "+237"
         },
         "pick": {
           "direction": "none",
           "points_moved": 0,
           "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "label": "No movement",
+          "old_ml": "-291",
+          "new_ml": "-291"
         },
-        "snapshot_time": "\u2014"
+        "snapshot_time": "November 20, 2026 at 02:52 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -1147,22 +564,22 @@
       },
       "news": [
         {
-          "title": "Grizzlies beat Cavaliers 124-121 for a franchise-record 8th straight road win",
-          "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/articles/grizzlies-beat-cavaliers-124-121-025157326.html",
-          "published": "2026-11-19T02:51:57Z"
+          "title": "Where to watch Timberwolves vs. Knicks today: Channel, live stream, time, TV schedule for Thursday NBA game",
+          "source": "Sporting News",
+          "link": "https://www.sportingnews.com/us/nba/news/watch-timberwolves-knicks-channel-stream-time-schedule-nba/6c817d4a0b796bd6ef2d0356",
+          "published": "2026-11-19T06:30:01Z"
         },
         {
-          "title": "Georgia Attorney General Encourages SEC To Take Action Against LSU Over \u2018Contempt For The Rules\u2019",
-          "source": "The Daily Caller",
-          "link": "https://dailycaller.com/2026/11/18/s/",
-          "published": "2026-11-19T02:48:49Z"
+          "title": "Suns\u2019 Devin Booker enters rarefied NBA territory amid Kings game",
+          "source": "ClutchPoints",
+          "link": "https://clutchpoints.com/nba/phoenix-suns/suns-news-devin-booker-enters-rarefied-nba-territory-amid-kings-game",
+          "published": "2026-11-19T06:25:25Z"
         },
         {
-          "title": "Magic lose 121-116 battle against conference leaders 76ers",
+          "title": "\u99ac\u65af\u514b\u8b49\u5be6\u79c1\u4e0b\u8207\u9ec3\u4ec1\u52f3\u8ac7\u8a71\u300c\u9084\u63d0\u5230\u53f0\u7063\u300d\uff01\u3000\u8a9e\u5e36\u54fd\u54bd\uff1a\u4ed6\u7121\u53ef\u53d6\u4ee3",
           "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/articles/magic-lose-121-116-battle-024754060.html",
-          "published": "2026-11-19T02:47:54Z"
+          "link": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_e18dbebe-4832-47e1-a935-0e4448b17e9a",
+          "published": "2026-11-19T06:18:00Z"
         }
       ]
     },
@@ -1172,47 +589,47 @@
       "away_team": "Washington Wizards",
       "home_abbr": "CHI",
       "away_abbr": "WAS",
-      "home_ml": "-143",
+      "home_ml": "-142",
       "away_ml": "+120",
-      "home_ml_raw": -143,
+      "home_ml_raw": -142,
       "away_ml_raw": 120,
-      "home_prob": 56.4,
-      "away_prob": 43.6,
+      "home_prob": 56.3,
+      "away_prob": 43.7,
       "spread": "CHI -3.5",
       "favorite": "Chicago Bulls",
       "pick": "Chicago Bulls",
       "pick_abbr": "CHI",
-      "moneyline": "-143",
-      "win_probability": 56.4,
+      "moneyline": "-142",
+      "win_probability": 56.3,
       "confidence": "LOW",
       "confidence_stars": "\u2605\u2606\u2606",
       "commence_time": "2026-11-21T01:10:00Z",
       "line_movement": {
         "home": {
-          "direction": "none",
-          "points_moved": 0,
+          "direction": "longer",
+          "points_moved": 1,
           "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "label": "\ud83d\udd34 -142 \u2190 -143",
+          "old_ml": "-143",
+          "new_ml": "-142"
         },
         "away": {
           "direction": "none",
           "points_moved": 0,
           "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "label": "No movement",
+          "old_ml": "+120",
+          "new_ml": "+120"
         },
         "pick": {
-          "direction": "none",
-          "points_moved": 0,
+          "direction": "longer",
+          "points_moved": 1,
           "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "label": "\ud83d\udd34 -142 \u2190 -143",
+          "old_ml": "-143",
+          "new_ml": "-142"
         },
-        "snapshot_time": "\u2014"
+        "snapshot_time": "November 20, 2026 at 02:52 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -1239,7 +656,7 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udcca 12.8pt probability edge"
+        "\ud83d\udcca 12.6pt probability edge"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -1276,9 +693,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "Chicago Bulls hold a 56.4% edge.",
+        "trend": "Chicago Bulls hold a 56.3% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "steam": "Line moved -143\u2192-142 (1pts). Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -1292,22 +709,22 @@
       },
       "news": [
         {
-          "title": "Grizzlies beat Cavaliers 124-121 for a franchise-record 8th straight road win",
-          "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/articles/grizzlies-beat-cavaliers-124-121-025157326.html",
-          "published": "2026-11-19T02:51:57Z"
+          "title": "Where to watch Timberwolves vs. Knicks today: Channel, live stream, time, TV schedule for Thursday NBA game",
+          "source": "Sporting News",
+          "link": "https://www.sportingnews.com/us/nba/news/watch-timberwolves-knicks-channel-stream-time-schedule-nba/6c817d4a0b796bd6ef2d0356",
+          "published": "2026-11-19T06:30:01Z"
         },
         {
-          "title": "Georgia Attorney General Encourages SEC To Take Action Against LSU Over \u2018Contempt For The Rules\u2019",
-          "source": "The Daily Caller",
-          "link": "https://dailycaller.com/2026/11/18/s/",
-          "published": "2026-11-19T02:48:49Z"
+          "title": "Suns\u2019 Devin Booker enters rarefied NBA territory amid Kings game",
+          "source": "ClutchPoints",
+          "link": "https://clutchpoints.com/nba/phoenix-suns/suns-news-devin-booker-enters-rarefied-nba-territory-amid-kings-game",
+          "published": "2026-11-19T06:25:25Z"
         },
         {
-          "title": "Magic lose 121-116 battle against conference leaders 76ers",
+          "title": "\u99ac\u65af\u514b\u8b49\u5be6\u79c1\u4e0b\u8207\u9ec3\u4ec1\u52f3\u8ac7\u8a71\u300c\u9084\u63d0\u5230\u53f0\u7063\u300d\uff01\u3000\u8a9e\u5e36\u54fd\u54bd\uff1a\u4ed6\u7121\u53ef\u53d6\u4ee3",
           "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/articles/magic-lose-121-116-battle-024754060.html",
-          "published": "2026-11-19T02:47:54Z"
+          "link": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_e18dbebe-4832-47e1-a935-0e4448b17e9a",
+          "published": "2026-11-19T06:18:00Z"
         }
       ]
     },
@@ -1317,47 +734,47 @@
       "away_team": "New Orleans Pelicans",
       "home_abbr": "OKC",
       "away_abbr": "NOP",
-      "home_ml": "-499",
-      "away_ml": "+382",
-      "home_ml_raw": -499,
-      "away_ml_raw": 382,
-      "home_prob": 80.1,
-      "away_prob": 19.9,
+      "home_ml": "-546",
+      "away_ml": "+411",
+      "home_ml_raw": -546,
+      "away_ml_raw": 411,
+      "home_prob": 81.2,
+      "away_prob": 18.8,
       "spread": "OKC -11.5",
       "favorite": "Oklahoma City Thunder",
       "pick": "Oklahoma City Thunder",
       "pick_abbr": "OKC",
-      "moneyline": "-499",
-      "win_probability": 80.1,
+      "moneyline": "-546",
+      "win_probability": 81.2,
       "confidence": "HIGH",
       "confidence_stars": "\u2605\u2605\u2605",
       "commence_time": "2026-11-21T01:10:00Z",
       "line_movement": {
         "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "direction": "shorter",
+          "points_moved": 47,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -546 \u2190 -499",
+          "old_ml": "-499",
+          "new_ml": "-546"
         },
         "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "direction": "longer",
+          "points_moved": 29,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM +411 \u2190 +382",
+          "old_ml": "+382",
+          "new_ml": "+411"
         },
         "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "direction": "shorter",
+          "points_moved": 47,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -546 \u2190 -499",
+          "old_ml": "-499",
+          "new_ml": "-546"
         },
-        "snapshot_time": "\u2014"
+        "snapshot_time": "November 20, 2026 at 02:52 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -1384,7 +801,7 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udcca 60.2pt probability edge"
+        "\ud83d\udd25 Sharp steam detected"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -1421,9 +838,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "Oklahoma City Thunder hold a 80.1% edge.",
+        "trend": "Oklahoma City Thunder hold a 81.2% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "steam": "Line steamed from -499 to -546 (47pt move) \u2014 heavy professional action on Oklahoma City Thunder.",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -1437,22 +854,22 @@
       },
       "news": [
         {
-          "title": "Grizzlies beat Cavaliers 124-121 for a franchise-record 8th straight road win",
-          "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/articles/grizzlies-beat-cavaliers-124-121-025157326.html",
-          "published": "2026-11-19T02:51:57Z"
+          "title": "Where to watch Timberwolves vs. Knicks today: Channel, live stream, time, TV schedule for Thursday NBA game",
+          "source": "Sporting News",
+          "link": "https://www.sportingnews.com/us/nba/news/watch-timberwolves-knicks-channel-stream-time-schedule-nba/6c817d4a0b796bd6ef2d0356",
+          "published": "2026-11-19T06:30:01Z"
         },
         {
-          "title": "Georgia Attorney General Encourages SEC To Take Action Against LSU Over \u2018Contempt For The Rules\u2019",
-          "source": "The Daily Caller",
-          "link": "https://dailycaller.com/2026/11/18/s/",
-          "published": "2026-11-19T02:48:49Z"
+          "title": "Suns\u2019 Devin Booker enters rarefied NBA territory amid Kings game",
+          "source": "ClutchPoints",
+          "link": "https://clutchpoints.com/nba/phoenix-suns/suns-news-devin-booker-enters-rarefied-nba-territory-amid-kings-game",
+          "published": "2026-11-19T06:25:25Z"
         },
         {
-          "title": "Magic lose 121-116 battle against conference leaders 76ers",
+          "title": "\u99ac\u65af\u514b\u8b49\u5be6\u79c1\u4e0b\u8207\u9ec3\u4ec1\u52f3\u8ac7\u8a71\u300c\u9084\u63d0\u5230\u53f0\u7063\u300d\uff01\u3000\u8a9e\u5e36\u54fd\u54bd\uff1a\u4ed6\u7121\u53ef\u53d6\u4ee3",
           "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/articles/magic-lose-121-116-battle-024754060.html",
-          "published": "2026-11-19T02:47:54Z"
+          "link": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_e18dbebe-4832-47e1-a935-0e4448b17e9a",
+          "published": "2026-11-19T06:18:00Z"
         }
       ]
     },
@@ -1482,27 +899,27 @@
           "direction": "none",
           "points_moved": 0,
           "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "label": "No movement",
+          "old_ml": "+151",
+          "new_ml": "+151"
         },
         "away": {
           "direction": "none",
           "points_moved": 0,
           "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "label": "No movement",
+          "old_ml": "-180",
+          "new_ml": "-180"
         },
         "pick": {
           "direction": "none",
           "points_moved": 0,
           "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "label": "No movement",
+          "old_ml": "-180",
+          "new_ml": "-180"
         },
-        "snapshot_time": "\u2014"
+        "snapshot_time": "November 20, 2026 at 02:52 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -1582,22 +999,22 @@
       },
       "news": [
         {
-          "title": "Grizzlies beat Cavaliers 124-121 for a franchise-record 8th straight road win",
-          "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/articles/grizzlies-beat-cavaliers-124-121-025157326.html",
-          "published": "2026-11-19T02:51:57Z"
+          "title": "Where to watch Timberwolves vs. Knicks today: Channel, live stream, time, TV schedule for Thursday NBA game",
+          "source": "Sporting News",
+          "link": "https://www.sportingnews.com/us/nba/news/watch-timberwolves-knicks-channel-stream-time-schedule-nba/6c817d4a0b796bd6ef2d0356",
+          "published": "2026-11-19T06:30:01Z"
         },
         {
-          "title": "Georgia Attorney General Encourages SEC To Take Action Against LSU Over \u2018Contempt For The Rules\u2019",
-          "source": "The Daily Caller",
-          "link": "https://dailycaller.com/2026/11/18/s/",
-          "published": "2026-11-19T02:48:49Z"
+          "title": "Suns\u2019 Devin Booker enters rarefied NBA territory amid Kings game",
+          "source": "ClutchPoints",
+          "link": "https://clutchpoints.com/nba/phoenix-suns/suns-news-devin-booker-enters-rarefied-nba-territory-amid-kings-game",
+          "published": "2026-11-19T06:25:25Z"
         },
         {
-          "title": "Magic lose 121-116 battle against conference leaders 76ers",
+          "title": "\u99ac\u65af\u514b\u8b49\u5be6\u79c1\u4e0b\u8207\u9ec3\u4ec1\u52f3\u8ac7\u8a71\u300c\u9084\u63d0\u5230\u53f0\u7063\u300d\uff01\u3000\u8a9e\u5e36\u54fd\u54bd\uff1a\u4ed6\u7121\u53ef\u53d6\u4ee3",
           "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/articles/magic-lose-121-116-battle-024754060.html",
-          "published": "2026-11-19T02:47:54Z"
+          "link": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_e18dbebe-4832-47e1-a935-0e4448b17e9a",
+          "published": "2026-11-19T06:18:00Z"
         }
       ]
     },
@@ -1607,47 +1024,47 @@
       "away_team": "Houston Rockets",
       "home_abbr": "DEN",
       "away_abbr": "HOU",
-      "home_ml": "-119",
-      "away_ml": "+101",
-      "home_ml_raw": -119,
-      "away_ml_raw": 101,
-      "home_prob": 52.2,
-      "away_prob": 47.8,
+      "home_ml": "-125",
+      "away_ml": "+105",
+      "home_ml_raw": -125,
+      "away_ml_raw": 105,
+      "home_prob": 53.2,
+      "away_prob": 46.8,
       "spread": "DEN -1.5",
       "favorite": "Denver Nuggets",
       "pick": "Denver Nuggets",
       "pick_abbr": "DEN",
-      "moneyline": "-119",
-      "win_probability": 52.2,
+      "moneyline": "-125",
+      "win_probability": 53.2,
       "confidence": "LOW",
       "confidence_stars": "\u2605\u2606\u2606",
       "commence_time": "2026-11-21T03:10:00Z",
       "line_movement": {
         "home": {
-          "direction": "none",
-          "points_moved": 0,
+          "direction": "shorter",
+          "points_moved": 6,
           "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "label": "\ud83d\udfe2 -125 \u2190 -119",
+          "old_ml": "-119",
+          "new_ml": "-125"
         },
         "away": {
-          "direction": "none",
-          "points_moved": 0,
+          "direction": "longer",
+          "points_moved": 4,
           "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "label": "\ud83d\udd34 +105 \u2190 +101",
+          "old_ml": "+101",
+          "new_ml": "+105"
         },
         "pick": {
-          "direction": "none",
-          "points_moved": 0,
+          "direction": "shorter",
+          "points_moved": 6,
           "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "label": "\ud83d\udfe2 -125 \u2190 -119",
+          "old_ml": "-119",
+          "new_ml": "-125"
         },
-        "snapshot_time": "\u2014"
+        "snapshot_time": "November 20, 2026 at 02:52 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -1674,7 +1091,7 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udcca 4.4pt probability edge"
+        "\ud83d\udcca 6.4pt probability edge"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -1711,9 +1128,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "Denver Nuggets hold a 52.2% edge.",
+        "trend": "Denver Nuggets hold a 53.2% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "steam": "Line moved -119\u2192-125 (6pts). Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -1727,22 +1144,22 @@
       },
       "news": [
         {
-          "title": "Grizzlies beat Cavaliers 124-121 for a franchise-record 8th straight road win",
-          "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/articles/grizzlies-beat-cavaliers-124-121-025157326.html",
-          "published": "2026-11-19T02:51:57Z"
+          "title": "Where to watch Timberwolves vs. Knicks today: Channel, live stream, time, TV schedule for Thursday NBA game",
+          "source": "Sporting News",
+          "link": "https://www.sportingnews.com/us/nba/news/watch-timberwolves-knicks-channel-stream-time-schedule-nba/6c817d4a0b796bd6ef2d0356",
+          "published": "2026-11-19T06:30:01Z"
         },
         {
-          "title": "Georgia Attorney General Encourages SEC To Take Action Against LSU Over \u2018Contempt For The Rules\u2019",
-          "source": "The Daily Caller",
-          "link": "https://dailycaller.com/2026/11/18/s/",
-          "published": "2026-11-19T02:48:49Z"
+          "title": "Suns\u2019 Devin Booker enters rarefied NBA territory amid Kings game",
+          "source": "ClutchPoints",
+          "link": "https://clutchpoints.com/nba/phoenix-suns/suns-news-devin-booker-enters-rarefied-nba-territory-amid-kings-game",
+          "published": "2026-11-19T06:25:25Z"
         },
         {
-          "title": "Magic lose 121-116 battle against conference leaders 76ers",
+          "title": "\u99ac\u65af\u514b\u8b49\u5be6\u79c1\u4e0b\u8207\u9ec3\u4ec1\u52f3\u8ac7\u8a71\u300c\u9084\u63d0\u5230\u53f0\u7063\u300d\uff01\u3000\u8a9e\u5e36\u54fd\u54bd\uff1a\u4ed6\u7121\u53ef\u53d6\u4ee3",
           "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/articles/magic-lose-121-116-battle-024754060.html",
-          "published": "2026-11-19T02:47:54Z"
+          "link": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_e18dbebe-4832-47e1-a935-0e4448b17e9a",
+          "published": "2026-11-19T06:18:00Z"
         }
       ]
     },
@@ -1752,47 +1169,47 @@
       "away_team": "Sacramento Kings",
       "home_abbr": "LAL",
       "away_abbr": "SAC",
-      "home_ml": "-1040",
-      "away_ml": "+670",
-      "home_ml_raw": -1040,
-      "away_ml_raw": 670,
-      "home_prob": 87.5,
-      "away_prob": 12.5,
+      "home_ml": "-890",
+      "away_ml": "+600",
+      "home_ml_raw": -890,
+      "away_ml_raw": 600,
+      "home_prob": 86.3,
+      "away_prob": 13.7,
       "spread": "LAL -14.5",
       "favorite": "Los Angeles Lakers",
       "pick": "Los Angeles Lakers",
       "pick_abbr": "LAL",
-      "moneyline": "-1040",
-      "win_probability": 87.5,
+      "moneyline": "-890",
+      "win_probability": 86.3,
       "confidence": "HIGH",
       "confidence_stars": "\u2605\u2605\u2605",
       "commence_time": "2026-11-21T03:10:00Z",
       "line_movement": {
         "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "direction": "longer",
+          "points_moved": 150,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -890 \u2190 -1040",
+          "old_ml": "-1040",
+          "new_ml": "-890"
         },
         "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "direction": "shorter",
+          "points_moved": 70,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM +600 \u2190 +670",
+          "old_ml": "+670",
+          "new_ml": "+600"
         },
         "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "direction": "longer",
+          "points_moved": 150,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -890 \u2190 -1040",
+          "old_ml": "-1040",
+          "new_ml": "-890"
         },
-        "snapshot_time": "\u2014"
+        "snapshot_time": "November 20, 2026 at 02:52 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -1819,7 +1236,7 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udcca 75.0pt probability edge"
+        "\ud83d\udd25 Sharp steam detected"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -1856,9 +1273,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "Los Angeles Lakers hold a 87.5% edge.",
+        "trend": "Los Angeles Lakers hold a 86.3% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "steam": "Line steamed from -1040 to -890 (150pt move) \u2014 heavy professional action on Los Angeles Lakers.",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -1872,22 +1289,22 @@
       },
       "news": [
         {
-          "title": "Grizzlies beat Cavaliers 124-121 for a franchise-record 8th straight road win",
-          "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/articles/grizzlies-beat-cavaliers-124-121-025157326.html",
-          "published": "2026-11-19T02:51:57Z"
+          "title": "Where to watch Timberwolves vs. Knicks today: Channel, live stream, time, TV schedule for Thursday NBA game",
+          "source": "Sporting News",
+          "link": "https://www.sportingnews.com/us/nba/news/watch-timberwolves-knicks-channel-stream-time-schedule-nba/6c817d4a0b796bd6ef2d0356",
+          "published": "2026-11-19T06:30:01Z"
         },
         {
-          "title": "Georgia Attorney General Encourages SEC To Take Action Against LSU Over \u2018Contempt For The Rules\u2019",
-          "source": "The Daily Caller",
-          "link": "https://dailycaller.com/2026/11/18/s/",
-          "published": "2026-11-19T02:48:49Z"
+          "title": "Suns\u2019 Devin Booker enters rarefied NBA territory amid Kings game",
+          "source": "ClutchPoints",
+          "link": "https://clutchpoints.com/nba/phoenix-suns/suns-news-devin-booker-enters-rarefied-nba-territory-amid-kings-game",
+          "published": "2026-11-19T06:25:25Z"
         },
         {
-          "title": "Magic lose 121-116 battle against conference leaders 76ers",
+          "title": "\u99ac\u65af\u514b\u8b49\u5be6\u79c1\u4e0b\u8207\u9ec3\u4ec1\u52f3\u8ac7\u8a71\u300c\u9084\u63d0\u5230\u53f0\u7063\u300d\uff01\u3000\u8a9e\u5e36\u54fd\u54bd\uff1a\u4ed6\u7121\u53ef\u53d6\u4ee3",
           "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/articles/magic-lose-121-116-battle-024754060.html",
-          "published": "2026-11-19T02:47:54Z"
+          "link": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_e18dbebe-4832-47e1-a935-0e4448b17e9a",
+          "published": "2026-11-19T06:18:00Z"
         }
       ]
     }
@@ -1902,36 +1319,36 @@
       "profit": 551.4
     },
     "HIGH": {
-      "wins": 49,
+      "wins": 52,
       "losses": 10,
-      "total": 59,
-      "win_pct": 83.1,
-      "roi": -0.2,
-      "profit": -9.8
+      "total": 62,
+      "win_pct": 83.9,
+      "roi": 0.9,
+      "profit": 57.32
     },
     "LOW": {
-      "wins": 22,
+      "wins": 23,
       "losses": 19,
-      "total": 41,
-      "win_pct": 53.7,
-      "roi": -2.0,
-      "profit": -81.47
+      "total": 42,
+      "win_pct": 54.8,
+      "roi": -0.0,
+      "profit": -0.82
     },
     "overall_7d": {
-      "wins": 26,
-      "losses": 16,
-      "total": 42,
-      "win_pct": 61.9,
-      "roi": -11.3,
-      "profit": -475.86
+      "wins": 25,
+      "losses": 13,
+      "total": 38,
+      "win_pct": 65.8,
+      "roi": -5.8,
+      "profit": -218.86
     },
     "overall_30d": {
-      "wins": 127,
+      "wins": 131,
       "losses": 53,
-      "total": 180,
-      "win_pct": 70.6,
-      "roi": 0.9,
-      "profit": 167.83
+      "total": 184,
+      "win_pct": 71.2,
+      "roi": 1.7,
+      "profit": 315.6
     }
   }
 }
