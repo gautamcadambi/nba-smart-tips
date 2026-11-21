@@ -3088,9 +3088,11 @@
       "win_probability": 65.8,
       "commence_time": "2026-11-21T00:10:00Z",
       "date": "2026-11-20T02:52:30.872009+00:00",
-      "graded": false,
-      "result": null,
-      "profit": null
+      "graded": true,
+      "result": "WIN",
+      "profit": 45.87,
+      "home_score": 111,
+      "away_score": 97
     },
     {
       "game": "Orlando Magic @ Brooklyn Nets",
@@ -3116,9 +3118,11 @@
       "win_probability": 68.3,
       "commence_time": "2026-11-21T00:40:00Z",
       "date": "2026-11-20T02:52:30.872009+00:00",
-      "graded": false,
-      "result": null,
-      "profit": null
+      "graded": true,
+      "result": "WIN",
+      "profit": 40.65,
+      "home_score": 128,
+      "away_score": 119
     },
     {
       "game": "New Orleans Pelicans @ Oklahoma City Thunder",
@@ -3175,16 +3179,72 @@
       "graded": false,
       "result": null,
       "profit": null
+    },
+    {
+      "game": "Portland Trail Blazers @ New York Knicks",
+      "pick": "New York Knicks",
+      "pick_abbr": "NYK",
+      "moneyline": "-201",
+      "moneyline_raw": -201,
+      "confidence": "MEDIUM",
+      "win_probability": 64.2,
+      "commence_time": "2026-11-22T00:40:00Z",
+      "date": "2026-11-21T02:59:58.002530+00:00",
+      "graded": false,
+      "result": null,
+      "profit": null
+    },
+    {
+      "game": "Los Angeles Clippers @ Dallas Mavericks",
+      "pick": "Dallas Mavericks",
+      "pick_abbr": "DAL",
+      "moneyline": "-201",
+      "moneyline_raw": -201,
+      "confidence": "MEDIUM",
+      "win_probability": 64.2,
+      "commence_time": "2026-11-22T01:10:00Z",
+      "date": "2026-11-21T02:59:58.002530+00:00",
+      "graded": false,
+      "result": null,
+      "profit": null
+    },
+    {
+      "game": "Memphis Grizzlies @ Minnesota Timberwolves",
+      "pick": "Minnesota Timberwolves",
+      "pick_abbr": "MIN",
+      "moneyline": "-196",
+      "moneyline_raw": -196,
+      "confidence": "MEDIUM",
+      "win_probability": 63.6,
+      "commence_time": "2026-11-22T01:10:00Z",
+      "date": "2026-11-21T02:59:58.002530+00:00",
+      "graded": false,
+      "result": null,
+      "profit": null
+    },
+    {
+      "game": "New Orleans Pelicans @ San Antonio Spurs",
+      "pick": "San Antonio Spurs",
+      "pick_abbr": "SAS",
+      "moneyline": "-1440",
+      "moneyline_raw": -1440,
+      "confidence": "HIGH",
+      "win_probability": 89.9,
+      "commence_time": "2026-11-22T01:10:00Z",
+      "date": "2026-11-21T02:59:58.002530+00:00",
+      "graded": false,
+      "result": null,
+      "profit": null
     }
   ],
   "summary": {
     "MEDIUM": {
-      "wins": 60,
+      "wins": 62,
       "losses": 24,
-      "total": 84,
-      "win_pct": 71.4,
-      "roi": 6.6,
-      "profit": 551.4
+      "total": 86,
+      "win_pct": 72.1,
+      "roi": 7.4,
+      "profit": 637.92
     },
     "HIGH": {
       "wins": 52,
@@ -3203,21 +3263,21 @@
       "profit": -0.82
     },
     "overall_7d": {
-      "wins": 25,
+      "wins": 27,
       "losses": 13,
-      "total": 38,
-      "win_pct": 65.8,
-      "roi": -5.8,
-      "profit": -218.86
+      "total": 40,
+      "win_pct": 67.5,
+      "roi": -3.3,
+      "profit": -132.34
     },
     "overall_30d": {
-      "wins": 131,
+      "wins": 133,
       "losses": 53,
-      "total": 184,
-      "win_pct": 71.2,
-      "roi": 1.7,
-      "profit": 315.6
+      "total": 186,
+      "win_pct": 71.5,
+      "roi": 2.2,
+      "profit": 402.12
     }
   },
-  "last_graded": "2026-11-20T06:29:34.719178+00:00"
+  "last_graded": "2026-11-21T02:59:09.296162+00:00"
 }
