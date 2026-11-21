@@ -56,9 +56,11 @@
       "win_probability": 51.1,
       "commence_time": "2026-11-21T00:40:00Z",
       "date": "2026-09-29T01:31:23.968893+00:00",
-      "graded": false,
-      "result": null,
-      "profit": null
+      "graded": true,
+      "result": "LOSS",
+      "profit": -100,
+      "home_score": 102,
+      "away_score": 105
     },
     {
       "game": "Chicago Bulls @ Toronto Raptors",
@@ -3104,9 +3106,11 @@
       "win_probability": 64.2,
       "commence_time": "2026-11-21T00:40:00Z",
       "date": "2026-11-20T02:52:30.872009+00:00",
-      "graded": false,
-      "result": null,
-      "profit": null
+      "graded": true,
+      "result": "WIN",
+      "profit": 49.75,
+      "home_score": 111,
+      "away_score": 113
     },
     {
       "game": "Indiana Pacers @ Cleveland Cavaliers",
@@ -3134,9 +3138,11 @@
       "win_probability": 80.1,
       "commence_time": "2026-11-21T01:10:00Z",
       "date": "2026-11-20T02:52:30.872009+00:00",
-      "graded": false,
-      "result": null,
-      "profit": null
+      "graded": true,
+      "result": "WIN",
+      "profit": 20.04,
+      "home_score": 126,
+      "away_score": 120
     },
     {
       "game": "Phoenix Suns @ Utah Jazz",
@@ -3148,9 +3154,11 @@
       "win_probability": 61.7,
       "commence_time": "2026-11-21T02:40:00Z",
       "date": "2026-11-20T02:52:30.872009+00:00",
-      "graded": false,
-      "result": null,
-      "profit": null
+      "graded": true,
+      "result": "WIN",
+      "profit": 55.56,
+      "home_score": 101,
+      "away_score": 111
     },
     {
       "game": "Houston Rockets @ Denver Nuggets",
@@ -3162,9 +3170,11 @@
       "win_probability": 52.2,
       "commence_time": "2026-11-21T03:10:00Z",
       "date": "2026-11-20T02:52:30.872009+00:00",
-      "graded": false,
-      "result": null,
-      "profit": null
+      "graded": true,
+      "result": "WIN",
+      "profit": 84.03,
+      "home_score": 133,
+      "away_score": 124
     },
     {
       "game": "Sacramento Kings @ Los Angeles Lakers",
@@ -3176,9 +3186,11 @@
       "win_probability": 87.5,
       "commence_time": "2026-11-21T03:10:00Z",
       "date": "2026-11-20T02:52:30.872009+00:00",
-      "graded": false,
-      "result": null,
-      "profit": null
+      "graded": true,
+      "result": "WIN",
+      "profit": 9.62,
+      "home_score": 106,
+      "away_score": 104
     },
     {
       "game": "Portland Trail Blazers @ New York Knicks",
@@ -3235,49 +3247,63 @@
       "graded": false,
       "result": null,
       "profit": null
+    },
+    {
+      "game": "Boston Celtics @ Sacramento Kings",
+      "pick": "Boston Celtics",
+      "pick_abbr": "BOS",
+      "moneyline": "-680",
+      "moneyline_raw": -680,
+      "confidence": "HIGH",
+      "win_probability": 83.8,
+      "commence_time": "2026-11-22T03:10:00Z",
+      "date": "2026-11-21T06:21:22.010247+00:00",
+      "graded": false,
+      "result": null,
+      "profit": null
     }
   ],
   "summary": {
     "MEDIUM": {
-      "wins": 62,
+      "wins": 64,
       "losses": 24,
-      "total": 86,
-      "win_pct": 72.1,
-      "roi": 7.4,
-      "profit": 637.92
+      "total": 88,
+      "win_pct": 72.7,
+      "roi": 8.4,
+      "profit": 743.23
     },
     "HIGH": {
-      "wins": 52,
+      "wins": 54,
       "losses": 10,
-      "total": 62,
-      "win_pct": 83.9,
-      "roi": 0.9,
-      "profit": 57.32
+      "total": 64,
+      "win_pct": 84.4,
+      "roi": 1.4,
+      "profit": 86.98
     },
     "LOW": {
-      "wins": 23,
-      "losses": 19,
-      "total": 42,
-      "win_pct": 54.8,
-      "roi": -0.0,
-      "profit": -0.82
+      "wins": 24,
+      "losses": 20,
+      "total": 44,
+      "win_pct": 54.5,
+      "roi": -0.4,
+      "profit": -16.79
     },
     "overall_7d": {
-      "wins": 27,
-      "losses": 13,
-      "total": 40,
-      "win_pct": 67.5,
-      "roi": -3.3,
-      "profit": -132.34
+      "wins": 30,
+      "losses": 12,
+      "total": 42,
+      "win_pct": 71.4,
+      "roi": 1.5,
+      "profit": 63.95
     },
     "overall_30d": {
-      "wins": 133,
-      "losses": 53,
-      "total": 186,
-      "win_pct": 71.5,
-      "roi": 2.2,
-      "profit": 402.12
+      "wins": 138,
+      "losses": 51,
+      "total": 189,
+      "win_pct": 73.0,
+      "roi": 4.3,
+      "profit": 821.12
     }
   },
-  "last_graded": "2026-11-21T02:59:09.296162+00:00"
+  "last_graded": "2026-11-21T06:20:35.601320+00:00"
 }
