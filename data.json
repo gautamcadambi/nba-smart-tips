@@ -1,371 +1,82 @@
 {
-  "last_updated": "November 22, 2026 at 06:14 PM UTC",
-  "total_games": 7,
+  "last_updated": "November 23, 2026 at 02:18 AM UTC",
+  "total_games": 14,
   "games": [
-    {
-      "game": "Detroit Pistons @ Atlanta Hawks",
-      "home_team": "Atlanta Hawks",
-      "away_team": "Detroit Pistons",
-      "home_abbr": "ATL",
-      "away_abbr": "DET",
-      "home_ml": "+105",
-      "away_ml": "-124",
-      "home_ml_raw": 105,
-      "away_ml_raw": -124,
-      "home_prob": 46.8,
-      "away_prob": 53.2,
-      "spread": "ATL +1.5",
-      "favorite": "Detroit Pistons",
-      "pick": "Detroit Pistons",
-      "pick_abbr": "DET",
-      "moneyline": "-124",
-      "win_probability": 53.2,
-      "confidence": "LOW",
-      "confidence_stars": "\u2605\u2606\u2606",
-      "commence_time": "2026-11-22T20:40:00Z",
-      "line_movement": {
-        "home": {
-          "direction": "shorter",
-          "points_moved": 9,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM +105 \u2190 +114",
-          "old_ml": "+114",
-          "new_ml": "+105"
-        },
-        "away": {
-          "direction": "longer",
-          "points_moved": 11,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -124 \u2190 -135",
-          "old_ml": "-135",
-          "new_ml": "-124"
-        },
-        "pick": {
-          "direction": "longer",
-          "points_moved": 11,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -124 \u2190 -135",
-          "old_ml": "-135",
-          "new_ml": "-124"
-        },
-        "snapshot_time": "November 22, 2026 at 05:53 AM UTC"
-      },
-      "fatigue": {
-        "home": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "Nov 20",
-          "days_rest": 2,
-          "games_last_4d": 2,
-          "travel_miles": 755,
-          "travel_desc": "755 mi road trip",
-          "source": "ESPN Scoreboard API"
-        },
-        "away": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "Nov 20",
-          "days_rest": 2,
-          "games_last_4d": 2,
-          "travel_miles": 941,
-          "travel_desc": "941 mi road trip",
-          "source": "ESPN Scoreboard API"
-        }
-      },
-      "edge_factors": [
-        "\ud83d\udd25 Sharp steam detected"
-      ],
-      "injury_notes": "No key injuries.",
-      "sharp": {
-        "away_t": null,
-        "home_t": null,
-        "source": null,
-        "sharp_signal": null,
-        "sharp_label": "Pending \u2014 check closer to tip-off",
-        "rlm": false
-      },
-      "form": {
-        "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        },
-        "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        }
-      },
-      "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
-      },
-      "briefing": {
-        "trend": "Detroit Pistons hold a 53.2% edge.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -135 to -124 (11pt move) \u2014 heavy professional action on Detroit Pistons.",
-        "injury_notes": "No key injuries."
-      },
-      "live": {
-        "status": "pre",
-        "status_detail": "Upcoming",
-        "period": 0,
-        "clock": "",
-        "home_score": 0,
-        "away_score": 0,
-        "spread_alert": null
-      },
-      "news": [
-        {
-          "title": "Domenicali defends new engine formula",
-          "source": "pitpass.com",
-          "link": "http://www.pitpass.com/84198/Domenicali-defends-new-engine-formula",
-          "published": "2026-11-21T18:01:00Z"
-        },
-        {
-          "title": "GTA VI vende US$ 3,79 bilh\u00f5es em um 24h e quebra recordes de entretenimento",
-          "source": "Digitaldrops.com.br",
-          "link": "https://digitaldrops.com.br/2026/11/gta-vi-vende-usdollar-379-bilhoes-em-um-24h-e-quebra-recordes-de-entretenimento.html",
-          "published": "2026-11-21T17:55:08Z"
-        },
-        {
-          "title": "Giannis And Heat Show Growth, But Roster Gaps Remain",
-          "source": "Sportswiremiami.com",
-          "link": "https://sportswiremiami.com/giannis-and-heat-show-growth-but-roster-gaps-remain/",
-          "published": "2026-11-21T17:50:00Z"
-        }
-      ]
-    },
-    {
-      "game": "Oklahoma City Thunder @ Miami Heat",
-      "home_team": "Miami Heat",
-      "away_team": "Oklahoma City Thunder",
-      "home_abbr": "MIA",
-      "away_abbr": "OKC",
-      "home_ml": "-173",
-      "away_ml": "+146",
-      "home_ml_raw": -173,
-      "away_ml_raw": 146,
-      "home_prob": 60.9,
-      "away_prob": 39.1,
-      "spread": "MIA -4.5",
-      "favorite": "Miami Heat",
-      "pick": "Miami Heat",
-      "pick_abbr": "MIA",
-      "moneyline": "-173",
-      "win_probability": 60.9,
-      "confidence": "MEDIUM",
-      "confidence_stars": "\u2605\u2605\u2606",
-      "commence_time": "2026-11-22T23:10:00Z",
-      "line_movement": {
-        "home": {
-          "direction": "shorter",
-          "points_moved": 34,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -173 \u2190 -139",
-          "old_ml": "-139",
-          "new_ml": "-173"
-        },
-        "away": {
-          "direction": "longer",
-          "points_moved": 29,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM +146 \u2190 +117",
-          "old_ml": "+117",
-          "new_ml": "+146"
-        },
-        "pick": {
-          "direction": "shorter",
-          "points_moved": 34,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -173 \u2190 -139",
-          "old_ml": "-139",
-          "new_ml": "-173"
-        },
-        "snapshot_time": "November 22, 2026 at 05:53 AM UTC"
-      },
-      "fatigue": {
-        "home": {
-          "status": "FRESH",
-          "label": "Well rested \u2705",
-          "battery": 100,
-          "last_game": "Nov 18",
-          "days_rest": 4,
-          "games_last_4d": 1,
-          "travel_miles": 0,
-          "travel_desc": "",
-          "source": "ESPN Scoreboard API"
-        },
-        "away": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "Nov 20",
-          "days_rest": 2,
-          "games_last_4d": 2,
-          "travel_miles": 0,
-          "travel_desc": "",
-          "source": "ESPN Scoreboard API"
-        }
-      },
-      "edge_factors": [
-        "\ud83d\udd25 Sharp steam detected"
-      ],
-      "injury_notes": "No key injuries.",
-      "sharp": {
-        "away_t": null,
-        "home_t": null,
-        "source": null,
-        "sharp_signal": null,
-        "sharp_label": "Pending \u2014 check closer to tip-off",
-        "rlm": false
-      },
-      "form": {
-        "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        },
-        "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        }
-      },
-      "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
-      },
-      "briefing": {
-        "trend": "Miami Heat hold a 60.9% edge.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -139 to -173 (34pt move) \u2014 heavy professional action on Miami Heat.",
-        "injury_notes": "No key injuries."
-      },
-      "live": {
-        "status": "pre",
-        "status_detail": "Upcoming",
-        "period": 0,
-        "clock": "",
-        "home_score": 0,
-        "away_score": 0,
-        "spread_alert": null
-      },
-      "news": [
-        {
-          "title": "Domenicali defends new engine formula",
-          "source": "pitpass.com",
-          "link": "http://www.pitpass.com/84198/Domenicali-defends-new-engine-formula",
-          "published": "2026-11-21T18:01:00Z"
-        },
-        {
-          "title": "GTA VI vende US$ 3,79 bilh\u00f5es em um 24h e quebra recordes de entretenimento",
-          "source": "Digitaldrops.com.br",
-          "link": "https://digitaldrops.com.br/2026/11/gta-vi-vende-usdollar-379-bilhoes-em-um-24h-e-quebra-recordes-de-entretenimento.html",
-          "published": "2026-11-21T17:55:08Z"
-        },
-        {
-          "title": "Giannis And Heat Show Growth, But Roster Gaps Remain",
-          "source": "Sportswiremiami.com",
-          "link": "https://sportswiremiami.com/giannis-and-heat-show-growth-but-roster-gaps-remain/",
-          "published": "2026-11-21T17:50:00Z"
-        }
-      ]
-    },
     {
       "game": "Denver Nuggets @ Chicago Bulls",
       "home_team": "Chicago Bulls",
       "away_team": "Denver Nuggets",
       "home_abbr": "CHI",
       "away_abbr": "DEN",
-      "home_ml": "+340",
-      "away_ml": "-437",
-      "home_ml_raw": 340,
-      "away_ml_raw": -437,
-      "home_prob": 21.8,
-      "away_prob": 78.2,
-      "spread": "CHI +9.5",
+      "home_ml": "+2800",
+      "away_ml": "-20000",
+      "home_ml_raw": 2800,
+      "away_ml_raw": -20000,
+      "home_prob": 3.3,
+      "away_prob": 96.7,
+      "spread": "CHI +5.5",
       "favorite": "Denver Nuggets",
       "pick": "Denver Nuggets",
       "pick_abbr": "DEN",
-      "moneyline": "-437",
-      "win_probability": 78.2,
+      "moneyline": "-20000",
+      "win_probability": 96.7,
       "confidence": "HIGH",
       "confidence_stars": "\u2605\u2605\u2605",
       "commence_time": "2026-11-23T00:10:00Z",
       "line_movement": {
         "home": {
           "direction": "longer",
-          "points_moved": 42,
+          "points_moved": 2460,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM +340 \u2190 +298",
-          "old_ml": "+298",
-          "new_ml": "+340"
+          "label": "\ud83d\udd25 STEAM +2800 \u2190 +340",
+          "old_ml": "+340",
+          "new_ml": "+2800"
         },
         "away": {
           "direction": "shorter",
-          "points_moved": 62,
+          "points_moved": 19563,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM -437 \u2190 -375",
-          "old_ml": "-375",
-          "new_ml": "-437"
+          "label": "\ud83d\udd25 STEAM -20000 \u2190 -437",
+          "old_ml": "-437",
+          "new_ml": "-20000"
         },
         "pick": {
           "direction": "shorter",
-          "points_moved": 62,
+          "points_moved": 19563,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM -437 \u2190 -375",
-          "old_ml": "-375",
-          "new_ml": "-437"
+          "label": "\ud83d\udd25 STEAM -20000 \u2190 -437",
+          "old_ml": "-437",
+          "new_ml": "-20000"
         },
-        "snapshot_time": "November 22, 2026 at 05:53 AM UTC"
+        "snapshot_time": "November 22, 2026 at 06:14 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "Nov 20",
-          "days_rest": 2,
-          "games_last_4d": 2,
-          "travel_miles": 715,
-          "travel_desc": "715 mi road trip",
-          "source": "ESPN Scoreboard API"
-        },
-        "away": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "Nov 20",
-          "days_rest": 2,
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Nov 22",
+          "days_rest": 1,
           "games_last_4d": 2,
           "travel_miles": 0,
           "travel_desc": "",
           "source": "ESPN Scoreboard API"
+        },
+        "away": {
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Nov 22",
+          "days_rest": 1,
+          "games_last_4d": 2,
+          "travel_miles": 917,
+          "travel_desc": "917 mi road trip",
+          "source": "ESPN Scoreboard API"
         }
       },
       "edge_factors": [
-        "\ud83d\udd25 Sharp steam detected"
+        "\ud83d\udd25 Sharp steam detected",
+        "\ud83d\udca4 CHI fatigued (B2B) \u2014 source: ESPN"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -402,9 +113,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "Denver Nuggets hold a 78.2% edge.",
+        "trend": "CHI on Back-to-Back \u26a0\ufe0f per ESPN schedule data. DEN on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -375 to -437 (62pt move) \u2014 heavy professional action on Denver Nuggets.",
+        "steam": "Line steamed from -437 to -20000 (19563pt move) \u2014 heavy professional action on Denver Nuggets.",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -418,22 +129,22 @@
       },
       "news": [
         {
-          "title": "Domenicali defends new engine formula",
-          "source": "pitpass.com",
-          "link": "http://www.pitpass.com/84198/Domenicali-defends-new-engine-formula",
-          "published": "2026-11-21T18:01:00Z"
+          "title": "\u5c0f\u4e11\u4e0b\u534a\u5834\u8f5f24\u5206\uff01\u706b\u7bad\u4e3b\u5e25\u6c23\u70b8\uff1a\u6211\u5011\u9632\u5b88\u592a\u8edf\u4e86",
+          "source": "Yahoo Entertainment",
+          "link": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_9d7ef7ee-c466-4fc9-9739-dcc546705783",
+          "published": "2026-11-22T02:18:00Z"
         },
         {
-          "title": "GTA VI vende US$ 3,79 bilh\u00f5es em um 24h e quebra recordes de entretenimento",
-          "source": "Digitaldrops.com.br",
-          "link": "https://digitaldrops.com.br/2026/11/gta-vi-vende-usdollar-379-bilhoes-em-um-24h-e-quebra-recordes-de-entretenimento.html",
-          "published": "2026-11-21T17:55:08Z"
+          "title": "UCF Men\u2019s Basketball Drops Second Straight Game to No. 16 Vanderbilt",
+          "source": "Roundtable.io",
+          "link": "https://roundtable.io/sports/ncaa/ucf/mbb/ucf-men-s-basketball-drops-second-straight-game-to-no-16-vanderbilt",
+          "published": "2026-11-22T02:06:09Z"
         },
         {
-          "title": "Giannis And Heat Show Growth, But Roster Gaps Remain",
-          "source": "Sportswiremiami.com",
-          "link": "https://sportswiremiami.com/giannis-and-heat-show-growth-but-roster-gaps-remain/",
-          "published": "2026-11-21T17:50:00Z"
+          "title": "F1 odds, predictions: Get almost $4,000 in bonuses from betting apps, sportsbooks for Las Vegas Grand Prix",
+          "source": "CBS Sports",
+          "link": "https://www.cbssports.com/betting/news/f1-odds-predictions-get-almost-4000-bonuses-from-betting-apps-sportsbooks-las-vegas-grand-prix/",
+          "published": "2026-11-22T02:03:49Z"
         }
       ]
     },
@@ -443,47 +154,47 @@
       "away_team": "Dallas Mavericks",
       "home_abbr": "UTA",
       "away_abbr": "DAL",
-      "home_ml": "-110",
-      "away_ml": "-108",
-      "home_ml_raw": -110,
-      "away_ml_raw": -108,
-      "home_prob": 50.2,
-      "away_prob": 49.8,
-      "spread": "UTA -1.5",
+      "home_ml": "N/A",
+      "away_ml": "N/A",
+      "home_ml_raw": null,
+      "away_ml_raw": null,
+      "home_prob": 50.0,
+      "away_prob": 50.0,
+      "spread": "UTA +5.5",
       "favorite": "Utah Jazz",
       "pick": "Utah Jazz",
       "pick_abbr": "UTA",
-      "moneyline": "-110",
-      "win_probability": 50.2,
+      "moneyline": "N/A",
+      "win_probability": 50.0,
       "confidence": "LOW",
       "confidence_stars": "\u2605\u2606\u2606",
-      "commence_time": "2026-11-23T00:10:00Z",
+      "commence_time": "2026-11-23T00:11:00Z",
       "line_movement": {
         "home": {
-          "direction": "shorter",
-          "points_moved": 211,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -110 \u2190 +101",
-          "old_ml": "+101",
-          "new_ml": "-110"
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
         },
         "away": {
-          "direction": "longer",
-          "points_moved": 12,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -108 \u2190 -120",
-          "old_ml": "-120",
-          "new_ml": "-108"
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
         },
         "pick": {
-          "direction": "shorter",
-          "points_moved": 211,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -110 \u2190 +101",
-          "old_ml": "+101",
-          "new_ml": "-110"
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
         },
-        "snapshot_time": "November 22, 2026 at 05:53 AM UTC"
+        "snapshot_time": "November 22, 2026 at 06:14 PM UTC"
       },
       "fatigue": {
         "home": {
@@ -501,7 +212,7 @@
           "status": "B2B",
           "label": "Back-to-Back \u26a0\ufe0f",
           "battery": 20,
-          "last_game": "Nov 21",
+          "last_game": "Nov 22",
           "days_rest": 1,
           "games_last_4d": 2,
           "travel_miles": 0,
@@ -510,7 +221,6 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udd25 Sharp steam detected",
         "\ud83d\udca4 DAL fatigued (B2B) \u2014 source: ESPN"
       ],
       "injury_notes": "No key injuries.",
@@ -550,7 +260,7 @@
       "briefing": {
         "trend": "DAL on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from +101 to -110 (211pt move) \u2014 heavy professional action on Utah Jazz.",
+        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -564,22 +274,22 @@
       },
       "news": [
         {
-          "title": "Domenicali defends new engine formula",
-          "source": "pitpass.com",
-          "link": "http://www.pitpass.com/84198/Domenicali-defends-new-engine-formula",
-          "published": "2026-11-21T18:01:00Z"
+          "title": "\u5c0f\u4e11\u4e0b\u534a\u5834\u8f5f24\u5206\uff01\u706b\u7bad\u4e3b\u5e25\u6c23\u70b8\uff1a\u6211\u5011\u9632\u5b88\u592a\u8edf\u4e86",
+          "source": "Yahoo Entertainment",
+          "link": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_9d7ef7ee-c466-4fc9-9739-dcc546705783",
+          "published": "2026-11-22T02:18:00Z"
         },
         {
-          "title": "GTA VI vende US$ 3,79 bilh\u00f5es em um 24h e quebra recordes de entretenimento",
-          "source": "Digitaldrops.com.br",
-          "link": "https://digitaldrops.com.br/2026/11/gta-vi-vende-usdollar-379-bilhoes-em-um-24h-e-quebra-recordes-de-entretenimento.html",
-          "published": "2026-11-21T17:55:08Z"
+          "title": "UCF Men\u2019s Basketball Drops Second Straight Game to No. 16 Vanderbilt",
+          "source": "Roundtable.io",
+          "link": "https://roundtable.io/sports/ncaa/ucf/mbb/ucf-men-s-basketball-drops-second-straight-game-to-no-16-vanderbilt",
+          "published": "2026-11-22T02:06:09Z"
         },
         {
-          "title": "Giannis And Heat Show Growth, But Roster Gaps Remain",
-          "source": "Sportswiremiami.com",
-          "link": "https://sportswiremiami.com/giannis-and-heat-show-growth-but-roster-gaps-remain/",
-          "published": "2026-11-21T17:50:00Z"
+          "title": "F1 odds, predictions: Get almost $4,000 in bonuses from betting apps, sportsbooks for Las Vegas Grand Prix",
+          "source": "CBS Sports",
+          "link": "https://www.cbssports.com/betting/news/f1-odds-predictions-get-almost-4000-bonuses-from-betting-apps-sportsbooks-las-vegas-grand-prix/",
+          "published": "2026-11-22T02:03:49Z"
         }
       ]
     },
@@ -589,74 +299,74 @@
       "away_team": "Orlando Magic",
       "home_abbr": "WAS",
       "away_abbr": "ORL",
-      "home_ml": "+170",
-      "away_ml": "-204",
-      "home_ml_raw": 170,
-      "away_ml_raw": -204,
-      "home_prob": 35.6,
-      "away_prob": 64.4,
-      "spread": "WAS +4.5",
-      "favorite": "Orlando Magic",
-      "pick": "Orlando Magic",
-      "pick_abbr": "ORL",
-      "moneyline": "-204",
-      "win_probability": 64.4,
-      "confidence": "MEDIUM",
-      "confidence_stars": "\u2605\u2605\u2606",
-      "commence_time": "2026-11-23T00:10:00Z",
+      "home_ml": "N/A",
+      "away_ml": "N/A",
+      "home_ml_raw": null,
+      "away_ml_raw": null,
+      "home_prob": 50.0,
+      "away_prob": 50.0,
+      "spread": "WAS -20.5",
+      "favorite": "Washington Wizards",
+      "pick": "Washington Wizards",
+      "pick_abbr": "WAS",
+      "moneyline": "N/A",
+      "win_probability": 50.0,
+      "confidence": "LOW",
+      "confidence_stars": "\u2605\u2606\u2606",
+      "commence_time": "2026-11-23T00:12:00Z",
       "line_movement": {
         "home": {
-          "direction": "shorter",
-          "points_moved": 2,
+          "direction": "none",
+          "points_moved": 0,
           "steam": false,
-          "label": "\ud83d\udfe2 +170 \u2190 +172",
-          "old_ml": "+172",
-          "new_ml": "+170"
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
         },
         "away": {
-          "direction": "longer",
-          "points_moved": 2,
+          "direction": "none",
+          "points_moved": 0,
           "steam": false,
-          "label": "\ud83d\udd34 -204 \u2190 -206",
-          "old_ml": "-206",
-          "new_ml": "-204"
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
         },
         "pick": {
-          "direction": "longer",
-          "points_moved": 2,
+          "direction": "none",
+          "points_moved": 0,
           "steam": false,
-          "label": "\ud83d\udd34 -204 \u2190 -206",
-          "old_ml": "-206",
-          "new_ml": "-204"
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
         },
-        "snapshot_time": "November 22, 2026 at 05:53 AM UTC"
+        "snapshot_time": "November 22, 2026 at 06:14 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "Nov 20",
-          "days_rest": 2,
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Nov 22",
+          "days_rest": 1,
           "games_last_4d": 2,
           "travel_miles": 597,
           "travel_desc": "597 mi road trip",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "Nov 20",
-          "days_rest": 2,
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Nov 22",
+          "days_rest": 1,
           "games_last_4d": 2,
-          "travel_miles": 938,
-          "travel_desc": "938 mi road trip",
+          "travel_miles": 758,
+          "travel_desc": "758 mi road trip",
           "source": "ESPN Scoreboard API"
         }
       },
       "edge_factors": [
-        "\ud83d\udcca 28.8pt probability edge"
+        "\ud83d\udca4 ORL fatigued (B2B) \u2014 source: ESPN"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -693,9 +403,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "Orlando Magic hold a 64.4% edge.",
+        "trend": "WAS on Back-to-Back \u26a0\ufe0f per ESPN schedule data. ORL on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line moved -206\u2192-204 (2pts). Pending \u2014 check closer to tip-off",
+        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -709,22 +419,22 @@
       },
       "news": [
         {
-          "title": "Domenicali defends new engine formula",
-          "source": "pitpass.com",
-          "link": "http://www.pitpass.com/84198/Domenicali-defends-new-engine-formula",
-          "published": "2026-11-21T18:01:00Z"
+          "title": "\u5c0f\u4e11\u4e0b\u534a\u5834\u8f5f24\u5206\uff01\u706b\u7bad\u4e3b\u5e25\u6c23\u70b8\uff1a\u6211\u5011\u9632\u5b88\u592a\u8edf\u4e86",
+          "source": "Yahoo Entertainment",
+          "link": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_9d7ef7ee-c466-4fc9-9739-dcc546705783",
+          "published": "2026-11-22T02:18:00Z"
         },
         {
-          "title": "GTA VI vende US$ 3,79 bilh\u00f5es em um 24h e quebra recordes de entretenimento",
-          "source": "Digitaldrops.com.br",
-          "link": "https://digitaldrops.com.br/2026/11/gta-vi-vende-usdollar-379-bilhoes-em-um-24h-e-quebra-recordes-de-entretenimento.html",
-          "published": "2026-11-21T17:55:08Z"
+          "title": "UCF Men\u2019s Basketball Drops Second Straight Game to No. 16 Vanderbilt",
+          "source": "Roundtable.io",
+          "link": "https://roundtable.io/sports/ncaa/ucf/mbb/ucf-men-s-basketball-drops-second-straight-game-to-no-16-vanderbilt",
+          "published": "2026-11-22T02:06:09Z"
         },
         {
-          "title": "Giannis And Heat Show Growth, But Roster Gaps Remain",
-          "source": "Sportswiremiami.com",
-          "link": "https://sportswiremiami.com/giannis-and-heat-show-growth-but-roster-gaps-remain/",
-          "published": "2026-11-21T17:50:00Z"
+          "title": "F1 odds, predictions: Get almost $4,000 in bonuses from betting apps, sportsbooks for Las Vegas Grand Prix",
+          "source": "CBS Sports",
+          "link": "https://www.cbssports.com/betting/news/f1-odds-predictions-get-almost-4000-bonuses-from-betting-apps-sportsbooks-las-vegas-grand-prix/",
+          "published": "2026-11-22T02:03:49Z"
         }
       ]
     },
@@ -734,74 +444,75 @@
       "away_team": "Indiana Pacers",
       "home_abbr": "NYK",
       "away_abbr": "IND",
-      "home_ml": "-296",
-      "away_ml": "+240",
-      "home_ml_raw": -296,
-      "away_ml_raw": 240,
+      "home_ml": "-320",
+      "away_ml": "+235",
+      "home_ml_raw": -320,
+      "away_ml_raw": 235,
       "home_prob": 71.8,
       "away_prob": 28.2,
-      "spread": "NYK -7.5",
+      "spread": "NYK -6.5",
       "favorite": "New York Knicks",
       "pick": "New York Knicks",
       "pick_abbr": "NYK",
-      "moneyline": "-296",
+      "moneyline": "-320",
       "win_probability": 71.8,
       "confidence": "MEDIUM",
       "confidence_stars": "\u2605\u2605\u2606",
-      "commence_time": "2026-11-23T01:10:00Z",
+      "commence_time": "2026-11-23T01:12:00Z",
       "line_movement": {
         "home": {
-          "direction": "longer",
-          "points_moved": 100,
+          "direction": "shorter",
+          "points_moved": 24,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM -296 \u2190 -396",
-          "old_ml": "-396",
-          "new_ml": "-296"
+          "label": "\ud83d\udd25 STEAM -320 \u2190 -296",
+          "old_ml": "-296",
+          "new_ml": "-320"
         },
         "away": {
           "direction": "shorter",
-          "points_moved": 72,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM +240 \u2190 +312",
-          "old_ml": "+312",
-          "new_ml": "+240"
+          "points_moved": 5,
+          "steam": false,
+          "label": "\ud83d\udfe2 +235 \u2190 +240",
+          "old_ml": "+240",
+          "new_ml": "+235"
         },
         "pick": {
-          "direction": "longer",
-          "points_moved": 100,
+          "direction": "shorter",
+          "points_moved": 24,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM -296 \u2190 -396",
-          "old_ml": "-396",
-          "new_ml": "-296"
+          "label": "\ud83d\udd25 STEAM -320 \u2190 -296",
+          "old_ml": "-296",
+          "new_ml": "-320"
         },
-        "snapshot_time": "November 22, 2026 at 05:53 AM UTC"
+        "snapshot_time": "November 22, 2026 at 06:14 PM UTC"
       },
       "fatigue": {
         "home": {
           "status": "B2B",
           "label": "Back-to-Back \u26a0\ufe0f",
           "battery": 20,
-          "last_game": "Nov 21",
+          "last_game": "Nov 22",
           "days_rest": 1,
-          "games_last_4d": 2,
+          "games_last_4d": 3,
           "travel_miles": 1016,
           "travel_desc": "1,016 mi road trip",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "Nov 20",
-          "days_rest": 2,
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Nov 22",
+          "days_rest": 1,
           "games_last_4d": 2,
-          "travel_miles": 263,
-          "travel_desc": "263 mi road trip",
+          "travel_miles": 644,
+          "travel_desc": "644 mi road trip",
           "source": "ESPN Scoreboard API"
         }
       },
       "edge_factors": [
-        "\ud83d\udd25 Sharp steam detected"
+        "\ud83d\udd25 Sharp steam detected",
+        "\ud83d\udca4 IND fatigued (B2B) \u2014 source: ESPN"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -838,9 +549,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "NYK on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "trend": "NYK on Back-to-Back \u26a0\ufe0f per ESPN schedule data. IND on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -396 to -296 (100pt move) \u2014 heavy professional action on New York Knicks.",
+        "steam": "Line steamed from -296 to -320 (24pt move) \u2014 heavy professional action on New York Knicks.",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -854,22 +565,22 @@
       },
       "news": [
         {
-          "title": "Domenicali defends new engine formula",
-          "source": "pitpass.com",
-          "link": "http://www.pitpass.com/84198/Domenicali-defends-new-engine-formula",
-          "published": "2026-11-21T18:01:00Z"
+          "title": "\u5c0f\u4e11\u4e0b\u534a\u5834\u8f5f24\u5206\uff01\u706b\u7bad\u4e3b\u5e25\u6c23\u70b8\uff1a\u6211\u5011\u9632\u5b88\u592a\u8edf\u4e86",
+          "source": "Yahoo Entertainment",
+          "link": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_9d7ef7ee-c466-4fc9-9739-dcc546705783",
+          "published": "2026-11-22T02:18:00Z"
         },
         {
-          "title": "GTA VI vende US$ 3,79 bilh\u00f5es em um 24h e quebra recordes de entretenimento",
-          "source": "Digitaldrops.com.br",
-          "link": "https://digitaldrops.com.br/2026/11/gta-vi-vende-usdollar-379-bilhoes-em-um-24h-e-quebra-recordes-de-entretenimento.html",
-          "published": "2026-11-21T17:55:08Z"
+          "title": "UCF Men\u2019s Basketball Drops Second Straight Game to No. 16 Vanderbilt",
+          "source": "Roundtable.io",
+          "link": "https://roundtable.io/sports/ncaa/ucf/mbb/ucf-men-s-basketball-drops-second-straight-game-to-no-16-vanderbilt",
+          "published": "2026-11-22T02:06:09Z"
         },
         {
-          "title": "Giannis And Heat Show Growth, But Roster Gaps Remain",
-          "source": "Sportswiremiami.com",
-          "link": "https://sportswiremiami.com/giannis-and-heat-show-growth-but-roster-gaps-remain/",
-          "published": "2026-11-21T17:50:00Z"
+          "title": "F1 odds, predictions: Get almost $4,000 in bonuses from betting apps, sportsbooks for Las Vegas Grand Prix",
+          "source": "CBS Sports",
+          "link": "https://www.cbssports.com/betting/news/f1-odds-predictions-get-almost-4000-bonuses-from-betting-apps-sportsbooks-las-vegas-grand-prix/",
+          "published": "2026-11-22T02:03:49Z"
         }
       ]
     },
@@ -879,55 +590,55 @@
       "away_team": "Boston Celtics",
       "home_abbr": "GSW",
       "away_abbr": "BOS",
-      "home_ml": "+286",
-      "away_ml": "-359",
-      "home_ml_raw": 286,
-      "away_ml_raw": -359,
-      "home_prob": 24.9,
-      "away_prob": 75.1,
-      "spread": "GSW +8.5",
+      "home_ml": "-110",
+      "away_ml": "-120",
+      "home_ml_raw": -110,
+      "away_ml_raw": -120,
+      "home_prob": 49.0,
+      "away_prob": 51.0,
+      "spread": "GSW +1.5",
       "favorite": "Boston Celtics",
       "pick": "Boston Celtics",
       "pick_abbr": "BOS",
-      "moneyline": "-359",
-      "win_probability": 75.1,
-      "confidence": "HIGH",
-      "confidence_stars": "\u2605\u2605\u2605",
-      "commence_time": "2026-11-23T01:40:00Z",
+      "moneyline": "-120",
+      "win_probability": 51.0,
+      "confidence": "LOW",
+      "confidence_stars": "\u2605\u2606\u2606",
+      "commence_time": "2026-11-23T01:42:00Z",
       "line_movement": {
         "home": {
           "direction": "shorter",
-          "points_moved": 36,
+          "points_moved": 396,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM +286 \u2190 +322",
-          "old_ml": "+322",
-          "new_ml": "+286"
+          "label": "\ud83d\udd25 STEAM -110 \u2190 +286",
+          "old_ml": "+286",
+          "new_ml": "-110"
         },
         "away": {
           "direction": "longer",
-          "points_moved": 51,
+          "points_moved": 239,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM -359 \u2190 -410",
-          "old_ml": "-410",
-          "new_ml": "-359"
+          "label": "\ud83d\udd25 STEAM -120 \u2190 -359",
+          "old_ml": "-359",
+          "new_ml": "-120"
         },
         "pick": {
           "direction": "longer",
-          "points_moved": 51,
+          "points_moved": 239,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM -359 \u2190 -410",
-          "old_ml": "-410",
-          "new_ml": "-359"
+          "label": "\ud83d\udd25 STEAM -120 \u2190 -359",
+          "old_ml": "-359",
+          "new_ml": "-120"
         },
-        "snapshot_time": "November 22, 2026 at 05:53 AM UTC"
+        "snapshot_time": "November 22, 2026 at 06:14 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "RESTED",
-          "label": "2 days rest \u2705",
-          "battery": 88,
-          "last_game": "Nov 19",
-          "days_rest": 3,
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Nov 22",
+          "days_rest": 1,
           "games_last_4d": 2,
           "travel_miles": 1797,
           "travel_desc": "1,797 mi road trip",
@@ -937,16 +648,17 @@
           "status": "B2B",
           "label": "Back-to-Back \u26a0\ufe0f",
           "battery": 20,
-          "last_game": "Nov 21",
+          "last_game": "Nov 22",
           "days_rest": 1,
           "games_last_4d": 2,
-          "travel_miles": 2625,
-          "travel_desc": "2,625 mi road trip",
+          "travel_miles": 2691,
+          "travel_desc": "2,691 mi road trip",
           "source": "ESPN Scoreboard API"
         }
       },
       "edge_factors": [
-        "\ud83d\udd25 Sharp steam detected"
+        "\ud83d\udd25 Sharp steam detected",
+        "\ud83d\udca4 GSW fatigued (B2B) \u2014 source: ESPN"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -983,9 +695,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "BOS on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "trend": "GSW on Back-to-Back \u26a0\ufe0f per ESPN schedule data. BOS on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -410 to -359 (51pt move) \u2014 heavy professional action on Boston Celtics.",
+        "steam": "Line steamed from -359 to -120 (239pt move) \u2014 heavy professional action on Boston Celtics.",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -999,22 +711,1327 @@
       },
       "news": [
         {
-          "title": "Domenicali defends new engine formula",
-          "source": "pitpass.com",
-          "link": "http://www.pitpass.com/84198/Domenicali-defends-new-engine-formula",
-          "published": "2026-11-21T18:01:00Z"
+          "title": "\u5c0f\u4e11\u4e0b\u534a\u5834\u8f5f24\u5206\uff01\u706b\u7bad\u4e3b\u5e25\u6c23\u70b8\uff1a\u6211\u5011\u9632\u5b88\u592a\u8edf\u4e86",
+          "source": "Yahoo Entertainment",
+          "link": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_9d7ef7ee-c466-4fc9-9739-dcc546705783",
+          "published": "2026-11-22T02:18:00Z"
         },
         {
-          "title": "GTA VI vende US$ 3,79 bilh\u00f5es em um 24h e quebra recordes de entretenimento",
-          "source": "Digitaldrops.com.br",
-          "link": "https://digitaldrops.com.br/2026/11/gta-vi-vende-usdollar-379-bilhoes-em-um-24h-e-quebra-recordes-de-entretenimento.html",
-          "published": "2026-11-21T17:55:08Z"
+          "title": "UCF Men\u2019s Basketball Drops Second Straight Game to No. 16 Vanderbilt",
+          "source": "Roundtable.io",
+          "link": "https://roundtable.io/sports/ncaa/ucf/mbb/ucf-men-s-basketball-drops-second-straight-game-to-no-16-vanderbilt",
+          "published": "2026-11-22T02:06:09Z"
         },
         {
-          "title": "Giannis And Heat Show Growth, But Roster Gaps Remain",
-          "source": "Sportswiremiami.com",
-          "link": "https://sportswiremiami.com/giannis-and-heat-show-growth-but-roster-gaps-remain/",
-          "published": "2026-11-21T17:50:00Z"
+          "title": "F1 odds, predictions: Get almost $4,000 in bonuses from betting apps, sportsbooks for Las Vegas Grand Prix",
+          "source": "CBS Sports",
+          "link": "https://www.cbssports.com/betting/news/f1-odds-predictions-get-almost-4000-bonuses-from-betting-apps-sportsbooks-las-vegas-grand-prix/",
+          "published": "2026-11-22T02:03:49Z"
+        }
+      ]
+    },
+    {
+      "game": "Memphis Grizzlies @ Charlotte Hornets",
+      "home_team": "Charlotte Hornets",
+      "away_team": "Memphis Grizzlies",
+      "home_abbr": "CHA",
+      "away_abbr": "MEM",
+      "home_ml": "+136",
+      "away_ml": "-162",
+      "home_ml_raw": 136,
+      "away_ml_raw": -162,
+      "home_prob": 40.7,
+      "away_prob": 59.3,
+      "spread": "CHA +3.5",
+      "favorite": "Memphis Grizzlies",
+      "pick": "Memphis Grizzlies",
+      "pick_abbr": "MEM",
+      "moneyline": "-162",
+      "win_probability": 59.3,
+      "confidence": "MEDIUM",
+      "confidence_stars": "\u2605\u2605\u2606",
+      "commence_time": "2026-11-24T00:10:00Z",
+      "line_movement": {
+        "home": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "away": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "pick": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "snapshot_time": "\u2014"
+      },
+      "fatigue": {
+        "home": {
+          "status": "RESTED",
+          "label": "2 days rest \u2705",
+          "battery": 88,
+          "last_game": "Nov 20",
+          "days_rest": 3,
+          "games_last_4d": 1,
+          "travel_miles": 227,
+          "travel_desc": "227 mi road trip",
+          "source": "ESPN Scoreboard API"
+        },
+        "away": {
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
+          "last_game": "Nov 21",
+          "days_rest": 2,
+          "games_last_4d": 2,
+          "travel_miles": 701,
+          "travel_desc": "701 mi road trip",
+          "source": "ESPN Scoreboard API"
+        }
+      },
+      "edge_factors": [
+        "\ud83d\udcca 18.6pt probability edge"
+      ],
+      "injury_notes": "No key injuries.",
+      "sharp": {
+        "away_t": null,
+        "home_t": null,
+        "source": null,
+        "sharp_signal": null,
+        "sharp_label": "Pending \u2014 check closer to tip-off",
+        "rlm": false
+      },
+      "form": {
+        "home": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        },
+        "away": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        }
+      },
+      "h2h": {
+        "total_meetings": 0,
+        "home_wins": 0,
+        "away_wins": 0,
+        "meetings": [],
+        "source": "\u2014"
+      },
+      "briefing": {
+        "trend": "Memphis Grizzlies hold a 59.3% edge.",
+        "matchup": "Both rosters appear healthy \u2014 clean line.",
+        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "injury_notes": "No key injuries."
+      },
+      "live": {
+        "status": "pre",
+        "status_detail": "Upcoming",
+        "period": 0,
+        "clock": "",
+        "home_score": 0,
+        "away_score": 0,
+        "spread_alert": null
+      },
+      "news": [
+        {
+          "title": "\u5c0f\u4e11\u4e0b\u534a\u5834\u8f5f24\u5206\uff01\u706b\u7bad\u4e3b\u5e25\u6c23\u70b8\uff1a\u6211\u5011\u9632\u5b88\u592a\u8edf\u4e86",
+          "source": "Yahoo Entertainment",
+          "link": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_9d7ef7ee-c466-4fc9-9739-dcc546705783",
+          "published": "2026-11-22T02:18:00Z"
+        },
+        {
+          "title": "UCF Men\u2019s Basketball Drops Second Straight Game to No. 16 Vanderbilt",
+          "source": "Roundtable.io",
+          "link": "https://roundtable.io/sports/ncaa/ucf/mbb/ucf-men-s-basketball-drops-second-straight-game-to-no-16-vanderbilt",
+          "published": "2026-11-22T02:06:09Z"
+        },
+        {
+          "title": "F1 odds, predictions: Get almost $4,000 in bonuses from betting apps, sportsbooks for Las Vegas Grand Prix",
+          "source": "CBS Sports",
+          "link": "https://www.cbssports.com/betting/news/f1-odds-predictions-get-almost-4000-bonuses-from-betting-apps-sportsbooks-las-vegas-grand-prix/",
+          "published": "2026-11-22T02:03:49Z"
+        }
+      ]
+    },
+    {
+      "game": "Portland Trail Blazers @ Philadelphia 76ers",
+      "home_team": "Philadelphia 76ers",
+      "away_team": "Portland Trail Blazers",
+      "home_abbr": "PHI",
+      "away_abbr": "POR",
+      "home_ml": "-155",
+      "away_ml": "+130",
+      "home_ml_raw": -155,
+      "away_ml_raw": 130,
+      "home_prob": 58.3,
+      "away_prob": 41.7,
+      "spread": "PHI -3.5",
+      "favorite": "Philadelphia 76ers",
+      "pick": "Philadelphia 76ers",
+      "pick_abbr": "PHI",
+      "moneyline": "-155",
+      "win_probability": 58.3,
+      "confidence": "MEDIUM",
+      "confidence_stars": "\u2605\u2605\u2606",
+      "commence_time": "2026-11-24T00:10:00Z",
+      "line_movement": {
+        "home": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "away": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "pick": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "snapshot_time": "\u2014"
+      },
+      "fatigue": {
+        "home": {
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
+          "last_game": "Nov 21",
+          "days_rest": 2,
+          "games_last_4d": 1,
+          "travel_miles": 0,
+          "travel_desc": "",
+          "source": "ESPN Scoreboard API"
+        },
+        "away": {
+          "status": "TRAVEL",
+          "label": "Cross-country travel \ud83d\udfe3",
+          "battery": 50,
+          "last_game": "Nov 21",
+          "days_rest": 2,
+          "games_last_4d": 2,
+          "travel_miles": 2438,
+          "travel_desc": "2,438 mi road trip",
+          "source": "ESPN Scoreboard API"
+        }
+      },
+      "edge_factors": [
+        "\u2708\ufe0f POR traveled 2,438 mi"
+      ],
+      "injury_notes": "No key injuries.",
+      "sharp": {
+        "away_t": null,
+        "home_t": null,
+        "source": null,
+        "sharp_signal": null,
+        "sharp_label": "Pending \u2014 check closer to tip-off",
+        "rlm": false
+      },
+      "form": {
+        "home": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        },
+        "away": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        }
+      },
+      "h2h": {
+        "total_meetings": 0,
+        "home_wins": 0,
+        "away_wins": 0,
+        "meetings": [],
+        "source": "\u2014"
+      },
+      "briefing": {
+        "trend": "Philadelphia 76ers hold a 58.3% edge.",
+        "matchup": "Both rosters appear healthy \u2014 clean line.",
+        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "injury_notes": "No key injuries."
+      },
+      "live": {
+        "status": "pre",
+        "status_detail": "Upcoming",
+        "period": 0,
+        "clock": "",
+        "home_score": 0,
+        "away_score": 0,
+        "spread_alert": null
+      },
+      "news": [
+        {
+          "title": "\u5c0f\u4e11\u4e0b\u534a\u5834\u8f5f24\u5206\uff01\u706b\u7bad\u4e3b\u5e25\u6c23\u70b8\uff1a\u6211\u5011\u9632\u5b88\u592a\u8edf\u4e86",
+          "source": "Yahoo Entertainment",
+          "link": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_9d7ef7ee-c466-4fc9-9739-dcc546705783",
+          "published": "2026-11-22T02:18:00Z"
+        },
+        {
+          "title": "UCF Men\u2019s Basketball Drops Second Straight Game to No. 16 Vanderbilt",
+          "source": "Roundtable.io",
+          "link": "https://roundtable.io/sports/ncaa/ucf/mbb/ucf-men-s-basketball-drops-second-straight-game-to-no-16-vanderbilt",
+          "published": "2026-11-22T02:06:09Z"
+        },
+        {
+          "title": "F1 odds, predictions: Get almost $4,000 in bonuses from betting apps, sportsbooks for Las Vegas Grand Prix",
+          "source": "CBS Sports",
+          "link": "https://www.cbssports.com/betting/news/f1-odds-predictions-get-almost-4000-bonuses-from-betting-apps-sportsbooks-las-vegas-grand-prix/",
+          "published": "2026-11-22T02:03:49Z"
+        }
+      ]
+    },
+    {
+      "game": "Brooklyn Nets @ Minnesota Timberwolves",
+      "home_team": "Minnesota Timberwolves",
+      "away_team": "Brooklyn Nets",
+      "home_abbr": "MIN",
+      "away_abbr": "BKN",
+      "home_ml": "-700",
+      "away_ml": "+505",
+      "home_ml_raw": -700,
+      "away_ml_raw": 505,
+      "home_prob": 84.1,
+      "away_prob": 15.9,
+      "spread": "MIN -12.5",
+      "favorite": "Minnesota Timberwolves",
+      "pick": "Minnesota Timberwolves",
+      "pick_abbr": "MIN",
+      "moneyline": "-700",
+      "win_probability": 84.1,
+      "confidence": "HIGH",
+      "confidence_stars": "\u2605\u2605\u2605",
+      "commence_time": "2026-11-24T00:40:00Z",
+      "line_movement": {
+        "home": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "away": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "pick": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "snapshot_time": "\u2014"
+      },
+      "fatigue": {
+        "home": {
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
+          "last_game": "Nov 21",
+          "days_rest": 2,
+          "games_last_4d": 2,
+          "travel_miles": 0,
+          "travel_desc": "",
+          "source": "ESPN Scoreboard API"
+        },
+        "away": {
+          "status": "RESTED",
+          "label": "2 days rest \u2705",
+          "battery": 88,
+          "last_game": "Nov 20",
+          "days_rest": 3,
+          "games_last_4d": 1,
+          "travel_miles": 0,
+          "travel_desc": "",
+          "source": "ESPN Scoreboard API"
+        }
+      },
+      "edge_factors": [
+        "\ud83d\udcca 68.2pt probability edge"
+      ],
+      "injury_notes": "No key injuries.",
+      "sharp": {
+        "away_t": null,
+        "home_t": null,
+        "source": null,
+        "sharp_signal": null,
+        "sharp_label": "Pending \u2014 check closer to tip-off",
+        "rlm": false
+      },
+      "form": {
+        "home": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        },
+        "away": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        }
+      },
+      "h2h": {
+        "total_meetings": 0,
+        "home_wins": 0,
+        "away_wins": 0,
+        "meetings": [],
+        "source": "\u2014"
+      },
+      "briefing": {
+        "trend": "Minnesota Timberwolves hold a 84.1% edge.",
+        "matchup": "Both rosters appear healthy \u2014 clean line.",
+        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "injury_notes": "No key injuries."
+      },
+      "live": {
+        "status": "pre",
+        "status_detail": "Upcoming",
+        "period": 0,
+        "clock": "",
+        "home_score": 0,
+        "away_score": 0,
+        "spread_alert": null
+      },
+      "news": [
+        {
+          "title": "\u5c0f\u4e11\u4e0b\u534a\u5834\u8f5f24\u5206\uff01\u706b\u7bad\u4e3b\u5e25\u6c23\u70b8\uff1a\u6211\u5011\u9632\u5b88\u592a\u8edf\u4e86",
+          "source": "Yahoo Entertainment",
+          "link": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_9d7ef7ee-c466-4fc9-9739-dcc546705783",
+          "published": "2026-11-22T02:18:00Z"
+        },
+        {
+          "title": "UCF Men\u2019s Basketball Drops Second Straight Game to No. 16 Vanderbilt",
+          "source": "Roundtable.io",
+          "link": "https://roundtable.io/sports/ncaa/ucf/mbb/ucf-men-s-basketball-drops-second-straight-game-to-no-16-vanderbilt",
+          "published": "2026-11-22T02:06:09Z"
+        },
+        {
+          "title": "F1 odds, predictions: Get almost $4,000 in bonuses from betting apps, sportsbooks for Las Vegas Grand Prix",
+          "source": "CBS Sports",
+          "link": "https://www.cbssports.com/betting/news/f1-odds-predictions-get-almost-4000-bonuses-from-betting-apps-sportsbooks-las-vegas-grand-prix/",
+          "published": "2026-11-22T02:03:49Z"
+        }
+      ]
+    },
+    {
+      "game": "Milwaukee Bucks @ Toronto Raptors",
+      "home_team": "Toronto Raptors",
+      "away_team": "Milwaukee Bucks",
+      "home_abbr": "TOR",
+      "away_abbr": "MIL",
+      "home_ml": "-537",
+      "away_ml": "+406",
+      "home_ml_raw": -537,
+      "away_ml_raw": 406,
+      "home_prob": 81.0,
+      "away_prob": 19.0,
+      "spread": "TOR -10.5",
+      "favorite": "Toronto Raptors",
+      "pick": "Toronto Raptors",
+      "pick_abbr": "TOR",
+      "moneyline": "-537",
+      "win_probability": 81.0,
+      "confidence": "HIGH",
+      "confidence_stars": "\u2605\u2605\u2605",
+      "commence_time": "2026-11-24T00:40:00Z",
+      "line_movement": {
+        "home": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "away": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "pick": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "snapshot_time": "\u2014"
+      },
+      "fatigue": {
+        "home": {
+          "status": "RESTED",
+          "label": "2 days rest \u2705",
+          "battery": 88,
+          "last_game": "Nov 20",
+          "days_rest": 3,
+          "games_last_4d": 1,
+          "travel_miles": 206,
+          "travel_desc": "206 mi road trip",
+          "source": "ESPN Scoreboard API"
+        },
+        "away": {
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
+          "last_game": "Nov 21",
+          "days_rest": 2,
+          "games_last_4d": 2,
+          "travel_miles": 694,
+          "travel_desc": "694 mi road trip",
+          "source": "ESPN Scoreboard API"
+        }
+      },
+      "edge_factors": [
+        "\ud83d\udcca 62.0pt probability edge"
+      ],
+      "injury_notes": "No key injuries.",
+      "sharp": {
+        "away_t": null,
+        "home_t": null,
+        "source": null,
+        "sharp_signal": null,
+        "sharp_label": "Pending \u2014 check closer to tip-off",
+        "rlm": false
+      },
+      "form": {
+        "home": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        },
+        "away": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        }
+      },
+      "h2h": {
+        "total_meetings": 0,
+        "home_wins": 0,
+        "away_wins": 0,
+        "meetings": [],
+        "source": "\u2014"
+      },
+      "briefing": {
+        "trend": "Toronto Raptors hold a 81.0% edge.",
+        "matchup": "Both rosters appear healthy \u2014 clean line.",
+        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "injury_notes": "No key injuries."
+      },
+      "live": {
+        "status": "pre",
+        "status_detail": "Upcoming",
+        "period": 0,
+        "clock": "",
+        "home_score": 0,
+        "away_score": 0,
+        "spread_alert": null
+      },
+      "news": [
+        {
+          "title": "\u5c0f\u4e11\u4e0b\u534a\u5834\u8f5f24\u5206\uff01\u706b\u7bad\u4e3b\u5e25\u6c23\u70b8\uff1a\u6211\u5011\u9632\u5b88\u592a\u8edf\u4e86",
+          "source": "Yahoo Entertainment",
+          "link": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_9d7ef7ee-c466-4fc9-9739-dcc546705783",
+          "published": "2026-11-22T02:18:00Z"
+        },
+        {
+          "title": "UCF Men\u2019s Basketball Drops Second Straight Game to No. 16 Vanderbilt",
+          "source": "Roundtable.io",
+          "link": "https://roundtable.io/sports/ncaa/ucf/mbb/ucf-men-s-basketball-drops-second-straight-game-to-no-16-vanderbilt",
+          "published": "2026-11-22T02:06:09Z"
+        },
+        {
+          "title": "F1 odds, predictions: Get almost $4,000 in bonuses from betting apps, sportsbooks for Las Vegas Grand Prix",
+          "source": "CBS Sports",
+          "link": "https://www.cbssports.com/betting/news/f1-odds-predictions-get-almost-4000-bonuses-from-betting-apps-sportsbooks-las-vegas-grand-prix/",
+          "published": "2026-11-22T02:03:49Z"
+        }
+      ]
+    },
+    {
+      "game": "Cleveland Cavaliers @ Chicago Bulls",
+      "home_team": "Chicago Bulls",
+      "away_team": "Cleveland Cavaliers",
+      "home_abbr": "CHI",
+      "away_abbr": "CLE",
+      "home_ml": "N/A",
+      "away_ml": "N/A",
+      "home_ml_raw": null,
+      "away_ml_raw": null,
+      "home_prob": 50.0,
+      "away_prob": 50.0,
+      "spread": "N/A",
+      "favorite": "Chicago Bulls",
+      "pick": "Chicago Bulls",
+      "pick_abbr": "CHI",
+      "moneyline": "N/A",
+      "win_probability": 50.0,
+      "confidence": "LOW",
+      "confidence_stars": "\u2605\u2606\u2606",
+      "commence_time": "2026-11-24T01:10:00Z",
+      "line_movement": {
+        "home": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "away": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "pick": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "snapshot_time": "\u2014"
+      },
+      "fatigue": {
+        "home": {
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Nov 22",
+          "days_rest": 1,
+          "games_last_4d": 2,
+          "travel_miles": 0,
+          "travel_desc": "",
+          "source": "ESPN Scoreboard API"
+        },
+        "away": {
+          "status": "RESTED",
+          "label": "2 days rest \u2705",
+          "battery": 88,
+          "last_game": "Nov 20",
+          "days_rest": 3,
+          "games_last_4d": 1,
+          "travel_miles": 0,
+          "travel_desc": "",
+          "source": "ESPN Scoreboard API"
+        }
+      },
+      "edge_factors": [
+        "\ud83d\udcca 0.0pt probability edge"
+      ],
+      "injury_notes": "No key injuries.",
+      "sharp": {
+        "away_t": null,
+        "home_t": null,
+        "source": null,
+        "sharp_signal": null,
+        "sharp_label": "Pending \u2014 check closer to tip-off",
+        "rlm": false
+      },
+      "form": {
+        "home": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        },
+        "away": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        }
+      },
+      "h2h": {
+        "total_meetings": 0,
+        "home_wins": 0,
+        "away_wins": 0,
+        "meetings": [],
+        "source": "\u2014"
+      },
+      "briefing": {
+        "trend": "CHI on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "matchup": "Both rosters appear healthy \u2014 clean line.",
+        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "injury_notes": "No key injuries."
+      },
+      "live": {
+        "status": "pre",
+        "status_detail": "Upcoming",
+        "period": 0,
+        "clock": "",
+        "home_score": 0,
+        "away_score": 0,
+        "spread_alert": null
+      },
+      "news": [
+        {
+          "title": "\u5c0f\u4e11\u4e0b\u534a\u5834\u8f5f24\u5206\uff01\u706b\u7bad\u4e3b\u5e25\u6c23\u70b8\uff1a\u6211\u5011\u9632\u5b88\u592a\u8edf\u4e86",
+          "source": "Yahoo Entertainment",
+          "link": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_9d7ef7ee-c466-4fc9-9739-dcc546705783",
+          "published": "2026-11-22T02:18:00Z"
+        },
+        {
+          "title": "UCF Men\u2019s Basketball Drops Second Straight Game to No. 16 Vanderbilt",
+          "source": "Roundtable.io",
+          "link": "https://roundtable.io/sports/ncaa/ucf/mbb/ucf-men-s-basketball-drops-second-straight-game-to-no-16-vanderbilt",
+          "published": "2026-11-22T02:06:09Z"
+        },
+        {
+          "title": "F1 odds, predictions: Get almost $4,000 in bonuses from betting apps, sportsbooks for Las Vegas Grand Prix",
+          "source": "CBS Sports",
+          "link": "https://www.cbssports.com/betting/news/f1-odds-predictions-get-almost-4000-bonuses-from-betting-apps-sportsbooks-las-vegas-grand-prix/",
+          "published": "2026-11-22T02:03:49Z"
+        }
+      ]
+    },
+    {
+      "game": "Phoenix Suns @ New Orleans Pelicans",
+      "home_team": "New Orleans Pelicans",
+      "away_team": "Phoenix Suns",
+      "home_abbr": "NOP",
+      "away_abbr": "PHX",
+      "home_ml": "+126",
+      "away_ml": "-150",
+      "home_ml_raw": 126,
+      "away_ml_raw": -150,
+      "home_prob": 42.4,
+      "away_prob": 57.6,
+      "spread": "NOP +3.5",
+      "favorite": "Phoenix Suns",
+      "pick": "Phoenix Suns",
+      "pick_abbr": "PHX",
+      "moneyline": "-150",
+      "win_probability": 57.6,
+      "confidence": "LOW",
+      "confidence_stars": "\u2605\u2606\u2606",
+      "commence_time": "2026-11-24T01:10:00Z",
+      "line_movement": {
+        "home": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "away": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "pick": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "snapshot_time": "\u2014"
+      },
+      "fatigue": {
+        "home": {
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
+          "last_game": "Nov 21",
+          "days_rest": 2,
+          "games_last_4d": 2,
+          "travel_miles": 503,
+          "travel_desc": "503 mi road trip",
+          "source": "ESPN Scoreboard API"
+        },
+        "away": {
+          "status": "RESTED",
+          "label": "2 days rest \u2705",
+          "battery": 88,
+          "last_game": "Nov 20",
+          "days_rest": 3,
+          "games_last_4d": 1,
+          "travel_miles": 0,
+          "travel_desc": "",
+          "source": "ESPN Scoreboard API"
+        }
+      },
+      "edge_factors": [
+        "\ud83d\udcca 15.2pt probability edge"
+      ],
+      "injury_notes": "No key injuries.",
+      "sharp": {
+        "away_t": null,
+        "home_t": null,
+        "source": null,
+        "sharp_signal": null,
+        "sharp_label": "Pending \u2014 check closer to tip-off",
+        "rlm": false
+      },
+      "form": {
+        "home": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        },
+        "away": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        }
+      },
+      "h2h": {
+        "total_meetings": 0,
+        "home_wins": 0,
+        "away_wins": 0,
+        "meetings": [],
+        "source": "\u2014"
+      },
+      "briefing": {
+        "trend": "Phoenix Suns hold a 57.6% edge.",
+        "matchup": "Both rosters appear healthy \u2014 clean line.",
+        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "injury_notes": "No key injuries."
+      },
+      "live": {
+        "status": "pre",
+        "status_detail": "Upcoming",
+        "period": 0,
+        "clock": "",
+        "home_score": 0,
+        "away_score": 0,
+        "spread_alert": null
+      },
+      "news": [
+        {
+          "title": "\u5c0f\u4e11\u4e0b\u534a\u5834\u8f5f24\u5206\uff01\u706b\u7bad\u4e3b\u5e25\u6c23\u70b8\uff1a\u6211\u5011\u9632\u5b88\u592a\u8edf\u4e86",
+          "source": "Yahoo Entertainment",
+          "link": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_9d7ef7ee-c466-4fc9-9739-dcc546705783",
+          "published": "2026-11-22T02:18:00Z"
+        },
+        {
+          "title": "UCF Men\u2019s Basketball Drops Second Straight Game to No. 16 Vanderbilt",
+          "source": "Roundtable.io",
+          "link": "https://roundtable.io/sports/ncaa/ucf/mbb/ucf-men-s-basketball-drops-second-straight-game-to-no-16-vanderbilt",
+          "published": "2026-11-22T02:06:09Z"
+        },
+        {
+          "title": "F1 odds, predictions: Get almost $4,000 in bonuses from betting apps, sportsbooks for Las Vegas Grand Prix",
+          "source": "CBS Sports",
+          "link": "https://www.cbssports.com/betting/news/f1-odds-predictions-get-almost-4000-bonuses-from-betting-apps-sportsbooks-las-vegas-grand-prix/",
+          "published": "2026-11-22T02:03:49Z"
+        }
+      ]
+    },
+    {
+      "game": "Los Angeles Clippers @ Houston Rockets",
+      "home_team": "Houston Rockets",
+      "away_team": "Los Angeles Clippers",
+      "home_abbr": "HOU",
+      "away_abbr": "LAC",
+      "home_ml": "-700",
+      "away_ml": "+501",
+      "home_ml_raw": -700,
+      "away_ml_raw": 501,
+      "home_prob": 84.0,
+      "away_prob": 16.0,
+      "spread": "HOU -12.5",
+      "favorite": "Houston Rockets",
+      "pick": "Houston Rockets",
+      "pick_abbr": "HOU",
+      "moneyline": "-700",
+      "win_probability": 84.0,
+      "confidence": "HIGH",
+      "confidence_stars": "\u2605\u2605\u2605",
+      "commence_time": "2026-11-24T01:40:00Z",
+      "line_movement": {
+        "home": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "away": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "pick": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "snapshot_time": "\u2014"
+      },
+      "fatigue": {
+        "home": {
+          "status": "RESTED",
+          "label": "2 days rest \u2705",
+          "battery": 88,
+          "last_game": "Nov 20",
+          "days_rest": 3,
+          "games_last_4d": 1,
+          "travel_miles": 880,
+          "travel_desc": "880 mi road trip",
+          "source": "ESPN Scoreboard API"
+        },
+        "away": {
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
+          "last_game": "Nov 21",
+          "days_rest": 2,
+          "games_last_4d": 2,
+          "travel_miles": 1238,
+          "travel_desc": "1,238 mi road trip",
+          "source": "ESPN Scoreboard API"
+        }
+      },
+      "edge_factors": [
+        "\ud83d\udcca 68.0pt probability edge"
+      ],
+      "injury_notes": "No key injuries.",
+      "sharp": {
+        "away_t": null,
+        "home_t": null,
+        "source": null,
+        "sharp_signal": null,
+        "sharp_label": "Pending \u2014 check closer to tip-off",
+        "rlm": false
+      },
+      "form": {
+        "home": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        },
+        "away": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        }
+      },
+      "h2h": {
+        "total_meetings": 0,
+        "home_wins": 0,
+        "away_wins": 0,
+        "meetings": [],
+        "source": "\u2014"
+      },
+      "briefing": {
+        "trend": "Houston Rockets hold a 84.0% edge.",
+        "matchup": "Both rosters appear healthy \u2014 clean line.",
+        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "injury_notes": "No key injuries."
+      },
+      "live": {
+        "status": "pre",
+        "status_detail": "Upcoming",
+        "period": 0,
+        "clock": "",
+        "home_score": 0,
+        "away_score": 0,
+        "spread_alert": null
+      },
+      "news": [
+        {
+          "title": "\u5c0f\u4e11\u4e0b\u534a\u5834\u8f5f24\u5206\uff01\u706b\u7bad\u4e3b\u5e25\u6c23\u70b8\uff1a\u6211\u5011\u9632\u5b88\u592a\u8edf\u4e86",
+          "source": "Yahoo Entertainment",
+          "link": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_9d7ef7ee-c466-4fc9-9739-dcc546705783",
+          "published": "2026-11-22T02:18:00Z"
+        },
+        {
+          "title": "UCF Men\u2019s Basketball Drops Second Straight Game to No. 16 Vanderbilt",
+          "source": "Roundtable.io",
+          "link": "https://roundtable.io/sports/ncaa/ucf/mbb/ucf-men-s-basketball-drops-second-straight-game-to-no-16-vanderbilt",
+          "published": "2026-11-22T02:06:09Z"
+        },
+        {
+          "title": "F1 odds, predictions: Get almost $4,000 in bonuses from betting apps, sportsbooks for Las Vegas Grand Prix",
+          "source": "CBS Sports",
+          "link": "https://www.cbssports.com/betting/news/f1-odds-predictions-get-almost-4000-bonuses-from-betting-apps-sportsbooks-las-vegas-grand-prix/",
+          "published": "2026-11-22T02:03:49Z"
+        }
+      ]
+    },
+    {
+      "game": "Utah Jazz @ Los Angeles Lakers",
+      "home_team": "Los Angeles Lakers",
+      "away_team": "Utah Jazz",
+      "home_abbr": "LAL",
+      "away_abbr": "UTA",
+      "home_ml": "-800",
+      "away_ml": "+558",
+      "home_ml_raw": -800,
+      "away_ml_raw": 558,
+      "home_prob": 85.4,
+      "away_prob": 14.6,
+      "spread": "LAL -13.5",
+      "favorite": "Los Angeles Lakers",
+      "pick": "Los Angeles Lakers",
+      "pick_abbr": "LAL",
+      "moneyline": "-800",
+      "win_probability": 85.4,
+      "confidence": "HIGH",
+      "confidence_stars": "\u2605\u2605\u2605",
+      "commence_time": "2026-11-24T03:10:00Z",
+      "line_movement": {
+        "home": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "away": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "pick": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "snapshot_time": "\u2014"
+      },
+      "fatigue": {
+        "home": {
+          "status": "RESTED",
+          "label": "2 days rest \u2705",
+          "battery": 88,
+          "last_game": "Nov 20",
+          "days_rest": 3,
+          "games_last_4d": 1,
+          "travel_miles": 0,
+          "travel_desc": "",
+          "source": "ESPN Scoreboard API"
+        },
+        "away": {
+          "status": "FRESH",
+          "label": "Well rested \u2705",
+          "battery": 100,
+          "last_game": "\u2014",
+          "days_rest": 99,
+          "games_last_4d": 0,
+          "travel_miles": 0,
+          "travel_desc": "",
+          "source": "ESPN Scoreboard API"
+        }
+      },
+      "edge_factors": [
+        "\ud83d\udcca 70.8pt probability edge"
+      ],
+      "injury_notes": "No key injuries.",
+      "sharp": {
+        "away_t": null,
+        "home_t": null,
+        "source": null,
+        "sharp_signal": null,
+        "sharp_label": "Pending \u2014 check closer to tip-off",
+        "rlm": false
+      },
+      "form": {
+        "home": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        },
+        "away": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        }
+      },
+      "h2h": {
+        "total_meetings": 0,
+        "home_wins": 0,
+        "away_wins": 0,
+        "meetings": [],
+        "source": "\u2014"
+      },
+      "briefing": {
+        "trend": "Los Angeles Lakers hold a 85.4% edge.",
+        "matchup": "Both rosters appear healthy \u2014 clean line.",
+        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "injury_notes": "No key injuries."
+      },
+      "live": {
+        "status": "pre",
+        "status_detail": "Upcoming",
+        "period": 0,
+        "clock": "",
+        "home_score": 0,
+        "away_score": 0,
+        "spread_alert": null
+      },
+      "news": [
+        {
+          "title": "\u5c0f\u4e11\u4e0b\u534a\u5834\u8f5f24\u5206\uff01\u706b\u7bad\u4e3b\u5e25\u6c23\u70b8\uff1a\u6211\u5011\u9632\u5b88\u592a\u8edf\u4e86",
+          "source": "Yahoo Entertainment",
+          "link": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_9d7ef7ee-c466-4fc9-9739-dcc546705783",
+          "published": "2026-11-22T02:18:00Z"
+        },
+        {
+          "title": "UCF Men\u2019s Basketball Drops Second Straight Game to No. 16 Vanderbilt",
+          "source": "Roundtable.io",
+          "link": "https://roundtable.io/sports/ncaa/ucf/mbb/ucf-men-s-basketball-drops-second-straight-game-to-no-16-vanderbilt",
+          "published": "2026-11-22T02:06:09Z"
+        },
+        {
+          "title": "F1 odds, predictions: Get almost $4,000 in bonuses from betting apps, sportsbooks for Las Vegas Grand Prix",
+          "source": "CBS Sports",
+          "link": "https://www.cbssports.com/betting/news/f1-odds-predictions-get-almost-4000-bonuses-from-betting-apps-sportsbooks-las-vegas-grand-prix/",
+          "published": "2026-11-22T02:03:49Z"
+        }
+      ]
+    },
+    {
+      "game": "San Antonio Spurs @ Sacramento Kings",
+      "home_team": "Sacramento Kings",
+      "away_team": "San Antonio Spurs",
+      "home_abbr": "SAC",
+      "away_abbr": "SAS",
+      "home_ml": "+360",
+      "away_ml": "-467",
+      "home_ml_raw": 360,
+      "away_ml_raw": -467,
+      "home_prob": 20.9,
+      "away_prob": 79.1,
+      "spread": "SAC +10.5",
+      "favorite": "San Antonio Spurs",
+      "pick": "San Antonio Spurs",
+      "pick_abbr": "SAS",
+      "moneyline": "-467",
+      "win_probability": 79.1,
+      "confidence": "HIGH",
+      "confidence_stars": "\u2605\u2605\u2605",
+      "commence_time": "2026-11-24T03:10:00Z",
+      "line_movement": {
+        "home": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "away": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "pick": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "snapshot_time": "\u2014"
+      },
+      "fatigue": {
+        "home": {
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
+          "last_game": "Nov 21",
+          "days_rest": 2,
+          "games_last_4d": 2,
+          "travel_miles": 361,
+          "travel_desc": "361 mi road trip",
+          "source": "ESPN Scoreboard API"
+        },
+        "away": {
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
+          "last_game": "Nov 21",
+          "days_rest": 2,
+          "games_last_4d": 2,
+          "travel_miles": 0,
+          "travel_desc": "",
+          "source": "ESPN Scoreboard API"
+        }
+      },
+      "edge_factors": [
+        "\ud83d\udcca 58.2pt probability edge"
+      ],
+      "injury_notes": "No key injuries.",
+      "sharp": {
+        "away_t": null,
+        "home_t": null,
+        "source": null,
+        "sharp_signal": null,
+        "sharp_label": "Pending \u2014 check closer to tip-off",
+        "rlm": false
+      },
+      "form": {
+        "home": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        },
+        "away": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        }
+      },
+      "h2h": {
+        "total_meetings": 0,
+        "home_wins": 0,
+        "away_wins": 0,
+        "meetings": [],
+        "source": "\u2014"
+      },
+      "briefing": {
+        "trend": "San Antonio Spurs hold a 79.1% edge.",
+        "matchup": "Both rosters appear healthy \u2014 clean line.",
+        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "injury_notes": "No key injuries."
+      },
+      "live": {
+        "status": "pre",
+        "status_detail": "Upcoming",
+        "period": 0,
+        "clock": "",
+        "home_score": 0,
+        "away_score": 0,
+        "spread_alert": null
+      },
+      "news": [
+        {
+          "title": "\u5c0f\u4e11\u4e0b\u534a\u5834\u8f5f24\u5206\uff01\u706b\u7bad\u4e3b\u5e25\u6c23\u70b8\uff1a\u6211\u5011\u9632\u5b88\u592a\u8edf\u4e86",
+          "source": "Yahoo Entertainment",
+          "link": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_9d7ef7ee-c466-4fc9-9739-dcc546705783",
+          "published": "2026-11-22T02:18:00Z"
+        },
+        {
+          "title": "UCF Men\u2019s Basketball Drops Second Straight Game to No. 16 Vanderbilt",
+          "source": "Roundtable.io",
+          "link": "https://roundtable.io/sports/ncaa/ucf/mbb/ucf-men-s-basketball-drops-second-straight-game-to-no-16-vanderbilt",
+          "published": "2026-11-22T02:06:09Z"
+        },
+        {
+          "title": "F1 odds, predictions: Get almost $4,000 in bonuses from betting apps, sportsbooks for Las Vegas Grand Prix",
+          "source": "CBS Sports",
+          "link": "https://www.cbssports.com/betting/news/f1-odds-predictions-get-almost-4000-bonuses-from-betting-apps-sportsbooks-las-vegas-grand-prix/",
+          "published": "2026-11-22T02:03:49Z"
         }
       ]
     }
@@ -1022,11 +2039,11 @@
   "track_record": {
     "MEDIUM": {
       "wins": 67,
-      "losses": 24,
-      "total": 91,
-      "win_pct": 73.6,
-      "roi": 9.8,
-      "profit": 893.75
+      "losses": 25,
+      "total": 92,
+      "win_pct": 72.8,
+      "roi": 8.6,
+      "profit": 793.75
     },
     "HIGH": {
       "wins": 55,
@@ -1037,28 +2054,28 @@
       "profit": -6.08
     },
     "LOW": {
-      "wins": 24,
-      "losses": 20,
-      "total": 44,
-      "win_pct": 54.5,
-      "roi": -0.4,
-      "profit": -16.79
+      "wins": 25,
+      "losses": 21,
+      "total": 46,
+      "win_pct": 54.3,
+      "roi": -1.0,
+      "profit": -44.85
     },
     "overall_7d": {
       "wins": 26,
-      "losses": 13,
-      "total": 39,
-      "win_pct": 66.7,
-      "roi": -5.3,
-      "profit": -206.71
+      "losses": 14,
+      "total": 40,
+      "win_pct": 65.0,
+      "roi": -7.7,
+      "profit": -309.96
     },
     "overall_30d": {
-      "wins": 137,
-      "losses": 49,
-      "total": 186,
-      "win_pct": 73.7,
-      "roi": 5.0,
-      "profit": 936.95
+      "wins": 138,
+      "losses": 51,
+      "total": 189,
+      "win_pct": 73.0,
+      "roi": 4.3,
+      "profit": 808.89
     }
   }
 }
