@@ -1,1226 +1,63 @@
 {
-  "last_updated": "November 23, 2026 at 10:27 PM UTC",
-  "total_games": 10,
+  "last_updated": "November 24, 2026 at 05:45 AM UTC",
+  "total_games": 7,
   "games": [
-    {
-      "game": "Memphis Grizzlies @ Charlotte Hornets",
-      "home_team": "Charlotte Hornets",
-      "away_team": "Memphis Grizzlies",
-      "home_abbr": "CHA",
-      "away_abbr": "MEM",
-      "home_ml": "+125",
-      "away_ml": "-148",
-      "home_ml_raw": 125,
-      "away_ml_raw": -148,
-      "home_prob": 42.7,
-      "away_prob": 57.3,
-      "spread": "CHA +2.5",
-      "favorite": "Memphis Grizzlies",
-      "pick": "Memphis Grizzlies",
-      "pick_abbr": "MEM",
-      "moneyline": "-148",
-      "win_probability": 57.3,
-      "confidence": "LOW",
-      "confidence_stars": "\u2605\u2606\u2606",
-      "commence_time": "2026-11-24T00:10:00Z",
-      "line_movement": {
-        "home": {
-          "direction": "shorter",
-          "points_moved": 11,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM +125 \u2190 +136",
-          "old_ml": "+136",
-          "new_ml": "+125"
-        },
-        "away": {
-          "direction": "longer",
-          "points_moved": 14,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -148 \u2190 -162",
-          "old_ml": "-162",
-          "new_ml": "-148"
-        },
-        "pick": {
-          "direction": "longer",
-          "points_moved": 14,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -148 \u2190 -162",
-          "old_ml": "-162",
-          "new_ml": "-148"
-        },
-        "snapshot_time": "November 23, 2026 at 06:41 AM UTC"
-      },
-      "fatigue": {
-        "home": {
-          "status": "RESTED",
-          "label": "2 days rest \u2705",
-          "battery": 88,
-          "last_game": "Nov 20",
-          "days_rest": 3,
-          "games_last_4d": 1,
-          "travel_miles": 227,
-          "travel_desc": "227 mi road trip",
-          "source": "ESPN Scoreboard API"
-        },
-        "away": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "Nov 21",
-          "days_rest": 2,
-          "games_last_4d": 2,
-          "travel_miles": 701,
-          "travel_desc": "701 mi road trip",
-          "source": "ESPN Scoreboard API"
-        }
-      },
-      "edge_factors": [
-        "\ud83d\udd25 Sharp steam detected"
-      ],
-      "injury_notes": "No key injuries.",
-      "sharp": {
-        "away_t": null,
-        "home_t": null,
-        "source": null,
-        "sharp_signal": null,
-        "sharp_label": "Pending \u2014 check closer to tip-off",
-        "rlm": false
-      },
-      "form": {
-        "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        },
-        "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        }
-      },
-      "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
-      },
-      "briefing": {
-        "trend": "Memphis Grizzlies hold a 57.3% edge.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -162 to -148 (14pt move) \u2014 heavy professional action on Memphis Grizzlies.",
-        "injury_notes": "No key injuries."
-      },
-      "live": {
-        "status": "pre",
-        "status_detail": "Upcoming",
-        "period": 0,
-        "clock": "",
-        "home_score": 0,
-        "away_score": 0,
-        "spread_alert": null
-      },
-      "news": [
-        {
-          "title": "GTA 6 drew a mammoth 61% of active U.S. PS5 players on launch day, averaging more than eight hours per player",
-          "source": "Notebookcheck.net",
-          "link": "https://www.notebookcheck.net/GTA-6-drew-a-mammoth-61-of-active-U-S-PS5-players-on-launch-day-averaging-more-than-eight-hours-per-player.1456846.0.html",
-          "published": "2026-11-22T22:23:00Z"
-        },
-        {
-          "title": "Shai-Gilgeous Alexander, Giannis Antetokounmpo sit out Heat's victory over Thunder",
-          "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/nba/breaking-news/article/shai-gilgeous-alexander-giannis-antetokounmpo-sit-out-heats-victory-over-thunder-020641012.html",
-          "published": "2026-11-22T22:12:02Z"
-        },
-        {
-          "title": "Lakers Sunday Report: Austin Reaves practices fully, Luka Don\u010di\u0107 makes NBA history",
-          "source": "Thesportingtribune.com",
-          "link": "https://www.thesportingtribune.com/2026/11/22/lakers-sunday-report-austin-reaves-practices-fully-luka-doncic-makes-nba-history",
-          "published": "2026-11-22T22:04:02Z"
-        }
-      ]
-    },
-    {
-      "game": "Portland Trail Blazers @ Philadelphia 76ers",
-      "home_team": "Philadelphia 76ers",
-      "away_team": "Portland Trail Blazers",
-      "home_abbr": "PHI",
-      "away_abbr": "POR",
-      "home_ml": "-148",
-      "away_ml": "+124",
-      "home_ml_raw": -148,
-      "away_ml_raw": 124,
-      "home_prob": 57.2,
-      "away_prob": 42.8,
-      "spread": "PHI -2.5",
-      "favorite": "Philadelphia 76ers",
-      "pick": "Philadelphia 76ers",
-      "pick_abbr": "PHI",
-      "moneyline": "-148",
-      "win_probability": 57.2,
-      "confidence": "LOW",
-      "confidence_stars": "\u2605\u2606\u2606",
-      "commence_time": "2026-11-24T00:10:00Z",
-      "line_movement": {
-        "home": {
-          "direction": "longer",
-          "points_moved": 21,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -148 \u2190 -169",
-          "old_ml": "-169",
-          "new_ml": "-148"
-        },
-        "away": {
-          "direction": "shorter",
-          "points_moved": 18,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM +124 \u2190 +142",
-          "old_ml": "+142",
-          "new_ml": "+124"
-        },
-        "pick": {
-          "direction": "longer",
-          "points_moved": 21,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -148 \u2190 -169",
-          "old_ml": "-169",
-          "new_ml": "-148"
-        },
-        "snapshot_time": "November 23, 2026 at 06:41 AM UTC"
-      },
-      "fatigue": {
-        "home": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "Nov 21",
-          "days_rest": 2,
-          "games_last_4d": 1,
-          "travel_miles": 0,
-          "travel_desc": "",
-          "source": "ESPN Scoreboard API"
-        },
-        "away": {
-          "status": "TRAVEL",
-          "label": "Cross-country travel \ud83d\udfe3",
-          "battery": 50,
-          "last_game": "Nov 21",
-          "days_rest": 2,
-          "games_last_4d": 2,
-          "travel_miles": 2438,
-          "travel_desc": "2,438 mi road trip",
-          "source": "ESPN Scoreboard API"
-        }
-      },
-      "edge_factors": [
-        "\ud83d\udd25 Sharp steam detected",
-        "\u2708\ufe0f POR traveled 2,438 mi"
-      ],
-      "injury_notes": "No key injuries.",
-      "sharp": {
-        "away_t": null,
-        "home_t": null,
-        "source": null,
-        "sharp_signal": null,
-        "sharp_label": "Pending \u2014 check closer to tip-off",
-        "rlm": false
-      },
-      "form": {
-        "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        },
-        "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        }
-      },
-      "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
-      },
-      "briefing": {
-        "trend": "Philadelphia 76ers hold a 57.2% edge.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -169 to -148 (21pt move) \u2014 heavy professional action on Philadelphia 76ers.",
-        "injury_notes": "No key injuries."
-      },
-      "live": {
-        "status": "pre",
-        "status_detail": "Upcoming",
-        "period": 0,
-        "clock": "",
-        "home_score": 0,
-        "away_score": 0,
-        "spread_alert": null
-      },
-      "news": [
-        {
-          "title": "GTA 6 drew a mammoth 61% of active U.S. PS5 players on launch day, averaging more than eight hours per player",
-          "source": "Notebookcheck.net",
-          "link": "https://www.notebookcheck.net/GTA-6-drew-a-mammoth-61-of-active-U-S-PS5-players-on-launch-day-averaging-more-than-eight-hours-per-player.1456846.0.html",
-          "published": "2026-11-22T22:23:00Z"
-        },
-        {
-          "title": "Shai-Gilgeous Alexander, Giannis Antetokounmpo sit out Heat's victory over Thunder",
-          "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/nba/breaking-news/article/shai-gilgeous-alexander-giannis-antetokounmpo-sit-out-heats-victory-over-thunder-020641012.html",
-          "published": "2026-11-22T22:12:02Z"
-        },
-        {
-          "title": "Lakers Sunday Report: Austin Reaves practices fully, Luka Don\u010di\u0107 makes NBA history",
-          "source": "Thesportingtribune.com",
-          "link": "https://www.thesportingtribune.com/2026/11/22/lakers-sunday-report-austin-reaves-practices-fully-luka-doncic-makes-nba-history",
-          "published": "2026-11-22T22:04:02Z"
-        }
-      ]
-    },
-    {
-      "game": "Brooklyn Nets @ Minnesota Timberwolves",
-      "home_team": "Minnesota Timberwolves",
-      "away_team": "Brooklyn Nets",
-      "home_abbr": "MIN",
-      "away_abbr": "BKN",
-      "home_ml": "-549",
-      "away_ml": "+413",
-      "home_ml_raw": -549,
-      "away_ml_raw": 413,
-      "home_prob": 81.3,
-      "away_prob": 18.7,
-      "spread": "MIN -10.5",
-      "favorite": "Minnesota Timberwolves",
-      "pick": "Minnesota Timberwolves",
-      "pick_abbr": "MIN",
-      "moneyline": "-549",
-      "win_probability": 81.3,
-      "confidence": "HIGH",
-      "confidence_stars": "\u2605\u2605\u2605",
-      "commence_time": "2026-11-24T00:40:00Z",
-      "line_movement": {
-        "home": {
-          "direction": "longer",
-          "points_moved": 71,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -549 \u2190 -620",
-          "old_ml": "-620",
-          "new_ml": "-549"
-        },
-        "away": {
-          "direction": "shorter",
-          "points_moved": 42,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM +413 \u2190 +455",
-          "old_ml": "+455",
-          "new_ml": "+413"
-        },
-        "pick": {
-          "direction": "longer",
-          "points_moved": 71,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -549 \u2190 -620",
-          "old_ml": "-620",
-          "new_ml": "-549"
-        },
-        "snapshot_time": "November 23, 2026 at 06:41 AM UTC"
-      },
-      "fatigue": {
-        "home": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "Nov 21",
-          "days_rest": 2,
-          "games_last_4d": 2,
-          "travel_miles": 0,
-          "travel_desc": "",
-          "source": "ESPN Scoreboard API"
-        },
-        "away": {
-          "status": "RESTED",
-          "label": "2 days rest \u2705",
-          "battery": 88,
-          "last_game": "Nov 20",
-          "days_rest": 3,
-          "games_last_4d": 1,
-          "travel_miles": 0,
-          "travel_desc": "",
-          "source": "ESPN Scoreboard API"
-        }
-      },
-      "edge_factors": [
-        "\ud83d\udd25 Sharp steam detected"
-      ],
-      "injury_notes": "No key injuries.",
-      "sharp": {
-        "away_t": null,
-        "home_t": null,
-        "source": null,
-        "sharp_signal": null,
-        "sharp_label": "Pending \u2014 check closer to tip-off",
-        "rlm": false
-      },
-      "form": {
-        "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        },
-        "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        }
-      },
-      "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
-      },
-      "briefing": {
-        "trend": "Minnesota Timberwolves hold a 81.3% edge.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -620 to -549 (71pt move) \u2014 heavy professional action on Minnesota Timberwolves.",
-        "injury_notes": "No key injuries."
-      },
-      "live": {
-        "status": "pre",
-        "status_detail": "Upcoming",
-        "period": 0,
-        "clock": "",
-        "home_score": 0,
-        "away_score": 0,
-        "spread_alert": null
-      },
-      "news": [
-        {
-          "title": "GTA 6 drew a mammoth 61% of active U.S. PS5 players on launch day, averaging more than eight hours per player",
-          "source": "Notebookcheck.net",
-          "link": "https://www.notebookcheck.net/GTA-6-drew-a-mammoth-61-of-active-U-S-PS5-players-on-launch-day-averaging-more-than-eight-hours-per-player.1456846.0.html",
-          "published": "2026-11-22T22:23:00Z"
-        },
-        {
-          "title": "Shai-Gilgeous Alexander, Giannis Antetokounmpo sit out Heat's victory over Thunder",
-          "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/nba/breaking-news/article/shai-gilgeous-alexander-giannis-antetokounmpo-sit-out-heats-victory-over-thunder-020641012.html",
-          "published": "2026-11-22T22:12:02Z"
-        },
-        {
-          "title": "Lakers Sunday Report: Austin Reaves practices fully, Luka Don\u010di\u0107 makes NBA history",
-          "source": "Thesportingtribune.com",
-          "link": "https://www.thesportingtribune.com/2026/11/22/lakers-sunday-report-austin-reaves-practices-fully-luka-doncic-makes-nba-history",
-          "published": "2026-11-22T22:04:02Z"
-        }
-      ]
-    },
-    {
-      "game": "Oklahoma City Thunder @ Indiana Pacers",
-      "home_team": "Indiana Pacers",
-      "away_team": "Oklahoma City Thunder",
-      "home_abbr": "IND",
-      "away_abbr": "OKC",
-      "home_ml": "+189",
-      "away_ml": "-228",
-      "home_ml_raw": 189,
-      "away_ml_raw": -228,
-      "home_prob": 33.2,
-      "away_prob": 66.8,
-      "spread": "IND +5.5",
-      "favorite": "Oklahoma City Thunder",
-      "pick": "Oklahoma City Thunder",
-      "pick_abbr": "OKC",
-      "moneyline": "-228",
-      "win_probability": 66.8,
-      "confidence": "MEDIUM",
-      "confidence_stars": "\u2605\u2605\u2606",
-      "commence_time": "2026-11-24T00:40:00Z",
-      "line_movement": {
-        "home": {
-          "direction": "longer",
-          "points_moved": 29,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM +189 \u2190 +160",
-          "old_ml": "+160",
-          "new_ml": "+189"
-        },
-        "away": {
-          "direction": "shorter",
-          "points_moved": 37,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -228 \u2190 -191",
-          "old_ml": "-191",
-          "new_ml": "-228"
-        },
-        "pick": {
-          "direction": "shorter",
-          "points_moved": 37,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -228 \u2190 -191",
-          "old_ml": "-191",
-          "new_ml": "-228"
-        },
-        "snapshot_time": "November 23, 2026 at 06:41 AM UTC"
-      },
-      "fatigue": {
-        "home": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
-          "last_game": "Nov 22",
-          "days_rest": 1,
-          "games_last_4d": 2,
-          "travel_miles": 644,
-          "travel_desc": "644 mi road trip",
-          "source": "ESPN Scoreboard API"
-        },
-        "away": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
-          "last_game": "Nov 22",
-          "days_rest": 1,
-          "games_last_4d": 2,
-          "travel_miles": 1225,
-          "travel_desc": "1,225 mi road trip",
-          "source": "ESPN Scoreboard API"
-        }
-      },
-      "edge_factors": [
-        "\ud83d\udd25 Sharp steam detected",
-        "\ud83d\udca4 IND fatigued (B2B) \u2014 source: ESPN"
-      ],
-      "injury_notes": "No key injuries.",
-      "sharp": {
-        "away_t": null,
-        "home_t": null,
-        "source": null,
-        "sharp_signal": null,
-        "sharp_label": "Pending \u2014 check closer to tip-off",
-        "rlm": false
-      },
-      "form": {
-        "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        },
-        "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        }
-      },
-      "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
-      },
-      "briefing": {
-        "trend": "IND on Back-to-Back \u26a0\ufe0f per ESPN schedule data. OKC on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -191 to -228 (37pt move) \u2014 heavy professional action on Oklahoma City Thunder.",
-        "injury_notes": "No key injuries."
-      },
-      "live": {
-        "status": "pre",
-        "status_detail": "Upcoming",
-        "period": 0,
-        "clock": "",
-        "home_score": 0,
-        "away_score": 0,
-        "spread_alert": null
-      },
-      "news": [
-        {
-          "title": "GTA 6 drew a mammoth 61% of active U.S. PS5 players on launch day, averaging more than eight hours per player",
-          "source": "Notebookcheck.net",
-          "link": "https://www.notebookcheck.net/GTA-6-drew-a-mammoth-61-of-active-U-S-PS5-players-on-launch-day-averaging-more-than-eight-hours-per-player.1456846.0.html",
-          "published": "2026-11-22T22:23:00Z"
-        },
-        {
-          "title": "Shai-Gilgeous Alexander, Giannis Antetokounmpo sit out Heat's victory over Thunder",
-          "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/nba/breaking-news/article/shai-gilgeous-alexander-giannis-antetokounmpo-sit-out-heats-victory-over-thunder-020641012.html",
-          "published": "2026-11-22T22:12:02Z"
-        },
-        {
-          "title": "Lakers Sunday Report: Austin Reaves practices fully, Luka Don\u010di\u0107 makes NBA history",
-          "source": "Thesportingtribune.com",
-          "link": "https://www.thesportingtribune.com/2026/11/22/lakers-sunday-report-austin-reaves-practices-fully-luka-doncic-makes-nba-history",
-          "published": "2026-11-22T22:04:02Z"
-        }
-      ]
-    },
-    {
-      "game": "Milwaukee Bucks @ Toronto Raptors",
-      "home_team": "Toronto Raptors",
-      "away_team": "Milwaukee Bucks",
-      "home_abbr": "TOR",
-      "away_abbr": "MIL",
-      "home_ml": "-467",
-      "away_ml": "+360",
-      "home_ml_raw": -467,
-      "away_ml_raw": 360,
-      "home_prob": 79.1,
-      "away_prob": 20.9,
-      "spread": "TOR -10.5",
-      "favorite": "Toronto Raptors",
-      "pick": "Toronto Raptors",
-      "pick_abbr": "TOR",
-      "moneyline": "-467",
-      "win_probability": 79.1,
-      "confidence": "HIGH",
-      "confidence_stars": "\u2605\u2605\u2605",
-      "commence_time": "2026-11-24T00:40:00Z",
-      "line_movement": {
-        "home": {
-          "direction": "longer",
-          "points_moved": 27,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -467 \u2190 -494",
-          "old_ml": "-494",
-          "new_ml": "-467"
-        },
-        "away": {
-          "direction": "shorter",
-          "points_moved": 18,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM +360 \u2190 +378",
-          "old_ml": "+378",
-          "new_ml": "+360"
-        },
-        "pick": {
-          "direction": "longer",
-          "points_moved": 27,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -467 \u2190 -494",
-          "old_ml": "-494",
-          "new_ml": "-467"
-        },
-        "snapshot_time": "November 23, 2026 at 06:41 AM UTC"
-      },
-      "fatigue": {
-        "home": {
-          "status": "RESTED",
-          "label": "2 days rest \u2705",
-          "battery": 88,
-          "last_game": "Nov 20",
-          "days_rest": 3,
-          "games_last_4d": 1,
-          "travel_miles": 206,
-          "travel_desc": "206 mi road trip",
-          "source": "ESPN Scoreboard API"
-        },
-        "away": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "Nov 21",
-          "days_rest": 2,
-          "games_last_4d": 2,
-          "travel_miles": 694,
-          "travel_desc": "694 mi road trip",
-          "source": "ESPN Scoreboard API"
-        }
-      },
-      "edge_factors": [
-        "\ud83d\udd25 Sharp steam detected"
-      ],
-      "injury_notes": "No key injuries.",
-      "sharp": {
-        "away_t": null,
-        "home_t": null,
-        "source": null,
-        "sharp_signal": null,
-        "sharp_label": "Pending \u2014 check closer to tip-off",
-        "rlm": false
-      },
-      "form": {
-        "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        },
-        "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        }
-      },
-      "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
-      },
-      "briefing": {
-        "trend": "Toronto Raptors hold a 79.1% edge.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -494 to -467 (27pt move) \u2014 heavy professional action on Toronto Raptors.",
-        "injury_notes": "No key injuries."
-      },
-      "live": {
-        "status": "pre",
-        "status_detail": "Upcoming",
-        "period": 0,
-        "clock": "",
-        "home_score": 0,
-        "away_score": 0,
-        "spread_alert": null
-      },
-      "news": [
-        {
-          "title": "GTA 6 drew a mammoth 61% of active U.S. PS5 players on launch day, averaging more than eight hours per player",
-          "source": "Notebookcheck.net",
-          "link": "https://www.notebookcheck.net/GTA-6-drew-a-mammoth-61-of-active-U-S-PS5-players-on-launch-day-averaging-more-than-eight-hours-per-player.1456846.0.html",
-          "published": "2026-11-22T22:23:00Z"
-        },
-        {
-          "title": "Shai-Gilgeous Alexander, Giannis Antetokounmpo sit out Heat's victory over Thunder",
-          "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/nba/breaking-news/article/shai-gilgeous-alexander-giannis-antetokounmpo-sit-out-heats-victory-over-thunder-020641012.html",
-          "published": "2026-11-22T22:12:02Z"
-        },
-        {
-          "title": "Lakers Sunday Report: Austin Reaves practices fully, Luka Don\u010di\u0107 makes NBA history",
-          "source": "Thesportingtribune.com",
-          "link": "https://www.thesportingtribune.com/2026/11/22/lakers-sunday-report-austin-reaves-practices-fully-luka-doncic-makes-nba-history",
-          "published": "2026-11-22T22:04:02Z"
-        }
-      ]
-    },
-    {
-      "game": "Cleveland Cavaliers @ Chicago Bulls",
-      "home_team": "Chicago Bulls",
-      "away_team": "Cleveland Cavaliers",
-      "home_abbr": "CHI",
-      "away_abbr": "CLE",
-      "home_ml": "+282",
-      "away_ml": "-352",
-      "home_ml_raw": 282,
-      "away_ml_raw": -352,
-      "home_prob": 25.2,
-      "away_prob": 74.8,
-      "spread": "CHI +8.5",
-      "favorite": "Cleveland Cavaliers",
-      "pick": "Cleveland Cavaliers",
-      "pick_abbr": "CLE",
-      "moneyline": "-352",
-      "win_probability": 74.8,
-      "confidence": "HIGH",
-      "confidence_stars": "\u2605\u2605\u2605",
-      "commence_time": "2026-11-24T01:10:00Z",
-      "line_movement": {
-        "home": {
-          "direction": "longer",
-          "points_moved": 11,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM +282 \u2190 +271",
-          "old_ml": "+271",
-          "new_ml": "+282"
-        },
-        "away": {
-          "direction": "shorter",
-          "points_moved": 15,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -352 \u2190 -337",
-          "old_ml": "-337",
-          "new_ml": "-352"
-        },
-        "pick": {
-          "direction": "shorter",
-          "points_moved": 15,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -352 \u2190 -337",
-          "old_ml": "-337",
-          "new_ml": "-352"
-        },
-        "snapshot_time": "November 23, 2026 at 06:41 AM UTC"
-      },
-      "fatigue": {
-        "home": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
-          "last_game": "Nov 22",
-          "days_rest": 1,
-          "games_last_4d": 2,
-          "travel_miles": 0,
-          "travel_desc": "",
-          "source": "ESPN Scoreboard API"
-        },
-        "away": {
-          "status": "RESTED",
-          "label": "2 days rest \u2705",
-          "battery": 88,
-          "last_game": "Nov 20",
-          "days_rest": 3,
-          "games_last_4d": 1,
-          "travel_miles": 0,
-          "travel_desc": "",
-          "source": "ESPN Scoreboard API"
-        }
-      },
-      "edge_factors": [
-        "\ud83d\udd25 Sharp steam detected",
-        "\ud83d\udca4 CHI fatigued (B2B) \u2014 source: ESPN"
-      ],
-      "injury_notes": "No key injuries.",
-      "sharp": {
-        "away_t": null,
-        "home_t": null,
-        "source": null,
-        "sharp_signal": null,
-        "sharp_label": "Pending \u2014 check closer to tip-off",
-        "rlm": false
-      },
-      "form": {
-        "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        },
-        "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        }
-      },
-      "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
-      },
-      "briefing": {
-        "trend": "CHI on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -337 to -352 (15pt move) \u2014 heavy professional action on Cleveland Cavaliers.",
-        "injury_notes": "No key injuries."
-      },
-      "live": {
-        "status": "pre",
-        "status_detail": "Upcoming",
-        "period": 0,
-        "clock": "",
-        "home_score": 0,
-        "away_score": 0,
-        "spread_alert": null
-      },
-      "news": [
-        {
-          "title": "GTA 6 drew a mammoth 61% of active U.S. PS5 players on launch day, averaging more than eight hours per player",
-          "source": "Notebookcheck.net",
-          "link": "https://www.notebookcheck.net/GTA-6-drew-a-mammoth-61-of-active-U-S-PS5-players-on-launch-day-averaging-more-than-eight-hours-per-player.1456846.0.html",
-          "published": "2026-11-22T22:23:00Z"
-        },
-        {
-          "title": "Shai-Gilgeous Alexander, Giannis Antetokounmpo sit out Heat's victory over Thunder",
-          "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/nba/breaking-news/article/shai-gilgeous-alexander-giannis-antetokounmpo-sit-out-heats-victory-over-thunder-020641012.html",
-          "published": "2026-11-22T22:12:02Z"
-        },
-        {
-          "title": "Lakers Sunday Report: Austin Reaves practices fully, Luka Don\u010di\u0107 makes NBA history",
-          "source": "Thesportingtribune.com",
-          "link": "https://www.thesportingtribune.com/2026/11/22/lakers-sunday-report-austin-reaves-practices-fully-luka-doncic-makes-nba-history",
-          "published": "2026-11-22T22:04:02Z"
-        }
-      ]
-    },
-    {
-      "game": "Phoenix Suns @ New Orleans Pelicans",
-      "home_team": "New Orleans Pelicans",
-      "away_team": "Phoenix Suns",
-      "home_abbr": "NOP",
-      "away_abbr": "PHX",
-      "home_ml": "+131",
-      "away_ml": "-155",
-      "home_ml_raw": 131,
-      "away_ml_raw": -155,
-      "home_prob": 41.6,
-      "away_prob": 58.4,
-      "spread": "NOP +3.5",
-      "favorite": "Phoenix Suns",
-      "pick": "Phoenix Suns",
-      "pick_abbr": "PHX",
-      "moneyline": "-155",
-      "win_probability": 58.4,
-      "confidence": "MEDIUM",
-      "confidence_stars": "\u2605\u2605\u2606",
-      "commence_time": "2026-11-24T01:10:00Z",
-      "line_movement": {
-        "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
-          "old_ml": "+131",
-          "new_ml": "+131"
-        },
-        "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
-          "old_ml": "-155",
-          "new_ml": "-155"
-        },
-        "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
-          "old_ml": "-155",
-          "new_ml": "-155"
-        },
-        "snapshot_time": "November 23, 2026 at 06:41 AM UTC"
-      },
-      "fatigue": {
-        "home": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "Nov 21",
-          "days_rest": 2,
-          "games_last_4d": 2,
-          "travel_miles": 503,
-          "travel_desc": "503 mi road trip",
-          "source": "ESPN Scoreboard API"
-        },
-        "away": {
-          "status": "RESTED",
-          "label": "2 days rest \u2705",
-          "battery": 88,
-          "last_game": "Nov 20",
-          "days_rest": 3,
-          "games_last_4d": 1,
-          "travel_miles": 0,
-          "travel_desc": "",
-          "source": "ESPN Scoreboard API"
-        }
-      },
-      "edge_factors": [
-        "\ud83d\udcca 16.8pt probability edge"
-      ],
-      "injury_notes": "No key injuries.",
-      "sharp": {
-        "away_t": null,
-        "home_t": null,
-        "source": null,
-        "sharp_signal": null,
-        "sharp_label": "Pending \u2014 check closer to tip-off",
-        "rlm": false
-      },
-      "form": {
-        "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        },
-        "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        }
-      },
-      "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
-      },
-      "briefing": {
-        "trend": "Phoenix Suns hold a 58.4% edge.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
-        "injury_notes": "No key injuries."
-      },
-      "live": {
-        "status": "pre",
-        "status_detail": "Upcoming",
-        "period": 0,
-        "clock": "",
-        "home_score": 0,
-        "away_score": 0,
-        "spread_alert": null
-      },
-      "news": [
-        {
-          "title": "GTA 6 drew a mammoth 61% of active U.S. PS5 players on launch day, averaging more than eight hours per player",
-          "source": "Notebookcheck.net",
-          "link": "https://www.notebookcheck.net/GTA-6-drew-a-mammoth-61-of-active-U-S-PS5-players-on-launch-day-averaging-more-than-eight-hours-per-player.1456846.0.html",
-          "published": "2026-11-22T22:23:00Z"
-        },
-        {
-          "title": "Shai-Gilgeous Alexander, Giannis Antetokounmpo sit out Heat's victory over Thunder",
-          "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/nba/breaking-news/article/shai-gilgeous-alexander-giannis-antetokounmpo-sit-out-heats-victory-over-thunder-020641012.html",
-          "published": "2026-11-22T22:12:02Z"
-        },
-        {
-          "title": "Lakers Sunday Report: Austin Reaves practices fully, Luka Don\u010di\u0107 makes NBA history",
-          "source": "Thesportingtribune.com",
-          "link": "https://www.thesportingtribune.com/2026/11/22/lakers-sunday-report-austin-reaves-practices-fully-luka-doncic-makes-nba-history",
-          "published": "2026-11-22T22:04:02Z"
-        }
-      ]
-    },
-    {
-      "game": "Los Angeles Clippers @ Houston Rockets",
-      "home_team": "Houston Rockets",
-      "away_team": "Los Angeles Clippers",
-      "home_abbr": "HOU",
-      "away_abbr": "LAC",
-      "home_ml": "-650",
-      "away_ml": "+470",
-      "home_ml_raw": -650,
-      "away_ml_raw": 470,
-      "home_prob": 83.2,
-      "away_prob": 16.8,
-      "spread": "HOU -12.5",
-      "favorite": "Houston Rockets",
-      "pick": "Houston Rockets",
-      "pick_abbr": "HOU",
-      "moneyline": "-650",
-      "win_probability": 83.2,
-      "confidence": "HIGH",
-      "confidence_stars": "\u2605\u2605\u2605",
-      "commence_time": "2026-11-24T01:40:00Z",
-      "line_movement": {
-        "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
-          "old_ml": "-650",
-          "new_ml": "-650"
-        },
-        "away": {
-          "direction": "shorter",
-          "points_moved": 1,
-          "steam": false,
-          "label": "\ud83d\udfe2 +470 \u2190 +471",
-          "old_ml": "+471",
-          "new_ml": "+470"
-        },
-        "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "No movement",
-          "old_ml": "-650",
-          "new_ml": "-650"
-        },
-        "snapshot_time": "November 23, 2026 at 06:41 AM UTC"
-      },
-      "fatigue": {
-        "home": {
-          "status": "RESTED",
-          "label": "2 days rest \u2705",
-          "battery": 88,
-          "last_game": "Nov 20",
-          "days_rest": 3,
-          "games_last_4d": 1,
-          "travel_miles": 880,
-          "travel_desc": "880 mi road trip",
-          "source": "ESPN Scoreboard API"
-        },
-        "away": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "Nov 21",
-          "days_rest": 2,
-          "games_last_4d": 2,
-          "travel_miles": 1238,
-          "travel_desc": "1,238 mi road trip",
-          "source": "ESPN Scoreboard API"
-        }
-      },
-      "edge_factors": [
-        "\ud83d\udcca 66.4pt probability edge"
-      ],
-      "injury_notes": "No key injuries.",
-      "sharp": {
-        "away_t": null,
-        "home_t": null,
-        "source": null,
-        "sharp_signal": null,
-        "sharp_label": "Pending \u2014 check closer to tip-off",
-        "rlm": false
-      },
-      "form": {
-        "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        },
-        "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        }
-      },
-      "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
-      },
-      "briefing": {
-        "trend": "Houston Rockets hold a 83.2% edge.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
-        "injury_notes": "No key injuries."
-      },
-      "live": {
-        "status": "pre",
-        "status_detail": "Upcoming",
-        "period": 0,
-        "clock": "",
-        "home_score": 0,
-        "away_score": 0,
-        "spread_alert": null
-      },
-      "news": [
-        {
-          "title": "GTA 6 drew a mammoth 61% of active U.S. PS5 players on launch day, averaging more than eight hours per player",
-          "source": "Notebookcheck.net",
-          "link": "https://www.notebookcheck.net/GTA-6-drew-a-mammoth-61-of-active-U-S-PS5-players-on-launch-day-averaging-more-than-eight-hours-per-player.1456846.0.html",
-          "published": "2026-11-22T22:23:00Z"
-        },
-        {
-          "title": "Shai-Gilgeous Alexander, Giannis Antetokounmpo sit out Heat's victory over Thunder",
-          "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/nba/breaking-news/article/shai-gilgeous-alexander-giannis-antetokounmpo-sit-out-heats-victory-over-thunder-020641012.html",
-          "published": "2026-11-22T22:12:02Z"
-        },
-        {
-          "title": "Lakers Sunday Report: Austin Reaves practices fully, Luka Don\u010di\u0107 makes NBA history",
-          "source": "Thesportingtribune.com",
-          "link": "https://www.thesportingtribune.com/2026/11/22/lakers-sunday-report-austin-reaves-practices-fully-luka-doncic-makes-nba-history",
-          "published": "2026-11-22T22:04:02Z"
-        }
-      ]
-    },
     {
       "game": "Utah Jazz @ Los Angeles Lakers",
       "home_team": "Los Angeles Lakers",
       "away_team": "Utah Jazz",
       "home_abbr": "LAL",
       "away_abbr": "UTA",
-      "home_ml": "-800",
-      "away_ml": "+558",
-      "home_ml_raw": -800,
-      "away_ml_raw": 558,
-      "home_prob": 85.4,
-      "away_prob": 14.6,
-      "spread": "LAL -13.5",
+      "home_ml": "N/A",
+      "away_ml": "N/A",
+      "home_ml_raw": null,
+      "away_ml_raw": null,
+      "home_prob": 50.0,
+      "away_prob": 50.0,
+      "spread": "LAL -15.5",
       "favorite": "Los Angeles Lakers",
       "pick": "Los Angeles Lakers",
       "pick_abbr": "LAL",
-      "moneyline": "-800",
-      "win_probability": 85.4,
-      "confidence": "HIGH",
-      "confidence_stars": "\u2605\u2605\u2605",
-      "commence_time": "2026-11-24T03:10:00Z",
+      "moneyline": "N/A",
+      "win_probability": 50.0,
+      "confidence": "LOW",
+      "confidence_stars": "\u2605\u2606\u2606",
+      "commence_time": "2026-11-24T03:11:00Z",
       "line_movement": {
         "home": {
-          "direction": "shorter",
-          "points_moved": 10,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -800 \u2190 -790",
-          "old_ml": "-790",
-          "new_ml": "-800"
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
         },
         "away": {
-          "direction": "longer",
-          "points_moved": 4,
+          "direction": "none",
+          "points_moved": 0,
           "steam": false,
-          "label": "\ud83d\udd34 +558 \u2190 +554",
-          "old_ml": "+554",
-          "new_ml": "+558"
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
         },
         "pick": {
-          "direction": "shorter",
-          "points_moved": 10,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -800 \u2190 -790",
-          "old_ml": "-790",
-          "new_ml": "-800"
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
         },
-        "snapshot_time": "November 23, 2026 at 06:41 AM UTC"
+        "snapshot_time": "November 23, 2026 at 10:27 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "RESTED",
-          "label": "2 days rest \u2705",
-          "battery": 88,
-          "last_game": "Nov 20",
-          "days_rest": 3,
-          "games_last_4d": 1,
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Nov 23",
+          "days_rest": 1,
+          "games_last_4d": 2,
           "travel_miles": 0,
           "travel_desc": "",
           "source": "ESPN Scoreboard API"
@@ -1238,9 +75,9 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udd25 Sharp steam detected"
+        "\ud83d\udcca 0.0pt probability edge"
       ],
-      "injury_notes": "No key injuries.",
+      "injury_notes": "Austin Reaves (G); Jaxson Hayes (C); Jusuf Nurkic (C); Lauri Markkanen (F)",
       "sharp": {
         "away_t": null,
         "home_t": null,
@@ -1275,10 +112,10 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "Los Angeles Lakers hold a 85.4% edge.",
+        "trend": "LAL on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -790 to -800 (10pt move) \u2014 heavy professional action on Los Angeles Lakers.",
-        "injury_notes": "No key injuries."
+        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "injury_notes": "Austin Reaves (G); Jaxson Hayes (C); Jusuf Nurkic (C); Lauri Markkanen (F)"
       },
       "live": {
         "status": "pre",
@@ -1291,90 +128,356 @@
       },
       "news": [
         {
-          "title": "GTA 6 drew a mammoth 61% of active U.S. PS5 players on launch day, averaging more than eight hours per player",
-          "source": "Notebookcheck.net",
-          "link": "https://www.notebookcheck.net/GTA-6-drew-a-mammoth-61-of-active-U-S-PS5-players-on-launch-day-averaging-more-than-eight-hours-per-player.1456846.0.html",
-          "published": "2026-11-22T22:23:00Z"
-        },
-        {
-          "title": "Shai-Gilgeous Alexander, Giannis Antetokounmpo sit out Heat's victory over Thunder",
-          "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/nba/breaking-news/article/shai-gilgeous-alexander-giannis-antetokounmpo-sit-out-heats-victory-over-thunder-020641012.html",
-          "published": "2026-11-22T22:12:02Z"
-        },
-        {
-          "title": "Lakers Sunday Report: Austin Reaves practices fully, Luka Don\u010di\u0107 makes NBA history",
-          "source": "Thesportingtribune.com",
-          "link": "https://www.thesportingtribune.com/2026/11/22/lakers-sunday-report-austin-reaves-practices-fully-luka-doncic-makes-nba-history",
-          "published": "2026-11-22T22:04:02Z"
+          "title": "The hidden danger behind Luka Doncic's historic start\ufeff",
+          "source": "www.espn.com - NBA",
+          "link": "https://www.espn.com/nba/story/_/id/50522350/luka-doncic-lakers-offense-usage-rate",
+          "published": "Thu, 19 Nov 2026 08:46:53 EST"
         }
       ]
     },
     {
-      "game": "San Antonio Spurs @ Sacramento Kings",
-      "home_team": "Sacramento Kings",
-      "away_team": "San Antonio Spurs",
-      "home_abbr": "SAC",
-      "away_abbr": "SAS",
-      "home_ml": "+443",
-      "away_ml": "-597",
-      "home_ml_raw": 443,
-      "away_ml_raw": -597,
-      "home_prob": 17.7,
-      "away_prob": 82.3,
-      "spread": "SAC +12.5",
-      "favorite": "San Antonio Spurs",
-      "pick": "San Antonio Spurs",
-      "pick_abbr": "SAS",
-      "moneyline": "-597",
-      "win_probability": 82.3,
-      "confidence": "HIGH",
-      "confidence_stars": "\u2605\u2605\u2605",
-      "commence_time": "2026-11-24T03:10:00Z",
+      "game": "Detroit Pistons @ Orlando Magic",
+      "home_team": "Orlando Magic",
+      "away_team": "Detroit Pistons",
+      "home_abbr": "ORL",
+      "away_abbr": "DET",
+      "home_ml": "+110",
+      "away_ml": "-130",
+      "home_ml_raw": 110,
+      "away_ml_raw": -130,
+      "home_prob": 45.7,
+      "away_prob": 54.3,
+      "spread": "ORL +1.5",
+      "favorite": "Detroit Pistons",
+      "pick": "Detroit Pistons",
+      "pick_abbr": "DET",
+      "moneyline": "-130",
+      "win_probability": 54.3,
+      "confidence": "LOW",
+      "confidence_stars": "\u2605\u2606\u2606",
+      "commence_time": "2026-11-25T00:11:00Z",
       "line_movement": {
         "home": {
-          "direction": "longer",
-          "points_moved": 72,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM +443 \u2190 +371",
-          "old_ml": "+371",
-          "new_ml": "+443"
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
         },
         "away": {
-          "direction": "shorter",
-          "points_moved": 113,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -597 \u2190 -484",
-          "old_ml": "-484",
-          "new_ml": "-597"
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
         },
         "pick": {
-          "direction": "shorter",
-          "points_moved": 113,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -597 \u2190 -484",
-          "old_ml": "-484",
-          "new_ml": "-597"
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
         },
-        "snapshot_time": "November 23, 2026 at 06:41 AM UTC"
+        "snapshot_time": "\u2014"
       },
       "fatigue": {
         "home": {
           "status": "SOME_REST",
           "label": "1 day rest",
           "battery": 68,
-          "last_game": "Nov 21",
+          "last_game": "Nov 22",
           "days_rest": 2,
           "games_last_4d": 2,
-          "travel_miles": 361,
-          "travel_desc": "361 mi road trip",
+          "travel_miles": 758,
+          "travel_desc": "758 mi road trip",
           "source": "ESPN Scoreboard API"
         },
         "away": {
           "status": "SOME_REST",
           "label": "1 day rest",
           "battery": 68,
-          "last_game": "Nov 21",
+          "last_game": "Nov 22",
+          "days_rest": 2,
+          "games_last_4d": 2,
+          "travel_miles": 598,
+          "travel_desc": "598 mi road trip",
+          "source": "ESPN Scoreboard API"
+        }
+      },
+      "edge_factors": [
+        "\ud83d\udcca 8.6pt probability edge"
+      ],
+      "injury_notes": "Jonathan Isaac (F); Izaiyah Nelson (F); Noah Penda (F); Paolo Banchero (F)",
+      "sharp": {
+        "away_t": null,
+        "home_t": null,
+        "source": null,
+        "sharp_signal": null,
+        "sharp_label": "Pending \u2014 check closer to tip-off",
+        "rlm": false
+      },
+      "form": {
+        "home": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        },
+        "away": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        }
+      },
+      "h2h": {
+        "total_meetings": 0,
+        "home_wins": 0,
+        "away_wins": 0,
+        "meetings": [],
+        "source": "\u2014"
+      },
+      "briefing": {
+        "trend": "Detroit Pistons hold a 54.3% edge.",
+        "matchup": "Both rosters appear healthy \u2014 clean line.",
+        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "injury_notes": "Jonathan Isaac (F); Izaiyah Nelson (F); Noah Penda (F); Paolo Banchero (F)"
+      },
+      "live": {
+        "status": "pre",
+        "status_detail": "Upcoming",
+        "period": 0,
+        "clock": "",
+        "home_score": 0,
+        "away_score": 0,
+        "spread_alert": null
+      },
+      "news": [
+        {
+          "title": "Suns star Devin Booker\u2019s message to \u2018my favorite rookie\u2019 Darryn Peterson on signed jersey",
+          "source": "ClutchPoints",
+          "link": "https://clutchpoints.com/nba/phoenix-suns/suns-news-devin-bookers-message-to-my-favorite-rookie-darryn-peterson-on-signed-jersey",
+          "published": "2026-11-23T05:24:54Z"
+        },
+        {
+          "title": "NBA fans love Steph Curry\u2019s reaction to Draymond Green\u2019s three-point barrage after social media spat",
+          "source": "HITC - Football, Gaming, Movies, TV, Music",
+          "link": "https://www.hitc.com/nba-fans-love-steph-currys-reaction-to-draymond-greens-three-point-barrage-after-social-media-spat/",
+          "published": "2026-11-23T05:12:50Z"
+        },
+        {
+          "title": "Who plays on 'Monday Night Football' tonight? Time, TV channel, schedule, live stream for NFL Week 11 game",
+          "source": "Sporting News",
+          "link": "https://www.sportingnews.com/us/nfl/news/monday-night-football-time-channel-schedule-stream-nfl-week-11/c3362db968c4197296148b2e",
+          "published": "2026-11-23T05:10:01Z"
+        }
+      ]
+    },
+    {
+      "game": "Boston Celtics @ Washington Wizards",
+      "home_team": "Washington Wizards",
+      "away_team": "Boston Celtics",
+      "home_abbr": "WAS",
+      "away_abbr": "BOS",
+      "home_ml": "+351",
+      "away_ml": "-453",
+      "home_ml_raw": 351,
+      "away_ml_raw": -453,
+      "home_prob": 21.3,
+      "away_prob": 78.7,
+      "spread": "WAS +10.5",
+      "favorite": "Boston Celtics",
+      "pick": "Boston Celtics",
+      "pick_abbr": "BOS",
+      "moneyline": "-453",
+      "win_probability": 78.7,
+      "confidence": "HIGH",
+      "confidence_stars": "\u2605\u2605\u2605",
+      "commence_time": "2026-11-25T01:10:00Z",
+      "line_movement": {
+        "home": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "away": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "pick": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "snapshot_time": "\u2014"
+      },
+      "fatigue": {
+        "home": {
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
+          "last_game": "Nov 22",
+          "days_rest": 2,
+          "games_last_4d": 2,
+          "travel_miles": 597,
+          "travel_desc": "597 mi road trip",
+          "source": "ESPN Scoreboard API"
+        },
+        "away": {
+          "status": "TRAVEL",
+          "label": "Cross-country travel \ud83d\udfe3",
+          "battery": 50,
+          "last_game": "Nov 22",
+          "days_rest": 2,
+          "games_last_4d": 2,
+          "travel_miles": 2691,
+          "travel_desc": "2,691 mi road trip",
+          "source": "ESPN Scoreboard API"
+        }
+      },
+      "edge_factors": [
+        "\ud83d\udcca 57.4pt probability edge"
+      ],
+      "injury_notes": "Tristan Vukcevic (F); Reece Beekman (G); Justin Champagnie (F); Jamir Watkins (G)",
+      "sharp": {
+        "away_t": null,
+        "home_t": null,
+        "source": null,
+        "sharp_signal": null,
+        "sharp_label": "Pending \u2014 check closer to tip-off",
+        "rlm": false
+      },
+      "form": {
+        "home": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        },
+        "away": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        }
+      },
+      "h2h": {
+        "total_meetings": 0,
+        "home_wins": 0,
+        "away_wins": 0,
+        "meetings": [],
+        "source": "\u2014"
+      },
+      "briefing": {
+        "trend": "Boston Celtics hold a 78.7% edge.",
+        "matchup": "Both rosters appear healthy \u2014 clean line.",
+        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "injury_notes": "Tristan Vukcevic (F); Reece Beekman (G); Justin Champagnie (F); Jamir Watkins (G)"
+      },
+      "live": {
+        "status": "pre",
+        "status_detail": "Upcoming",
+        "period": 0,
+        "clock": "",
+        "home_score": 0,
+        "away_score": 0,
+        "spread_alert": null
+      },
+      "news": [
+        {
+          "title": "Vocal Green swats back at online critics, fuels Warriors' victory over Celtics",
+          "source": "www.espn.com - NBA",
+          "link": "https://www.espn.com/nba/story/_/id/50570668/vocal-green-defensive-stop-buzzer-fuels-warriors-win",
+          "published": "Mon, 23 Nov 2026 21:40:48 EST"
+        }
+      ]
+    },
+    {
+      "game": "Dallas Mavericks @ Denver Nuggets",
+      "home_team": "Denver Nuggets",
+      "away_team": "Dallas Mavericks",
+      "home_abbr": "DEN",
+      "away_abbr": "DAL",
+      "home_ml": "-322",
+      "away_ml": "+260",
+      "home_ml_raw": -322,
+      "away_ml_raw": 260,
+      "home_prob": 73.3,
+      "away_prob": 26.7,
+      "spread": "DEN -8.5",
+      "favorite": "Denver Nuggets",
+      "pick": "Denver Nuggets",
+      "pick_abbr": "DEN",
+      "moneyline": "-322",
+      "win_probability": 73.3,
+      "confidence": "HIGH",
+      "confidence_stars": "\u2605\u2605\u2605",
+      "commence_time": "2026-11-25T03:10:00Z",
+      "line_movement": {
+        "home": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "away": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "pick": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "snapshot_time": "\u2014"
+      },
+      "fatigue": {
+        "home": {
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
+          "last_game": "Nov 22",
+          "days_rest": 2,
+          "games_last_4d": 2,
+          "travel_miles": 917,
+          "travel_desc": "917 mi road trip",
+          "source": "ESPN Scoreboard API"
+        },
+        "away": {
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
+          "last_game": "Nov 22",
           "days_rest": 2,
           "games_last_4d": 2,
           "travel_miles": 0,
@@ -1383,9 +486,9 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udd25 Sharp steam detected"
+        "\ud83d\udcca 46.6pt probability edge"
       ],
-      "injury_notes": "No key injuries.",
+      "injury_notes": "Tobi Lawal (F); P.J. Washington (F); Dereck Lively II (C); Sergio de Larrea (F)",
       "sharp": {
         "away_t": null,
         "home_t": null,
@@ -1420,10 +523,10 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "San Antonio Spurs hold a 82.3% edge.",
+        "trend": "Denver Nuggets hold a 73.3% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -484 to -597 (113pt move) \u2014 heavy professional action on San Antonio Spurs.",
-        "injury_notes": "No key injuries."
+        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "injury_notes": "Tobi Lawal (F); P.J. Washington (F); Dereck Lively II (C); Sergio de Larrea (F)"
       },
       "live": {
         "status": "pre",
@@ -1436,66 +539,477 @@
       },
       "news": [
         {
-          "title": "GTA 6 drew a mammoth 61% of active U.S. PS5 players on launch day, averaging more than eight hours per player",
-          "source": "Notebookcheck.net",
-          "link": "https://www.notebookcheck.net/GTA-6-drew-a-mammoth-61-of-active-U-S-PS5-players-on-launch-day-averaging-more-than-eight-hours-per-player.1456846.0.html",
-          "published": "2026-11-22T22:23:00Z"
+          "title": "Suns star Devin Booker\u2019s message to \u2018my favorite rookie\u2019 Darryn Peterson on signed jersey",
+          "source": "ClutchPoints",
+          "link": "https://clutchpoints.com/nba/phoenix-suns/suns-news-devin-bookers-message-to-my-favorite-rookie-darryn-peterson-on-signed-jersey",
+          "published": "2026-11-23T05:24:54Z"
         },
         {
-          "title": "Shai-Gilgeous Alexander, Giannis Antetokounmpo sit out Heat's victory over Thunder",
-          "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/nba/breaking-news/article/shai-gilgeous-alexander-giannis-antetokounmpo-sit-out-heats-victory-over-thunder-020641012.html",
-          "published": "2026-11-22T22:12:02Z"
+          "title": "NBA fans love Steph Curry\u2019s reaction to Draymond Green\u2019s three-point barrage after social media spat",
+          "source": "HITC - Football, Gaming, Movies, TV, Music",
+          "link": "https://www.hitc.com/nba-fans-love-steph-currys-reaction-to-draymond-greens-three-point-barrage-after-social-media-spat/",
+          "published": "2026-11-23T05:12:50Z"
         },
         {
-          "title": "Lakers Sunday Report: Austin Reaves practices fully, Luka Don\u010di\u0107 makes NBA history",
-          "source": "Thesportingtribune.com",
-          "link": "https://www.thesportingtribune.com/2026/11/22/lakers-sunday-report-austin-reaves-practices-fully-luka-doncic-makes-nba-history",
-          "published": "2026-11-22T22:04:02Z"
+          "title": "Who plays on 'Monday Night Football' tonight? Time, TV channel, schedule, live stream for NFL Week 11 game",
+          "source": "Sporting News",
+          "link": "https://www.sportingnews.com/us/nfl/news/monday-night-football-time-channel-schedule-stream-nfl-week-11/c3362db968c4197296148b2e",
+          "published": "2026-11-23T05:10:01Z"
+        }
+      ]
+    },
+    {
+      "game": "Miami Heat @ Philadelphia 76ers",
+      "home_team": "Philadelphia 76ers",
+      "away_team": "Miami Heat",
+      "home_abbr": "PHI",
+      "away_abbr": "MIA",
+      "home_ml": "N/A",
+      "away_ml": "N/A",
+      "home_ml_raw": null,
+      "away_ml_raw": null,
+      "home_prob": 50.0,
+      "away_prob": 50.0,
+      "spread": "N/A",
+      "favorite": "Philadelphia 76ers",
+      "pick": "Philadelphia 76ers",
+      "pick_abbr": "PHI",
+      "moneyline": "N/A",
+      "win_probability": 50.0,
+      "confidence": "LOW",
+      "confidence_stars": "\u2605\u2606\u2606",
+      "commence_time": "2026-11-25T22:10:00Z",
+      "line_movement": {
+        "home": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "away": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "pick": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "snapshot_time": "\u2014"
+      },
+      "fatigue": {
+        "home": {
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Nov 23",
+          "days_rest": 1,
+          "games_last_4d": 2,
+          "travel_miles": 0,
+          "travel_desc": "",
+          "source": "ESPN Scoreboard API"
+        },
+        "away": {
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
+          "last_game": "Nov 22",
+          "days_rest": 2,
+          "games_last_4d": 1,
+          "travel_miles": 0,
+          "travel_desc": "",
+          "source": "ESPN Scoreboard API"
+        }
+      },
+      "edge_factors": [
+        "\ud83d\udcca 0.0pt probability edge"
+      ],
+      "injury_notes": "Joel Embiid (C); Ariel Hukporti (C); Giannis Antetokounmpo (F)",
+      "sharp": {
+        "away_t": null,
+        "home_t": null,
+        "source": null,
+        "sharp_signal": null,
+        "sharp_label": "Pending \u2014 check closer to tip-off",
+        "rlm": false
+      },
+      "form": {
+        "home": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        },
+        "away": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        }
+      },
+      "h2h": {
+        "total_meetings": 0,
+        "home_wins": 0,
+        "away_wins": 0,
+        "meetings": [],
+        "source": "\u2014"
+      },
+      "briefing": {
+        "trend": "PHI on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "matchup": "Both rosters appear healthy \u2014 clean line.",
+        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "injury_notes": "Joel Embiid (C); Ariel Hukporti (C); Giannis Antetokounmpo (F)"
+      },
+      "live": {
+        "status": "pre",
+        "status_detail": "Upcoming",
+        "period": 0,
+        "clock": "",
+        "home_score": 0,
+        "away_score": 0,
+        "spread_alert": null
+      },
+      "news": [
+        {
+          "title": "76ers' Embiid to miss game vs. Trail Blazers with illness",
+          "source": "www.espn.com - NBA",
+          "link": "https://www.espn.com/nba/story/_/id/50577428/76ers-rule-joel-embiid-vs-trail-blazers-illness",
+          "published": "Mon, 23 Nov 2026 21:40:48 EST"
+        }
+      ]
+    },
+    {
+      "game": "Cleveland Cavaliers @ New York Knicks",
+      "home_team": "New York Knicks",
+      "away_team": "Cleveland Cavaliers",
+      "home_abbr": "NYK",
+      "away_abbr": "CLE",
+      "home_ml": "N/A",
+      "away_ml": "N/A",
+      "home_ml_raw": null,
+      "away_ml_raw": null,
+      "home_prob": 50.0,
+      "away_prob": 50.0,
+      "spread": "N/A",
+      "favorite": "New York Knicks",
+      "pick": "New York Knicks",
+      "pick_abbr": "NYK",
+      "moneyline": "N/A",
+      "win_probability": 50.0,
+      "confidence": "LOW",
+      "confidence_stars": "\u2605\u2606\u2606",
+      "commence_time": "2026-11-26T00:40:00Z",
+      "line_movement": {
+        "home": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "away": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "pick": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "snapshot_time": "\u2014"
+      },
+      "fatigue": {
+        "home": {
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
+          "last_game": "Nov 22",
+          "days_rest": 2,
+          "games_last_4d": 2,
+          "travel_miles": 0,
+          "travel_desc": "",
+          "source": "ESPN Scoreboard API"
+        },
+        "away": {
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Nov 23",
+          "days_rest": 1,
+          "games_last_4d": 2,
+          "travel_miles": 310,
+          "travel_desc": "310 mi road trip",
+          "source": "ESPN Scoreboard API"
+        }
+      },
+      "edge_factors": [
+        "\ud83d\udca4 CLE fatigued (B2B) \u2014 source: ESPN"
+      ],
+      "injury_notes": "Miles McBride (G); OG Anunoby (F); Jordan Clarkson (G); Nae'Qwan Tomlin (F)",
+      "sharp": {
+        "away_t": null,
+        "home_t": null,
+        "source": null,
+        "sharp_signal": null,
+        "sharp_label": "Pending \u2014 check closer to tip-off",
+        "rlm": false
+      },
+      "form": {
+        "home": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        },
+        "away": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        }
+      },
+      "h2h": {
+        "total_meetings": 0,
+        "home_wins": 0,
+        "away_wins": 0,
+        "meetings": [],
+        "source": "\u2014"
+      },
+      "briefing": {
+        "trend": "CLE on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "matchup": "Both rosters appear healthy \u2014 clean line.",
+        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "injury_notes": "Miles McBride (G); OG Anunoby (F); Jordan Clarkson (G); Nae'Qwan Tomlin (F)"
+      },
+      "live": {
+        "status": "pre",
+        "status_detail": "Upcoming",
+        "period": 0,
+        "clock": "",
+        "home_score": 0,
+        "away_score": 0,
+        "spread_alert": null
+      },
+      "news": [
+        {
+          "title": "Cleveland Cavaliers become first NBA team to practice at Obama Presidential Center",
+          "source": "www.espn.com - NBA",
+          "link": "https://www.espn.com/nba/story/_/id/50575533/cleveland-cavaliers-obama-presidential-center",
+          "published": "Mon, 23 Nov 2026 18:09:01 EST"
+        }
+      ]
+    },
+    {
+      "game": "Minnesota Timberwolves @ Oklahoma City Thunder",
+      "home_team": "Oklahoma City Thunder",
+      "away_team": "Minnesota Timberwolves",
+      "home_abbr": "OKC",
+      "away_abbr": "MIN",
+      "home_ml": "N/A",
+      "away_ml": "N/A",
+      "home_ml_raw": null,
+      "away_ml_raw": null,
+      "home_prob": 50.0,
+      "away_prob": 50.0,
+      "spread": "N/A",
+      "favorite": "Oklahoma City Thunder",
+      "pick": "Oklahoma City Thunder",
+      "pick_abbr": "OKC",
+      "moneyline": "N/A",
+      "win_probability": 50.0,
+      "confidence": "LOW",
+      "confidence_stars": "\u2605\u2606\u2606",
+      "commence_time": "2026-11-26T00:40:00Z",
+      "line_movement": {
+        "home": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "away": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "pick": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "snapshot_time": "\u2014"
+      },
+      "fatigue": {
+        "home": {
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Nov 23",
+          "days_rest": 1,
+          "games_last_4d": 3,
+          "travel_miles": 688,
+          "travel_desc": "688 mi road trip",
+          "source": "ESPN Scoreboard API"
+        },
+        "away": {
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Nov 23",
+          "days_rest": 1,
+          "games_last_4d": 2,
+          "travel_miles": 0,
+          "travel_desc": "",
+          "source": "ESPN Scoreboard API"
+        }
+      },
+      "edge_factors": [
+        "\ud83d\udca4 MIN fatigued (B2B) \u2014 source: ESPN"
+      ],
+      "injury_notes": "Jaylin Williams (F); Nikola Topic (G); Aday Mara (C); Jalen Williams (G)",
+      "sharp": {
+        "away_t": null,
+        "home_t": null,
+        "source": null,
+        "sharp_signal": null,
+        "sharp_label": "Pending \u2014 check closer to tip-off",
+        "rlm": false
+      },
+      "form": {
+        "home": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        },
+        "away": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        }
+      },
+      "h2h": {
+        "total_meetings": 0,
+        "home_wins": 0,
+        "away_wins": 0,
+        "meetings": [],
+        "source": "\u2014"
+      },
+      "briefing": {
+        "trend": "OKC on Back-to-Back \u26a0\ufe0f per ESPN schedule data. MIN on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "matchup": "Both rosters appear healthy \u2014 clean line.",
+        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "injury_notes": "Jaylin Williams (F); Nikola Topic (G); Aday Mara (C); Jalen Williams (G)"
+      },
+      "live": {
+        "status": "pre",
+        "status_detail": "Upcoming",
+        "period": 0,
+        "clock": "",
+        "home_score": 0,
+        "away_score": 0,
+        "spread_alert": null
+      },
+      "news": [
+        {
+          "title": "Suns star Devin Booker\u2019s message to \u2018my favorite rookie\u2019 Darryn Peterson on signed jersey",
+          "source": "ClutchPoints",
+          "link": "https://clutchpoints.com/nba/phoenix-suns/suns-news-devin-bookers-message-to-my-favorite-rookie-darryn-peterson-on-signed-jersey",
+          "published": "2026-11-23T05:24:54Z"
+        },
+        {
+          "title": "NBA fans love Steph Curry\u2019s reaction to Draymond Green\u2019s three-point barrage after social media spat",
+          "source": "HITC - Football, Gaming, Movies, TV, Music",
+          "link": "https://www.hitc.com/nba-fans-love-steph-currys-reaction-to-draymond-greens-three-point-barrage-after-social-media-spat/",
+          "published": "2026-11-23T05:12:50Z"
+        },
+        {
+          "title": "Who plays on 'Monday Night Football' tonight? Time, TV channel, schedule, live stream for NFL Week 11 game",
+          "source": "Sporting News",
+          "link": "https://www.sportingnews.com/us/nfl/news/monday-night-football-time-channel-schedule-stream-nfl-week-11/c3362db968c4197296148b2e",
+          "published": "2026-11-23T05:10:01Z"
         }
       ]
     }
   ],
   "track_record": {
     "MEDIUM": {
-      "wins": 67,
-      "losses": 25,
-      "total": 92,
-      "win_pct": 72.8,
-      "roi": 8.6,
-      "profit": 793.75
+      "wins": 68,
+      "losses": 27,
+      "total": 95,
+      "win_pct": 71.6,
+      "roi": 6.9,
+      "profit": 655.48
     },
     "HIGH": {
-      "wins": 57,
-      "losses": 11,
-      "total": 68,
-      "win_pct": 83.8,
-      "roi": 0.7,
-      "profit": 47.91
+      "wins": 59,
+      "losses": 12,
+      "total": 71,
+      "win_pct": 83.1,
+      "roi": -0.3,
+      "profit": -23.51
     },
     "LOW": {
-      "wins": 27,
+      "wins": 29,
       "losses": 21,
-      "total": 48,
-      "win_pct": 56.2,
-      "roi": 2.9,
-      "profit": 138.48
+      "total": 50,
+      "win_pct": 58.0,
+      "roi": 6.1,
+      "profit": 305.15
     },
     "overall_7d": {
-      "wins": 27,
-      "losses": 11,
-      "total": 38,
-      "win_pct": 71.1,
-      "roi": 2.7,
-      "profit": 100.76
+      "wins": 31,
+      "losses": 12,
+      "total": 43,
+      "win_pct": 72.1,
+      "roi": 5.3,
+      "profit": 226.09
     },
     "overall_30d": {
       "wins": 137,
-      "losses": 48,
-      "total": 185,
-      "win_pct": 74.1,
-      "roi": 6.6,
-      "profit": 1222.85
+      "losses": 49,
+      "total": 186,
+      "win_pct": 73.7,
+      "roi": 6.2,
+      "profit": 1145.53
     }
   }
 }
