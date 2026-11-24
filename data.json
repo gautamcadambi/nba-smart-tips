@@ -1,187 +1,54 @@
 {
-  "last_updated": "November 24, 2026 at 05:45 AM UTC",
+  "last_updated": "November 24, 2026 at 09:09 AM UTC",
   "total_games": 7,
   "games": [
-    {
-      "game": "Utah Jazz @ Los Angeles Lakers",
-      "home_team": "Los Angeles Lakers",
-      "away_team": "Utah Jazz",
-      "home_abbr": "LAL",
-      "away_abbr": "UTA",
-      "home_ml": "N/A",
-      "away_ml": "N/A",
-      "home_ml_raw": null,
-      "away_ml_raw": null,
-      "home_prob": 50.0,
-      "away_prob": 50.0,
-      "spread": "LAL -15.5",
-      "favorite": "Los Angeles Lakers",
-      "pick": "Los Angeles Lakers",
-      "pick_abbr": "LAL",
-      "moneyline": "N/A",
-      "win_probability": 50.0,
-      "confidence": "LOW",
-      "confidence_stars": "\u2605\u2606\u2606",
-      "commence_time": "2026-11-24T03:11:00Z",
-      "line_movement": {
-        "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
-        },
-        "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
-        },
-        "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
-        },
-        "snapshot_time": "November 23, 2026 at 10:27 PM UTC"
-      },
-      "fatigue": {
-        "home": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
-          "last_game": "Nov 23",
-          "days_rest": 1,
-          "games_last_4d": 2,
-          "travel_miles": 0,
-          "travel_desc": "",
-          "source": "ESPN Scoreboard API"
-        },
-        "away": {
-          "status": "FRESH",
-          "label": "Well rested \u2705",
-          "battery": 100,
-          "last_game": "\u2014",
-          "days_rest": 99,
-          "games_last_4d": 0,
-          "travel_miles": 0,
-          "travel_desc": "",
-          "source": "ESPN Scoreboard API"
-        }
-      },
-      "edge_factors": [
-        "\ud83d\udcca 0.0pt probability edge"
-      ],
-      "injury_notes": "Austin Reaves (G); Jaxson Hayes (C); Jusuf Nurkic (C); Lauri Markkanen (F)",
-      "sharp": {
-        "away_t": null,
-        "home_t": null,
-        "source": null,
-        "sharp_signal": null,
-        "sharp_label": "Pending \u2014 check closer to tip-off",
-        "rlm": false
-      },
-      "form": {
-        "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        },
-        "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        }
-      },
-      "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
-      },
-      "briefing": {
-        "trend": "LAL on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
-        "injury_notes": "Austin Reaves (G); Jaxson Hayes (C); Jusuf Nurkic (C); Lauri Markkanen (F)"
-      },
-      "live": {
-        "status": "pre",
-        "status_detail": "Upcoming",
-        "period": 0,
-        "clock": "",
-        "home_score": 0,
-        "away_score": 0,
-        "spread_alert": null
-      },
-      "news": [
-        {
-          "title": "The hidden danger behind Luka Doncic's historic start\ufeff",
-          "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/nba/story/_/id/50522350/luka-doncic-lakers-offense-usage-rate",
-          "published": "Thu, 19 Nov 2026 08:46:53 EST"
-        }
-      ]
-    },
     {
       "game": "Detroit Pistons @ Orlando Magic",
       "home_team": "Orlando Magic",
       "away_team": "Detroit Pistons",
       "home_abbr": "ORL",
       "away_abbr": "DET",
-      "home_ml": "+110",
-      "away_ml": "-130",
-      "home_ml_raw": 110,
-      "away_ml_raw": -130,
-      "home_prob": 45.7,
-      "away_prob": 54.3,
-      "spread": "ORL +1.5",
+      "home_ml": "+114",
+      "away_ml": "-135",
+      "home_ml_raw": 114,
+      "away_ml_raw": -135,
+      "home_prob": 44.9,
+      "away_prob": 55.1,
+      "spread": "ORL +2.5",
       "favorite": "Detroit Pistons",
       "pick": "Detroit Pistons",
       "pick_abbr": "DET",
-      "moneyline": "-130",
-      "win_probability": 54.3,
+      "moneyline": "-135",
+      "win_probability": 55.1,
       "confidence": "LOW",
       "confidence_stars": "\u2605\u2606\u2606",
       "commence_time": "2026-11-25T00:11:00Z",
       "line_movement": {
         "home": {
-          "direction": "none",
-          "points_moved": 0,
+          "direction": "longer",
+          "points_moved": 4,
           "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "label": "\ud83d\udd34 +114 \u2190 +110",
+          "old_ml": "+110",
+          "new_ml": "+114"
         },
         "away": {
-          "direction": "none",
-          "points_moved": 0,
+          "direction": "shorter",
+          "points_moved": 5,
           "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "label": "\ud83d\udfe2 -135 \u2190 -130",
+          "old_ml": "-130",
+          "new_ml": "-135"
         },
         "pick": {
-          "direction": "none",
-          "points_moved": 0,
+          "direction": "shorter",
+          "points_moved": 5,
           "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "label": "\ud83d\udfe2 -135 \u2190 -130",
+          "old_ml": "-130",
+          "new_ml": "-135"
         },
-        "snapshot_time": "\u2014"
+        "snapshot_time": "November 24, 2026 at 05:45 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -208,9 +75,9 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udcca 8.6pt probability edge"
+        "\ud83d\udcca 10.2pt probability edge"
       ],
-      "injury_notes": "Jonathan Isaac (F); Izaiyah Nelson (F); Noah Penda (F); Paolo Banchero (F)",
+      "injury_notes": "No key injuries.",
       "sharp": {
         "away_t": null,
         "home_t": null,
@@ -245,10 +112,10 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "Detroit Pistons hold a 54.3% edge.",
+        "trend": "Detroit Pistons hold a 55.1% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
-        "injury_notes": "Jonathan Isaac (F); Izaiyah Nelson (F); Noah Penda (F); Paolo Banchero (F)"
+        "steam": "Line moved -130\u2192-135 (5pts). Pending \u2014 check closer to tip-off",
+        "injury_notes": "No key injuries."
       },
       "live": {
         "status": "pre",
@@ -261,22 +128,22 @@
       },
       "news": [
         {
-          "title": "Suns star Devin Booker\u2019s message to \u2018my favorite rookie\u2019 Darryn Peterson on signed jersey",
-          "source": "ClutchPoints",
-          "link": "https://clutchpoints.com/nba/phoenix-suns/suns-news-devin-bookers-message-to-my-favorite-rookie-darryn-peterson-on-signed-jersey",
-          "published": "2026-11-23T05:24:54Z"
+          "title": "Amazon\u2019s Alan Moss on How Black Friday Sports Lineup, Shoppable Ads Are Winning Advertisers",
+          "source": "Adweek",
+          "link": "https://www.adweek.com/performance-marketing/amazons-alan-moss-on-how-black-friday-sports-lineup-shoppable-ads-are-winning-advertisers/",
+          "published": "2026-11-23T09:00:00Z"
         },
         {
-          "title": "NBA fans love Steph Curry\u2019s reaction to Draymond Green\u2019s three-point barrage after social media spat",
-          "source": "HITC - Football, Gaming, Movies, TV, Music",
-          "link": "https://www.hitc.com/nba-fans-love-steph-currys-reaction-to-draymond-greens-three-point-barrage-after-social-media-spat/",
-          "published": "2026-11-23T05:12:50Z"
+          "title": "NBA\uff0f\u6253\u7403\u5674\u978b\uff1f\u71b1\u706bK\u6e6f\u8173\u4e0b\u4e2d\u570b\u7403\u978b\u978b\u588a\u5c37\u5c2c\u6389\u5728\u5834\u4e0a",
+          "source": "Yahoo Entertainment",
+          "link": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_3c022761-8f51-4028-93be-4cf48c9c40bc",
+          "published": "2026-11-23T08:38:00Z"
         },
         {
-          "title": "Who plays on 'Monday Night Football' tonight? Time, TV channel, schedule, live stream for NFL Week 11 game",
-          "source": "Sporting News",
-          "link": "https://www.sportingnews.com/us/nfl/news/monday-night-football-time-channel-schedule-stream-nfl-week-11/c3362db968c4197296148b2e",
-          "published": "2026-11-23T05:10:01Z"
+          "title": "Nike Black Friday Sale at Fanatics: Up to an extra 50% off + free shipping",
+          "source": "Dealnews.com",
+          "link": "https://www.dealnews.com/Nike-Black-Friday-Sale-at-Fanatics-Up-to-an-extra-50-off-free-shipping/22424198.html",
+          "published": "2026-11-23T08:37:12Z"
         }
       ]
     },
@@ -306,27 +173,27 @@
           "direction": "none",
           "points_moved": 0,
           "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "label": "No movement",
+          "old_ml": "+351",
+          "new_ml": "+351"
         },
         "away": {
           "direction": "none",
           "points_moved": 0,
           "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "label": "No movement",
+          "old_ml": "-453",
+          "new_ml": "-453"
         },
         "pick": {
           "direction": "none",
           "points_moved": 0,
           "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "label": "No movement",
+          "old_ml": "-453",
+          "new_ml": "-453"
         },
-        "snapshot_time": "\u2014"
+        "snapshot_time": "November 24, 2026 at 05:45 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -355,7 +222,7 @@
       "edge_factors": [
         "\ud83d\udcca 57.4pt probability edge"
       ],
-      "injury_notes": "Tristan Vukcevic (F); Reece Beekman (G); Justin Champagnie (F); Jamir Watkins (G)",
+      "injury_notes": "No key injuries.",
       "sharp": {
         "away_t": null,
         "home_t": null,
@@ -393,7 +260,7 @@
         "trend": "Boston Celtics hold a 78.7% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
         "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
-        "injury_notes": "Tristan Vukcevic (F); Reece Beekman (G); Justin Champagnie (F); Jamir Watkins (G)"
+        "injury_notes": "No key injuries."
       },
       "live": {
         "status": "pre",
@@ -406,10 +273,22 @@
       },
       "news": [
         {
-          "title": "Vocal Green swats back at online critics, fuels Warriors' victory over Celtics",
-          "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/nba/story/_/id/50570668/vocal-green-defensive-stop-buzzer-fuels-warriors-win",
-          "published": "Mon, 23 Nov 2026 21:40:48 EST"
+          "title": "Amazon\u2019s Alan Moss on How Black Friday Sports Lineup, Shoppable Ads Are Winning Advertisers",
+          "source": "Adweek",
+          "link": "https://www.adweek.com/performance-marketing/amazons-alan-moss-on-how-black-friday-sports-lineup-shoppable-ads-are-winning-advertisers/",
+          "published": "2026-11-23T09:00:00Z"
+        },
+        {
+          "title": "NBA\uff0f\u6253\u7403\u5674\u978b\uff1f\u71b1\u706bK\u6e6f\u8173\u4e0b\u4e2d\u570b\u7403\u978b\u978b\u588a\u5c37\u5c2c\u6389\u5728\u5834\u4e0a",
+          "source": "Yahoo Entertainment",
+          "link": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_3c022761-8f51-4028-93be-4cf48c9c40bc",
+          "published": "2026-11-23T08:38:00Z"
+        },
+        {
+          "title": "Nike Black Friday Sale at Fanatics: Up to an extra 50% off + free shipping",
+          "source": "Dealnews.com",
+          "link": "https://www.dealnews.com/Nike-Black-Friday-Sale-at-Fanatics-Up-to-an-extra-50-off-free-shipping/22424198.html",
+          "published": "2026-11-23T08:37:12Z"
         }
       ]
     },
@@ -419,47 +298,47 @@
       "away_team": "Dallas Mavericks",
       "home_abbr": "DEN",
       "away_abbr": "DAL",
-      "home_ml": "-322",
-      "away_ml": "+260",
-      "home_ml_raw": -322,
-      "away_ml_raw": 260,
-      "home_prob": 73.3,
-      "away_prob": 26.7,
-      "spread": "DEN -8.5",
+      "home_ml": "-324",
+      "away_ml": "+261",
+      "home_ml_raw": -324,
+      "away_ml_raw": 261,
+      "home_prob": 73.4,
+      "away_prob": 26.6,
+      "spread": "DEN -7.5",
       "favorite": "Denver Nuggets",
       "pick": "Denver Nuggets",
       "pick_abbr": "DEN",
-      "moneyline": "-322",
-      "win_probability": 73.3,
+      "moneyline": "-324",
+      "win_probability": 73.4,
       "confidence": "HIGH",
       "confidence_stars": "\u2605\u2605\u2605",
       "commence_time": "2026-11-25T03:10:00Z",
       "line_movement": {
         "home": {
-          "direction": "none",
-          "points_moved": 0,
+          "direction": "shorter",
+          "points_moved": 2,
           "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "label": "\ud83d\udfe2 -324 \u2190 -322",
+          "old_ml": "-322",
+          "new_ml": "-324"
         },
         "away": {
-          "direction": "none",
-          "points_moved": 0,
+          "direction": "longer",
+          "points_moved": 1,
           "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "label": "\ud83d\udd34 +261 \u2190 +260",
+          "old_ml": "+260",
+          "new_ml": "+261"
         },
         "pick": {
-          "direction": "none",
-          "points_moved": 0,
+          "direction": "shorter",
+          "points_moved": 2,
           "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "label": "\ud83d\udfe2 -324 \u2190 -322",
+          "old_ml": "-322",
+          "new_ml": "-324"
         },
-        "snapshot_time": "\u2014"
+        "snapshot_time": "November 24, 2026 at 05:45 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -486,9 +365,9 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udcca 46.6pt probability edge"
+        "\ud83d\udcca 46.8pt probability edge"
       ],
-      "injury_notes": "Tobi Lawal (F); P.J. Washington (F); Dereck Lively II (C); Sergio de Larrea (F)",
+      "injury_notes": "No key injuries.",
       "sharp": {
         "away_t": null,
         "home_t": null,
@@ -523,10 +402,10 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "Denver Nuggets hold a 73.3% edge.",
+        "trend": "Denver Nuggets hold a 73.4% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
-        "injury_notes": "Tobi Lawal (F); P.J. Washington (F); Dereck Lively II (C); Sergio de Larrea (F)"
+        "steam": "Line moved -322\u2192-324 (2pts). Pending \u2014 check closer to tip-off",
+        "injury_notes": "No key injuries."
       },
       "live": {
         "status": "pre",
@@ -539,22 +418,22 @@
       },
       "news": [
         {
-          "title": "Suns star Devin Booker\u2019s message to \u2018my favorite rookie\u2019 Darryn Peterson on signed jersey",
-          "source": "ClutchPoints",
-          "link": "https://clutchpoints.com/nba/phoenix-suns/suns-news-devin-bookers-message-to-my-favorite-rookie-darryn-peterson-on-signed-jersey",
-          "published": "2026-11-23T05:24:54Z"
+          "title": "Amazon\u2019s Alan Moss on How Black Friday Sports Lineup, Shoppable Ads Are Winning Advertisers",
+          "source": "Adweek",
+          "link": "https://www.adweek.com/performance-marketing/amazons-alan-moss-on-how-black-friday-sports-lineup-shoppable-ads-are-winning-advertisers/",
+          "published": "2026-11-23T09:00:00Z"
         },
         {
-          "title": "NBA fans love Steph Curry\u2019s reaction to Draymond Green\u2019s three-point barrage after social media spat",
-          "source": "HITC - Football, Gaming, Movies, TV, Music",
-          "link": "https://www.hitc.com/nba-fans-love-steph-currys-reaction-to-draymond-greens-three-point-barrage-after-social-media-spat/",
-          "published": "2026-11-23T05:12:50Z"
+          "title": "NBA\uff0f\u6253\u7403\u5674\u978b\uff1f\u71b1\u706bK\u6e6f\u8173\u4e0b\u4e2d\u570b\u7403\u978b\u978b\u588a\u5c37\u5c2c\u6389\u5728\u5834\u4e0a",
+          "source": "Yahoo Entertainment",
+          "link": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_3c022761-8f51-4028-93be-4cf48c9c40bc",
+          "published": "2026-11-23T08:38:00Z"
         },
         {
-          "title": "Who plays on 'Monday Night Football' tonight? Time, TV channel, schedule, live stream for NFL Week 11 game",
-          "source": "Sporting News",
-          "link": "https://www.sportingnews.com/us/nfl/news/monday-night-football-time-channel-schedule-stream-nfl-week-11/c3362db968c4197296148b2e",
-          "published": "2026-11-23T05:10:01Z"
+          "title": "Nike Black Friday Sale at Fanatics: Up to an extra 50% off + free shipping",
+          "source": "Dealnews.com",
+          "link": "https://www.dealnews.com/Nike-Black-Friday-Sale-at-Fanatics-Up-to-an-extra-50-off-free-shipping/22424198.html",
+          "published": "2026-11-23T08:37:12Z"
         }
       ]
     },
@@ -604,7 +483,7 @@
           "old_ml": "\u2014",
           "new_ml": "\u2014"
         },
-        "snapshot_time": "\u2014"
+        "snapshot_time": "November 24, 2026 at 05:45 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -633,7 +512,7 @@
       "edge_factors": [
         "\ud83d\udcca 0.0pt probability edge"
       ],
-      "injury_notes": "Joel Embiid (C); Ariel Hukporti (C); Giannis Antetokounmpo (F)",
+      "injury_notes": "No key injuries.",
       "sharp": {
         "away_t": null,
         "home_t": null,
@@ -671,7 +550,7 @@
         "trend": "PHI on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
         "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
-        "injury_notes": "Joel Embiid (C); Ariel Hukporti (C); Giannis Antetokounmpo (F)"
+        "injury_notes": "No key injuries."
       },
       "live": {
         "status": "pre",
@@ -684,10 +563,22 @@
       },
       "news": [
         {
-          "title": "76ers' Embiid to miss game vs. Trail Blazers with illness",
-          "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/nba/story/_/id/50577428/76ers-rule-joel-embiid-vs-trail-blazers-illness",
-          "published": "Mon, 23 Nov 2026 21:40:48 EST"
+          "title": "Amazon\u2019s Alan Moss on How Black Friday Sports Lineup, Shoppable Ads Are Winning Advertisers",
+          "source": "Adweek",
+          "link": "https://www.adweek.com/performance-marketing/amazons-alan-moss-on-how-black-friday-sports-lineup-shoppable-ads-are-winning-advertisers/",
+          "published": "2026-11-23T09:00:00Z"
+        },
+        {
+          "title": "NBA\uff0f\u6253\u7403\u5674\u978b\uff1f\u71b1\u706bK\u6e6f\u8173\u4e0b\u4e2d\u570b\u7403\u978b\u978b\u588a\u5c37\u5c2c\u6389\u5728\u5834\u4e0a",
+          "source": "Yahoo Entertainment",
+          "link": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_3c022761-8f51-4028-93be-4cf48c9c40bc",
+          "published": "2026-11-23T08:38:00Z"
+        },
+        {
+          "title": "Nike Black Friday Sale at Fanatics: Up to an extra 50% off + free shipping",
+          "source": "Dealnews.com",
+          "link": "https://www.dealnews.com/Nike-Black-Friday-Sale-at-Fanatics-Up-to-an-extra-50-off-free-shipping/22424198.html",
+          "published": "2026-11-23T08:37:12Z"
         }
       ]
     },
@@ -737,7 +628,7 @@
           "old_ml": "\u2014",
           "new_ml": "\u2014"
         },
-        "snapshot_time": "\u2014"
+        "snapshot_time": "November 24, 2026 at 05:45 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -766,7 +657,7 @@
       "edge_factors": [
         "\ud83d\udca4 CLE fatigued (B2B) \u2014 source: ESPN"
       ],
-      "injury_notes": "Miles McBride (G); OG Anunoby (F); Jordan Clarkson (G); Nae'Qwan Tomlin (F)",
+      "injury_notes": "No key injuries.",
       "sharp": {
         "away_t": null,
         "home_t": null,
@@ -804,7 +695,7 @@
         "trend": "CLE on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
         "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
-        "injury_notes": "Miles McBride (G); OG Anunoby (F); Jordan Clarkson (G); Nae'Qwan Tomlin (F)"
+        "injury_notes": "No key injuries."
       },
       "live": {
         "status": "pre",
@@ -817,10 +708,22 @@
       },
       "news": [
         {
-          "title": "Cleveland Cavaliers become first NBA team to practice at Obama Presidential Center",
-          "source": "www.espn.com - NBA",
-          "link": "https://www.espn.com/nba/story/_/id/50575533/cleveland-cavaliers-obama-presidential-center",
-          "published": "Mon, 23 Nov 2026 18:09:01 EST"
+          "title": "Amazon\u2019s Alan Moss on How Black Friday Sports Lineup, Shoppable Ads Are Winning Advertisers",
+          "source": "Adweek",
+          "link": "https://www.adweek.com/performance-marketing/amazons-alan-moss-on-how-black-friday-sports-lineup-shoppable-ads-are-winning-advertisers/",
+          "published": "2026-11-23T09:00:00Z"
+        },
+        {
+          "title": "NBA\uff0f\u6253\u7403\u5674\u978b\uff1f\u71b1\u706bK\u6e6f\u8173\u4e0b\u4e2d\u570b\u7403\u978b\u978b\u588a\u5c37\u5c2c\u6389\u5728\u5834\u4e0a",
+          "source": "Yahoo Entertainment",
+          "link": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_3c022761-8f51-4028-93be-4cf48c9c40bc",
+          "published": "2026-11-23T08:38:00Z"
+        },
+        {
+          "title": "Nike Black Friday Sale at Fanatics: Up to an extra 50% off + free shipping",
+          "source": "Dealnews.com",
+          "link": "https://www.dealnews.com/Nike-Black-Friday-Sale-at-Fanatics-Up-to-an-extra-50-off-free-shipping/22424198.html",
+          "published": "2026-11-23T08:37:12Z"
         }
       ]
     },
@@ -870,7 +773,7 @@
           "old_ml": "\u2014",
           "new_ml": "\u2014"
         },
-        "snapshot_time": "\u2014"
+        "snapshot_time": "November 24, 2026 at 05:45 AM UTC"
       },
       "fatigue": {
         "home": {
@@ -899,7 +802,7 @@
       "edge_factors": [
         "\ud83d\udca4 MIN fatigued (B2B) \u2014 source: ESPN"
       ],
-      "injury_notes": "Jaylin Williams (F); Nikola Topic (G); Aday Mara (C); Jalen Williams (G)",
+      "injury_notes": "No key injuries.",
       "sharp": {
         "away_t": null,
         "home_t": null,
@@ -937,7 +840,7 @@
         "trend": "OKC on Back-to-Back \u26a0\ufe0f per ESPN schedule data. MIN on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
         "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
-        "injury_notes": "Jaylin Williams (F); Nikola Topic (G); Aday Mara (C); Jalen Williams (G)"
+        "injury_notes": "No key injuries."
       },
       "live": {
         "status": "pre",
@@ -950,22 +853,167 @@
       },
       "news": [
         {
-          "title": "Suns star Devin Booker\u2019s message to \u2018my favorite rookie\u2019 Darryn Peterson on signed jersey",
-          "source": "ClutchPoints",
-          "link": "https://clutchpoints.com/nba/phoenix-suns/suns-news-devin-bookers-message-to-my-favorite-rookie-darryn-peterson-on-signed-jersey",
-          "published": "2026-11-23T05:24:54Z"
+          "title": "Amazon\u2019s Alan Moss on How Black Friday Sports Lineup, Shoppable Ads Are Winning Advertisers",
+          "source": "Adweek",
+          "link": "https://www.adweek.com/performance-marketing/amazons-alan-moss-on-how-black-friday-sports-lineup-shoppable-ads-are-winning-advertisers/",
+          "published": "2026-11-23T09:00:00Z"
         },
         {
-          "title": "NBA fans love Steph Curry\u2019s reaction to Draymond Green\u2019s three-point barrage after social media spat",
-          "source": "HITC - Football, Gaming, Movies, TV, Music",
-          "link": "https://www.hitc.com/nba-fans-love-steph-currys-reaction-to-draymond-greens-three-point-barrage-after-social-media-spat/",
-          "published": "2026-11-23T05:12:50Z"
+          "title": "NBA\uff0f\u6253\u7403\u5674\u978b\uff1f\u71b1\u706bK\u6e6f\u8173\u4e0b\u4e2d\u570b\u7403\u978b\u978b\u588a\u5c37\u5c2c\u6389\u5728\u5834\u4e0a",
+          "source": "Yahoo Entertainment",
+          "link": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_3c022761-8f51-4028-93be-4cf48c9c40bc",
+          "published": "2026-11-23T08:38:00Z"
         },
         {
-          "title": "Who plays on 'Monday Night Football' tonight? Time, TV channel, schedule, live stream for NFL Week 11 game",
-          "source": "Sporting News",
-          "link": "https://www.sportingnews.com/us/nfl/news/monday-night-football-time-channel-schedule-stream-nfl-week-11/c3362db968c4197296148b2e",
-          "published": "2026-11-23T05:10:01Z"
+          "title": "Nike Black Friday Sale at Fanatics: Up to an extra 50% off + free shipping",
+          "source": "Dealnews.com",
+          "link": "https://www.dealnews.com/Nike-Black-Friday-Sale-at-Fanatics-Up-to-an-extra-50-off-free-shipping/22424198.html",
+          "published": "2026-11-23T08:37:12Z"
+        }
+      ]
+    },
+    {
+      "game": "Phoenix Suns @ Houston Rockets",
+      "home_team": "Houston Rockets",
+      "away_team": "Phoenix Suns",
+      "home_abbr": "HOU",
+      "away_abbr": "PHX",
+      "home_ml": "N/A",
+      "away_ml": "N/A",
+      "home_ml_raw": null,
+      "away_ml_raw": null,
+      "home_prob": 50.0,
+      "away_prob": 50.0,
+      "spread": "N/A",
+      "favorite": "Houston Rockets",
+      "pick": "Houston Rockets",
+      "pick_abbr": "HOU",
+      "moneyline": "N/A",
+      "win_probability": 50.0,
+      "confidence": "LOW",
+      "confidence_stars": "\u2605\u2606\u2606",
+      "commence_time": "2026-11-26T01:40:00Z",
+      "line_movement": {
+        "home": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "away": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "pick": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "snapshot_time": "\u2014"
+      },
+      "fatigue": {
+        "home": {
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Nov 23",
+          "days_rest": 1,
+          "games_last_4d": 2,
+          "travel_miles": 880,
+          "travel_desc": "880 mi road trip",
+          "source": "ESPN Scoreboard API"
+        },
+        "away": {
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Nov 23",
+          "days_rest": 1,
+          "games_last_4d": 2,
+          "travel_miles": 1312,
+          "travel_desc": "1,312 mi road trip",
+          "source": "ESPN Scoreboard API"
+        }
+      },
+      "edge_factors": [
+        "\ud83d\udca4 PHX fatigued (B2B) \u2014 source: ESPN"
+      ],
+      "injury_notes": "No key injuries.",
+      "sharp": {
+        "away_t": null,
+        "home_t": null,
+        "source": null,
+        "sharp_signal": null,
+        "sharp_label": "Pending \u2014 check closer to tip-off",
+        "rlm": false
+      },
+      "form": {
+        "home": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        },
+        "away": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        }
+      },
+      "h2h": {
+        "total_meetings": 0,
+        "home_wins": 0,
+        "away_wins": 0,
+        "meetings": [],
+        "source": "\u2014"
+      },
+      "briefing": {
+        "trend": "HOU on Back-to-Back \u26a0\ufe0f per ESPN schedule data. PHX on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "matchup": "Both rosters appear healthy \u2014 clean line.",
+        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "injury_notes": "No key injuries."
+      },
+      "live": {
+        "status": "pre",
+        "status_detail": "Upcoming",
+        "period": 0,
+        "clock": "",
+        "home_score": 0,
+        "away_score": 0,
+        "spread_alert": null
+      },
+      "news": [
+        {
+          "title": "Amazon\u2019s Alan Moss on How Black Friday Sports Lineup, Shoppable Ads Are Winning Advertisers",
+          "source": "Adweek",
+          "link": "https://www.adweek.com/performance-marketing/amazons-alan-moss-on-how-black-friday-sports-lineup-shoppable-ads-are-winning-advertisers/",
+          "published": "2026-11-23T09:00:00Z"
+        },
+        {
+          "title": "NBA\uff0f\u6253\u7403\u5674\u978b\uff1f\u71b1\u706bK\u6e6f\u8173\u4e0b\u4e2d\u570b\u7403\u978b\u978b\u588a\u5c37\u5c2c\u6389\u5728\u5834\u4e0a",
+          "source": "Yahoo Entertainment",
+          "link": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_3c022761-8f51-4028-93be-4cf48c9c40bc",
+          "published": "2026-11-23T08:38:00Z"
+        },
+        {
+          "title": "Nike Black Friday Sale at Fanatics: Up to an extra 50% off + free shipping",
+          "source": "Dealnews.com",
+          "link": "https://www.dealnews.com/Nike-Black-Friday-Sale-at-Fanatics-Up-to-an-extra-50-off-free-shipping/22424198.html",
+          "published": "2026-11-23T08:37:12Z"
         }
       ]
     }
