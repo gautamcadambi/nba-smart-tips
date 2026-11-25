@@ -3554,9 +3554,11 @@
       "win_probability": 73.3,
       "commence_time": "2026-11-25T03:10:00Z",
       "date": "2026-11-24T05:45:36.004186+00:00",
-      "graded": false,
-      "result": null,
-      "profit": null
+      "graded": true,
+      "result": "LOSS",
+      "profit": -100,
+      "home_score": 101,
+      "away_score": 120
     },
     {
       "game": "Miami Heat @ Philadelphia 76ers",
@@ -3682,11 +3684,11 @@
     },
     "HIGH": {
       "wins": 60,
-      "losses": 12,
-      "total": 72,
-      "win_pct": 83.3,
-      "roi": -0.0,
-      "profit": -1.43
+      "losses": 13,
+      "total": 73,
+      "win_pct": 82.2,
+      "roi": -1.4,
+      "profit": -101.43
     },
     "LOW": {
       "wins": 30,
@@ -3697,21 +3699,21 @@
       "profit": 382.07
     },
     "overall_7d": {
-      "wins": 28,
+      "wins": 27,
       "losses": 7,
-      "total": 35,
-      "win_pct": 80.0,
-      "roi": 17.5,
-      "profit": 612.09
+      "total": 34,
+      "win_pct": 79.4,
+      "roi": 16.9,
+      "profit": 575.99
     },
     "overall_30d": {
       "wins": 135,
-      "losses": 45,
-      "total": 180,
-      "win_pct": 75.0,
-      "roi": 8.0,
-      "profit": 1435.49
+      "losses": 46,
+      "total": 181,
+      "win_pct": 74.6,
+      "roi": 7.4,
+      "profit": 1335.49
     }
   },
-  "last_graded": "2026-11-25T04:47:11.274725+00:00"
+  "last_graded": "2026-11-25T07:44:46.808744+00:00"
 }
