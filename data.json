@@ -1,371 +1,82 @@
 {
-  "last_updated": "November 24, 2026 at 08:59 PM UTC",
-  "total_games": 7,
+  "last_updated": "November 25, 2026 at 04:47 AM UTC",
+  "total_games": 10,
   "games": [
-    {
-      "game": "Detroit Pistons @ Orlando Magic",
-      "home_team": "Orlando Magic",
-      "away_team": "Detroit Pistons",
-      "home_abbr": "ORL",
-      "away_abbr": "DET",
-      "home_ml": "+110",
-      "away_ml": "-130",
-      "home_ml_raw": 110,
-      "away_ml_raw": -130,
-      "home_prob": 45.7,
-      "away_prob": 54.3,
-      "spread": "ORL +2.5",
-      "favorite": "Detroit Pistons",
-      "pick": "Detroit Pistons",
-      "pick_abbr": "DET",
-      "moneyline": "-130",
-      "win_probability": 54.3,
-      "confidence": "LOW",
-      "confidence_stars": "\u2605\u2606\u2606",
-      "commence_time": "2026-11-25T00:11:00Z",
-      "line_movement": {
-        "home": {
-          "direction": "shorter",
-          "points_moved": 4,
-          "steam": false,
-          "label": "\ud83d\udfe2 +110 \u2190 +114",
-          "old_ml": "+114",
-          "new_ml": "+110"
-        },
-        "away": {
-          "direction": "longer",
-          "points_moved": 5,
-          "steam": false,
-          "label": "\ud83d\udd34 -130 \u2190 -135",
-          "old_ml": "-135",
-          "new_ml": "-130"
-        },
-        "pick": {
-          "direction": "longer",
-          "points_moved": 5,
-          "steam": false,
-          "label": "\ud83d\udd34 -130 \u2190 -135",
-          "old_ml": "-135",
-          "new_ml": "-130"
-        },
-        "snapshot_time": "November 24, 2026 at 09:09 AM UTC"
-      },
-      "fatigue": {
-        "home": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "Nov 22",
-          "days_rest": 2,
-          "games_last_4d": 2,
-          "travel_miles": 758,
-          "travel_desc": "758 mi road trip",
-          "source": "ESPN Scoreboard API"
-        },
-        "away": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "Nov 22",
-          "days_rest": 2,
-          "games_last_4d": 2,
-          "travel_miles": 598,
-          "travel_desc": "598 mi road trip",
-          "source": "ESPN Scoreboard API"
-        }
-      },
-      "edge_factors": [
-        "\ud83d\udcca 8.6pt probability edge"
-      ],
-      "injury_notes": "No key injuries.",
-      "sharp": {
-        "away_t": null,
-        "home_t": null,
-        "source": null,
-        "sharp_signal": null,
-        "sharp_label": "Pending \u2014 check closer to tip-off",
-        "rlm": false
-      },
-      "form": {
-        "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        },
-        "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        }
-      },
-      "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
-      },
-      "briefing": {
-        "trend": "Detroit Pistons hold a 54.3% edge.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line moved -135\u2192-130 (5pts). Pending \u2014 check closer to tip-off",
-        "injury_notes": "No key injuries."
-      },
-      "live": {
-        "status": "pre",
-        "status_detail": "Upcoming",
-        "period": 0,
-        "clock": "",
-        "home_score": 0,
-        "away_score": 0,
-        "spread_alert": null
-      },
-      "news": [
-        {
-          "title": "Mystery as leading lady Selena Gomez is absent from Only Murders In London premiere as she plugs her beauty range while Steve Martin and Martin Short grace the red carpet",
-          "source": "Dailymail.com",
-          "link": "https://www.dailymail.com/tvshowbiz/article-16316351/Mystery-Selena-Gomez-absent-Murders-London-premiere.html",
-          "published": "2026-11-23T20:59:09Z"
-        },
-        {
-          "title": "Anthony Davis named Eastern Conference Player of the Week",
-          "source": "Bullets Forever",
-          "link": "https://www.bulletsforever.com/latest-news/74307/anthony-davis-washington-wizards-eastern-conference-player-of-the-week",
-          "published": "2026-11-23T20:52:43Z"
-        },
-        {
-          "title": "NBA viewership off to record start, national games up 37% from last season",
-          "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/nba/article/nba-viewership-off-to-record-start-national-games-up-37-from-last-season-204335964.html",
-          "published": "2026-11-23T20:43:35Z"
-        }
-      ]
-    },
-    {
-      "game": "Boston Celtics @ Washington Wizards",
-      "home_team": "Washington Wizards",
-      "away_team": "Boston Celtics",
-      "home_abbr": "WAS",
-      "away_abbr": "BOS",
-      "home_ml": "+331",
-      "away_ml": "-424",
-      "home_ml_raw": 331,
-      "away_ml_raw": -424,
-      "home_prob": 22.3,
-      "away_prob": 77.7,
-      "spread": "WAS +10.5",
-      "favorite": "Boston Celtics",
-      "pick": "Boston Celtics",
-      "pick_abbr": "BOS",
-      "moneyline": "-424",
-      "win_probability": 77.7,
-      "confidence": "HIGH",
-      "confidence_stars": "\u2605\u2605\u2605",
-      "commence_time": "2026-11-25T01:10:00Z",
-      "line_movement": {
-        "home": {
-          "direction": "shorter",
-          "points_moved": 20,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM +331 \u2190 +351",
-          "old_ml": "+351",
-          "new_ml": "+331"
-        },
-        "away": {
-          "direction": "longer",
-          "points_moved": 29,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -424 \u2190 -453",
-          "old_ml": "-453",
-          "new_ml": "-424"
-        },
-        "pick": {
-          "direction": "longer",
-          "points_moved": 29,
-          "steam": true,
-          "label": "\ud83d\udd25 STEAM -424 \u2190 -453",
-          "old_ml": "-453",
-          "new_ml": "-424"
-        },
-        "snapshot_time": "November 24, 2026 at 09:09 AM UTC"
-      },
-      "fatigue": {
-        "home": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "Nov 22",
-          "days_rest": 2,
-          "games_last_4d": 2,
-          "travel_miles": 597,
-          "travel_desc": "597 mi road trip",
-          "source": "ESPN Scoreboard API"
-        },
-        "away": {
-          "status": "TRAVEL",
-          "label": "Cross-country travel \ud83d\udfe3",
-          "battery": 50,
-          "last_game": "Nov 22",
-          "days_rest": 2,
-          "games_last_4d": 2,
-          "travel_miles": 2691,
-          "travel_desc": "2,691 mi road trip",
-          "source": "ESPN Scoreboard API"
-        }
-      },
-      "edge_factors": [
-        "\ud83d\udd25 Sharp steam detected"
-      ],
-      "injury_notes": "No key injuries.",
-      "sharp": {
-        "away_t": null,
-        "home_t": null,
-        "source": null,
-        "sharp_signal": null,
-        "sharp_label": "Pending \u2014 check closer to tip-off",
-        "rlm": false
-      },
-      "form": {
-        "home": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        },
-        "away": {
-          "last_10": [],
-          "wins": 0,
-          "losses": 0,
-          "streak": "\u2014",
-          "form_str": "",
-          "source": "\u2014"
-        }
-      },
-      "h2h": {
-        "total_meetings": 0,
-        "home_wins": 0,
-        "away_wins": 0,
-        "meetings": [],
-        "source": "\u2014"
-      },
-      "briefing": {
-        "trend": "Boston Celtics hold a 77.7% edge.",
-        "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -453 to -424 (29pt move) \u2014 heavy professional action on Boston Celtics.",
-        "injury_notes": "No key injuries."
-      },
-      "live": {
-        "status": "pre",
-        "status_detail": "Upcoming",
-        "period": 0,
-        "clock": "",
-        "home_score": 0,
-        "away_score": 0,
-        "spread_alert": null
-      },
-      "news": [
-        {
-          "title": "Mystery as leading lady Selena Gomez is absent from Only Murders In London premiere as she plugs her beauty range while Steve Martin and Martin Short grace the red carpet",
-          "source": "Dailymail.com",
-          "link": "https://www.dailymail.com/tvshowbiz/article-16316351/Mystery-Selena-Gomez-absent-Murders-London-premiere.html",
-          "published": "2026-11-23T20:59:09Z"
-        },
-        {
-          "title": "Anthony Davis named Eastern Conference Player of the Week",
-          "source": "Bullets Forever",
-          "link": "https://www.bulletsforever.com/latest-news/74307/anthony-davis-washington-wizards-eastern-conference-player-of-the-week",
-          "published": "2026-11-23T20:52:43Z"
-        },
-        {
-          "title": "NBA viewership off to record start, national games up 37% from last season",
-          "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/nba/article/nba-viewership-off-to-record-start-national-games-up-37-from-last-season-204335964.html",
-          "published": "2026-11-23T20:43:35Z"
-        }
-      ]
-    },
     {
       "game": "Dallas Mavericks @ Denver Nuggets",
       "home_team": "Denver Nuggets",
       "away_team": "Dallas Mavericks",
       "home_abbr": "DEN",
       "away_abbr": "DAL",
-      "home_ml": "-297",
-      "away_ml": "+241",
-      "home_ml_raw": -297,
-      "away_ml_raw": 241,
-      "home_prob": 71.8,
-      "away_prob": 28.2,
-      "spread": "DEN -8.5",
-      "favorite": "Denver Nuggets",
-      "pick": "Denver Nuggets",
-      "pick_abbr": "DEN",
-      "moneyline": "-297",
-      "win_probability": 71.8,
+      "home_ml": "+165",
+      "away_ml": "-220",
+      "home_ml_raw": 165,
+      "away_ml_raw": -220,
+      "home_prob": 35.4,
+      "away_prob": 64.6,
+      "spread": "DEN +4.5",
+      "favorite": "Dallas Mavericks",
+      "pick": "Dallas Mavericks",
+      "pick_abbr": "DAL",
+      "moneyline": "-220",
+      "win_probability": 64.6,
       "confidence": "MEDIUM",
       "confidence_stars": "\u2605\u2605\u2606",
-      "commence_time": "2026-11-25T03:10:00Z",
+      "commence_time": "2026-11-25T03:13:00Z",
       "line_movement": {
         "home": {
           "direction": "longer",
-          "points_moved": 27,
+          "points_moved": 462,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM -297 \u2190 -324",
-          "old_ml": "-324",
-          "new_ml": "-297"
+          "label": "\ud83d\udd25 STEAM +165 \u2190 -297",
+          "old_ml": "-297",
+          "new_ml": "+165"
         },
         "away": {
           "direction": "shorter",
-          "points_moved": 20,
+          "points_moved": 461,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM +241 \u2190 +261",
-          "old_ml": "+261",
-          "new_ml": "+241"
+          "label": "\ud83d\udd25 STEAM -220 \u2190 +241",
+          "old_ml": "+241",
+          "new_ml": "-220"
         },
         "pick": {
-          "direction": "longer",
-          "points_moved": 27,
+          "direction": "shorter",
+          "points_moved": 461,
           "steam": true,
-          "label": "\ud83d\udd25 STEAM -297 \u2190 -324",
-          "old_ml": "-324",
-          "new_ml": "-297"
+          "label": "\ud83d\udd25 STEAM -220 \u2190 +241",
+          "old_ml": "+241",
+          "new_ml": "-220"
         },
-        "snapshot_time": "November 24, 2026 at 09:09 AM UTC"
+        "snapshot_time": "November 24, 2026 at 08:59 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "Nov 22",
-          "days_rest": 2,
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Nov 24",
+          "days_rest": 1,
           "games_last_4d": 2,
           "travel_miles": 917,
           "travel_desc": "917 mi road trip",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
-          "last_game": "Nov 22",
-          "days_rest": 2,
-          "games_last_4d": 2,
-          "travel_miles": 0,
-          "travel_desc": "",
+          "status": "B2B",
+          "label": "Back-to-Back \u26a0\ufe0f",
+          "battery": 20,
+          "last_game": "Nov 24",
+          "days_rest": 1,
+          "games_last_4d": 3,
+          "travel_miles": 663,
+          "travel_desc": "663 mi road trip",
           "source": "ESPN Scoreboard API"
         }
       },
       "edge_factors": [
-        "\ud83d\udd25 Sharp steam detected"
+        "\ud83d\udd25 Sharp steam detected",
+        "\ud83d\udca4 DEN fatigued (B2B) \u2014 source: ESPN"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -402,9 +113,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "Denver Nuggets hold a 71.8% edge.",
+        "trend": "DEN on Back-to-Back \u26a0\ufe0f per ESPN schedule data. DAL on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line steamed from -324 to -297 (27pt move) \u2014 heavy professional action on Denver Nuggets.",
+        "steam": "Line steamed from +241 to -220 (461pt move) \u2014 heavy professional action on Dallas Mavericks.",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -418,22 +129,22 @@
       },
       "news": [
         {
-          "title": "Mystery as leading lady Selena Gomez is absent from Only Murders In London premiere as she plugs her beauty range while Steve Martin and Martin Short grace the red carpet",
-          "source": "Dailymail.com",
-          "link": "https://www.dailymail.com/tvshowbiz/article-16316351/Mystery-Selena-Gomez-absent-Murders-London-premiere.html",
-          "published": "2026-11-23T20:59:09Z"
+          "title": "Player grades: Same song and dance for Thunder in 125-120 loss to Pacers",
+          "source": "USA Today",
+          "link": "https://okcthunderwire.usatoday.com/story/sports/nba/thunder/2026/11/23/player-grades-same-song-and-dance-for-thunder-in-125-120-loss-to-pacers/92936248007/",
+          "published": "2026-11-24T04:42:04Z"
         },
         {
-          "title": "Anthony Davis named Eastern Conference Player of the Week",
-          "source": "Bullets Forever",
-          "link": "https://www.bulletsforever.com/latest-news/74307/anthony-davis-washington-wizards-eastern-conference-player-of-the-week",
-          "published": "2026-11-23T20:52:43Z"
+          "title": "Why Yaxel Lendeborg deleted his X account? Warriors star reveals surprising reason",
+          "source": "The Times of India",
+          "link": "https://timesofindia.indiatimes.com/sports/nba/top-stories/why-yaxel-lendeborg-deleted-his-x-account-warriors-star-reveals-surprising-reason/articleshow/136119638.cms",
+          "published": "2026-11-24T04:41:38Z"
         },
         {
-          "title": "NBA viewership off to record start, national games up 37% from last season",
+          "title": "Deni Avdija scores 31 as Trail Blazers beat 76ers 128-111",
           "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/nba/article/nba-viewership-off-to-record-start-national-games-up-37-from-last-season-204335964.html",
-          "published": "2026-11-23T20:43:35Z"
+          "link": "https://sports.yahoo.com/articles/deni-avdija-scores-31-trail-043655181.html",
+          "published": "2026-11-24T04:36:55Z"
         }
       ]
     },
@@ -443,66 +154,66 @@
       "away_team": "Miami Heat",
       "home_abbr": "PHI",
       "away_abbr": "MIA",
-      "home_ml": "-148",
-      "away_ml": "+124",
-      "home_ml_raw": -148,
-      "away_ml_raw": 124,
-      "home_prob": 57.2,
-      "away_prob": 42.8,
-      "spread": "PHI -2.5",
+      "home_ml": "-116",
+      "away_ml": "-102",
+      "home_ml_raw": -116,
+      "away_ml_raw": -102,
+      "home_prob": 51.5,
+      "away_prob": 48.5,
+      "spread": "PHI -1.5",
       "favorite": "Philadelphia 76ers",
       "pick": "Philadelphia 76ers",
       "pick_abbr": "PHI",
-      "moneyline": "-148",
-      "win_probability": 57.2,
+      "moneyline": "-116",
+      "win_probability": 51.5,
       "confidence": "LOW",
       "confidence_stars": "\u2605\u2606\u2606",
       "commence_time": "2026-11-25T22:10:00Z",
       "line_movement": {
         "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "direction": "longer",
+          "points_moved": 32,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -116 \u2190 -148",
+          "old_ml": "-148",
+          "new_ml": "-116"
         },
         "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "direction": "shorter",
+          "points_moved": 226,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -102 \u2190 +124",
+          "old_ml": "+124",
+          "new_ml": "-102"
         },
         "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "direction": "longer",
+          "points_moved": 32,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -116 \u2190 -148",
+          "old_ml": "-148",
+          "new_ml": "-116"
         },
-        "snapshot_time": "November 24, 2026 at 09:09 AM UTC"
+        "snapshot_time": "November 24, 2026 at 08:59 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
           "last_game": "Nov 23",
-          "days_rest": 1,
+          "days_rest": 2,
           "games_last_4d": 2,
           "travel_miles": 0,
           "travel_desc": "",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
+          "status": "RESTED",
+          "label": "2 days rest \u2705",
+          "battery": 88,
           "last_game": "Nov 22",
-          "days_rest": 2,
+          "days_rest": 3,
           "games_last_4d": 1,
           "travel_miles": 0,
           "travel_desc": "",
@@ -510,7 +221,7 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udcca 14.4pt probability edge"
+        "\ud83d\udd25 Sharp steam detected"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -547,7 +258,152 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "PHI on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "trend": "Philadelphia 76ers hold a 51.5% edge.",
+        "matchup": "Both rosters appear healthy \u2014 clean line.",
+        "steam": "Line steamed from -148 to -116 (32pt move) \u2014 heavy professional action on Philadelphia 76ers.",
+        "injury_notes": "No key injuries."
+      },
+      "live": {
+        "status": "pre",
+        "status_detail": "Upcoming",
+        "period": 0,
+        "clock": "",
+        "home_score": 0,
+        "away_score": 0,
+        "spread_alert": null
+      },
+      "news": [
+        {
+          "title": "Player grades: Same song and dance for Thunder in 125-120 loss to Pacers",
+          "source": "USA Today",
+          "link": "https://okcthunderwire.usatoday.com/story/sports/nba/thunder/2026/11/23/player-grades-same-song-and-dance-for-thunder-in-125-120-loss-to-pacers/92936248007/",
+          "published": "2026-11-24T04:42:04Z"
+        },
+        {
+          "title": "Why Yaxel Lendeborg deleted his X account? Warriors star reveals surprising reason",
+          "source": "The Times of India",
+          "link": "https://timesofindia.indiatimes.com/sports/nba/top-stories/why-yaxel-lendeborg-deleted-his-x-account-warriors-star-reveals-surprising-reason/articleshow/136119638.cms",
+          "published": "2026-11-24T04:41:38Z"
+        },
+        {
+          "title": "Deni Avdija scores 31 as Trail Blazers beat 76ers 128-111",
+          "source": "Yahoo Entertainment",
+          "link": "https://sports.yahoo.com/articles/deni-avdija-scores-31-trail-043655181.html",
+          "published": "2026-11-24T04:36:55Z"
+        }
+      ]
+    },
+    {
+      "game": "Chicago Bulls @ Charlotte Hornets",
+      "home_team": "Charlotte Hornets",
+      "away_team": "Chicago Bulls",
+      "home_abbr": "CHA",
+      "away_abbr": "CHI",
+      "home_ml": "-155",
+      "away_ml": "+130",
+      "home_ml_raw": -155,
+      "away_ml_raw": 130,
+      "home_prob": 58.3,
+      "away_prob": 41.7,
+      "spread": "CHA -3.5",
+      "favorite": "Charlotte Hornets",
+      "pick": "Charlotte Hornets",
+      "pick_abbr": "CHA",
+      "moneyline": "-155",
+      "win_probability": 58.3,
+      "confidence": "MEDIUM",
+      "confidence_stars": "\u2605\u2605\u2606",
+      "commence_time": "2026-11-26T00:10:00Z",
+      "line_movement": {
+        "home": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "away": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "pick": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "snapshot_time": "\u2014"
+      },
+      "fatigue": {
+        "home": {
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
+          "last_game": "Nov 23",
+          "days_rest": 2,
+          "games_last_4d": 1,
+          "travel_miles": 0,
+          "travel_desc": "",
+          "source": "ESPN Scoreboard API"
+        },
+        "away": {
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
+          "last_game": "Nov 23",
+          "days_rest": 2,
+          "games_last_4d": 2,
+          "travel_miles": 0,
+          "travel_desc": "",
+          "source": "ESPN Scoreboard API"
+        }
+      },
+      "edge_factors": [
+        "\ud83d\udcca 16.6pt probability edge"
+      ],
+      "injury_notes": "No key injuries.",
+      "sharp": {
+        "away_t": null,
+        "home_t": null,
+        "source": null,
+        "sharp_signal": null,
+        "sharp_label": "Pending \u2014 check closer to tip-off",
+        "rlm": false
+      },
+      "form": {
+        "home": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        },
+        "away": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        }
+      },
+      "h2h": {
+        "total_meetings": 0,
+        "home_wins": 0,
+        "away_wins": 0,
+        "meetings": [],
+        "source": "\u2014"
+      },
+      "briefing": {
+        "trend": "Charlotte Hornets hold a 58.3% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
         "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
@@ -563,22 +419,22 @@
       },
       "news": [
         {
-          "title": "Mystery as leading lady Selena Gomez is absent from Only Murders In London premiere as she plugs her beauty range while Steve Martin and Martin Short grace the red carpet",
-          "source": "Dailymail.com",
-          "link": "https://www.dailymail.com/tvshowbiz/article-16316351/Mystery-Selena-Gomez-absent-Murders-London-premiere.html",
-          "published": "2026-11-23T20:59:09Z"
+          "title": "Player grades: Same song and dance for Thunder in 125-120 loss to Pacers",
+          "source": "USA Today",
+          "link": "https://okcthunderwire.usatoday.com/story/sports/nba/thunder/2026/11/23/player-grades-same-song-and-dance-for-thunder-in-125-120-loss-to-pacers/92936248007/",
+          "published": "2026-11-24T04:42:04Z"
         },
         {
-          "title": "Anthony Davis named Eastern Conference Player of the Week",
-          "source": "Bullets Forever",
-          "link": "https://www.bulletsforever.com/latest-news/74307/anthony-davis-washington-wizards-eastern-conference-player-of-the-week",
-          "published": "2026-11-23T20:52:43Z"
+          "title": "Why Yaxel Lendeborg deleted his X account? Warriors star reveals surprising reason",
+          "source": "The Times of India",
+          "link": "https://timesofindia.indiatimes.com/sports/nba/top-stories/why-yaxel-lendeborg-deleted-his-x-account-warriors-star-reveals-surprising-reason/articleshow/136119638.cms",
+          "published": "2026-11-24T04:41:38Z"
         },
         {
-          "title": "NBA viewership off to record start, national games up 37% from last season",
+          "title": "Deni Avdija scores 31 as Trail Blazers beat 76ers 128-111",
           "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/nba/article/nba-viewership-off-to-record-start-national-games-up-37-from-last-season-204335964.html",
-          "published": "2026-11-23T20:43:35Z"
+          "link": "https://sports.yahoo.com/articles/deni-avdija-scores-31-trail-043655181.html",
+          "published": "2026-11-24T04:36:55Z"
         }
       ]
     },
@@ -588,74 +444,74 @@
       "away_team": "Cleveland Cavaliers",
       "home_abbr": "NYK",
       "away_abbr": "CLE",
-      "home_ml": "-197",
-      "away_ml": "+165",
-      "home_ml_raw": -197,
-      "away_ml_raw": 165,
-      "home_prob": 63.7,
-      "away_prob": 36.3,
-      "spread": "NYK -4.5",
+      "home_ml": "-163",
+      "away_ml": "+137",
+      "home_ml_raw": -163,
+      "away_ml_raw": 137,
+      "home_prob": 59.5,
+      "away_prob": 40.5,
+      "spread": "NYK -3.5",
       "favorite": "New York Knicks",
       "pick": "New York Knicks",
       "pick_abbr": "NYK",
-      "moneyline": "-197",
-      "win_probability": 63.7,
+      "moneyline": "-163",
+      "win_probability": 59.5,
       "confidence": "MEDIUM",
       "confidence_stars": "\u2605\u2605\u2606",
       "commence_time": "2026-11-26T00:40:00Z",
       "line_movement": {
         "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "direction": "longer",
+          "points_moved": 34,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -163 \u2190 -197",
+          "old_ml": "-197",
+          "new_ml": "-163"
         },
         "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "direction": "shorter",
+          "points_moved": 28,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM +137 \u2190 +165",
+          "old_ml": "+165",
+          "new_ml": "+137"
         },
         "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "direction": "longer",
+          "points_moved": 34,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -163 \u2190 -197",
+          "old_ml": "-197",
+          "new_ml": "-163"
         },
-        "snapshot_time": "November 24, 2026 at 09:09 AM UTC"
+        "snapshot_time": "November 24, 2026 at 08:59 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "SOME_REST",
-          "label": "1 day rest",
-          "battery": 68,
+          "status": "RESTED",
+          "label": "2 days rest \u2705",
+          "battery": 88,
           "last_game": "Nov 22",
-          "days_rest": 2,
+          "days_rest": 3,
           "games_last_4d": 2,
           "travel_miles": 0,
           "travel_desc": "",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
           "last_game": "Nov 23",
-          "days_rest": 1,
-          "games_last_4d": 2,
+          "days_rest": 2,
+          "games_last_4d": 1,
           "travel_miles": 310,
           "travel_desc": "310 mi road trip",
           "source": "ESPN Scoreboard API"
         }
       },
       "edge_factors": [
-        "\ud83d\udca4 CLE fatigued (B2B) \u2014 source: ESPN"
+        "\ud83d\udd25 Sharp steam detected"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -692,9 +548,9 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "CLE on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "trend": "New York Knicks hold a 59.5% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
-        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "steam": "Line steamed from -197 to -163 (34pt move) \u2014 heavy professional action on New York Knicks.",
         "injury_notes": "No key injuries."
       },
       "live": {
@@ -708,22 +564,22 @@
       },
       "news": [
         {
-          "title": "Mystery as leading lady Selena Gomez is absent from Only Murders In London premiere as she plugs her beauty range while Steve Martin and Martin Short grace the red carpet",
-          "source": "Dailymail.com",
-          "link": "https://www.dailymail.com/tvshowbiz/article-16316351/Mystery-Selena-Gomez-absent-Murders-London-premiere.html",
-          "published": "2026-11-23T20:59:09Z"
+          "title": "Player grades: Same song and dance for Thunder in 125-120 loss to Pacers",
+          "source": "USA Today",
+          "link": "https://okcthunderwire.usatoday.com/story/sports/nba/thunder/2026/11/23/player-grades-same-song-and-dance-for-thunder-in-125-120-loss-to-pacers/92936248007/",
+          "published": "2026-11-24T04:42:04Z"
         },
         {
-          "title": "Anthony Davis named Eastern Conference Player of the Week",
-          "source": "Bullets Forever",
-          "link": "https://www.bulletsforever.com/latest-news/74307/anthony-davis-washington-wizards-eastern-conference-player-of-the-week",
-          "published": "2026-11-23T20:52:43Z"
+          "title": "Why Yaxel Lendeborg deleted his X account? Warriors star reveals surprising reason",
+          "source": "The Times of India",
+          "link": "https://timesofindia.indiatimes.com/sports/nba/top-stories/why-yaxel-lendeborg-deleted-his-x-account-warriors-star-reveals-surprising-reason/articleshow/136119638.cms",
+          "published": "2026-11-24T04:41:38Z"
         },
         {
-          "title": "NBA viewership off to record start, national games up 37% from last season",
+          "title": "Deni Avdija scores 31 as Trail Blazers beat 76ers 128-111",
           "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/nba/article/nba-viewership-off-to-record-start-national-games-up-37-from-last-season-204335964.html",
-          "published": "2026-11-23T20:43:35Z"
+          "link": "https://sports.yahoo.com/articles/deni-avdija-scores-31-trail-043655181.html",
+          "published": "2026-11-24T04:36:55Z"
         }
       ]
     },
@@ -733,66 +589,66 @@
       "away_team": "Minnesota Timberwolves",
       "home_abbr": "OKC",
       "away_abbr": "MIN",
-      "home_ml": "-130",
-      "away_ml": "+110",
-      "home_ml_raw": -130,
-      "away_ml_raw": 110,
-      "home_prob": 54.3,
-      "away_prob": 45.7,
+      "home_ml": "-119",
+      "away_ml": "+101",
+      "home_ml_raw": -119,
+      "away_ml_raw": 101,
+      "home_prob": 52.2,
+      "away_prob": 47.8,
       "spread": "OKC -1.5",
       "favorite": "Oklahoma City Thunder",
       "pick": "Oklahoma City Thunder",
       "pick_abbr": "OKC",
-      "moneyline": "-130",
-      "win_probability": 54.3,
+      "moneyline": "-119",
+      "win_probability": 52.2,
       "confidence": "LOW",
       "confidence_stars": "\u2605\u2606\u2606",
       "commence_time": "2026-11-26T00:40:00Z",
       "line_movement": {
         "home": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "direction": "longer",
+          "points_moved": 11,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -119 \u2190 -130",
+          "old_ml": "-130",
+          "new_ml": "-119"
         },
         "away": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "direction": "shorter",
+          "points_moved": 9,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM +101 \u2190 +110",
+          "old_ml": "+110",
+          "new_ml": "+101"
         },
         "pick": {
-          "direction": "none",
-          "points_moved": 0,
-          "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "direction": "longer",
+          "points_moved": 11,
+          "steam": true,
+          "label": "\ud83d\udd25 STEAM -119 \u2190 -130",
+          "old_ml": "-130",
+          "new_ml": "-119"
         },
-        "snapshot_time": "November 24, 2026 at 09:09 AM UTC"
+        "snapshot_time": "November 24, 2026 at 08:59 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
           "last_game": "Nov 23",
-          "days_rest": 1,
-          "games_last_4d": 3,
+          "days_rest": 2,
+          "games_last_4d": 2,
           "travel_miles": 688,
           "travel_desc": "688 mi road trip",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
           "last_game": "Nov 23",
-          "days_rest": 1,
+          "days_rest": 2,
           "games_last_4d": 2,
           "travel_miles": 0,
           "travel_desc": "",
@@ -800,7 +656,7 @@
         }
       },
       "edge_factors": [
-        "\ud83d\udca4 MIN fatigued (B2B) \u2014 source: ESPN"
+        "\ud83d\udd25 Sharp steam detected"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -837,7 +693,152 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "OKC on Back-to-Back \u26a0\ufe0f per ESPN schedule data. MIN on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "trend": "Oklahoma City Thunder hold a 52.2% edge.",
+        "matchup": "Both rosters appear healthy \u2014 clean line.",
+        "steam": "Line steamed from -130 to -119 (11pt move) \u2014 heavy professional action on Oklahoma City Thunder.",
+        "injury_notes": "No key injuries."
+      },
+      "live": {
+        "status": "pre",
+        "status_detail": "Upcoming",
+        "period": 0,
+        "clock": "",
+        "home_score": 0,
+        "away_score": 0,
+        "spread_alert": null
+      },
+      "news": [
+        {
+          "title": "Player grades: Same song and dance for Thunder in 125-120 loss to Pacers",
+          "source": "USA Today",
+          "link": "https://okcthunderwire.usatoday.com/story/sports/nba/thunder/2026/11/23/player-grades-same-song-and-dance-for-thunder-in-125-120-loss-to-pacers/92936248007/",
+          "published": "2026-11-24T04:42:04Z"
+        },
+        {
+          "title": "Why Yaxel Lendeborg deleted his X account? Warriors star reveals surprising reason",
+          "source": "The Times of India",
+          "link": "https://timesofindia.indiatimes.com/sports/nba/top-stories/why-yaxel-lendeborg-deleted-his-x-account-warriors-star-reveals-surprising-reason/articleshow/136119638.cms",
+          "published": "2026-11-24T04:41:38Z"
+        },
+        {
+          "title": "Deni Avdija scores 31 as Trail Blazers beat 76ers 128-111",
+          "source": "Yahoo Entertainment",
+          "link": "https://sports.yahoo.com/articles/deni-avdija-scores-31-trail-043655181.html",
+          "published": "2026-11-24T04:36:55Z"
+        }
+      ]
+    },
+    {
+      "game": "Brooklyn Nets @ Milwaukee Bucks",
+      "home_team": "Milwaukee Bucks",
+      "away_team": "Brooklyn Nets",
+      "home_abbr": "MIL",
+      "away_abbr": "BKN",
+      "home_ml": "-111",
+      "away_ml": "-106",
+      "home_ml_raw": -111,
+      "away_ml_raw": -106,
+      "home_prob": 50.6,
+      "away_prob": 49.4,
+      "spread": "MIL -1.5",
+      "favorite": "Milwaukee Bucks",
+      "pick": "Milwaukee Bucks",
+      "pick_abbr": "MIL",
+      "moneyline": "-111",
+      "win_probability": 50.6,
+      "confidence": "LOW",
+      "confidence_stars": "\u2605\u2606\u2606",
+      "commence_time": "2026-11-26T01:10:00Z",
+      "line_movement": {
+        "home": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "away": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "pick": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "snapshot_time": "\u2014"
+      },
+      "fatigue": {
+        "home": {
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
+          "last_game": "Nov 23",
+          "days_rest": 2,
+          "games_last_4d": 2,
+          "travel_miles": 431,
+          "travel_desc": "431 mi road trip",
+          "source": "ESPN Scoreboard API"
+        },
+        "away": {
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
+          "last_game": "Nov 23",
+          "days_rest": 2,
+          "games_last_4d": 1,
+          "travel_miles": 1019,
+          "travel_desc": "1,019 mi road trip",
+          "source": "ESPN Scoreboard API"
+        }
+      },
+      "edge_factors": [
+        "\ud83d\udcca 1.2pt probability edge"
+      ],
+      "injury_notes": "No key injuries.",
+      "sharp": {
+        "away_t": null,
+        "home_t": null,
+        "source": null,
+        "sharp_signal": null,
+        "sharp_label": "Pending \u2014 check closer to tip-off",
+        "rlm": false
+      },
+      "form": {
+        "home": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        },
+        "away": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        }
+      },
+      "h2h": {
+        "total_meetings": 0,
+        "home_wins": 0,
+        "away_wins": 0,
+        "meetings": [],
+        "source": "\u2014"
+      },
+      "briefing": {
+        "trend": "Milwaukee Bucks hold a 50.6% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
         "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
@@ -853,22 +854,167 @@
       },
       "news": [
         {
-          "title": "Mystery as leading lady Selena Gomez is absent from Only Murders In London premiere as she plugs her beauty range while Steve Martin and Martin Short grace the red carpet",
-          "source": "Dailymail.com",
-          "link": "https://www.dailymail.com/tvshowbiz/article-16316351/Mystery-Selena-Gomez-absent-Murders-London-premiere.html",
-          "published": "2026-11-23T20:59:09Z"
+          "title": "Player grades: Same song and dance for Thunder in 125-120 loss to Pacers",
+          "source": "USA Today",
+          "link": "https://okcthunderwire.usatoday.com/story/sports/nba/thunder/2026/11/23/player-grades-same-song-and-dance-for-thunder-in-125-120-loss-to-pacers/92936248007/",
+          "published": "2026-11-24T04:42:04Z"
         },
         {
-          "title": "Anthony Davis named Eastern Conference Player of the Week",
-          "source": "Bullets Forever",
-          "link": "https://www.bulletsforever.com/latest-news/74307/anthony-davis-washington-wizards-eastern-conference-player-of-the-week",
-          "published": "2026-11-23T20:52:43Z"
+          "title": "Why Yaxel Lendeborg deleted his X account? Warriors star reveals surprising reason",
+          "source": "The Times of India",
+          "link": "https://timesofindia.indiatimes.com/sports/nba/top-stories/why-yaxel-lendeborg-deleted-his-x-account-warriors-star-reveals-surprising-reason/articleshow/136119638.cms",
+          "published": "2026-11-24T04:41:38Z"
         },
         {
-          "title": "NBA viewership off to record start, national games up 37% from last season",
+          "title": "Deni Avdija scores 31 as Trail Blazers beat 76ers 128-111",
           "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/nba/article/nba-viewership-off-to-record-start-national-games-up-37-from-last-season-204335964.html",
-          "published": "2026-11-23T20:43:35Z"
+          "link": "https://sports.yahoo.com/articles/deni-avdija-scores-31-trail-043655181.html",
+          "published": "2026-11-24T04:36:55Z"
+        }
+      ]
+    },
+    {
+      "game": "Los Angeles Clippers @ Memphis Grizzlies",
+      "home_team": "Memphis Grizzlies",
+      "away_team": "Los Angeles Clippers",
+      "home_abbr": "MEM",
+      "away_abbr": "LAC",
+      "home_ml": "-264",
+      "away_ml": "+217",
+      "home_ml_raw": -264,
+      "away_ml_raw": 217,
+      "home_prob": 69.7,
+      "away_prob": 30.3,
+      "spread": "MEM -6.5",
+      "favorite": "Memphis Grizzlies",
+      "pick": "Memphis Grizzlies",
+      "pick_abbr": "MEM",
+      "moneyline": "-264",
+      "win_probability": 69.7,
+      "confidence": "MEDIUM",
+      "confidence_stars": "\u2605\u2605\u2606",
+      "commence_time": "2026-11-26T01:10:00Z",
+      "line_movement": {
+        "home": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "away": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "pick": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "snapshot_time": "\u2014"
+      },
+      "fatigue": {
+        "home": {
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
+          "last_game": "Nov 23",
+          "days_rest": 2,
+          "games_last_4d": 2,
+          "travel_miles": 520,
+          "travel_desc": "520 mi road trip",
+          "source": "ESPN Scoreboard API"
+        },
+        "away": {
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
+          "last_game": "Nov 23",
+          "days_rest": 2,
+          "games_last_4d": 2,
+          "travel_miles": 1373,
+          "travel_desc": "1,373 mi road trip",
+          "source": "ESPN Scoreboard API"
+        }
+      },
+      "edge_factors": [
+        "\ud83d\udcca 39.4pt probability edge"
+      ],
+      "injury_notes": "No key injuries.",
+      "sharp": {
+        "away_t": null,
+        "home_t": null,
+        "source": null,
+        "sharp_signal": null,
+        "sharp_label": "Pending \u2014 check closer to tip-off",
+        "rlm": false
+      },
+      "form": {
+        "home": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        },
+        "away": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        }
+      },
+      "h2h": {
+        "total_meetings": 0,
+        "home_wins": 0,
+        "away_wins": 0,
+        "meetings": [],
+        "source": "\u2014"
+      },
+      "briefing": {
+        "trend": "Memphis Grizzlies hold a 69.7% edge.",
+        "matchup": "Both rosters appear healthy \u2014 clean line.",
+        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "injury_notes": "No key injuries."
+      },
+      "live": {
+        "status": "pre",
+        "status_detail": "Upcoming",
+        "period": 0,
+        "clock": "",
+        "home_score": 0,
+        "away_score": 0,
+        "spread_alert": null
+      },
+      "news": [
+        {
+          "title": "Player grades: Same song and dance for Thunder in 125-120 loss to Pacers",
+          "source": "USA Today",
+          "link": "https://okcthunderwire.usatoday.com/story/sports/nba/thunder/2026/11/23/player-grades-same-song-and-dance-for-thunder-in-125-120-loss-to-pacers/92936248007/",
+          "published": "2026-11-24T04:42:04Z"
+        },
+        {
+          "title": "Why Yaxel Lendeborg deleted his X account? Warriors star reveals surprising reason",
+          "source": "The Times of India",
+          "link": "https://timesofindia.indiatimes.com/sports/nba/top-stories/why-yaxel-lendeborg-deleted-his-x-account-warriors-star-reveals-surprising-reason/articleshow/136119638.cms",
+          "published": "2026-11-24T04:41:38Z"
+        },
+        {
+          "title": "Deni Avdija scores 31 as Trail Blazers beat 76ers 128-111",
+          "source": "Yahoo Entertainment",
+          "link": "https://sports.yahoo.com/articles/deni-avdija-scores-31-trail-043655181.html",
+          "published": "2026-11-24T04:36:55Z"
         }
       ]
     },
@@ -898,54 +1044,54 @@
           "direction": "none",
           "points_moved": 0,
           "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "label": "No movement",
+          "old_ml": "-406",
+          "new_ml": "-406"
         },
         "away": {
           "direction": "none",
           "points_moved": 0,
           "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "label": "No movement",
+          "old_ml": "+319",
+          "new_ml": "+319"
         },
         "pick": {
           "direction": "none",
           "points_moved": 0,
           "steam": false,
-          "label": "\u2014",
-          "old_ml": "\u2014",
-          "new_ml": "\u2014"
+          "label": "No movement",
+          "old_ml": "-406",
+          "new_ml": "-406"
         },
-        "snapshot_time": "November 24, 2026 at 09:09 AM UTC"
+        "snapshot_time": "November 24, 2026 at 08:59 PM UTC"
       },
       "fatigue": {
         "home": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
           "last_game": "Nov 23",
-          "days_rest": 1,
-          "games_last_4d": 2,
-          "travel_miles": 880,
-          "travel_desc": "880 mi road trip",
+          "days_rest": 2,
+          "games_last_4d": 1,
+          "travel_miles": 0,
+          "travel_desc": "",
           "source": "ESPN Scoreboard API"
         },
         "away": {
-          "status": "B2B",
-          "label": "Back-to-Back \u26a0\ufe0f",
-          "battery": 20,
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
           "last_game": "Nov 23",
-          "days_rest": 1,
-          "games_last_4d": 2,
+          "days_rest": 2,
+          "games_last_4d": 1,
           "travel_miles": 1312,
           "travel_desc": "1,312 mi road trip",
           "source": "ESPN Scoreboard API"
         }
       },
       "edge_factors": [
-        "\ud83d\udca4 PHX fatigued (B2B) \u2014 source: ESPN"
+        "\ud83d\udcca 54.2pt probability edge"
       ],
       "injury_notes": "No key injuries.",
       "sharp": {
@@ -982,7 +1128,7 @@
         "source": "\u2014"
       },
       "briefing": {
-        "trend": "HOU on Back-to-Back \u26a0\ufe0f per ESPN schedule data. PHX on Back-to-Back \u26a0\ufe0f per ESPN schedule data.",
+        "trend": "Houston Rockets hold a 77.1% edge.",
         "matchup": "Both rosters appear healthy \u2014 clean line.",
         "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
         "injury_notes": "No key injuries."
@@ -998,22 +1144,312 @@
       },
       "news": [
         {
-          "title": "Mystery as leading lady Selena Gomez is absent from Only Murders In London premiere as she plugs her beauty range while Steve Martin and Martin Short grace the red carpet",
-          "source": "Dailymail.com",
-          "link": "https://www.dailymail.com/tvshowbiz/article-16316351/Mystery-Selena-Gomez-absent-Murders-London-premiere.html",
-          "published": "2026-11-23T20:59:09Z"
+          "title": "Player grades: Same song and dance for Thunder in 125-120 loss to Pacers",
+          "source": "USA Today",
+          "link": "https://okcthunderwire.usatoday.com/story/sports/nba/thunder/2026/11/23/player-grades-same-song-and-dance-for-thunder-in-125-120-loss-to-pacers/92936248007/",
+          "published": "2026-11-24T04:42:04Z"
         },
         {
-          "title": "Anthony Davis named Eastern Conference Player of the Week",
-          "source": "Bullets Forever",
-          "link": "https://www.bulletsforever.com/latest-news/74307/anthony-davis-washington-wizards-eastern-conference-player-of-the-week",
-          "published": "2026-11-23T20:52:43Z"
+          "title": "Why Yaxel Lendeborg deleted his X account? Warriors star reveals surprising reason",
+          "source": "The Times of India",
+          "link": "https://timesofindia.indiatimes.com/sports/nba/top-stories/why-yaxel-lendeborg-deleted-his-x-account-warriors-star-reveals-surprising-reason/articleshow/136119638.cms",
+          "published": "2026-11-24T04:41:38Z"
         },
         {
-          "title": "NBA viewership off to record start, national games up 37% from last season",
+          "title": "Deni Avdija scores 31 as Trail Blazers beat 76ers 128-111",
           "source": "Yahoo Entertainment",
-          "link": "https://sports.yahoo.com/nba/article/nba-viewership-off-to-record-start-national-games-up-37-from-last-season-204335964.html",
-          "published": "2026-11-23T20:43:35Z"
+          "link": "https://sports.yahoo.com/articles/deni-avdija-scores-31-trail-043655181.html",
+          "published": "2026-11-24T04:36:55Z"
+        }
+      ]
+    },
+    {
+      "game": "Sacramento Kings @ Golden State Warriors",
+      "home_team": "Golden State Warriors",
+      "away_team": "Sacramento Kings",
+      "home_abbr": "GSW",
+      "away_abbr": "SAC",
+      "home_ml": "-241",
+      "away_ml": "+199",
+      "home_ml_raw": -241,
+      "away_ml_raw": 199,
+      "home_prob": 67.9,
+      "away_prob": 32.1,
+      "spread": "GSW -5.5",
+      "favorite": "Golden State Warriors",
+      "pick": "Golden State Warriors",
+      "pick_abbr": "GSW",
+      "moneyline": "-241",
+      "win_probability": 67.9,
+      "confidence": "MEDIUM",
+      "confidence_stars": "\u2605\u2605\u2606",
+      "commence_time": "2026-11-26T03:10:00Z",
+      "line_movement": {
+        "home": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "away": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "pick": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "snapshot_time": "\u2014"
+      },
+      "fatigue": {
+        "home": {
+          "status": "RESTED",
+          "label": "2 days rest \u2705",
+          "battery": 88,
+          "last_game": "Nov 22",
+          "days_rest": 3,
+          "games_last_4d": 1,
+          "travel_miles": 0,
+          "travel_desc": "",
+          "source": "ESPN Scoreboard API"
+        },
+        "away": {
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
+          "last_game": "Nov 23",
+          "days_rest": 2,
+          "games_last_4d": 2,
+          "travel_miles": 0,
+          "travel_desc": "",
+          "source": "ESPN Scoreboard API"
+        }
+      },
+      "edge_factors": [
+        "\ud83d\udcca 35.8pt probability edge"
+      ],
+      "injury_notes": "No key injuries.",
+      "sharp": {
+        "away_t": null,
+        "home_t": null,
+        "source": null,
+        "sharp_signal": null,
+        "sharp_label": "Pending \u2014 check closer to tip-off",
+        "rlm": false
+      },
+      "form": {
+        "home": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        },
+        "away": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        }
+      },
+      "h2h": {
+        "total_meetings": 0,
+        "home_wins": 0,
+        "away_wins": 0,
+        "meetings": [],
+        "source": "\u2014"
+      },
+      "briefing": {
+        "trend": "Golden State Warriors hold a 67.9% edge.",
+        "matchup": "Both rosters appear healthy \u2014 clean line.",
+        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "injury_notes": "No key injuries."
+      },
+      "live": {
+        "status": "pre",
+        "status_detail": "Upcoming",
+        "period": 0,
+        "clock": "",
+        "home_score": 0,
+        "away_score": 0,
+        "spread_alert": null
+      },
+      "news": [
+        {
+          "title": "Player grades: Same song and dance for Thunder in 125-120 loss to Pacers",
+          "source": "USA Today",
+          "link": "https://okcthunderwire.usatoday.com/story/sports/nba/thunder/2026/11/23/player-grades-same-song-and-dance-for-thunder-in-125-120-loss-to-pacers/92936248007/",
+          "published": "2026-11-24T04:42:04Z"
+        },
+        {
+          "title": "Why Yaxel Lendeborg deleted his X account? Warriors star reveals surprising reason",
+          "source": "The Times of India",
+          "link": "https://timesofindia.indiatimes.com/sports/nba/top-stories/why-yaxel-lendeborg-deleted-his-x-account-warriors-star-reveals-surprising-reason/articleshow/136119638.cms",
+          "published": "2026-11-24T04:41:38Z"
+        },
+        {
+          "title": "Deni Avdija scores 31 as Trail Blazers beat 76ers 128-111",
+          "source": "Yahoo Entertainment",
+          "link": "https://sports.yahoo.com/articles/deni-avdija-scores-31-trail-043655181.html",
+          "published": "2026-11-24T04:36:55Z"
+        }
+      ]
+    },
+    {
+      "game": "San Antonio Spurs @ Portland Trail Blazers",
+      "home_team": "Portland Trail Blazers",
+      "away_team": "San Antonio Spurs",
+      "home_abbr": "POR",
+      "away_abbr": "SAS",
+      "home_ml": "+130",
+      "away_ml": "-155",
+      "home_ml_raw": 130,
+      "away_ml_raw": -155,
+      "home_prob": 41.7,
+      "away_prob": 58.3,
+      "spread": "POR +3.5",
+      "favorite": "San Antonio Spurs",
+      "pick": "San Antonio Spurs",
+      "pick_abbr": "SAS",
+      "moneyline": "-155",
+      "win_probability": 58.3,
+      "confidence": "MEDIUM",
+      "confidence_stars": "\u2605\u2605\u2606",
+      "commence_time": "2026-11-26T03:10:00Z",
+      "line_movement": {
+        "home": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "away": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "pick": {
+          "direction": "none",
+          "points_moved": 0,
+          "steam": false,
+          "label": "\u2014",
+          "old_ml": "\u2014",
+          "new_ml": "\u2014"
+        },
+        "snapshot_time": "\u2014"
+      },
+      "fatigue": {
+        "home": {
+          "status": "TRAVEL",
+          "label": "Cross-country travel \ud83d\udfe3",
+          "battery": 50,
+          "last_game": "Nov 23",
+          "days_rest": 2,
+          "games_last_4d": 2,
+          "travel_miles": 2406,
+          "travel_desc": "2,406 mi road trip",
+          "source": "ESPN Scoreboard API"
+        },
+        "away": {
+          "status": "SOME_REST",
+          "label": "1 day rest",
+          "battery": 68,
+          "last_game": "Nov 23",
+          "days_rest": 2,
+          "games_last_4d": 2,
+          "travel_miles": 1459,
+          "travel_desc": "1,459 mi road trip",
+          "source": "ESPN Scoreboard API"
+        }
+      },
+      "edge_factors": [
+        "\u2708\ufe0f POR traveled 2,406 mi"
+      ],
+      "injury_notes": "No key injuries.",
+      "sharp": {
+        "away_t": null,
+        "home_t": null,
+        "source": null,
+        "sharp_signal": null,
+        "sharp_label": "Pending \u2014 check closer to tip-off",
+        "rlm": false
+      },
+      "form": {
+        "home": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        },
+        "away": {
+          "last_10": [],
+          "wins": 0,
+          "losses": 0,
+          "streak": "\u2014",
+          "form_str": "",
+          "source": "\u2014"
+        }
+      },
+      "h2h": {
+        "total_meetings": 0,
+        "home_wins": 0,
+        "away_wins": 0,
+        "meetings": [],
+        "source": "\u2014"
+      },
+      "briefing": {
+        "trend": "San Antonio Spurs hold a 58.3% edge.",
+        "matchup": "Both rosters appear healthy \u2014 clean line.",
+        "steam": "Line stable since open. Pending \u2014 check closer to tip-off",
+        "injury_notes": "No key injuries."
+      },
+      "live": {
+        "status": "pre",
+        "status_detail": "Upcoming",
+        "period": 0,
+        "clock": "",
+        "home_score": 0,
+        "away_score": 0,
+        "spread_alert": null
+      },
+      "news": [
+        {
+          "title": "Player grades: Same song and dance for Thunder in 125-120 loss to Pacers",
+          "source": "USA Today",
+          "link": "https://okcthunderwire.usatoday.com/story/sports/nba/thunder/2026/11/23/player-grades-same-song-and-dance-for-thunder-in-125-120-loss-to-pacers/92936248007/",
+          "published": "2026-11-24T04:42:04Z"
+        },
+        {
+          "title": "Why Yaxel Lendeborg deleted his X account? Warriors star reveals surprising reason",
+          "source": "The Times of India",
+          "link": "https://timesofindia.indiatimes.com/sports/nba/top-stories/why-yaxel-lendeborg-deleted-his-x-account-warriors-star-reveals-surprising-reason/articleshow/136119638.cms",
+          "published": "2026-11-24T04:41:38Z"
+        },
+        {
+          "title": "Deni Avdija scores 31 as Trail Blazers beat 76ers 128-111",
+          "source": "Yahoo Entertainment",
+          "link": "https://sports.yahoo.com/articles/deni-avdija-scores-31-trail-043655181.html",
+          "published": "2026-11-24T04:36:55Z"
         }
       ]
     }
@@ -1028,36 +1464,36 @@
       "profit": 655.48
     },
     "HIGH": {
-      "wins": 59,
+      "wins": 60,
       "losses": 12,
-      "total": 71,
-      "win_pct": 83.1,
-      "roi": -0.3,
-      "profit": -23.51
+      "total": 72,
+      "win_pct": 83.3,
+      "roi": -0.0,
+      "profit": -1.43
     },
     "LOW": {
-      "wins": 29,
+      "wins": 30,
       "losses": 21,
-      "total": 50,
-      "win_pct": 58.0,
-      "roi": 6.1,
-      "profit": 305.15
+      "total": 51,
+      "win_pct": 58.8,
+      "roi": 7.5,
+      "profit": 382.07
     },
     "overall_7d": {
-      "wins": 31,
-      "losses": 12,
-      "total": 43,
-      "win_pct": 72.1,
-      "roi": 5.3,
-      "profit": 226.09
+      "wins": 28,
+      "losses": 7,
+      "total": 35,
+      "win_pct": 80.0,
+      "roi": 17.5,
+      "profit": 612.09
     },
     "overall_30d": {
-      "wins": 137,
-      "losses": 49,
-      "total": 186,
-      "win_pct": 73.7,
-      "roi": 6.2,
-      "profit": 1145.53
+      "wins": 135,
+      "losses": 45,
+      "total": 180,
+      "win_pct": 75.0,
+      "roi": 8.0,
+      "profit": 1435.49
     }
   }
 }
