@@ -3602,9 +3602,11 @@
       "win_probability": 50.0,
       "commence_time": "2026-11-26T01:40:00Z",
       "date": "2026-11-24T09:09:06.407366+00:00",
-      "graded": false,
-      "result": null,
-      "profit": null
+      "graded": true,
+      "result": "WIN",
+      "profit": 100,
+      "home_score": 116,
+      "away_score": 104
     },
     {
       "game": "Chicago Bulls @ Charlotte Hornets",
@@ -3664,9 +3666,11 @@
       "win_probability": 67.9,
       "commence_time": "2026-11-26T03:10:00Z",
       "date": "2026-11-25T04:47:57.303889+00:00",
-      "graded": false,
-      "result": null,
-      "profit": null
+      "graded": true,
+      "result": "WIN",
+      "profit": 41.49,
+      "home_score": 129,
+      "away_score": 110
     },
     {
       "game": "San Antonio Spurs @ Portland Trail Blazers",
@@ -3678,6 +3682,64 @@
       "win_probability": 58.3,
       "commence_time": "2026-11-26T03:10:00Z",
       "date": "2026-11-25T04:47:57.303889+00:00",
+      "graded": true,
+      "result": "LOSS",
+      "profit": -100,
+      "home_score": 116,
+      "away_score": 111
+    },
+    {
+      "game": "Miami Heat @ New York Knicks",
+      "pick": "New York Knicks",
+      "pick_abbr": "NYK",
+      "moneyline": "-169",
+      "moneyline_raw": -169,
+      "confidence": "MEDIUM",
+      "win_probability": 60.3,
+      "commence_time": "2026-11-28T00:10:00Z",
+      "date": "2026-11-26T07:36:17.591735+00:00",
+      "graded": false,
+      "result": null,
+      "profit": null
+    },
+    {
+      "game": "Atlanta Hawks @ Boston Celtics",
+      "pick": "Boston Celtics",
+      "pick_abbr": "BOS",
+      "moneyline": "-361",
+      "moneyline_raw": -361,
+      "confidence": "HIGH",
+      "win_probability": 75.2,
+      "commence_time": "2026-11-28T01:10:00Z",
+      "date": "2026-11-26T07:36:17.591735+00:00",
+      "graded": false,
+      "result": null,
+      "profit": null
+    },
+    {
+      "game": "Denver Nuggets @ Utah Jazz",
+      "pick": "Denver Nuggets",
+      "pick_abbr": "DEN",
+      "moneyline": "-345",
+      "moneyline_raw": -345,
+      "confidence": "HIGH",
+      "win_probability": 74.5,
+      "commence_time": "2026-11-28T02:40:00Z",
+      "date": "2026-11-26T07:36:17.591735+00:00",
+      "graded": false,
+      "result": null,
+      "profit": null
+    },
+    {
+      "game": "Los Angeles Lakers @ San Antonio Spurs",
+      "pick": "San Antonio Spurs",
+      "pick_abbr": "SAS",
+      "moneyline": "-205",
+      "moneyline_raw": -205,
+      "confidence": "MEDIUM",
+      "win_probability": 64.6,
+      "commence_time": "2026-11-28T02:40:00Z",
+      "date": "2026-11-26T07:36:17.591735+00:00",
       "graded": false,
       "result": null,
       "profit": null
@@ -3685,12 +3747,12 @@
   ],
   "summary": {
     "MEDIUM": {
-      "wins": 69,
-      "losses": 28,
-      "total": 97,
-      "win_pct": 71.1,
-      "roi": 6.1,
-      "profit": 593.36
+      "wins": 70,
+      "losses": 29,
+      "total": 99,
+      "win_pct": 70.7,
+      "roi": 5.4,
+      "profit": 534.85
     },
     "HIGH": {
       "wins": 60,
@@ -3701,29 +3763,29 @@
       "profit": -101.43
     },
     "LOW": {
-      "wins": 31,
+      "wins": 32,
       "losses": 23,
-      "total": 54,
-      "win_pct": 57.4,
-      "roi": 5.2,
-      "profit": 282.07
+      "total": 55,
+      "win_pct": 58.2,
+      "roi": 6.9,
+      "profit": 382.07
     },
     "overall_7d": {
-      "wins": 28,
-      "losses": 10,
+      "wins": 27,
+      "losses": 11,
       "total": 38,
-      "win_pct": 73.7,
-      "roi": 10.7,
-      "profit": 405.1
+      "win_pct": 71.1,
+      "roi": 8.1,
+      "profit": 307.59
     },
     "overall_30d": {
-      "wins": 137,
-      "losses": 48,
+      "wins": 136,
+      "losses": 49,
       "total": 185,
-      "win_pct": 74.1,
-      "roi": 6.9,
-      "profit": 1273.37
+      "win_pct": 73.5,
+      "roi": 6.6,
+      "profit": 1227.39
     }
   },
-  "last_graded": "2026-11-26T03:57:55.462826+00:00"
+  "last_graded": "2026-11-26T07:35:32.272308+00:00"
 }
