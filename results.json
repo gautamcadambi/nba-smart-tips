@@ -3570,9 +3570,11 @@
       "win_probability": 50.0,
       "commence_time": "2026-11-25T22:10:00Z",
       "date": "2026-11-24T05:45:36.004186+00:00",
-      "graded": false,
-      "result": null,
-      "profit": null
+      "graded": true,
+      "result": "WIN",
+      "profit": 100,
+      "home_score": 111,
+      "away_score": 104
     },
     {
       "game": "Minnesota Timberwolves @ Oklahoma City Thunder",
@@ -3584,9 +3586,11 @@
       "win_probability": 50.0,
       "commence_time": "2026-11-26T00:40:00Z",
       "date": "2026-11-24T05:45:36.004186+00:00",
-      "graded": false,
-      "result": null,
-      "profit": null
+      "graded": true,
+      "result": "LOSS",
+      "profit": -100,
+      "home_score": 106,
+      "away_score": 113
     },
     {
       "game": "Phoenix Suns @ Houston Rockets",
@@ -3612,9 +3616,11 @@
       "win_probability": 58.3,
       "commence_time": "2026-11-26T00:10:00Z",
       "date": "2026-11-25T04:47:57.303889+00:00",
-      "graded": false,
-      "result": null,
-      "profit": null
+      "graded": true,
+      "result": "LOSS",
+      "profit": -100,
+      "home_score": 105,
+      "away_score": 107
     },
     {
       "game": "Brooklyn Nets @ Milwaukee Bucks",
@@ -3626,9 +3632,11 @@
       "win_probability": 50.6,
       "commence_time": "2026-11-26T01:10:00Z",
       "date": "2026-11-25T04:47:57.303889+00:00",
-      "graded": false,
-      "result": null,
-      "profit": null
+      "graded": true,
+      "result": "LOSS",
+      "profit": -100,
+      "home_score": 97,
+      "away_score": 104
     },
     {
       "game": "Los Angeles Clippers @ Memphis Grizzlies",
@@ -3640,9 +3648,11 @@
       "win_probability": 69.7,
       "commence_time": "2026-11-26T01:10:00Z",
       "date": "2026-11-25T04:47:57.303889+00:00",
-      "graded": false,
-      "result": null,
-      "profit": null
+      "graded": true,
+      "result": "WIN",
+      "profit": 37.88,
+      "home_score": 115,
+      "away_score": 97
     },
     {
       "game": "Sacramento Kings @ Golden State Warriors",
@@ -3675,12 +3685,12 @@
   ],
   "summary": {
     "MEDIUM": {
-      "wins": 68,
-      "losses": 27,
-      "total": 95,
-      "win_pct": 71.6,
-      "roi": 6.9,
-      "profit": 655.48
+      "wins": 69,
+      "losses": 28,
+      "total": 97,
+      "win_pct": 71.1,
+      "roi": 6.1,
+      "profit": 593.36
     },
     "HIGH": {
       "wins": 60,
@@ -3691,29 +3701,29 @@
       "profit": -101.43
     },
     "LOW": {
-      "wins": 30,
-      "losses": 21,
-      "total": 51,
-      "win_pct": 58.8,
-      "roi": 7.5,
-      "profit": 382.07
+      "wins": 31,
+      "losses": 23,
+      "total": 54,
+      "win_pct": 57.4,
+      "roi": 5.2,
+      "profit": 282.07
     },
     "overall_7d": {
-      "wins": 27,
-      "losses": 7,
-      "total": 34,
-      "win_pct": 79.4,
-      "roi": 16.9,
-      "profit": 575.99
+      "wins": 28,
+      "losses": 10,
+      "total": 38,
+      "win_pct": 73.7,
+      "roi": 10.7,
+      "profit": 405.1
     },
     "overall_30d": {
-      "wins": 135,
-      "losses": 46,
-      "total": 181,
-      "win_pct": 74.6,
-      "roi": 7.4,
-      "profit": 1335.49
+      "wins": 137,
+      "losses": 48,
+      "total": 185,
+      "win_pct": 74.1,
+      "roi": 6.9,
+      "profit": 1273.37
     }
   },
-  "last_graded": "2026-11-25T07:44:46.808744+00:00"
+  "last_graded": "2026-11-26T03:57:55.462826+00:00"
 }
