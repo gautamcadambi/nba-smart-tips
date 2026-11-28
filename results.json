@@ -3730,9 +3730,11 @@
       "win_probability": 74.5,
       "commence_time": "2026-11-28T02:40:00Z",
       "date": "2026-11-26T07:36:17.591735+00:00",
-      "graded": false,
-      "result": null,
-      "profit": null
+      "graded": true,
+      "result": "WIN",
+      "profit": 28.99,
+      "home_score": 107,
+      "away_score": 120
     },
     {
       "game": "Los Angeles Lakers @ San Antonio Spurs",
@@ -3744,9 +3746,11 @@
       "win_probability": 64.6,
       "commence_time": "2026-11-28T02:40:00Z",
       "date": "2026-11-26T07:36:17.591735+00:00",
-      "graded": false,
-      "result": null,
-      "profit": null
+      "graded": true,
+      "result": "WIN",
+      "profit": 48.78,
+      "home_score": 99,
+      "away_score": 96
     },
     {
       "game": "Brooklyn Nets @ Toronto Raptors",
@@ -3790,9 +3794,11 @@
       "win_probability": 56.3,
       "commence_time": "2026-11-28T02:10:00Z",
       "date": "2026-11-26T19:59:46.262719+00:00",
-      "graded": false,
-      "result": null,
-      "profit": null
+      "graded": true,
+      "result": "LOSS",
+      "profit": -100,
+      "home_score": 109,
+      "away_score": 113
     },
     {
       "game": "Golden State Warriors @ Portland Trail Blazers",
@@ -3804,9 +3810,11 @@
       "win_probability": 74.4,
       "commence_time": "2026-11-28T02:40:00Z",
       "date": "2026-11-26T19:59:46.262719+00:00",
-      "graded": false,
-      "result": null,
-      "profit": null
+      "graded": true,
+      "result": "WIN",
+      "profit": 29.07,
+      "home_score": 116,
+      "away_score": 94
     },
     {
       "game": "Brooklyn Nets @ Charlotte Hornets",
@@ -3877,49 +3885,63 @@
       "graded": false,
       "result": null,
       "profit": null
+    },
+    {
+      "game": "Philadelphia 76ers @ Houston Rockets",
+      "pick": "Houston Rockets",
+      "pick_abbr": "HOU",
+      "moneyline": "-521",
+      "moneyline_raw": -521,
+      "confidence": "HIGH",
+      "win_probability": 80.6,
+      "commence_time": "2026-11-29T01:40:00Z",
+      "date": "2026-11-28T07:01:56.805112+00:00",
+      "graded": false,
+      "result": null,
+      "profit": null
     }
   ],
   "summary": {
     "MEDIUM": {
-      "wins": 70,
+      "wins": 71,
       "losses": 30,
-      "total": 100,
-      "win_pct": 70.0,
-      "roi": 4.3,
-      "profit": 434.85
+      "total": 101,
+      "win_pct": 70.3,
+      "roi": 4.8,
+      "profit": 483.63
     },
     "HIGH": {
-      "wins": 62,
+      "wins": 64,
       "losses": 14,
-      "total": 76,
-      "win_pct": 81.6,
-      "roi": -2.0,
-      "profit": -150.74
+      "total": 78,
+      "win_pct": 82.1,
+      "roi": -1.2,
+      "profit": -92.68
     },
     "LOW": {
       "wins": 32,
-      "losses": 23,
-      "total": 55,
-      "win_pct": 58.2,
-      "roi": 6.9,
-      "profit": 382.07
+      "losses": 24,
+      "total": 56,
+      "win_pct": 57.1,
+      "roi": 5.0,
+      "profit": 282.07
     },
     "overall_7d": {
-      "wins": 18,
+      "wins": 21,
       "losses": 13,
-      "total": 31,
-      "win_pct": 58.1,
-      "roi": -9.8,
-      "profit": -304.7
+      "total": 34,
+      "win_pct": 61.8,
+      "roi": -5.8,
+      "profit": -197.86
     },
     "overall_30d": {
-      "wins": 130,
-      "losses": 47,
-      "total": 177,
-      "win_pct": 73.4,
-      "roi": 6.7,
-      "profit": 1178.25
+      "wins": 132,
+      "losses": 48,
+      "total": 180,
+      "win_pct": 73.3,
+      "roi": 6.1,
+      "profit": 1094.18
     }
   },
-  "last_graded": "2026-11-28T03:43:52.416294+00:00"
+  "last_graded": "2026-11-28T07:01:11.257197+00:00"
 }
